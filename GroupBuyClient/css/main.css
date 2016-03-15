@@ -188,14 +188,8 @@ a#scrollUp i{
 
 .shop-menu ul li {
 	display:inline-block;
-  padding-left: 15px;
-  padding-right: 15px;
+  margin-right: 20px;
 }
-
-.shop-menu ul li:last-child {
-  padding-right: 0;
-}
-
 
 .shop-menu ul li a {
   background: #FFFFFF;
@@ -210,7 +204,7 @@ a#scrollUp i{
 
 
 .shop-menu ul li a i{
-	margin-right:3px;
+	margin-left:5px;
 }
 
 
@@ -290,7 +284,13 @@ a#scrollUp i{
     background-position: 5px;
 }
 
-
+.user-name {
+  font-size: x-large; 
+  text-align: right; 
+  font-weight: 600;
+  color: #df32cf;
+}
+.
 /*  Dropdown menu*/
 
 .navbar-header 
@@ -322,6 +322,15 @@ ul.sub-menu {
 	display: none;
 	z-index: 999;
 }
+
+.dropdown {
+  direction: rtl;
+}
+
+.dropdown > a > span {
+  margin-left: 5px;
+}
+
 
 .dropdown ul.sub-menu li .active{
   color: #df32cf;
@@ -378,14 +387,14 @@ ul.sub-menu {
   padding-bottom: 20px;
 }
 
-.companyinfo {
+.companyinfo { 
   margin-top: 57px;
 }
 
 .companyinfo h2 {
   color: #B4B1AB;
   font-family: abel;
-  font-size: 27px;
+  font-size: 24px;
   text-transform: uppercase;
 }
 
@@ -399,6 +408,31 @@ ul.sub-menu {
   font-size: 12px;
   font-weight: 300;
 }
+
+-- ////////////////////////////
+
+.companyinfo-title {
+  margin-top: 57px;
+}
+
+.companyinfo-title h2 {
+  color: #B4B1AB;
+  font-family: abel;
+  font-size: 82px;
+  text-transform: uppercase;
+}
+
+.companyinfo-title h2  span{
+  color:#df32cf;
+}
+
+.companyinfo-title p {
+  color: #B3B3AD;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+}
+
 
 .footer-top .col-sm-3{
   overflow: hidden;
@@ -607,6 +641,10 @@ ul.sub-menu {
   padding-left: 100px;
 }
 
+.item-content {
+  text-align: right; 
+  padding-right: 32px;
+}
 
 .pricing {
   position: absolute;
@@ -1538,7 +1576,7 @@ h2.title {
     padding-bottom: 20px;
     padding-top: 20px;
     display: inline-block;
-    width: 745px;
+    width: 558px;
 }
 
 
