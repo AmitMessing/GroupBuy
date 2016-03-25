@@ -104,6 +104,8 @@
     <Content Include="images\home\shipping.jpg" />
     <Content Include="images\icon.png" />
     <Content Include="images\logo.png" />
+    <Content Include="images\logoAndTextColor.png" />
+    <Content Include="images\logoAndTextColor2.png" />
     <Content Include="images\product-details\1.jpg" />
     <Content Include="images\product-details\MinionPen.jpg" />
     <Content Include="images\product-details\new.jpg" />
@@ -198,7 +200,9 @@
     <Content Include="scripts\template\jquery.scrollUp.min.js" />
     <Content Include="scripts\template\main.js" />
     <Content Include="scripts\template\price-range.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="scripts\bootstrap\jquery-1.9.1.min.map" />
     <Content Include="scripts\angularJS\version.json" />
     <Content Include="scripts\angularJS\errors.json" />
