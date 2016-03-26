@@ -1,6 +1,7 @@
 GroupBuyClient/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 GroupBuyClient/bin/GroupBuyClient.pdb
 *.pdb
+GroupBuyClient/bin/*
 GroupBuyClient/bin/*.pdb
 GroupBuyClient/*.csproj.user
 GroupBuyClient/bin/GroupBuyClient.pdb
@@ -21,6 +22,8 @@ GroupBuyClient/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 GroupBuyClient/obj/Debug/GroupBuyClient.csproj.FileListAbsolute.txt
 GroupBuyClient/obj/Debug/GroupBuyClient.dll
 GroupBuyClient/obj/Debug/GroupBuyClient.pdb
+
+GroupBuyServer/GroupBuyServer/bin/*
 GroupBuyServer/GroupBuyServer/bin/Newtonsoft.Json.xml
 GroupBuyServer/GroupBuyServer/bin/System.Net.Http.Formatting.dll
 GroupBuyServer/GroupBuyServer/bin/System.Net.Http.Formatting.xml
