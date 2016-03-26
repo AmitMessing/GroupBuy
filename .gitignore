@@ -66,3 +66,7 @@ GroupBuyServer/packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg
 GroupBuyServer/packages/Newtonsoft.Json.6.0.4/tools/install.ps1
 GroupBuyServer/packages/repositories.config
 GroupBuyClient/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+GroupBuyClient/bin/*
+GroupBuyClient/obj/*
+GroupBuyServer/bin/*
+GroupBuyServer/obj/*
