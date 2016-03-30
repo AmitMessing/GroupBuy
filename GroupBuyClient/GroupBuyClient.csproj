@@ -42,6 +42,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="controllers\homeController.js" />
+    <Content Include="controllers\userController.js" />
     <Content Include="html\404.html" />
     <Content Include="html\blog-single.html" />
     <Content Include="html\blog.html" />
@@ -57,6 +59,7 @@
     <Content Include="css\responsive.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="html\home.html" />
     <Content Include="html\searchResults.html" />
     <Content Include="images\blog\blog-one.jpg" />
     <Content Include="images\blog\blog-three.jpg" />
@@ -124,9 +127,12 @@
     <Content Include="images\shop\product7.jpg" />
     <Content Include="images\shop\product8.jpg" />
     <Content Include="images\shop\product9.jpg" />
-    <Content Include="html\index.html" />
+    <Content Include="index.html" />
     <Content Include="html\login.html" />
     <Content Include="html\product-details.html" />
+    <Content Include="index.js" />
+    <Content Include="routes\app.js" />
+    <Content Include="scripts\angular-ui\angular-ui-router.min.js" />
     <Content Include="scripts\Angular.UI.Bootstrap\Content\ui-bootstrap-csp.css" />
     <Content Include="scripts\angular-ui\ui-bootstrap-tpls.js" />
     <Content Include="scripts\angular-ui\ui-bootstrap-tpls.min.js" />
@@ -200,6 +206,7 @@
     <Content Include="scripts\template\jquery.scrollUp.min.js" />
     <Content Include="scripts\template\main.js" />
     <Content Include="scripts\template\price-range.js" />
+    <Content Include="services\userService.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

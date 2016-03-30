@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en" ng-app="mainApp">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <script src="scripts/bootstrap/jquery-1.9.1.js"></script>
+    <script src="scripts/bootstrap/bootstrap.js"></script>
+    <script src="scripts/angularJS/angular.js"></script>
+    <script src="scripts/angularJS/angular-resource.js"></script>
+    <script src="scripts/angularJS/angular-cookies.js"></script>
+    <script src="scripts/angularJS/angular-animate.js"></script>
+    <script src="scripts/angular-ui/angular-ui-router.min.js"></script>
+    <script src="scripts/angular-ui/ui-bootstrap-tpls.min.js"></script>
+
+    <script src="index.js"></script>
+    <script src="controllers/homeController.js"></script>
+    <script src="controllers/userController.js"></script>
+    <script src="services/userService.js"></script>
+    <script src="routes/app.js"></script>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/price-range.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <title>GroupBuy</title>
+</head><!--/head-->
+<body>
+    <header id="header">
+        <div class="header-middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="logo pull-left">
+                            <a href="index.html">
+                                <img src="images/logoAndTextColor22.png" alt=""
+                                     style="margin-bottom: -62px; height: 270px;" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="my-row">
+                            <div class="shop-menu pull-right">
+                                <ul class="nav navbar-nav">
+                                    <li><a href="#"><span>החשבון שלי</span><i class="fa fa-user"></i></a></li>
+                                    <li><a href="#"><span>רשימת משאלות</span><i class="fa fa-star"></i></a></li>
+                                    <li><a ui-sref="login"><span>התנתק</span><i class="fa fa-lock"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="pull-right user-name"> User טוב שחזרת</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <div class="col-sm-3">
+                            <div style="display: inline-flex">
+                                <a href="searchResults.html" type="button" class="my-btn"> </a>
+                                <input class="search_box" style="text-align: right" type="text" placeholder="חיפוש" />
+                            </div>
+                        </div>
+                        <div class="mainmenu pull-right">
+                            <ul class="nav navbar-nav collapse navbar-collapse">
+                                <li><a href="contact-us.html">קצת עלינו</a></li>
+                                <li class="dropdown">
+                                    <a href="#"><span>קטגוריות</span><i class="fa fa-angle-down"></i></a>
+                                    <ul role="menu" class="sub-menu">
+                                        <li><a href="blog.html">מוצרי חשמל</a></li>
+                                        <li><a href="blog-single.html">בגדים</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">הנמכרים ביותר</a> </li>
+                                <li><a href="index.html" class="active">דף הבית</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><
+    </header>
+
+    <div ui-view></div>
+
+    <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="companyinfo">
+                            <h2><span>Group</span>Buy</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

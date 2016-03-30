@@ -1,83 +1,7 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>Login | E-Shopper</title>
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/font-awesome.min.css" rel="stylesheet">
-    <link href="../css/prettyPhoto.css" rel="stylesheet">
-    <link href="../css/price-range.css" rel="stylesheet">
-    <link href="../css/animate.css" rel="stylesheet">
-	<link href="../css/main.css" rel="stylesheet">
-	<link href="../css/responsive.css" rel="stylesheet">      
-    <link rel="shortcut icon" href="/images/favicon.ico">
-</head><!--/head-->
-
-<body>
-	<header id="header"><!--header-->
-		<div class="header-middle"><!--header-middle-->
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-4">
-						<div class="logo pull-left">
-                            <a href="index.html"><img src="../images/icon.png" alt="" /></a>
-						</div>
-					</div>
-					<div class="col-sm-8">
-						<div class="shop-menu pull-right">
-							<ul class="nav navbar-nav">
-								<li><a href="">החשבון שלי<i class="fa fa-user"></i></a></li>
-								<li><a href="">רשימת המשאלות שלי<i class="fa fa-star"></i></a></li>
-								<li><a href="login.html" class="active">התחבר<i class="fa fa-lock"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div><!--/header-middle-->
-	
-		<div class="header-bottom"><!--header-bottom-->
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-					    <div class="navbar-header">
-					        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-					            <span class="sr-only">Toggle navigation</span>
-					            <span class="icon-bar"></span>
-					            <span class="icon-bar"></span>
-					            <span class="icon-bar"></span>
-					        </button>
-					    </div>
-                        <div class="col-sm-3">
-                            <div style="display: inline-flex">
-                                <a href="searchResults.html" type="button" class="my-btn"> </a>
-                                <input class="search_box" style="text-align: right" type="text" placeholder="חיפוש"/>
-                            </div>
-                        </div>
-						<div class="mainmenu pull-right">
-							<ul class="nav navbar-nav collapse navbar-collapse">
-							    <li><a href="contact-us.html">קצת עלינו</a></li>
-								<li class="dropdown"><a href="#"><span>קטגוריות</span><i class="fa fa-angle-down"></i></a>
-                                    <ul role="menu" class="sub-menu">
-                                        <li><a href="blog.html">מוצרי חשמל</a></li>
-										<li><a href="blog-single.html">בגדים</a></li>
-                                    </ul>
-							    </li>
-                                <li><a href="#">הנמכרים ביותר</a> </li>
-                                <li><a href="index.html">דף הבית</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div><!--/header-bottom-->
-	</header><!--/header-->
-	
-	<section id="form"><!--form-->
-	    <div class="container">
+﻿<div>
+    <section id="form">
+        <!--form-->
+        <div class="container">
             <div class="row">
                 <div class="col-sm-1"></div>
                 <div class="col-sm-4">
@@ -85,10 +9,10 @@
                         <!--sign up form-->
                         <h2>משתמש חדש? הירשם</h2>
                         <form action="#">
-                            <input type="text" placeholder="שם" />
-                            <input type="email" placeholder="אימייל" />
-                            <input type="password" placeholder="סיסמא" />
-                            <button type="submit" class="btn btn-default">הירשם</button>
+                            <input type="text" placeholder="שם" ng-model="registerDetails.userName" />
+                            <input type="email" placeholder="אימייל" ng-model="registerDetails.email" />
+                            <input type="password" placeholder="סיסמא" ng-model="registerDetails.password" />
+                            <button type="submit" ng-click="register()" class="btn btn-default">הירשם</button>
                         </form>
                     </div><!--/sign up form-->
                 </div>
@@ -99,43 +23,19 @@
                     <div class="login-form">
                         <!--login form-->
                         <h2>התחבר לחשבון שלך</h2>
-                        <form action="#">
-                            <input type="text" placeholder="שם" />
-                            <input type="email" placeholder="אימייל" />
+                        <form>
+                            <input type="text" placeholder="שם" ng-model="loginDetails.userName" />
+                            <input type="password" placeholder="סיסמא" ng-model="loginDetails.password" />
                             <span>
                                 <input type="checkbox" class="checkbox">
                                 השאר אותי מחובר
                             </span>
-                            <button type="submit" class="btn btn-default">התחבר</button>
+                            <button type="submit" ng-click="login()" class="btn btn-default">התחבר</button>
                         </form>
                     </div><!--/login form-->
                 </div>
                 <div class="col-sm-1"></div>
             </div>
-	    </div>
-	</section><!--/form-->
-	
-    <footer id="footer">
-        <div class="footer-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-2">
-                        <div class="companyinfo">
-                            <h2><span>Group</span>Buy</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
-    </footer>
-
-  
-    <script src="js/jquery.js"></script>
-	<script src="js/price-range.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.prettyPhoto.js"></script>
-    <script src="js/main.js"></script>
-</body>
-</html>
+    </section><!--/form-->
+</div>
