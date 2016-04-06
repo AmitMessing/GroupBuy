@@ -1,4 +1,4 @@
-mainApp.controller('userController',['$scope','$state','$resource','userService', function ($scope, $state,$resource, userService) {
+mainApp.controller('userController', ['$scope', '$state', '$http', 'userService', function ($scope, $state, $http, userService) {
     var user = userService.getLoggedUser();
     if(user != null){
         $scope.user = JSON.parse(user);
@@ -42,12 +42,8 @@ mainApp.controller('userController',['$scope','$state','$resource','userService'
     $scope.login = function (){
         if(validateLoginFields())
         {
-            $.ajax({
-                method   : 'POST',
-                url      : '/login',
-                data     : $scope.loginDetails,
-                dataType : 'json',
-                success: function(user) {
+            $http.post("/GroupBuyServer/api/login/", $scope.loginDetails)
+                .success (function(user) {
                     if(user)
                     {
                         userService.setLoggedUSer(user);
@@ -58,6 +54,9 @@ mainApp.controller('userController',['$scope','$state','$resource','userService'
                         $scope.$apply();
                     }
                 }
+            )
+            .error(function(data) {
+                console.log(data);
             });
         }
     };
