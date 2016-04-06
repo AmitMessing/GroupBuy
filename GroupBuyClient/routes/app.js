@@ -1,3 +1,4 @@
+
 angular.module('uiRouterApp', [])
     .config(['$stateProvider', '$urlRouterProvider', '$locationProvider',
         function ($stateProvider,   $urlRouterProvider, $locationProvider) {
@@ -16,5 +17,17 @@ angular.module('uiRouterApp', [])
                     url: '/login',
                     templateUrl: 'html/login.html',
                     controller: 'userController'
+                }).
+                state('productDetails',
+                {
+                    url: '/productDetails',
+                    templateUrl: 'html/product-details.html',
+                    controller: ''
+                }).
+                state('contactUs',
+                {
+                    url: '/contactUs',
+                    templateUrl: 'html/contact-us.html',
+                    controller:''
                 })
 }]);
