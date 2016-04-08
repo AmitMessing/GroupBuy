@@ -11,34 +11,32 @@ namespace GroupBuyServer.Utils
 {
     public static class NHibernateHandler
     {
-        private static readonly ISessionFactory _sessionFactory = null;
-        private static ISession _currSession = null;
-
-        static NHibernateHandler()
-        {
-            _sessionFactory = InitializeSessionFactory();
-        }
-
-        public static ISession GetSession {
+        private static ISession _currSession;
+        public static ISession CurrSession {
             get
             {
                 if (_currSession == null)
                 {
-                    _currSession = _sessionFactory.OpenSession(); 
+                    return OpenSession();
                 }
                 return _currSession;
             }
-        }
+            private set { _currSession = value; }
+        } 
 
         private static ISessionFactory InitializeSessionFactory()
         {
             return Fluently.Configure()
-                    .Database(MsSqlConfiguration.MsSql2012
-                                .ConnectionString(@"Server=.\SQLEXPRESS;Database=GroupBuy;User Id=Yoni-PC\Yoni;")
-                                .ShowSql()
-                    )
-                    .Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly()))
+                .Database(MsSqlConfiguration.MsSql2012
+                    .ConnectionString(@"Server=.\SQLEXPRESS;Database=GroupBuy;User Id=Amit; Password=12345;")
+                    .ShowSql()
+                ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly()))
                     .BuildSessionFactory();
+        }
+
+        private static ISession OpenSession()
+        {
+             return InitializeSessionFactory().OpenSession();
         }
     }
 }

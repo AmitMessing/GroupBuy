@@ -13,6 +13,7 @@ using NHibernate;
 
 namespace GroupBuyServer.Controllers
 {
+    [RoutePrefix("/GroupBuyServer/api/login/")]
     public class LoginController : ApiController
     {
         [HttpPost]
