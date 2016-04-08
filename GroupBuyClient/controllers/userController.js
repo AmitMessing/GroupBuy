@@ -51,7 +51,7 @@ mainApp.controller('userController', ['$scope', '$state', '$http', 'userService'
                     }
                     else {
                         $scope.error = "שם משתמש או סיסמא שגויים, נסה שנית";
-                        $scope.$apply();
+                        alert($scope.error);
                     }
                 }
             )

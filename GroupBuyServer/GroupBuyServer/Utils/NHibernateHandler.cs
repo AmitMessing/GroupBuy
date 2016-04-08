@@ -28,7 +28,7 @@ namespace GroupBuyServer.Utils
         {
             return Fluently.Configure()
                 .Database(MsSqlConfiguration.MsSql2012
-                    .ConnectionString(@"Server=.\SQLEXPRESS;Database=GroupBuy;User Id=Amit; Password=12345;")
+                    .ConnectionString(@"Server=.\SQLEXPRESS;Database=GroupBuy;User Id=groupbuy; Password=groupbuy123;")
                     .ShowSql()
                 ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly()))
                     .BuildSessionFactory();
