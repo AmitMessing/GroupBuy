@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Http.Description;
@@ -19,15 +20,15 @@ namespace GroupBuyServer.Controllers
         [HttpPost]
         public IHttpActionResult Login(JObject jsonLoginDetails)
         {
-            string strUserName = jsonLoginDetails["userName"].Value<string>();
-            string strPassword = jsonLoginDetails["password"].Value<string>();
+            var strUserName = jsonLoginDetails["userName"].Value<string>();
+            var strPassword = jsonLoginDetails["password"].Value<string>();
 
-            using (ISession session = NHibernateHandler.GetSession)
+            using (var session = NHibernateHandler.CurrSession)
             {
                 var user = session.QueryOver<User>()
-                    .Where(x => x.FirstName.Equals(strUserName) && x.Password.Equals(strPassword));
+                    .Where(x => x.FirstName == strUserName).And(x => x.Password == strPassword).SingleOrDefault();
 
-                return this.Ok(user);
+                return Ok(user);
             }
         }
     }
