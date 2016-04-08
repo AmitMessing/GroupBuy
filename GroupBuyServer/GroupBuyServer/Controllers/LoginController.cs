@@ -8,6 +8,8 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using GroupBuyServer.Models;
 using Newtonsoft.Json.Linq;
+using GroupBuyServer.Utils;
+using NHibernate;
 
 namespace GroupBuyServer.Controllers
 {
@@ -19,7 +21,13 @@ namespace GroupBuyServer.Controllers
             string strUserName = jsonLoginDetails["userName"].Value<string>();
             string strPassword = jsonLoginDetails["password"].Value<string>();
 
-            return this.Ok(new User());
+            using (ISession session = NHibernateHandler.GetSession)
+            {
+                var user = session.QueryOver<User>()
+                    .Where(x => x.FirstName.Equals(strUserName) && x.Password.Equals(strPassword));
+
+                return this.Ok(user);
+            }
         }
     }
 }
