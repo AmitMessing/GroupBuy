@@ -25,7 +25,7 @@ namespace GroupBuyServer.Controllers
 
             using (var session = NHibernateHandler.CurrSession)
             {
-                var user = session.QueryOver<User>()
+                User user = session.QueryOver<User>()
                     .Where(x => x.FirstName == strUserName).And(x => x.Password == strPassword).SingleOrDefault();
 
                 return Ok(user);
