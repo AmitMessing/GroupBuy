@@ -1,5 +1,5 @@
 ﻿.main-toolbar {
-    background-color: white !important;
+    background-color: #FAFAFA !important;
 }
 
 .logo {
@@ -35,6 +35,10 @@
 
 .search-box .categories-select {
     width: 250px;
+}
+
+.shell {
+    width: 80%;
 }
 
 .fabSpeedDialdemoBasicUsage .text-capitalize {

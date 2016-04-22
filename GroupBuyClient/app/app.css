@@ -7,6 +7,7 @@
 
 body {
     font-family: 'Segoe UI';
+    background-color: #FAFAFA !important;
     height: 100vh;
     width: 100vw;
 }

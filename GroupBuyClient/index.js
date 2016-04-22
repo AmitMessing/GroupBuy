@@ -12,6 +12,9 @@
 mainApp.config(function ($mdThemingProvider, $urlRouterProvider) {
     $mdThemingProvider.theme('default')
       .primaryPalette('light-blue')
+      .backgroundPalette('grey', {
+            'default': '50'
+        })
       .accentPalette('cyan');
 
     $urlRouterProvider.otherwise('/home');

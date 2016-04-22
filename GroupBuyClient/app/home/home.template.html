@@ -1,1 +1,16 @@
-﻿<span>HOMEPAGE</span>
+﻿<div flex class="homepage" layout="row" layout-align="center center">
+    <md-content flex="80" layout-wrap layout-xs="column" layout="row" layout-align="start center">
+        <md-card class="product-card" ng-repeat="product in products">
+            <md-card-content layout="column" layout-align="space-between">
+                <img src="{{product.img}}" />
+                <span class="product-name">{{product.name}}</span>
+                <p>{{product.content}}</p>
+            </md-card-content>
+            <div class="price-box" layout="row" layout-align="center center">
+                <span>{{product.price}}</span>
+                <md-icon style="margin: 0" class="material-icons md-light">euro_symbol</md-icon>
+            </div>
+        </md-card>
+
+    </md-content>
+</div>
