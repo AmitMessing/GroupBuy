@@ -1,0 +1,52 @@
+﻿.main-toolbar {
+    background-color: white !important;
+}
+
+.logo {
+    margin-top: 30px;    
+}
+
+.main-toolbar .logo h2 {
+  color: #B4B1AB;
+  font-family: 'abel';
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+.main-toolbar .logo  span{
+  color:#03A9F4;
+}
+
+.main-toolbar .user-pic {
+    border-radius: 50%; 
+    height: 36px !important; 
+    width: 36px !important;
+}
+
+.search-box {
+    margin: 20px 0px;
+}
+
+.search-box .search-product {
+    width: 450px;
+    margin-top: 42px;
+    margin-right: 10px;
+}
+
+.search-box .categories-select {
+    width: 250px;
+}
+
+.fabSpeedDialdemoBasicUsage .text-capitalize {
+  text-transform: capitalize; }
+.fabSpeedDialdemoBasicUsage .md-fab:hover, .fabSpeedDialdemoBasicUsage .md-fab.md-focused {
+  background-color: #000 !important; }
+.fabSpeedDialdemoBasicUsage p.note {
+  font-size: 1.2rem; }
+.fabSpeedDialdemoBasicUsage .lock-size {
+  min-width: 300px;
+  min-height: 300px;
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto; }

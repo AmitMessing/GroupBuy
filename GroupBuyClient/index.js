@@ -1,12 +1,21 @@
 ﻿mainApp = angular.module('mainApp',
     [
         'ui.router',
-        'uiRouterApp',
         'ngCookies',
         'ngAnimate',
-        'ngResource'
+        'ngResource',
+        'ngMaterial'
     ]
 );
+
+
+mainApp.config(function ($mdThemingProvider, $urlRouterProvider) {
+    $mdThemingProvider.theme('default')
+      .primaryPalette('light-blue')
+      .accentPalette('cyan');
+
+    $urlRouterProvider.otherwise('/home');
+});
 
 mainApp.factory('socket', function ($rootScope) {
         var socket = io.connect();

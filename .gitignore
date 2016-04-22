@@ -22,6 +22,7 @@ GroupBuyClient/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 GroupBuyClient/obj/Debug/GroupBuyClient.csproj.FileListAbsolute.txt
 GroupBuyClient/obj/Debug/GroupBuyClient.dll
 GroupBuyClient/obj/Debug/GroupBuyClient.pdb
+GroupBuyClient/bower_components/*
 
 GroupBuyServer/GroupBuyServer/bin/*
 GroupBuyServer/GroupBuyServer/bin/Newtonsoft.Json.xml
