@@ -4,6 +4,7 @@
 
 @import 'home/home.css';
 @import 'shell/shell.css';
+@import 'product/product.css';
 
 body {
     font-family: 'Segoe UI';

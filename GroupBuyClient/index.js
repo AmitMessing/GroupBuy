@@ -5,6 +5,7 @@
         'ngAnimate',
         'ngResource',
         'ngMaterial'
+        
     ]
 );
 
