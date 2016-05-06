@@ -1,56 +1,61 @@
 ﻿<div layout="column" layout-align="start center">
-        <md-toolbar class="main-toolbar">
-            <div class="md-toolbar-tools">
-                <md-button class="md-icon-button" ng-click="" aria-label="Menu">
-                    <md-icon class="material-icons md-dark">menu</md-icon>
-                </md-button>
-                <span flex></span>
-                <div class="logo" ng-click="goHome()">
-                    <h2><span>Group</span>Buy</h2>
-                </div>
-                <span flex></span>
-                <md-button class="md-icon-button" aria-label="View cart" aria-label="View Shopping cart">
-                    <md-icon class="material-icons md-dark">shopping_cart</md-icon>
-                    <md-tooltip>View Cart</md-tooltip>
-                </md-button>
-                <div class="lock-size" ng-cloak layout="row" layout-align="center center">
-                    <md-fab-speed-dial style="height: 40px!important" class="md-fling" md-open="isOpen" md-direction="down">
-                        <md-fab-trigger>
-                            <md-button class="md-icon-button" style="padding: 0" aria-label="More">
-                                <img class="user-pic md-fab" style=" margin-top: 5px;" alt="" src="../../images/myAvatar.png">
-                            </md-button>
-                        </md-fab-trigger>
-                        <md-fab-actions>
-                            <md-button aria-label="Twitter" class="md-fab md-raised md-mini">
-                                <md-icon class="material-icons md-dark">fingerprint</md-icon>
-                            </md-button>
-                            <md-button aria-label="Facebook" class="md-fab md-raised md-mini">
-                                <md-icon class="material-icons md-dark">favorite_border</md-icon>
-                            </md-button>
-                            <md-button aria-label="Google Hangout" class="md-fab md-raised md-mini">
-                                <md-icon class="material-icons md-dark">query_builder</md-icon>
-                            </md-button>
-                        </md-fab-actions>
-                    </md-fab-speed-dial>
-                </div>
-            </div>
-        </md-toolbar>
-        <div class="search-box" layout="row" layout-align="center center">
-            <md-input-container md-no-float class="md-block search-product">
-                <input ng-model="searchText" placeholder="search a product">
-            </md-input-container>
-            <md-input-container class="categories-select">
-                <label>categories</label>
-                <md-select ng-model="selectedCategories" multiple>
-                    <md-optgroup>
-                        <md-option ng-value="category" ng-repeat="category in categories">{{category}}</md-option>
-                    </md-optgroup>
-                </md-select>
-            </md-input-container>
-            <md-button class="md-icon-button" aria-label="View cart" aria-label="View Shopping cart">
-                <md-icon class="material-icons md-dark">search</md-icon>
-                <md-tooltip>search</md-tooltip>
+    <md-toolbar class="main-toolbar" scroll ng-class="{scrolling:boolChangeClass}">
+        <div class="md-toolbar-tools">
+            <md-button class="md-icon-button" ng-click="" aria-label="Menu">
+                <md-icon class="material-icons md-dark">menu</md-icon>
             </md-button>
+            <div class="logo" ng-class="{scrolling:boolChangeClass}" ng-click=" gohome()">
+                <h2>
+                    <span>
+                        Group
+                    </span>
+                    Buy
+                </h2>
+            </div>
+            <span flex></span>
+            <span flex></span>
+            <md-button class="md-icon-button" aria-label="View cart" aria-label="View Shopping cart">
+                <md-icon class="material-icons md-dark">shopping_cart</md-icon>
+                <md-tooltip>View Cart</md-tooltip>
+            </md-button>
+            <div class="lock-size" ng-cloak layout="row" layout-align="center center">
+                <md-fab-speed-dial style="height: 40px !important" class="md-fling" md-open="isOpen" md-direction="down">
+                    <md-fab-trigger>
+                        <md-button class="md-icon-button" style="padding: 0" aria-label="More">
+                            <img class="user-pic md-fab" style="margin-top: 5px;" alt="" src="../../images/myAvatar.png">
+                        </md-button>
+                    </md-fab-trigger>
+                    <md-fab-actions>
+                        <md-button aria-label="Twitter" class="md-fab md-raised md-mini">
+                            <md-icon class="material-icons md-dark">fingerprint</md-icon>
+                        </md-button>
+                        <md-button aria-label="Facebook" class="md-fab md-raised md-mini">
+                            <md-icon class="material-icons md-dark">favorite_border</md-icon>
+                        </md-button>
+                        <md-button aria-label="Google Hangout" class="md-fab md-raised md-mini">
+                            <md-icon class="material-icons md-dark">query_builder</md-icon>
+                        </md-button>
+                    </md-fab-actions>
+                </md-fab-speed-dial>
+            </div>
         </div>
-    <div ui-view flex layout="column" style="overflow: auto; "></div>
+    </md-toolbar>
+    <div class="search-box" layout="row" layout-align="center center">
+        <md-input-container md-no-float class="md-block search-product">
+            <input ng-model="searchText" placeholder="search a product">
+        </md-input-container>
+        <md-input-container class="categories-select">
+            <label>categories</label>
+            <md-select ng-model="selectedCategories" multiple>
+                <md-optgroup>
+                    <md-option ng-value="category" ng-repeat="category in categories">{{category}}</md-option>
+                </md-optgroup>
+            </md-select>
+        </md-input-container>
+        <md-button class="md-icon-button" aria-label="View cart" aria-label="View Shopping cart">
+            <md-icon class="material-icons md-dark">search</md-icon>
+            <md-tooltip>search</md-tooltip>
+        </md-button>
+    </div>
+    <div ui-view flex layout="column" style="overflow: auto;"></div>
 </div>

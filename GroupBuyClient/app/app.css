@@ -9,8 +9,8 @@
 body {
     font-family: 'Segoe UI';
     background-color: #FAFAFA !important;
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
 }
 
 /* Rules for sizing the icon. */

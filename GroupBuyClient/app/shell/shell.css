@@ -1,16 +1,26 @@
-﻿.main-toolbar {
+﻿
+
+.main-toolbar {
     background-color: #FAFAFA !important;
+    position: fixed;
+    -webkit-transition: background 0.5s ease;
 }
 
 .logo {
-    margin-top: 30px;    
+    margin-top: 3px;    
 }
+
+.main-toolbar.scrolling {
+    background-color: #dddbd7 !important;
+}
+
 
 .main-toolbar .logo h2 {
   color: #B4B1AB;
   font-family: 'abel';
   font-size: 48px;
   text-transform: uppercase;
+  -webkit-transition: color 0.5s ease;
 }
 
 .main-toolbar .logo  span{
@@ -24,7 +34,7 @@
 }
 
 .search-box {
-    margin: 20px 0px;
+    margin: 50px 0px;
 }
 
 .search-box .search-product {
