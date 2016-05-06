@@ -1,17 +1,23 @@
-﻿
-
-.main-toolbar {
+﻿.main-toolbar {
     background-color: #FAFAFA !important;
     position: fixed;
-    -webkit-transition: background 0.5s ease;
+    box-shadow: none;
+    -webkit-transition: box-shadow 0.5s linear;
 }
 
 .logo {
     margin-top: 3px;    
 }
 
+.more-button {
+    padding: 0;
+    height: 45px !important;
+    width: 45px !important;
+    background: #FF9100 !important;
+}
+
 .main-toolbar.scrolling {
-    background-color: #dddbd7 !important;
+    box-shadow: 0 4px 9px rgba(0, 0, 0, .2);
 }
 
 
@@ -27,20 +33,33 @@
   color:#03A9F4;
 }
 
-.main-toolbar .user-pic {
-    border-radius: 50%; 
-    height: 36px !important; 
-    width: 36px !important;
+.user-pic {
+    margin-bottom: 15px;
+    margin-right: 1px;
+    color: white !important;
 }
 
 .search-box {
-    margin: 50px 0px;
+    margin: 40px 0px;
+    width: 0;
+    -webkit-transition: width 1s ease;
 }
 
-.search-box .search-product {
-    width: 450px;
+.search {
+    width: 60%;
     margin-top: 42px;
     margin-right: 10px;
+}
+
+.search-product {
+    width: 0;
+    margin-top: 40px;
+    margin-right: 10px;
+    -webkit-transition: width 1s ease;
+}
+
+.searchProduct {
+     width: 100%;
 }
 
 .search-box .categories-select {

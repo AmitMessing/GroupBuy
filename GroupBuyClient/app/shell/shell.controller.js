@@ -6,6 +6,15 @@
             $scope.goHome = function() {
                 $state.go('shell.home');
             };
+            $scope.isSearching = false;
+
+            $scope.searchClicked = function() {
+                if (!$scope.isSearching) {
+                    $scope.isSearching = true;
+                } else {
+                    $scope.isSearching = false;
+                }
+            };
         }
     ]);
 
@@ -13,7 +22,7 @@ mainApp.directive("scroll", function ($window) {
     return function (scope, element, attrs) {
 
         angular.element($window).bind("scroll", function () {
-            if (this.pageYOffset >= 100) {
+            if (this.pageYOffset >= 30) {
                 scope.boolChangeClass = true;
                 console.log('Scrolled below header.');
             } else {
