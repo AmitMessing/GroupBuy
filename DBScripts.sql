@@ -38,7 +38,6 @@ GO
 CREATE TABLE [dbo].[t_categories](
 	[id] [int] NOT NULL,
 	[name] [nvarchar](50) NOT NULL,
-	[desciption] [nvarchar](max) NULL,
  CONSTRAINT [PK_t_category] PRIMARY KEY CLUSTERED 
 (
 	[id] ASC

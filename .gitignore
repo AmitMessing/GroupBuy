@@ -24,6 +24,8 @@ GroupBuyClient/obj/Debug/GroupBuyClient.dll
 GroupBuyClient/obj/Debug/GroupBuyClient.pdb
 GroupBuyClient/bower_components/*
 
+GroupBuyServer/SeedProject/bin/*
+GroupBuyServer/SeedProject/obj/*
 GroupBuyServer/GroupBuyServer/bin/*
 GroupBuyServer/GroupBuyServer/bin/Newtonsoft.Json.xml
 GroupBuyServer/GroupBuyServer/bin/System.Net.Http.Formatting.dll

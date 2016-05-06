@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Semantics3</id>
+    <version>1.0.0.27</version>
+    <title>Semantics3 API C# Library</title>
+    <authors>Srinivasan Kidambi, srinivas@semantics3.com</authors>
+    <owners>Srinivasan Kidambi, srinivas@semantics3.com</owners>
+    <licenseUrl>http://www.semantics3.com/</licenseUrl>
+    <projectUrl>https://github.com/Semantics3/semantics3-csharp</projectUrl>
+    <iconUrl>http://www.semantics3.com/</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>C# Client Library for querying Semantics3 APIs</description>
+    <summary />
+    <releaseNotes>Semantics3 C# Client. Target Frameworks for this library build are .NET Framework 4.0 and .NET Framework 4.5. Change your Target Framework from .NET Framework 4.0 (or 4.5) Client Profile to just .NET Framework 4.0 (or 4.5) in your project properties if need to. Instructions on how to use this library to query Semantics3 Product Data API and their source of the project is available in the github page https://github.com/Semantics3/semantics3-csharp</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>Semantics3 API C# OAuth Products Data</tags>
+    <dependencies>
+      <dependency id="Google.GData.Client" version="2.2.0.0" />
+      <dependency id="Newtonsoft.Json" version="4.5.0.0" />
+    </dependencies>
+  </metadata>
+</package>

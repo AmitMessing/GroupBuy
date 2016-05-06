@@ -1,6 +1,6 @@
 ﻿using FluentNHibernate.Mapping;
 
-namespace GroupBuyServer.Models
+namespace SeedProject.Models
 {
     public class Category
     {
@@ -14,7 +14,7 @@ namespace GroupBuyServer.Models
         {
             Table("t_categories");
 
-            Id(x => x.Id, "id");
+            Id(x => x.Id, "id").GeneratedBy.Assigned();
             Map(x => x.Name, "name");
         }
     }

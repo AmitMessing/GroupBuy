@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBuyServer", "GroupBuyServer\GroupBuyServer.csproj", "{BF4ECABE-4FE3-4C20-8257-C623739E02DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedProject", "SeedProject\SeedProject.csproj", "{2B5113D1-B72A-45F6-B66A-6AA833422ECC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BF4ECABE-4FE3-4C20-8257-C623739E02DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF4ECABE-4FE3-4C20-8257-C623739E02DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF4ECABE-4FE3-4C20-8257-C623739E02DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5113D1-B72A-45F6-B66A-6AA833422ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5113D1-B72A-45F6-B66A-6AA833422ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5113D1-B72A-45F6-B66A-6AA833422ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5113D1-B72A-45F6-B66A-6AA833422ECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
