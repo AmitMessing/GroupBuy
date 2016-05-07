@@ -38,11 +38,16 @@ GO
 CREATE TABLE [dbo].[t_categories](
 	[id] [int] NOT NULL,
 	[name] [nvarchar](50) NOT NULL,
+	[parent_id] [int] NOT NULL,
  CONSTRAINT [PK_t_category] PRIMARY KEY CLUSTERED 
 (
 	[id] ASC
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[t_categories] ADD  DEFAULT ((1)) FOR [parent_id]
 
 GO
 

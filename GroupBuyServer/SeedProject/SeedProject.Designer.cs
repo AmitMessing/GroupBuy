@@ -35,16 +35,19 @@
             this.lb_users = new System.Windows.Forms.Label();
             this.lb_categories = new System.Windows.Forms.Label();
             this.lb_products = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.cb_createBat = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btn_seed
             // 
             this.btn_seed.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_seed.Location = new System.Drawing.Point(126, 22);
+            this.btn_seed.Location = new System.Drawing.Point(42, 26);
             this.btn_seed.Name = "btn_seed";
-            this.btn_seed.Size = new System.Drawing.Size(93, 45);
+            this.btn_seed.Size = new System.Drawing.Size(254, 45);
             this.btn_seed.TabIndex = 0;
-            this.btn_seed.Text = "Seed";
+            this.btn_seed.Text = "Seed Users";
             this.btn_seed.UseVisualStyleBackColor = true;
             this.btn_seed.Click += new System.EventHandler(this.btn_seed_Click);
             // 
@@ -62,7 +65,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(39, 116);
+            this.label2.Location = new System.Drawing.Point(39, 207);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(78, 17);
             this.label2.TabIndex = 2;
@@ -72,7 +75,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(39, 143);
+            this.label3.Location = new System.Drawing.Point(40, 297);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(67, 17);
             this.label3.TabIndex = 3;
@@ -94,7 +97,7 @@
             this.lb_categories.AutoSize = true;
             this.lb_categories.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_categories.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.lb_categories.Location = new System.Drawing.Point(135, 118);
+            this.lb_categories.Location = new System.Drawing.Point(135, 209);
             this.lb_categories.Name = "lb_categories";
             this.lb_categories.Size = new System.Drawing.Size(32, 17);
             this.lb_categories.TabIndex = 5;
@@ -105,17 +108,52 @@
             this.lb_products.AutoSize = true;
             this.lb_products.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_products.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.lb_products.Location = new System.Drawing.Point(134, 145);
+            this.lb_products.Location = new System.Drawing.Point(135, 299);
             this.lb_products.Name = "lb_products";
             this.lb_products.Size = new System.Drawing.Size(32, 17);
             this.lb_products.TabIndex = 6;
             this.lb_products.Text = "wait";
             // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(42, 127);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(254, 45);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "Seed Categories";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 22F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(42, 240);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(254, 45);
+            this.button2.TabIndex = 8;
+            this.button2.Text = "Seed Products";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // cb_createBat
+            // 
+            this.cb_createBat.AutoSize = true;
+            this.cb_createBat.Location = new System.Drawing.Point(119, 178);
+            this.cb_createBat.Name = "cb_createBat";
+            this.cb_createBat.Size = new System.Drawing.Size(93, 17);
+            this.cb_createBat.TabIndex = 9;
+            this.cb_createBat.Text = "create .bat file";
+            this.cb_createBat.UseVisualStyleBackColor = true;
+            // 
             // SeedProject
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(329, 187);
+            this.ClientSize = new System.Drawing.Size(329, 345);
+            this.Controls.Add(this.cb_createBat);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lb_products);
             this.Controls.Add(this.lb_categories);
             this.Controls.Add(this.lb_users);
@@ -139,6 +177,9 @@
         private System.Windows.Forms.Label lb_users;
         private System.Windows.Forms.Label lb_categories;
         private System.Windows.Forms.Label lb_products;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.CheckBox cb_createBat;
 
     }
 }
