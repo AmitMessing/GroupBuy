@@ -2,8 +2,13 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
 using System.Text;
+using FluentNHibernate.Utils;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using NHibernate.Dialect;
+using NHibernate.Linq;
 using SeedProject.Models;
 
 namespace SeedProject
@@ -11,7 +16,9 @@ namespace SeedProject
     public class SeedLogic
     {
         private const string commandString =
-            "curl -G -H \"api_key: SEM3DA0FE4E36F0F76F66177649FD8C0CE89\" https://api.semantics3.com/test/v1/products --data-urlencode 'q={\"cat_id\":\"{0}\", \"offset\": {1} }' > C:\\GroupBuy\\GroupBuyServer\\SeedProject\\ProductsData\\{2}.txt";
+            "curl -G -H \"api_key: SEM39F749F6C099026F730BBF7CCFF0FC859\" https://api.semantics3.com/test/v1/products --data-urlencode 'q={\"cat_id\":\"{0}\", \"offset\": {1} }' > C:\\GroupBuy\\GroupBuyServer\\SeedProject\\ProductsData\\{2}.txt";
+
+        public List<Category> Categories { get; set; }
 
         public int SeddUsers()
         {
@@ -61,22 +68,138 @@ namespace SeedProject
 
         public int SeddProducts()
         {
-            foreach (string line in File.ReadLines("../../ProductsData/categoriesFiles.txt", Encoding.UTF8))
+            List<Product> allProducts = LoadAllProducts();
+            int success = 0;
+
+            foreach (var product in allProducts)
             {
-                using (var re = File.OpenText("../../ProductsData/" + line))
-                using (var reader = new JsonTextReader(re))
+                using (var session = NHibernateHandler.CurrSession)
                 {
-                    JsonTextReader jsonTextReader = reader;
+                    try
+                    {
+                        session.Save(product);
+                        session.Flush();
+                        success++;
+                    }
+                    catch (Exception ex)
+                    {
+                    }
                 }
             }
-            return 0;
+
+            return success;
+        }
+
+        private DateTime RandomPastDate(Random random)
+        {
+            var start = new DateTime(1995, 1, 1);
+            int range = (DateTime.Today - start).Days;
+            return start.AddDays(random.Next(range));
+        }
+
+        private DateTime RandomFutureDate(Random random)
+        {
+            var start = new DateTime(1995, 1, 1);
+            int range = (DateTime.Today - start).Days;
+            return DateTime.Now.AddDays(random.Next(range));
+        }
+
+        private void LoadAllCategoriesFromDb()
+        {
+            using (var session = NHibernateHandler.CurrSession)
+            {
+                Categories = session.Query<Category>().ToList();
+            }
+        }
+
+        private List<Product> LoadAllProducts()
+        {
+            var products = new List<Product>();
+            int productSquence = 1;
+
+            foreach (string line in File.ReadLines("../../ProductsData/categoriesFiles.txt", Encoding.UTF8))
+            {
+                List<Product> newProducts = LoadAllCurrentFileProducts(line, productSquence);
+                products.AddRange(newProducts);
+                productSquence = productSquence + newProducts.Count;
+            }
+
+            return products;
+        }
+
+        private List<Product> LoadAllCurrentFileProducts(string fileName, int productSquence)
+        {
+            var allProducts = new List<Product>();
+            if (Categories == null)
+            {
+                LoadAllCategoriesFromDb();
+            }
+
+            var random = new Random();
+
+            try
+            {
+                var file = File.ReadAllText("../../ProductsData/" + fileName);
+
+
+                if (!string.IsNullOrEmpty(file))
+                {
+
+                    JToken products = JToken.Parse(file)["results"];
+
+                    foreach (var product in products)
+                    {
+                        Category category = Categories.FirstOrDefault(x => x.Id == product["cat_id"].Value<int>());
+                        if (category != null && product["price"] != null)
+                        {
+                            var newProduct = new Product
+                            {
+                                Id = productSquence,
+                                Name = product["name"].Value<string>(),
+                                Categories = new List<Category> {category},
+                                BasicPrice = product["price"].Value<double>(),
+                                PublishDate = RandomPastDate(random),
+                                EndDate = RandomFutureDate(random),
+                                Seller = UsersHelper.Users[random.Next(0, UsersHelper.Users.Count)],
+                                Buyers = new List<User>()
+                            };
+
+                            if (product["description"] != null)
+                            {
+                                newProduct.Description = product["description"].Value<string>();
+                            }
+
+                            var numOfByers = random.Next(0, UsersHelper.Users.Count - 1);
+                            for (var i = 0; i < numOfByers; i++)
+                            {
+                                bool found = false;
+                                var user = new User();
+                                while (!found)
+                                {
+                                    user = UsersHelper.Users[random.Next(0, UsersHelper.Users.Count)];
+                                    found = (!newProduct.Buyers.Contains(user)) && (newProduct.Seller != user);
+                                }
+                                newProduct.Buyers.Add(user);
+                            }
+
+                            allProducts.Add(newProduct);
+                            productSquence++;
+                        }
+                    }
+                }
+            }
+            catch (Exception)
+            {
+            }
+
+            return allProducts;
         }
 
         private List<Category> LoadAllCategories(bool isCreateBat)
         {
             var random = new Random();
             var allProductsFiles = new List<string>();
-            var allCategories = new List<Category>();
+            Categories = new List<Category>();
             Category level1 = null;
 
             using (var file = new StreamWriter("../../ProductsData/createProductsFiles.bat", true))
@@ -97,13 +220,13 @@ namespace SeedProject
                                 ParentId = 1
                             };
 
-                            allCategories.Add(level1);
+                            Categories.Add(level1);
                             isWriteCat = true;
                             break;
                         }
                         case 2:
                         {
-                            allCategories.Add(new Category
+                            Categories.Add(new Category
                             {
                                 Id = int.Parse(cat[cat.Length - 2]),
                                 Name = cat[0],
@@ -147,7 +270,7 @@ namespace SeedProject
                 }
             }
 
-            return allCategories;
+            return Categories;
         }
     }
 }

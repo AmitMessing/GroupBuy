@@ -1,0 +1,332 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "13.69",
+      "sem3_id": "7Guu0N7Ua8MkGu2eqi2G2A",
+      "ean": "3474633002309",
+      "mpn": "4024750",
+      "updated_at": 1455545849,
+      "sitedetails": [],
+      "category": "Conditioners",
+      "created_at": 1347723627,
+      "size": "5.0 oz",
+      "brand": "L'Oreal Paris",
+      "cat_id": "14214",
+      "name": "L'Oreal Professional Series Expert Absolut Repair Cellular Conditioner, Lactic Acid, 5-Ounce [5 oz.]",
+      "weight": "453592.37",
+      "model": "261005",
+      "manufacturer": "L'Oreal",
+      "features": {
+        "Product Dimensions": "1.8 x 9.1 x 17.7 inches ; 6.2 ounces"
+      },
+      "gtins": [
+        "03474633002309"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "4 oz.",
+      "brand": "Tints of Nature",
+      "updated_at": 1459009760,
+      "features": {
+        "Item Weight": "6.9 ounces"
+      },
+      "weight": "195044.72",
+      "ean": "0704326100504",
+      "variation_id": "27xvMSGwHQyMYmYaOoYOKw",
+      "category": "Chemical Hair Dyes",
+      "sem3_id": "1DH1KjzSx6E2eYSCAKGWAS",
+      "price": "12.75",
+      "cat_id": "20069",
+      "manufacturer": "Tints of Nature",
+      "department": "Personal Care",
+      "created_at": 1347510034,
+      "mpn": "TN-5N",
+      "model": "63383",
+      "sitedetails": [],
+      "name": "5N Natural Light Brown 4.40 Ounces [Natural Light Brown 5N]",
+      "color": "Natural Light Brown 5N",
+      "upc": "704326100504",
+      "gtins": [
+        "00704326100504"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Paul Mitchell",
+      "sitedetails": [],
+      "upc": "009531103372",
+      "length": "152.40",
+      "size": "8.5 oz",
+      "name": "Paul Mitchell Soft Spray, 8.5-Ounces Bottle [8.5 Ounces]",
+      "mpn": "141645",
+      "cat_id": "4869",
+      "features": {
+        "Product Dimensions": "6 x 5 x 4 inches ; 8.8 ounces"
+      },
+      "category": "Hair Sprays",
+      "price": "16.73",
+      "updated_at": 1459013566,
+      "manufacturer": "Paul Mitchell",
+      "height": "101.60",
+      "sem3_id": "3Ffo0QPsrgQGWkAQqIOKEC",
+      "model": "141645",
+      "width": "127.00",
+      "created_at": 1347725964,
+      "weight": "226796.18",
+      "ean": "0009531103372",
+      "gtins": [
+        "00009531103372"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "3/8\"",
+      "cat_id": "6929",
+      "department": "beauty",
+      "mpn": "HT1106",
+      "created_at": 1347683255,
+      "sem3_id": "1X4REB7Fq8aagEqWkcOEk0",
+      "ean": "0078729011065",
+      "brand": "Hot Tools",
+      "model": "HT1106",
+      "price": "32.92",
+      "upc": "078729011065",
+      "category": "Irons",
+      "weight": "907184.74",
+      "sitedetails": [],
+      "name": "Hot Tools 3/8\" Gold Marcel Curling Iron HT1106",
+      "features": {
+        "Item Weight": "1.3 pounds"
+      },
+      "manufacturer": "Helen of Troy",
+      "updated_at": 1459049627,
+      "gtins": [
+        "00078729011065"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "28.94",
+      "name": "Deva Curl Light Defining Gel, 32 oz",
+      "upc": "859413000073",
+      "created_at": 1347510467,
+      "cat_id": "9930",
+      "sitedetails": [],
+      "ean": "0859413000073",
+      "sem3_id": "10U9pA0n1Y6KCaoymQecEC",
+      "model": "1402",
+      "category": "Creams, Gels & Lotions",
+      "weight": "2721554.22",
+      "updated_at": 1459011403,
+      "brand": "DevaConcepts",
+      "features": {
+        "Product Dimensions": "10.5 x 3.3 x 3 inches ; 2 pounds"
+      },
+      "gtins": [
+        "00859413000073"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "model": "Mis 1384",
+      "size": "2 oz.",
+      "category": "Creams, Gels & Lotions",
+      "price": "10.99",
+      "features": {
+        "Product Dimensions": "8 x 4 x 4 inches ; 8 ounces",
+        "Origin": "USA"
+      },
+      "variation_id": "3QUeZBSoy0wsWUcuQIY4wc",
+      "updated_at": 1459058359,
+      "cat_id": "9930",
+      "brand": "Miss Jessie's",
+      "manufacturer": "Miss Jessie's",
+      "ean": "0859220001218",
+      "sem3_id": "6cgaStYmZc4Y8uomwaCQEk",
+      "mpn": "45769",
+      "weight": "58967.01",
+      "name": "Miss Jessie's Quick Curls, 2 Ounce [2 oz]",
+      "upc": "859220001218",
+      "created_at": 1347667342,
+      "gtins": [
+        "00859220001218"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "113398.09",
+      "created_at": 1347743399,
+      "variation_id": "3trOWVRvTMeG0YS8gEgw6a",
+      "height": "76.20",
+      "price": "10.50",
+      "updated_at": 1459067927,
+      "ean": "0612600110166",
+      "color": "Infra Red",
+      "manufacturer": "TISH & SNOOKY'S NYC,INC./MANICPANIC",
+      "cat_id": "20069",
+      "size": "4 oz",
+      "name": "Manic Panic Semi-Permanent Color Cream, Infra Red [Infra Red]",
+      "features": {
+        "Product Dimensions": "2.5 x 2.5 x 3 inches ; 4 ounces"
+      },
+      "brand": "Manic Panic",
+      "length": "63.50",
+      "sem3_id": "4ULbIR4FbcMIy4GGcO0Kqy",
+      "upc": "612600110166",
+      "sitedetails": [],
+      "category": "Chemical Hair Dyes",
+      "mpn": "HCR11016",
+      "model": "HCR 11016",
+      "width": "63.50",
+      "gtins": [
+        "00612600110166"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "Pur 5247",
+      "sitedetails": [],
+      "ean": "0812595002891",
+      "variation_id": "5Uuj7RnBHEEuoAg0QgOewq",
+      "size": "10.1 oz.",
+      "category": "Hair Care",
+      "updated_at": 1459059454,
+      "height": "38.10",
+      "manufacturer": "Pureology",
+      "weight": "453592.37",
+      "length": "127.00",
+      "price": "55.43",
+      "sem3_id": "1eFhgLWBMuG2M8QEYKWQU8",
+      "mpn": "1021515",
+      "name": "Pureology Nanoworks Shampoo, Anti Aging, 10.1 Ounce [10.1 oz.]",
+      "brand": "Pureology",
+      "created_at": 1347686225,
+      "width": "38.10",
+      "upc": "812595002891",
+      "features": {
+        "Product Dimensions": "5 x 1.5 x 1.5 inches ; 1 pounds"
+      },
+      "cat_id": "2996",
+      "gtins": [
+        "00812595002891"
+      ],
+      "variation_secondaryids": [
+        "2reT7ELddwyucOgwaao0iW"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Conair",
+      "width": "130.30",
+      "height": "387.35",
+      "upc": "074108246356",
+      "name": "Infiniti Pro by Conair Hot Air Spin Styler, 2-Inch [2-inch, Spin Air Rotating Styler]",
+      "updated_at": 1459063706,
+      "sem3_id": "09pZzNgDwW0w86YscQuaQm",
+      "price": "59.99",
+      "created_at": 1365757006,
+      "sitedetails": [],
+      "size": "2 inch",
+      "features": {
+        "Product Dimensions": "3.8 x 5.1 x 15.2 inches"
+      },
+      "weight": "907184.74",
+      "brand": "Conair",
+      "model": "16744555",
+      "category": "Hot-Air Brushes",
+      "cat_id": "19507",
+      "length": "95.25",
+      "ean": "0074108246356",
+      "gtins": [
+        "00074108246356"
+      ],
+      "variation_secondaryids": [
+        "54b72C7Sv2C0E8mUQ2iKK6"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "1 Unit",
+      "sitedetails": [],
+      "price": "17.12",
+      "weight": "136077.71",
+      "features": {
+        "Item Weight": "4.8 ounces"
+      },
+      "ean": "0079565051253",
+      "sem3_id": "4r0lgj5S2qKkYUKqoGaKc2",
+      "updated_at": 1459063600,
+      "upc": "079565051253",
+      "manufacturer": "FUCHS BRUSHES",
+      "model": "Fuc 4190",
+      "height": "48.26",
+      "category": "Brushes",
+      "name": "Mens Paddle Hairbrush",
+      "created_at": 1347807896,
+      "brand": "Fuchs",
+      "cat_id": "4514",
+      "width": "68.58",
+      "length": "233.68",
+      "gtins": [
+        "00079565051253"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

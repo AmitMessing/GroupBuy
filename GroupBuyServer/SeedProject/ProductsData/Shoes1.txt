@@ -1,0 +1,336 @@
+{
+  "total_results_count": 52043,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "category": "Shoes",
+      "color": "Blue Floral",
+      "upc": "886742360974",
+      "sitedetails": [],
+      "features": {
+        "Web ID": "696281"
+      },
+      "brand": "aldo",
+      "updated_at": 1447433266,
+      "name": "Lucky Brand Emmie Flats",
+      "size": "8.5M",
+      "sem3_id": "1IiEOxR6tocGaoMYqK4COg",
+      "ean": "0886742360974",
+      "created_at": 1428616400,
+      "price": "59.00",
+      "cat_id": "4378",
+      "variation_id": "32H1JnUNYGI2SwmoU6W2wQM+",
+      "gtins": [
+        "00886742360974"
+      ],
+      "variation_secondaryids": [
+        "6dugHZRgC8KQmw2QUWWM40M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "7mBNlcxFXymGmMQks0esue",
+      "updated_at": 1440593362,
+      "ean": "0740339290931",
+      "created_at": 1428624471,
+      "category": "Shoes",
+      "cat_id": "4378",
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "name": "Easy Spirit Travel Time Sneakers",
+      "features": {
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Web ID": "1606433"
+      },
+      "color": "Periwinkle",
+      "brand": "blue shoes",
+      "sitedetails": [],
+      "upc": "740339290931",
+      "size": "7M",
+      "price": "51.75",
+      "gtins": [
+        "00740339290931"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "name": "Easy Spirit Travel Time Sneakers",
+      "sem3_id": "6yeopL3rcmOCcwIo2AukUo",
+      "updated_at": 1440593362,
+      "cat_id": "4378",
+      "ean": "0029025103183",
+      "category": "Shoes",
+      "created_at": 1428624471,
+      "upc": "029025103183",
+      "price": "51.75",
+      "size": "10W",
+      "color": "Light Silver Quilted",
+      "sitedetails": [],
+      "brand": "blue shoes",
+      "features": {
+        "Web ID": "1606433",
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)"
+      },
+      "gtins": [
+        "00029025103183"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Easy Spirit Traveltime Sneakers",
+      "sitedetails": [],
+      "sem3_id": "589RUMTPYuSyGi0YOYSqog",
+      "updated_at": 1441229292,
+      "upc": "029025089708",
+      "ean": "0029025089708",
+      "color": "Medium Blue",
+      "brand": "blue shoes",
+      "price": "51.75",
+      "features": {
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Web ID": "1606433"
+      },
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "category": "Shoes",
+      "size": "5M",
+      "created_at": 1428624471,
+      "cat_id": "4378",
+      "gtins": [
+        "00029025089708"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "blue shoes",
+      "updated_at": 1441234695,
+      "category": "Shoes",
+      "features": {
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Web ID": "1606433"
+      },
+      "color": "Silver Sparkle",
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "created_at": 1428624471,
+      "cat_id": "4378",
+      "size": "6.5M",
+      "sem3_id": "4fbXpZvHRAuEEs6EsAiWU8",
+      "ean": "0029025092388",
+      "upc": "029025092388",
+      "name": "Easy Spirit Travel Time Sneakers",
+      "price": "59.99",
+      "sitedetails": [],
+      "gtins": [
+        "00029025092388"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Easy Spirit Traveltime Sneakers",
+      "category": "Shoes",
+      "updated_at": 1438840929,
+      "sem3_id": "2b4q2tpZjIuKEUAQ8cY86y",
+      "upc": "029025096478",
+      "color": "Woodash Natural",
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "created_at": 1428624471,
+      "features": {
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Web ID": "1606433"
+      },
+      "size": "8.5WW",
+      "brand": "blue shoes",
+      "price": "59.99",
+      "sitedetails": [],
+      "cat_id": "4378",
+      "ean": "0029025096478",
+      "gtins": [
+        "00029025096478"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "9WW",
+      "created_at": 1428624471,
+      "features": {
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Web ID": "1606433"
+      },
+      "sitedetails": [],
+      "sem3_id": "1foF2rhpoOkGGiKWgyAc4W",
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "cat_id": "4378",
+      "name": "Easy Spirit Travel Time Sneakers",
+      "price": "59.99",
+      "color": "Medium Blue",
+      "updated_at": 1437252364,
+      "category": "Shoes",
+      "upc": "029025090254",
+      "brand": "blue shoes",
+      "ean": "0029025090254",
+      "gtins": [
+        "00029025090254"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "59.99",
+      "cat_id": "4378",
+      "sitedetails": [],
+      "brand": "blue shoes",
+      "size": "6.5W",
+      "category": "Shoes",
+      "upc": "029025090766",
+      "name": "Easy Spirit Travel Time Sneakers",
+      "color": "Dark Pink Sparkle",
+      "features": {
+        "Web ID": "1606433",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)"
+      },
+      "ean": "0029025090766",
+      "sem3_id": "716A8R2tdI8CI26Kq0kKK0",
+      "created_at": 1428624471,
+      "updated_at": 1432664819,
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "gtins": [
+        "00029025090766"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1433238371,
+      "created_at": 1428624471,
+      "ean": "0029025096515",
+      "sitedetails": [],
+      "color": "Woodash Natural",
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "price": "59.99",
+      "sem3_id": "3HMoD2pKdUKSww82sMyUis",
+      "name": "Easy Spirit Travel Time Sneakers",
+      "category": "Shoes",
+      "features": {
+        "Web ID": "1606433",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)"
+      },
+      "brand": "blue shoes",
+      "size": "9WW",
+      "cat_id": "4378",
+      "upc": "029025096515",
+      "gtins": [
+        "00029025096515"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "9.5WW",
+      "variation_id": "0IyMcdfrCLIiCeuieOq6ayM+",
+      "sem3_id": "139TkNl3G06GS8ikoEI4um",
+      "ean": "0029025102186",
+      "features": {
+        "Upper: fabric/suede (camo)": "suede (cork, midnight blue, blue floral, taupe, black houndstooth, dark grey houndstooth, dark pink sparkle, medium blue); mesh/leather (copper, silver); wool/suede (black/dark grey)",
+        "Upper": "leather (silver quilted, light gold quilted, silver sparkle)",
+        "Web ID": "1606433"
+      },
+      "name": "Easy Spirit Travel Time Sneakers",
+      "brand": "blue shoes",
+      "color": "Light Gold Quilted",
+      "upc": "029025102186",
+      "price": "59.99",
+      "category": "Shoes",
+      "created_at": 1428624471,
+      "updated_at": 1437252364,
+      "cat_id": "4378",
+      "sitedetails": [],
+      "gtins": [
+        "00029025102186"
+      ],
+      "variation_secondaryids": [
+        "7NB2d7stM0Gye2iks8CeS4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

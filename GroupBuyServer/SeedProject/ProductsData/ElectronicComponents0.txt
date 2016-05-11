@@ -1,0 +1,362 @@
+{
+  "total_results_count": 99664,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "upc": "754082094357",
+      "brand": "Unknown",
+      "manufacturer": "Fluke Corporation",
+      "sem3_id": "5kd0XejvmKW6EoMuewM2km",
+      "name": "Fluke Networks SMC-9-SCLC Singlemode Launch Cable for use with the OptiFiber Pro OTDR, 9 µm, 160 m Length, SC/LC [SC/LC]",
+      "model": "SMC 9 SCLC",
+      "price": "269.70",
+      "created_at": 1356870218,
+      "ean": "0754082094357",
+      "cat_id": "13247",
+      "features": {
+        "Compatibility": "Fluke Networks OptiFibers:; Pro OTDR; DTX-1800 OTDR",
+        "cable type": "Fiber Optic",
+        "Device Supported": "Network Device",
+        "warranty length": "90-day limited",
+        "Fiber Optic Mode": "Single-mode",
+        "Product Type": "Network Cable",
+        "Connector on First End": "1 x SC Male Network",
+        "Connector on Second End": "1 x LC Male Network",
+        "Core/Cladding Diameter": "9/125 Âµ m"
+      },
+      "weight": "657708.94",
+      "length": "159998.66",
+      "mpn": "SMC-9-SCLC",
+      "size": "SC/LC",
+      "variation_id": "0yidSE7PNgG2YM8kSk8WIS",
+      "category": "Test Points",
+      "updated_at": 1458960134,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.officedepot.com/a/products/250381",
+          "name": "officedepot.com",
+          "latestoffers": [
+            {
+              "price": "337.99",
+              "availability": "Available",
+              "firstrecorded_at": 1440336100,
+              "id": "6vXynO6hUmSkG2W2kq28iM",
+              "currency": "USD",
+              "lastrecorded_at": 1440336100,
+              "seller": "Office Depot",
+              "isactive": 0
+            }
+          ],
+          "sku": "250381"
+        }
+      ],
+      "gtins": [
+        "00754082094357"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0786261824707",
+      "price": "136.16",
+      "upc": "786261824707",
+      "updated_at": 1460703640,
+      "brand": "Tork",
+      "model": "EWZ101",
+      "weight": "725747.79",
+      "created_at": 1374249014,
+      "cat_id": "16744",
+      "size": "#8 - #16 AWG",
+      "mpn": "EWZ101",
+      "category": "Photo Detectors",
+      "sitedetails": [],
+      "name": "EWZ Series Multipurpose Control Astronomic 7 Day Time Switch, 120-277 VAC Input Supply, 1 Channel, SPST Output Dry Contact",
+      "manufacturer": "NSI Industries",
+      "sem3_id": "628bld8SDQogSAgwMm6saw",
+      "features": {
+        "Item Weight": "1.6 pounds"
+      },
+      "gtins": [
+        "00786261824707"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16744",
+      "mpn": "C515M",
+      "updated_at": 1459076316,
+      "sitedetails": [],
+      "ean": "0786261155016",
+      "price": "22.00",
+      "weight": "181436.95",
+      "size": "#12AWG",
+      "category": "Photo Detectors",
+      "manufacturer": "NSI Industries",
+      "model": "C515M",
+      "color": "Metal-brushed aluminum",
+      "upc": "786261155016",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Tork",
+      "sem3_id": "6rXtUiTKm8KyQmGu6iicwW",
+      "name": "NSI Industries C515M Commercial Style Spring Wound Auto Off In-Wall Time Switch, 15 Minute Timer Length, SPST Switch Type",
+      "created_at": 1374947210,
+      "gtins": [
+        "00786261155016"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "13247",
+      "upc": "754082094364",
+      "name": "Fluke Networks SMC-9-SCE2KAPC Singlemode Launch Cable for use with the OptiFiber Pro OTDR, 9 µm, 160 m Length, SC/E2000KAPC [SC/E2000 APC]",
+      "model": "SMC 9 SCE2KAPC",
+      "sitedetails": [
+        {
+          "name": "officedepot.com",
+          "recentoffers_count": 0,
+          "url": "http://www.officedepot.com/a/products/250282",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1440331300,
+              "price": "337.99",
+              "seller": "Office Depot",
+              "currency": "USD",
+              "id": "01FKhAuHukiE62muSWU0CQ",
+              "firstrecorded_at": 1440331300,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "250282"
+        }
+      ],
+      "price": "269.70",
+      "features": {
+        "Type of Fiber Optics": "Singlemode",
+        "Core / Cladding Diameter": "9 / 125 micron",
+        "Connector(s)": "1 x SC/APC single mode - male",
+        "Designed For": "OptiFiber Pro Singlemode OTDR Kit, Singlemode OTDR Kit with inspection kit, Singlemode OTDR Module",
+        "Product Dimensions": "12.3 x 10.5 x 5.9 inches",
+        "Item Package Quantity": "1",
+        "Network Cable Type": "Testing device cable",
+        "Power Source": "AC",
+        "Item Weight": "1.4 pounds"
+      },
+      "weight": "907184.74",
+      "length": "159998.66",
+      "sem3_id": "0bknQyrX8O8QGUkcICmoS6",
+      "variation_id": "0yidSE7PNgG2YM8kSk8WIS",
+      "updated_at": 1453346664,
+      "ean": "0754082094364",
+      "created_at": 1356870218,
+      "brand": "Unknown",
+      "mpn": "SMC-9-SCE2KAPC",
+      "size": "SC/E2000 APC",
+      "category": "Test Points",
+      "manufacturer": "Fluke Corporation",
+      "gtins": [
+        "00754082094364"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "RS-200",
+      "brand": "RS 200",
+      "sitedetails": [],
+      "length": "81.28",
+      "updated_at": 1459069000,
+      "weight": "185972.87",
+      "sem3_id": "3o5YBeiyhkKsSgGsWG6mES",
+      "name": "RS-200 Resistance Decade Box",
+      "category": "Decade Boxes",
+      "created_at": 1347645066,
+      "height": "78.74",
+      "cat_id": "2321",
+      "manufacturer": "IET Labs, Inc",
+      "width": "55.88",
+      "price": "240.50",
+      "features": {
+        "Product Dimensions": "3.2 x 2.2 x 3.1 inches ; 6.6 ounces"
+      },
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "885305001965",
+      "price": "132.90",
+      "created_at": 1348664583,
+      "features": {
+        "Warranty Description": "1 Year Limited Warranty",
+        "Voltage": "12 volts",
+        "Product Dimensions": "4.7 x 8.2 x 8.2 inches",
+        "Item Weight": "11.1 pounds",
+        "Power Source": "corded-electric",
+        "Batteries Required?": "Yes",
+        "Finish": "Black",
+        "Wattage": "200 watts",
+        "Item Package Quantity": "1"
+      },
+      "updated_at": 1459202770,
+      "color": "Black",
+      "sitedetails": [],
+      "manufacturer": "Brinkmann",
+      "cat_id": "18662",
+      "model": "8100 0200 01",
+      "brand": "Brinkmann",
+      "mpn": "MB8100-0200-01",
+      "name": "Malibu 200 Watt Transformer",
+      "sem3_id": "6Ub7RgOJfcm82OEOqSQAYi",
+      "ean": "0885305001965",
+      "category": "Terminals",
+      "gtins": [
+        "00885305001965"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "T1610000",
+      "size": "Relay Output, 85-250 VAC",
+      "category": "Controllers",
+      "created_at": 1356998731,
+      "cat_id": "9850",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "manufacturer": "Red Lion Controls Inc",
+      "name": "Red Lion T16 Temperature Controller with Relay Output, 85-250 VAC [Relay Output, 85-250 VAC]",
+      "mpn": "T1610000",
+      "brand": "Red Lion",
+      "price": "133.00",
+      "sitedetails": [],
+      "updated_at": 1459103322,
+      "sem3_id": "3yfaEVRRBQGyyCsQcYkaiG",
+      "weight": "340194.28",
+      "variation_id": "1p8aBwNKbs8IgAkeYmmMqC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1456622920,
+      "category": "Test Points",
+      "size": "Small",
+      "price": "133.44",
+      "model": "TL81A",
+      "created_at": 1374261114,
+      "name": "Fluke TL81A Test Lead Set, Deluxe Electronic [TL81A]",
+      "brand": "Materro tm",
+      "mpn": "TL81A",
+      "sitedetails": [],
+      "features": {
+        "National Stock Number": "6625-01-475-0760",
+        "Batteries Included?": "No",
+        "Item Package Quantity": "1",
+        "Origin": "USA"
+      },
+      "manufacturer": "FLUKE",
+      "color": "Red/Black",
+      "sem3_id": "47EUAv5irI4q4IGmQiUwso",
+      "cat_id": "13247",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "15423",
+      "manufacturer": "KBC Networks Ltd",
+      "width": "57.91",
+      "category": "Fiber Optic Products",
+      "weight": "385553.51",
+      "height": "27.94",
+      "sem3_id": "6ZXw2aCtGKcySaIeuM8aGS",
+      "created_at": 1357751921,
+      "updated_at": 1455649365,
+      "features": {
+        "Average Customer Review": "Be the first to review this item",
+        "Product Dimensions": "2.3 x 1.1 inches ; 13.6 ounces"
+      },
+      "sitedetails": [],
+      "brand": "Kbc Networks",
+      "upc": "671892815005",
+      "name": "FTL1-M2-MSA Fast Ethernet Media Converter",
+      "model": "FTL1 M2 MSA",
+      "mpn": "FTL1-M2-MSA",
+      "ean": "0671892815005",
+      "gtins": [
+        "00671892815005"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "TS2 010",
+      "sem3_id": "08WMeiLyK0WqQmYMYqGOqW",
+      "created_at": 1356841929,
+      "manufacturer": "Dwyer Instruments",
+      "size": "110 VAC Supply Voltage, °F display",
+      "mpn": "TS2-010",
+      "weight": "181436.95",
+      "variation_id": "0Z0svw4zKyGYsmSE0y8aEw",
+      "sitedetails": [],
+      "updated_at": 1459094116,
+      "features": {
+        "Item Weight": "6.4 ounces",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "category": "Switches",
+      "price": "42.93",
+      "cat_id": "2774",
+      "name": "Dwyer Love Series TS2 Digital Temperature Switch, Red Display, 110 VAC Supply Voltage, °F display []",
+      "brand": "Dwyer",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

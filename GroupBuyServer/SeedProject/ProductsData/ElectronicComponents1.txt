@@ -1,0 +1,325 @@
+{
+  "total_results_count": 99664,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Unknown",
+      "upc": "754082070139",
+      "sitedetails": [],
+      "updated_at": 1459256912,
+      "created_at": 1357813288,
+      "ean": "0754082070139",
+      "manufacturer": "Fluke Corporation",
+      "size": "APC",
+      "weight": "771107.03",
+      "model": "FIBR AC UAPC",
+      "length": "1005.84",
+      "price": "54.73",
+      "mpn": "FIBR-AC-UAPC",
+      "sem3_id": "4SNeh3KZEeCgEqOa66kKgk",
+      "cat_id": "13247",
+      "variation_id": "3O0TfbyKLg2EqaAeISkOOo",
+      "name": "Fluke Networks FIBR-AC-UAPC Patch Cord for Fiber OneShot Pro, 1m Length (UPC-APC), Fiber Tester",
+      "category": "Test Points",
+      "features": {
+        "Connector(s) (Other Side)": "1 x SC/APC single mode - male",
+        "Connector(s)": "1 x SC/UPC single mode - male",
+        "Designed For": "Fluke Fiber OneShot Optical Test Set",
+        "Technology": "Fiber optic",
+        "Type of Fiber Optics": "Singlemode",
+        "Network Cable Type": "Patch cable"
+      },
+      "gtins": [
+        "00754082070139"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Pomona Electronics",
+      "sem3_id": "2ZFZzl5SfASaKmyoeeYIYy",
+      "mpn": "5803A",
+      "cat_id": "9631",
+      "price": "55.77",
+      "brand": "Pomona",
+      "ean": "0095969162104",
+      "updated_at": 1459135193,
+      "name": "Pomona 5803A Monolithic Passive Oscilloscope Probe, 200 Mhz System Bandwidth, 10-60 Compensation Range, Without Readout Actuator",
+      "weight": "90718.47",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "3.2 ounces"
+      },
+      "category": "Liquid Level Sensors",
+      "sitedetails": [],
+      "upc": "095969162104",
+      "created_at": 1374914407,
+      "model": "5803A",
+      "gtins": [
+        "00095969162104"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "228.26",
+      "manufacturer": "Red Lion Controls Inc",
+      "brand": "Red Lion",
+      "category": "Optoelectronic Displays",
+      "name": "Red Lion LPAX Red Large PAX LED Segment Display for Dual Analog Modules, 5 Digits, 1.5\" Character Size, 85-250 VAC, 50/60 Hz",
+      "mpn": "LPAXDA00",
+      "weight": "1587573.29",
+      "cat_id": "3621",
+      "sem3_id": "0RDbb0KgEN6uiQ6CaE66uK",
+      "model": "LPAX",
+      "sitedetails": [],
+      "created_at": 1356086570,
+      "updated_at": 1459131688,
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Supco",
+      "upc": "687152213283",
+      "ean": "0687152213283",
+      "weight": "435448.68",
+      "price": "99.99",
+      "brand": "Supco",
+      "sem3_id": "1q6vtLz6f2SaSca4ESaEWk",
+      "cat_id": "15185",
+      "features": {
+        "Item Weight": "15.4 ounces",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "category": "Sensors",
+      "mpn": "EM5",
+      "model": "EM5",
+      "sitedetails": [],
+      "updated_at": 1459070436,
+      "created_at": 1348682660,
+      "name": "Supco EM5 Environmental Meter, 3.5\" Length x 2\" Width x 11\" Height, 14 to 140 degree F, +/- 2.7 Degree F Accuracy",
+      "gtins": [
+        "00687152213283"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Controllers",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Red Lion",
+      "created_at": 1348697050,
+      "variation_id": "4TB09luJ8CiskqECSue4Ge",
+      "updated_at": 1459091121,
+      "price": "148.00",
+      "sem3_id": "4bvoeZfisaSwQOY4uu8WWQ",
+      "sitedetails": [],
+      "cat_id": "9850",
+      "mpn": "CUB5VB00",
+      "name": "Red Lion CUB5V Miniature Electronic DC Volt Panel Meter with Backlight, 5 Digit LCD Display, 9-28 VDC, 0-200V DC Input Range [Backlight]",
+      "size": "Backlight",
+      "model": "CUB5",
+      "manufacturer": "Red Lion Controls Inc",
+      "weight": "141747.62",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "710210-1",
+      "mpn": "28708",
+      "features": {
+        "Origin": "USA",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "sitedetails": [
+        {
+          "listprice": "309.99",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "id": "0ePl3flROgwgAOwGU4y46y",
+              "price": "309.99",
+              "seller": "Gandermountain",
+              "lastrecorded_at": 1416587300,
+              "firstrecorded_at": 1388778700,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=732083",
+          "name": "gandermountain.com",
+          "sku": "732083"
+        }
+      ],
+      "created_at": 1357168447,
+      "weight": "2721554.22",
+      "brand": "Humminbird parts",
+      "name": "Humminbird Transducer",
+      "sem3_id": "0t7t6MJxy64mw6GkeQKeIo",
+      "category": "Transducers",
+      "price": "198.60",
+      "cat_id": "21570",
+      "updated_at": 1460738781,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0078477085790",
+      "sem3_id": "4b2vNrRUZUEYmgqyYsAme4",
+      "cat_id": "9511",
+      "created_at": 1357841758,
+      "model": "49990 MST",
+      "name": "Leviton 49990-MST Fast Cure ST Fiber Optic Connector, Multimode",
+      "sitedetails": [],
+      "updated_at": 1460593342,
+      "features": {
+        "Material": "Precision mode pre-radiused zirconia ferrules",
+        "Item Weight": "1.6 ounces",
+        "Product Dimensions": "5 x 4 x 0.1 inches",
+        "Item Package Quantity": "1"
+      },
+      "mpn": "49990-MST",
+      "manufacturer": "Leviton",
+      "brand": "Leviton",
+      "color": "Silver",
+      "price": "10.15",
+      "upc": "078477085790",
+      "category": "Fiber Optic Connectors",
+      "gtins": [
+        "00078477085790"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Batteries Required?": "No",
+        "Item Package Quantity": "1",
+        "Product Dimensions": "1 x 0.5 x 0.5 inches",
+        "Item Weight": "2.4 ounces"
+      },
+      "model": "18031",
+      "upc": "899740000810",
+      "brand": "Platinum Tools",
+      "cat_id": "13247",
+      "sitedetails": [],
+      "manufacturer": "Platinum Tools",
+      "name": "Platinum Tools 18031 BNC RG59 Compression Clamshell",
+      "ean": "0899740000810",
+      "category": "Test Points",
+      "mpn": "18111",
+      "updated_at": 1460710370,
+      "weight": "68038.86",
+      "created_at": 1374929706,
+      "price": "15.49",
+      "sem3_id": "4EJPWRyxlIU24uiGU2mIIs",
+      "gtins": [
+        "00899740000810"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "21452",
+      "sitedetails": [],
+      "manufacturer": "Allen Bradley",
+      "model": "1746-P2",
+      "brand": "Allen Bradley",
+      "updated_at": 1460377577,
+      "name": "Allen Bradley 1746-P2 1746P2 Power Supply",
+      "length": "254.00",
+      "features": {
+        "Product Dimensions": "10 x 8 x 8 inches ; 3.3 pounds"
+      },
+      "width": "203.20",
+      "height": "203.20",
+      "price": "387.00",
+      "created_at": 1356338378,
+      "category": "Transformers",
+      "sem3_id": "7fz0koaFJgCMAUa0iS8gyc",
+      "weight": "1496854.82",
+      "mpn": "1746-P2",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "cat_id": "9511",
+      "upc": "837654220160",
+      "weight": "45359.24",
+      "brand": "Corning",
+      "sem3_id": "5GZPDTj6eeskqQE2Gu0mu2",
+      "name": "Corning Unicam SC OM3/OM4 Multimode 50 10Gig Pretium Fiber Optic Connector 95-050-41-X",
+      "ean": "0837654220160",
+      "created_at": 1347735336,
+      "model": "95-050-41-X",
+      "price": "13.49",
+      "manufacturer": "Corning",
+      "features": {
+        "Network Cable Type": "Network connector",
+        "Connector(s)": "1 x SC multi-mode - male",
+        "Other Features": "Ceramic connectors",
+        "Core / Cladding Diameter": "50 / 125 micron",
+        "Technology": "Fiber optic",
+        "Type of Fiber Optics": "Multimode"
+      },
+      "mpn": "95-050-41-X",
+      "updated_at": 1460911251,
+      "category": "Fiber Optic Connectors",
+      "gtins": [
+        "00837654220160"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

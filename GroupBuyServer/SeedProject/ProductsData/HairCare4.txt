@@ -1,0 +1,368 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "created_at": 1347797336,
+      "height": "113.79",
+      "price": "45.69",
+      "name": "HOT TOOLS HTBL1850 Ice Titanium Petite Tapered Curling Iron, Blue, 3/8 Inch to 3/4 Inch Barrel [3/8\" to 3/4\" barrel]",
+      "size": "3/8\" to 3/4\" barrel",
+      "length": "308.61",
+      "updated_at": 1459018028,
+      "brand": "Hot Tools",
+      "category": "Irons",
+      "color": "Blue",
+      "upc": "078729918500",
+      "cat_id": "6929",
+      "sitedetails": [],
+      "model": "HTBL1850",
+      "width": "48.26",
+      "manufacturer": "HOT TOOLS",
+      "ean": "0078729918500",
+      "sem3_id": "0o67RD2Lrs0k2UMkCw8o0W",
+      "features": {
+        "Product Dimensions": "12.2 x 1.9 x 4.5 inches ; 1.1 pounds",
+        "Origin": "China"
+      },
+      "weight": "498951.61",
+      "mpn": "HTBL1850",
+      "gtins": [
+        "00078729918500"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "12 oz",
+      "department": "Beauty",
+      "cat_id": "23453",
+      "created_at": 1347467265,
+      "sem3_id": "4BJgUnzhoG4yQyKye4kiK8",
+      "ean": "0075291020037",
+      "brand": "Emerald Forest",
+      "width": "0.51",
+      "model": "EFS20037",
+      "height": "0.51",
+      "upc": "075291020037",
+      "category": "Shampoos",
+      "weight": "362873.90",
+      "name": "EMERALD FOREST Moisturizing Shampoo 12 OZ",
+      "sitedetails": [],
+      "features": {
+        "Ingredients": "Purified Water, Sodium Laureth Sulfate (From Coconut), Cocamide DEA (From Coconut), Cocamidopropyl Betaine, Algae Extract, Hydrolyzed Rice Protein, Sapayul Oil, Shea Butter, Macadamia Nut Oil, Babassu Oil, Kiwi Oil, Tocopherol (Vitamin E), Rainforest Honey, Passion Flower Extract, Aloe Vera, Mimosa Extract, Chinese Chrysanthemum, Allantoin, Maleated Soy Bean Oil, Sodium Chloride, Citric Acid, Glycol Distearate, Quaternized Panthenol (Vitamin B5), Propylparaben, Methylparaben and Diazolidinyl Urea, Fragrance.",
+        "Units in Package": "1",
+        "Unit Size": "12 fl oz",
+        "Directions": "Apply to wet hair. Gently work into a lather. Rinse. Follow with conditioner."
+      },
+      "manufacturer": "Emerald Forest",
+      "updated_at": 1459015512,
+      "gtins": [
+        "00075291020037"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "20069",
+      "model": "1408",
+      "mpn": "JRPC",
+      "sem3_id": "2IowxOcJDIcoCS6IOccYUS",
+      "updated_at": 1459017725,
+      "category": "Chemical Hair Dyes",
+      "created_at": 1347809680,
+      "name": "Jerome Russell Punky Semi-Permanent Colour Cream Ebony 3.5 oz [Ebony]",
+      "brand": "Punky Colour",
+      "color": "Ebony",
+      "price": "6.59",
+      "features": {
+        "Item Weight": "3.5 ounces"
+      },
+      "weight": "99790.32",
+      "manufacturer": "Jerome Russell",
+      "variation_id": "3zTar1iqe8mIU8SeYqqc0a",
+      "sitedetails": [],
+      "ean": "0014608514081",
+      "upc": "014608514081",
+      "gtins": [
+        "00014608514081"
+      ],
+      "variation_secondaryids": [
+        "4Pf8tbL58K6IUYcESCGcKE"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "cat_id": "12260",
+      "size": "6 Month Supply",
+      "price": "26.33",
+      "height": "101.60",
+      "brand": "Kirkland Signature",
+      "category": "Hair Regrowth Treatments",
+      "length": "152.40",
+      "features": {
+        "Item Weight": "5.3 ounces",
+        "Product Dimensions": "6 x 5 x 4 inches",
+        "Number of Items": "1"
+      },
+      "model": "Kir 9533",
+      "name": "Kirkland Minoxidil 5% Extra Strength Hair Regrowth for Men, 6 Month Supply [6 Month Supply]",
+      "weight": "149685.48",
+      "upc": "312547781510",
+      "ean": "0312547781510",
+      "width": "127.00",
+      "sem3_id": "0eY4RwoJK1esmW2W4s8CAY",
+      "updated_at": 1459019095,
+      "manufacturer": "Kirkland",
+      "mpn": "Kirkland",
+      "created_at": 1347458338,
+      "gtins": [
+        "00312547781510"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348664899,
+      "brand": "Viviscal",
+      "upc": "358965532747",
+      "sem3_id": "3TnV7vsB4iOy0Mcs80KgQG",
+      "cat_id": "12260",
+      "size": "60-tabs",
+      "ean": "0358965532747",
+      "manufacturer": "Viviscal",
+      "model": "3353380",
+      "category": "Hair Regrowth Treatments",
+      "mpn": "3353380",
+      "name": "Viviscal Extra Strength Hair Nutrient Tablets, 60-Tablets [60-tabs]",
+      "updated_at": 1459021136,
+      "features": {
+        "Origin": "USA",
+        "California residents": "Click here for Proposition 65 warning.",
+        "Product Dimensions": "1.1 x 0.2 x 5.5 inches ; 0.2 ounces"
+      },
+      "price": "29.99",
+      "weight": "77110.70",
+      "sitedetails": [],
+      "gtins": [
+        "00358965532747"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "024932400592",
+      "category": "Brushes",
+      "weight": "249475.80",
+      "height": "101.60",
+      "features": {
+        "Product Dimensions": "6 x 5 x 4 inches ; 8.8 ounces"
+      },
+      "width": "127.00",
+      "cat_id": "4514",
+      "updated_at": 1459052354,
+      "price": "270.00",
+      "manufacturer": "Mason Pearson",
+      "mpn": "MP-POP-MIL",
+      "model": "MP POP MIL",
+      "sitedetails": [],
+      "department": "Beauty",
+      "created_at": 1347727218,
+      "name": "Mason Pearson Popular Military Hair Brush",
+      "brand": "Mason Pearson",
+      "ean": "0024932400592",
+      "length": "152.40",
+      "sem3_id": "0EdulzVBPAss4oYEkuOwK0",
+      "gtins": [
+        "00024932400592"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "CHI Ionic Single Pass Ceramic Hairstyling Iron 1\", Designer Chameleon",
+      "cat_id": "6929",
+      "sem3_id": "34tU4nKMA4gAmy24SGOaoK",
+      "mpn": "GF1122",
+      "created_at": 1347696954,
+      "height": "107.95",
+      "brand": "FAROUK",
+      "color": "Sparkling Silver",
+      "length": "321.31",
+      "sitedetails": [],
+      "ean": "0633911689806",
+      "model": "GF1122",
+      "width": "57.15",
+      "category": "Irons",
+      "manufacturer": "Farouk",
+      "updated_at": 1459010920,
+      "weight": "453592.37",
+      "upc": "633911689806",
+      "features": {
+        "Product Dimensions": "12.6 x 2.2 x 4.2 inches ; 1 pounds"
+      },
+      "gtins": [
+        "00633911689806"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "HTBL1175",
+      "model": "HTBL1175",
+      "ean": "0078729311752",
+      "height": "95.25",
+      "cat_id": "6929",
+      "length": "349.25",
+      "weight": "453592.37",
+      "category": "Irons",
+      "updated_at": 1459055392,
+      "price": "32.95",
+      "manufacturer": "Hot Tools",
+      "created_at": 1347599468,
+      "features": {
+        "Product Dimensions": "13.8 x 2.8 x 3.8 inches ; 1 pounds"
+      },
+      "sitedetails": [],
+      "brand": "Hot Tools",
+      "width": "69.85",
+      "upc": "078729311752",
+      "name": "Hot Tools Htbl1175 Blue Ice Titanium 3 Barrel Waver",
+      "sem3_id": "4tGtyWHaFcW0o08IOMGk0m",
+      "gtins": [
+        "00078729311752"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "gtins": [
+        "00603084244409",
+        "06909110645979",
+        "00787461023846"
+      ],
+      "weight": "213188.41",
+      "length": "54.10",
+      "cat_id": "20069",
+      "width": "82.55",
+      "ean": "6909110645979",
+      "features": {
+        "Product Dimensions": "2.1 x 3.2 x 6.2 inches ; 7.5 ounces",
+        "Discontinued by manufacturer": "Yes"
+      },
+      "size": "1-Pack",
+      "sem3_id": "6oAUvC14ASQUY8wgyKqQq4",
+      "category": "Chemical Hair Dyes",
+      "created_at": 1347793889,
+      "model": "Gar 4028",
+      "color": "30 Soft Black Sweet Cola",
+      "price": "6.55",
+      "updated_at": 1459016893,
+      "brand": "Garnier",
+      "height": "158.75",
+      "name": "Garnier Nutrisse Nourishing Color Creme, 30 Darkest Brown [30 Darkest Brown, 1-Count]",
+      "mpn": "MY24440",
+      "manufacturer": "Garnier - Skincare and Hair Color",
+      "upc": "603084244409",
+      "sitedetails": [
+        {
+          "name": "garnierusa.com",
+          "latestoffers": [
+            {
+              "price": "7.99",
+              "availability": "Available",
+              "lastrecorded_at": 1410285400,
+              "firstrecorded_at": 1410285400,
+              "id": "2kwJFbPU0mWUWggKqmgyci",
+              "currency": "USD",
+              "seller": "Garnier",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.garnierusa.com/Products/HairColor/Nourishing-Color-Creme/Brown/SWEET-COLA-SOFT-BLCK-30.aspx",
+          "sku": "SWEET-COLA-SOFT-BLCK-30",
+          "recentoffers_count": 1
+        }
+      ],
+      "variation_secondaryids": [
+        "70GFiwQMoiQM4Eg4qaGgoC"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "700318",
+      "upc": "009531104652",
+      "features": {
+        "Feature": "Light Hold",
+        "Hair Type": "All Hair Types",
+        "Product Dimensions": "5 x 1.5 x 1.5 inches ; 1 pounds"
+      },
+      "height": "38.10",
+      "weight": "453592.37",
+      "sem3_id": "4U7B6RlEYaaEoIOwgwQsOy",
+      "sitedetails": [],
+      "width": "38.10",
+      "name": "Paul Mitchell Super Clean Light Hair Spray Unisex, 10 Ounce",
+      "category": "Hair Sprays",
+      "price": "11.16",
+      "ean": "0009531104652",
+      "brand": "Paul Mitchell",
+      "length": "127.00",
+      "manufacturer": "Paul Mitchell",
+      "model": "700318",
+      "created_at": 1347601777,
+      "updated_at": 1459072854,
+      "cat_id": "4869",
+      "gtins": [
+        "00009531104652"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

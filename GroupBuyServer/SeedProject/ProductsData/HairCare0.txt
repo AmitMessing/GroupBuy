@@ -1,0 +1,349 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "40925",
+      "width": "127.00",
+      "features": {
+        "Product Dimensions": "6 x 5 x 4 inches ; 8.5 ounces"
+      },
+      "manufacturer": "Matrix",
+      "weight": "240403.96",
+      "cat_id": "9930",
+      "name": "Matrix Biolage Hydra-Seal Leave-In Cream, 8.5-Ounce Bottle",
+      "brand": "Matrix",
+      "size": "8.5 oz",
+      "length": "152.40",
+      "category": "Creams, Gels & Lotions",
+      "created_at": 1347798216,
+      "height": "101.60",
+      "sitedetails": [],
+      "updated_at": 1455571121,
+      "sem3_id": "1pRp5UZGSaeyOoskQuaqcw",
+      "upc": "801788409258",
+      "mpn": "500282",
+      "ean": "0801788409258",
+      "price": "20.20",
+      "gtins": [
+        "00801788409258"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "Pack of 1",
+      "cat_id": "4869",
+      "width": "50.80",
+      "price": "12.90",
+      "brand": "Bed Head",
+      "weight": "272155.42",
+      "sitedetails": [],
+      "updated_at": 1458942837,
+      "ean": "0615908419702",
+      "category": "Hair Sprays",
+      "created_at": 1347490086,
+      "mpn": "TIGBHMMSH95",
+      "features": {
+        "Product Dimensions": "2 x 2 x 10.5 inches ; 10.1 ounces"
+      },
+      "height": "260.35",
+      "name": "TIGI Bed Head Masterpiece Massive Shine Hairspray, 9.5 Ounce [Pack of 1]",
+      "manufacturer": "Bed Head",
+      "upc": "615908419702",
+      "sem3_id": "07i9S8S43BAEGM0IyO06QA",
+      "length": "50.80",
+      "gtins": [
+        "00615908419702"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "50.80",
+      "ean": "0899777002009",
+      "created_at": 1347678003,
+      "features": {
+        "Product Dimensions": "10.5 x 1.5 x 2 inches"
+      },
+      "cat_id": "6929",
+      "weight": "317514.66",
+      "brand": "Sultra",
+      "manufacturer": "Sultra",
+      "upc": "899777002009",
+      "price": "170.00",
+      "name": "Sultra The Seductress Curl, Wave & Straight Iron",
+      "sem3_id": "0ZUbENokgusWW0gqAWGIcM",
+      "model": "50000",
+      "updated_at": 1458944917,
+      "category": "Irons",
+      "sitedetails": [],
+      "length": "266.70",
+      "width": "38.10",
+      "size": "1\"",
+      "mpn": "1238195",
+      "gtins": [
+        "00899777002009"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "490lNEQEBEyY4Owywa4wwO",
+      "model": "7H4KU7M46.49 PTR",
+      "ean": "0074108254177",
+      "weight": "635029.32",
+      "price": "27.99",
+      "length": "66.80",
+      "upc": "074108254177",
+      "brand": "AssociatedConsumer_Electronics_Company",
+      "name": "John Frieda Salon Shape 1.5 Inch Hot Air Brush []",
+      "department": "Health & Beauty",
+      "width": "295.40",
+      "sitedetails": [],
+      "features": {
+        "Product Dimensions": "2.6 x 11.6 x 5 inches ; 1.5 pounds"
+      },
+      "size": "1.5 inch",
+      "created_at": 1348702896,
+      "category": "Hot-Air Brushes",
+      "updated_at": 1460779006,
+      "height": "127.00",
+      "cat_id": "19507",
+      "manufacturer": "AssociatedConsumer_Electronics_Company",
+      "gtins": [
+        "00074108254177"
+      ],
+      "variation_secondaryids": [
+        "3E1IpDkYM4yaGu8IaQy20Y"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "BABTM5585",
+      "manufacturer": "BaByliss Pro",
+      "updated_at": 1460759791,
+      "ean": "0074108083876",
+      "sitedetails": [],
+      "name": "Babyliss Pro BABTT5585 Tourmaline Titanium 3000 Dryer",
+      "created_at": 1347737654,
+      "category": "Hair Dryers",
+      "brand": "BaBylissPRO",
+      "model": "BABTM5585",
+      "price": "48.16",
+      "upc": "074108083876",
+      "cat_id": "11762",
+      "sem3_id": "7RGJ6Vui2qeS4gMmqC0K86",
+      "features": {
+        "Product Dimensions": "4 x 12.5 x 11.2 inches ; 2.2 ounces"
+      },
+      "weight": "1052334.30",
+      "gtins": [
+        "00074108083876"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Nioxin",
+      "brand": "NIOXIN",
+      "features": {
+        "Product Dimensions": "10.4 x 3.4 x 2.7 inches ; 2.6 pounds",
+        "Origin": "Andorra"
+      },
+      "sitedetails": [
+        {
+          "name": "cvs.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1444810600,
+              "availability": "Available",
+              "seller": "CVS pharmacy",
+              "price": "59.99",
+              "lastrecorded_at": 1455312600,
+              "id": "2MdyeEJBFQYgywIQQkWOGQ",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.cvs.com/shop/beauty/hair-care/shampoo-conditioner/nioxin-system-2-cleanser-scalp-therapy-conditioner-duo-33-8-oz-skuid-727590",
+          "sku": "727590"
+        }
+      ],
+      "model": "Nio 1114",
+      "cat_id": "9985",
+      "ean": "0070018018748",
+      "created_at": 1347705980,
+      "name": "Nioxin System 2 Cleanser and Scalp Therapy Conditioner, 33.8 Ounce",
+      "upc": "070018018748",
+      "updated_at": 1459047965,
+      "size": "33.8 oz",
+      "category": "Hair & Scalp Treatments",
+      "price": "34.90",
+      "sem3_id": "5dv6dnPwfYqw0CqCwo4QoK",
+      "weight": "1088621.69",
+      "gtins": [
+        "00070018018748"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "1.90",
+      "upc": "892532001583",
+      "price": "20.00",
+      "category": "Hair Sprays",
+      "sitedetails": [],
+      "brand": "Ouidad",
+      "updated_at": 1458950102,
+      "weight": "272155.42",
+      "sem3_id": "4Agg4zSWfQskkS0icWoCsA",
+      "width": "0.51",
+      "created_at": 1347679740,
+      "mpn": "90508",
+      "features": {
+        "Item Weight": "9.6 ounces",
+        "Design House": "OUIDAD"
+      },
+      "ean": "0892532001583",
+      "manufacturer": "Ouidad",
+      "name": "Ouidad Finishing Mist Styling Spray 8.5 Ounces [8 oz.]",
+      "size": "8 oz.",
+      "cat_id": "4869",
+      "model": "216845",
+      "gtins": [
+        "00892532001583"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347580640,
+      "features": {
+        "Product Dimensions": "6.2 x 5.7 x 6.5 inches"
+      },
+      "manufacturer": "Hempz",
+      "size": "10.1 oz",
+      "model": "100 2109 03",
+      "weight": "367409.82",
+      "category": "Hair Care",
+      "cat_id": "2996",
+      "name": "Hempz Natural Bronzer Tan Maximizer, 10.1 Fluid Ounce [10.1 oz]",
+      "updated_at": 1458969844,
+      "price": "21.35",
+      "sem3_id": "2ertbPMBEWYwUKkCGGW4kE",
+      "brand": "Hempz",
+      "sitedetails": [],
+      "upc": "676280012738",
+      "ean": "0676280012738",
+      "gtins": [
+        "00676280012738"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "800543016144",
+      "cat_id": "385",
+      "ean": "0800543016144",
+      "model": "A R7T",
+      "brand": "Kent",
+      "color": "Brown",
+      "created_at": 1347736138,
+      "sem3_id": "0945vVKugLYoyakwio4MMy",
+      "weight": "59534.00",
+      "category": "Combs",
+      "features": {
+        "Kent Handmade Comb R7T - 143 mm Fine and Coarse Toothed Pocket Comb: Buy Kent Hair Brushes Combs - Kent The Handmade Comb - 143 mm Fine and Coarse Toothed Pocket Comb": "Fine toothed men's pocket comb Hand made and saw cut for the gentle, non-scratch treatment of hair and scalpDetails provided by Kent",
+        "Hair Type": "Fine & Limp,Thick & Coarse",
+        "Item Weight": "9.4 ounces"
+      },
+      "name": "Kent The Handmade Comb - 143 mm Fine and Coarse Toothed Pocket Comb Sawcut R7T",
+      "mpn": "R7T",
+      "sitedetails": [],
+      "manufacturer": "Kent",
+      "updated_at": 1420932791,
+      "price": "8.00",
+      "gtins": [
+        "00800543016144"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460555883,
+      "size": "8.5 oz",
+      "sem3_id": "0k4JaE4Sii88kYAcoCc2Ye",
+      "upc": "801788418250",
+      "model": "158289",
+      "ean": "0940356589890",
+      "name": "Matrix Biolage Smoothing Shine Milk, 8.5-Ounce Bottle",
+      "manufacturer": "Matrix",
+      "width": "127.00",
+      "brand": "Matrix",
+      "weight": "285763.19",
+      "length": "152.40",
+      "price": "22.99",
+      "created_at": 1347643703,
+      "features": {
+        "Discontinued by manufacturer": "Yes",
+        "Product Dimensions": "6 x 5 x 4 inches ; 8.5 ounces"
+      },
+      "cat_id": "9930",
+      "mpn": "996825",
+      "height": "101.60",
+      "sitedetails": [],
+      "category": "Creams, Gels & Lotions",
+      "gtins": [
+        "00801788418250",
+        "00940356589890"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

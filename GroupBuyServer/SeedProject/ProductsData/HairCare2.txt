@@ -1,0 +1,354 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "mpn": "135560KAS",
+      "sitedetails": [],
+      "cat_id": "4869",
+      "weight": "453592.37",
+      "variation_id": "6aNhlMVooKwmAKQO8EMMOa",
+      "category": "Hair Sprays",
+      "name": "KMS California Hair Play Paste Up Spray 6.4oz",
+      "size": "6.5 oz",
+      "features": {
+        "KMS California": "HairPlay Makeover Spray Aerosol, 6.7 oz $16.30",
+        "This item": "KMS Hair Play Paste Up Spray (6.5 oz.) $45.00"
+      },
+      "sem3_id": "1j8HngdmQOQUkgEmAqWSSg",
+      "manufacturer": "KMS",
+      "updated_at": 1459001899,
+      "created_at": 1347488490,
+      "ean": "4044897355603",
+      "price": "59.99",
+      "brand": "KMS",
+      "gtins": [
+        "04044897355603"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "76.20",
+      "upc": "184560000059",
+      "variation_id": "3M1BScOHzU8AGscWamSIqe",
+      "cat_id": "14214",
+      "ean": "0184560000059",
+      "model": "Mix 0416",
+      "brand": "Mixed Chicks",
+      "size": "8 oz.",
+      "created_at": 1347630379,
+      "sem3_id": "7RihLVqYeOwsKuKQWcGGiM",
+      "weight": "181436.95",
+      "category": "Conditioners",
+      "features": {
+        "Product Dimensions": "3.6 x 3.6 x 2.7 inches ; 10.4 ounces"
+      },
+      "name": "Mixed Chicks Deep Conditioner, 8 Fluid Ounce",
+      "mpn": "8 fl. oz.",
+      "height": "127.00",
+      "length": "25.40",
+      "sitedetails": [],
+      "manufacturer": "Mixed Chicks",
+      "updated_at": 1410285605,
+      "price": "18.00",
+      "gtins": [
+        "00184560000059"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "76.20",
+      "updated_at": 1455535665,
+      "created_at": 1347550180,
+      "sitedetails": [],
+      "price": "38.29",
+      "mpn": "8685-1301",
+      "cat_id": "19414",
+      "category": "Styling Accessories",
+      "brand": "Wahl",
+      "manufacturer": "Wahl",
+      "weight": "453592.37",
+      "height": "152.40",
+      "upc": "043917868615",
+      "width": "127.00",
+      "color": "Pink",
+      "ean": "0043917868615",
+      "sem3_id": "7N0PhMjBPk4kkQKmMI8Qyo",
+      "name": "Wahl 8685-1301 Professional Peanut Clipper/Trimmer",
+      "model": "8685 1301",
+      "features": {
+        "Product Dimensions": "8 x 7 x 3.5 inches ; 10.4 ounces",
+        "Origin": "USA"
+      },
+      "gtins": [
+        "00043917868615"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "77.72",
+      "upc": "010181025945",
+      "cat_id": "14214",
+      "ean": "0010181025945",
+      "model": "E.T.394312",
+      "brand": "Palmer's",
+      "created_at": 1357626876,
+      "sem3_id": "2CELQO0FgeWu2G6OeMGUWu",
+      "weight": "285763.19",
+      "category": "Conditioners",
+      "features": {
+        "Unit Size": "8.5 fl oz",
+        "Ingredients": "Water (Aqua), Dicetyldimonium Chloride, Cetyl Alcohol, Stearyl Alcohol, Stearamidopropyl Dimethylamine, Olea Europaea (Olive) Fruit Oil (Certified Organic Extra Virgin Olive Oil), Amodimethicone, Propylene Glycol, Behenyl Alcohol, Cetearyl Alcohol, Hydroxyethyl Cetearamidopropyldimonium Chloride, Hair Keratin Amino Acids, Tocopheryl Acetate, Glycine Soja (Soybean) Oil, Sodium Hydroxymethylglycinate, Citric Acid, Methylparaben, Ceteareth-20, Fragrance (Parfum), Linalool, Benzyl Alcohol, Benzyl Salicylate, Hydroxycitronellal, Methyl Ionone, Yellow 5 (CI 19140), Red 4 (CI 14700), Blue 1 (CI 42090).",
+        "Directions": "After shampooing with Palmer's Olive Oil Formula Shampoo apply generously to wet hair. Leave on for up to five minutes. Rinse.",
+        "Units in Package": "1"
+      },
+      "name": "Palmer's Olive Oil Formula Replenishing Conditioner, 8.5 Ounce",
+      "height": "212.09",
+      "length": "49.02",
+      "sitedetails": [],
+      "manufacturer": "E.T. Browne Drug Company, Inc. (Palmers)",
+      "updated_at": 1419499530,
+      "price": "4.99",
+      "gtins": [
+        "00010181025945"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "014926108085",
+      "cat_id": "4869",
+      "ean": "0014926108085",
+      "model": "Ken 6506",
+      "brand": "Kenra",
+      "size": "8.0 oz",
+      "sem3_id": "6uyZ8JuMMqGSiwueYAGyOq",
+      "created_at": 1347508356,
+      "weight": "453592.37",
+      "category": "Hair Sprays",
+      "features": {
+        "Item Weight": "8 ounces"
+      },
+      "name": "Kenra Platinum Hot Spray 8 oz.",
+      "sitedetails": [],
+      "manufacturer": "Kenra",
+      "updated_at": 1420910023,
+      "price": "11.99",
+      "gtins": [
+        "00014926108085"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "20069",
+      "department": "Personal Care",
+      "ean": "0661176010912",
+      "model": "59963",
+      "weight": "172365.10",
+      "category": "Chemical Hair Dyes",
+      "name": "4G, Golden Chestnut Naturtint Permanent Hair Color",
+      "updated_at": 1404974032,
+      "price": "17.98",
+      "width": "76.20",
+      "variation_id": "5zySXoMgHAm8c0QY6UoWEm",
+      "upc": "661176010912",
+      "brand": "Naturtint",
+      "size": "4.5 oz",
+      "created_at": 1356257827,
+      "sem3_id": "2MbkybTqcee8MUY6gAsmSS",
+      "color": "Golden Chestnut 4G",
+      "features": {
+        "Product Dimensions": "3.3 x 2.2 x 6.8 inches ; 6.1 ounces"
+      },
+      "mpn": "59963",
+      "height": "177.80",
+      "length": "101.60",
+      "sitedetails": [],
+      "manufacturer": "Naturtint",
+      "gtins": [
+        "00661176010912"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "Shampoo",
+      "manufacturer": "JBCO",
+      "size": "8 Oz.",
+      "price": "19.94",
+      "ean": "0786282129706",
+      "weight": "226796.18",
+      "cat_id": "23453",
+      "name": "Sunny Isle - Jamaican Black Castor Oil Moisturizing Conditioner Lavender - 8 oz. CLEARANCE PRICED",
+      "brand": "Sunny Isle Jamaican Black Castor Oil",
+      "updated_at": 1455624082,
+      "upc": "786282129706",
+      "sem3_id": "3CjL7z3N3QCuYwIimaeQKE",
+      "features": {
+        "Product Dimensions": "2.3 x 2.3 x 7.5 inches ; 8.8 ounces"
+      },
+      "model": "Sun 7141",
+      "created_at": 1347547370,
+      "category": "Shampoos",
+      "sitedetails": [],
+      "gtins": [
+        "00786282129706"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1455608391,
+      "weight": "907184.74",
+      "mpn": "62749-7",
+      "model": "Viv 9563",
+      "size": "60-tabs",
+      "ean": "0689076294478",
+      "brand": "Viviscal",
+      "upc": "689076294478",
+      "sem3_id": "6zVvqfKF04cU4uiiY8QCyQ",
+      "sitedetails": [],
+      "features": {
+        "Origin": "USA",
+        "Product Dimensions": "1.1 x 0.2 x 5.5 inches ; 0.2 ounces",
+        "California residents": "Click here for Proposition 65 warning."
+      },
+      "category": "Hair Regrowth Treatments",
+      "name": "Viviscal Extra Strength Hair Nutrient Tablets, 60-Tablets [60-tabs]",
+      "manufacturer": "Viviscal",
+      "price": "35.85",
+      "created_at": 1347589357,
+      "cat_id": "12260",
+      "gtins": [
+        "00689076294478"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Andis 80435 Tourmaline Ionic/ceramic High Velocity Hair Dryer, Red",
+      "width": "273.05",
+      "length": "95.25",
+      "cat_id": "11762",
+      "height": "241.30",
+      "category": "Hair Dryers",
+      "color": "Red",
+      "upc": "040102804359",
+      "features": {
+        "Product Dimensions": "3.8 x 10.8 x 9.5 inches"
+      },
+      "manufacturer": "Andis",
+      "created_at": 1347703495,
+      "brand": "Andis",
+      "weight": "907184.74",
+      "ean": "0040102804359",
+      "updated_at": 1455572563,
+      "sem3_id": "2hwhfMNW88wwU2eGQCqmIY",
+      "sitedetails": [],
+      "mpn": "80435",
+      "model": "80435",
+      "gtins": [
+        "00040102804359"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "3129.79",
+      "size": "cherry almond 9 oz",
+      "height": "155.45",
+      "width": "87.12",
+      "category": "Shampoos",
+      "updated_at": 1455562032,
+      "length": "41.40",
+      "name": "L'Oreal Kids Extra Gentle 2-in-1 Shampoo With a Burst of Cherry Almond, 9.0 Fluid Ounce",
+      "cat_id": "23453",
+      "upc": "071249237021",
+      "created_at": 1347462590,
+      "price": "3.49",
+      "features": {
+        "Units in Package": "1",
+        "Warnings": "For external use only. Keep out of reach of infants.",
+        "Unit Size": "9 fl oz",
+        "Ingredients": "Aqua/Water, Sodium Laureth Sulfate, Polysorbate 21 Disodium Cocoamphodiacetate, Sodium Chloride, Polysorbate 20, Disodium Ricinoleamido, MEA-Sulfosuccinate, PEG-200 Hydrogenated Glyceryl Palmate, Parfum/Fragrance, Sodium Benzoate, Hexylene Glycol, Polyqaternium-10, Methylparaben, Salicylic Acid, PEG-7 Glyceryl Cocoate, Butylparaben, Ethylparaben, Propylparaben, Isobutylparaben, Prunus Dulcis/Sweet Almond Fruit Extract, Xanthan Gum, CI 47005/Yellow 10, CI 14700/Red 4.",
+        "Directions": "It's fun to shampoo: Wet hair, squeeze a burst into your palm. Apply shampoo, lather up. Rinse clean."
+      },
+      "sem3_id": "6ltdQOmsd6akWQc6g0kQyC",
+      "mpn": "LC23702",
+      "ean": "0071249237021",
+      "model": "Kid 6626",
+      "manufacturer": "L'Oreal Paris",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "lorealparisusa.com",
+          "latestoffers": [
+            {
+              "seller": "Loreal Parisusa",
+              "firstrecorded_at": 1410334200,
+              "currency": "USD",
+              "price": "3.49",
+              "id": "3EBflWNd68448KSiSgU22s",
+              "lastrecorded_at": 1410334200,
+              "isactive": 1
+            }
+          ],
+          "sku": "LOreal-Kids-Extra-Gentle-2-in-1-Shampoo-With-a-Burst-of-Cherry-Almond",
+          "url": "http://www.lorealparisusa.com/Products/Hair/Hair-Care/Shampoo-Conditioner/LOreal-Kids-Extra-Gentle-2-in-1-Shampoo-With-a-Burst-of-Cherry-Almond.aspx"
+        }
+      ],
+      "brand": "L'Oreal Paris",
+      "gtins": [
+        "00071249237021"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "upc": "814881017695",
+      "brand": "cartier fragrance",
+      "price": "72.00",
+      "cat_id": "4524",
+      "updated_at": 1444660153,
+      "ean": "0814881017695",
+      "category": "Fragrance",
+      "weight": "45359.24",
+      "variation_id": "0v78V7oZ46K6wEUK0I64Q8M+",
+      "name": "Cartier Baiser Volé Eau de Parfum, 1.6 oz",
+      "sem3_id": "05rgHtkvoLAqCIMiM2KMiu",
+      "color": "No",
+      "created_at": 1444660128,
+      "sitedetails": [],
+      "features": {
+        "Base Notes": "Musk, Patchouli",
+        "Top Notes": "Bergamot, Tea, Osmanthus",
+        "Middle Notes": "Jasmine, African Orange Flower, Freesia, Orchid, Rose",
+        "Web ID": "447085"
+      },
+      "gtins": [
+        "00814881017695"
+      ],
+      "variation_secondaryids": [
+        "2MCuJcupWq0ySYwUgm4IECM+",
+        "42n2mJb6hUAio2oKOCi0EOM+",
+        "4JqfsylnkGwWOoy00Owc6aM+",
+        "26H3qwlAyWok2aMOkMYGuOM+",
+        "6viVLirqb20QgUYwmEKqqmM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "4524",
+      "features": {
+        "Web ID": "447085",
+        "Middle Notes": "Jasmine, African Orange Flower, Freesia, Orchid, Rose",
+        "Base Notes": "Musk, Patchouli",
+        "Top Notes": "Bergamot, Tea, Osmanthus"
+      },
+      "created_at": 1444660128,
+      "upc": "814881017572",
+      "weight": "45359.24",
+      "sitedetails": [],
+      "variation_id": "0v78V7oZ46K6wEUK0I64Q8M+",
+      "updated_at": 1444660153,
+      "sem3_id": "7R8v74KBRQS0aI4gYw4CSa",
+      "price": "72.00",
+      "brand": "cartier fragrance",
+      "color": "No",
+      "ean": "0814881017572",
+      "name": "Cartier Baiser Volé Eau de Parfum, 1.6 oz",
+      "category": "Fragrance",
+      "gtins": [
+        "00814881017572"
+      ],
+      "variation_secondaryids": [
+        "2MCuJcupWq0ySYwUgm4IECM+",
+        "42n2mJb6hUAio2oKOCi0EOM+",
+        "4JqfsylnkGwWOoy00Owc6aM+",
+        "26H3qwlAyWok2aMOkMYGuOM+",
+        "6viVLirqb20QgUYwmEKqqmM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "air",
+      "variation_id": "2o72WPXKSOgGmkwiuM6C6GM+",
+      "cat_id": "4524",
+      "category": "Fragrance",
+      "sem3_id": "3CX0OeBzcWUQacQuosscC8",
+      "updated_at": 1444660204,
+      "sitedetails": [],
+      "features": {
+        "Top Notes": "Bergamot, Tea, Osmanthus",
+        "Web ID": "447083",
+        "Middle Notes": "Jasmine, African Orange Flower, Freesia, Orchid, Rose",
+        "Base Notes": "Musk, Patchouli"
+      },
+      "created_at": 1444660204,
+      "upc": "814881017541",
+      "color": "No",
+      "name": "Kenzo Flower in the Air Fragrance Collection - Eau de Parfum",
+      "price": "67.50",
+      "ean": "0814881017541",
+      "gtins": [
+        "00814881017541"
+      ],
+      "variation_secondaryids": [
+        "2kIqS7jEmOk806KWGCswioM+",
+        "0wdRcCwuNcGSm4Q4KaWEaeM+",
+        "0LqUrTRq2XAgqYym4AOa4aM+",
+        "2MQEXO3Fzw8io6u4y6KosmM+",
+        "6kAqfkvFx28CIQysEE0q8UM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "No ",
+      "features": {
+        "Middle Notes": "Lotus Flower, Magnolia, Peony",
+        "Web ID": "346867",
+        "Base Notes": "Musk, Mahogany, Amber",
+        "Top Notes": "Yuzu, Pomegranate, Water"
+      },
+      "sitedetails": [],
+      "created_at": 1444660068,
+      "updated_at": 1444660068,
+      "upc": "814881017558",
+      "price": "134.00",
+      "cat_id": "4524",
+      "sem3_id": "29uQ2J4JcSMAwAYWmCaOQs",
+      "category": "Fragrance",
+      "name": "Versace Bright Crystal Fragrance Collection for Women",
+      "ean": "0814881017558",
+      "variation_id": "7QfgvjC2c4eiaiuumGYAKMM+",
+      "brand": "coach fragrance",
+      "gtins": [
+        "00814881017558"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "1pV6GFsI3IaWskKkoC28q0",
+      "ean": "0814881017541",
+      "category": "Fragrance",
+      "color": "No",
+      "price": "75.00",
+      "brand": "chanel fragrance",
+      "updated_at": 1444660161,
+      "variation_id": "5gs6bPXlh2O4UqoSW0GYwqM+",
+      "cat_id": "4524",
+      "upc": "814881017541",
+      "created_at": 1444660161,
+      "name": "Ed Hardy Women's Eau de Parfum Collection",
+      "features": {
+        "Base": "Its signature Mediterranean trail is rooted by the hearts of cedarwood and Labdanum.",
+        "Head": "Begin with a ÂmojitoÂ inspired sensual blend of crushed mint leaves, warmed by brown sugar and mixed with the zest of Italian Limone.",
+        "Web ID": "486248",
+        "Heart": "Feminine floral notes emerge with joyous hints of aquatic Jasmine, dew of Peony and subtle traces of pink pepper."
+      },
+      "sitedetails": [],
+      "gtins": [
+        "00814881017541"
+      ],
+      "variation_secondaryids": [
+        "02Z8geRaWtgOEaSaG4kmcOM+",
+        "6oUrRjt1cWK6suQeI6wQMCM+",
+        "4WGZGq8DdgOYAgE20amewiM+",
+        "333Xsua5FYoKyg4IesyeKGM+",
+        "5WYfPIlgO0oyEuEEKYoEOcM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1444659768,
+      "cat_id": "4796",
+      "sem3_id": "6NEw4klApcGUiaq4OI0CEW",
+      "features": {
+        "Web ID": "708970"
+      },
+      "price": "119.00",
+      "brand": "acne",
+      "category": "Skin Care",
+      "ean": "3605533117637",
+      "color": "No ",
+      "updated_at": 1444659768,
+      "sitedetails": [],
+      "variation_id": "0pOBPWSjnwO26Qg26aYyACM+",
+      "name": "Clarisonic Mia 2: Two Speed Device Collection",
+      "gtins": [
+        "03605533117637"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "No",
+      "upc": "814881017695",
+      "name": "BVLGARI Omnia Améthyste for Women Perfume Collection",
+      "brand": "bond fragrance",
+      "category": "Fragrance",
+      "created_at": 1444660151,
+      "sitedetails": [],
+      "cat_id": "4524",
+      "ean": "0814881017695",
+      "variation_id": "0uUnrWlkyqu20Uk4ssAyqAM+",
+      "sem3_id": "0g5UjTwmUcIqyUiqioEWWo",
+      "price": "75.00",
+      "updated_at": 1444660151,
+      "features": {
+        "Web ID": "381227",
+        "A subtle and sophisticated floral scentTop Notes: Citrus accords, PeonyHeart: Rose, Osmanthus FlowerBase": "Pink Pepper, Sandalwood"
+      },
+      "gtins": [
+        "00814881017695"
+      ],
+      "variation_secondaryids": [
+        "0SZDFL7HnDEs4AAWC4IOQ2M+",
+        "1t6pyzs86KG4OSEMCGAO28M+",
+        "0nQTm42DDw8EaSUq406I8wM+",
+        "6GbhMt1RlugqEk6ISI8SOSM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "5gs6bPXlh2O4UqoSW0GYwqM+",
+      "features": {
+        "Web ID": "486248",
+        "Head": "Begin with a ÂmojitoÂ inspired sensual blend of crushed mint leaves, warmed by brown sugar and mixed with the zest of Italian Limone.",
+        "Heart": "Feminine floral notes emerge with joyous hints of aquatic Jasmine, dew of Peony and subtle traces of pink pepper.",
+        "Base": "Its signature Mediterranean trail is rooted by the hearts of cedarwood and Labdanum."
+      },
+      "category": "Fragrance",
+      "price": "75.00",
+      "sem3_id": "1WhlOhU8E8OW0YoQ6UOWeU",
+      "brand": "chanel fragrance",
+      "upc": "814881017558",
+      "updated_at": 1444660161,
+      "weight": "70873.81",
+      "sitedetails": [],
+      "color": "No",
+      "name": "Ed Hardy Women's Eau de Parfum Collection",
+      "cat_id": "4524",
+      "created_at": 1444660161,
+      "ean": "0814881017558",
+      "gtins": [
+        "00814881017558"
+      ],
+      "variation_secondaryids": [
+        "02Z8geRaWtgOEaSaG4kmcOM+",
+        "4U4vFNIfDkoW6cAw2oo0GoM+",
+        "4WGZGq8DdgOYAgE20amewiM+",
+        "333Xsua5FYoKyg4IesyeKGM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Fragrance",
+      "cat_id": "4524",
+      "sem3_id": "4PKFR9dQYqOYK2GqMcyMEM",
+      "ean": "3605970990114",
+      "features": {
+        "Web ID": "16469"
+      },
+      "name": "Giorgio Armani Acqua di Gio Pour Homme Collection",
+      "color": "No",
+      "created_at": 1435678260,
+      "sitedetails": [],
+      "price": "110.00",
+      "updated_at": 1443337110,
+      "variation_id": "1wq4MWLM9c4cssGseoOEM8M+",
+      "brand": "armani",
+      "gtins": [
+        "03605970990114"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "0pOBPWSjnwO26Qg26aYyACM+",
+      "sem3_id": "6UFrcJbuj2S4QUwuCccWAs",
+      "sitedetails": [],
+      "name": "Clarisonic Mia 2: Two Speed Device Collection",
+      "price": "119.20",
+      "ean": "0887242001497",
+      "features": {
+        "Web ID": "708970"
+      },
+      "created_at": 1435676417,
+      "upc": "887242001497",
+      "cat_id": "4796",
+      "color": "No",
+      "updated_at": 1443542588,
+      "category": "Skin Care",
+      "brand": "acne",
+      "gtins": [
+        "00887242001497"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

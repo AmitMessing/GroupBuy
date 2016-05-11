@@ -1,0 +1,362 @@
+{
+  "total_results_count": 15605,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "category": "Engineering Classroom Supplies",
+      "updated_at": 1460262227,
+      "created_at": 1356924383,
+      "sitedetails": [],
+      "mpn": "1755",
+      "sem3_id": "3CNiv2YYe8QqMayyWSYSeS",
+      "brand": "Estes",
+      "upc": "047776017559",
+      "weight": "771107.03",
+      "price": "43.78",
+      "name": "Estes Viking Rocket Bulk Pack (Pack of 12)",
+      "cat_id": "23536",
+      "features": {
+        "Manufacturer recommended age": "14 years and up"
+      },
+      "manufacturer": "Estes",
+      "ean": "0047776017559",
+      "gtins": [
+        "00047776017559"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "7 1391",
+      "manufacturer": "American Educational",
+      "features": {
+        "Product Dimensions": "7.2 x 6.5 x 6.8 inches ; 2 pounds"
+      },
+      "name": "American Educational 7-1391 Human Skull Model, Life-Size, Plastic",
+      "price": "28.26",
+      "updated_at": 1460812747,
+      "sitedetails": [],
+      "brand": "American Educational Products",
+      "created_at": 1347595305,
+      "category": "Anatomy & Physiology Classroom Supplies",
+      "mpn": "7-1391",
+      "weight": "907184.74",
+      "cat_id": "6510",
+      "sem3_id": "25qdh58BpUeeqCccgMKCke",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Neewer",
+      "ean": "0887662008694",
+      "weight": "181436.95",
+      "manufacturer": "NEEWER",
+      "color": "Prism Length: 2 inch / 5cm",
+      "cat_id": "4177",
+      "updated_at": 1462405343,
+      "model": "99032697",
+      "mpn": "99032697",
+      "sem3_id": "0VArE358fGC2gO6iQ6QcIc",
+      "category": "Physics Classroom Supplies",
+      "price": "9.99",
+      "upc": "887662008694",
+      "created_at": 1348675275,
+      "name": "Neewer 4\"/10cm Optical Glass Triple Triangular Prism Physics Teaching Light Spectrum [4\"]",
+      "features": {
+        "Product Dimensions": "5.5 x 3 x 1.6 inches",
+        "Item Weight": "6.4 ounces",
+        "Pattern": "4 inch",
+        "Item Package Quantity": "1"
+      },
+      "sitedetails": [],
+      "size": "4 inch",
+      "gtins": [
+        "00887662008694"
+      ],
+      "variation_secondaryids": [
+        "4rBC4dt2cqI6qI0qcwIaWm",
+        "5d0IbaXzAOOqA4OoWoWMSO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "12494",
+      "height": "1651.00",
+      "category": "Biology Classroom Supplies",
+      "name": "Mr. Superskeleton A13",
+      "mpn": "A13",
+      "updated_at": 1459137857,
+      "weight": "10886216.88",
+      "created_at": 1347663750,
+      "brand": "Anatomical Chart Company",
+      "features": {
+        "Item Weight": "24 pounds"
+      },
+      "model": "A13",
+      "sitedetails": [],
+      "sem3_id": "2m3SEBa9qaYMcC6AMaCQMo",
+      "manufacturer": "Anatomical Chart Company",
+      "price": "1069.50",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Wellden Product Life-size Medical Anatomical Human Skeleton Model, 170cm, w/Nerves, Vertebral Arteries, Stand Included",
+      "manufacturer": "wellden",
+      "created_at": 1357410516,
+      "category": "Biology Classroom Supplies",
+      "model": "E1113",
+      "mpn": "110",
+      "sitedetails": [],
+      "updated_at": 1459129135,
+      "cat_id": "12494",
+      "price": "215.00",
+      "sem3_id": "3dSSGxdTQ84MkIqG4ygkIq",
+      "weight": "9979032.14",
+      "brand": "Wellden",
+      "ean": "4260293881113",
+      "gtins": [
+        "04260293881113"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Item Weight": "1.2 pounds"
+      },
+      "created_at": 1364207569,
+      "sitedetails": [],
+      "manufacturer": "DStar",
+      "upc": "609132521867",
+      "weight": "1360777.11",
+      "price": "136.00",
+      "mpn": "Sterling EngineVehicle",
+      "brand": "Dstar",
+      "cat_id": "4177",
+      "sem3_id": "3xNi9HXe2qgggeCM0IIkMW",
+      "name": "Sterling Engine Vehicle",
+      "category": "Physics Classroom Supplies",
+      "updated_at": 1459184528,
+      "ean": "0609132521867",
+      "gtins": [
+        "00609132521867"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "American Educational Products",
+      "category": "Science Education",
+      "size": "Eastern States (25 cards)",
+      "name": "American Educational Eastern States Pattern Block Picture Cards Set C (25 CardSet)",
+      "model": "SR 1183",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "mpn": "SR-1173",
+      "manufacturer": "American Educational Products LLC",
+      "updated_at": 1462014921,
+      "upc": "727953200256",
+      "sitedetails": [
+        {
+          "sku": "24868849",
+          "url": "http://www.walmart.com/ip/24868849",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "0prbSIjequEIWy8eiUacii",
+              "price": "21.14",
+              "firstrecorded_at": 1418637900,
+              "seller": "UnbeatableSale.com",
+              "lastrecorded_at": 1424742600,
+              "availability": "Out of Stock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "walmart.com"
+        }
+      ],
+      "sem3_id": "5taCzJohE0G0SaoWGAIMQw",
+      "ean": "0727953200256",
+      "created_at": 1348699990,
+      "cat_id": "18341",
+      "weight": "1088621.69",
+      "price": "14.94",
+      "variation_id": "4OuNCJNQACe4ieOaqkogAg",
+      "gtins": [
+        "00727953200256"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Estes",
+      "category": "Engineering Classroom Supplies",
+      "cat_id": "23536",
+      "price": "107.49",
+      "brand": "Estes",
+      "updated_at": 1461969234,
+      "name": "Estes Loadstar II Rocket Bulk Pack (Pack of 12)",
+      "mpn": "1760",
+      "sitedetails": [
+        {
+          "sku": "40471180",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1461969200,
+              "firstrecorded_at": 1460452900,
+              "id": "6iz6x7fz6Go8CoGOAMcGUo",
+              "availability": "Available",
+              "price": "107.49",
+              "seller": "Hobby Warehouse",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1437002500,
+              "firstrecorded_at": 1434254100,
+              "id": "1ws0btPf1UGcuEkeQGiqQe",
+              "availability": "Available",
+              "price": "127.19",
+              "seller": "Hobby Warehouse",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "price": "109.34",
+              "seller": "Hobby Warehouse",
+              "id": "2kAugFlpoW44SoAi40e2A2",
+              "firstrecorded_at": 1432504500,
+              "lastrecorded_at": 1432504500,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/40471180",
+          "recentoffers_count": 1,
+          "name": "walmart.com"
+        }
+      ],
+      "created_at": 1356924379,
+      "features": {
+        "Assembled in Country of Origin": "USA and/or Imported",
+        "Shipping Weight (in pounds)": "6.9",
+        "Origin of Components": "USA and/or Imported"
+      },
+      "weight": "1905087.95",
+      "sem3_id": "09uwPLU5VCKS4caym0iqaM",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "1qwfxi1Qcaims2iWeMEGk0",
+      "updated_at": 1462444395,
+      "model": "PP-IM-100M",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "category": "Anatomy & Physiology Classroom Supplies",
+      "name": "Prestan Professional PP-IM-100M Infant CPR-AED Training Manikin with CPR Monitor",
+      "sitedetails": [
+        {
+          "url": "http://www.swimoutlet.com/p/prestan-professional-infant-cpr-aed-training-manikin-w-cpr-monitor---kit-8119729",
+          "latestoffers": [
+            {
+              "seller": "SwimOutlet",
+              "availability": "Available",
+              "firstrecorded_at": 1461313800,
+              "price": "118.65",
+              "lastrecorded_at": 1462444300,
+              "currency": "USD",
+              "id": "1xOYsDVMgyiAYSEsIgO00a",
+              "isactive": 1
+            }
+          ],
+          "sku": "swimoutlet_prestan-professional-infant-cpr-aed-training-manikin-w-cpr-monitor---kit-8119729",
+          "name": "swimoutlet.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "brand": "PRESTAN",
+      "manufacturer": "PRESTAN",
+      "created_at": 1357458801,
+      "cat_id": "6510",
+      "price": "118.65",
+      "mpn": "PP-IM-100M-MS",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460307959,
+      "brand": "World Products RR",
+      "upc": "812951010614",
+      "price": "16.32",
+      "category": "Biology Classroom Supplies",
+      "cat_id": "12494",
+      "created_at": 1348709482,
+      "manufacturer": "World Products RR",
+      "ean": "0812951010614",
+      "model": "36245",
+      "sem3_id": "1d77YGabO8KasmCaYgy0kE",
+      "name": "Gifts & Decor Grinning Realistic Replica Human Skull Home Statue",
+      "mpn": "36245",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "China"
+      },
+      "weight": "362873.90",
+      "sitedetails": [],
+      "gtins": [
+        "00812951010614"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -66,11 +66,11 @@ CREATE TABLE [dbo].[t_products](
 	[id] [int] NOT NULL,
 	[seller_id] [int] NOT NULL,
 	[name] [nvarchar](50) NOT NULL,
-	[descriptaion] [nvarchar](max) NOT NULL,
+	[description] [nvarchar](max),
 	[basic_price] [numeric](18, 0) NOT NULL,
 	[publish_date] [date] NOT NULL,
 	[end_date] [date] NOT NULL,
-	[picture] [image] NOT NULL,
+	[picture] [image] NULL,
  CONSTRAINT [PK_t_products] PRIMARY KEY CLUSTERED 
 (
 	[id] ASC

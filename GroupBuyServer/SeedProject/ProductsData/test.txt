@@ -1,0 +1,933 @@
+﻿{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "9359",
+      "features": {
+        "Battery Type": "Lithium Ion",
+        "Size (LWH)": "5.44 inches, 0.27 inches, 2.64 inches",
+        "Minimum Rated Talk Time": "14 hours",
+        "Minimum Rated Standby Time": "250 hours"
+      },
+      "updated_at": 1462623068,
+      "price": "549.99",
+      "length": "138.18",
+      "color": "Gold",
+      "manufacturer": "Apple",
+      "name": "Apple iPhone 6, Gold, 16 GB (Unlocked)",
+      "model": "Apple iPhone 6 - 4.7\" - 16 GB - Gold",
+      "category": "Unlocked Phones",
+      "weight": "127005.86",
+      "variation_id": "1YOWyAZxC0qqk6EaOUesM2",
+      "size": "16 GB",
+      "mpn": "MG3L2CL/A",
+      "sitedetails": [
+        {
+          "sku": "8297296",
+          "url": "http://www.frys.com/product/8297296",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "availability": "Available for In-Store Pickup Only",
+              "id": "5twD3PtpluEOQq8SKeSEGW",
+              "price": "549.99",
+              "currency": "USD",
+              "seller": "Frys",
+              "firstrecorded_at": 1456563200,
+              "lastrecorded_at": 1462575500,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1456476300,
+              "firstrecorded_at": 1450356400,
+              "price": "499.99",
+              "currency": "USD",
+              "id": "1NDSDNB4o0AAy2EG0OgkKo",
+              "seller": "Frys",
+              "availability": "Available for In-Store Pickup Only",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1450270400,
+              "id": "3drD25LTd2WS2MACSAGo4I",
+              "seller": "Frys",
+              "price": "511.49",
+              "currency": "USD",
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1449750700,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        },
+        {
+          "url": "http://www.overstock.com/Electronics/Apple-iPhone-6-16GB-4G-LTE-Unlocked-GSM-Smartphone-Gold/10175478/product.html",
+          "sku": "10175478_3419263",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1446710800,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "0eWIRU7u1x2Uyw0aeCEasU",
+              "seller": "Overstock",
+              "price": "809.99",
+              "firstrecorded_at": 1446710800,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1446624000,
+              "firstrecorded_at": 1445932700,
+              "availability": "Available",
+              "seller": "Overstock",
+              "currency": "USD",
+              "price": "807.99",
+              "id": "44igm5LiaWQMqmAUAMioAM",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1445672800,
+              "price": "811.99",
+              "currency": "USD",
+              "id": "0G3UQRoD1TUkQWEO4Gs62O",
+              "seller": "Overstock",
+              "availability": "Available",
+              "lastrecorded_at": 1445893500,
+              "isactive": 0
+            }
+          ],
+          "name": "overstock.com"
+        }
+      ],
+      "sem3_id": "2tdOWV19s8A26y2i0mOCGg",
+      "width": "67.06",
+      "ean": "0885909950942",
+      "upc": "885909950942",
+      "created_at": 1413425605,
+      "brand": "Apple",
+      "height": "6.86",
+      "gtins": [
+        "00885909950942"
+      ],
+      "variation_secondaryids": [
+        "64vHPvxYWGQKyOUC4YG6m4",
+        "39wNPqiKaeQEmAkqeeW2mc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2IPup3fuiyKEoC4CKmaAEe",
+      "category": "Unlocked Phones",
+      "size": "16 GB",
+      "ean": "0885909971367",
+      "price": "600.00",
+      "sitedetails": [],
+      "color": "Gold",
+      "cat_id": "9359",
+      "features": {
+        "Display": "5.5- LED-backlit IPS LCD Multi-Touchscreen Shatter proof glass, oleophobic coating",
+        "Internal Memory": "16GB, 1GB RAM",
+        "Standby": "Up to 384 Hours -3G-",
+        "GPS": "with A-GPS, GLONASS",
+        "Talktime": "Up to 24 Hours -3G-",
+        "3G": "HSDPA 850 - 900 - 1700 - 1900 - 2100",
+        "Phone Style Type": "Candy Bar",
+        "Chipset": "Apple A8, PowerVR GX6650 -hexa-core graphics- Graphics",
+        "USB": "v2.0",
+        "Battery": "Built-in rechargeable lithium-ion Battery",
+        "Operating System": "iOS 8",
+        "Messaging": "iMessage, SMS -threaded view-, MMS, Email, Push Email",
+        "Browser": "HTML -Safari-",
+        "4G": "LTE 700 - 800 - 850 - 900 - 1700 - 1800 - 1900 - 2100 - 2600",
+        "Dimensions": "6.22 x 3.06 x 0.28 -inches-",
+        "Camera": "8 Megapixel Camera -3264 x 2448 pixels- w- Autofocus, dual-LED -dual tone- flash",
+        "Front-facing Camera": "1.2 Megapixel Camera, 720p, burst, HDR",
+        "Phone Cellular Band": "GSM",
+        "Color Class": "Gold",
+        "2G": "GSM 850 - 900 - 1800 - 1900",
+        "Bluetooth": "v4.0, A2DP",
+        "Carrier": "AT-T"
+      },
+      "width": "77.72",
+      "created_at": 1413446724,
+      "weight": "172365.10",
+      "length": "157.99",
+      "mpn": "MGC12LL_A (A1522)",
+      "upc": "711730346206",
+      "updated_at": 1462628225,
+      "manufacturer": "Apple",
+      "height": "7.11",
+      "model": "iphone 6 plus",
+      "gtins": [
+        "00711730346206",
+        "00885909971367",
+        "00885909971541"
+      ],
+      "name": "Apple iPhone 6 Plus, Gold, 16 GB (Unlocked)",
+      "variation_id": "3Syp3aH8noK0w64aOQUuAa",
+      "brand": "Apple",
+      "variation_secondaryids": [
+        "2WfHnG621sMIsIyoECqM8Y"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "9359",
+      "width": "77.72",
+      "color": "Gold",
+      "features": {
+        "Unlocked": "Yes",
+        "Battery Type": "Lithium-ion",
+        "Stand-By Time": "16 days",
+        "Device Manufacturer": "Apple",
+        "Display Type": "Retina Display",
+        "Internet Connectable": "Yes",
+        "Email Capable": "Yes",
+        "Water Resistant": "No",
+        "No-Contract": "No",
+        "Internal Memory": "128 gigabytes",
+        "Processor Brand": "Apple",
+        "Front-Facing Camera": "1.2 megapixels [A camera in a smartphone or other portable device that has the lens facing the user on the same side as the screen. ]",
+        "Built-In GPS": "Yes",
+        "Operating System": "Apple iOS 8",
+        "Phone Style": "Smartphone",
+        "Touch Screen": "Yes",
+        "Bluetooth Enabled": "Yes [Connections between Bluetooth-enabled electronic devices allow these devices to communicate wirelessly. ]",
+        "Text/Instant Messaging": "Yes",
+        "Wireless Technology": "4G LTE",
+        "Integrated Camera": "Yes - Front and Back",
+        "Screen Resolution": "1920 x 1080 [Refers to the number of pixels, both horizontally and vertically, used to either capture an image or display it. The higher the resolution the finer the image detail that can be seen. ]",
+        "Rear-Facing Camera": "8 megapixels [A camera in a smartphone or other portable device that has the lens facing away from the user, just like a regular digital camera. ]",
+        "Warranty Terms - Parts": "Not Available",
+        "Data Plan Required": "No",
+        "Carrier": "Unlocked",
+        "Color Category": "Gold",
+        "Wireless Compatibility": "Wireless AC",
+        "Keyboard Type": "Touch Screen",
+        "Screen Size": "5.5 inches"
+      },
+      "category": "Unlocked Phones",
+      "updated_at": 1462625858,
+      "size": "128 GB",
+      "variation_id": "3Syp3aH8noK0w64aOQUuAa",
+      "weight": "172365.10",
+      "brand": "Apple",
+      "ean": "0683405611042",
+      "height": "7.11",
+      "model": "IPHONE 6 PLUS",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.samsclub.com/prod15630196.ip",
+          "latestoffers": [],
+          "sku": "15630196_16144183",
+          "name": "samsclub.com"
+        }
+      ],
+      "manufacturer": "Apple",
+      "upc": "881314577279",
+      "price": "819.99",
+      "length": "157.99",
+      "mpn": "MG9T2CL_A",
+      "created_at": 1413446724,
+      "name": "Apple iPhone 6 Plus, Gold, 128 GB (Unlocked)",
+      "sem3_id": "2TZt72zgk4EqYAgsgG2A6S",
+      "gtins": [
+        "00881314577279",
+        "00683405611042"
+      ],
+      "variation_secondaryids": [
+        "0ltPCGhq1GCQUuMggeEiII",
+        "17EvMZvudUmwGq4eUAIYuQ",
+        "0Hi6DDRtymsW8cyIy6Isc8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "885909950751",
+      "created_at": 1413425254,
+      "cat_id": "9359",
+      "model": "iphone 6",
+      "width": "67.06",
+      "price": "483.51",
+      "manufacturer": "Apple",
+      "sem3_id": "7dpP7zGI1gEIgciKGGQWuM",
+      "height": "6.86",
+      "category": "Unlocked Phones",
+      "weight": "127005.86",
+      "updated_at": 1462473588,
+      "variation_id": "75tWnZvGUq8Y0yceG02Osa",
+      "length": "138.18",
+      "brand": "Apple",
+      "ean": "0711730346183",
+      "size": "16 GB",
+      "color": "Silver",
+      "features": {
+        "Carrier": "Unlocked",
+        "Email Capable": "Yes",
+        "Bluetooth Enabled": "Yes [Connections between Bluetooth enabled electronic devices allow these devices to communicate wirelessly. ]",
+        "No-Contract": "No",
+        "Processor Brand": "ARM Cortex",
+        "Operating System": "Apple iOS 8",
+        "Warranty Terms - Parts": "1 year",
+        "Front-Facing Camera": "1.2 megapixels",
+        "Phone Memory (RAM)": "1 gigabytes",
+        "Touch Screen": "Yes",
+        "Display Type": "Retina Display",
+        "Phone Style": "Bar phone",
+        "Water Resistant": "No",
+        "Screen Size": "4.7 inches",
+        "Media Card Slot": "None",
+        "Unlocked": "Yes",
+        "Integrated Camera": "Yes - Front and Back",
+        "Data Plan Required": "No",
+        "Color Category": "Silver",
+        "Internal Memory": "16 gigabytes",
+        "Processor Speed": "1.2 gigahertz",
+        "Device Manufacturer": "Apple",
+        "Voice Activated": "Yes",
+        "Rear-Facing Camera": "8.0 megapixels",
+        "Wireless Technology": "4G LTE",
+        "Text/Instant Messaging": "Yes",
+        "Internet Connectable": "Yes",
+        "Sensors": "Accelerometer",
+        "Wireless Compatibility": "Wireless AC",
+        "Battery Type": "Lithium-ion",
+        "Keyboard Type": "Touch Screen",
+        "Stand-By Time": "10.4 days"
+      },
+      "sitedetails": [],
+      "name": "Apple iPhone 6, Silver, 16GB (T-Mobile)",
+      "gtins": [
+        "00885909950751",
+        "00711730346183"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0711730346169",
+      "updated_at": 1462485995,
+      "features": {
+        "Display Type": "Retina Display",
+        "Media Card Slot": "None",
+        "Processor Brand": "Apple",
+        "Rear-Facing Camera": "8 megapixels",
+        "Phone Style": "Smartphone",
+        "Data Plan Required": "Yes",
+        "Wireless Compatibility": "Wireless AC",
+        "Labor": "Not Available",
+        "Internet Connectable": "Yes",
+        "Color Category": "Gray",
+        "No-Contract": "No",
+        "Unlocked": "No",
+        "Touch Screen": "Yes",
+        "Charging Interface(s)": "Lightning",
+        "Device Manufacturer": "Apple",
+        "Stand-By Time": "10 days",
+        "Keyboard Type": "Touch Screen",
+        "Carrier": "T-Mobile",
+        "Operating System": "Apple iOS 8",
+        "Built-In GPS": "Yes",
+        "Parts": "Not Available",
+        "Integrated Camera": "Yes - Front and Back",
+        "Front-Facing Camera": "1.2 megapixels",
+        "Email Capable": "Yes",
+        "Internal Memory": "16 gigabytes",
+        "Maximum Usage Time": "14 hours",
+        "Screen Size": "4.7 inches",
+        "Wireless Technology": "4G LTE",
+        "Text/Instant Messaging": "Yes",
+        "Water Resistant": "No",
+        "Battery Type": "Lithium-ion"
+      },
+      "brand": "Apple",
+      "color": "Space Gray",
+      "sitedetails": [
+        {
+          "url": "http://www.samsclub.com/prod15630179.ip",
+          "latestoffers": [],
+          "name": "samsclub.com",
+          "sku": "15630179_16144190",
+          "recentoffers_count": 0
+        }
+      ],
+      "name": "Apple iPhone 6, Space Gray, 16GB (T-Mobile)",
+      "cat_id": "9359",
+      "upc": "711730346169",
+      "length": "138.18",
+      "width": "67.06",
+      "height": "6.86",
+      "model": "iphone 6",
+      "manufacturer": "Apple",
+      "size": "16 GB",
+      "variation_id": "75tWnZvGUq8Y0yceG02Osa",
+      "sem3_id": "65OsNwxs7kmG4IowqCQmK4",
+      "weight": "127005.86",
+      "created_at": 1413425254,
+      "category": "Unlocked Phones",
+      "price": "548.95",
+      "gtins": [
+        "00711730346169"
+      ],
+      "variation_secondaryids": [
+        "1nMKarmdsaAk20kysmQQ8K"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "9359",
+      "created_at": 1418809508,
+      "upc": "885909951000",
+      "sem3_id": "5YbkKtgbkOM08ii668GqEE",
+      "manufacturer": "Apple",
+      "price": "499.99",
+      "model": "Iphone 6",
+      "width": "67.06",
+      "length": "138.18",
+      "brand": "Apple",
+      "updated_at": 1462461140,
+      "variation_id": "64vHPvxYWGQKyOUC4YG6m4",
+      "weight": "127005.86",
+      "category": "Unlocked Phones",
+      "height": "6.86",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/8297266",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1451805400,
+              "availability": "Available for In-Store Pickup Only",
+              "id": "0JfUUojRP1c0WoUIoai44A",
+              "lastrecorded_at": 1461258700,
+              "price": "499.99",
+              "seller": "Frys",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1450960000,
+              "price": "522.83",
+              "seller": "Frys",
+              "id": "5pMrJUO5Ue8Gqgs8OC4IyA",
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1450960000,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "Available for In-Store Pickup Only",
+              "currency": "USD",
+              "firstrecorded_at": 1450187200,
+              "lastrecorded_at": 1450187200,
+              "price": "604.49",
+              "seller": "Frys",
+              "id": "08lX1F94Dp2EGO68WYSyS4",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "frys.com",
+          "sku": "8297266"
+        }
+      ],
+      "name": "Apple iPhone 6, Gold, 64 GB (Factory Unlocked)",
+      "features": {
+        "Chipset": "Apple A8, PowerVR GX6650 -hexa-core graphics- Graphics",
+        "3G": "HSDPA 850 - 900 - 1700 - 1900 - 2100",
+        "Browser": "HTML -Safari-",
+        "USB": "v2.0",
+        "Display": "4.7- LED-backlit IPS LCD Multi-Touchscreen Shatter proof glass, oleophobic coating",
+        "Phone Style Type": "Candy Bar",
+        "Talktime": "Up to 14 Hours -3G-",
+        "Camera": "8 Megapixel Camera -3264 x 2448 pixels- w- Autofocus, dual-LED -dual tone- flash",
+        "Color Class": "Gold",
+        "Messaging": "iMessage, SMS -threaded view-, MMS, Email, Push Email",
+        "Standby": "Up to 250 Hours -3G-",
+        "Phone Cellular Band": "GSM",
+        "Internal Memory": "64GB, 1GB RAM",
+        "Carrier": "AT-T",
+        "4G": "LTE 700 - 800 - 850 - 900 - 1700 - 1800 - 1900 - 2100 - 2600",
+        "Bluetooth": "v4.0, A2DP",
+        "GPS": "with A-GPS, GLONASS",
+        "Dimensions": "5.44 x 2.64 x 0.27 -inches-",
+        "Battery": "Built-in rechargeable lithium-ion Battery",
+        "Operating System": "iOS 8",
+        "2G": "GSM 850 - 900 - 1800 - 1900",
+        "Front-facing Camera": "1.2 Megapixel Camera, 720p, burst, HDR"
+      },
+      "color": "Gold",
+      "size": "64 GB",
+      "mpn": "B00NGBIMD2",
+      "ean": "0885909951000",
+      "gtins": [
+        "00885909951000"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Front-facing Camera": "1.2 Megapixel Camera, 720p, burst, HDR",
+        "Messaging": "iMessage, SMS -threaded view-, MMS, Email, Push Email",
+        "Camera": "8 Megapixel Camera -3264 x 2448 pixels- w- Autofocus, dual-LED -dual tone- flash",
+        "Browser": "HTML -Safari-",
+        "Internal Memory": "64GB, 1GB RAM",
+        "3G": "HSDPA 850 - 900 - 1700 - 1900 - 2100",
+        "2G": "GSM 850 - 900 - 1800 - 1900",
+        "Operating System": "iOS 8",
+        "Talktime": "Up to 24 Hours -3G-",
+        "Phone Cellular Band": "GSM",
+        "4G": "LTE 700 - 800 - 850 - 900 - 1700 - 1800 - 1900 - 2100 - 2600",
+        "Phone Style Type": "Candy Bar",
+        "Chipset": "Apple A8, PowerVR GX6650 -hexa-core graphics- Graphics",
+        "Standby": "Up to 384 Hours -3G-",
+        "Bluetooth": "v4.0, A2DP",
+        "Carrier": "AT-T",
+        "Dimensions": "6.22 x 3.06 x 0.28 -inches-",
+        "Display": "5.5- LED-backlit IPS LCD Multi-Touchscreen Shatter proof glass, oleophobic coating",
+        "Battery": "Built-in rechargeable lithium-ion Battery",
+        "Color Class": "Silver",
+        "USB": "v2.0",
+        "GPS": "with A-GPS, GLONASS"
+      },
+      "length": "157.99",
+      "manufacturer": "Apple",
+      "name": "Apple iPhone 6 Plus 64GB Silver - Verizon - Unlocked [Silver, 64 GB]",
+      "model": "iPhone 6 Plus",
+      "brand": "Apple",
+      "upc": "881314577330",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1461198800,
+              "availability": "Available for In-Store Pickup Only",
+              "id": "61sSu88FG4qK6qcmCsK2qK",
+              "currency": "USD",
+              "seller": "Frys",
+              "firstrecorded_at": 1453600400,
+              "price": "499.99",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1452681800,
+              "availability": "Available for In-Store Pickup Only",
+              "id": "0jN3dwZby08mYskIoUC86G",
+              "currency": "USD",
+              "seller": "Frys",
+              "price": "521.76",
+              "firstrecorded_at": 1452681800,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1451796400,
+              "price": "561.03",
+              "seller": "Frys",
+              "lastrecorded_at": 1451796400,
+              "id": "4uFQ9NvyemqswAqek2O8sC",
+              "availability": "Available for In-Store Pickup Only",
+              "isactive": 0
+            }
+          ],
+          "sku": "8297186",
+          "recentoffers_count": 1,
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/8297186"
+        },
+        {
+          "name": "thehut.com",
+          "sku": "11153997",
+          "recentoffers_count": 0,
+          "url": "http://www.thehut.com/electronics/mobile-phones/apple-iphone-6-plus-5.5-64gb-sim-free-smartphone-4g-8mp-retina-hd-silver/11153997.html",
+          "latestoffers": [
+            {
+              "seller": "THE HUT",
+              "price": "1051.19",
+              "firstrecorded_at": 1452914700,
+              "currency": "USD",
+              "id": "1JWhZoxaXwUo4aQuAQWIu2",
+              "lastrecorded_at": 1454592100,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1448764700,
+              "price": "1101.58",
+              "seller": "THE HUT",
+              "lastrecorded_at": 1449371800,
+              "id": "5KZePi0D4K62aSK6goESco",
+              "isactive": 0
+            },
+            {
+              "seller": "THE HUT",
+              "price": "1115.98",
+              "firstrecorded_at": 1448161900,
+              "currency": "USD",
+              "id": "2A03r4gI80Csew2wIGIWcI",
+              "lastrecorded_at": 1448161900,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "weight": "172365.10",
+      "width": "77.72",
+      "cat_id": "9359",
+      "created_at": 1413424409,
+      "variation_id": "2eQ36jKkrkM8E6a64W0qg4",
+      "height": "7.11",
+      "price": "499.99",
+      "color": "Silver",
+      "sem3_id": "0JWRzHzG7P62QoayQQkeEq",
+      "updated_at": 1462524516,
+      "size": "64 GB",
+      "ean": "0885909971596",
+      "category": "Unlocked Phones",
+      "gtins": [
+        "00881314577330",
+        "00885909971596"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "iPhone 6 Plus",
+      "ean": "0885909971282",
+      "updated_at": 1462488260,
+      "sem3_id": "4NtcD3kFZQUoCW6E2I2OY8",
+      "size": "128 GB",
+      "weight": "172365.10",
+      "category": "Unlocked Phones",
+      "operatingsystem": "iOS 8",
+      "created_at": 1413454010,
+      "cat_id": "9359",
+      "length": "157.99",
+      "upc": "885909971282",
+      "sitedetails": [
+        {
+          "name": "hsn.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462346800,
+              "firstrecorded_at": 1455220800,
+              "seller": "HSN, Inc.",
+              "currency": "USD",
+              "id": "3gQaA4JgRsSSSWeYG6gIQ4",
+              "price": "1169.95",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "price": "1309.95",
+              "id": "4QVxPuLaHwyM8MieoUkWAw",
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "HSN, Inc.",
+              "shipping": "11.95",
+              "lastrecorded_at": 1449494400,
+              "firstrecorded_at": 1440549200,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1439076500,
+              "firstrecorded_at": 1428499500,
+              "seller": "HSN, Inc.",
+              "availability": "Available",
+              "id": "5DnhhAHSyemWGkIQ6CeMi8",
+              "currency": "USD",
+              "price": "1379.95",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.hsn.com/products/apple-iphone-6-plus-64gb-unlocked-gsm-smartphone/7619664",
+          "sku": "7619664_12257414"
+        }
+      ],
+      "features": {
+        "Multi-SIM Supported": "No",
+        "Bluetooth Standard": "Bluetooth 4.0",
+        "Rear Camera Resolution": "8 Megapixel",
+        "Touchscreen": "Yes",
+        "Standard Memory": "2 GB",
+        "Near Field Communication": "Yes",
+        "Front Camera": "Yes",
+        "Removable Battery": "No",
+        "GPS Receiver": "Yes",
+        "Processor Speed": "1.40 GHz",
+        "Battery Talk Time": "1 Day",
+        "Phone Style": "Bar",
+        "USB": "No",
+        "Front Camera Resolution": "1.2 Megapixel",
+        "Cellular Network Supported": "GSM 850",
+        "Touchscreen Type": "Capacitive",
+        "Display Screen Technology": "In-plane Switching -IPS- Technology",
+        "Cellular Data Connectivity Technology": "LTE",
+        "Messaging Type": "SMS -Short Message Service-",
+        "Pixel Density": "401 ppi",
+        "Screen Resolution": "1920 x 1080",
+        "Maximum Video Resolution": "1920 x 1080",
+        "Operating System": "iOS",
+        "Multi-touch Screen": "Yes",
+        "Number of SIM Card Supported": "1",
+        "Product Type": "Smartphone",
+        "Radio Tuner": "No",
+        "Screen Type": "LCD",
+        "SIM Size Supported": "Nano",
+        "Cellular Generation": "4G",
+        "Bluetooth": "Yes",
+        "Battery Standby Time": "384 Hour",
+        "Service Provider": "AT-T",
+        "Wireless LAN Standard": "IEEE 802.11a-b-g-n-ac",
+        "Processor Manufacturer": "Apple",
+        "Weight (Approximate)": "6.07 oz",
+        "Carrier": "AT-T",
+        "Screen Size": "5.5-",
+        "Processor Core": "Dual-core -2 Core-",
+        "Backlight Technology": "LED",
+        "Limited Warranty": "1 Year",
+        "Integrated TV Tuner": "No",
+        "Built-in Flash": "Yes",
+        "Product Line": "iPhone 6 Plus",
+        "Color Class": "Grey",
+        "Input Method": "Touchscreen",
+        "Sensor Type": "Accelerometer",
+        "Memory Card Slot": "No",
+        "Operating System Version": "iOS 8",
+        "Wireless LAN": "Yes",
+        "Built-in Memory": "128 GB"
+      },
+      "height": "7.11",
+      "name": "Apple iPhone 6 Plus, Space Gray, 64 GB (AT&T)",
+      "price": "769.95",
+      "color": "Space Gray",
+      "variation_id": "1vgcfi1Gngyk8GUk4OE8E4",
+      "width": "77.72",
+      "brand": "Apple",
+      "manufacturer": "Apple",
+      "gtins": [
+        "00885909971282"
+      ],
+      "variation_secondaryids": [
+        "0ltPCGhq1GCQUuMggeEiII",
+        "5Whxd2moSmCii2KCSCm0CS"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Apple iPhone 6 Plus, Silver, 128 GB (AT&T)",
+      "model": "iPhone 6 Plus",
+      "variation_id": "1vgcfi1Gngyk8GUk4OE8E4",
+      "weight": "172365.10",
+      "sem3_id": "4AhyWrP65Qc6yQoCoCO44M",
+      "category": "Unlocked Phones",
+      "ean": "0885909971299",
+      "height": "7.11",
+      "width": "77.72",
+      "features": {
+        "Product Dimensions": "6.2 x 3.1 x 0.3 inches ; 6.1 ounces",
+        "Minimum Rated Standby Time": "384 hours",
+        "Size (LWH)": "6.22 inches, 3.06 inches, 0.28 inches",
+        "Minimum Rated Talk Time": "24 hours"
+      },
+      "mpn": "MGAQ2LL/A",
+      "upc": "885909971299",
+      "price": "759.99",
+      "manufacturer": "Apple",
+      "cat_id": "9359",
+      "brand": "Apple",
+      "created_at": 1413454010,
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "8285276",
+          "url": "http://www.frys.com/product/8285276",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1458803000,
+              "price": "849.99",
+              "availability": "Available for In-Store Pickup Only",
+              "lastrecorded_at": 1461287200,
+              "id": "1L6nJDWiZQgwso2aMGiG4O",
+              "seller": "Frys",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1452810700,
+              "price": "779.00",
+              "seller": "Frys",
+              "currency": "USD",
+              "id": "7kQDYXusk4aAmi4YS646E4",
+              "lastrecorded_at": 1457885700,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Frys",
+              "id": "4eXWma1t4igKMswQicieau",
+              "lastrecorded_at": 1451820400,
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1443282700,
+              "price": "849.00",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com"
+        }
+      ],
+      "color": "Silver",
+      "updated_at": 1461547724,
+      "length": "157.99",
+      "size": "128 GB",
+      "gtins": [
+        "00885909971299"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Gold",
+      "name": "Apple iPhone 6 128GB (4.7-inch) 4G LTE Factory Unlocked GSM Dual-Core Smartphone - G",
+      "created_at": 1413425605,
+      "features": {
+        "Charging Interface(s)": "Lightning",
+        "Processor Speed": "1.2 gigahertz",
+        "Battery Type": "Lithium-ion",
+        "Maximum Usage Time": "14 hours",
+        "Front-Facing Camera": "1.2 megapixels [A camera in a smartphone or other portable device that has the lens facing the user on the same side as the screen. ]",
+        "Bluetooth Enabled": "Yes [Connections between Bluetooth-enabled electronic devices allow these devices to communicate wirelessly. ]",
+        "Internet Connectable": "Yes",
+        "Wireless Technology": "4G LTE",
+        "Water Resistant": "No",
+        "Keyboard Type": "Touch Screen",
+        "Voice Activated": "Yes",
+        "Color Category": "Gold",
+        "Model Family": "Apple iPhone 6",
+        "Phone Memory (RAM)": "1 gigabytes",
+        "Integrated Camera": "Yes - Front and Back",
+        "Warranty Terms - Parts": "1 year",
+        "Processor Brand": "ARM Cortex",
+        "Wireless Compatibility": "Wireless AC",
+        "Unlocked": "Yes",
+        "Stand-By Time": "10.4 days",
+        "Touch Screen": "Yes",
+        "Built-In GPS": "Yes",
+        "Text/Instant Messaging": "Yes",
+        "Internal Memory": "128 gigabytes",
+        "Media Card Slot": "None",
+        "Mobile Hotspot Capability": "Yes [A portable device that connects to a cellular network and broadcasts Wi-Fi signals to compatible Wi-Fi enabled devices. ]",
+        "Email Capable": "Yes",
+        "Data Plan Required": "No",
+        "NFC Technology": "Yes [Near Field Communications (NFC) is a set of standards for portable devices. It allows them to establish peer-to-peer radio communications, passing data from one device to another by touching them or putting them very close together. ]",
+        "Device Manufacturer": "Apple",
+        "Sensors": "Accelerometer|Gyro sensor|Proximity sensor|Compass|Barometer",
+        "Screen Size": "4.7 inches",
+        "Operating System": "Apple iOS 8",
+        "No-Contract": "No",
+        "Carrier": "Unlocked",
+        "Phone Style": "Bar phone",
+        "Rear-Facing Camera": "8.0 megapixels [A camera in a smartphone or other portable device that has the lens facing away from the user, just like a regular digital camera. ]",
+        "Display Type": "Retina Display"
+      },
+      "manufacturer": "Apple",
+      "brand": "Apple",
+      "weight": "127005.86",
+      "category": "Unlocked Phones",
+      "size": "128 GB",
+      "sem3_id": "1g1EggVvzgwKsMmc6ciqAe",
+      "length": "138.18",
+      "ean": "0715660705720",
+      "mpn": "MG4V2LL/A",
+      "model": "iPhone 6",
+      "upc": "885909950973",
+      "variation_id": "1YOWyAZxC0qqk6EaOUesM2",
+      "height": "6.86",
+      "sitedetails": [
+        {
+          "url": "http://www.hsn.com/products/apple-iphone-6-128gb-unlocked-gsm-smartphone/7619659",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1444026000,
+              "price": "1309.95",
+              "shipping": "11.95",
+              "seller": "HSN, Inc.",
+              "currency": "USD",
+              "id": "5MVpzN0rDM2qUc8qIKeoWG",
+              "firstrecorded_at": 1437053200,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "7619659_12450353",
+          "name": "hsn.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "cat_id": "9359",
+      "width": "67.06",
+      "updated_at": 1462585570,
+      "price": "699.99",
+      "gtins": [
+        "00885909950973",
+        "00715660705720"
+      ],
+      "variation_secondaryids": [
+        "7bp4gxfpg0AqKMAgCeWU4g"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}
