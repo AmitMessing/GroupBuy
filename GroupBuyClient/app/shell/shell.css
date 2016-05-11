@@ -41,14 +41,14 @@
 
 .search-box {
     margin: 40px 0px;
+    margin-right: 0;
     width: 0;
     -webkit-transition: width 1s ease;
 }
 
 .search {
-    width: 60%;
+    width: 35%;
     margin-top: 42px;
-    margin-right: 10px;
 }
 
 .search-product {
@@ -62,8 +62,15 @@
      width: 100%;
 }
 
-.search-box .categories-select {
+.categories-select {
+    width: 0px;
+    visibility: hidden;
+    -webkit-transition: width 1s ease;
+}
+
+.categoriesSelect {
     width: 250px;
+    visibility: visible;
 }
 
 .shell {

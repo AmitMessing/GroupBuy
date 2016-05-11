@@ -1,0 +1,35 @@
+﻿.product-page .product-name {
+    color: #03A9F4;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.product-page .discount {
+    margin: 20px 10px;
+}
+
+.product-page .tabel-cell {
+    border-style: solid; 
+    border-width: thin;
+    border-color: lightgray;
+    padding: 10px 35px;
+}
+
+.currentDiscount {
+    font-weight: bold;
+    background-color: rgba(2, 119, 189, 0.76);
+    color: white;
+}
+
+.product-page .tabel-header-cell {
+    color: #03A9F4;
+    border-style: solid; 
+    border-width: thin;
+    border-color: lightgray;
+    padding: 10px 35px;
+}
+
+.product-page .product-details {
+    padding: 0 25px;
+    margin: 0 25px;
+}
