@@ -1,37 +1,23 @@
-﻿<div flex layout="row" class="product-page" layout-align="start center">
-    <div layout="row">
-        <div layout="row" class="product-details">
-            <div layout="column">
-                <span class="product-name">{{product.name}}</span>
-                <p style="width: 500px;">{{product.content}}</p>
-                <md-button style="margin: 0 auto" class="md-fab md-primary md-hue-2" aria-label="join">
-                    <md-icon class="material-icons">group_add</md-icon>
-                </md-button>
-                <div class="discount" layout="row">
-                    <div class="amount" layout="column">
-                        <span class="tabel-header-cell">Number of people</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discount">
-                            {{discount.amount}}
-                        </div>
-                    </div>
-                    <div class="dis" layout="column">
-                        <span class="tabel-header-cell">Discount</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discount">
-                            {{discount.dis}} %
-                        </div>
-                    </div>
-                    <div class="price" layout="column">
-                        <span class="tabel-header-cell">New price</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discount">
-                            {{calcPrice(product.price, discount.dis)}} $
-                        </div>
-                    </div>
-                </div>
+﻿<div layout="column" layout-align="center center">
+    <md-card class="login-card">
+        <md-card-title class="login-card-title" layout-align="center center">
+            <span class="login-card-title"> Login</span>
+        </md-card-title>
+        <md-card-content>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>User Name</label>
+                    <input ng-model="user.userName" flex>
+                </md-input-container>
             </div>
-            <img class="product-img" src="{{product.img}}" />
-        </div>
-        <div class="related-products" layout="column">
-<!--            <span class="product-name">Related Products</span>-->
-        </div>
-    </div>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>Password</label>
+                    <input ng-model="user.password" type="password" flex>
+                </md-input-container>
+            </div>
+            <md-button class="md-raised md-primary login-button">login</md-button>
+            <md-button class="md-primary register-button" ng-click="register()">Click here to register</md-button>
+        </md-card-content>
+    </md-card>
 </div>

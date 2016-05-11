@@ -1,0 +1,34 @@
+﻿<div flex="50" layout="column" layout-align="center center">
+    <md-card class="login-card">
+        <md-card-title class="login-card-title" layout-align="center center">
+            <span class="login-card-title"> Register</span>
+        </md-card-title>
+        <md-card-content>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>First Name</label>
+                    <input ng-model="user.firstName" flex>
+                </md-input-container>
+            </div>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>Last Name</label>
+                    <input ng-model="user.lastName" flex>
+                </md-input-container>
+            </div>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>User Name</label>
+                    <input ng-model="user.userName" flex>
+                </md-input-container>
+            </div>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>Password</label>
+                    <input ng-model="user.password" type="password" flex>
+                </md-input-container>
+            </div>
+            <md-button class="md-raised md-primary login-button" ng-click="register(user)">Register</md-button>
+        </md-card-content>
+    </md-card>
+</div>

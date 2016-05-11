@@ -5,6 +5,8 @@
 @import 'home/home.css';
 @import 'shell/shell.css';
 @import 'product/product.css';
+@import 'login/login.css';
+@import 'register/register.css';
 
 body {
     font-family: 'Segoe UI';
