@@ -50,19 +50,22 @@
                         </md-button>
                     </md-fab-trigger>
                     <md-fab-actions>
-                        <md-button aria-label="Twitter" class="md-fab md-raised md-mini">
-                            <md-icon class="material-icons md-dark">fingerprint</md-icon>
+                        <md-button aria-label="add post" class="md-fab md-raised md-mini">
+                            <md-icon class="material-icons md-dark">note_add</md-icon>
+                            <md-tooltip>Add post</md-tooltip>
                         </md-button>
-                        <md-button aria-label="Facebook" class="md-fab md-raised md-mini">
-                            <md-icon class="material-icons md-dark">favorite_border</md-icon>
+                        <md-button aria-label="edit details" class="md-fab md-raised md-mini">
+                            <md-icon class="material-icons md-dark">mode_edit</md-icon>
+                            <md-tooltip>Edit user</md-tooltip>
                         </md-button>
-                        <md-button aria-label="Google Hangout" class="md-fab md-raised md-mini">
-                            <md-icon class="material-icons md-dark">query_builder</md-icon>
+                        <md-button aria-label="logout" class="md-fab md-raised md-mini" ng-click="logout()">
+                            <md-icon class="material-icons md-dark">exit_to_app</md-icon>
+                            <md-tooltip>logout</md-tooltip>
                         </md-button>
                     </md-fab-actions>
                 </md-fab-speed-dial>
             </div>
         </div>
     </md-toolbar>
-    <div ui-view flex layout="column" style="overflow: auto; margin-top: 130px; width: 100%" ></div>
+    <div ui-view flex layout="column" style="overflow: auto; margin-top: 130px; width: 100%"></div>
 </div>

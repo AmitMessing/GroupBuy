@@ -13,6 +13,10 @@
                 $scope.user = undefined;
             }
 
+            $scope.logout = function () {
+                $scope.user = undefined;
+                userService.setLoggedUSer($scope.user);
+            };
 
             $scope.goHome = function() {
                 $state.go('shell.home');

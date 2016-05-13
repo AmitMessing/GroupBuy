@@ -16,6 +16,7 @@
                     <input ng-model="loginDetails.password" type="password" flex>
                 </md-input-container>
             </div>
+            <div ng-show="error != ''" class="error-message">{{error}}</div>
             <md-button ng-click="login()" class="md-raised md-primary login-button">login</md-button>
             <md-button class="md-primary register-button" ng-click="register()">Click here to register</md-button>
         </md-card-content>

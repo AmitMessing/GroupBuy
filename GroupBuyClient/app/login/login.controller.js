@@ -35,20 +35,14 @@ mainApp
             $scope.login = function () {
                 if (validateLoginFields()) {
                     loginUser.save($scope.loginDetails)
-                        .$promise.then(function (user) {
+                        .$promise.then(function(user) {
                             if (user) {
                                 userService.setLoggedUSer(user);
-                                $state.go('shell.home');
+                                $state.go('shell.home', {}, { reload: true });
                             }
-                            else {
-                                $scope.error = "שם משתמש או סיסמא שגויים, נסה שנית";
-                                alert($scope.error);
-                            }
-                        }
-                    )
-                    .error(function (data) {
-                        console.log(data);
-                    });
+                        }, function(error) {
+                             $scope.error = error.data.Message;
+                        });
                 }
             };
         }

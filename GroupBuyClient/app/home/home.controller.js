@@ -1,5 +1,15 @@
 mainApp
-    .controller('homeController', ['$scope', '$state', function ($scope, $state) {
+    .controller('homeController', ['$scope', '$state', 'userService', function ($scope, $state, userService) {
+
+        $scope.user = {};
+        var user = userService.getLoggedUser();
+        if (user != null) {
+            $scope.user = JSON.parse(user);
+        }
+        else {
+            $scope.user = undefined;
+        }
+
     $scope.gotoProduct = function(id) {
         $state.go('shell.product', { id: id });
     };

@@ -10,6 +10,8 @@ namespace GroupBuyServer.Models
         public virtual string LastName { get; set; }
         public virtual string UserName { get; set; }
         public virtual string Password { get; set; }
+        public virtual float SellerRate { get; set; }
+        public virtual float BuyerRate { get; set; }
     }
 
     public class UserMap : ClassMap<User>

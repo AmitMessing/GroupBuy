@@ -1,6 +1,6 @@
 mainApp
     .controller('registerController', [
-        '$scope', '$stateParams', '$resource', 'userService', function ($scope, $stateParams, $resource, userService) {
+        '$scope', '$stateParams', '$resource', '$state', 'userService', function ($scope, $stateParams, $resource,$state, userService) {
 
             var register = $resource("/GroupBuyServer/api/register", {});
             $scope.user = {
@@ -29,7 +29,14 @@ mainApp
 
             $scope.register = function (user) {
                 if (validateUser(user)) {
-                    register.save($scope.user);
+                    register.save($scope.user).$promise.then(function(user) {
+                        if (user) {
+                            userService.setLoggedUSer($scope.user);
+                            $state.go("shell.home", {}, { reload: true });
+                        }
+                    }, function(error) {
+                        $scope.errorMessage = error.data.Message;
+                    });
 
                 } else {
                     $scope.errorMessage = "Missing details.";
