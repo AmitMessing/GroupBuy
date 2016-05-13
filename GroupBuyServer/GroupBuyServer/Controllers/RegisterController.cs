@@ -18,9 +18,21 @@ namespace GroupBuyServer.Controllers
         {
             using (var session = NHibernateHandler.CurrSession)
             {
-                user.Id = Guid.NewGuid();
-                session.Save(user);
-                return Ok(user);
+                using (var transaction = session.BeginTransaction())
+                {
+                    // check if the user name allready exists
+                    var userFromDb =
+                        session.QueryOver<User>().Where(x => x.FirstName == user.UserName).SingleOrDefault();
+                    if (userFromDb != null)
+                    {
+                        return BadRequest("User allready exists");
+                    }
+
+                    user.Id = Guid.NewGuid();
+                    session.Save(user);
+                    transaction.Commit();
+                    return Ok(user);
+                }
             }
         }
     }

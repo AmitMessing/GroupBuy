@@ -5,21 +5,22 @@ using Newtonsoft.Json.Linq;
 
 namespace GroupBuyServer.Controllers
 {
-    [RoutePrefix("/GroupBuyServer/api/login/")]
+    [RoutePrefix("/GroupBuyServer/api/login")]
     public class LoginController : ApiController
     {
         [HttpPost]
-        public IHttpActionResult Login(JObject jsonLoginDetails)
+        public IHttpActionResult Login(User user)
         {
-            var strUserName = jsonLoginDetails["userName"].Value<string>();
-            var strPassword = jsonLoginDetails["password"].Value<string>();
-
             using (var session = NHibernateHandler.CurrSession)
             {
-                User user = session.QueryOver<User>()
-                    .Where(x => x.FirstName == strUserName).And(x => x.Password == strPassword).SingleOrDefault();
+                var userFromDb = session.QueryOver<User>()
+                    .Where(x => x.UserName == user.UserName).And(x => x.Password == user.Password).SingleOrDefault();
 
-                return Ok(user);
+                if (userFromDb != null)
+                {
+                    return Ok(userFromDb);
+                }
+                return BadRequest("User not exists");
             }
         }
     }

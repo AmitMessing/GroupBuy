@@ -7,20 +7,15 @@ using System.Web;
 using NHibernate;
 using System.Reflection;
 using System.Configuration;
+using NHibernate.Tool.hbm2ddl;
 
 namespace GroupBuyServer.Utils
 {
     public static class NHibernateHandler
     {
-        private static ISessionFactory _sessionFactory = null;
-        private static ISession _currSession = null;
-
-        static NHibernateHandler()
+        private static ISession _currSession;
+        public static ISession CurrSession
         {
-            _sessionFactory = InitializeSessionFactory();
-        }
-
-        public static ISession CurrSession {
             get
             {
                 if (_currSession == null)
@@ -30,21 +25,23 @@ namespace GroupBuyServer.Utils
                 return _currSession;
             }
             private set { _currSession = value; }
-        } 
+        }
 
         private static ISessionFactory InitializeSessionFactory()
         {
-            string connStr = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
+            var cfg = Fluently.Configure()
+                .Database(MsSqlConfiguration.MsSql2012
+                    .ConnectionString(@"Server=.\SQLEXPRESS;Database=GroupBuy;User Id=groupbuy; Password=groupbuy123;")
+                    .ShowSql()
+                ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())).BuildConfiguration();
 
-            return Fluently.Configure()
-                .Database(MsSqlConfiguration.MsSql2012.ConnectionString(connStr).ShowSql())
-                .Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly()))
-                .BuildSessionFactory();
+
+            return cfg.BuildSessionFactory();
         }
 
         private static ISession OpenSession()
         {
-             return _sessionFactory.OpenSession();
+            return InitializeSessionFactory().OpenSession();
         }
     }
 }
