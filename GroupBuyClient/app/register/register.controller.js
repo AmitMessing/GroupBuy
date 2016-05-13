@@ -1,8 +1,8 @@
 mainApp
     .controller('registerController', [
-        '$scope', '$stateParams','$resource', function($scope, $stateParams,$resource) {
+        '$scope', '$stateParams', '$resource', 'userService', function ($scope, $stateParams, $resource, userService) {
 
-            var register = $resource("/GroupBuyServer/api/register/:id", { id: '@id' });
+            var register = $resource("/GroupBuyServer/api/register", {});
             $scope.user = {
                 firstName: "",
                 lastName: "",

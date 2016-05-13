@@ -6,7 +6,9 @@
 }
 
 .logo {
-    margin-top: 3px;    
+    margin-top: 3px; 
+    outline: none;
+    cursor: pointer;  
 }
 
 .more-button {

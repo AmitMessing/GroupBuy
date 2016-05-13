@@ -4,7 +4,7 @@
             <md-button class="md-icon-button" ng-click="" aria-label="Menu">
                 <md-icon class="material-icons md-dark">menu</md-icon>
             </md-button>
-            <div class="logo" ng-class="{scrolling:boolChangeClass}" ng-click=" gohome()">
+            <div class="logo" ng-class="{scrolling:boolChangeClass}" ng-click="goHome()">
                 <h2>
                     <span>
                         Group
@@ -33,11 +33,16 @@
                 <md-icon class="material-icons md-dark">search</md-icon>
                 <md-tooltip>search</md-tooltip>
             </md-button>
-            <md-button class="md-icon-button" aria-label="View Shopping cart">
+            <md-button ng-show="isUserLogged" class="md-icon-button" aria-label="View Shopping cart">
                 <md-icon class="material-icons md-dark">shopping_cart</md-icon>
                 <md-tooltip>View Cart</md-tooltip>
             </md-button>
-            <div class="lock-size" ng-cloak layout="row" layout-align="center center">
+            <div ng-show="!isUserLogged" class="lock-size" ng-cloak layout="row" layout-align="center center">
+                <md-button class="more-button md-fab" style="padding: 0" aria-label="More" ng-click="gotoLogin()">
+                    <md-icon class="material-icons user-pic">perm_identity</md-icon>
+                </md-button>
+            </div>
+            <div ng-show="isUserLogged" class="lock-size" ng-cloak layout="row" layout-align="center center">
                 <md-fab-speed-dial style="height: 40px !important" class="md-fling" md-open="isOpen" md-direction="down">
                     <md-fab-trigger>
                         <md-button class="more-button md-fab" style="padding: 0" aria-label="More" ng-click="gotoLogin()">

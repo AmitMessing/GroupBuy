@@ -1,8 +1,9 @@
 ﻿mainApp
     .controller('shellController', [
-        '$scope', '$element', '$state', '$window', function ($scope, $element, $state, $window) {
+        '$scope', '$element', '$state', '$window', 'userService', function ($scope, $element, $state, $window, userService) {
             $scope.isOpen = false;
             $scope.categories = ['Fashion', 'Gifts', 'Home', 'Man Fashion'];
+            $scope.isUserLogged = userService.getLoggedUser();
 
             $scope.goHome = function() {
                 $state.go('shell.home');
