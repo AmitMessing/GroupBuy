@@ -1,11 +1,55 @@
 mainApp
     .controller('loginController', [
-        '$scope', '$stateParams', '$state', function ($scope, $stateParams, $state) {
+        '$scope', '$stateParams', '$state', '$resource', 'userService', function ($scope, $stateParams, $state, $resource, userService) {
             $scope.user = {};
 
             $scope.register = function() {
                 $state.go("shell.register");
             }
-            
+
+            var loginUser = $resource("/GroupBuyServer/api/login", {});
+
+            var user = userService.getLoggedUser();
+            if (user != null) {
+                $scope.user = JSON.parse(user);
+            }
+            else {
+                $scope.user = undefined;
+            }
+
+            $scope.error = "";
+            $scope.loginDetails = {
+                userName: "",
+                password: ""
+            };
+
+            var validateLoginFields = function () {
+                if ($scope.loginDetails.userName === "" || $scope.loginDetails.userName === undefined ||
+                    $scope.loginDetails.password === "" || $scope.loginDetails.password === undefined) {
+                    $scope.error = "נא למלא את כל השדות";
+                    return false;
+                }
+                return true;
+            };
+
+            $scope.login = function () {
+                if (validateLoginFields()) {
+                    loginUser.save($scope.loginDetails)
+                        .$promise.then(function (user) {
+                            if (user) {
+                                userService.setLoggedUSer(user);
+                                $state.go('shell.home');
+                            }
+                            else {
+                                $scope.error = "שם משתמש או סיסמא שגויים, נסה שנית";
+                                alert($scope.error);
+                            }
+                        }
+                    )
+                    .error(function (data) {
+                        console.log(data);
+                    });
+                }
+            };
         }
     ]);

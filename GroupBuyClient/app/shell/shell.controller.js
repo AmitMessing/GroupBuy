@@ -3,7 +3,16 @@
         '$scope', '$element', '$state', '$window', 'userService', function ($scope, $element, $state, $window, userService) {
             $scope.isOpen = false;
             $scope.categories = ['Fashion', 'Gifts', 'Home', 'Man Fashion'];
-            $scope.isUserLogged = userService.getLoggedUser();
+           
+            $scope.user = {};
+            var user = userService.getLoggedUser();
+            if (user != null) {
+                $scope.user = JSON.parse(user);
+            }
+            else {
+                $scope.user = undefined;
+            }
+
 
             $scope.goHome = function() {
                 $state.go('shell.home');

@@ -7,16 +7,16 @@
             <div layout="row" flex>
                 <md-input-container flex>
                     <label>User Name</label>
-                    <input ng-model="user.userName" flex>
+                    <input ng-model="loginDetails.userName" flex>
                 </md-input-container>
             </div>
             <div layout="row" flex>
                 <md-input-container flex>
                     <label>Password</label>
-                    <input ng-model="user.password" type="password" flex>
+                    <input ng-model="loginDetails.password" type="password" flex>
                 </md-input-container>
             </div>
-            <md-button class="md-raised md-primary login-button">login</md-button>
+            <md-button ng-click="login()" class="md-raised md-primary login-button">login</md-button>
             <md-button class="md-primary register-button" ng-click="register()">Click here to register</md-button>
         </md-card-content>
     </md-card>
