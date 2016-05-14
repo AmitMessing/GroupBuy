@@ -13,6 +13,10 @@
                 $scope.user = undefined;
             }
 
+            $scope.userZone = function() {
+                $state.go('shell.user');
+            };
+
             $scope.addPost = function () {
                 $state.go('shell.post');
             };

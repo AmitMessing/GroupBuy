@@ -1,0 +1,35 @@
+﻿<div flex="50" layout="column" layout-align="center center">
+    <md-card class="login-card">
+        <md-card-title class="login-card-title" layout-align="center center">
+            <span class="login-card-title"> Update details</span>
+        </md-card-title>
+        <md-card-content>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>First Name</label>
+                    <input ng-model="user.FirstName" flex>
+                </md-input-container>
+            </div>
+            <div layout="row" flex>
+                <md-input-container flex ng-model="user">
+                    <label>Last Name</label>
+                    <input ng-model="user.LastName" flex>
+                </md-input-container>
+            </div>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>User Name</label>
+                    <input ng-model="user.UserName" flex>
+                </md-input-container>
+            </div>
+            <div layout="row" flex>
+                <md-input-container flex>
+                    <label>Password</label>
+                    <input ng-model="user.Password" flex>
+                </md-input-container>
+            </div>
+            <div ng-show="errorMessage != ''">{{errorMessage}}</div>
+            <md-button class="md-raised md-primary login-button" ng-click="updateUser()">Save</md-button>
+        </md-card-content>
+    </md-card>
+</div>

@@ -14,7 +14,7 @@ namespace GroupBuyServer.Controllers
     public class RegisterController : ApiController
     {
         [HttpPost]
-        public IHttpActionResult Register(User user)
+        public IHttpActionResult Save(User user)
         {
             using (var session = NHibernateHandler.CurrSession)
             {

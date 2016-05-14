@@ -8,6 +8,7 @@
 @import 'login/login.css';
 @import 'register/register.css';
 @import 'post/post.css';
+@import 'user/user.css';
 
 body {
     font-family: 'Segoe UI';

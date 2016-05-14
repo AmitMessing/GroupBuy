@@ -1,0 +1,19 @@
+﻿.login-card {
+    width: 368px;
+    padding: 2px;
+}
+
+.login-button {
+    color: white !important;
+}
+
+.register-button {
+    color: #FF9100 !important;
+}
+
+.login-card-title {
+    background: rgb(3, 169, 244);
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
