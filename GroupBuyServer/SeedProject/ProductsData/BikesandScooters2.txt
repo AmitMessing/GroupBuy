@@ -1,0 +1,569 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "color": "GREY",
+      "model": "TL8122BP",
+      "features": {
+        "Origin": "Taiwan",
+        "Shipping": "This item is also available for shipping to select countries outside the U.S."
+      },
+      "brand": "Crank Brothers",
+      "height": "25.40",
+      "upc": "641300133427",
+      "length": "25.40",
+      "weight": "45359.24",
+      "cat_id": "24097",
+      "sem3_id": "3VpX7MXA3UoAGo0AQmyaGm",
+      "created_at": 1347785979,
+      "price": "44.53",
+      "width": "25.40",
+      "mpn": "13342",
+      "ean": "0641300133427",
+      "manufacturer": "Crank Brothers",
+      "sitedetails": [
+        {
+          "sku": "crank-brothers-pica-premium-multi-tool",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1384818600,
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "firstrecorded_at": 1380133600,
+              "currency": "USD",
+              "price": "55.96",
+              "id": "2QUtdmUngiOkAOwQCeiSKE",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.backcountry.com/crank-brothers-pica-premium-multi-tool",
+          "name": "backcountry.com"
+        }
+      ],
+      "name": "Crank Brothers Pica+ Premium Multi-Tool []",
+      "category": "Bike Tools & Equipment",
+      "updated_at": 1460690318,
+      "gtins": [
+        "00641300133427"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Claimed Weight": "190 g",
+        "Recommended Use": "cycling",
+        "Product Dimensions": "12 x 10 x 7 inches ; 6.1 ounces",
+        "Adjustable Vents": "no",
+        "Fit Adjustment": "Spiderlock SL",
+        "Material": "polystyrene, polycarbonate"
+      },
+      "created_at": 1347589683,
+      "upc": "775504214375",
+      "manufacturer": "Louis Garneau",
+      "weight": "498951.61",
+      "cat_id": "6373",
+      "sitedetails": [
+        {
+          "url": "http://www.backcountry.com/louis-garneau-x-lite-helmet",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1386092600,
+              "id": "3sJqYMzvMOGqG6scMYC6CS",
+              "availability": "Available",
+              "price": "135.96",
+              "seller": "Backcountry.com",
+              "lastrecorded_at": 1388053400,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1383333300,
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "firstrecorded_at": 1383333300,
+              "availability": "Available",
+              "price": "169.95",
+              "id": "7hENDrrAIKqA00qacYkmm4",
+              "isactive": 0
+            }
+          ],
+          "sku": "louis-garneau-x-lite-helmet",
+          "recentoffers_count": 1,
+          "name": "backcountry.com"
+        }
+      ],
+      "ean": "0775504214375",
+      "category": "Helmets",
+      "color": "White/Silver",
+      "name": "Louis Garneau X-Lite Helmet []",
+      "model": "X Lite",
+      "size": "Small",
+      "sem3_id": "0G1LfSfFVlgMwMUeQawCeY",
+      "price": "135.96",
+      "brand": "Louis Garneau",
+      "updated_at": 1460682219,
+      "mpn": "1405953 2X8 S",
+      "variation_id": "5LiqHHdRYWsGg20ieyGCoC",
+      "gtins": [
+        "00775504214375"
+      ],
+      "variation_secondaryids": [
+        "1AGxK7v5TQuo2kOssQsIMO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Louis Garneau Quartz II Helmet Red, S",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "74.98",
+              "shipping": "8.94",
+              "lastrecorded_at": 1391625600,
+              "firstrecorded_at": 1389475700,
+              "id": "4savalcPbyiOQuOG0448sW",
+              "currency": "USD",
+              "seller": "Backcountry.com",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "id": "0VYd2yQS2PeauQc8IAyCm2",
+              "seller": "Backcountry.com",
+              "availability": "Available",
+              "lastrecorded_at": 1389114300,
+              "firstrecorded_at": 1388124300,
+              "price": "97.47",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.backcountry.com/louis-garneau-quartz-ii-helmet",
+          "sku": "louis-garneau-quartz-ii-helmet",
+          "recentoffers_count": 1,
+          "name": "backcountry.com"
+        }
+      ],
+      "category": "Helmets",
+      "model": "1405250 2X9 S",
+      "upc": "775504611730",
+      "manufacturer": "Louis Garneau",
+      "size": "Small",
+      "features": {
+        "Fit Adjustment": "Spider Pro II",
+        "Product Dimensions": "13 x 9 x 6 inches ; 1.5 pounds",
+        "Material": "[padding] X-Static XT2, [reinforcement] carbon composite",
+        "Adjustable Vents": "no, 33 fixed vents",
+        "Recommended Use": "road cycling",
+        "Claimed Weight": "250 g"
+      },
+      "weight": "394058.37",
+      "brand": "Louis Garneau",
+      "price": "74.98",
+      "variation_id": "6Ge3HeiLAmQ0EWkSMKgwg2",
+      "color": "Red",
+      "ean": "0775504611730",
+      "mpn": "1405250-2X9",
+      "created_at": 1374819178,
+      "cat_id": "6373",
+      "sem3_id": "5hyeaesDUOyqwU2icoiEoO",
+      "updated_at": 1460583739,
+      "gtins": [
+        "00775504611730"
+      ],
+      "variation_secondaryids": [
+        "4J3yPMmdpA4OOECwoESUm0",
+        "6q33pIebRIkcesYS86sw4A"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Shipping Information": "View shipping rates and policies"
+      },
+      "cat_id": "251",
+      "updated_at": 1460556547,
+      "size": "Cruiser",
+      "sem3_id": "7e62kQIKLuY4iyAiOIAw4K",
+      "weight": "385553.51",
+      "mpn": "BMP-CR",
+      "brand": "Serfas",
+      "manufacturer": "Serfas",
+      "price": "33.50",
+      "category": "Components & Parts",
+      "upc": "713835911310",
+      "name": "Serfas BMP Gel Saddle Pad Cover []",
+      "ean": "0713835911310",
+      "sitedetails": [],
+      "model": "BMP CR",
+      "created_at": 1347543468,
+      "gtins": [
+        "00713835911310"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "80.01",
+      "cat_id": "251",
+      "variation_id": "4IhedxFtcu2IGIMcYIGOGK",
+      "features": {
+        "Claimed Weight": "220 g",
+        "Volume": "106.8 in3",
+        "Dimensions": "140 mm 120 mm 230 mm",
+        "Material": "nylon",
+        "Product Dimensions": "7 x 6 x 3 inches ; 2.7 pounds",
+        "Recommended Use": "light touring"
+      },
+      "price": "15.40",
+      "size": "Medium",
+      "category": "Components & Parts",
+      "model": "Lezyne M CADDY Blk",
+      "sitedetails": [
+        {
+          "sku": "lezyne-caddy-saddle-bag",
+          "recentoffers_count": 1,
+          "url": "http://www.backcountry.com/lezyne-caddy-saddle-bag",
+          "name": "backcountry.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "15.40",
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "id": "6LXgl7UzjsQwkQOmiOOAiq",
+              "lastrecorded_at": 1386261300,
+              "firstrecorded_at": 1383605000,
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "name": "xtremebikeandsport.com",
+          "latestoffers": [
+            {
+              "seller": "Xtreme Bike & Sport",
+              "currency": "USD",
+              "price": "21.99",
+              "lastrecorded_at": 1400758100,
+              "firstrecorded_at": 1400758100,
+              "id": "55gAyldglskiW0yM20QGAW",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "32420",
+          "url": "https://xtremebikeandsport.com/product?item_id=32420"
+        }
+      ],
+      "sem3_id": "3jSW9K0iQSoMAy48UaME6W",
+      "length": "124.97",
+      "width": "59.94",
+      "weight": "95254.40",
+      "ean": "4712805970599",
+      "updated_at": 1460770620,
+      "name": "Lezyne Caddy Saddle Bag []",
+      "manufacturer": "Lezyne",
+      "color": "Black",
+      "created_at": 1357810018,
+      "mpn": "1-SB-CADDY-V1M04",
+      "brand": "Lezyne",
+      "gtins": [
+        "04712805970599"
+      ],
+      "variation_secondaryids": [
+        "7VZEvpeRpAuG6iWoGq8osk",
+        "4PZYOZsJtAIQUwQE8ewgmM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "251",
+      "ean": "0713835009789",
+      "model": "CTR 700",
+      "weight": "750000.00",
+      "category": "Components & Parts",
+      "name": "Serfas Drifter Tire with FPS, 700 X 32",
+      "updated_at": 1420948219,
+      "price": "30.00",
+      "upc": "713835009789",
+      "variation_id": "5taQt7Aqqea40gCwEYYw2W",
+      "brand": "Serfas",
+      "size": "700 x 32mm",
+      "color": "Black",
+      "sem3_id": "6N97RQgAb2aw8uySkEW0eK",
+      "created_at": 1347468642,
+      "mpn": "SFS-F-DRIFTER-CT-700",
+      "sitedetails": [
+        {
+          "sku": "3062349",
+          "latestoffers": [
+            {
+              "seller": "Sport Chalet",
+              "lastrecorded_at": 1407607100,
+              "firstrecorded_at": 1394717900,
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "3V2rDQHb4Ca2ogWsWW48YA",
+              "price": "31.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.sportchalet.com/product/cycling/bike+equipment/tires+-+tubes/301573_3062349.do",
+          "name": "sportchalet.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "manufacturer": "Serfas",
+      "gtins": [
+        "00713835009789"
+      ],
+      "variation_secondaryids": [
+        "2z9h6NZI92amaKCu4sEems",
+        "1aI4mtzgSuY4egkGG2I4qo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347598917,
+      "brand": "selle ITALIA",
+      "color": "Black",
+      "weight": "3628.74",
+      "ean": "8030282360426",
+      "category": "Components & Parts",
+      "length": "304.80",
+      "width": "215.90",
+      "height": "63.50",
+      "variation_id": "3LJcvcvERc6CyacaEWUc4m",
+      "name": "Selle Italia XO Flow 19 Fec HC- All Colors [Black]",
+      "features": {
+        "Product Dimensions": "11.5 x 8.1 x 2.3 inches ; 7.2 ounces",
+        "Discontinued by manufacturer": "Yes"
+      },
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "https://xtremebikeandsport.com/product?item_id=20816",
+          "sku": "20816",
+          "name": "xtremebikeandsport.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1400405900,
+              "currency": "USD",
+              "seller": "Xtreme Bike & Sport",
+              "id": "163OVqL9co4iIg0m88AAo4",
+              "firstrecorded_at": 1397699900,
+              "price": "59.40",
+              "isactive": 0
+            },
+            {
+              "seller": "Xtreme Bike & Sport",
+              "lastrecorded_at": 1389477800,
+              "currency": "USD",
+              "firstrecorded_at": 1389477800,
+              "id": "5ZA9q4bgNyWceSciSocACm",
+              "price": "58.50",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "251",
+      "mpn": "052A501EEC003",
+      "sem3_id": "6fS7tCtaV60mWI64oOoEcg",
+      "manufacturer": "Selle Italia",
+      "model": "SA0092",
+      "updated_at": 1459016002,
+      "price": "58.79",
+      "gtins": [
+        "08030282360426"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Incredibell",
+      "width": "76.20",
+      "features": {
+        "Origin": "China",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "created_at": 1347797265,
+      "name": "Mirrycle Incredibell Original Bicycle Bell (Black)",
+      "sem3_id": "0HfQR3CgwjYwQq6sqw0sQi",
+      "upc": "764459311000",
+      "color": "Black",
+      "model": "BELL1050",
+      "length": "50.80",
+      "weight": "59534.00",
+      "category": "Accessories",
+      "manufacturer": "Incredibell",
+      "price": "10.49",
+      "ean": "0764459311000",
+      "updated_at": 1459069163,
+      "mpn": "20-INC",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "4sQSgcUbA8oYOMoAc8Yyg2",
+              "price": "8.00",
+              "lastrecorded_at": 1399568100,
+              "firstrecorded_at": 1399568100,
+              "seller": "Xtreme Bike & Sport",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "xtremebikeandsport.com",
+          "sku": "2074",
+          "recentoffers_count": 0,
+          "url": "https://xtremebikeandsport.com/product?item_id=2074"
+        }
+      ],
+      "variation_id": "4Ie18j0AzIWSQcUWGKcq6s",
+      "height": "76.20",
+      "cat_id": "4946",
+      "gtins": [
+        "00764459311000"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1458998684,
+      "manufacturer": "Giro",
+      "cat_id": "6373",
+      "mpn": "232-32-2011-9677-MatteBlac-L-9681",
+      "weight": "21001.33",
+      "size": "Large",
+      "name": "Giro Atmos Racing Bike Helmet [Black/Yellow, Large]",
+      "color": "Matte Black/White Crowd",
+      "brand": "Giro",
+      "ean": "0361857314116",
+      "model": "2023024",
+      "variation_id": "5Ok70zqcpEkOasmyIMYQ6G",
+      "upc": "361857314116",
+      "category": "Helmets",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "2 pounds"
+      },
+      "sitedetails": [],
+      "sem3_id": "4TdunyXOxywEQCe0COWoGu",
+      "created_at": 1347535499,
+      "gtins": [
+        "00361857314116"
+      ],
+      "variation_secondaryids": [
+        "0z0UaWNcekwSuwAuy2I8g0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "226796.18",
+      "name": "SRAM Rival Road Bike Front Derailleur [One Color, 34.9 Clamp]",
+      "variation_id": "5mzm6cHVtQ8Iu4A8SGm4q0",
+      "sem3_id": "6PN5OMhIZswkoYQAWeccmi",
+      "cat_id": "251",
+      "price": "29.99",
+      "category": "Components & Parts",
+      "manufacturer": "SRAM",
+      "sitedetails": [
+        {
+          "sku": "sram-rival-front-derailleur",
+          "recentoffers_count": 1,
+          "name": "backcountry.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "shipping": "8.94",
+              "seller": "Backcountry.com",
+              "id": "1U8V1tBqh2cs2kIYwoOayG",
+              "currency": "USD",
+              "lastrecorded_at": 1387079900,
+              "firstrecorded_at": 1387079900,
+              "price": "39.00",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.backcountry.com/sram-rival-front-derailleur"
+        }
+      ],
+      "mpn": "71090049",
+      "created_at": 1347602763,
+      "brand": "Sram",
+      "model": "71090049",
+      "features": {
+        "Claimed Weight": "87 g",
+        "Speeds": "10",
+        "Recommended Use": "cycling",
+        "Material": "[body] aluminum; [cage] steel",
+        "Manufacturer Warranty": "2 years",
+        "Pull Type": "dual pull",
+        "Mount": "braze-on, 31.8mm clamp, 34.9mm clamp",
+        "Capacity": "Compatible Components: SRAM 10-speed"
+      },
+      "ean": "0710845609985",
+      "updated_at": 1458963427,
+      "upc": "710845609985",
+      "size": "34.9 Clamp",
+      "gtins": [
+        "00710845609985"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

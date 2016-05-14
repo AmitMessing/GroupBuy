@@ -1,0 +1,386 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "SDN2 006",
+      "height": "78.99",
+      "name": "CAP Barbell Neoprene Coated Dumbbell, Single []",
+      "size": "6-Pound",
+      "updated_at": 1460643593,
+      "brand": "Cap Barbell",
+      "mpn": "SDN2-006A",
+      "ean": "0702556130490",
+      "created_at": 1347527285,
+      "sitedetails": [],
+      "color": "Gray",
+      "price": "14.49",
+      "sem3_id": "6wZ1hlKtJAYiyGqmsQyoq2",
+      "variation_id": "4FW0OogTJQkYeAS6SOuAi0",
+      "cat_id": "12247",
+      "width": "231.90",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "weight": "2721554.22",
+      "category": "Dumbbells",
+      "manufacturer": "Cap Barbell",
+      "length": "335.03",
+      "upc": "702556130490",
+      "gtins": [
+        "00702556130490"
+      ],
+      "variation_secondaryids": [
+        "573eLBjwsS4kgMwI2uI200"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "90.00",
+      "sem3_id": "76Wp44DBpIgAECGmIEKkcw",
+      "width": "127.00",
+      "upc": "087453201604",
+      "manufacturer": "Thera-Band",
+      "brand": "TheraBand",
+      "sitedetails": [],
+      "ean": "0087453201604",
+      "name": "Thera-Band Roll, 150-Feet, GREEN",
+      "category": "Exercise Bands",
+      "created_at": 1347714966,
+      "color": "Green",
+      "mpn": "10-1010",
+      "cat_id": "1386",
+      "size": "150-Feet",
+      "updated_at": 1458947120,
+      "weight": "771107.03",
+      "model": "Y0A2THBGRERL",
+      "features": {
+        "Origin": "Malaysia",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "gtins": [
+        "00087453201604"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "2313321.09",
+      "sitedetails": [],
+      "sem3_id": "3mR0xe1Epkq6QmM2GcS4mg",
+      "updated_at": 1460562640,
+      "width": "342.90",
+      "created_at": 1347614073,
+      "cat_id": "3420",
+      "upc": "024409111549",
+      "category": "Mat Bags",
+      "price": "27.98",
+      "name": "Goson® Genuine Leather Duffel tote Bag []",
+      "features": {
+        "Product Dimensions": "10 x 10 x 2 inches; 2 pounds"
+      },
+      "brand": "BNF",
+      "model": "LUBL24",
+      "color": "Multicoloured",
+      "ean": "0024409111549",
+      "length": "584.20",
+      "manufacturer": "Online Discount Mart",
+      "mpn": "05-LUBL24",
+      "height": "152.40",
+      "gtins": [
+        "00024409111549"
+      ],
+      "variation_secondaryids": [
+        "5Xy5xmYH9kc6k6QuMMCm24"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Weights",
+      "width": "650.24",
+      "name": "CAP Barbell Regular Grey 160 lb Weight Set",
+      "upc": "702556516010",
+      "ean": "0702556516010",
+      "cat_id": "9498",
+      "sitedetails": [],
+      "length": "370.84",
+      "updated_at": 1460569569,
+      "mpn": "RSG-160T",
+      "created_at": 1347512672,
+      "manufacturer": "Cap Barbell",
+      "sem3_id": "5tCochKEDI466SQ8uMkmSm",
+      "model": "RSG 160T",
+      "price": "399.99",
+      "height": "1879.60",
+      "features": {
+        "Product Dimensions": "72 x 1 x 1 inches ; 14 pounds"
+      },
+      "weight": "22679618.50",
+      "brand": "Cap Barbell",
+      "gtins": [
+        "00702556516010"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Valeo",
+      "upc": "736097008413",
+      "sitedetails": [],
+      "category": "Dumbbells",
+      "name": "Valeo Neoprene Hand Weight []",
+      "ean": "0736097008413",
+      "mpn": "VA4531PU",
+      "color": "Purple",
+      "manufacturer": "Valeo",
+      "features": {
+        "Item Weight": "3 pounds",
+        "Origin": "Made in USA"
+      },
+      "model": "VA4531PU",
+      "created_at": 1347479855,
+      "weight": "57606.23",
+      "sem3_id": "7J6pwQ6Z0aAYQAGYcWS2SK",
+      "price": "15.00",
+      "cat_id": "12247",
+      "updated_at": 1460773790,
+      "gtins": [
+        "00736097008413"
+      ],
+      "variation_secondaryids": [
+        "10pej8L8SmWcAAeCIwm88u",
+        "2F7G8yCGmiMkI0qaGucymO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "name": "eastbay.com",
+          "sku": "BM71BK_",
+          "url": "http://www.eastbay.com/product/sku:BM71BK",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1456423300,
+              "price": "107.99",
+              "id": "38bQ5y8gaeMeSKqWOMcW8E",
+              "firstrecorded_at": 1443107100,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Eastbay Inc.",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "listprice": "107.99"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Eastbay Inc.",
+              "availability": "Available",
+              "firstrecorded_at": 1443107000,
+              "id": "6rYVMkiw08MCgSeAac08gi",
+              "currency": "USD",
+              "price": "107.99",
+              "lastrecorded_at": 1457377100,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "sku": "BM71BKSG_",
+          "url": "http://www.eastbay.com/product/sku:BM71BKSG",
+          "listprice": "107.99",
+          "name": "eastbay.com"
+        }
+      ],
+      "weight": "635029.32",
+      "price": "107.99",
+      "cat_id": "7755",
+      "manufacturer": "Manduka",
+      "sem3_id": "3Qa4kY3JkOSW6IiiYSWmus",
+      "length": "660.40",
+      "size": "85-Inch",
+      "width": "127.00",
+      "name": "Manduka Mat PRO Yoga and Pilates Mat [Black Magic, 85\"]",
+      "height": "127.00",
+      "color": "Black Magic",
+      "brand": "Manduka",
+      "upc": "846698003714",
+      "created_at": 1357628950,
+      "ean": "0846698003714",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "mpn": "Manduka",
+      "updated_at": 1458951239,
+      "model": "BM85 BLACK SAPPHIRE",
+      "category": "Mats",
+      "gtins": [
+        "00846698003714"
+      ],
+      "variation_secondaryids": [
+        "7P99IHaNtYoiKuScAu0Wuu",
+        "4XeSI14wds42eme0ysIeak",
+        "2CZ95wChHUCguSuIcYOmCK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460386352,
+      "color": "Multi",
+      "mpn": "MBR1",
+      "model": "MBR1",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Item Weight": "12.7 pounds"
+      },
+      "ean": "0710858015698",
+      "brand": "Champion Sports",
+      "manufacturer": "Champion Sports",
+      "weight": "5760623.10",
+      "price": "52.23",
+      "cat_id": "6555",
+      "size": "14 InchL X 11 InchW X 52 InchH",
+      "sitedetails": [],
+      "length": "13.74",
+      "name": "Medicine Ball Rack []",
+      "category": "Exercise Balls & Accessories",
+      "created_at": 1347773884,
+      "sem3_id": "7O3msbCseOa2AuiqyOiY8M",
+      "height": "0.99",
+      "upc": "710858015698",
+      "width": "2.95",
+      "gtins": [
+        "00710858015698"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Item Weight": "1.5 pounds"
+      },
+      "created_at": 1375341509,
+      "upc": "854585718832",
+      "brand": "Schiek",
+      "updated_at": 1459005745,
+      "price": "24.95",
+      "sem3_id": "2pRCi5oZPsOm26AsqEO62G",
+      "mpn": "SSI-1000DLS",
+      "sitedetails": [],
+      "weight": "226796.18",
+      "cat_id": "10524",
+      "name": "Schiek SSI-1000DLS Power Lifting Straps w/ Dowel",
+      "manufacturer": "Schiek",
+      "ean": "0854585718832",
+      "category": "Straps",
+      "gtins": [
+        "00854585718832"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "Pro-Green",
+      "created_at": 1374816396,
+      "sitedetails": [],
+      "model": "KTPRO111",
+      "updated_at": 1459068216,
+      "name": "KT TAPE PRO Elastic Kinesiology Therapeutic Tape - 20 Pre-Cut 10-Inch Strips [Winner Green]",
+      "upc": "893169002479",
+      "price": "14.00",
+      "brand": "KT Tape",
+      "ean": "0893169002479",
+      "variation_id": "6gZGOghjNYIggc2uQY8EIU",
+      "manufacturer": "KT Tape",
+      "cat_id": "15504",
+      "sem3_id": "2QsPjkePqayEuC4Q40qOAM",
+      "category": "Running",
+      "color": "Winter Green",
+      "weight": "453592.37",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "5.6 ounces"
+      },
+      "gtins": [
+        "00893169002479"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1435068830,
+      "color": "Purple",
+      "mpn": "BFGY-AP6",
+      "variation_id": "4u505daNe44kImWsca8y0o",
+      "updated_at": 1459053330,
+      "brand": "BalanceFrom",
+      "cat_id": "7755",
+      "manufacturer": "BalanceFrom",
+      "ean": "0851378005193",
+      "length": "18.03",
+      "width": "6.10",
+      "category": "Mats",
+      "upc": "851378005193",
+      "sem3_id": "2y6to5uadE2gqG26kAaOAC",
+      "name": "BalanceFrom GoYoga All-Purpose 1/2-Inch Extra Thick High Density Anti-Tear Exercise Yoga Mat with Carrying Strap [Purple]",
+      "sitedetails": [],
+      "price": "16.95",
+      "weight": "13607.77",
+      "gtins": [
+        "00851378005193"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "total_results_count": 14381,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "features": {
+        "Product Dimensions": "27 x 23.5 x 23 inches",
+        "Item Weight": "35 pounds",
+        "Exterior": "Smooth"
+      },
+      "variation_id": "0BaqOahcZZukewcoCOOM6E",
+      "cat_id": "18186",
+      "name": "Classic Accessories 73563 OverDrive PolyPro III Deluxe Travel Trailer & Toy Hauler Cover, Fits 27' - 30' [Fits 27' - 30' Trailers]",
+      "mpn": "73563",
+      "brand": "Classic Accessories",
+      "updated_at": 1463082322,
+      "price": "247.62",
+      "height": "4.32",
+      "upc": "052963735635",
+      "sitedetails": [
+        {
+          "name": "newegg.com",
+          "listprice": "328.60",
+          "recentoffers_count": 6,
+          "sku": "9SIA6X62MJ6636",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA6X62MJ6636",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1459148300,
+              "firstrecorded_at": 1459148300,
+              "seller": "Shop Eddies",
+              "availability": "Available",
+              "id": "585cBaKxI8OAQuCewsQKOq",
+              "currency": "USD",
+              "price": "268.80",
+              "isactive": 1
+            },
+            {
+              "price": "288.89",
+              "currency": "USD",
+              "id": "6Ae8QmgWp6KCe6eswk6CUw",
+              "availability": "Available",
+              "firstrecorded_at": 1459148300,
+              "seller": "IPC Store",
+              "shipping": "4039.00",
+              "lastrecorded_at": 1459148300,
+              "isactive": 1
+            },
+            {
+              "id": "4zeCzs1AxEoCEeaeQCw0GY",
+              "price": "328.60",
+              "currency": "USD",
+              "lastrecorded_at": 1459148300,
+              "availability": "Available",
+              "seller": "Autonotions",
+              "firstrecorded_at": 1459148300,
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "category": "RV & Trailer Covers",
+      "manufacturer": "Classic Accessories",
+      "size": "27 to 30 feet",
+      "model": "73563",
+      "length": "6.86",
+      "created_at": 1347550460,
+      "ean": "0052963735635",
+      "color": "Grey",
+      "sem3_id": "4YyHJhVviCYIgYcceWOsm4",
+      "width": "6.35",
+      "weight": "15875732.95",
+      "gtins": [
+        "00052963735635"
+      ],
+      "variation_secondaryids": [
+        "1VubiVtL3EeKEAIG88O2Em",
+        "1zivUtWVPsYCgqmMKcI44GGL"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Atwood",
+      "features": {
+        "Item Weight": "21.6 pounds",
+        "Exterior": "As Shown",
+        "Product Dimensions": "20 x 17 x 14.3 inches"
+      },
+      "size": "6 Gallon",
+      "cat_id": "8524",
+      "model": "96110",
+      "upc": "692931961101",
+      "ean": "0692931961101",
+      "price": "265.00",
+      "category": "Appliances",
+      "created_at": 1347699421,
+      "mpn": "96110",
+      "name": "Atwood Mobile Products 96110 Pilot Ignition Water Heater - 6 Gallon [6 Gallon]",
+      "sem3_id": "77jh8D8FWq0us8EKu4uSiI",
+      "manufacturer": "Atwood Mobile",
+      "weight": "9979032.14",
+      "updated_at": 1462460172,
+      "sitedetails": [],
+      "gtins": [
+        "00692931961101"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462773272,
+      "ean": "0028985344308",
+      "manufacturer": "Thetford",
+      "sitedetails": [],
+      "created_at": 1347470527,
+      "cat_id": "18540",
+      "model": "34430",
+      "upc": "028985344308",
+      "brand": "Thetford",
+      "color": "Bone",
+      "category": "Waste Water & Sanitation",
+      "name": "Thetford 34430 Aqua Magic Style Plus Toilet, High / Bone [Bone, High]",
+      "features": {
+        "Item Weight": "37.5 pounds",
+        "OEM Part Number": "34430",
+        "Product Dimensions": "25 x 22.5 x 19.2 inches",
+        "This item": "Thetford 34430 Aqua Magic Style Plus Toilet, High / Bone $270.84"
+      },
+      "price": "245.21",
+      "mpn": "34430",
+      "sem3_id": "5XvOLeW1qqIqMGQeEAYeIc",
+      "gtins": [
+        "00028985344308"
+      ],
+      "variation_secondaryids": [
+        "3Tk5dxO3EWy0ekQQguAOAA",
+        "5N89424mcCCsAaOWOGS8qo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Valterra",
+      "name": "Valterra A01-1117VP Brass Lead-Free Adjustable Water Regulator",
+      "upc": "019079911179",
+      "features": {
+        "Product Dimensions": "1.4 x 1.1 x 0.5 inches",
+        "Item Weight": "1 pounds"
+      },
+      "cat_id": "17004",
+      "sitedetails": [],
+      "weight": "453592.37",
+      "model": "A01 1117VP",
+      "created_at": 1356029489,
+      "updated_at": 1462790127,
+      "category": "Plumbing",
+      "manufacturer": "Valterra",
+      "price": "55.26",
+      "color": "Brass",
+      "mpn": "A011117VP",
+      "ean": "0019079911179",
+      "sem3_id": "7SF3XP0UgwKCiAqMeqsQoc",
+      "gtins": [
+        "00019079911179"
+      ],
+      "variation_secondaryids": [
+        "3zCpj5z7G48AoQ8aoqsmyO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Dometic",
+      "price": "114.47",
+      "manufacturer": "dometic",
+      "model": "3309518.003",
+      "name": "Dometic 3309518.003 Replacement Shroud",
+      "width": "406.40",
+      "updated_at": 1463097752,
+      "sem3_id": "5gVVU6Lt1EqMGOSKCOeSs2",
+      "features": {
+        "Product Dimensions": "36 x 16 x 30 inches",
+        "Item Weight": "44 pounds"
+      },
+      "mpn": "3309518.003",
+      "height": "762.00",
+      "weight": "19958064.28",
+      "created_at": 1365755809,
+      "sitedetails": [],
+      "category": "Heating, Ventilation & Air Conditioning",
+      "cat_id": "22508",
+      "length": "914.40",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Champion Power Equipment",
+      "upc": "896682424360",
+      "weight": "25401172.72",
+      "name": "Champion Power Equipment 42436, 1200 Running Watts/1500 Starting Watts, Gas Powered Portable Generator, CARB Compliant [Portable Generator]",
+      "width": "375.92",
+      "sem3_id": "7ewdJduAxkQG2SUkgi8GSk",
+      "brand": "Champion",
+      "features": {
+        "Outlet Type": "5-20R",
+        "Engine Governor": "Centrifugal",
+        "Material": "Other",
+        "Low Oil Shutdown": "Yes",
+        "Air Filter Included": "Yes",
+        "Engine Country of Manufacture": "China",
+        "Automatic Idle Control": "Yes",
+        "Fuel Included": "No",
+        "Maximum Wattage": "1200 Watts (W)",
+        "Country of Assembly": "China",
+        "Installation Required": "No",
+        "Electronics Safe": "No",
+        "Load Management System": "Yes",
+        "Starting System": "Recoil",
+        "Noise Level": "65 Decibel",
+        "Number of Outlets": "1",
+        "Number of Items Included": "1",
+        "Maximum Endurable Temperature": "120 Fahrenheit",
+        "Low Oil Alert": "Yes",
+        "USFS Approved Spark Arrestor": "Yes",
+        "Weather Resistant": "Yes",
+        "Powder Coated Finish": "Yes",
+        "Spark Arrestor Included": "Yes",
+        "Assembly Required": "Yes",
+        "Engine RPM": "3600",
+        "Water Resistant Details": "Water resistant finish",
+        "Tank Capacity": "1.45 Gallons",
+        "Handles Included": "No",
+        "Product Type": "Recreational generators",
+        "Fuel Gauge": "Yes",
+        "Tools Needed for Assembly": "Screwdriver and wrench",
+        "Water Resistant": "Yes",
+        "Recommended Oil Type": "10W-30",
+        "Number of Cylinders": "1",
+        "Maximum Amperage": "20 Amps",
+        "Hardware Material": "Stainless steel",
+        "Residential or Commercial Use": "Residential; Commercial",
+        "Power Cord Included": "No",
+        "Rated Voltage": "120",
+        "Enclosure Material": "Steel",
+        "Compatible Cover Part Number": "C90015",
+        "CARB Compliant": "Yes",
+        "Finish": "Black and yellow",
+        "Control Type": "Analogue",
+        "Rated Frequency": "60 Hertz",
+        "Overcrank Protection": "Yes",
+        "Oil Included": "No",
+        "Transfer Switch Included": "No",
+        "Engine Brand": "Champion",
+        "Fuel Required": "Yes",
+        "Fuel Tank Material": "Steel",
+        "Cover Included": "No",
+        "Engine Size": "80 Cubic Inches",
+        "Product Warranty": "2 years",
+        "CSA Certified": "No",
+        "Outlet or Receptacle Included": "Yes",
+        "Cooling System": "Air-cooled",
+        "Circuit Breaker": "Yes",
+        "Additional Parts Required": "No",
+        "Auto Shut Off": "Yes",
+        "Eco-Friendly": "No",
+        "Oil Capacity": "13.44 Ounces",
+        "Phase": "Single phase",
+        "Compatible Power Cord Part Number": "48034",
+        "Running Wattage": "1200 Watts (W)",
+        "Material Details": "Cast iron",
+        "Starting Wattage": "1500 Watts (W)",
+        "Engine Type": "4 Cycle",
+        "Hour Meter Included": "No",
+        "Voltage": "120 Volts (V)",
+        "Remote Starter": "No",
+        "Indoor or Outdoor Use": "Outdoor",
+        "USDA Approved Spark Arrestor": "Yes",
+        "Minimum Endurable Temperature": "-20 Fahrenheit",
+        "EPA Compliant": "Yes",
+        "Run Time at Half Load": "10 Hours",
+        "Towable": "No",
+        "Roll Cage": "Yes"
+      },
+      "cat_id": "8596",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "251.09",
+              "lastrecorded_at": 1463187900,
+              "availability": "Available",
+              "id": "0GPipMikmZMQS4SqmeSs8w",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1463128200,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463187900,
+              "price": "259.99",
+              "currency": "USD",
+              "firstrecorded_at": 1460192100,
+              "seller": "CPO Commerce Inc",
+              "id": "4825MjGU9QOSg6682MWeie",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "seller": "Wayfair",
+              "firstrecorded_at": 1463041800,
+              "id": "1m55VzQR7AGwgeCyKYA64C",
+              "availability": "Available",
+              "currency": "USD",
+              "price": "251.00",
+              "lastrecorded_at": 1463041800,
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/23219406",
+          "sku": "23219406",
+          "recentoffers_count": 2
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "firstrecorded_at": 1461909800,
+              "id": "4pyeyEawAiwIWQMGoaOSII",
+              "availability": "Available",
+              "lastrecorded_at": 1461909800,
+              "currency": "USD",
+              "price": "258.99",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1459592300,
+              "price": "234.95",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5ak9ZdnyPASaQgQ4UaW68W",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1459592300,
+              "isactive": 0
+            },
+            {
+              "id": "3x3XRIiAQCukuqgM6ycCW8",
+              "availability": "Available",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1458696900,
+              "currency": "USD",
+              "price": "257.99",
+              "lastrecorded_at": 1459253400,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.wayfair.com/Champion-Power-Equipment-1-200-Watt-Portable-Generator-42436-CXP1080.html",
+          "name": "wayfair.com",
+          "sku": "CXP1080",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "bjs.com",
+          "url": "http://www.bjs.com/.product.234470",
+          "sku": "234470",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "229.99",
+              "currency": "USD",
+              "lastrecorded_at": 1460923100,
+              "firstrecorded_at": 1420547200,
+              "seller": "BJ's Wholesale Club,Inc",
+              "id": "2QPMDJZqbwkMMMwsEIIeoe",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "height": "355.60",
+      "length": "449.58",
+      "updated_at": 1463222271,
+      "ean": "0896682424360",
+      "category": "Generators",
+      "model": "42436",
+      "price": "218.44",
+      "created_at": 1356931078,
+      "gtins": [
+        "00896682424360"
+      ],
+      "variation_secondaryids": [
+        "3RfD3XXnZ2AGccQKAQSsk4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "5LVyPY8ZLkWuis4AASACcE",
+      "price": "279.95",
+      "cat_id": "15014",
+      "model": "87641",
+      "mpn": "87641",
+      "category": "Jacks & Leveling",
+      "sitedetails": [],
+      "features": {
+        "Product Dimensions": "33.5 x 12 x 6.5 inches",
+        "Item Weight": "30 pounds"
+      },
+      "brand": "Husky Liners",
+      "ean": "0088805876419",
+      "updated_at": 1463176375,
+      "name": "Husky 87641 Brute Electric Jack with Wireless Remote - 4500 lbs. Capacity",
+      "created_at": 1347522290,
+      "upc": "088805876419",
+      "manufacturer": "Husky",
+      "weight": "2041165665.00",
+      "gtins": [
+        "00088805876419"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463170676,
+      "sitedetails": [
+        {
+          "url": "http://www.wayfair.com/Camco-T-Level-25543-YBW1044.html",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1389792900,
+              "seller": "Wayfair",
+              "firstrecorded_at": 1389792900,
+              "price": "8.69",
+              "currency": "USD",
+              "id": "2EYMpntL4usGua2Eiy242C",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "sku": "YBW1044",
+          "recentoffers_count": 0,
+          "name": "wayfair.com"
+        },
+        {
+          "sku": "790083",
+          "url": "http://www.antonline.com/p_Camco_790083.htm",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "21SdrfyycqI4EuwQ4Ysk84",
+              "availability": "22 In Stock",
+              "lastrecorded_at": 1401391900,
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1396664500,
+              "price": "6.22",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1394762300,
+              "price": "6.42",
+              "firstrecorded_at": 1394762300,
+              "currency": "USD",
+              "id": "35xQFhDZZwAgOuo2WMY4IK",
+              "availability": "23 In Stock",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1393898000,
+              "firstrecorded_at": 1391196200,
+              "price": "6.10",
+              "id": "7R8vMTNVFAw8uuwwqoI6c2",
+              "currency": "USD",
+              "availability": "23 In Stock",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "upc": "014717255431",
+      "features": {
+        "Product Dimensions": "5.5 x 3.6 x 69 inches",
+        "Item Weight": "1.4 ounces"
+      },
+      "name": "Camco 25543 T Level",
+      "mpn": "25543",
+      "cat_id": "15014",
+      "brand": "Camco",
+      "created_at": 1347777391,
+      "sem3_id": "7UYN82rwX22oMIqE0cuC2g",
+      "ean": "0014717255431",
+      "manufacturer": "Camco",
+      "weight": "226796.18",
+      "model": "25543",
+      "category": "Jacks & Leveling",
+      "price": "5.63",
+      "gtins": [
+        "00014717255431"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463214796,
+      "model": "850001",
+      "upc": "740544661731",
+      "price": "64.17",
+      "features": {
+        "OEM Part Number": "850001",
+        "Product Dimensions": "165.5 x 16.7 x 16.1 inches",
+        "Item Weight": "1 pounds"
+      },
+      "sitedetails": [],
+      "cat_id": "18186",
+      "manufacturer": "Carefree",
+      "brand": "Carefree",
+      "weight": "453592.37",
+      "category": "RV & Trailer Covers",
+      "created_at": 1357665251,
+      "name": "Carefree 850001 White Pioneer Crank-Out RV Awning Upgrade Endcap Kit",
+      "mpn": "850001",
+      "ean": "0740544661731",
+      "sem3_id": "42mrGk2XYOEko820kIM8Ce",
+      "gtins": [
+        "00740544661731"
+      ],
+      "variation_secondaryids": [
+        "67ZuMGIFiio80gM8sQI8Qy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1374256875,
+      "price": "380.91",
+      "features": {
+        "Product Type": "Satellite antenna - active",
+        "Form Factor": "Dish",
+        "Service & Support": "2 years warranty",
+        "Dish / Loop Diameter": "18 in",
+        "Included Accessories": "Hand grip",
+        "Cables Included": "1 x coaxial RF cable - 25 ft",
+        "Service & Support Details": "Limited warranty - parts and labor - 1 year Limited warranty - parts - 2 years"
+      },
+      "width": "533.40",
+      "sem3_id": "6nakj4O4UCwGiaa2ACUUoc",
+      "brand": "Winegard",
+      "category": "Electronics",
+      "manufacturer": "Winegard",
+      "cat_id": "11117",
+      "mpn": "GM-5000",
+      "height": "525.78",
+      "updated_at": 1463120992,
+      "color": "Gray",
+      "upc": "615798401160",
+      "sitedetails": [],
+      "weight": "7257477.92",
+      "length": "533.40",
+      "name": "Winegard GM-5000 Carryout Anser Portable Satellite Antenna",
+      "model": "GM 5000",
+      "ean": "0615798401160",
+      "gtins": [
+        "00615798401160"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

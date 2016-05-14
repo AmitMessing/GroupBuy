@@ -1,0 +1,409 @@
+{
+  "total_results_count": 19465,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "width": "247.65",
+      "features": {
+        "Item Weight": "23.7 pounds",
+        "Product Dimensions": "13 x 9.8 x 9.4 inches"
+      },
+      "weight": "10886216.88",
+      "ean": "0641330325205",
+      "category": "Motor Oils",
+      "sem3_id": "5a9zycNIeW0YksuyOUSA8E",
+      "height": "238.25",
+      "brand": "Royal Purple",
+      "upc": "641330325205",
+      "price": "109.49",
+      "size": "12 Quart (384 Ounces)",
+      "cat_id": "10154",
+      "model": "32520",
+      "updated_at": 1459070845,
+      "name": "Royal Purple 32520 HPS 5W-20 High Performance Street Synthetic Motor Oil with Synerlec - 1 qt. (Case of 12)",
+      "mpn": "32520",
+      "length": "330.20",
+      "sitedetails": [],
+      "manufacturer": "Royal Purple",
+      "created_at": 1347592943,
+      "gtins": [
+        "00641330325205"
+      ],
+      "variation_secondaryids": [
+        "7JdtSrnDk0EMsMyyGAuwy0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Engine & Oil",
+      "cat_id": "3444",
+      "length": "101.60",
+      "size": "1 Quart (32 Ounces)",
+      "sem3_id": "4PqCgCU4OeeuEMEo04qs4Y",
+      "width": "101.60",
+      "features": {
+        "Exterior": "Smooth",
+        "Product Dimensions": "4 x 4 x 12 inches",
+        "Item Weight": "2 pounds",
+        "OEM Part Number": "10130"
+      },
+      "price": "15.87",
+      "mpn": "10130",
+      "upc": "049807101305",
+      "sitedetails": [
+        {
+          "name": "osh.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1392113400,
+              "id": "3UthdmiBzUWuKAs6GKMGEa",
+              "currency": "USD",
+              "seller": "Osh",
+              "price": "8.50",
+              "lastrecorded_at": 1394701100,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.osh.com/Osh-Categories/p/2974459",
+          "sku": "2974459"
+        }
+      ],
+      "weight": "889041.05",
+      "brand": "Lucas",
+      "manufacturer": "Lucas",
+      "ean": "0049807101305",
+      "created_at": 1348673637,
+      "updated_at": 1459071632,
+      "name": "Lucas 10130 Synthetic Oil Stabilizer. Quart",
+      "model": "10130",
+      "height": "304.80",
+      "gtins": [
+        "00049807101305"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "24279",
+      "length": "147.32",
+      "upc": "079340377011",
+      "model": "37701",
+      "updated_at": 1459073980,
+      "size": "9 Grams",
+      "ean": "0079340377011",
+      "category": "Adhesives",
+      "features": {
+        "OEM Part Number": "37701",
+        "Item Weight": "4 ounces",
+        "Product Dimensions": "5.8 x 1.8 x 1 inches"
+      },
+      "weight": "113398.09",
+      "brand": "Loctite",
+      "manufacturer": "Loctite",
+      "name": "Loctite 37701 Red High Strength Threadlocker Stick, 9-gram [9 Grams]",
+      "width": "45.72",
+      "mpn": "37701",
+      "height": "25.40",
+      "price": "12.99",
+      "sitedetails": [
+        {
+          "name": "autopartswarehouse.com",
+          "sku": "LOC37701",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1370243800,
+              "seller": "autopartswarehouse.com",
+              "firstrecorded_at": 1364104500,
+              "currency": "USD",
+              "availability": "In Stock. Ships out in 1-2 business days.",
+              "price": "11.81",
+              "id": "5JwCuu2C7yaYMI2cOUgEiS",
+              "isactive": 0
+            },
+            {
+              "id": "6s4J7qQkjYWgCm8qgmWku6",
+              "price": "16.44",
+              "availability": "In Stock. Ships out in 1-2 business days.",
+              "seller": "autopartswarehouse.com",
+              "lastrecorded_at": 1363318500,
+              "firstrecorded_at": 1359158000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.autopartswarehouse.com/sku/Univ/Loctite/Gasket_Sealant/LOC37701.html"
+        }
+      ],
+      "sem3_id": "3f01G6fpiq0wUMM2U0giUc",
+      "created_at": 1348665255,
+      "gtins": [
+        "00079340377011"
+      ],
+      "variation_secondaryids": [
+        "52HgIgaceOu2I40U2C8uEQ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0083522601030",
+      "manufacturer": "Red Line",
+      "cat_id": "14794",
+      "upc": "083522601030",
+      "sitedetails": [],
+      "height": "241.30",
+      "weight": "430912.75",
+      "created_at": 1347580526,
+      "price": "15.93",
+      "mpn": "60103",
+      "category": "Fuel System Cleaners",
+      "model": "60103",
+      "length": "76.20",
+      "features": {
+        "Item Weight": "15.2 ounces",
+        "OEM Part Number": "60103",
+        "Exterior": "Smooth",
+        "Vehicle Service Type": "all-terrain-vehicles, utility-vehicles, street-sport-motorcycles, off-road-motorcycles, street-cruiser-motorcycles, street-touring-motorcycles, street-motor-scooters, snowmobiles, marine-personal-craft",
+        "Product Dimensions": "2.8 x 2.8 x 9.5 inches"
+      },
+      "size": "15 Ounce",
+      "name": "Red Line (60103) Complete SI-1 Fuel System Cleaner - 15 Ounce",
+      "width": "76.20",
+      "brand": "Red Line",
+      "sem3_id": "5QHaIBCKPYGwoY0ew4MO0Y",
+      "updated_at": 1459114450,
+      "gtins": [
+        "00083522601030"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0051135083642",
+      "color": "Brown",
+      "name": "3M 08364 Ultrapro Beige Urethane Seam Sealer Foil Pack - 310 ml",
+      "features": {
+        "Product Dimensions": "12 x 6.6 x 4.2 inches",
+        "Item Weight": "12.8 ounces",
+        "Product Form": "Liquid",
+        "Material Compatibility": "Metal; Plastic; Vinyl",
+        "Sale Unit": "PACK"
+      },
+      "size": "310 Milliliter",
+      "upc": "051135083642",
+      "sem3_id": "57aF3b9xMeSkcOCuMwKwWE",
+      "cat_id": "24279",
+      "category": "Adhesives",
+      "price": "22.29",
+      "model": "08364",
+      "updated_at": 1459056713,
+      "created_at": 1347680821,
+      "brand": "3M",
+      "weight": "453592.37",
+      "sitedetails": [],
+      "mpn": "08364",
+      "manufacturer": "3M",
+      "gtins": [
+        "00051135083642"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "OEM Part Number": "73-SJGM-PXC1"
+      },
+      "width": "152.40",
+      "updated_at": 1459016460,
+      "name": "BG 44K Fuel System Cleaner",
+      "mpn": "208",
+      "category": "Fuel System",
+      "created_at": 1374283134,
+      "manufacturer": "BG Products",
+      "brand": "BG Products",
+      "height": "127.00",
+      "ean": "2080000000000",
+      "sitedetails": [],
+      "cat_id": "16039",
+      "sem3_id": "35ZPN4HBQG2eYkGWA6m4EI",
+      "length": "152.40",
+      "weight": "907184.74",
+      "price": "36.29",
+      "gtins": [
+        "02080000000000"
+      ],
+      "variation_secondaryids": [
+        "0lgBksDY1AGeCkCYagIYUc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "variation_id": "04LfYQTH3eaE4QasGIEsOQ",
+      "sem3_id": "6PYzdzbLncqsGgKmWm0Guu",
+      "category": "Adhesives",
+      "weight": "68038.86",
+      "upc": "043425082374",
+      "name": "J-B Weld 8237 PlasticWeld Plastic Repair Epoxy Putty - 2 oz [2 oz]",
+      "price": "4.62",
+      "mpn": "8237",
+      "model": "8237",
+      "brand": "JB WELD",
+      "created_at": 1430293042,
+      "cat_id": "24279",
+      "features": {
+        "Item Weight": "2.4 ounces",
+        "Product Dimensions": "7.5 x 3.8 x 1.2 inches"
+      },
+      "height": "30.23",
+      "manufacturer": "Jb Weld Company",
+      "updated_at": 1458987556,
+      "width": "96.52",
+      "size": "1-Pack",
+      "ean": "0043425082374",
+      "length": "190.50",
+      "gtins": [
+        "00043425082374"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "30312",
+      "name": "Royal Purple 30312 NLGI No. 2 High Performance Multi-Purpose Synthetic Ultra Performance Grease - 14.1 oz. (Case of 30)",
+      "created_at": 1347743046,
+      "cat_id": "20785",
+      "brand": "Royal Purple",
+      "width": "266.70",
+      "sitedetails": [],
+      "weight": "13607771.10",
+      "category": "Grease & Lubricants",
+      "ean": "0641330303128",
+      "updated_at": 1459070542,
+      "size": "14.5 Ounce (Pack of 30)",
+      "sem3_id": "50kNiVHf720Qyqg868GgA6",
+      "length": "393.70",
+      "upc": "641330303128",
+      "price": "298.08",
+      "mpn": "30312",
+      "height": "304.80",
+      "features": {
+        "Save Big On Open-Box & Used Products": "Buy \"Royal Purple 30312 NLGI No. 2 High Performance Mul...â from Amazon Open-Box & Used and save 49% off the $372.60 list price. Product is eligible for Amazon's 30-day returns policy and Prime or FREE Shipping. See all offers from Amazon Open-Box & Used.",
+        "Item Weight": "30 pounds",
+        "Product Dimensions": "15.5 x 10.5 x 12 inches",
+        "Exterior": "Smooth"
+      },
+      "manufacturer": "Royal Purple",
+      "gtins": [
+        "00641330303128"
+      ],
+      "variation_secondaryids": [
+        "13zHk8ikswAGKsUa802osI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "453592.37",
+      "ean": "0608819243337",
+      "category": "Motor Oils",
+      "width": "304.80",
+      "features": {
+        "Item Weight": "1 pounds",
+        "Product Dimensions": "5.8 x 4.1 x 1.7 inches"
+      },
+      "sem3_id": "75OLs9hjXcOwsQYoCKk6Ay",
+      "height": "304.80",
+      "price": "44.95",
+      "brand": "Archoil",
+      "upc": "608819243337",
+      "model": "AR9100 16",
+      "updated_at": 1459084785,
+      "name": "AR9100-16oz for All Vehicles- Powerstroke Cold Starts, an Injector Stiction Solution",
+      "length": "304.80",
+      "mpn": "AR9100-16",
+      "cat_id": "10154",
+      "created_at": 1348676190,
+      "manufacturer": "Archoil",
+      "sitedetails": [],
+      "gtins": [
+        "00608819243337"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Brake Fluids",
+      "brand": "ATE",
+      "mpn": "706202",
+      "sem3_id": "69BkiMxnrUCiYY4uY0SuKs",
+      "cat_id": "19181",
+      "ean": "0826732430041",
+      "name": "ATE 706202 Original TYP 200 DOT 4 Brake Fluid - 1 Liter",
+      "sitedetails": [],
+      "created_at": 1348705406,
+      "model": "706202",
+      "upc": "826732430041",
+      "manufacturer": "Ate",
+      "features": {
+        "Product Dimensions": "7.5 x 3.7 x 3 inches",
+        "Item Weight": "2.7 pounds",
+        "Discontinued by manufacturer": "Yes",
+        "ABPA Partslink Number": "DOT4TYP200"
+      },
+      "updated_at": 1459100876,
+      "price": "18.98",
+      "gtins": [
+        "00826732430041"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

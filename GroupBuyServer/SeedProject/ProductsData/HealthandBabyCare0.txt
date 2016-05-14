@@ -1,0 +1,902 @@
+{
+  "total_results_count": 4455,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "Vulli",
+      "created_at": 1347704000,
+      "color": "Brown/ White",
+      "upc": "639713641042",
+      "price": "19.98",
+      "name": "Vulli Sophie la Girafe",
+      "model": "516310",
+      "sitedetails": [
+        {
+          "url": "http://www.landofnod.com/autourl/s201308?network=g&matchtype=",
+          "name": "landofnod.com",
+          "sku": "s201308",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1385322100,
+              "price": "24.95",
+              "seller": "The Land of Nod",
+              "id": "5wrFpAKsxy0goOM6eK0o6i",
+              "firstrecorded_at": 1381420400,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "updated_at": 1463121237,
+      "ean": "3056565163107",
+      "brand": "Vulli",
+      "mpn": "516310S",
+      "category": "Teethers",
+      "sem3_id": "3I3KlxpMS8y2sSImWAw20I",
+      "cat_id": "16327",
+      "features": {
+        "Target gender": "Unisex",
+        "Maximum weight recommendation": "60 Pounds",
+        "Dishwasher safe": "No",
+        "Batteries required": "No",
+        "Material Type": "Phthalate Free, BPA Free",
+        "Number of items": "1",
+        "material.composition": "100% natural rubber and food paint",
+        "Item Weight": "1.4 ounces",
+        "Care instructions": "Do not sterilize. Wipe surface clean with soapy water and a damp cloth.",
+        "Origin": "France",
+        "Minimum weight recommendation": "8 Pounds",
+        "Is portable": "No"
+      },
+      "gtins": [
+        "00639713641042",
+        "03056565163107"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "4tBnQsd4LIyOkMUUwKSWia",
+      "weight": "907.18",
+      "price": "13.75",
+      "mpn": "SOPHIE",
+      "updated_at": 1463199751,
+      "length": "25.40",
+      "created_at": 1347519966,
+      "cat_id": "16327",
+      "manufacturer": "Vulli (Sophie)",
+      "brand": "Vulli",
+      "model": "6163243",
+      "color": "Brown/ White",
+      "category": "Teethers",
+      "height": "177.80",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "buybuybaby.com",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "currency": "USD",
+              "price": "17.98",
+              "id": "5RCYJtGA1QOISy8yYQS2Gc",
+              "firstrecorded_at": 1435505800,
+              "lastrecorded_at": 1462803400,
+              "seller": "Buy Buy Baby",
+              "isactive": 1
+            },
+            {
+              "seller": "Buy Buy Baby",
+              "firstrecorded_at": 1412407400,
+              "lastrecorded_at": 1420680100,
+              "currency": "USD",
+              "price": "15.99",
+              "id": "0UzrmR2nvNIaG8saWACYeu",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.buybuybaby.com/store/product/vulli-reg-sophie-giraffe-teether/1018223120",
+          "sku": "1018223120"
+        },
+        {
+          "sku": "383636",
+          "listprice": "27.30",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "2zvTkdkzbkmSCqU0YO6MA0",
+              "price": "23.21",
+              "availability": "Available",
+              "seller": "Drug Store",
+              "firstrecorded_at": 1432253600,
+              "lastrecorded_at": 1462753000,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "price": "17.98",
+              "id": "5sB2YUjbTUkukEwaIg8g6c",
+              "firstrecorded_at": 1423679300,
+              "lastrecorded_at": 1431700400,
+              "seller": "Drug Store",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "4gNinBLH6W4Wc8y280mIwO",
+              "price": "16.98",
+              "availability": "Available",
+              "seller": "Drug Store",
+              "firstrecorded_at": 1418598600,
+              "lastrecorded_at": 1422805600,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.drugstore.com/vulli-sophie-the-giraffe-teether-natural/qxp383636",
+          "listprice_currency": "USD",
+          "name": "drugstore.com",
+          "recentoffers_count": 1
+        },
+        {
+          "recentoffers_count": 1,
+          "name": "walmart.com",
+          "sku": "39191216",
+          "url": "http://www.walmart.com/ip/39191216",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1435123700,
+              "lastrecorded_at": 1463145900,
+              "seller": "Babyhaven",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "7gwT7zLfBg0QI6QuqgoCmM",
+              "price": "23.20",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "price": "27.30",
+              "id": "3UbnOFJLJImIqiES4qEeUA",
+              "currency": "USD",
+              "lastrecorded_at": 1432629000,
+              "firstrecorded_at": 1427646500,
+              "seller": "Babyhaven",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "price": "22.95",
+              "id": "4JSFSk7rjEQAee8sq0SYOm",
+              "firstrecorded_at": 1423259100,
+              "lastrecorded_at": 1423259100,
+              "seller": "Babyhaven",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "features": {
+        "Minimum weight recommendation": "8 Pounds",
+        "Item Weight": "1.6 ounces",
+        "Material Type": "Phthalate Free, BPA Free",
+        "Batteries required": "No",
+        "Origin": "France",
+        "material.composition": "100% natural rubber and food paint",
+        "Safety warning": "never leave a child/baby unattended",
+        "Product Dimensions": "1 x 4 x 7 inches",
+        "Target gender": "Unisex",
+        "Number of items": "1",
+        "Maximum weight recommendation": "60 Pounds",
+        "Care instructions": "Do not sterilize. Wipe surface clean with soapy water and a damp cloth."
+      },
+      "name": "Vulli Sophie la Girafe",
+      "width": "101.60",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "blue",
+      "cat_id": "16327",
+      "weight": "68038.86",
+      "sem3_id": "4naJc7SxYmE4oMC0gEIwoM",
+      "sitedetails": [],
+      "price": "14.99",
+      "size": "2",
+      "department": "Baby & Child Health",
+      "upc": "628586843608",
+      "name": "Lifefactory Multi Sensory Silicone Teether, Sky/Spring Green, 2 Count []",
+      "category": "Teethers",
+      "model": "122001",
+      "brand": "Lifefactory",
+      "ean": "0628586843608",
+      "features": {
+        "Batteries required": "No",
+        "Number of items": "2",
+        "Origin": "USA",
+        "Item Weight": "0.8 ounces",
+        "Product Dimensions": "5.5 x 4.5 x 1.6 inches"
+      },
+      "manufacturer": "Lifefactory",
+      "updated_at": 1463225021,
+      "created_at": 1347651655,
+      "gtins": [
+        "00628586843608"
+      ],
+      "variation_secondaryids": [
+        "2sfxdgfIUaMsCwEWck6soA"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Razbaby",
+      "features": {
+        "Item Weight": "0.6 ounces",
+        "Origin": "China",
+        "Product Dimensions": "2.2 x 2 x 1.5 inches",
+        "Target gender": "Unisex"
+      },
+      "upc": "857371000302",
+      "width": "50.80",
+      "created_at": 1347602783,
+      "manufacturer": "RaZbaby",
+      "price": "40.72",
+      "ean": "0857371000302",
+      "name": "Razbaby RaZ-berry Teether, Red []",
+      "variation_id": "6d7RYu5tHE6QGkIAQwImuO",
+      "length": "57.15",
+      "model": "009 RT",
+      "category": "Teethers",
+      "updated_at": 1463116612,
+      "color": "Red",
+      "cat_id": "16327",
+      "weight": "22679.62",
+      "sem3_id": "7CL0nlHezI4IeeqwGWi2K2",
+      "mpn": "RBT",
+      "height": "38.10",
+      "sitedetails": [
+        {
+          "sku": "9SIA08T09F3996",
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "id": "3L8QA8RDUe8SIUewY2kQYu",
+              "firstrecorded_at": 1359884800,
+              "price": "4.95",
+              "seller": "Newegg",
+              "lastrecorded_at": 1382720800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "firstrecorded_at": 1360668700,
+              "id": "0LnfR8LSisCc6UggUM26UI",
+              "price": "4.95",
+              "seller": "BabyHaven",
+              "lastrecorded_at": 1374703200,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1360668700,
+              "id": "6cH54CyPNQYKEKu0MkSqCo",
+              "price": "7.95",
+              "seller": "HealthCheckSystems",
+              "lastrecorded_at": 1367903200,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA08T09F3996",
+          "name": "newegg.com",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "024W005367106001P",
+          "url": "http://www.kmart.com/razbaby-raz-berry-teether-silicone-3-months-1/p-024W005367106001P",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463116600,
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "id": "3HkzqFfT0a0iQS6WAMmWc4",
+              "firstrecorded_at": 1462151500,
+              "price": "4.99",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "price": "4.24",
+              "firstrecorded_at": 1461550400,
+              "id": "3nb2Hhn4PgaGcmakYKa8Me",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1461849100,
+              "seller": "Sears Brands, LLC.",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1461247100,
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "id": "6XrLiBNxXEIkgqkSMGcuOQ",
+              "firstrecorded_at": 1460945200,
+              "price": "4.49",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "kmart.com",
+          "listprice": "4.99",
+          "listprice_currency": "USD"
+        }
+      ],
+      "gtins": [
+        "00857371000302"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "854428003149",
+      "sitedetails": [],
+      "variation_id": "17rrnmoiIkKYSUyougOSGI",
+      "category": "Teethers",
+      "color": "Turquoise",
+      "brand": "Chewbeads",
+      "sem3_id": "5rhPoCLg5QeyEsc8W4MwiC",
+      "model": "JANE NECK TURQUOISE",
+      "ean": "0854428003149",
+      "price": "29.50",
+      "name": "Chewbeads Jane Necklace - Turquoise - All []",
+      "features": {
+        "Origin": "Hong Kong",
+        "Material free": "BPA, phthalates, cadmium, lead, metals",
+        "Target gender": "Unisex",
+        "Item Weight": "3.4 ounces",
+        "Product Dimensions": "14.5 x 2 x 0.7 inches"
+      },
+      "updated_at": 1463115692,
+      "mpn": "EDPB004XCYKKM",
+      "created_at": 1347495908,
+      "cat_id": "16327",
+      "manufacturer": "Chewbeads Educational Products",
+      "gtins": [
+        "00854428003149"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "200318",
+      "name": "Sophie La Girafe - So Pure Teether Giraffe []",
+      "features": {
+        "Target gender": "Unisex",
+        "Origin": "France",
+        "Number of items": "1",
+        "Style": "So'Pure Vanilla Teether",
+        "Is portable": "No",
+        "Batteries required": "No",
+        "Item Weight": "1.4 ounces",
+        "Material Type": "BPA Free, Phthalate Free, Latex Free, Lead Free",
+        "Dishwasher safe": "No",
+        "Maximum weight recommendation": "60 Pounds",
+        "Minimum weight recommendation": "8 Pounds"
+      },
+      "price": "14.95",
+      "category": "Teethers",
+      "length": "9.91",
+      "mpn": "200318",
+      "size": "Birth -and UP",
+      "brand": "Vulli",
+      "updated_at": 1463189581,
+      "weight": "40823.31",
+      "manufacturer": "Calisson",
+      "cat_id": "16327",
+      "height": "119.89",
+      "sem3_id": "3eNvn7VEdMi8Ai6EcUcSQ6",
+      "width": "89.92",
+      "sitedetails": [
+        {
+          "sku": "VLLI1001",
+          "url": "http://www.wayfair.com/Vulli-Sophie-the-Giraffe-Soft-Teething-Ring-200318-VLLI1001.html",
+          "name": "wayfair.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "58tsaKy19k4s8OWwA688K0",
+              "seller": "Wayfair",
+              "availability": "In Stock",
+              "currency": "USD",
+              "price": "19.39",
+              "lastrecorded_at": 1393905400,
+              "firstrecorded_at": 1393905400,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.walmart.com/ip/39191154",
+          "sku": "39191154",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463189500,
+              "firstrecorded_at": 1423268500,
+              "currency": "USD",
+              "price": "15.08",
+              "id": "2uLFJqesTAC60osyScws4M",
+              "seller": "HealthCheck Systems, Inc",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "seller": "Babyhaven",
+              "id": "0ey4ouY6CLAAgCeeOKOiwm",
+              "availability": "Available",
+              "currency": "USD",
+              "price": "15.08",
+              "lastrecorded_at": 1463189500,
+              "firstrecorded_at": 1449525700,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 2,
+          "name": "walmart.com"
+        },
+        {
+          "url": "http://www.toysrus.com/product/index.jsp?productId=11687178",
+          "sku": "11687178",
+          "listprice": "16.98",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "id": "2a99p8OoWGoqKSsAsoo4kK",
+              "seller": "Toysrus",
+              "availability": "available",
+              "currency": "USD",
+              "price": "14.99",
+              "lastrecorded_at": 1462916100,
+              "firstrecorded_at": 1462916100,
+              "isactive": 1
+            },
+            {
+              "availability": "available",
+              "id": "3fSMspO7hwUC2EOCwKWCSk",
+              "seller": "Toysrus",
+              "firstrecorded_at": 1430755000,
+              "lastrecorded_at": 1460250100,
+              "price": "16.98",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "available",
+              "id": "4MykgXuodEi4AeiWQIO2ku",
+              "seller": "Toysrus",
+              "price": "15.99",
+              "currency": "USD",
+              "firstrecorded_at": 1426734800,
+              "lastrecorded_at": 1430121400,
+              "isactive": 0
+            }
+          ],
+          "name": "toysrus.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "created_at": 1347726283,
+      "ean": "3056562003185",
+      "gtins": [
+        "03056562003185"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "406.40",
+      "ean": "0081787930179",
+      "sitedetails": [],
+      "model": "93017",
+      "weight": "45359.24",
+      "color": "Cute as a Button Alligator",
+      "category": "Teethers",
+      "brand": "Kids Preferred",
+      "cat_id": "16327",
+      "price": "111.56",
+      "sem3_id": "19LzYqPRfWYuKKG2amQeGi",
+      "width": "355.60",
+      "manufacturer": "Kids Preferred",
+      "department": "baby-boys",
+      "height": "330.20",
+      "upc": "081787930179",
+      "features": {
+        "Maximum weight recommendation": "96 Pounds",
+        "Minimum weight recommendation": "16 Ounces",
+        "Product Dimensions": "16 x 14 x 13 inches",
+        "Material Type": "Lead Free",
+        "Target gender": "Unisex",
+        "Item Weight": "1.6 ounces"
+      },
+      "updated_at": 1463121964,
+      "created_at": 1347803956,
+      "name": "Kids Preferred Label Loveys Teether Blanket, Cute as a Button Alligator (Discontinued by Manufacturer)",
+      "mpn": "LL93017",
+      "gtins": [
+        "00081787930179"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0074451081956",
+      "features": {
+        "Certifications & Claims": "ASTM",
+        "Sports Team": "*",
+        "Assembled Product Dimensions (L x W x H)": "7.40 x 1.00 x 5.60 IN",
+        "Maximum Recommended Age": "36 , Months",
+        "Has Batteries": "Y",
+        "Age Group": "Grasping & Teething",
+        "Minimum Recommended Age": "3 , Months",
+        "Features": "Easy to Clean: Strong, durable plastic is easy to clean",
+        "Gender": "Unisex",
+        "Material": "Plastic",
+        "Assembled Product Weight": "0.20 [Pounds]",
+        "Age Range": "0 - 12 Months"
+      },
+      "cat_id": "16327",
+      "sem3_id": "2YUuHTJbVwE8UA4qS2ggCw",
+      "brand": "Bright Starts",
+      "updated_at": 1463159204,
+      "width": "140.97",
+      "weight": "99790.32",
+      "color": "CHILL & TEETH",
+      "height": "17.78",
+      "category": "Teethers",
+      "upc": "074451081956",
+      "manufacturer": "Bright Starts",
+      "created_at": 1347631954,
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/15769602",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1455399800,
+              "price": "5.12",
+              "availability": "Available",
+              "id": "3x0RlHEnZQiysU84USisyI",
+              "currency": "USD",
+              "lastrecorded_at": 1463159200,
+              "seller": "Babyhaven",
+              "isactive": 1
+            },
+            {
+              "seller": "Walmart",
+              "currency": "USD",
+              "id": "5UmCDqF0dMgSo44SAuGaco",
+              "lastrecorded_at": 1461886800,
+              "availability": "Available",
+              "firstrecorded_at": 1461886800,
+              "price": "2.57",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1461606100,
+              "price": "2.31",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "2Ds6ZGMj56yiQMQEUaO6Aq",
+              "lastrecorded_at": 1461606100,
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ],
+          "sku": "15769602"
+        },
+        {
+          "name": "kmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1420318000,
+              "price": "2.24",
+              "seller": "Sears Brands, LLC.",
+              "id": "4Z5Rig7ne4uOswQ8qcYcgs",
+              "currency": "USD",
+              "lastrecorded_at": 1420318000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.kmart.com/bright-starts-chill-teethe-teether-assorted-colors-3m/p-024W174225110001P",
+          "sku": "024W174225110001P"
+        },
+        {
+          "sku": "502109_90348589",
+          "recentoffers_count": 1,
+          "listprice": "3.99",
+          "latestoffers": [
+            {
+              "seller": "Kohl's.com",
+              "lastrecorded_at": 1463112300,
+              "id": "0nCfZfUaCMSuIqSKKMAYMK",
+              "currency": "USD",
+              "availability": "Available",
+              "price": "3.59",
+              "firstrecorded_at": 1463112300,
+              "isactive": 1
+            },
+            {
+              "price": "3.99",
+              "firstrecorded_at": 1456181400,
+              "availability": "Available",
+              "lastrecorded_at": 1462803600,
+              "currency": "USD",
+              "id": "3I4Dj7xGlMUksyOWGQ6I2M",
+              "seller": "Kohl's.com",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1454057100,
+              "price": "3.79",
+              "availability": "In Stock",
+              "id": "00HBwXu11KkayCs80ESg2M",
+              "currency": "USD",
+              "lastrecorded_at": 1454057100,
+              "seller": "Kohl's.com",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.kohls.com/product/prd-502109/kids-ii-bright-starts-chill-teethe-teethers.jsp",
+          "listprice_currency": "USD",
+          "name": "kohls.com"
+        }
+      ],
+      "price": "3.59",
+      "model": "8788",
+      "mpn": "8788",
+      "name": "Bright Starts Teether, Chill [CHILL & TEETH]",
+      "length": "193.04",
+      "gtins": [
+        "00074451081956"
+      ],
+      "variation_secondaryids": [
+        "6RKr4mAAQiGm6i24cUg62A"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Batteries required": "No",
+        "Origin": "Imported (China)",
+        "Maximum weight recommendation": "96 Pounds",
+        "Number of items": "1",
+        "Material Type": "other",
+        "Item Weight": "2.2 ounces",
+        "Product Dimensions": "8.9 x 2.9 x 2.2 inches",
+        "Target gender": "Unisex",
+        "Minimum weight recommendation": "16 Ounces"
+      },
+      "sitedetails": [
+        {
+          "url": "http://www.lakeshorelearning.com/product/productDet.jsp?productItemID=1%2C689%2C949%2C371%2C896%2C863",
+          "recentoffers_count": 1,
+          "name": "lakeshorelearning.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1416411900,
+              "id": "2eDIXcci3YuOEgoQI0IGQM",
+              "currency": "USD",
+              "lastrecorded_at": 1462845800,
+              "availability": "Available",
+              "price": "21.99",
+              "seller": "LakeshoreLearning",
+              "isactive": 1
+            }
+          ],
+          "sku": "1_689_949_371_896_863"
+        },
+        {
+          "sku": "8637113_12196257",
+          "listprice_currency": "USD",
+          "listprice": "13.98",
+          "url": "http://www.overstock.com/8637113/product.html",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463145400,
+              "availability": "Available",
+              "firstrecorded_at": 1462539600,
+              "id": "6dJ0ZhdbTUa0eOGkA0mwGo",
+              "currency": "USD",
+              "price": "11.09",
+              "seller": "Overstock",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1462195900,
+              "currency": "USD",
+              "id": "3QEose3KF62yuwiyeSEmyI",
+              "availability": "Available",
+              "lastrecorded_at": 1462452600,
+              "seller": "Overstock",
+              "price": "10.79",
+              "isactive": 0
+            },
+            {
+              "price": "10.59",
+              "seller": "Overstock",
+              "firstrecorded_at": 1458845100,
+              "id": "4CsIxsc2DYuCk0KO4ie8cK",
+              "currency": "USD",
+              "lastrecorded_at": 1460591800,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "overstock.com"
+        }
+      ],
+      "name": "The Very Hungry Caterpillar Teether Rattle, World of Eric Carle",
+      "height": "56.13",
+      "width": "73.66",
+      "artist": "Kids Preferred",
+      "sem3_id": "64AaSEpfSCoci6mc8eiUYU",
+      "department": "baby-boys",
+      "price": "7.82",
+      "color": "multi-colored",
+      "ean": "0081787551220",
+      "updated_at": 1463160638,
+      "brand": "Kids Preferred",
+      "model": "55122",
+      "mpn": "HC55122",
+      "weight": "63502.93",
+      "cat_id": "16327",
+      "created_at": 1347793975,
+      "length": "225.04",
+      "upc": "081787551220",
+      "manufacturer": "Kids Preferred",
+      "category": "Teethers",
+      "gtins": [
+        "00081787551220"
+      ],
+      "variation_secondaryids": [
+        "5eQew2auqOayIcUmWmYw8m"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "department": "baby-boys",
+      "brand": "The First Years",
+      "mpn": "Y2475A1",
+      "size": "NO ",
+      "upc": "071463024759",
+      "ean": "0071463024759",
+      "name": "The First Years Star Teething Blanket []",
+      "manufacturer": "TOMY",
+      "updated_at": 1463115564,
+      "model": "Y2475A1",
+      "category": "Teethers",
+      "length": "316.23",
+      "width": "287.02",
+      "weight": "90718.47",
+      "height": "29.21",
+      "cat_id": "16327",
+      "sem3_id": "02h8OdGlCtcSgsAW2a2WE4",
+      "created_at": 1347539944,
+      "color": "Multi",
+      "features": {
+        "Item Weight": "1 pounds",
+        "Material Type": "Plastic, Textile",
+        "Target gender": "Unisex",
+        "Origin": "China",
+        "Product Dimensions": "6.2 x 4.8 x 1.7 inches",
+        "Batteries required": "No"
+      },
+      "sitedetails": [
+        {
+          "name": "kohls.com",
+          "sku": "1015561_87501022",
+          "listprice_currency": "USD",
+          "listprice": "12.00",
+          "latestoffers": [
+            {
+              "seller": "Kohl's.com",
+              "price": "8.40",
+              "firstrecorded_at": 1462805000,
+              "id": "4oSfqalzyS2oem4QiOUssc",
+              "availability": "Available",
+              "lastrecorded_at": 1463115500,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1462497000,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "2jbgUC3B1s8w6QCy8mkwwO",
+              "firstrecorded_at": 1462497000,
+              "price": "12.00",
+              "seller": "Kohl's.com",
+              "isactive": 0
+            },
+            {
+              "price": "8.40",
+              "seller": "Kohl's.com",
+              "currency": "USD",
+              "lastrecorded_at": 1462194900,
+              "availability": "Available",
+              "id": "6btN1QGOci0MSYOQWCm2Ww",
+              "firstrecorded_at": 1461358300,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.kohls.com/product/prd-1015561/the-first-years-starfish-teether-blanket.jsp",
+          "recentoffers_count": 1
+        }
+      ],
+      "price": "6.85",
+      "gtins": [
+        "00071463024759"
+      ],
+      "variation_secondaryids": [
+        "0EQDZK3iNeawwm06ICYS0c"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

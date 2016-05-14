@@ -1,0 +1,399 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "Team Golf",
+      "height": "114.30",
+      "upc": "637556237552",
+      "created_at": 1347747459,
+      "features": {
+        "Origin": "China",
+        "Product Dimensions": "1.5 x 5.3 x 4.5 inches"
+      },
+      "model": "23755",
+      "brand": "Team Golf",
+      "ean": "0637556237552",
+      "category": "Golf Equipment",
+      "sem3_id": "1VfyJzsfqmQ4oq80YWsUCk",
+      "price": "18.14",
+      "color": "Pittsburgh Panthers",
+      "length": "38.10",
+      "name": "Pittsburgh Panthers 50 IMPR Tee Pack from Team Golf [Pittsburgh Panthers]",
+      "updated_at": 1443523499,
+      "cat_id": "24315",
+      "width": "134.62",
+      "sitedetails": [],
+      "weight": "453592.37",
+      "gtins": [
+        "00637556237552"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2mhp0IhFfMKuUYYK6qcMaq",
+      "upc": "697924907197",
+      "features": {
+        "Item Weight": "2 pounds"
+      },
+      "ean": "0697924907197",
+      "weight": "907184.74",
+      "sitedetails": [],
+      "updated_at": 1443521333,
+      "created_at": 1347772751,
+      "name": "Texas Longhorns All Around XL",
+      "cat_id": "24126",
+      "brand": "Comfy Feet",
+      "manufacturer": "ComfyFeet",
+      "mpn": "TEX05XL",
+      "category": "Slippers",
+      "model": "TEX052X",
+      "gtins": [
+        "00697924907197"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "China"
+      },
+      "cat_id": "12861",
+      "manufacturer": "Mr Bar B Q",
+      "updated_at": 1460725624,
+      "name": "Mr. Bar-B-Q, Inc. 07742DUCKGD Oregon Duck Grill Cover, Black [Oregon Duck]",
+      "upc": "076903077418",
+      "ean": "0076903077418",
+      "category": "Patio, Lawn & Garden",
+      "price": "23.98",
+      "sitedetails": [
+        {
+          "name": "samsclub.com",
+          "latestoffers": [
+            {
+              "price": "23.98",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "0GnMwp7H4XAIwuWYAmISQ8",
+              "lastrecorded_at": 1460725600,
+              "seller": "Sam's West",
+              "firstrecorded_at": 1432832900,
+              "isactive": 1
+            }
+          ],
+          "sku": "11080665",
+          "url": "http://www.samsclub.com/prod11080665.ip",
+          "recentoffers_count": 1
+        }
+      ],
+      "weight": "929864.36",
+      "created_at": 1372754432,
+      "brand": "Mr. Bar B Q",
+      "model": "07742DUCKGD",
+      "mpn": "ITE-07742DUCKGD-DAH|1",
+      "sem3_id": "5XiXsH38W860qyGiUiccqS",
+      "gtins": [
+        "00076903077418"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "size": "30\" x 30\" x 24\"",
+      "cat_id": "2715",
+      "upc": "806293123316",
+      "ean": "0806293123316",
+      "brand": "Logo",
+      "created_at": 1347555743,
+      "model": "123 31",
+      "sem3_id": "67duXhQ7zUoWYa6UgkWmU6",
+      "width": "3.56",
+      "length": "7.37",
+      "height": "3.56",
+      "category": "Furniture",
+      "mpn": "123-31",
+      "price": "34.95",
+      "color": "Clemson",
+      "weight": "4535.92",
+      "sitedetails": [
+        {
+          "name": "samsclub.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "34.97",
+              "firstrecorded_at": 1449687800,
+              "availability": "Available",
+              "seller": "Sam's West",
+              "lastrecorded_at": 1460724000,
+              "id": "52fsIMKAX2AY4qUOOmAuyk",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "sku": "18801380",
+          "url": "http://www.samsclub.com/prod18801380.ip"
+        }
+      ],
+      "manufacturer": "Logo",
+      "name": "NCAA Clemson Tigers Round Tailgating Table [Clemson, One Size]",
+      "updated_at": 1460724095,
+      "gtins": [
+        "00806293123316"
+      ],
+      "variation_secondaryids": [
+        "4WSuIZdBz6Q6k6IaIK8QaO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0806293171317",
+      "height": "609.60",
+      "weight": "3628738.96",
+      "cat_id": "2715",
+      "category": "Furniture",
+      "name": "Logo Chair College Round Tailgating Table [Michigan, 30\"x24\"]",
+      "color": "Michigan",
+      "length": "762.00",
+      "variation_id": "4WSuIZdBz6Q6k6IaIK8QaO",
+      "created_at": 1415358696,
+      "features": {
+        "Product Dimensions": "30 x 30 x 24 inches ; 8 pounds"
+      },
+      "sem3_id": "4dIECEGokSMgIkGMOCekm0",
+      "price": "34.97",
+      "width": "762.00",
+      "brand": "Logo",
+      "mpn": "171-31",
+      "size": "30\"x24\"",
+      "manufacturer": "Logo Chair Inc",
+      "updated_at": 1460723758,
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "samsclub.com",
+          "url": "http://www.samsclub.com/prod18801607.ip",
+          "sku": "18801607",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "3T3MtVFr3AYYsewegCaWqi",
+              "availability": "Available",
+              "price": "34.97",
+              "seller": "Sam's West",
+              "firstrecorded_at": 1437168800,
+              "lastrecorded_at": 1460723700,
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "upc": "806293171317",
+      "gtins": [
+        "00806293171317"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Team Sports America",
+      "sitedetails": [],
+      "width": "762.00",
+      "price": "30.99",
+      "height": "127.00",
+      "mpn": "0149812",
+      "weight": "625957.47",
+      "name": "Team Sports America NFL Metal Streamer Wind Chime",
+      "sem3_id": "1lcXZ3qu2ec8uOYymyM8sq",
+      "brand": "Team Sports America",
+      "model": "862464",
+      "size": "See Item Description",
+      "updated_at": 1434420467,
+      "length": "127.00",
+      "category": "Patio, Lawn & Garden",
+      "features": {
+        "Product Dimensions": "10 x 10 x 10 inches ; 3 pounds"
+      },
+      "created_at": 1357447006,
+      "upc": "843771062125",
+      "ean": "0843771062125",
+      "cat_id": "12861",
+      "gtins": [
+        "00843771062125"
+      ],
+      "variation_secondaryids": [
+        "5hZ8BIBjLEC28q6KQMauqc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "907184.74",
+      "color": "Washington Redskins",
+      "mpn": "01JSSDL1RED1818",
+      "sitedetails": [],
+      "manufacturer": "Sports Coverage",
+      "ean": "0723926121184",
+      "category": "Bedding",
+      "upc": "723926121184",
+      "model": "01JSSDL1CAR1818 parent",
+      "width": "406.40",
+      "brand": "Sports Coverage",
+      "updated_at": 1456942769,
+      "sem3_id": "64fHNReZ5UYawQ4qa0kSuI",
+      "created_at": 1348700868,
+      "height": "304.80",
+      "size": "17in x 17in",
+      "cat_id": "22052",
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "16 x 16 x 12 inches ; 9.6 ounces"
+      },
+      "name": "NFL Washington Redskins Sideline Pillow",
+      "length": "406.40",
+      "gtins": [
+        "00723926121184"
+      ],
+      "variation_secondaryids": [
+        "1gG7O3XRqeeseMcaW6c4gU"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "updated_at": 1446551630,
+      "sitedetails": [],
+      "upc": "883223254227",
+      "height": "25.40",
+      "manufacturer": "New Era",
+      "ean": "0883223254227",
+      "color": "Tampa Bay Rays",
+      "created_at": 1347729881,
+      "category": "Accessories",
+      "length": "25.40",
+      "sem3_id": "3oVpFVOjUWAa4k8MeyYSC8",
+      "weight": "22679.62",
+      "variation_id": "7MVHBm32VyiISEO2iOG4wM",
+      "model": "ACPERF TAMRAY GM",
+      "brand": "New Era",
+      "cat_id": "21364",
+      "width": "568.45",
+      "size": "7 1/8",
+      "price": "28.99",
+      "name": "Era MLB Game Authentic Collection On Field 59FIFTY Fitted Cap [7 1/8, Tampa Bay Rays]",
+      "gtins": [
+        "00883223254227"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "10.28",
+      "mpn": "3208568409",
+      "manufacturer": "Wincraft",
+      "created_at": 1347668829,
+      "model": "68409011",
+      "name": "MLB Garden Flags [Texas Rangers]",
+      "updated_at": 1460722289,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sem3_id": "6XH5whcYyGmg8yycqqGUCQ",
+      "brand": "WinCraft",
+      "ean": "0032085684097",
+      "sitedetails": [],
+      "upc": "032085684097",
+      "size": "11\" x 15\"",
+      "category": "Patio, Lawn & Garden",
+      "weight": "31751.47",
+      "cat_id": "12861",
+      "color": "Official Team",
+      "gtins": [
+        "00032085684097"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1381516237,
+      "ean": "0887351028071",
+      "color": "Los Angeles Dodgers",
+      "sitedetails": [],
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "weight": "453592.37",
+      "category": "Accessories",
+      "size": "One  Fits All",
+      "manufacturer": "New Era",
+      "price": "17.98",
+      "sem3_id": "6hNrE37WHQgyoccgy0KM0A",
+      "mpn": "1106894",
+      "cat_id": "21364",
+      "upc": "887351028071",
+      "updated_at": 1460725650,
+      "name": "Era MLB Women's Essential 9Twenty Adjustable Cap []",
+      "brand": "New Era",
+      "variation_id": "73SP78vXv6MUwm6asQYMck",
+      "model": "10690934",
+      "gtins": [
+        "00887351028071"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

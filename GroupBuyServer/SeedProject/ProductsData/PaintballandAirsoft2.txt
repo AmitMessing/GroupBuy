@@ -1,0 +1,456 @@
+{
+  "total_results_count": 64538,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "10103",
+      "brand": "Modern Warrior",
+      "category": "Protective Gear",
+      "variation_id": "0bP3frlm05uw4UCqegwIiI",
+      "features": {
+        "Shipping Weight (in pounds)": "1.0",
+        "Origin of Components": "USA and/or Imported"
+      },
+      "upc": "661799559942",
+      "manufacturer": "Modern Warrior",
+      "ean": "0661799559942",
+      "color": "Camouflage",
+      "updated_at": 1461212504,
+      "model": "MW Helmet Camo",
+      "created_at": 1355997822,
+      "name": "Modern Warrior Tactical M88 ABS Helmet with Adjustable Chin Strap [Camouflage]",
+      "weight": "589670.08",
+      "price": "15.99",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "id": "0urqCUwHxWwY6AIgUII6Us",
+              "currency": "USD",
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1420384100,
+              "seller": "Ultimate Paintball LLC",
+              "firstrecorded_at": 1398482500,
+              "price": "13.49",
+              "isactive": 0
+            }
+          ],
+          "sku": "36173057",
+          "url": "http://www.walmart.com/ip/36173057",
+          "recentoffers_count": 0
+        }
+      ],
+      "sem3_id": "3XFwQt7YUSyUWM2siUEW6O",
+      "gtins": [
+        "00661799559942"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "4712274527256",
+      "created_at": 1347731772,
+      "cat_id": "21280",
+      "color": "Black",
+      "price": "22.79",
+      "category": "Gun Scope Mounts",
+      "brand": "UTG",
+      "sem3_id": "5mkwxjnqOOmIwYWW8Aws2s",
+      "updated_at": 1461189523,
+      "mpn": "RQ2W1104",
+      "manufacturer": "UTG",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "sku": "39184665",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Tonzof",
+              "availability": "Out of Stock",
+              "price": "28.16",
+              "firstrecorded_at": 1425155800,
+              "id": "39e0RkrfJQY2COceSKeEGA",
+              "lastrecorded_at": 1425155800,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/39184665",
+          "recentoffers_count": 0
+        }
+      ],
+      "weight": "4535.92",
+      "model": "RQ2W1104",
+      "features": {
+        "Origin of Components": "USA or Imported",
+        "Product in Inches (L x W x H)": "4.65 x 2.17 x 1.77",
+        "Shipping Weight (in pounds)": "1.0"
+      },
+      "name": "UTG 1\"/2PCs Low Pro LE Grade Picatinny QD Rings: 18mm Wide",
+      "gtins": [
+        "04712274527256"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0835741940410",
+      "sitedetails": [],
+      "manufacturer": "Planet Eclipse",
+      "upc": "835741940410",
+      "created_at": 1365748342,
+      "variation_id": "5GKnNEg4Po4MiICAmkw400",
+      "updated_at": 1458960552,
+      "model": "LV1",
+      "category": "Markers",
+      "length": "552.96",
+      "name": "Planet Eclipse Ego LV1 Paintball Gun / Marker [Combat 3]",
+      "width": "24.89",
+      "color": "Midnight",
+      "cat_id": "23035",
+      "weight": "934400.28",
+      "sem3_id": "10jODQVFZmQ6WYOK6muOQM",
+      "mpn": "MARKB7080200",
+      "features": {
+        "Product Dimensions": "21.8 x 1.1 x 8.2 inches ; 2.1 pounds"
+      },
+      "height": "208.03",
+      "brand": "Planet Eclipse",
+      "gtins": [
+        "00835741940410"
+      ],
+      "variation_secondaryids": [
+        "204hz07tdk6YEqySqKkwkW",
+        "0UdwmopHeSkCYeOaC66sAE"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "manufacturer": "Planet Eclipse",
+      "name": "Planet Eclipse Ego 11 D.A.R.T. Bolt Kit",
+      "category": "Marker Parts & Upgrades",
+      "price": "59.95",
+      "brand": "Planet Eclipse",
+      "weight": "36854.38",
+      "updated_at": 1459101345,
+      "features": {
+        "Item Weight": "1.3 ounces"
+      },
+      "upc": "829669114497",
+      "created_at": 1364158130,
+      "ean": "0829669114497",
+      "cat_id": "18763",
+      "color": "Black",
+      "mpn": "EGOAB5500000",
+      "model": "Bolts",
+      "sem3_id": "2V6KdjZk5YE2s2cIeeYEqO",
+      "gtins": [
+        "00829669114497"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "6gepirSr9USwcIu6sGo2Eq",
+      "created_at": 1381693602,
+      "size": "32W x 34L",
+      "sem3_id": "2fOQUBv8WOuyeA2Mciasmm",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "3 pounds",
+        "Origin": "China"
+      },
+      "mpn": "F525250450",
+      "weight": "907184.74",
+      "model": "F525250",
+      "cat_id": "16295",
+      "price": "41.13",
+      "color": "LAPD Navy",
+      "upc": "788029401236",
+      "ean": "0788029401236",
+      "category": "Protective Gear",
+      "brand": "Propper",
+      "updated_at": 1459170313,
+      "name": "Propper Men's Lightweight Tactical Pant [LAPD Navy, 32 x 34]",
+      "sitedetails": [],
+      "manufacturer": "Propper",
+      "gtins": [
+        "00788029401236"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "F5243",
+      "cat_id": "16295",
+      "sem3_id": "3sjdDpf7o8COy8oW008WWW",
+      "mpn": "F525250450",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "3 pounds",
+        "Origin": "China"
+      },
+      "size": "42W x 34L",
+      "weight": "362873.90",
+      "variation_id": "6gepirSr9USwcIu6sGo2Eq",
+      "created_at": 1381693603,
+      "updated_at": 1459170220,
+      "category": "Protective Gear",
+      "brand": "Propper",
+      "ean": "0788029401533",
+      "price": "41.08",
+      "upc": "788029401533",
+      "color": "LAPD Navy",
+      "sitedetails": [],
+      "name": "Propper Men's Lightweight Tactical Pant [LAPD Navy, 42 x 34]",
+      "manufacturer": "Propper",
+      "gtins": [
+        "00788029401533"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Item Weight": "2 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sem3_id": "0iJ5HyOF8aU2Mmsg2MQ4aE",
+      "cat_id": "11139",
+      "ean": "0029858803014",
+      "category": "Guns & Rifles",
+      "sitedetails": [],
+      "weight": "680388.55",
+      "updated_at": 1460233747,
+      "upc": "029858803014",
+      "name": "Sig Sauer SP022 Semi-Automatic CO2 Air Pistol",
+      "manufacturer": "SIG SAUER",
+      "created_at": 1347592966,
+      "price": "60.14",
+      "mpn": "PY-2770",
+      "brand": "Sig Sauer",
+      "gtins": [
+        "00029858803014"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "21812",
+      "weight": "4535.92",
+      "color": "Black",
+      "price": "17.95",
+      "model": "PVC H178BL",
+      "mpn": "PVC-H178BL",
+      "category": "Holsters",
+      "width": "160.02",
+      "brand": "UTG",
+      "created_at": 1347576434,
+      "manufacturer": "UTG",
+      "sem3_id": "4ESmVB3hS4YwO0qqgKoMGq",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/39177264",
+          "name": "walmart.com",
+          "sku": "39177264",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1425157400,
+              "id": "0edW98LwJVmeim8Mc0K68e",
+              "currency": "USD",
+              "lastrecorded_at": 1425157400,
+              "seller": "Tonzof",
+              "availability": "Out of Stock",
+              "price": "25.74",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "name": "UTG Special Operations Universal Tactical Black Leg Holster (Left Handed)",
+      "height": "170.18",
+      "length": "220.98",
+      "ean": "4712274520653",
+      "features": {
+        "Product in Inches (L x W x H)": "12.01 x 11.81 x 3.15",
+        "Shipping Weight (in pounds)": "1.0",
+        "Origin of Components": "USA or Imported"
+      },
+      "updated_at": 1461203913,
+      "gtins": [
+        "04712274520653"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347520645,
+      "mpn": "49853",
+      "model": "49853",
+      "width": "1.14",
+      "updated_at": 1461212477,
+      "color": "Matte",
+      "length": "1.40",
+      "sem3_id": "0oRADOqed0aYa0YIquOyAE",
+      "sitedetails": [
+        {
+          "recentoffers_count": 3,
+          "url": "http://www.walmart.com/ip/23234114",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "3ncC0GKBcOiKk2s0mueYS6",
+              "seller": "Walmart",
+              "availability": "Available",
+              "lastrecorded_at": 1461212400,
+              "price": "58.16",
+              "firstrecorded_at": 1461212400,
+              "isactive": 1
+            },
+            {
+              "id": "5B7Tur4XrUMCkSOQCAQyMK",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1461212400,
+              "seller": "OpticsPlanet",
+              "firstrecorded_at": 1434863400,
+              "price": "60.47",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1461212400,
+              "price": "85.19",
+              "lastrecorded_at": 1461212400,
+              "availability": "Available",
+              "seller": "HPP Enterprises",
+              "id": "0jK99IHMIQC6Uw6Kw6KcAi",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "name": "walmart.com",
+          "sku": "23234114"
+        },
+        {
+          "url": "http://www.bobwards.com/LEUPOLD-QRW-1-in-Low-Matte-Scope-Rings-116461",
+          "name": "bobwards.com",
+          "latestoffers": [
+            {
+              "id": "35uLxAHJ60g8uOOGuQk40Q",
+              "currency": "USD",
+              "lastrecorded_at": 1458586600,
+              "availability": "Available",
+              "seller": "Bobwards",
+              "firstrecorded_at": 1428532800,
+              "price": "57.99",
+              "isactive": 0
+            }
+          ],
+          "sku": "116461",
+          "recentoffers_count": 0
+        }
+      ],
+      "price": "57.50",
+      "name": "Leupold QRW 1-in Low [Matte]",
+      "weight": "136077.71",
+      "brand": "Leupold",
+      "height": "0.06",
+      "cat_id": "21280",
+      "ean": "0030317498535",
+      "manufacturer": "Leupold",
+      "upc": "030317498535",
+      "features": {
+        "Product in Inches (L x W x H)": "5.25 x 4.5 x 0.5",
+        "Shipping Weight (in pounds)": "0.35",
+        "Battery Type": "Does Not Contain a Battery",
+        "Assembled in Country of Origin": "USA",
+        "Multi Pack Indicator": "No",
+        "Origin of Components": "Imported"
+      },
+      "variation_id": "4CHB8b5HtAGEkOSOOYkQmi",
+      "category": "Gun Scope Mounts",
+      "gtins": [
+        "00030317498535"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "brand": "TSD",
+      "sem3_id": "39TpmHBFnMIYQAoWqmS0CY",
+      "weight": "6350293.18",
+      "manufacturer": "TSD",
+      "created_at": 1347479053,
+      "width": "279.40",
+      "height": "88.90",
+      "model": "TSD-06",
+      "category": "Guns & Rifles",
+      "name": "TSD Tactical L96 High Powered Bolt Action Spring Powered Airsoft Sniper Rifle (Black)",
+      "updated_at": 1459019914,
+      "ean": "0871110001887",
+      "cat_id": "11139",
+      "length": "838.20",
+      "upc": "871110001887",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "33 x 11 x 3.5 inches ; 10 pounds"
+      },
+      "gtins": [
+        "00871110001887"
+      ],
+      "variation_secondaryids": [
+        "2IzZ7RGGeCOQ820m6i6AQq",
+        "0sZNxlD3AumYuWM6AAo28e"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

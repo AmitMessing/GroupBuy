@@ -1,0 +1,388 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "14BKCPO9RCKQq6sGeIqwM2",
+      "price": "24.99",
+      "weight": "453592.37",
+      "category": "Men",
+      "size": "XXXXX-Large",
+      "length": "7.62",
+      "color": "Carbon Heather/Black",
+      "manufacturer": "Under Armour Apparel",
+      "cat_id": "22176",
+      "variation_id": "4JOlTuehUesiQiWwco2M0Y",
+      "mpn": "1228539",
+      "ean": "0887162159223",
+      "model": "1228539",
+      "name": "Under Armour Men's Short-Sleeve Tech T-Shirt [Carbon Heather (090), XXXXX-Large]",
+      "upc": "887162159223",
+      "brand": "Under Armour",
+      "sitedetails": [],
+      "features": {
+        "Origin": "Jordan",
+        "Product Dimensions": "10 x 8 x 1 inches ; 6.6 ounces"
+      },
+      "created_at": 1435818712,
+      "updated_at": 1455619412,
+      "gtins": [
+        "00887162159223"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Exercise Bands",
+      "cat_id": "1386",
+      "sitedetails": [],
+      "upc": "018713586605",
+      "size": "Medium Resistance",
+      "updated_at": 1455579883,
+      "created_at": 1374958734,
+      "ean": "0018713586605",
+      "weight": "6803885.55",
+      "brand": "SPRI",
+      "sem3_id": "4fNTm3JKRUa0iy484gQcWs",
+      "name": "SPRI Braided Lateral Resistor [Red/Silver, Medium Resistance]",
+      "color": "Red/Silver",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "manufacturer": "SPRI",
+      "variation_id": "5XUrRNm6U4IEocA0gcgY6o",
+      "model": "05 58660",
+      "price": "24.31",
+      "gtins": [
+        "00018713586605"
+      ],
+      "variation_secondaryids": [
+        "2O05By1TSOMCMgqGyc8cYa",
+        "6R4hMbbii08CMkckOUUSwk"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "330.20",
+      "brand": "Under Armour",
+      "ean": "0888376626181",
+      "mpn": "1259690",
+      "cat_id": "23079",
+      "price": "73.00",
+      "weight": "453592.37",
+      "features": {
+        "Origin": "Jordan",
+        "Product Dimensions": "10 x 6 x 12 inches ; 1.2 pounds"
+      },
+      "category": "Boys",
+      "sitedetails": [],
+      "sem3_id": "79TjNjqEVs0kgyCS8iSa4A",
+      "manufacturer": "Under Armour Apparel",
+      "name": "Under Armour Boy's Storm Armour Fleece Big Logo Hoodie Sweatshirt [Blue Jet/Black, Large]",
+      "created_at": 1442987628,
+      "color": "Blue Jet/Black",
+      "width": "304.80",
+      "size": "Large",
+      "variation_id": "5toO7Pvu5oYoiKoCK066Eq",
+      "height": "76.20",
+      "updated_at": 1455691371,
+      "upc": "888376626181",
+      "model": "1259690",
+      "gtins": [
+        "00888376626181"
+      ],
+      "variation_secondaryids": [
+        "5t7P9ToYhyS0igs8eIC8cQM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0662425036165",
+      "sem3_id": "0pDdTH19DI8oSocCCCkOI0",
+      "brand": "MagneTrainer",
+      "manufacturer": "MagneTrainer",
+      "sitedetails": [],
+      "width": "457.20",
+      "length": "508.00",
+      "updated_at": 1459013454,
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Origin": "Taiwan",
+        "Product Dimensions": "20 x 18 x 17.5 inches ; 23 pounds"
+      },
+      "cat_id": "5169",
+      "upc": "662425036165",
+      "size": "16 x 20 x 18-Inch",
+      "price": "159.00",
+      "category": "Exercise Bikes",
+      "created_at": 1348671481,
+      "model": "MagneTrainer ER",
+      "weight": "10432624.51",
+      "mpn": "MAG-ER",
+      "height": "444.50",
+      "name": "MagneTrainer-ER Mini Exercise Bike Arm and Leg Exerciser",
+      "gtins": [
+        "00662425036165"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "4FywJKQmfgMIu8oYAASkEk",
+      "mpn": "ZK1758.90",
+      "ean": "0887749166972",
+      "cat_id": "18529",
+      "updated_at": 1459055421,
+      "color": "Black",
+      "size": "Large",
+      "variation_id": "35z7s61Pc0ccWO8WSi2ye8",
+      "name": "ASICS Women's Quick Lyte Single Tab Socks , Pack of 3 [Black, Large]",
+      "weight": "1814369.48",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "price": "13.66",
+      "sitedetails": [
+        {
+          "name": "eastbay.com",
+          "sku": "17588052_L",
+          "url": "http://www.eastbay.com/product/sku:17588052",
+          "listprice": "13.99",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1457552000,
+              "firstrecorded_at": 1441378000,
+              "seller": "Eastbay Inc.",
+              "price": "13.99",
+              "id": "730irL5iFc02wOMYo4s02S",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "listprice_currency": "USD",
+          "recentoffers_count": 1
+        }
+      ],
+      "model": "ZK1758",
+      "brand": "ASICS",
+      "upc": "887749166972",
+      "category": "Clothing",
+      "manufacturer": "ASICS Sports Apparel",
+      "created_at": 1432595119,
+      "gtins": [
+        "00887749166972"
+      ],
+      "variation_secondaryids": [
+        "4ayWchUwNUeeUwiC4OkEOwBg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "05 58481",
+      "category": "Exercise Bands",
+      "upc": "018713584816",
+      "ean": "0018713584816",
+      "created_at": 1357626080,
+      "price": "27.40",
+      "weight": "453592.37",
+      "cat_id": "1386",
+      "updated_at": 1459067157,
+      "variation_id": "2Ha2HIAWVYa62qCyKq64q4",
+      "sem3_id": "2MAD1OsWESU4qMOu0u6OIU",
+      "name": "SPRI SC-5R Braided Xertube (Level 5 - Ultra Heavy)",
+      "mpn": "SPRI030",
+      "brand": "SPRI",
+      "manufacturer": "SPRI",
+      "sitedetails": [],
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Origin": "Mexico"
+      },
+      "color": "Ultra Heavy Purple",
+      "gtins": [
+        "00018713584816"
+      ],
+      "variation_secondaryids": [
+        "6PQD2RGFsWAmoEusOaoQaM",
+        "554JqJQxYeUm28aUYW4AKw"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Manduka PROlite Yoga and Pilates Mat [Energy, 71-Inch]",
+      "mpn": "PL71-ENERGY",
+      "created_at": 1435803617,
+      "ean": "0846698013843",
+      "features": {
+        "Dimensions": "[standard] 71 x 24 in, [long] 79 x 24",
+        "Material": "eco-certified PVC and polyester",
+        "Manufacturer Warranty": "lifetime",
+        "Product Dimensions": "79 x 0.2 x 24 inches ; 8.2 ounces",
+        "Recommended Use": "yoga, floor exercises, stretching"
+      },
+      "price": "80.00",
+      "sem3_id": "6UOuSpQYYSws4o4k2SgcKo",
+      "height": "4.57",
+      "manufacturer": "Manduka Matsource LLC",
+      "brand": "Manduka",
+      "length": "1800.10",
+      "color": "Energy",
+      "size": "71-Inch",
+      "width": "610.11",
+      "model": "PL71-ENERGY",
+      "weight": "453592.37",
+      "sitedetails": [],
+      "cat_id": "7755",
+      "category": "Mats",
+      "upc": "846698013843",
+      "updated_at": 1459064488,
+      "variation_id": "7XLpdLy3pQKcsQWamQAyAS",
+      "gtins": [
+        "00846698013843"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "014215452134",
+      "length": "228.60",
+      "name": "Century Vinyl Grey Medicine Balls, 12 Pounce",
+      "price": "32.99",
+      "model": "2494",
+      "brand": "Century",
+      "weight": "5443108.44",
+      "height": "152.40",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "color": "Gray",
+      "manufacturer": "Century",
+      "cat_id": "15703",
+      "sitedetails": [],
+      "updated_at": 1459065222,
+      "created_at": 1357625981,
+      "mpn": "2494-020812",
+      "category": "Arm Machines",
+      "sem3_id": "5llacMMgzoWGysOgWgG60k",
+      "ean": "0014215452134",
+      "width": "203.20",
+      "gtins": [
+        "00014215452134"
+      ],
+      "variation_secondaryids": [
+        "0CBnlH2vEKs8eim8eQkCMK",
+        "0JZ7mTD8G7U8MWsaSao0cY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "ELR 028",
+      "cat_id": "10271",
+      "weight": "8073944.19",
+      "size": "4' by 6'",
+      "created_at": 1347655073,
+      "ean": "0389741007159",
+      "features": {
+        "Origin": "China",
+        "Our recommended age": "36 months - 15 years",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Manufacturer recommended age": "36 months - 15 years"
+      },
+      "color": "Multi-",
+      "brand": "Ecr4kids",
+      "upc": "389741007159",
+      "mpn": "ELR-028",
+      "sem3_id": "2s7kbIMFwuaUE0GKKG2ceu",
+      "sitedetails": [],
+      "updated_at": 1459062144,
+      "category": "Exercise Mats",
+      "manufacturer": "Ecr4kids",
+      "price": "119.99",
+      "name": "ECR4Kids Tumbling Mat, 4 Sections, 4' by 6' [Multi-Color, Standard Packaging, 4' by 6']",
+      "gtins": [
+        "00389741007159"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "101629P 010016",
+      "price": "204.99",
+      "features": {
+        "Origin": "USA",
+        "Product Dimensions": "47 x 18 x 18 inches ; 26 pounds",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "ean": "0014215253427",
+      "updated_at": 1459026702,
+      "mpn": "010-016",
+      "created_at": 1347728232,
+      "sitedetails": [],
+      "length": "1193.80",
+      "category": "Exercise Videos",
+      "brand": "Century",
+      "upc": "014215253427",
+      "weight": "11793401.62",
+      "name": "Century Super X Wavemaster Combo Free Standing Heavy Bag, Bag Gloves, and Workout DVD",
+      "height": "457.20",
+      "width": "457.20",
+      "cat_id": "24208",
+      "manufacturer": "Century",
+      "sem3_id": "5TP8M949VuSOCGU2GimKY2",
+      "color": "Black",
+      "gtins": [
+        "00014215253427"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

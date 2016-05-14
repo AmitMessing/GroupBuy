@@ -1,0 +1,465 @@
+{
+  "total_results_count": 19465,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "weight": "25854765.09",
+      "brand": "Fram",
+      "updated_at": 1462890056,
+      "price": "68.94",
+      "created_at": 1357755905,
+      "manufacturer": "FRAM Group",
+      "mpn": "AF2100",
+      "model": "AF2100-6PK",
+      "features": {
+        "Package Quantity": "1",
+        "Temperature Rating": "-84 F to 276 F",
+        "Formula": "All Makes",
+        "Container Size": "Gallon"
+      },
+      "sem3_id": "2mg3LfXtEGkwAeIgEKeeqk",
+      "name": "Prestone AF2100-6PK Extended Life 50/50 Antifreeze - 1 Gallon, (Pack of 6)",
+      "category": "Antifreezes & Coolants",
+      "ean": "0797496871671",
+      "cat_id": "16531",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "68.94",
+              "seller": "Do it Best",
+              "firstrecorded_at": 1439061200,
+              "currency": "USD",
+              "lastrecorded_at": 1462890000,
+              "availability": "Available",
+              "id": "1Xkp3y1X1IMMSssESm6kcm",
+              "isactive": 1
+            },
+            {
+              "price": "77.94",
+              "firstrecorded_at": 1388702400,
+              "seller": "Do it Best",
+              "lastrecorded_at": 1412008900,
+              "currency": "USD",
+              "availability": "Ship-to-Store, Arrives in 7-10 business days",
+              "id": "3XIXQHDVU8ccA2QAmoEQeG",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.doitbest.com/Antifreeze-Fram+Group-model-AF2100-doitbest-sku-572861.dib",
+          "name": "doitbest.com",
+          "recentoffers_count": 1,
+          "sku": "572861"
+        }
+      ],
+      "upc": "797496871671",
+      "gtins": [
+        "00797496871671"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Adhesive G/5 2 Part 2 (1/4)pts",
+      "upc": "811343012410",
+      "created_at": 1357838006,
+      "model": "865 4",
+      "sitedetails": [],
+      "mpn": "8654",
+      "cat_id": "24279",
+      "manufacturer": "WEST SYSTEM",
+      "weight": "345864.18",
+      "ean": "0811343012410",
+      "features": {
+        "Product Dimensions": "5.7 x 3.7 x 1.8 inches",
+        "Item Weight": "10.4 ounces"
+      },
+      "brand": "West",
+      "updated_at": 1459016691,
+      "price": "29.22",
+      "category": "Adhesives",
+      "sem3_id": "6Trg9dmhdYWMoykAAOOiqw",
+      "gtins": [
+        "00811343012410"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Torco",
+      "sitedetails": [],
+      "category": "Transmission Fluids",
+      "sem3_id": "41QHhyPffcOQOOwG8UU6Iw",
+      "ean": "0789778000220",
+      "height": "228.60",
+      "price": "14.63",
+      "created_at": 1347513981,
+      "weight": "934400.28",
+      "model": "A200022CE",
+      "cat_id": "2095",
+      "features": {
+        "Product Dimensions": "24 x 60 x 108 inches",
+        "Item Weight": "3.2 ounces",
+        "Exterior": "Smooth",
+        "OEM Part Number": "A200022CE"
+      },
+      "upc": "789778000220",
+      "brand": "Torco",
+      "name": "Torco A200022CE MTF Manual Transmission Fluid",
+      "width": "127.00",
+      "mpn": "A200022CE",
+      "length": "50.80",
+      "updated_at": 1459065874,
+      "gtins": [
+        "00789778000220"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "789778000213",
+      "price": "111.00",
+      "updated_at": 1461010802,
+      "size": "1 Liter (33.814 Ounce), (Case of 12)",
+      "created_at": 1357673872,
+      "cat_id": "2095",
+      "mpn": "A200022C",
+      "ean": "0789778000213",
+      "features": {
+        "Item Weight": "24.8 pounds",
+        "Product Dimensions": "13.7 x 10.4 x 9.2 inches",
+        "UPC Code": "789778000213",
+        "Alternative Part Number (s)": "BJJQA200022C A200022C"
+      },
+      "brand": "Torco",
+      "model": "A200022C",
+      "sem3_id": "5ptZlKZhPUquSes6cKsgWK",
+      "category": "Transmission Fluids",
+      "sitedetails": [],
+      "manufacturer": "Torco",
+      "name": "Torco A200022C MTF Manual Transmission Fluid Bottle - 1 Liter, (Case of 12)",
+      "gtins": [
+        "00789778000213"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Gasoila Soft-Set Pipe Thread Sealant with PTFE Paste, Non Toxic, -100 to 600 Degree F, 1/2 Pint Brush [1/2 Pint]",
+      "manufacturer": "Federal Process",
+      "category": "Thread Lock",
+      "created_at": 1365751852,
+      "mpn": "SS08",
+      "price": "17.44",
+      "features": {
+        "Assembled Diameter": "2.75 inches",
+        "Measurement System": "Inch",
+        "Batteries Included?": "No",
+        "Container Size": "1/2 Pint",
+        "Thickness": "3.75 inches",
+        "Container Type": "Brush Top Container",
+        "Item Weight": "6.4 ounces",
+        "Cutting Diameter": "2.75 inches",
+        "Batteries Required?": "No",
+        "Item Package Quantity": "1",
+        "Origin": "USA",
+        "Product Dimensions": "3.8 x 2.6 x 1.7 inches",
+        "Material Type": "Polytetrafluoroethylene (PTFE)",
+        "Material": "Polytetrafluoroethylene (PTFE)"
+      },
+      "upc": "686081010154",
+      "cat_id": "12239",
+      "sem3_id": "5Q1K4smfGSsEYAOgSCIOga",
+      "model": "SS08",
+      "size": "1/2 Pint",
+      "ean": "0686081010154",
+      "weight": "453592.37",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.mscdirect.com/product/details/36912848",
+          "name": "mscdirect.com",
+          "latestoffers": [
+            {
+              "price": "17.44",
+              "lastrecorded_at": 1461585100,
+              "firstrecorded_at": 1446522800,
+              "id": "4IbSJofQQaSsKgGsqEU02q",
+              "availability": "available",
+              "seller": "MSC Industrial Direct Co",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "sku": "mscdirect_36912848"
+        }
+      ],
+      "updated_at": 1461585148,
+      "brand": "Gasoila",
+      "gtins": [
+        "00686081010154"
+      ],
+      "variation_secondaryids": [
+        "5Ctv8RFZRuGYmog20YcK4G"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "036121176126",
+      "updated_at": 1462103450,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1462103400,
+              "seller": "Phat Performance Parts",
+              "firstrecorded_at": 1446976200,
+              "availability": "Available",
+              "price": "33.95",
+              "id": "1rGTtk5bY8UWwsM6sq0cQc",
+              "isactive": 1
+            },
+            {
+              "id": "2UUEkpy82GwWs8YyMYgEoW",
+              "availability": "Available",
+              "price": "6.95",
+              "firstrecorded_at": 1410966000,
+              "lastrecorded_at": 1446359200,
+              "seller": "Phat Performance Parts",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.phatperformanceparts.com/DuPONT_Finish_Line_Silicone_Lubricant_ea_p/d00100101.htm",
+          "listprice_currency": "USD",
+          "sku": "d00100101",
+          "name": "phatperformanceparts.com",
+          "recentoffers_count": 1,
+          "listprice": "7.99"
+        }
+      ],
+      "price": "13.67",
+      "category": "Grease & Lubricants",
+      "cat_id": "20785",
+      "name": "DuPont Teflon Silicone Lubricant [10-Ounce]",
+      "weight": "362873.90",
+      "ean": "0036121176126",
+      "model": "D00100101",
+      "sem3_id": "1HJbMD3M6qka2coMWSSe28",
+      "created_at": 1347708146,
+      "brand": "DuPont",
+      "mpn": "D00100101",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "manufacturer": "Dupont",
+      "gtins": [
+        "00036121176126"
+      ],
+      "variation_secondaryids": [
+        "1F2L1yadmoQC2EKKm0kcOI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "261.62",
+      "sem3_id": "2PubS4tyFIMIAYMISI2aM2",
+      "upc": "071611936095",
+      "weight": "11113013.06",
+      "category": "Motor Oils",
+      "updated_at": 1461901648,
+      "mpn": "3609",
+      "ean": "0071611936095",
+      "manufacturer": "SOPUS PRODUCTS-PENNZOIL QUAKER",
+      "price": "53.78",
+      "length": "337.82",
+      "features": {
+        "Recommended Use": "Engine",
+        "Features": "Conventional Motor Oil",
+        "Volume Capacity": "1 qt",
+        "Assembled Product Dimensions (L x W x H)": "2.55 x 4.25 x 8.98 IN",
+        "Form": "Liquids"
+      },
+      "brand": "Pennzoil",
+      "height": "231.14",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/14958708",
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "sku": "14958708",
+          "latestoffers": [
+            {
+              "id": "79s3e0BbvMyqWAWSuww0KU",
+              "seller": "Walmart",
+              "firstrecorded_at": 1459809800,
+              "availability": "Available",
+              "lastrecorded_at": 1460200400,
+              "currency": "USD",
+              "price": "3.98",
+              "isactive": 0
+            },
+            {
+              "id": "5KTaRI7nk0kWOs6kS20qqg",
+              "firstrecorded_at": 1456364200,
+              "seller": "Walmart",
+              "price": "4.24",
+              "currency": "USD",
+              "lastrecorded_at": 1457995300,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "3.98",
+              "availability": "Available",
+              "lastrecorded_at": 1443912100,
+              "firstrecorded_at": 1443912100,
+              "seller": "Walmart",
+              "id": "2VfAOmDtb6UguayYYEcQ26",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "created_at": 1347625937,
+      "model": "3609",
+      "size": "Quart",
+      "name": "Motor Oil, 5W30 PENNZOIL MOTOR OIL",
+      "cat_id": "10154",
+      "gtins": [
+        "00071611936095"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462030260,
+      "weight": "3782960.37",
+      "price": "59.36",
+      "category": "Motor Oils",
+      "sem3_id": "1fMdaePyW0IAgQaOIsScEa",
+      "sitedetails": [],
+      "features": {
+        "OEM Part Number": "42505",
+        "Product Dimensions": "14.2 x 12.2 x 9.5 inches",
+        "Item Weight": "5 pounds"
+      },
+      "mpn": "42505",
+      "name": "Red Line 42505 Motorcycle Oil",
+      "manufacturer": "Red Line",
+      "brand": "Red Line",
+      "model": "42505",
+      "created_at": 1357170619,
+      "cat_id": "10154",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "118.51",
+      "sem3_id": "1LhIjqhn7Qiyk6oEmGyQQQ",
+      "height": "203.20",
+      "updated_at": 1459023467,
+      "weight": "5465788.06",
+      "length": "304.80",
+      "brand": "Royal Purple",
+      "width": "190.50",
+      "manufacturer": "Royal Purple",
+      "created_at": 1347591725,
+      "sitedetails": [],
+      "cat_id": "1637",
+      "ean": "0641330126000",
+      "category": "Cooling System",
+      "features": {
+        "Product Dimensions": "12 x 7.5 x 8 inches",
+        "Item Weight": "10 pounds",
+        "Exterior": "Smooth"
+      },
+      "mpn": "12600",
+      "upc": "641330126000",
+      "size": "12 Ounce, (Pack of 12)",
+      "model": "12600",
+      "name": "Royal Purple 12600 Purple Ice Super-Coolant Radiator Additive - 12 oz. (Case of 12)",
+      "gtins": [
+        "00641330126000"
+      ],
+      "variation_secondaryids": [
+        "1gJsqE6CbYke4M8mYCWYuC"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16531",
+      "mpn": "82 14 1 467 704",
+      "features": {
+        "Item Weight": "5 pounds",
+        "Vehicle Service Type": "all-terrain-vehicles, utility-vehicles, street-sport-motorcycles, off-road-motorcycles, street-cruiser-motorcycles, street-touring-motorcycles, street-motor-scooters, snowmobiles, marine-personal-craft",
+        "Product Dimensions": "15 x 10 x 5 inches",
+        "OEM Part Number": "82141467704, 82 14 1 467 704"
+      },
+      "ean": "0821414677042",
+      "manufacturer": "BMW",
+      "upc": "821414677042",
+      "updated_at": 1459059623,
+      "brand": "BMW",
+      "created_at": 1348675732,
+      "name": "BMW 82141467704 Grey Antifreeze Coolant - 1 Gallon",
+      "price": "30.38",
+      "sitedetails": [],
+      "model": "Antifreeze",
+      "category": "Antifreezes & Coolants",
+      "sem3_id": "30XuezuVZgQMUmoaY0IGKK",
+      "gtins": [
+        "00821414677042"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

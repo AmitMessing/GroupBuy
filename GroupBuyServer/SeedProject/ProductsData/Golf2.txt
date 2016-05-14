@@ -1,0 +1,367 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "name": "Adams Golf Super S Golf Iron Set [3-4H, 5-PW, Stiff, Right, Steel]",
+      "weight": "1360777.11",
+      "updated_at": 1458943753,
+      "variation_id": "3EdLFiFf9sYe2Aey2EumiY",
+      "features": {
+        "Item Weight": "8 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Adams Golf",
+      "category": "Irons",
+      "price": "349.99",
+      "cat_id": "20619",
+      "height": "1092.20",
+      "sem3_id": "5sNB8z1kCeiYeWqmgUis4C",
+      "sitedetails": [],
+      "length": "127.00",
+      "mpn": "144499520",
+      "width": "127.00",
+      "upc": "658628164118",
+      "manufacturer": "Adams Golf",
+      "created_at": 1364142178,
+      "ean": "0658628164118",
+      "model": "144499520",
+      "gtins": [
+        "00658628164118"
+      ],
+      "variation_secondaryids": [
+        "45T4sCtMWeGuM6cKESwUy0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "37264",
+      "sem3_id": "0Fd4J4ynNNQsk2kkMkG4oQ",
+      "manufacturer": "Cleveland Golf",
+      "price": "499.99",
+      "created_at": 1364128365,
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Origin": "China"
+      },
+      "ean": "3109883931658",
+      "variation_id": "02XbBA1rxDIOUggEMwAYoo",
+      "brand": "Cleveland Golf",
+      "category": "Irons",
+      "name": "Cleveland Golf Men's Altitude Iron Set [6-PW, Senior, Left, Graphite]",
+      "cat_id": "20619",
+      "weight": "453592.37",
+      "sitedetails": [],
+      "updated_at": 1459086623,
+      "mpn": "37264",
+      "gtins": [
+        "03109883931658"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460730816,
+      "price": "119.99",
+      "category": "Hybrid Clubs",
+      "created_at": 1347601168,
+      "name": "Adams Golf Men's Idea A12OS #4 Hybrid []",
+      "features": {
+        "Item Weight": "2 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "model": "170704140",
+      "sitedetails": [],
+      "manufacturer": "Adams Golf",
+      "upc": "658628133541",
+      "cat_id": "16436",
+      "variation_id": "1m1TeKlwwqYKQ6Cgou8UgO",
+      "brand": "Adams Golf",
+      "weight": "453592.37",
+      "sem3_id": "6i45wUviaWAgYq2OI8sGEO",
+      "ean": "0658628133541",
+      "mpn": "01AD1000 4h PBL A",
+      "gtins": [
+        "00658628133541"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Dimensions": "1 x 1 x 1 inches ; 1 pounds"
+      },
+      "category": "Drivers",
+      "mpn": "N1166407",
+      "length": "25.40",
+      "ean": "0888167219110",
+      "created_at": 1430294426,
+      "color": "White",
+      "brand": "TaylorMade",
+      "updated_at": 1460751635,
+      "price": "199.99",
+      "weight": "453592.37",
+      "sitedetails": [
+        {
+          "name": "worldwidegolfshops.com",
+          "listprice": "299.99",
+          "sku": "worldwidegolfshops_10118020_959292",
+          "url": "http://www.worldwidegolfshops.com/10118020/Product",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "id": "6bxmLRh1BAUeieqYOumCOK",
+              "firstrecorded_at": 1455623200,
+              "availability": "Available",
+              "seller": "A Worldwide Golf Company",
+              "lastrecorded_at": 1455623200,
+              "currency": "USD",
+              "price": "199.99",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "width": "25.40",
+      "name": "TaylorMade Men's AeroBurner Driver []",
+      "height": "25.40",
+      "manufacturer": "Taylormade-Adidas Golf Company",
+      "sem3_id": "0wjfr6rJHSymyoS6MOkSKU",
+      "variation_id": "1GrpimeyQCGe0csG4Guecu",
+      "model": "N1166407",
+      "cat_id": "16174",
+      "upc": "888167219110",
+      "gtins": [
+        "00888167219110"
+      ],
+      "variation_secondaryids": [
+        "1JbI8pLp8U2OAg6cwuiaCaOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "37541",
+      "brand": "Cleveland Golf",
+      "length": "9.59",
+      "sem3_id": "44gnnXyQymcwMCG4a2AaoI",
+      "manufacturer": "Cleveland Golf",
+      "weight": "3628738.96",
+      "updated_at": 1460575119,
+      "category": "Irons",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "China"
+      },
+      "cat_id": "20619",
+      "ean": "3109883934994",
+      "created_at": 1364161849,
+      "sitedetails": [],
+      "variation_id": "5lgMt6LOSmgUKy6cokOauY",
+      "price": "612.50",
+      "name": "Cleveland Golf 588 TT Iron Set []",
+      "gtins": [
+        "03109883934994"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Wilson",
+      "category": "Fairway Woods",
+      "mpn": "WGW171800S",
+      "weight": "1360777.11",
+      "upc": "883813856237",
+      "price": "125.00",
+      "updated_at": 1460678636,
+      "length": "152.40",
+      "features": {
+        "Product Dimensions": "6 x 6 x 54 inches",
+        "Origin": "China"
+      },
+      "name": "Wilson Staff Men's D100 Golf Club 5 Fairway Wood []",
+      "height": "1371.60",
+      "sem3_id": "2JOI26hHfoQSOE0KSQM8UC",
+      "cat_id": "2396",
+      "created_at": 1364215534,
+      "ean": "0883813856237",
+      "width": "152.40",
+      "model": "Staff D 100",
+      "variation_id": "2PeAgtLJamwm2sWQeYSAM8",
+      "sitedetails": [
+        {
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=WSWGW171800S",
+          "sku": "WSWGW171800S",
+          "name": "beachcamera.com",
+          "recentoffers_count": 0,
+          "latestoffers": []
+        }
+      ],
+      "brand": "Wilson",
+      "gtins": [
+        "00883813856237"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Callaway Men's FT Optiforce Fairway Wood []",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Origin": "China",
+        "Product Dimensions": "6 x 6 x 54 inches"
+      },
+      "cat_id": "2396",
+      "variation_id": "61kSrIr8sq4mMyomueKe26",
+      "price": "120.14",
+      "mpn": "430704798337",
+      "sem3_id": "33r0VXfhe4CQ0OEgosMc4U",
+      "sitedetails": [],
+      "manufacturer": "Callaway",
+      "category": "Fairway Woods",
+      "updated_at": 1460706963,
+      "brand": "Callaway",
+      "upc": "884885439243",
+      "model": "WD RH FT OPTIFORCE FW 4FW GR 5.0",
+      "ean": "0884885439243",
+      "weight": "1360777.11",
+      "created_at": 1374742602,
+      "gtins": [
+        "00884885439243"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Callaway Men's FT Optiforce Fairway Wood []",
+      "weight": "1360777.11",
+      "brand": "Callaway",
+      "upc": "884885444254",
+      "price": "229.99",
+      "updated_at": 1460573058,
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "6 x 6 x 54 inches"
+      },
+      "model": "WD RH FT OPTIF FW 3FW DIAMANA S  62G XST",
+      "cat_id": "2396",
+      "sem3_id": "1s1nePNJs0kw8GWcGWQE6O",
+      "created_at": 1374742602,
+      "category": "Fairway Woods",
+      "variation_id": "61kSrIr8sq4mMyomueKe26",
+      "manufacturer": "Callaway",
+      "sitedetails": [],
+      "mpn": "430703267437",
+      "ean": "0884885444254",
+      "gtins": [
+        "00884885444254"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460763147,
+      "manufacturer": "Cleveland Golf",
+      "price": "699.99",
+      "weight": "453592.37",
+      "created_at": 1364161849,
+      "category": "Irons",
+      "brand": "Cleveland Golf",
+      "mpn": "37572",
+      "variation_id": "5lgMt6LOSmgUKy6cokOauY",
+      "cat_id": "20619",
+      "ean": "3109883935304",
+      "model": "37572",
+      "sitedetails": [],
+      "name": "Cleveland Golf 588 TT Iron Set []",
+      "sem3_id": "5DQkB2vGPYEGAi2UmA6scY",
+      "features": {
+        "Origin": "China",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "gtins": [
+        "03109883935304"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "3OjRx8jJSaYakwaycQmMMY",
+      "ean": "0885583752405",
+      "model": "N11149",
+      "manufacturer": "TaylorMade",
+      "length": "152.40",
+      "name": "TaylorMade Men's R1 Black Golf Driver []",
+      "updated_at": 1460561600,
+      "width": "152.40",
+      "weight": "45359.24",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "6 x 6 x 54 inches"
+      },
+      "mpn": "mp-58489",
+      "sitedetails": [],
+      "created_at": 1374730068,
+      "upc": "885583752405",
+      "color": "Black",
+      "category": "Drivers",
+      "sem3_id": "3hGixVEWDQy8IwqUiQui24",
+      "cat_id": "16174",
+      "height": "1371.60",
+      "brand": "TaylorMade",
+      "gtins": [
+        "00885583752405"
+      ],
+      "variation_secondaryids": [
+        "3BtdRKmkPgOSYOiuWw4kcy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

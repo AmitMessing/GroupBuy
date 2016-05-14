@@ -1,0 +1,430 @@
+{
+  "total_results_count": 31334,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "159.00",
+      "weight": "4535.92",
+      "cat_id": "5019",
+      "upc": "883813960873",
+      "ean": "0883813960873",
+      "manufacturer": "Wilson",
+      "features": {
+        "Head Size= 99 Inches/639 cm2 Length= 27 Inches / 68.58 cm Balance= 32.5 cm/ 6 Pts Head Light (HL) Unstrung Weight- 10.7 oz / 304 g String Pattern": "16x15 (16 mains, 15 crosses)",
+        "Recommended Tension- 54-64 Lbs Racquet Comes Unstrung No Racquet Cover included Replacement Grip": "Wilson Sublime"
+      },
+      "brand": "Wilson",
+      "created_at": 1364204034,
+      "size": "4.375\\",
+      "category": "Rackets",
+      "sitedetails": [],
+      "name": "Wilson Steam 99S Spin Effect Tennis Racquet (Unstrung)",
+      "variation_id": "4B8P5ZMUV62qMk0oaKcoII",
+      "sem3_id": "5aNgD4vsBMcCmWUsUWuouG",
+      "length": "6.86",
+      "updated_at": 1462345011,
+      "model": "WRT71531U",
+      "mpn": "WRT71531U",
+      "gtins": [
+        "00883813960873"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Dimensions": "11 x 4 x 7 inches; 1 pounds"
+      },
+      "model": "580565 600",
+      "weight": "340194.28",
+      "size": "3.5 M US Big Kid",
+      "created_at": 1375850125,
+      "updated_at": 1461648102,
+      "sitedetails": [],
+      "sem3_id": "2jMYM9ND2u0omy2eMWIGOg",
+      "upc": "685068914133",
+      "width": "101.60",
+      "price": "84.99",
+      "brand": "Nike",
+      "name": "Nike Free 5.0 (GS) Girls Running Shoes 580565-600",
+      "variation_id": "4A8x3RidCKKs80qQWsQwMk",
+      "height": "177.80",
+      "mpn": "580565-600",
+      "length": "279.40",
+      "cat_id": "20641",
+      "color": "Fusion Pink/Total Crimson/Metallic Silver",
+      "ean": "0685068914133",
+      "manufacturer": "Nike",
+      "category": "Tennis",
+      "gtins": [
+        "00685068914133"
+      ],
+      "variation_secondaryids": [
+        "4TJVU7RWjoQA2SGiU0Owuy",
+        "2jZ4KoRJzMU8EAW0Oumys8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "WRT71531U1",
+      "ean": "0883813960859",
+      "upc": "883813960859",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Origin": "China"
+      },
+      "mpn": "WRT71531U",
+      "price": "159.00",
+      "brand": "Wilson",
+      "length": "6.86",
+      "updated_at": 1461546264,
+      "sem3_id": "3t9i5wUQjY0Me8UICECwCq",
+      "created_at": 1364204034,
+      "weight": "51255.94",
+      "name": "Wilson Steam 99S Spin Effect Tennis Racquet (Unstrung)",
+      "category": "Rackets",
+      "variation_id": "4B8P5ZMUV62qMk0oaKcoII",
+      "manufacturer": "Wilson",
+      "size": "4.125\\",
+      "cat_id": "5019",
+      "sitedetails": [],
+      "gtins": [
+        "00883813960859"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "14 x 61-Inch",
+      "variation_id": "5siTzbq4qOGu0e4SAc8aSK",
+      "cat_id": "20641",
+      "model": "PA14SET",
+      "created_at": 1347721880,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "mpn": "CS-PA14SET",
+      "brand": "Champion Sports",
+      "weight": "453592.37",
+      "manufacturer": "Champion Sports",
+      "name": "Champion Sports Port-A-Net Sets []",
+      "price": "105.46",
+      "sitedetails": [],
+      "sem3_id": "210nU16zM0IKGI2GMwqU2Q",
+      "category": "Tennis",
+      "color": "Red",
+      "upc": "710858025475",
+      "updated_at": 1461982946,
+      "ean": "0710858025475",
+      "gtins": [
+        "00710858025475"
+      ],
+      "variation_secondaryids": [
+        "1NP74TBR5YsKuE4ESUukkm"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0026388287857",
+      "size": "9 -Inch",
+      "mpn": "WRX2096",
+      "weight": "544310.84",
+      "sitedetails": [
+        {
+          "sku": "5650675",
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/5650675",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1459357100,
+              "price": "29.97",
+              "seller": "Walmart",
+              "currency": "USD",
+              "lastrecorded_at": 1460595800,
+              "id": "0nyyvIo7c24musma0kuWig",
+              "isactive": 0
+            },
+            {
+              "id": "6D0lpev3a4y8egqco66aIw",
+              "lastrecorded_at": 1457812900,
+              "currency": "USD",
+              "seller": "Walmart",
+              "price": "20.28",
+              "availability": "Available",
+              "firstrecorded_at": 1457812900,
+              "isactive": 0
+            },
+            {
+              "id": "6Z1ziwUpgeGw44s0iUeQIG",
+              "lastrecorded_at": 1456935700,
+              "currency": "USD",
+              "seller": "Walmart",
+              "price": "22.50",
+              "availability": "Available",
+              "firstrecorded_at": 1456935700,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "11916670_10923902",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1424358700,
+              "availability": "Available",
+              "price": "29.99",
+              "seller": "Sports Authority",
+              "currency": "USD",
+              "lastrecorded_at": 1462365900,
+              "id": "4olhkhQ0PAs28cSgMuqg0W",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.sportsauthority.com/WILSON-Jumbo-US-Open-Tennis-Ball/product.jsp?productId=11916670",
+          "name": "sportsauthority.com"
+        }
+      ],
+      "model": "WRX2096",
+      "updated_at": 1462531481,
+      "brand": "Wilson",
+      "created_at": 1364154344,
+      "upc": "026388287857",
+      "sem3_id": "3R7u12zCy0aUOImW0qcAU4",
+      "color": "Yellow",
+      "cat_id": "6150",
+      "features": {
+        "Shipping Weight (in pounds)": "1.15",
+        "Origin of Components": "USA or Imported",
+        "Product in Inches (L x W x H)": "9.0 x 9.0 x 9.0",
+        "Assembled in Country of Origin": "USA or Imported",
+        "Multi Pack Indicator": "No"
+      },
+      "price": "29.99",
+      "manufacturer": "Wilson Sporting Goods",
+      "name": "Wilson Boxed U.S. Open Jumbo Tennis Ball",
+      "category": "Balls",
+      "gtins": [
+        "00026388287857"
+      ],
+      "variation_secondaryids": [
+        "7DVPCXIQ52qkumwGog2kmo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Goggles",
+      "upc": "047791590723",
+      "created_at": 1347462973,
+      "features": {
+        "Directions": "An important warning about safety and the proper use of this product is included inside this package. Please read before wearing this protective eyewear.",
+        "Units in Package": "1"
+      },
+      "mpn": "FR-SEVE",
+      "sitedetails": [],
+      "color": "Black",
+      "brand": "Prince",
+      "sem3_id": "3g0MkqTVFwc4o8ae4wYuqA",
+      "weight": "136077.71",
+      "manufacturer": "Prince",
+      "name": "Ektelon Vendetta Eyeguard",
+      "model": "6E826 020",
+      "ean": "0047791590723",
+      "price": "13.25",
+      "cat_id": "16105",
+      "updated_at": 1459054551,
+      "gtins": [
+        "00047791590723"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1458960336,
+      "sitedetails": [],
+      "name": "Head 2013 Youtek Graphene Speed MP Tennis Racquet [4_1/2]",
+      "model": "230013",
+      "cat_id": "5019",
+      "brand": "HEAD",
+      "ean": "0726423641483",
+      "category": "Rackets",
+      "mpn": "230013",
+      "weight": "4535.92",
+      "sem3_id": "0PRB3tYu7gsEcYcaQyOwGg",
+      "manufacturer": "Head",
+      "upc": "726423641483",
+      "price": "119.95",
+      "variation_id": "50h1k8WBc8Ew8uWqSEyGGU",
+      "length": "6.86",
+      "size": "4_1/2",
+      "created_at": 1364135096,
+      "gtins": [
+        "00726423641483"
+      ],
+      "variation_secondaryids": [
+        "6vMgN56QWO0IeAI82OWQA2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "E-Force Backpack",
+      "features": {
+        "E-Force Racquetball Backpack Bag Green": "Get your gear to the court in style with this slick and bol",
+        "Origin": "USA"
+      },
+      "category": "Equipment Bags",
+      "upc": "731090010357",
+      "cat_id": "18076",
+      "updated_at": 1458997712,
+      "created_at": 1348667123,
+      "manufacturer": "E-Force",
+      "mpn": "71517",
+      "brand": "E Force",
+      "ean": "0731090010357",
+      "weight": "861825.50",
+      "sem3_id": "4hkCUQo1rs6cAcecYyemc6",
+      "sitedetails": [],
+      "gtins": [
+        "00731090010357"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "1vNB9jY6PEema4Ugis6ACo",
+      "variation_id": "0VvOOwZ2EwSY00wewUIkOM",
+      "created_at": 1356353811,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Sport Chalet",
+              "price": "149.94",
+              "availability": "In Stock",
+              "id": "4MClwiIP608QouwOqYigWe",
+              "firstrecorded_at": 1394763800,
+              "lastrecorded_at": 1394763800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "sportchalet.com",
+          "sku": "3138584",
+          "url": "http://www.sportchalet.com/product/shop+by+sport/tennis+-+racquet+sports/tennis+racquets/300517_3138584.do",
+          "recentoffers_count": 0
+        }
+      ],
+      "weight": "907184.74",
+      "updated_at": 1461530787,
+      "category": "Rackets",
+      "cat_id": "5019",
+      "upc": "883813958351",
+      "features": {
+        "Strung Weight": "11.2oz/318g",
+        "Headsize": "98\"",
+        "String Pattern": "16x19",
+        "Cross Section": "20.6 mm Flat Beam",
+        "Strung Balance": "2 pts. HL",
+        "Unstrung Weight": "10.7oz/304g"
+      },
+      "model": "WRT71621U2",
+      "name": "Wilson Blade 98 16 x 19 String Pattern Tennis Racquet []",
+      "length": "685.80",
+      "price": "201.67",
+      "manufacturer": "Wilson",
+      "size": "4.25\\",
+      "mpn": "WRT71621U",
+      "brand": "Wilson",
+      "ean": "0883813958351",
+      "gtins": [
+        "00883813958351"
+      ],
+      "variation_secondaryids": [
+        "6NSJQ4SYCms4EgqGWocGGm"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Wilson '13 Two BLX Tennis Racquet (Unstrung)",
+      "weight": "907184.74",
+      "model": "WRT71461U3",
+      "manufacturer": "Wilson",
+      "length": "6.92",
+      "category": "Rackets",
+      "cat_id": "5019",
+      "sem3_id": "40xNhAVny4iek2cWAyGs2G",
+      "sitedetails": [],
+      "features": {
+        "Unstrung Weight": "9.2 oz / 260 g",
+        "Balance": "38.5 cm/ 12 Pts Head Heavy (HH)",
+        "Racquet Comes UnstrungNo Racquet Cover includedReplacement Grip": "Wilson Sublime",
+        "Recommended Tension": "55-65 Lbs",
+        "Head Size\" 117â/755 cm2Length": "27.5 Inches / 69.85 cm",
+        "String Pattern": "16x19 (16 mains, 19 cross strings)"
+      },
+      "price": "129.00",
+      "brand": "Wilson",
+      "upc": "883813959198",
+      "created_at": 1374640205,
+      "ean": "0883813959198",
+      "updated_at": 1461411805,
+      "size": "4 3/8",
+      "variation_id": "3SittNp75cYsigae6IgswW",
+      "mpn": "WRT71461U",
+      "gtins": [
+        "00883813959198"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

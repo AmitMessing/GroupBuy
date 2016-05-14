@@ -1,0 +1,559 @@
+{
+  "total_results_count": 31334,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "580565 602",
+      "color": "FSN PINK/MTLLC SLVR/TTL CRMSN",
+      "sem3_id": "3L9CKLbjXkGYwYe0Y6SiUA",
+      "created_at": 1375850125,
+      "variation_id": "4A8x3RidCKKs80qQWsQwMk",
+      "upc": "685068916243",
+      "name": "Nike Free 5.0 (GS) Girls Running Shoes 580565-600",
+      "manufacturer": "Nike",
+      "cat_id": "20641",
+      "sitedetails": [],
+      "brand": "Nike",
+      "updated_at": 1455293254,
+      "ean": "0685068916243",
+      "category": "Tennis",
+      "mpn": "580565 600",
+      "price": "57.00",
+      "weight": "340194.28",
+      "features": {
+        "Product Dimensions": "11 x 4 x 7 inches; 1 pounds"
+      },
+      "size": "4.5 M US Big Kid",
+      "gtins": [
+        "00685068916243"
+      ],
+      "variation_secondaryids": [
+        "4TJVU7RWjoQA2SGiU0Owuy",
+        "2jZ4KoRJzMU8EAW0Oumys8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0026388633029",
+      "sitedetails": [
+        {
+          "name": "sportsauthority.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1424354900,
+              "lastrecorded_at": 1462361100,
+              "id": "0ISeWZe0bz68keWkKG60kY",
+              "currency": "USD",
+              "price": "7.99",
+              "availability": "Available",
+              "seller": "Sports Authority",
+              "isactive": 1
+            }
+          ],
+          "sku": "11365998_9833263",
+          "url": "http://www.sportsauthority.com/WILSON-Pro-Overgrip-3-Pack/product.jsp?productId=11365998"
+        },
+        {
+          "sku": "2095348_99034888",
+          "recentoffers_count": 0,
+          "url": "http://www.kohls.com/product/prd-2095348/Wilson-Pro-Tennis-Racquet-Overgrip.jsp",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "4DBIzTVUcqmGWkSkKc2Sky",
+              "availability": "In Stock",
+              "seller": "Kohl's.com",
+              "price": "5.95",
+              "firstrecorded_at": 1428624500,
+              "lastrecorded_at": 1455844300,
+              "isactive": 0
+            }
+          ],
+          "name": "kohls.com"
+        }
+      ],
+      "upc": "026388633029",
+      "cat_id": "13265",
+      "model": "WRZ4704",
+      "created_at": 1347632361,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "mpn": "WRZ4704 GR",
+      "name": "Wilson Pro Overgrip (3-Pack)",
+      "sem3_id": "3Gm5yI6LcucQEgooiic8o0",
+      "manufacturer": "Wilson",
+      "weight": "4535.92",
+      "updated_at": 1462418170,
+      "variation_id": "7kjgUms8rAemuGaSI6ggc6",
+      "category": "Racket Grips",
+      "brand": "Wilson",
+      "color": "Optic Green",
+      "price": "7.99",
+      "gtins": [
+        "00026388633029"
+      ],
+      "variation_secondaryids": [
+        "4CIvbrcg5wiySgK0Smkgsu",
+        "1RaFzl9VK0uG48CUaIISaI",
+        "6oBUXszZtQKyUYoGuiuMuWxv",
+        "6Gn2n2FXTyGYMOM8wqcuO07s"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347695016,
+      "manufacturer": "Head",
+      "mpn": "988007",
+      "length": "177.80",
+      "height": "76.20",
+      "weight": "113398.09",
+      "brand": "HEAD",
+      "features": {
+        "Origin": "China",
+        "Product Dimensions": "7 x 3 x 3 inches ; 4 ounces"
+      },
+      "size": "Adjustable",
+      "sitedetails": [
+        {
+          "name": "sportchalet.com",
+          "url": "http://www.sportchalet.com/product/shop+by+sport/tennis+-+racquet+sports/racquetball+accessories/300083_1384370.do",
+          "latestoffers": [
+            {
+              "seller": "Sport Chalet",
+              "price": "19.98",
+              "availability": "In Stock",
+              "lastrecorded_at": 1407424700,
+              "currency": "USD",
+              "id": "1I6UD4PAT4KQKAUiyu62S4",
+              "firstrecorded_at": 1407424700,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "1384370"
+        },
+        {
+          "name": "sportchalet.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1407589400,
+              "currency": "USD",
+              "id": "7BD5uH1yUameEe6MEAkqgU",
+              "availability": "Out Of Stock",
+              "price": "0.00",
+              "seller": "Sport Chalet",
+              "lastrecorded_at": 1408362400,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.sportchalet.com/product/shop+by+sport/tennis+-+racquet+sports/racquetball+accessories/300083_headproeliteeyewear.do",
+          "sku": "headproeliteeyewear"
+        }
+      ],
+      "ean": "0724794892411",
+      "sem3_id": "2dQJ8d7HoKMOqomCsKuoG6",
+      "category": "Goggles",
+      "cat_id": "16105",
+      "name": "Head Pro Elite Racquetball Eyewear []",
+      "width": "76.20",
+      "model": "988007",
+      "price": "19.95",
+      "updated_at": 1460660807,
+      "upc": "724794892411",
+      "gtins": [
+        "00724794892411"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "7 D(M) US",
+      "mpn": "MR1OF",
+      "upc": "886863597204",
+      "sitedetails": [
+        {
+          "url": "http://www.backcountry.com/new-balance-mr1-minimus-running-shoe-mens",
+          "name": "backcountry.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "89.96",
+              "seller": "Backcountry.com",
+              "firstrecorded_at": 1387993400,
+              "lastrecorded_at": 1387993400,
+              "currency": "USD",
+              "id": "0EFulU7sZlmAggSo2sGa0c",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "price": "119.95",
+              "firstrecorded_at": 1380042600,
+              "lastrecorded_at": 1384883700,
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "7Al3mxqC8muO82YECWo4kc",
+              "isactive": 0
+            }
+          ],
+          "sku": "new-balance-mr1-minimus-running-shoe-mens"
+        }
+      ],
+      "manufacturer": "New Balance",
+      "updated_at": 1460781179,
+      "price": "89.96",
+      "brand": "New Balance",
+      "color": "Orange/Black",
+      "category": "Tennis",
+      "name": "Balance Men's MR1 Minimus Running Shoe,Orange/Black,10 D US",
+      "sem3_id": "6o78vfZf3A4weCiKgyMuKs",
+      "model": "MR1 Minimus Run M",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Origin": "China",
+        "International Shipping": "This item is not eligible for international shipping. Learn More"
+      },
+      "variation_id": "1290dPshOOeIIa0YUAYEs0",
+      "created_at": 1374738822,
+      "cat_id": "20641",
+      "weight": "340194.28",
+      "ean": "0886863597204",
+      "gtins": [
+        "00886863597204"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Rackets",
+      "ean": "0726423641469",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1408022600,
+              "firstrecorded_at": 1394763800,
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "199.95",
+              "id": "2pWa6zcM7cWACeg0WSWA8G",
+              "seller": "Sport Chalet",
+              "isactive": 0
+            }
+          ],
+          "name": "sportchalet.com",
+          "url": "http://www.sportchalet.com/product/shop+by+sport/tennis+-+racquet+sports/tennis+racquets/300083_3135132.do",
+          "recentoffers_count": 0,
+          "sku": "3135132"
+        }
+      ],
+      "length": "685.80",
+      "weight": "299370.96",
+      "cat_id": "5019",
+      "name": "Head 2013 Youtek Graphene Speed MP Tennis Racquet []",
+      "size": "4_1/4",
+      "price": "113.29",
+      "model": "230013",
+      "mpn": "230013",
+      "height": "23.88",
+      "features": {
+        "Product Dimensions": "27 x 11 x 0.9 inches ; 10.6 ounces"
+      },
+      "width": "279.91",
+      "updated_at": 1460761295,
+      "manufacturer": "Head",
+      "brand": "HEAD",
+      "variation_id": "50h1k8WBc8Ew8uWqSEyGGU",
+      "sem3_id": "7RaCArM81oUY6maSQKsCO4",
+      "created_at": 1364135096,
+      "upc": "726423641469",
+      "gtins": [
+        "00726423641469"
+      ],
+      "variation_secondaryids": [
+        "6vMgN56QWO0IeAI82OWQA2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "159.00",
+      "variation_id": "3xENBgCmNcmsamUIOIeYoE",
+      "mpn": "WRT71551U",
+      "ean": "0883813961122",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Item Weight": "0.2 ounces"
+      },
+      "weight": "4535.92",
+      "length": "6.99",
+      "updated_at": 1460509113,
+      "model": "WRT71551U",
+      "category": "Rackets",
+      "brand": "Wilson",
+      "sem3_id": "6QxhHTvteCw4wio6OaoqI4",
+      "size": "4 1/2",
+      "sitedetails": [],
+      "upc": "883813961122",
+      "cat_id": "5019",
+      "created_at": 1364129925,
+      "manufacturer": "Wilson",
+      "name": "Wilson Steam 105S Spin Effect Tennis Racquet []",
+      "gtins": [
+        "00883813961122"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Wilson Blade 98 18 x 20 String Pattern Tennis Racquet []",
+      "sitedetails": [],
+      "sem3_id": "4NFipCjcl6sgwaWQO0OYQW",
+      "brand": "Wilson",
+      "weight": "907184.74",
+      "variation_id": "1uEIYZRBQq4QSE6SUiQogI",
+      "size": "4.125\\",
+      "upc": "883813959686",
+      "model": "WRT71611U1-P",
+      "mpn": "T71611L1",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "cat_id": "5019",
+      "ean": "0883813959686",
+      "manufacturer": "Wilson",
+      "updated_at": 1460604478,
+      "created_at": 1356304861,
+      "price": "199.00",
+      "category": "Rackets",
+      "gtins": [
+        "00883813959686"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/29474460",
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "id": "33tOjKkkUKwyuW4e2o0Ii2",
+              "seller": "Walmart",
+              "currency": "USD",
+              "firstrecorded_at": 1460329300,
+              "lastrecorded_at": 1460329300,
+              "price": "55.95",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "currency": "USD",
+              "id": "0jJg3uXGZk00eGyS662mUi",
+              "price": "38.00",
+              "availability": "Available",
+              "firstrecorded_at": 1459355800,
+              "lastrecorded_at": 1459355800,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1458606700,
+              "firstrecorded_at": 1458606700,
+              "availability": "Available",
+              "price": "39.22",
+              "id": "5WD26aZ4ICyuc2iUQWioMQ",
+              "currency": "USD",
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ],
+          "sku": "29474460"
+        }
+      ],
+      "name": "Wilson Badminton Tour Set",
+      "model": "WRT8444003",
+      "features": {
+        "Assembled Product Dimensions (L x W x H)": "27.00 x 8.50 x 2.60 Inches",
+        "Number of Pieces": "10",
+        "Recommended Use": "Indoor",
+        "Assembled Product Weight": "3.15 lbs",
+        "Condition": "New",
+        "Assembly Required": "Y",
+        "Material": "Plastic"
+      },
+      "created_at": 1374271465,
+      "updated_at": 1462278670,
+      "price": "55.95",
+      "manufacturer": "Wilson",
+      "cat_id": "22166",
+      "upc": "883813973934",
+      "sem3_id": "0JdTJ8vFKjmOyImWI6I8GU",
+      "category": "Rackets",
+      "brand": "Wilson",
+      "weight": "1814369.48",
+      "ean": "0883813973934",
+      "mpn": "WRT8444003",
+      "gtins": [
+        "00883813973934"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347539593,
+      "features": {
+        "Primary Color": "Black",
+        "Product in Inches (L x W x H)": "20.0 x 9.5 x 1.5",
+        "Shipping Weight (in pounds)": "0.45",
+        "Battery Type": "Does Not Contain a Battery",
+        "Multi Pack Indicator": "No",
+        "Origin of Components": "Imported",
+        "Assembled in Country of Origin": "Imported"
+      },
+      "ean": "0842569002725",
+      "brand": "MacGregor",
+      "model": "MSRBRDLX",
+      "price": "18.64",
+      "cat_id": "3506",
+      "manufacturer": "MacGregor",
+      "sem3_id": "4D42PYk3jU2S84yes6muM2",
+      "mpn": "MSRBRDLX",
+      "name": "MacGregor \"The Collegiate\" Aluminum Racquet",
+      "upc": "842569002725",
+      "updated_at": 1462312375,
+      "height": "38.10",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.walmart.com/ip/29132111",
+          "latestoffers": [
+            {
+              "price": "19.97",
+              "id": "0CaCwfCsk64Ayiyo0km8yc",
+              "availability": "Available",
+              "seller": "Dazadi Inc",
+              "lastrecorded_at": 1462312300,
+              "currency": "USD",
+              "firstrecorded_at": 1455900500,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "lastrecorded_at": 1460357900,
+              "firstrecorded_at": 1458444800,
+              "price": "18.64",
+              "id": "0HTHWiwPGRUSGYcI00mKqC",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "18.64",
+              "availability": "Available",
+              "id": "4zPdpA284GeQeMGsoiAwkq",
+              "currency": "USD",
+              "lastrecorded_at": 1459146700,
+              "seller": "OJ Commerce LLC",
+              "firstrecorded_at": 1458444800,
+              "isactive": 0
+            }
+          ],
+          "sku": "29132111",
+          "name": "walmart.com"
+        }
+      ],
+      "width": "241.30",
+      "category": "Rackets",
+      "length": "508.00",
+      "weight": "2041.17",
+      "gtins": [
+        "00842569002725"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "340194.28",
+      "upc": "883813919260",
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "California residents": "Click here for Proposition 65 warning."
+      },
+      "price": "35.67",
+      "created_at": 1364139294,
+      "model": "WRT32190U4",
+      "sitedetails": [],
+      "updated_at": 1462273613,
+      "cat_id": "5019",
+      "ean": "0883813919260",
+      "mpn": "WRT32190U",
+      "name": "Wilson Energy Extra Large Tennis Racquet without Cover []",
+      "variation_id": "4W7hgCLCHwuumk0OO6qEGo",
+      "manufacturer": "Wilson",
+      "category": "Rackets",
+      "brand": "Wilson",
+      "size": "4.5",
+      "sem3_id": "26oLB2gmVoAMiIS6aGsuMC",
+      "gtins": [
+        "00883813919260"
+      ],
+      "variation_secondaryids": [
+        "28aqbDx0YewOKOiggwQUAk"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

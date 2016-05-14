@@ -1,0 +1,566 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "2023199",
+      "mpn": "2023199",
+      "sitedetails": [],
+      "brand": "Giro",
+      "ean": "0361857315953",
+      "weight": "453592.37",
+      "created_at": 1347515970,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "updated_at": 1458960925,
+      "name": "Giro Indicator Sport Helmet (Black Yellow Livestrong)",
+      "cat_id": "6373",
+      "sem3_id": "7HyLwZprv642WCGAmamuei",
+      "color": "Black Yellow Livestrong",
+      "upc": "361857315953",
+      "variation_id": "1isnHmKhRgy4MWQ8Y2ueUa",
+      "category": "Helmets",
+      "manufacturer": "Giro",
+      "size": "Universal Fit",
+      "gtins": [
+        "00361857315953"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Lock Ring Material": "Steel / Pad printed finish",
+        "Recommended Chain": "PC-1090R, PC-1090, PC-1070, PC-1050, PC-1030",
+        "Product Dimensions": "6 x 6 x 2.5 inches ; 8 ounces",
+        "Technology": "Power Glide",
+        "Sprocket Material": "Heat treated steel / Blast Silver"
+      },
+      "created_at": 1348691265,
+      "height": "63.50",
+      "manufacturer": "SRAM",
+      "size": "12-26T",
+      "price": "55.99",
+      "category": "Components & Parts",
+      "ean": "0710845662720",
+      "upc": "710845662720",
+      "brand": "Sram",
+      "width": "152.40",
+      "variation_id": "5aa16ntLs04IIUQ0ok06iO",
+      "weight": "3175.15",
+      "model": "00.2415.058.090",
+      "color": "Chrome",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "63.68",
+              "id": "5Pgbe4HOF60IQeQqEwuISe",
+              "currency": "USD",
+              "lastrecorded_at": 1455120000,
+              "seller": "Evans Cycles",
+              "firstrecorded_at": 1453199100,
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "seller": "Evans Cycles",
+              "lastrecorded_at": 1452023700,
+              "price": "65.88",
+              "id": "5t3NJtwdTUooEcsqGIgkQa",
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1447170400,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1446583100,
+              "seller": "Evans Cycles",
+              "currency": "USD",
+              "id": "35FiBqIMEaQ2EiI6sMmOaC",
+              "price": "63.68",
+              "availability": "Available",
+              "firstrecorded_at": 1442327100,
+              "isactive": 0
+            }
+          ],
+          "sku": "023318_132792-1232-NA",
+          "name": "evanscycles.com",
+          "listprice": "74.92",
+          "listprice_currency": "USD",
+          "url": "http://www.evanscycles.com/products/sram/pg1050-10-speed-road-cassette-ec023318",
+          "recentoffers_count": 1
+        }
+      ],
+      "name": "SRAM PG-1050 Cassette (10-Speed)",
+      "mpn": "00.2415.058.090",
+      "cat_id": "251",
+      "length": "152.40",
+      "sem3_id": "5eq5kbSkdsKsMKeG4yUcKs",
+      "updated_at": 1458942702,
+      "gtins": [
+        "00710845662720"
+      ],
+      "variation_secondaryids": [
+        "0QaGBg8vmvuQmI0CKIG4qI",
+        "5YMdvrUj2WayyuAU2IGeE0jY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "cat_id": "6373",
+      "upc": "361857313799",
+      "weight": "453592.37",
+      "created_at": 1357759232,
+      "size": "Medium",
+      "color": "Blue/Black",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "category": "Helmets",
+      "updated_at": 1459078403,
+      "name": "Giro Ionos Road Racing Helmet [Blue/Black, Small]",
+      "sem3_id": "0HLpXIhrUH2WgUmuYSKyuW",
+      "price": "159.99",
+      "brand": "Giro",
+      "manufacturer": "Giro",
+      "ean": "0361857313799",
+      "variation_id": "5cIfUaL57oGIiqKCcYg8A8",
+      "model": "2022992",
+      "mpn": "2022992",
+      "gtins": [
+        "00361857313799"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Dimension",
+      "height": "101.60",
+      "cat_id": "251",
+      "updated_at": 1458966689,
+      "size": "29er",
+      "mpn": "WE8610",
+      "category": "Components & Parts",
+      "upc": "708752056879",
+      "sem3_id": "0rScZU1JoUwe4WMsWaAYGq",
+      "features": {
+        "Spokes": "DT Champion black 3x",
+        "Nipples": "DT Swiss brass",
+        "Rim": "Sun SR25 32h",
+        "Hub": "SRAM 405 6-bolt black 32h"
+      },
+      "ean": "0708752056879",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1400230700,
+              "price": "80.00",
+              "currency": "USD",
+              "seller": "Xtreme Bike & Sport",
+              "lastrecorded_at": 1400230700,
+              "id": "5EVX1NqTyaOQU0IkUCgS4y",
+              "isactive": 0
+            },
+            {
+              "seller": "Xtreme Bike & Sport",
+              "id": "0J09dNHK7sWmmoUcAemACE",
+              "lastrecorded_at": 1389695900,
+              "firstrecorded_at": 1389695900,
+              "price": "65.00",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "27669",
+          "name": "xtremebikeandsport.com",
+          "recentoffers_count": 0,
+          "url": "https://xtremebikeandsport.com/product?item_id=27669"
+        }
+      ],
+      "model": "Disc Brake MTB Series",
+      "width": "660.40",
+      "length": "685.80",
+      "name": "Dimension Front 29\" SRAM 406, 32h 6-bolt, Sun SR25",
+      "weight": "1814369.48",
+      "price": "80.00",
+      "created_at": 1347743669,
+      "brand": "Dimension",
+      "color": "Black",
+      "gtins": [
+        "00708752056879"
+      ],
+      "variation_secondaryids": [
+        "6GvLIloPy4S284WEG0Ossq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Dimensions": "6 x 6 x 6 inches ; 8 ounces"
+      },
+      "manufacturer": "Hope",
+      "model": "2 Piece Rotors",
+      "sitedetails": [],
+      "ean": "5055168017655",
+      "cat_id": "251",
+      "brand": "Hope",
+      "name": "Hope 160mm lightweight rotor, floating",
+      "updated_at": 1458967498,
+      "width": "152.40",
+      "mpn": "BR1809",
+      "price": "54.36",
+      "created_at": 1357667015,
+      "height": "6.35",
+      "sem3_id": "3z0I2Zx6vYukc0KGA4sGou",
+      "category": "Components & Parts",
+      "weight": "104326.25",
+      "length": "203.20",
+      "gtins": [
+        "05055168017655"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "86.00",
+      "manufacturer": "Portland Design Works",
+      "width": "152.40",
+      "category": "Accessories",
+      "weight": "11113.01",
+      "name": "Portland Design Works Loading Dock Rear Rack []",
+      "features": {
+        "Material": "[frame] aluminum; [tray] bamboo",
+        "Manufacturer Warranty": "lifetime",
+        "Compatibility": "commuter bikes",
+        "Recommended Use": "haulin' stuff"
+      },
+      "upc": "812938015045",
+      "model": "504",
+      "ean": "0812938015045",
+      "cat_id": "4946",
+      "mpn": "504",
+      "created_at": 1347584044,
+      "color": "Black",
+      "length": "403.86",
+      "height": "406.40",
+      "updated_at": 1460712433,
+      "brand": "Portland Design Works",
+      "sitedetails": [
+        {
+          "url": "http://www.backcountry.com/portland-design-works-loading-dock-rear-rack-aluminum",
+          "name": "backcountry.com",
+          "sku": "portland-design-works-loading-dock-rear-rack-aluminum",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "Backcountry.com",
+              "id": "7IYvgibRBICSmi8giMYa2m",
+              "availability": "Available",
+              "shipping": "8.94",
+              "firstrecorded_at": 1392744600,
+              "price": "86.00",
+              "currency": "USD",
+              "lastrecorded_at": 1392744600,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1384634600,
+              "price": "64.50",
+              "currency": "USD",
+              "lastrecorded_at": 1384634600,
+              "seller": "Backcountry.com",
+              "id": "1BZCbcKoz2UOI6iaqaSOC4",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "sem3_id": "4uJHTi4oVcYqqwMmw4uiiE",
+      "gtins": [
+        "00812938015045"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Material": "steel",
+        "Manufacturer Warranty": "lifetime",
+        "Dimensions": "Compatibility:",
+        "Recommended Use": "training"
+      },
+      "cat_id": "4946",
+      "category": "Accessories",
+      "name": "Kreitler Roller Frame []",
+      "price": "115.00",
+      "variation_id": "2LciVfMkzkQcqECGceQAWu",
+      "upc": "702430135863",
+      "length": "787.40",
+      "ean": "0702430135863",
+      "size": "38 - 42 Wheelbase",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Xtreme Bike & Sport",
+              "currency": "USD",
+              "price": "111.80",
+              "firstrecorded_at": 1398390800,
+              "id": "24DlU4f41sskyKkA8kAAmI",
+              "lastrecorded_at": 1399506100,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Xtreme Bike & Sport",
+              "firstrecorded_at": 1389442500,
+              "price": "107.50",
+              "lastrecorded_at": 1389737000,
+              "id": "6KtolqMFHMmA2UicsmKiqy",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "https://xtremebikeandsport.com/product?item_id=28066",
+          "name": "xtremebikeandsport.com",
+          "sku": "28066"
+        }
+      ],
+      "manufacturer": "Kreitler",
+      "height": "101.60",
+      "color": "Kompact Frame",
+      "model": "Kreitler",
+      "updated_at": 1460601513,
+      "width": "228.60",
+      "brand": "Kreitler",
+      "sem3_id": "7AXqPGAudU860a0uKIOCqe",
+      "weight": "3265865.06",
+      "created_at": 1347732590,
+      "mpn": "KT14001",
+      "gtins": [
+        "00702430135863"
+      ],
+      "variation_secondaryids": [
+        "13qdRpiNbY6QYQw8KI0AEU"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "3RBRLcNyVsUYoWkgwSoa2o",
+      "category": "Components & Parts",
+      "manufacturer": "WTB",
+      "brand": "WTB",
+      "ean": "0714401353305",
+      "size": "26x2.1-Inch",
+      "mpn": "W010-0102",
+      "sitedetails": [
+        {
+          "url": "https://xtremebikeandsport.com/product?item_id=25551",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1400870100,
+              "seller": "Xtreme Bike & Sport",
+              "id": "3WNrn9yydcis6QWMQYYmY6",
+              "price": "31.45",
+              "firstrecorded_at": 1400870100,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "25551",
+          "name": "xtremebikeandsport.com"
+        }
+      ],
+      "width": "660.40",
+      "name": "WTB Velociraptor Cross Country Mountain Bike Tire",
+      "sem3_id": "65laMJMlJAAoGqUCiiYGWO",
+      "cat_id": "251",
+      "color": "Black",
+      "length": "660.40",
+      "upc": "714401353305",
+      "price": "31.95",
+      "height": "44.45",
+      "updated_at": 1460677670,
+      "created_at": 1347458618,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "China"
+      },
+      "model": "W010 0102",
+      "weight": "725747.79",
+      "gtins": [
+        "00714401353305"
+      ],
+      "variation_secondaryids": [
+        "1KBgKrSDrWq8k2o8IWwkIG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460677921,
+      "ean": "0763477010018",
+      "weight": "480807.91",
+      "length": "203.20",
+      "sem3_id": "2eyGdwNQQOaKWWyASga2o8",
+      "width": "127.00",
+      "brand": "Park Tool",
+      "features": {
+        "Product Dimensions": "14 x 8 x 3 inches ; 1.2 pounds"
+      },
+      "manufacturer": "Park Tool",
+      "upc": "763477010018",
+      "height": "50.80",
+      "model": "62426",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "42.95",
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "lastrecorded_at": 1382569200,
+              "firstrecorded_at": 1382569200,
+              "id": "6J7NHz5GuewKuaoeuK0q88",
+              "isactive": 0
+            }
+          ],
+          "sku": "park-tool-p-handled-star-shaped-wrench-set-of-8",
+          "recentoffers_count": 0,
+          "url": "http://www.backcountry.com/park-tool-p-handled-star-shaped-wrench-set-of-8",
+          "name": "backcountry.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1401005700,
+              "id": "4IR2nsUEEaWasSQoY64yK0",
+              "lastrecorded_at": 1401005700,
+              "seller": "Xtreme Bike & Sport",
+              "currency": "USD",
+              "price": "46.76",
+              "isactive": 0
+            }
+          ],
+          "sku": "25292",
+          "url": "https://xtremebikeandsport.com/product?item_id=25292",
+          "recentoffers_count": 0,
+          "name": "xtremebikeandsport.com"
+        }
+      ],
+      "mpn": "PH-T1",
+      "category": "Bike Tools & Equipment",
+      "cat_id": "24097",
+      "created_at": 1347516885,
+      "price": "47.66",
+      "name": "Park Tool P-Handled Star Shaped Wrench Set of 8 []",
+      "gtins": [
+        "00763477010018"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "4946",
+      "name": "Lezyne CNC Travel Drive Floor Pump []",
+      "category": "Accessories",
+      "brand": "Lezyne",
+      "updated_at": 1460703005,
+      "sem3_id": "2AYvgdWUJ28uisigGgKk2Q",
+      "color": "Silver",
+      "mpn": "1-FP-TFLDR-V206",
+      "model": "Lezyne CNC TRAVEL FLOOR DRIVE",
+      "created_at": 1347798426,
+      "ean": "4712805977291",
+      "weight": "839145.88",
+      "price": "91.71",
+      "features": {
+        "Valve Type": "Presta, Schrader",
+        "Material": "CNC-machined aluminum",
+        "Deflate": "yes, ABS (Air Bleed Equipped)",
+        "Max Pressure": "160 PSI 11 bar",
+        "Recommended Use": "tire inflation for globetrotters",
+        "Manufacturer Warranty": "2 years",
+        "Dimensions": "20 x 7.4 x 2.3 in"
+      },
+      "manufacturer": "Lezyne",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "lezyne-travel-floor-drive-pump",
+          "url": "http://www.backcountry.com/lezyne-travel-floor-drive-pump",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "80.00",
+              "id": "39zzTnVnIm8WGwYim2UYUK",
+              "firstrecorded_at": 1385672000,
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "lastrecorded_at": 1385672000,
+              "isactive": 0
+            }
+          ],
+          "name": "backcountry.com"
+        }
+      ],
+      "gtins": [
+        "04712805977291"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "total_results_count": 64538,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "TIPPMANN",
+      "cat_id": "23035",
+      "sem3_id": "3EZzmVToxc0Y26WQyoIiYO",
+      "height": "127.00",
+      "weight": "1814369.48",
+      "upc": "669966995203",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "bobwards.com",
+          "sku": "57333",
+          "url": "http://www.bobwards.com/TIPPMANN-X7-Phenom-Electro-Paintball-Marker-57333",
+          "latestoffers": [
+            {
+              "seller": "Bobwards",
+              "availability": "Available",
+              "price": "349.99",
+              "currency": "USD",
+              "id": "7kKA2CuldI8Ueq46cyGeya",
+              "lastrecorded_at": 1458598900,
+              "firstrecorded_at": 1446787800,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1435647200,
+              "firstrecorded_at": 1388171300,
+              "id": "2sFJbmIkIKoeeSGyoeS00c",
+              "price": "399.00",
+              "seller": "Bobwards",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "size": "Electronic",
+      "color": "Black",
+      "model": "T130001",
+      "width": "330.20",
+      "features": {
+        "Trigger": "Mechanical and Electronic",
+        "Power": "Compressed Gas",
+        "Effective Range": "150+ Feet",
+        "Barrel Length": "9.5â",
+        "Firing Rate": "15 Balls per Second Max",
+        "Feed Rate": "15 Balls per Second",
+        "Caliber": "0.68â",
+        "Action": "Open Bolt Blow Forward Spool Valve System"
+      },
+      "category": "Markers",
+      "price": "349.00",
+      "name": "Tippmann X7 Phenom Paintball Marker Gun [Black, Electronic]",
+      "created_at": 1347654401,
+      "mpn": "T130001",
+      "length": "330.20",
+      "ean": "0669966995203",
+      "updated_at": 1460173840,
+      "brand": "Tippmann",
+      "gtins": [
+        "00669966995203"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "2267961.85",
+      "price": "85.89",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "10 pounds"
+      },
+      "category": "Tanks, Regulators & Parts",
+      "sitedetails": [],
+      "updated_at": 1460605083,
+      "model": "MA957",
+      "created_at": 1348681362,
+      "brand": "Milwaukee",
+      "cat_id": "15263",
+      "mpn": "00957",
+      "name": "Milwaukee Instruments MA957 Dual-Valve CO2 Adjustable Flow Pressure Regulator, Dual Reading psi and kg/cm",
+      "manufacturer": "Milwaukee",
+      "sem3_id": "5TyB9Da81IC2kSGCUuqQse",
+      "upc": "810666009572",
+      "ean": "0810666009572",
+      "gtins": [
+        "00810666009572"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "789625400203",
+      "mpn": "40020",
+      "sitedetails": [],
+      "name": "Empire Aluminum CO2 Paintball Tank [Black, 20 oz.]",
+      "price": "21.39",
+      "sem3_id": "1P7iyWnR2464mCMAeU8WKU",
+      "created_at": 1347501284,
+      "width": "83.82",
+      "size": "20oz",
+      "model": "40020",
+      "updated_at": 1460390438,
+      "weight": "635029.32",
+      "length": "276.86",
+      "features": {
+        "Origin": "USA",
+        "Product Dimensions": "10.9 x 3.3 x 3.3 inches ; 1 pounds"
+      },
+      "ean": "0889625401207",
+      "brand": "Pure Energy",
+      "height": "83.82",
+      "category": "Tanks, Regulators & Parts",
+      "cat_id": "15263",
+      "color": "Black",
+      "manufacturer": "Pure Energy",
+      "gtins": [
+        "00789625400203",
+        "00889625401207"
+      ],
+      "variation_secondaryids": [
+        "67CfX5nxJYOEmUCqoEiywO",
+        "2gD7ptq2r2OuKoaKSuaCwa"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460996232,
+      "model": "49050",
+      "cat_id": "21280",
+      "upc": "076683490506",
+      "height": "0.06",
+      "created_at": 1347791982,
+      "features": {
+        "Style": "Quick Detach",
+        "Shot Size": "N/A",
+        "Magnification": "N/A",
+        "Caliber": "N/A",
+        "Objective Lens MM": "N/A"
+      },
+      "price": "19.98",
+      "manufacturer": "Weaver",
+      "category": "Gun Scope Mounts",
+      "sem3_id": "24emyNQ3wmEAIawcYWIoiy",
+      "brand": "Weaver",
+      "name": "Weaver Detachable 1-Inch High Top Mount Rings",
+      "width": "0.70",
+      "weight": "90718.47",
+      "size": "1\" High",
+      "mpn": "49050",
+      "color": "Gloss Black",
+      "variation_id": "4nqtc69KGWMm0g2uiOEWEW",
+      "ean": "0076683490506",
+      "length": "0.95",
+      "sitedetails": [
+        {
+          "listprice": "30.99",
+          "name": "greentophuntfish.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1393318600,
+              "lastrecorded_at": 1436971900,
+              "currency": "USD",
+              "id": "5AfRxrR08msQsKUq0sgIEm",
+              "price": "19.98",
+              "seller": "Green Top",
+              "isactive": 1
+            },
+            {
+              "id": "3JvXk5cuy8O6KMskSo2WwS",
+              "seller": "Mountain Hideaway",
+              "price": "19.98",
+              "currency": "USD",
+              "lastrecorded_at": 1390339900,
+              "firstrecorded_at": 1390339900,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.greentophuntfish.com/weaver-1-quot-high-detachable-rings-49050.html",
+          "recentoffers_count": 1,
+          "sku": "weaver-1-quot-high-detachable-rings-49050",
+          "listprice_currency": "USD"
+        }
+      ],
+      "gtins": [
+        "00076683490506"
+      ],
+      "variation_secondaryids": [
+        "3EtxgWjCtsaYEWCekwKw8o",
+        "4niqW4LN7wy6SoAmIC0cOe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Gun Scope Mounts",
+      "model": "RGWM 25L2",
+      "features": {
+        "Item Weight": "4 ounces",
+        "Origin": "China"
+      },
+      "sitedetails": [],
+      "manufacturer": "AccuShot",
+      "updated_at": 1461221557,
+      "weight": "68038.86",
+      "mpn": "RGWM-25L2",
+      "cat_id": "21280",
+      "created_at": 1347600788,
+      "name": "UTG 1\"/2PCs Low Profile Picatinny/Weaver Rings, Compact",
+      "sem3_id": "6ZZXQ9ok52MuqYsMQSYWoo",
+      "brand": "AccuShot",
+      "price": "6.00",
+      "ean": "4712274524392",
+      "gtins": [
+        "04712274524392"
+      ],
+      "variation_secondaryids": [
+        "1L9fEYvIKOWCi00wi0q86U"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.bobwards.com/TIPPMANN-X7-Phenom-Assault-Edition-Marker-88656",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1435645000,
+              "price": "449.00",
+              "seller": "Bobwards",
+              "firstrecorded_at": 1388171200,
+              "currency": "USD",
+              "id": "0h44hEMJbWYWg4UEeGQSEa",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "88656",
+          "name": "bobwards.com"
+        }
+      ],
+      "cat_id": "23035",
+      "brand": "Tippmann",
+      "created_at": 1347809362,
+      "category": "Markers",
+      "weight": "1778082.09",
+      "color": "Black",
+      "model": "T130004",
+      "name": "Tippmann X7 Phenom Assault .68 Caliber Paintball Marker",
+      "features": {
+        "Caliber": ".68",
+        "Hopper Capacity": "200",
+        "Trigger": "Mechanical and Electronic",
+        "Effective Range": "150 ft",
+        "Barrel Length": "9.5â",
+        "Action": "Open Bolt Blow Forward Spool Valve System",
+        "Firing Rate": "15 BPS",
+        "Feed Rate": "15 BPS",
+        "Power": "Electro Pneumatic"
+      },
+      "sem3_id": "2NnAwAqgHImkK204iI4kQA",
+      "price": "399.00",
+      "mpn": "T130004",
+      "ean": "0699669900235",
+      "manufacturer": "Tippmann",
+      "updated_at": 1460172092,
+      "upc": "699669900235",
+      "gtins": [
+        "00699669900235"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Black",
+      "brand": "Tippmann",
+      "manufacturer": "TIPPMANN",
+      "ean": "0669966993810",
+      "name": "Tippmann 98 Custom Pro Platinum Series ACT Paintball Marker Basic - Black",
+      "upc": "669966993810",
+      "mpn": "T105024",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "USA"
+      },
+      "price": "159.00",
+      "model": "T105024",
+      "updated_at": 1458961345,
+      "weight": "2721554.22",
+      "created_at": 1347738426,
+      "sitedetails": [],
+      "cat_id": "23514",
+      "category": "Complete Paintball Sets",
+      "sem3_id": "50pi9e4QGmo4Uo8ecMyWue",
+      "gtins": [
+        "00669966993810"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347795790,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "1 pounds",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "sem3_id": "0ewGCNVUKMwiOUu4mKgo0I",
+      "upc": "789625522042",
+      "size": "18\\",
+      "ean": "0789625522042",
+      "weight": "453592.37",
+      "category": "Barrels",
+      "sitedetails": [],
+      "cat_id": "13124",
+      "name": "Empire Apex 2 Paintball Barrel - A5, 98, Autococker []",
+      "mpn": "52204",
+      "color": "Black",
+      "manufacturer": "Empire",
+      "brand": "BT",
+      "price": "49.95",
+      "updated_at": 1460686739,
+      "model": "M98",
+      "gtins": [
+        "00789625522042"
+      ],
+      "variation_secondaryids": [
+        "5LQOdr36I4SCWK26g2U4EI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "25xLGVW2R6CKu2yGoGo4uM",
+      "price": "1599.99",
+      "sitedetails": [],
+      "created_at": 1356299891,
+      "cat_id": "23035",
+      "category": "Markers",
+      "mpn": "30268500",
+      "color": "Dark Earth",
+      "features": {
+        "Operating Pressure": "150 psi",
+        "Caliber": ".68Cal / Shaped projectile ready (First Strike)",
+        "Barrel Length": "14 inches standard"
+      },
+      "name": "Dye DAM Assault Matrix Paintball Marker []",
+      "model": "DAM",
+      "updated_at": 1460915239,
+      "length": "914.40",
+      "manufacturer": "Dye Precision",
+      "upc": "725239180483",
+      "variation_id": "2KvnExkL6y4WCy0GUgO866",
+      "ean": "0725239180483",
+      "brand": "Dye",
+      "weight": "2336000.71",
+      "gtins": [
+        "00725239180483"
+      ],
+      "variation_secondaryids": [
+        "6yL4EzZ3ZIWwk20UksA66m"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "669966995173",
+      "length": "304.80",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "height": "152.40",
+      "model": "T206004",
+      "name": "US Army Ranger Performance Goggle",
+      "brand": "US Army",
+      "cat_id": "16295",
+      "weight": "453592.37",
+      "sitedetails": [
+        {
+          "sku": "49364",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "34.95",
+              "availability": "Available",
+              "lastrecorded_at": 1458594200,
+              "currency": "USD",
+              "seller": "Bobwards",
+              "firstrecorded_at": 1388171300,
+              "id": "78QfvqpOTo6ikEiqWoM06Q",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.bobwards.com/TIPPMANN-Ranger-Goggles-49364",
+          "name": "bobwards.com"
+        }
+      ],
+      "updated_at": 1460916659,
+      "color": "Camouflage",
+      "price": "26.95",
+      "mpn": "T206004",
+      "manufacturer": "US Army",
+      "created_at": 1347639482,
+      "category": "Protective Gear",
+      "ean": "0669966995173",
+      "sem3_id": "1apZPeb1Qqssq2wkMEymqo",
+      "width": "254.00",
+      "gtins": [
+        "00669966995173"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

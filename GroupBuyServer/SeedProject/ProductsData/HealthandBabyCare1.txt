@@ -1,0 +1,1047 @@
+{
+  "total_results_count": 4455,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "upc": "074451087422",
+      "variation_id": "0EI4xr9prf6UOAIWSU8uck",
+      "ean": "0074451087422",
+      "category": "Teethers",
+      "department": "baby-girls",
+      "model": "8742",
+      "sem3_id": "6bNlFopxWiwCMgO6YeEAcM",
+      "weight": "90718.47",
+      "created_at": 1347697676,
+      "manufacturer": "KIDS II",
+      "width": "114.30",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "toysrus.com",
+          "url": "http://www.toysrus.com/product/index.jsp?productId=3505908",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1456946700,
+              "seller": "Toysrus",
+              "price": "3.99",
+              "availability": "available",
+              "lastrecorded_at": 1462923800,
+              "id": "2sUo3jf5aK8SaC00Y4402U",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1454541100,
+              "price": "3.19",
+              "seller": "Toysrus",
+              "availability": "available",
+              "id": "0tzxfGEekgycmY8qsKE4MU",
+              "lastrecorded_at": 1456341300,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1453319500,
+              "seller": "Toysrus",
+              "price": "3.99",
+              "id": "0lH1XOvobaoyWQWWSiccsC",
+              "lastrecorded_at": 1453929600,
+              "availability": "available",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "3505908"
+        }
+      ],
+      "color": "Pretty in Pink",
+      "height": "95.25",
+      "cat_id": "16327",
+      "name": "Bright Starts License to Drool Teether, Pretty in Pink []",
+      "brand": "Bright Starts",
+      "mpn": "8742",
+      "price": "3.99",
+      "updated_at": 1463075854,
+      "features": {
+        "Item Weight": "2.4 ounces",
+        "Origin": "Nigeria",
+        "Product Dimensions": "1 x 4.5 x 3.8 inches",
+        "Batteries required": "No",
+        "Target gender": "Unisex"
+      },
+      "length": "25.40",
+      "gtins": [
+        "00074451087422"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Vulli",
+      "color": "Blue",
+      "department": "unisex-baby",
+      "features": {
+        "Item Weight": "0.5 ounces",
+        "Origin": "USA",
+        "Maximum weight recommendation": "60 Pounds",
+        "Target gender": "Unisex",
+        "Number of items": "1",
+        "Product Dimensions": "1.5 x 1.5 x 5.5 inches",
+        "Batteries required": "No",
+        "Minimum weight recommendation": "8 Pounds",
+        "Style": "Blue"
+      },
+      "width": "38.10",
+      "category": "Teethers",
+      "ean": "3056563001975",
+      "mpn": "300197",
+      "cat_id": "16327",
+      "created_at": 1347457500,
+      "variation_id": "5I2ABzVi7k8ycsWmQsuku8",
+      "sem3_id": "19XUwosbEcSGsmcIQuAyAa",
+      "weight": "13607.77",
+      "price": "14.03",
+      "height": "139.70",
+      "updated_at": 1463219034,
+      "model": "300197",
+      "sitedetails": [
+        {
+          "url": "http://www.wayfair.com/Vulli-Soft-Chan-Teether-300197-VLLI1004.html",
+          "recentoffers_count": 0,
+          "sku": "VLLI1004",
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1393905400,
+              "price": "19.89",
+              "currency": "USD",
+              "id": "4Ihje0H9MuEYG0aImkSaQa",
+              "seller": "Wayfair",
+              "availability": "In Stock",
+              "lastrecorded_at": 1393905400,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 2,
+          "url": "http://www.walmart.com/ip/39412428",
+          "sku": "39412428",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1423386800,
+              "price": "15.95",
+              "currency": "USD",
+              "id": "4qS3m6L0pEysKgi2ocGieO",
+              "seller": "HealthCheck Systems, Inc",
+              "availability": "Available",
+              "lastrecorded_at": 1463219000,
+              "isactive": 1
+            },
+            {
+              "seller": "eTailz",
+              "availability": "Available",
+              "id": "2pt0zI7HKS0qw6wAAYIEyy",
+              "lastrecorded_at": 1463219000,
+              "firstrecorded_at": 1462500200,
+              "price": "18.54",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "price": "18.84",
+              "firstrecorded_at": 1458362900,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "eTailz",
+              "id": "4WKftzG0IK2csyIAiq8msU",
+              "lastrecorded_at": 1462216100,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "39445601",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/39445601",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "HealthCheck Systems, Inc",
+              "id": "2fIBqbjeHAUOKCOkEAoO6G",
+              "lastrecorded_at": 1462837400,
+              "price": "31.95",
+              "firstrecorded_at": 1423386700,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "size": "Birth -and UP",
+      "name": "Vulli Chan Pie Gnon Natural Rubber Soft Chew Toy, Blue (Discontinued by Manufacturer)",
+      "brand": "Vulli",
+      "length": "38.10",
+      "gtins": [
+        "03056563001975"
+      ],
+      "variation_secondaryids": [
+        "6rxsfFoIjYeYU8OcKWwM6e"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "071463014798",
+      "brand": "The First Years",
+      "category": "Teethers",
+      "width": "25.40",
+      "sem3_id": "2REVpeP0SSsEoEG4c8M0Y4",
+      "model": "Y1479",
+      "updated_at": 1463177960,
+      "ean": "0071463014798",
+      "manufacturer": "TOMY",
+      "height": "146.05",
+      "price": "8.94",
+      "weight": "58967.01",
+      "sitedetails": [
+        {
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "price": "13.90",
+              "firstrecorded_at": 1389794200,
+              "id": "6Ewh3lWB3QKUscecsk88A8",
+              "currency": "USD",
+              "lastrecorded_at": 1389794200,
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "COM1235",
+          "url": "http://www.wayfair.com/The-First-Years-Baby-Massaging-Action-Teether-Y1479-COM1235.html"
+        },
+        {
+          "name": "wayfair.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "16.70",
+              "availability": "In Stock",
+              "id": "6vjR6pM4NUCqYE8wWQAcko",
+              "firstrecorded_at": 1389794300,
+              "currency": "USD",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1389794300,
+              "isactive": 0
+            }
+          ],
+          "sku": "COM1216",
+          "url": "http://www.wayfair.com/The-First-Years-Massaging-Action-Teether-1479-COM1216.html"
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.kohls.com/product/prd-1015556/the-first-years-massaging-action-teether.jsp",
+          "sku": "1015556_07342242",
+          "latestoffers": [
+            {
+              "price": "9.75",
+              "availability": "In Stock",
+              "id": "45RHrtizzM0yAOyeYWIES4",
+              "firstrecorded_at": 1398416100,
+              "currency": "USD",
+              "seller": "Kohl's.com",
+              "lastrecorded_at": 1398605800,
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "price": "13.00",
+              "firstrecorded_at": 1398046700,
+              "id": "6skmmygBZQIUkqwiuk2cqy",
+              "currency": "USD",
+              "lastrecorded_at": 1398231600,
+              "seller": "Kohl's.com",
+              "isactive": 0
+            },
+            {
+              "price": "9.75",
+              "availability": "In Stock",
+              "id": "2Wnx0uEXz62M4skUAqcsgo",
+              "firstrecorded_at": 1392669200,
+              "currency": "USD",
+              "seller": "Kohl's.com",
+              "lastrecorded_at": 1397856100,
+              "isactive": 0
+            }
+          ],
+          "name": "kohls.com"
+        }
+      ],
+      "features": {
+        "Target gender": "Unisex",
+        "Batteries required": "Yes",
+        "Product Dimensions": "3 x 1 x 5.8 inches",
+        "Origin": "China",
+        "Material Type": "Plastic",
+        "Item Weight": "2.1 ounces",
+        "Number of items": "1"
+      },
+      "name": "The First Years Massaging Action Teether",
+      "created_at": 1347512777,
+      "cat_id": "16327",
+      "mpn": "1479",
+      "length": "76.20",
+      "gtins": [
+        "00071463014798"
+      ],
+      "variation_secondaryids": [
+        "59KPKNxQTgUUCGkEiqMsOc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16327",
+      "model": "Zo 9145",
+      "height": "38.10",
+      "sem3_id": "4qsg6xLQqWEiQAKmCoCOms",
+      "upc": "896368002066",
+      "width": "165.10",
+      "mpn": "BC09PP0002",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/Zo-li-Gummy-Stick-Baby-Gum-Teether-BC09PP0002-WXE1010.html",
+          "name": "wayfair.com",
+          "sku": "WXE1010",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1389794500,
+              "currency": "USD",
+              "lastrecorded_at": 1389794500,
+              "id": "0c5jTN8MiVUGC6yKi8e2KO",
+              "price": "10.10",
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "walmart.com",
+          "sku": "20772472",
+          "url": "http://www.walmart.com/ip/20772472",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1440503000,
+              "firstrecorded_at": 1440503000,
+              "currency": "USD",
+              "price": "16.98",
+              "availability": "Available",
+              "seller": "BigFly",
+              "id": "2VJtagzBIeIOIWsYyGOocu",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1423297300,
+              "lastrecorded_at": 1429761000,
+              "id": "6UQfCECenokO0OoW4gywsw",
+              "seller": "HealthCheck Systems, Inc",
+              "price": "9.99",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "updated_at": 1463201205,
+      "created_at": 1347561551,
+      "length": "165.10",
+      "name": "ZoLi Gummy Set of 2 Stick Gum Massager, Green/Orange",
+      "category": "Teethers",
+      "features": {
+        "Number of items": "1",
+        "Material free": "BPA Free, Latex Free, Lead Free, Phthalate Free",
+        "Maximum weight recommendation": "96 Pounds",
+        "Minimum weight recommendation": "16 Ounces",
+        "Batteries required": "No",
+        "Origin": "USA",
+        "Target gender": "Unisex",
+        "Item Weight": "0.3 ounces"
+      },
+      "ean": "0896368002066",
+      "brand": "Zo li",
+      "manufacturer": "Zo-li",
+      "gtins": [
+        "00896368002066"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "044677650052",
+      "brand": "Lansinoh",
+      "ean": "0044677650052",
+      "category": "Health & Baby Care",
+      "length": "152.40",
+      "cat_id": "12044",
+      "sem3_id": "130ODweJd44q02q6K4Mkas",
+      "created_at": 1425958246,
+      "updated_at": 1463227529,
+      "name": "Lansinoh Nursing Supplies",
+      "height": "44.45",
+      "price": "6.48",
+      "weight": "453592.37",
+      "model": "024W012236310001P",
+      "width": "101.60",
+      "features": {
+        "Origin": "USA",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "12.99",
+              "availability": "Available",
+              "id": "1sgAvkbcv208i8EQqSMEcu",
+              "firstrecorded_at": 1463128700,
+              "seller": "Sears Brands, LLC.",
+              "currency": "USD",
+              "lastrecorded_at": 1463128700,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1461749800,
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1461749800,
+              "id": "3oWpIJi9xACOMYc6a88UqC",
+              "availability": "Available",
+              "price": "11.04",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "price": "11.69",
+              "firstrecorded_at": 1425958200,
+              "id": "7W1T8I0GXII42oQW0cKeGQ",
+              "lastrecorded_at": 1425958200,
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "isactive": 0
+            }
+          ],
+          "listprice": "12.99",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "sku": "024W012236310001P",
+          "url": "http://www.kmart.com/lansinoh-soothies-gel-pads-2-pads/p-024W012236310001P",
+          "name": "kmart.com"
+        },
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA4Y92UR5701",
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "10.99",
+              "firstrecorded_at": 1456459800,
+              "id": "7K0txCD5Wag4sky2eUK8yC",
+              "lastrecorded_at": 1463227500,
+              "currency": "USD",
+              "seller": "Baby Town LLC",
+              "shipping": "599.00",
+              "isactive": 1
+            },
+            {
+              "seller": "FireBall",
+              "currency": "USD",
+              "lastrecorded_at": 1463227500,
+              "id": "0fRA4KxrbeoCAeegkSA082",
+              "firstrecorded_at": 1459915300,
+              "price": "17.19",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1459915300,
+              "id": "4uQPwYorrEK0ms6YUIkuwG",
+              "availability": "Available",
+              "price": "17.19",
+              "lastrecorded_at": 1463227500,
+              "currency": "USD",
+              "seller": "Newegg",
+              "isactive": 1
+            }
+          ],
+          "sku": "9SIA4Y92UR5701",
+          "listprice": "17.19",
+          "listprice_currency": "USD",
+          "recentoffers_count": 5
+        }
+      ],
+      "gtins": [
+        "00044677650052"
+      ],
+      "variation_secondaryids": [
+        "6qjSkWFUe0MsoSAsQyMy8A",
+        "1KR1bPbUvWQue8eOWYQcSY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "18143.69",
+      "model": "009 BT",
+      "width": "50.80",
+      "created_at": 1347602783,
+      "upc": "857371000326",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 2,
+          "latestoffers": [
+            {
+              "price": "10.71",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "39XTpVyK3ysMM46Yeqwwe0",
+              "lastrecorded_at": 1462312200,
+              "seller": "SpaceBound Inc",
+              "firstrecorded_at": 1456811400,
+              "isactive": 1
+            },
+            {
+              "price": "11.32",
+              "firstrecorded_at": 1459157500,
+              "seller": "Limited Goods LLC",
+              "lastrecorded_at": 1462312200,
+              "id": "0GYSGNuPLP64OQeY2CWUGc",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1460360200,
+              "firstrecorded_at": 1455692100,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "2CPitwsmDsQ2gUEcWUYuec",
+              "price": "7.63",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/17217290",
+          "sku": "17217290"
+        },
+        {
+          "sku": "9SIA0AV01T6489",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1360276700,
+              "seller": "HealthCheckSystems",
+              "lastrecorded_at": 1382613100,
+              "id": "572hmdSu2CgUIU8eQi2ywA",
+              "availability": "In stock. [BBX: Buy Box]",
+              "currency": "USD",
+              "price": "4.49",
+              "isactive": 0
+            },
+            {
+              "price": "4.49",
+              "lastrecorded_at": 1373700500,
+              "seller": "Newegg",
+              "firstrecorded_at": 1359886900,
+              "currency": "USD",
+              "id": "7gRPgJGXQmY0ccCMUMKCMG",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA0AV01T6489",
+          "name": "newegg.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.overstock.com/6017901/product.html",
+          "name": "overstock.com",
+          "sku": "6017901_8136646",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1460375600,
+              "seller": "Overstock",
+              "firstrecorded_at": 1457657100,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "4b3GkUHmEa6mQi8QkMQy4g",
+              "price": "7.99",
+              "isactive": 0
+            },
+            {
+              "seller": "Overstock",
+              "lastrecorded_at": 1453057400,
+              "firstrecorded_at": 1436151300,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "3RXyd4cYw4KWY4GKsIWgkg",
+              "price": "6.79",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "16327",
+      "mpn": "RZ-009BT",
+      "color": "Blue",
+      "length": "57.15",
+      "category": "Teethers",
+      "height": "38.10",
+      "features": {
+        "Primary Color": "Blue",
+        "Origin of Components": "USA or Imported",
+        "Battery Type": "Does Not Contain a Battery",
+        "Multi Pack Indicator": "Yes",
+        "Shipping Weight (in pounds)": "3.0",
+        "Assembled in Country of Origin": "USA or Imported"
+      },
+      "variation_id": "6d7RYu5tHE6QGkIAQwImuO",
+      "sem3_id": "2zFhbtsFsuEcqwio6wMWu2",
+      "price": "4.99",
+      "updated_at": 1463180889,
+      "manufacturer": "RaZbaby",
+      "ean": "0857371000326",
+      "brand": "Razbaby",
+      "name": "RaZberry Teether - Blue []",
+      "gtins": [
+        "00857371000326"
+      ],
+      "variation_secondaryids": [
+        "01R6qQPBz44E6seuggOeIQY6"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "793573715029",
+      "cat_id": "16327",
+      "price": "9.09",
+      "brand": "Green Toys",
+      "created_at": 1347631647,
+      "name": "Green Toys Twist Teether Toy",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "5ftmJpFecaic2qGOgWi008",
+              "lastrecorded_at": 1462280800,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1412752300,
+              "price": "10.99",
+              "seller": "Babyhaven",
+              "isactive": 1
+            },
+            {
+              "id": "47tEhaoMJsswCCGws0qqik",
+              "lastrecorded_at": 1413845000,
+              "availability": "In Stock",
+              "currency": "USD",
+              "price": "13.37",
+              "firstrecorded_at": 1413845000,
+              "seller": "Tonzof",
+              "isactive": 0
+            },
+            {
+              "seller": "UnbeatableSale.com",
+              "currency": "USD",
+              "firstrecorded_at": 1412752300,
+              "price": "20.13",
+              "id": "5ot41LcyCesgqW6KOASE0k",
+              "lastrecorded_at": 1413845000,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "sku": "26957425",
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "url": "http://www.walmart.com/ip/26957425"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1462186200,
+              "price": "13.89",
+              "lastrecorded_at": 1463093900,
+              "id": "4ibVKNI9QG2GsE4uY0A82Y",
+              "availability": "Available",
+              "seller": "Overstock",
+              "isactive": 1
+            },
+            {
+              "seller": "Overstock",
+              "id": "0CPRwo4KJaSOSQy2euew4y",
+              "lastrecorded_at": 1461903300,
+              "availability": "Available",
+              "price": "13.99",
+              "currency": "USD",
+              "firstrecorded_at": 1455063400,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1442013700,
+              "price": "13.49",
+              "availability": "Available",
+              "lastrecorded_at": 1453762900,
+              "id": "0fIxvi2EI8MEuiyymcGOSG",
+              "seller": "Overstock",
+              "isactive": 0
+            }
+          ],
+          "name": "overstock.com",
+          "sku": "9176645_13249585",
+          "recentoffers_count": 1,
+          "url": "http://www.overstock.com/9176645/product.html"
+        },
+        {
+          "sku": "537252",
+          "name": "cvs.com",
+          "latestoffers": [
+            {
+              "seller": "CVS pharmacy",
+              "lastrecorded_at": 1460454600,
+              "id": "13OPATkvG064OKCiCIacgK",
+              "availability": "Available",
+              "price": "10.99",
+              "currency": "USD",
+              "firstrecorded_at": 1441355300,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.cvs.com/shop/baby-child/health/teething-oral-care/green-toys-twist-teether-skuid-537252",
+          "recentoffers_count": 1
+        }
+      ],
+      "ean": "0793573715029",
+      "height": "114.30",
+      "weight": "113398.09",
+      "department": "baby-boys",
+      "category": "Teethers",
+      "model": "KNTA 1502",
+      "length": "114.30",
+      "features": {
+        "Target gender": "Unisex",
+        "Origin": "USA",
+        "Additional product features": "-1",
+        "Style": "Twist Teether",
+        "Number of items": "1",
+        "Item Weight": "3.7 ounces",
+        "Material Type": "Plastic",
+        "Batteries required": "No",
+        "Product Dimensions": "4.5 x 4.5 x 4.5 inches"
+      },
+      "width": "114.30",
+      "sem3_id": "1i0BJPUsjkMEi68U6SCqQK",
+      "updated_at": 1463093929,
+      "mpn": "KNTA-1502",
+      "manufacturer": "Green Toys",
+      "gtins": [
+        "00793573715029"
+      ],
+      "variation_secondaryids": [
+        "3VXXEERioakqm8sSEM8MAY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "736211906564",
+      "ean": "0736211906564",
+      "updated_at": 1463186942,
+      "sem3_id": "2YZVrxJvxgW6A2CkKgQoEk",
+      "weight": "45359.24",
+      "name": "Molar Muncher Hands Free Teether []",
+      "cat_id": "16327",
+      "department": "baby-boys",
+      "mpn": "90656",
+      "price": "12.69",
+      "features": {
+        "Manufacturer suggested age": "0-24 months",
+        "Measurements": "0.9in. L x 2.2in. W x 5.1in. H",
+        "Care and cleaning": "Dishwasher safe",
+        "Name": "Molar Muncher Teether",
+        "Title": "Molar Muncher Teether",
+        "Materials": "Silicone",
+        "JPMA Certified": "Y"
+      },
+      "manufacturer": "Molar Muncher",
+      "color": "Green",
+      "category": "Teethers",
+      "created_at": 1347547702,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "5VLl6wAAACMq2oyO6GWmIC",
+              "lastrecorded_at": 1463132500,
+              "seller": "Overstock",
+              "availability": "Available",
+              "price": "12.69",
+              "currency": "USD",
+              "firstrecorded_at": 1461964100,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "Overstock",
+              "lastrecorded_at": 1461673400,
+              "id": "2AlIVEgy68uKeIY0Gi68eQ",
+              "firstrecorded_at": 1456350400,
+              "currency": "USD",
+              "price": "12.89",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1452665900,
+              "price": "10.99",
+              "seller": "Overstock",
+              "availability": "Available",
+              "id": "5HwifPjACmKiAM4K4iA2I0",
+              "lastrecorded_at": 1455063300,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "overstock.com",
+          "sku": "9535845_14164526",
+          "url": "http://www.overstock.com/9535845/product.html"
+        }
+      ],
+      "brand": "Molar Muncher",
+      "model": "190656",
+      "gtins": [
+        "00736211906564"
+      ],
+      "variation_secondaryids": [
+        "4LdqxZ314C4ug2I6aeqiAS"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "89.99",
+      "cat_id": "12044",
+      "width": "474.98",
+      "category": "Health & Baby Care",
+      "length": "546.10",
+      "name": "Bubula Steel Diaper Pail - Grey",
+      "features": {
+        "Product Dimensions": "21.5 x 18.7 x 13.2 inches",
+        "Item Weight": "6.4 pounds",
+        "Origin": "Turkey",
+        "Batteries required": "No"
+      },
+      "variation_id": "3ABabTWS2KQWEiSscsMYeukB",
+      "height": "335.28",
+      "created_at": 1439229458,
+      "weight": "2902991.17",
+      "sem3_id": "49RDIIqmnYwIUaIyQ6CaIY",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462814200,
+              "currency": "USD",
+              "id": "0MRZjGbZD2OAeOYwwQKaQc",
+              "price": "89.99",
+              "firstrecorded_at": 1454342800,
+              "seller": "Soap",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "seller": "Soap",
+              "availability": "Available",
+              "lastrecorded_at": 1452705200,
+              "id": "0NK0TAyfppWue4uEqKQg6u",
+              "currency": "USD",
+              "price": "96.56",
+              "firstrecorded_at": 1450210700,
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "seller": "Soap",
+              "firstrecorded_at": 1449605100,
+              "price": "89.99",
+              "id": "3Nggr3q5Q8iYe84SCYG464",
+              "currency": "USD",
+              "lastrecorded_at": 1449605100,
+              "isactive": 0
+            }
+          ],
+          "name": "soap.com",
+          "listprice_currency": "USD",
+          "listprice": "89.99",
+          "sku": "1184887_USZ-003",
+          "url": "http://www.soap.com/p/bubula-steel-diaper-pail-grey-1184887",
+          "recentoffers_count": 1
+        },
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463111400,
+              "id": "3kxGfPbAIacUQE60oqcQgk",
+              "currency": "USD",
+              "price": "89.99",
+              "firstrecorded_at": 1457059300,
+              "seller": "Overstock",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "sku": "10988530_16965939",
+          "name": "overstock.com",
+          "url": "http://www.overstock.com/Baby/Bubula-Steel-Diaper-Pail/10988530/product.html",
+          "recentoffers_count": 1
+        },
+        {
+          "url": "http://www.toysrus.com/product/index.jsp?productId=62587836",
+          "recentoffers_count": 1,
+          "sku": "62587836",
+          "name": "toysrus.com",
+          "latestoffers": [
+            {
+              "price": "89.99",
+              "firstrecorded_at": 1458282300,
+              "lastrecorded_at": 1463201300,
+              "id": "0hCSspZ36Yo8EU2UIKICII",
+              "currency": "USD",
+              "seller": "Toysrus",
+              "availability": "available",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "brand": "Bubula",
+      "department": "baby-boys",
+      "mpn": "USZ-003",
+      "updated_at": 1463201370,
+      "variation_secondaryids": [
+        "6XabUKcL6OMiqG06qaSIMW",
+        "6SveggoqjAGIKqaqeIeeOSY6"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "300199",
+      "width": "38.10",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.walmart.com/ip/39445577",
+          "sku": "39445577",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "65g9QwMxdIqScoYOK4aAms",
+              "availability": "Available",
+              "price": "29.95",
+              "seller": "HealthCheck Systems, Inc",
+              "lastrecorded_at": 1463197900,
+              "firstrecorded_at": 1423912800,
+              "isactive": 1
+            }
+          ],
+          "name": "walmart.com"
+        }
+      ],
+      "size": "Birth -and UP",
+      "updated_at": 1463197925,
+      "price": "14.03",
+      "height": "139.70",
+      "cat_id": "16327",
+      "variation_id": "5I2ABzVi7k8ycsWmQsuku8",
+      "length": "38.10",
+      "created_at": 1347457500,
+      "manufacturer": "Vulli",
+      "ean": "3056563001999",
+      "category": "Teethers",
+      "name": "Vulli Chan Pie Gnon Natural Rubber Soft Chew Toy, Yellow [Yellow]",
+      "sem3_id": "5nL0lSdcpsKuA0WY4squyy",
+      "brand": "Vulli",
+      "weight": "13607.77",
+      "model": "300199",
+      "features": {
+        "Target gender": "Unisex",
+        "Batteries required": "No",
+        "Number of items": "1",
+        "Product Dimensions": "1.5 x 1.5 x 5.5 inches",
+        "Origin": "USA",
+        "Item Weight": "0.5 ounces"
+      },
+      "color": "Yellow",
+      "gtins": [
+        "03056563001999"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

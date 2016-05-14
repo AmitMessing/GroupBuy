@@ -1,0 +1,367 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "mpn": "R200A-NHLPL-CBblk_Large",
+      "sem3_id": "3PGkEEX8m0q8kKkoui68cs",
+      "created_at": 1347807346,
+      "name": "NHL Chicago Blackhawks Primary Logo T-Shirt ,Black []",
+      "ean": "0886041732694",
+      "updated_at": 1460745217,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "0nmsOhJBEUCmmMWikk0QOY",
+              "lastrecorded_at": 1458126000,
+              "seller": "Petco",
+              "price": "11.99",
+              "currency": "USD",
+              "firstrecorded_at": 1458126000,
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "name": "petco.com",
+          "listprice": "19.98",
+          "url": "http://www.petco.com/shop/en/petcostore/dog/dog-apparel/dog-t-shirts-tank-tops-and-polos/chicago-blackhawks-nhl-pet-t-shirt-5000976--1",
+          "sku": "petco_chicago-blackhawks-nhl-pet-t-shirt-5000976--1_46175",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD"
+        }
+      ],
+      "cat_id": "3657",
+      "model": "R2000AR7CBHAX005",
+      "price": "11.99",
+      "color": "Chicago Blackhawks",
+      "category": "T-Shirts",
+      "size": "Large",
+      "manufacturer": "Reebok",
+      "weight": "453592.37",
+      "brand": "Reebok",
+      "variation_id": "7mv1TtMC00GQikU00mewGK",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S."
+      },
+      "upc": "727808141765",
+      "gtins": [
+        "00727808141765",
+        "00886041732694"
+      ],
+      "variation_secondaryids": [
+        "5kmP3Si4vY4wKiUIwqKAuoqP"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "NFL TLG8 Folding Chair []",
+      "category": "Furniture",
+      "height": "172.72",
+      "length": "952.50",
+      "brand": "Jarden Sports Licensing",
+      "updated_at": 1460751896,
+      "model": "8931084111",
+      "variation_id": "05cz4FFPvW4MWaYowWc6yg",
+      "features": {
+        "Item Weight": "1 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "width": "172.72",
+      "mpn": "IFS21833",
+      "size": "ONE",
+      "price": "21.99",
+      "cat_id": "2715",
+      "weight": "3401942.77",
+      "sem3_id": "0CsWrllKQdMuA8s4ssKEOC",
+      "manufacturer": "Jarden Sports Licensing",
+      "ean": "0715099893265",
+      "created_at": 1437457306,
+      "color": "Red",
+      "upc": "715099893265",
+      "sitedetails": [],
+      "gtins": [
+        "00715099893265"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "032085500953",
+      "cat_id": "10428",
+      "ean": "0032085500953",
+      "brand": "WinCraft",
+      "size": "12\" x 65\"",
+      "created_at": 1347550488,
+      "sem3_id": "0aua7QWZQlE4MMIacsQCKk",
+      "weight": "453592.37",
+      "category": "Décor",
+      "features": {
+        "Item Weight": "6.1 pounds"
+      },
+      "name": "Alabama Crimson Tide Party Banner",
+      "mpn": "3208550095",
+      "sitedetails": [],
+      "manufacturer": "WinCraft",
+      "updated_at": 1420143073,
+      "price": "17.98",
+      "gtins": [
+        "00032085500953"
+      ],
+      "variation_secondaryids": [
+        "1i5pWCp3A8EasyUQgKgmGk",
+        "3qIgMNeuA44s2mWa2QmM8A"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "No",
+      "price": "67.50",
+      "name": "Safari for Men by Ralph Lauren Collection",
+      "cat_id": "1969",
+      "created_at": 1444660251,
+      "sem3_id": "3ET1S1NamOyG6AqsuuyCQq",
+      "sitedetails": [],
+      "upc": "814881017572",
+      "brand": "all perfume",
+      "features": {
+        "Top Notes": "Bergamot, Brazilian Rosewood, Cardamom, Lemon, Carambola",
+        "Web ID": "318031",
+        "Mid Notes": "Pepper, Cedar, Tarragon, Sage",
+        "Base Notes": "Amber, Saffron, Sycamore, Wood, Musk"
+      },
+      "variation_id": "2CJEo6hxBc84QEiSkSuywgM+",
+      "updated_at": 1444660251,
+      "ean": "0814881017572",
+      "category": "Fan Shop",
+      "gtins": [
+        "00814881017572"
+      ],
+      "variation_secondaryids": [
+        "5Y7tBAabi4AaQy0OWw6wakM+",
+        "5hLRqc1VVgoI6soOqKuSAyM+",
+        "17Z9UKnV9U0kcGS80scIseM+",
+        "6S9S01UewK6IY0C8aO6MkmM+",
+        "6L2jw0FSiGQqOMIAS0kEesM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "No",
+      "features": {
+        "Base Notes": "musk, vanilla infusion",
+        "Web ID": "276417",
+        "Top Notes": "violet leaves, wild strawberries",
+        "Middle Notes": "violet petals, jasmine bouquet"
+      },
+      "brand": "chanel fragrance",
+      "ean": "3614220900865",
+      "variation_id": "0wdRcCwuNcGSm4Q4KaWEaeM+",
+      "price": "140.00",
+      "created_at": 1442931962,
+      "sem3_id": "0gPftlp0TCIQCcYysIkYOe",
+      "updated_at": 1443540126,
+      "name": "Daisy MARC JACOBS Fragrance Collection",
+      "category": "Fan Shop",
+      "cat_id": "1969",
+      "sitedetails": [],
+      "gtins": [
+        "03614220900865"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "0wdRcCwuNcGSm4Q4KaWEaeM+",
+      "created_at": 1442931962,
+      "price": "140.00",
+      "updated_at": 1443540126,
+      "sem3_id": "0htjCsz1zuokE6M8MOGqIQ",
+      "color": "No",
+      "brand": "chanel fragrance",
+      "ean": "0814881017442",
+      "features": {
+        "Web ID": "276417",
+        "Base Notes": "musk, vanilla infusion",
+        "Middle Notes": "violet petals, jasmine bouquet",
+        "Top Notes": "violet leaves, wild strawberries"
+      },
+      "sitedetails": [],
+      "upc": "814881017442",
+      "category": "Fan Shop",
+      "name": "Daisy MARC JACOBS Fragrance Collection",
+      "cat_id": "1969",
+      "gtins": [
+        "00814881017442"
+      ],
+      "variation_secondaryids": [
+        "6kAqfkvFx28CIQysEE0q8UM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "No",
+      "price": "67.50",
+      "cat_id": "1969",
+      "name": "Safari for Men by Ralph Lauren Collection",
+      "created_at": 1444660251,
+      "sem3_id": "74k4a3klt2KUgo4siOMuiW",
+      "sitedetails": [],
+      "brand": "all perfume",
+      "upc": "814881017565",
+      "variation_id": "2CJEo6hxBc84QEiSkSuywgM+",
+      "features": {
+        "Base Notes": "Amber, Saffron, Sycamore, Wood, Musk",
+        "Top Notes": "Bergamot, Brazilian Rosewood, Cardamom, Lemon, Carambola",
+        "Web ID": "318031",
+        "Mid Notes": "Pepper, Cedar, Tarragon, Sage"
+      },
+      "updated_at": 1444660251,
+      "category": "Fan Shop",
+      "ean": "0814881017565",
+      "gtins": [
+        "00814881017565"
+      ],
+      "variation_secondaryids": [
+        "5Y7tBAabi4AaQy0OWw6wakM+",
+        "5hLRqc1VVgoI6soOqKuSAyM+",
+        "17Z9UKnV9U0kcGS80scIseM+",
+        "6S9S01UewK6IY0C8aO6MkmM+",
+        "6L2jw0FSiGQqOMIAS0kEesM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "cat_id": "1969",
+      "sem3_id": "0vV7ruOmgYQcGakYucqWKg",
+      "variation_id": "08CFaNpCoc4MGeiggKMEwaM+",
+      "updated_at": 1444659733,
+      "created_at": 1444659733,
+      "price": "145.00",
+      "brand": "body pillowcase",
+      "name": "Ralph Lauren Polo Blue for Him Collection",
+      "category": "Fan Shop",
+      "upc": "814881017565",
+      "features": {
+        "Web ID": "88475",
+        "Top Notes": "Melon, Mandarin Orange, Cucumber",
+        "Base Notes": "Musk, Wood, Suede",
+        "Middle Notes": "Basil, Sage, Geranium"
+      },
+      "ean": "0814881017565",
+      "color": "No ",
+      "gtins": [
+        "00814881017565"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0814881017701",
+      "sitedetails": [],
+      "cat_id": "1969",
+      "brand": "body pillowcase",
+      "category": "Fan Shop",
+      "price": "145.00",
+      "features": {
+        "Middle Notes": "Basil, Sage, Geranium",
+        "Web ID": "88475",
+        "Top Notes": "Melon, Mandarin Orange, Cucumber",
+        "Base Notes": "Musk, Wood, Suede"
+      },
+      "sem3_id": "20itv0KqxkCmkAmWIcyMoY",
+      "upc": "814881017701",
+      "updated_at": 1444659733,
+      "variation_id": "08CFaNpCoc4MGeiggKMEwaM+",
+      "name": "Ralph Lauren Polo Blue for Him Collection",
+      "color": "No ",
+      "created_at": 1444659733,
+      "gtins": [
+        "00814881017701"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Billiards",
+      "created_at": 1381749381,
+      "manufacturer": "Holland Bar Stool",
+      "width": "3.56",
+      "price": "109.99",
+      "name": "NCAA USC Trojans Billiard Table Cover []",
+      "size": "8'",
+      "updated_at": 1460693926,
+      "features": {
+        "Primary Construction Material": "Plastic",
+        "Length (Inches)": "98.0",
+        "Package Quantity": "1.0",
+        "Color/Finish Family": "Black",
+        "Package Contents": "Table cover"
+      },
+      "brand": "NCAA",
+      "model": "BTC8SouCal",
+      "height": "2.79",
+      "mpn": "BTCSouCal",
+      "sitedetails": [],
+      "weight": "5443108.44",
+      "cat_id": "3758",
+      "upc": "071235303938",
+      "sem3_id": "7WFpBqequ04WUo8WA6mCgI",
+      "ean": "0071235303938",
+      "gtins": [
+        "00071235303938"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

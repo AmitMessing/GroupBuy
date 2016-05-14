@@ -1,0 +1,398 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Nike",
+      "sitedetails": [],
+      "price": "27.95",
+      "length": "7.87",
+      "manufacturer": "Nike",
+      "features": {
+        "Product Dimensions": "1.2 x 8 x 11 inches; 5.6 ounces",
+        "Origin": "Indonesia"
+      },
+      "color": "Game Royal",
+      "model": "371642",
+      "ean": "0886549462673",
+      "weight": "1814369.48",
+      "category": "Shirts",
+      "mpn": "NILDFTEE-SS-RY",
+      "upc": "886549462673",
+      "name": "Nike Legend Dri-Fit Poly - 371642 []",
+      "updated_at": 1460757479,
+      "cat_id": "16265",
+      "size": "MD",
+      "created_at": 1375349170,
+      "sem3_id": "6FSLK5aRiSmcCsMgKywk6w",
+      "variation_id": "0ANGyB8d1Qe6yCSEy8k4YQ",
+      "gtins": [
+        "00886549462673"
+      ],
+      "variation_secondaryids": [
+        "1ZBd3PzxLUIAm4Ma2CaqUi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Under Armour",
+      "name": "Under Armour Women's Fly-By Compression Capri []",
+      "category": "Pants",
+      "color": "PHANTOM GRAY/Reflective/AFTER BURN",
+      "features": {
+        "Origin": "China",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "price": "44.99",
+      "variation_id": "6ecqgb7gtk0oEICMeUc8Sa",
+      "upc": "888284936716",
+      "updated_at": 1460650667,
+      "created_at": 1430330430,
+      "size": "Large",
+      "model": "1243045",
+      "cat_id": "17801",
+      "mpn": "1243045-035_035_L",
+      "ean": "0888284936716",
+      "sem3_id": "0VBkkbW1nbicYSMMK8Iwee",
+      "sitedetails": [],
+      "brand": "Under Armour",
+      "weight": "453592.37",
+      "gtins": [
+        "00888284936716"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "created_at": 1432577881,
+      "category": "Women",
+      "cat_id": "12343",
+      "model": "W1-CR-CAM_MCU",
+      "manufacturer": "Decky Brands Group",
+      "price": "14.07",
+      "updated_at": 1460660498,
+      "sitedetails": [],
+      "sem3_id": "5HscDW1XSw2GGQqge4UOsQ",
+      "mpn": "W1-CR-CAM_MCU",
+      "variation_id": "01AyHJA8gSyMkYcek2Ya4U",
+      "ean": "0847418040804",
+      "upc": "847418040804",
+      "color": "MCU",
+      "brand": "WHANG",
+      "name": "WHANG California Republic Snapbacks []",
+      "gtins": [
+        "00847418040804"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347669814,
+      "manufacturer": "Outdoor Research",
+      "weight": "77110.70",
+      "variation_id": "4AQCuInWWe040weMqIMMae",
+      "size": "Small",
+      "ean": "0727602205717",
+      "sem3_id": "0qWFOBQQvyagGmkMuoOAm2",
+      "color": "Black Check",
+      "brand": "Outdoor Research",
+      "width": "254.00",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1460566100,
+              "availability": "Available",
+              "id": "2KfkSMoiFgKssOYIEaUyeG",
+              "currency": "USD",
+              "seller": "Rock Creek Outfitters",
+              "price": "27.95",
+              "lastrecorded_at": 1460566100,
+              "isactive": 1
+            }
+          ],
+          "sku": "21726_Black_Check_M",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "url": "http://www.rockcreek.com/outdoor-research/radar-pocket-cap/21726.rc",
+          "listprice": "25.95",
+          "name": "rockcreek.com"
+        }
+      ],
+      "height": "152.40",
+      "length": "127.00",
+      "upc": "727602205717",
+      "model": "806601103",
+      "category": "Accessories",
+      "price": "25.00",
+      "name": "Outdoor Research Radar Pocket Cap [Black Check, Small]",
+      "cat_id": "11312",
+      "updated_at": 1460566172,
+      "mpn": "806601103",
+      "features": {
+        "Review ProductId": "21726",
+        "Season": "S14",
+        "Gender": "Unisex"
+      },
+      "gtins": [
+        "00727602205717"
+      ],
+      "variation_secondaryids": [
+        "2UJ2PDdli86m0cmWuyUmU8wa"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347669814,
+      "weight": "453592.37",
+      "manufacturer": "Outdoor Research",
+      "size": "Medium",
+      "variation_id": "4AQCuInWWe040weMqIMMae",
+      "sem3_id": "1ck8JyWtUGWqaqqCWOOwOg",
+      "ean": "0727602205724",
+      "color": "Black Check",
+      "brand": "Outdoor Research",
+      "width": "254.00",
+      "sitedetails": [
+        {
+          "listprice": "25.95",
+          "url": "http://www.rockcreek.com/outdoor-research/radar-pocket-cap/21726.rc",
+          "name": "rockcreek.com",
+          "sku": "21726_Black_Check_S",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1460566100,
+              "availability": "Available",
+              "id": "3QbcqnnZnM86QQaQcy6uIu",
+              "currency": "USD",
+              "seller": "Rock Creek Outfitters",
+              "price": "25.95",
+              "lastrecorded_at": 1460566100,
+              "isactive": 1
+            }
+          ],
+          "listprice_currency": "USD",
+          "recentoffers_count": 1
+        }
+      ],
+      "height": "152.40",
+      "length": "127.00",
+      "upc": "727602205724",
+      "model": "806601104",
+      "category": "Accessories",
+      "price": "25.00",
+      "name": "Outdoor Research Radar Pocket Cap [Black Check, Medium]",
+      "cat_id": "11312",
+      "mpn": "806601104",
+      "updated_at": 1460566172,
+      "features": {
+        "Season": "S14",
+        "Review ProductId": "21726",
+        "Gender": "Unisex"
+      },
+      "gtins": [
+        "00727602205724"
+      ],
+      "variation_secondaryids": [
+        "2UJ2PDdli86m0cmWuyUmU8wa"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Stone",
+      "name": "5.11 Tactical Men's Taclite Pro Pant []",
+      "model": "74273",
+      "brand": "5.11",
+      "sitedetails": [],
+      "manufacturer": "511 Inc",
+      "variation_id": "0bhL4b6PJXygCWw2k20SCs",
+      "size": "32 x 34-Inch",
+      "upc": "844802248792",
+      "mpn": "74273-070",
+      "price": "49.99",
+      "ean": "0844802248792",
+      "updated_at": 1460612537,
+      "cat_id": "6612",
+      "category": "Pants",
+      "created_at": 1355921999,
+      "features": {
+        "Item Weight": "3 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sem3_id": "257Vcqy9i8gciGK2M0iMsS",
+      "weight": "453592.37",
+      "gtins": [
+        "00844802248792"
+      ],
+      "variation_secondaryids": [
+        "1dHfQWuiPgIMcAsqcI6mCc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1445860929,
+      "category": "Clothing",
+      "sitedetails": [],
+      "cat_id": "9254",
+      "brand": "black pants",
+      "name": "Perry Ellis Portfolio Classic Fit Double Pleat No-Iron Melange Microfiber Dress Pants",
+      "created_at": 1435677143,
+      "upc": "611318493103",
+      "ean": "0611318493103",
+      "variation_id": "32XMcIJwFE64aCSea6eUgcM+",
+      "features": {
+        "Web ID": "252196",
+        "Style number": "PG7F018"
+      },
+      "sem3_id": "4F404v4jgm0qcIoE6OoqsI",
+      "color": "Rock Taupe",
+      "size": "42x30",
+      "price": "85.00",
+      "gtins": [
+        "00611318493103"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "107687",
+      "mpn": "107690",
+      "color": "Colure Purple",
+      "name": "Buff UV Half Headband []",
+      "ean": "0847587006052",
+      "updated_at": 1460743701,
+      "sitedetails": [],
+      "weight": "68038.86",
+      "cat_id": "7343",
+      "manufacturer": "Buff",
+      "upc": "847587006052",
+      "created_at": 1413484336,
+      "height": "25.40",
+      "variation_id": "6KQNtwCf3IOSmckuig8s2W",
+      "length": "355.60",
+      "category": "Accessories",
+      "width": "127.00",
+      "sem3_id": "2Fo3eGNWhguqEYkICEGcq4",
+      "brand": "Buff",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "gtins": [
+        "00847587006052"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "203.20",
+      "updated_at": 1460716263,
+      "ean": "0886066867418",
+      "width": "25.40",
+      "upc": "886066867418",
+      "price": "47.00",
+      "sitedetails": [],
+      "model": "589366-015",
+      "size": "X-Large",
+      "brand": "Nike",
+      "manufacturer": "Nike",
+      "weight": "453592.37",
+      "color": "Black/Vivid Pink",
+      "category": "Tights & Leggings",
+      "length": "254.00",
+      "created_at": 1432594273,
+      "variation_id": "62dxL3SpTUEAIasEQaY0eK",
+      "mpn": "589366-015",
+      "sem3_id": "0zm84Dd5rSyOUoAQWsGqwg",
+      "name": "Nike Womens Pro Training Capris []",
+      "features": {
+        "Product Dimensions": "8 x 1 x 6 inches ; 7 ounces"
+      },
+      "cat_id": "9173",
+      "gtins": [
+        "00886066867418"
+      ],
+      "variation_secondaryids": [
+        "3ITpBOqmSWMKsCA8SuIeWs"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "adidas",
+      "size": "3X-Large",
+      "weight": "453592.37",
+      "features": {
+        "Origin": "Vietnam"
+      },
+      "color": "Scarlet / Black",
+      "cat_id": "7895",
+      "model": "S15APM0040V",
+      "variation_id": "2a6qIaZeUecKiA2K28si6K",
+      "manufacturer": "adidas Inline Apparel Child Code (Sports Apparel",
+      "category": "Track Jackets",
+      "updated_at": 1460728157,
+      "ean": "0888169221241",
+      "sitedetails": [],
+      "sem3_id": "062EHyyq1FQAsioOWGSyEY",
+      "mpn": "S15APM0040V",
+      "created_at": 1428572792,
+      "upc": "888169221241",
+      "name": "adidas Performance Men's Essential Tricot Jacket []",
+      "price": "50.00",
+      "gtins": [
+        "00888169221241"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

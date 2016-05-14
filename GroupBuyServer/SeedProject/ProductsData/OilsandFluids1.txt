@@ -1,0 +1,505 @@
+{
+  "total_results_count": 19465,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "updated_at": 1462309854,
+      "name": "Dynatron 550 Auto Seam Sealer Grey Caulk - 12 oz.",
+      "mpn": "550",
+      "brand": "3M",
+      "ean": "0076308005504",
+      "features": {
+        "National Stock Number": "5961-01-139-6602",
+        "Item Weight": "8 ounces",
+        "Product Dimensions": "8.2 x 6.4 x 12 inches"
+      },
+      "weight": "340194.28",
+      "price": "12.88",
+      "size": "12 Ounce",
+      "category": "Adhesives",
+      "cat_id": "24279",
+      "sitedetails": [],
+      "created_at": 1357646208,
+      "model": "550",
+      "sem3_id": "2X12qD6SZoweQy2owEAkOi",
+      "upc": "076308005504",
+      "manufacturer": "3M",
+      "gtins": [
+        "00076308005504"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "3628738.96",
+      "mpn": "50205",
+      "brand": "Red Line",
+      "cat_id": "14168",
+      "model": "50205",
+      "sem3_id": "72KsqFFsUCAgcMkeSIQQO0",
+      "name": "Red Line 50205 MTL 70W80 GL-4 Gear Oil - 1 Gallon [1 Gallon (128 Ounces)]",
+      "upc": "083522502054",
+      "manufacturer": "Red Line",
+      "sitedetails": [],
+      "updated_at": 1460872739,
+      "category": "Gear Oils",
+      "ean": "0083522502054",
+      "size": "1 Gallon (128 Ounces)",
+      "created_at": 1357838496,
+      "features": {
+        "Product Dimensions": "11.2 x 7 x 4 inches",
+        "Item Weight": "5 pounds"
+      },
+      "price": "65.23",
+      "gtins": [
+        "00083522502054"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Royal Purple 51530 API-Licensed SAE 5W-30 High Performance Synthetic Motor Oil - 5 qt. [5 Quart (160 Ounces)]",
+      "size": "5 Quart (160 Ounces)",
+      "upc": "641330045301",
+      "height": "215.90",
+      "created_at": 1347522206,
+      "mpn": "51530",
+      "length": "209.55",
+      "price": "37.85",
+      "sem3_id": "4pnD0v39AWEOyAIiEAm2oM",
+      "cat_id": "10154",
+      "ean": "0641330045301",
+      "sitedetails": [
+        {
+          "sku": "35513146",
+          "url": "http://www.walmart.com/ip/35513146",
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1460274800,
+              "seller": "Walmart",
+              "id": "364rmcEHEuWEaI2wa6mMQ0",
+              "currency": "USD",
+              "firstrecorded_at": 1455737800,
+              "price": "36.39",
+              "isactive": 0
+            },
+            {
+              "id": "34o5VF3LaS6sAu0OsIykCc",
+              "availability": "Available",
+              "seller": "Walmart",
+              "lastrecorded_at": 1443629600,
+              "firstrecorded_at": 1424126200,
+              "price": "37.79",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "manufacturer": "Royal Purple",
+      "model": "51530",
+      "brand": "Royal Purple",
+      "features": {
+        "Improved compatibility with fuels containing ethanol": "Patented additive technology prevents the white sludge and lubrication starvation that can occur with 20% or higher ethanol fuel",
+        "Shipping Weight (in pounds)": "10.5",
+        "Royal Purple 5W-30 SAE offers better wear protection": "Enhanced additive technology prevents metal-to-metal contact beyond both Dexos1 and ILSAC GF-5 specs",
+        "Increased fuel efficiency": "A low coefficient of friction results in optimized fuel efficiency (the fuel economy of our 5W-30 meets the fuel economy requirements of a 5W-20 oil)",
+        "Royal Purple motor oil, 5 qt, offers better protection of the expensive catalytic emissions system": "Patented ZDDP additives optimize emissions catalyst system life",
+        "Origin of Components": "USA",
+        "Product in Inches (L x W x H)": "12.5 x 4.7 x 7.12",
+        "High performance motor oil offers superior corrosion protection": "No rust observed in standard industry testing",
+        "Assembled in Country of Origin": "USA"
+      },
+      "updated_at": 1462225894,
+      "weight": "3628738.96",
+      "category": "Motor Oils",
+      "width": "127.00",
+      "gtins": [
+        "00641330045301"
+      ],
+      "variation_secondaryids": [
+        "761AzgdWqW06kU6KQmAq20"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Item Weight": "0.8 ounces",
+        "Product Dimensions": "4 x 1 x 8 inches"
+      },
+      "width": "203.20",
+      "mpn": "730657",
+      "weight": "28349.52",
+      "updated_at": 1460848112,
+      "manufacturer": "Homax",
+      "height": "25.40",
+      "model": "730657",
+      "price": "6.29",
+      "ean": "0041072006576",
+      "name": "Homax 730657 1 Oz Professional Welder Adhesive 2 Count [1 Pack]",
+      "cat_id": "24279",
+      "created_at": 1347762605,
+      "size": "1 Pack",
+      "brand": "Homax",
+      "sitedetails": [],
+      "upc": "041072006576",
+      "length": "101.60",
+      "category": "Adhesives",
+      "sem3_id": "6Zp8FVssEa4qGcCgUsW0mQ",
+      "gtins": [
+        "00041072006576"
+      ],
+      "variation_secondaryids": [
+        "4QpQc8dLryQMoKowa662KY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "0.5 Ounces",
+      "features": {
+        "Container Type": "Tube",
+        "Container Size": "0.5 oz",
+        "Temperature Rating": "Temperature Resistant",
+        "Package Quantity": "1"
+      },
+      "created_at": 1347765270,
+      "sitedetails": [
+        {
+          "url": "http://www.doitbest.com/Wiring+connectors+and+terminals-Crc+Industries+Inc-model-05109-doitbest-sku-501212.dib",
+          "recentoffers_count": 1,
+          "name": "doitbest.com",
+          "sku": "501212",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462788300,
+              "currency": "USD",
+              "firstrecorded_at": 1438783000,
+              "seller": "Do it Best",
+              "id": "1sTBe2s2nA2MwgcMWMyOKC",
+              "availability": "Available",
+              "price": "8.78",
+              "isactive": 1
+            },
+            {
+              "id": "6eMUWKBwdEio6mi4OQKIa2",
+              "availability": "Ship-to-Store, Arrives in 7-10 business days",
+              "price": "5.99",
+              "firstrecorded_at": 1393329000,
+              "currency": "USD",
+              "lastrecorded_at": 1415459700,
+              "seller": "Do it Best",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "brand": "CRC Industries Inc.",
+      "price": "5.09",
+      "manufacturer": "CRC Industries Inc.",
+      "category": "Grease & Lubricants",
+      "name": "CRC Technician Grade Di-Electric Grease with Precision Tip Applicator, .5 Wt Oz [0.5 Ounces]",
+      "mpn": "05109",
+      "ean": "0078254051093",
+      "cat_id": "20785",
+      "weight": "27215.54",
+      "model": "05109",
+      "sem3_id": "51ysG9VCMawac2GuoeICSa",
+      "upc": "078254051093",
+      "updated_at": 1462788353,
+      "gtins": [
+        "00078254051093"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "10249",
+      "category": "Oils & Fluids",
+      "mpn": "98KG72",
+      "updated_at": 1462361123,
+      "model": "112788",
+      "ean": "0071924149779",
+      "features": {
+        "Shipping Weight (in pounds)": "3.5",
+        "Assembled in Country of Origin": "USA",
+        "Origin of Components": "USA",
+        "Product in Inches (L x W x H)": "7.74 x 5.45 x 5.45"
+      },
+      "sem3_id": "7kBgnR2mVEik0aK6ouCCAg",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1455834400,
+              "id": "0yYfFNi5JuikYiMSuO4oUk",
+              "availability": "Available",
+              "price": "25.47",
+              "seller": "Walmart",
+              "lastrecorded_at": 1460408000,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1443135700,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5f7xxQ962q0uCKA8eqEMqA",
+              "price": "28.68",
+              "firstrecorded_at": 1437730800,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1435401400,
+              "currency": "USD",
+              "seller": "Walmart",
+              "id": "0dImQuI5VIkK6miKsmIW0C",
+              "availability": "Available",
+              "price": "26.68",
+              "firstrecorded_at": 1431636000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/17128876",
+          "sku": "17128876",
+          "name": "walmart.com"
+        }
+      ],
+      "upc": "071924149779",
+      "height": "347.98",
+      "length": "429.26",
+      "price": "25.47",
+      "width": "330.20",
+      "name": "Mobil 1 5W-30 Extended Performance Full Synthetic Motor Oil, 5 qt.",
+      "brand": "Generic",
+      "manufacturer": "Generic",
+      "created_at": 1376300727,
+      "gtins": [
+        "00071924149779"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "304.80",
+      "brand": "SEM",
+      "name": "SEM 39747 Multi-Purpose Panel Adhesive - 7 oz.",
+      "price": "34.86",
+      "features": {
+        "Item Weight": "8 ounces",
+        "Product Dimensions": "12 x 12 x 12 inches",
+        "Item Package Quantity": "1"
+      },
+      "width": "304.80",
+      "sitedetails": [
+        {
+          "sku": "29415421",
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/29415421",
+          "latestoffers": [
+            {
+              "id": "2SiK5ddvEW0wEcIWmwmMqC",
+              "currency": "USD",
+              "firstrecorded_at": 1412001500,
+              "availability": "In Stock",
+              "seller": "Tonzof",
+              "price": "47.86",
+              "lastrecorded_at": 1413865300,
+              "isactive": 0
+            },
+            {
+              "seller": "TonZof",
+              "price": "48.91",
+              "lastrecorded_at": 1407296200,
+              "availability": "In Stock",
+              "currency": "USD",
+              "id": "2MGQN2dJ7ooAGEessuqQio",
+              "firstrecorded_at": 1407296200,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "24279",
+      "mpn": "039747",
+      "manufacturer": "SEM",
+      "created_at": 1357376424,
+      "model": "39747",
+      "weight": "285763.19",
+      "height": "304.80",
+      "ean": "0646786397479",
+      "category": "Adhesives",
+      "upc": "646786397479",
+      "updated_at": 1462768431,
+      "sem3_id": "2vqMVAAjH6CuCea4qMuomW",
+      "gtins": [
+        "00646786397479"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "sku": "rl-42904",
+          "latestoffers": [
+            {
+              "price": "15.95",
+              "firstrecorded_at": 1446988000,
+              "id": "4cslYUQUieiCuM8ooyG2qc",
+              "lastrecorded_at": 1462918500,
+              "seller": "Phat Performance Parts",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "seller": "Phat Performance Parts",
+              "lastrecorded_at": 1446373800,
+              "firstrecorded_at": 1410967400,
+              "id": "6NxN5plnoOKGUqMgIm8ue8",
+              "price": "13.95",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "listprice": "18.95",
+          "name": "phatperformanceparts.com",
+          "url": "http://www.phatperformanceparts.com/Red_Line_V_Twin_Primary_Case_Oil_Quart_p/rl-42904.htm"
+        }
+      ],
+      "manufacturer": "Red Line",
+      "cat_id": "10154",
+      "price": "15.95",
+      "size": "1 Quart",
+      "updated_at": 1462918555,
+      "name": "Red Line 42904 V-Twin Primary Case Oil - 1 Quart Bottle",
+      "ean": "0083522429047",
+      "brand": "Red Line",
+      "created_at": 1357689961,
+      "sem3_id": "6iboNpOkr2myqaywIeU2Ig",
+      "mpn": "42904",
+      "upc": "083522429047",
+      "features": {
+        "Exterior": "Smooth",
+        "OEM Part Number": "42904",
+        "Product Dimensions": "16 x 12 x 10 inches",
+        "Item Weight": "2 pounds"
+      },
+      "model": "42904",
+      "category": "Motor Oils",
+      "gtins": [
+        "00083522429047"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "MG Chemicals",
+      "updated_at": 1462005578,
+      "model": "846 80G",
+      "sem3_id": "5AfD4y7si0KSEa8KWM8ecW",
+      "color": "Black",
+      "features": {
+        "Item Package Quantity": "1",
+        "Item Weight": "8 ounces",
+        "Product Dimensions": "0.4 x 0.4 x 0.4 inches"
+      },
+      "size": "80 grams",
+      "weight": "272155.42",
+      "mpn": "846-80G",
+      "brand": "MG Chemicals",
+      "category": "Grease & Lubricants",
+      "created_at": 1348675758,
+      "ean": "0779008846087",
+      "name": "MG Chemicals 846 Carbon Conductive Grease, 80g Tube, Black [80 grams]",
+      "cat_id": "20785",
+      "price": "13.68",
+      "sitedetails": [],
+      "upc": "779008846087",
+      "gtins": [
+        "00779008846087"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Mobil 1 44975 5W-20 Synthetic Motor Oil - 1 Quart (Pack of 6)",
+      "ean": "0071924449756",
+      "price": "36.99",
+      "category": "Motor Oils",
+      "manufacturer": "Mobil 1",
+      "sem3_id": "30enabxVZwMwE0sWikqAGG",
+      "created_at": 1347602069,
+      "upc": "071924449756",
+      "features": {
+        "Product Dimensions": "9.6 x 9 x 7.7 inches",
+        "This item": "Mobil 1 44975 5W-20 Synthetic Motor Oil - 1 Quart (Pack of 6) $37.99",
+        "Item Weight": "11.9 pounds"
+      },
+      "sitedetails": [],
+      "cat_id": "10154",
+      "size": "1 Quart (32 Ounce), (Pack of 6)",
+      "model": "44975",
+      "updated_at": 1461623317,
+      "weight": "4989516.07",
+      "mpn": "44975",
+      "brand": "Mobil 1",
+      "gtins": [
+        "00071924449756"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

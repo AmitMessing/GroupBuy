@@ -1,0 +1,691 @@
+{
+  "total_results_count": 25937,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "6y0ivzoWZsKcmOyCQUKuii",
+      "upc": "827912075359",
+      "manufacturer": "Baby K'Tan",
+      "brand": "Baby Ktan",
+      "weight": "680388.55",
+      "variation_id": "5VzXzLYcQCaGGu6Kg8Mkei",
+      "department": "baby-boys",
+      "size": "X-Small",
+      "width": "609.60",
+      "length": "1181.10",
+      "category": "Soft Carriers",
+      "model": "BKBC NO XS",
+      "name": "Baby K'tan Organic Baby Carrier, Natural, X-Small [Natural, X-Small]",
+      "price": "59.95",
+      "features": {
+        "Maximum weight recommendation": "35 Pounds",
+        "Minimum weight recommendation": "8 Pounds",
+        "Item Weight": "1.5 pounds",
+        "Target gender": "Unisex",
+        "Number of items": "1",
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Origin": "China",
+        "Additional product features": "10"
+      },
+      "cat_id": "12496",
+      "ean": "0827912075359",
+      "created_at": 1347719624,
+      "height": "25.40",
+      "mpn": "BKBC-NO-XS",
+      "color": "Natural",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "BKT1006",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1385860200,
+              "seller": "AllModern",
+              "price": "59.95",
+              "availability": "Available",
+              "id": "4ukQVGW98qECQEEsAKCIi6",
+              "firstrecorded_at": 1379611300,
+              "isactive": 1
+            }
+          ],
+          "name": "allmodern.com",
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-L752-K~BKT1006.html"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "59.95",
+              "id": "4ukQVGW98qECQEEsAKCIi6",
+              "firstrecorded_at": 1379611300,
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1383014200,
+              "seller": "AllModern",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006.html",
+          "name": "allmodern.com",
+          "sku": "Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006",
+          "recentoffers_count": 1
+        }
+      ],
+      "updated_at": 1458949383,
+      "gtins": [
+        "00827912075359"
+      ],
+      "variation_secondaryids": [
+        "3XLlAbXKuO4kaeWu6u8W4a",
+        "2CMhcj84tMGuyQGc48AiyK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "12496",
+      "created_at": 1375916733,
+      "category": "Soft Carriers",
+      "color": "Micah",
+      "variation_id": "7hNfMHlrySW2qsKk0c0eSI",
+      "model": "S1RE MICA",
+      "size": "Birth -and UP",
+      "ean": "0817579010442",
+      "weight": "90718.47",
+      "mpn": "S1RE-MICA",
+      "manufacturer": "Beco Baby Carrier",
+      "name": "Beco Soleil Baby Carrier - Micah []",
+      "upc": "817579010442",
+      "price": "125.00",
+      "sitedetails": [],
+      "features": {
+        "Maximum weight recommendation": "35 Pounds",
+        "Item Weight": "3.2 ounces",
+        "Batteries required": "No",
+        "Product Dimensions": "3 x 0.2 x 3 inches",
+        "Minimum weight recommendation": "7 Pounds",
+        "Target gender": "Unisex",
+        "Number of items": "1"
+      },
+      "updated_at": 1460458308,
+      "brand": "Beco Baby Carrier",
+      "sem3_id": "0QWDZkJRDjE0sk0wekms8s",
+      "gtins": [
+        "00817579010442"
+      ],
+      "variation_secondaryids": [
+        "1emVyA5MMGcWSa4qoSyiIY",
+        "0IfGcauNOwC4s6gQOKc4KC",
+        "3U4Rc33pvsE0Y0yi0WqOo8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Baby Ktan",
+      "mpn": "BKBC-BLB-XS",
+      "features": {
+        "Maximum weight recommendation": "35 Pounds",
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Product Dimensions": "46.5 x 24 x 1 inches",
+        "Origin": "China",
+        "Item Weight": "1.5 pounds",
+        "Minimum weight recommendation": "8 Pounds",
+        "Target gender": "Unisex"
+      },
+      "manufacturer": "Baby K'Tan",
+      "weight": "680388.55",
+      "created_at": 1347570754,
+      "width": "609.60",
+      "variation_id": "5up4A1bH0Ksy4C2AqyCs8A",
+      "ean": "0827912075366",
+      "cat_id": "11749",
+      "model": "BKBC BL XS BREEZE",
+      "sem3_id": "5jGBqXY9PkukcwQmoQ26Me",
+      "size": "X-Small",
+      "updated_at": 1460668543,
+      "height": "25.40",
+      "upc": "827912075366",
+      "price": "59.95",
+      "sitedetails": [
+        {
+          "url": "http://www.allmodern.com/Baby-KTan-Breeze-Baby-Carrier-BKBC-BL-Breeze-L752-K~BKT1009.html",
+          "name": "allmodern.com",
+          "sku": "BKT1009",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "62.51",
+              "lastrecorded_at": 1380928700,
+              "id": "7449jW5hCq4Ae6q2kMyumI",
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "AllModern",
+              "firstrecorded_at": 1380827800,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "name": "Baby K'tan Breeze Baby Carrier, Black, X-Small []",
+      "length": "1181.10",
+      "category": "Backpacks & Carriers",
+      "color": "Black",
+      "gtins": [
+        "00827912075366"
+      ],
+      "variation_secondaryids": [
+        "0rgv8o4ixOaYeoYKcAUSge"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "7JshBw06hyssA0Qi00ei46",
+      "price": "246.48",
+      "height": "9.91",
+      "sitedetails": [],
+      "category": "Soft Carriers",
+      "cat_id": "12496",
+      "mpn": "S1RE-ORMB",
+      "ean": "0817579010664",
+      "model": "SoleilV1-Organic Black",
+      "manufacturer": "Beco Baby Carrier",
+      "length": "530.10",
+      "upc": "817579010664",
+      "weight": "90718.47",
+      "features": {
+        "Maximum weight recommendation": "45 Pounds",
+        "Minimum weight recommendation": "7 Pounds",
+        "Target gender": "Unisex",
+        "Number of items": "1",
+        "Item Weight": "1.8 pounds",
+        "Product Dimensions": "20.9 x 12.6 x 0.4 inches",
+        "Batteries required": "No"
+      },
+      "updated_at": 1460952022,
+      "variation_id": "7hNfMHlrySW2qsKk0c0eSI",
+      "brand": "Beco Baby Carrier",
+      "created_at": 1375916733,
+      "name": "Beco Soleil Baby Carrier - Metro Black Organic []",
+      "width": "320.04",
+      "color": "Metro Black Organic",
+      "gtins": [
+        "00817579010664"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "317oAc2ooi2qKQuagcyS8A",
+      "features": {
+        "Batteries": "1 D batteries required.",
+        "Item Weight": "8.2 pounds",
+        "Specification met": "certified frustration-free",
+        "Batteries required": "No",
+        "Style": "Newborn-to-Toddler Rocker",
+        "Origin": "China",
+        "This item": "Fisher-Price Newborn-to-Toddler Portable Rocker $40.99",
+        "Maximum weight recommendation": "40 Pounds",
+        "Product Dimensions": "21.5 x 15.2 x 4.7 inches",
+        "Battery life": "3 hours"
+      },
+      "department": "baby-boys",
+      "weight": "39145.02",
+      "created_at": 1379676551,
+      "price": "62.86",
+      "color": "Multi",
+      "brand": "Fisher Price",
+      "category": "Swings, Jumpers & Bouncers",
+      "length": "393.70",
+      "cat_id": "18780",
+      "name": "Fisher-Price Newborn-to-Toddler Rocker - Rainforest Friends Multi",
+      "height": "571.50",
+      "updated_at": 1462195327,
+      "width": "127.00",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/24537724",
+          "sku": "24537724",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "4o3jmH1qc4SuwkSWOWGuOq",
+              "price": "72.40",
+              "firstrecorded_at": 1460217900,
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1460217900,
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1458411300,
+              "seller": "Walmart",
+              "id": "0OYaZTi0Hr60seCAmk4GMq",
+              "price": "52.94",
+              "firstrecorded_at": 1458411300,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "64.48",
+              "id": "5yQduAwjnU4YGIaQ2YkUiI",
+              "firstrecorded_at": 1457682500,
+              "seller": "Walmart",
+              "lastrecorded_at": 1457682500,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com"
+        }
+      ],
+      "ean": "0746775159269",
+      "mpn": "X7047",
+      "upc": "746775159269",
+      "gtins": [
+        "00746775159269"
+      ],
+      "variation_secondaryids": [
+        "5VoTeL9wTuYMeykkewy0Ke"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "827912062564",
+      "width": "609.60",
+      "department": "womens",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "65.52",
+              "currency": "USD",
+              "id": "429JELlEbgQaeaWiwggamA",
+              "lastrecorded_at": 1384462800,
+              "seller": "AllModern",
+              "availability": "Available",
+              "firstrecorded_at": 1384462800,
+              "isactive": 1
+            }
+          ],
+          "sku": "BKT1009",
+          "name": "allmodern.com",
+          "url": "http://www.allmodern.com/Baby-KTan-Breeze-Baby-Carrier-BKBC-BL-Breeze-L752-K~BKT1009.html?ptid=38909799916"
+        }
+      ],
+      "height": "25.40",
+      "mpn": "BKBC-BL-BREEZE-L",
+      "color": "Black",
+      "size": "Large",
+      "ean": "0827912062564",
+      "manufacturer": "Baby K'Tan",
+      "price": "59.95",
+      "features": {
+        "Minimum weight recommendation": "8 Pounds",
+        "Item Weight": "1.5 pounds",
+        "Target gender": "Unisex",
+        "Origin": "China",
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Product Dimensions": "46.5 x 24 x 1 inches",
+        "Maximum weight recommendation": "35 Pounds"
+      },
+      "cat_id": "11749",
+      "created_at": 1347570754,
+      "category": "Backpacks & Carriers",
+      "length": "1181.10",
+      "updated_at": 1460192741,
+      "brand": "Baby Ktan",
+      "variation_id": "5up4A1bH0Ksy4C2AqyCs8A",
+      "model": "BKBC BL L BREEZE",
+      "name": "Baby K'tan Breeze Baby Carrier, Black, Large [Black, Large]",
+      "sem3_id": "29gMp1FJ9sEiOAgeEksSGY",
+      "gtins": [
+        "00827912062564"
+      ],
+      "variation_secondaryids": [
+        "0rgv8o4ixOaYeoYKcAUSge",
+        "3HEj2DL8M4us2gyG4AsYUo",
+        "2lmo4TVogikW4U4AYISCG4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "department": "Toys & Games > Toys > Activity Toys",
+      "name": "Patchwork Crawly Mat",
+      "mpn": "CF321132",
+      "sem3_id": "151lHzvaSESe6ege4EsMUA",
+      "price": "161.05",
+      "weight": "4989516.07",
+      "cat_id": "2991",
+      "upc": "022791253212",
+      "sitedetails": [],
+      "manufacturer": "Children's Factory",
+      "features": {
+        "Item Weight": "8.6 pounds",
+        "Product Dimensions": "28.6 x 29 x 7.1 inches",
+        "Non-Toxic Rainbow (5 Colors) Interlocking foam Non-Recycled Quality Waterproof Wonder Mats": "36 Pieces at 4.5 out of 5 stars (112) $65.00"
+      },
+      "created_at": 1347652924,
+      "ean": "0022791253212",
+      "model": "CF321 132",
+      "brand": "Children's Factory",
+      "updated_at": 1460345353,
+      "category": "Baby Gyms & Playmats",
+      "gtins": [
+        "00022791253212"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0727880029838",
+      "features": {
+        "Origin": "Austria",
+        "Product Dimensions": "12 x 21 x 12 inches"
+      },
+      "mpn": "20652312-BK",
+      "price": "179.95",
+      "weight": "2177243.38",
+      "model": "20652312BK",
+      "color": "Black",
+      "updated_at": 1460544999,
+      "brand": "Kelty",
+      "created_at": 1347742591,
+      "manufacturer": "Kelty",
+      "width": "533.40",
+      "category": "Backpacks",
+      "upc": "727880029838",
+      "sem3_id": "25sCWE2ylcCCgmiIeE2cuC",
+      "length": "304.80",
+      "sitedetails": [
+        {
+          "name": "backcountry.com",
+          "sku": "kelty-junction-2",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Backcountry.com",
+              "firstrecorded_at": 1392933800,
+              "lastrecorded_at": 1392933800,
+              "price": "189.95",
+              "id": "3ogWjTqIeWAgCiA0SAs8M8",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1385535900,
+              "id": "2HeQp1MKns6quCsU8E040E",
+              "price": "179.95",
+              "availability": "Available",
+              "currency": "USD",
+              "seller": "Backcountry.com",
+              "firstrecorded_at": 1380041300,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.backcountry.com/kelty-junction-2.0-kid-carrier-1300cu-in"
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388673200,
+              "seller": "Zappos.com",
+              "currency": "USD",
+              "availability": "Available",
+              "price": "179.95",
+              "id": "3gu8SeqwJU0WOMg2YQ4oAK",
+              "lastrecorded_at": 1388673200,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.zappos.com/kelty-junction-2-0-child-carrier-black",
+          "name": "zappos.com",
+          "recentoffers_count": 0,
+          "sku": "kelty-junction-2-0-child-carrier_25401838"
+        }
+      ],
+      "name": "Kelty Junction 2.0 Child Carrier []",
+      "cat_id": "18685",
+      "variation_id": "6X9WSZzTdoquiKaYgMgKM2",
+      "height": "304.80",
+      "department": "unisex-adult",
+      "gtins": [
+        "00727880029838"
+      ],
+      "variation_secondaryids": [
+        "14VLL2pNsMQEYsYsIQqI2q",
+        "5RN63wl9FYQOeOCwuG4cuc",
+        "12AyqE4TuIimqwYMCw28mQ",
+        "0X4Kl4lSAoguiusKUkgC2g9S",
+        "5Qd0pwnnF2ueqMGC4AicyK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347760598,
+      "weight": "725747.79",
+      "width": "152.40",
+      "size": "X-Small",
+      "length": "279.40",
+      "upc": "827912075380",
+      "mpn": "BKBC-BR-XS",
+      "category": "Soft Carriers",
+      "manufacturer": "Baby K'Tan",
+      "features": {
+        "Target gender": "Unisex",
+        "Maximum weight recommendation": "35 Pounds",
+        "Material Type": "Cotton",
+        "Minimum weight recommendation": "8 Pounds",
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Number of reclining positions": "6",
+        "Item Weight": "1.3 pounds",
+        "Origin": "USA",
+        "Number of items": "1",
+        "Batteries required": "No",
+        "Additional product features": "Adjustable"
+      },
+      "variation_id": "3DrgRFMl6eoucKOuag0MUi",
+      "gtins": [
+        "00827912075380",
+        "00827912059731",
+        "00827912059724"
+      ],
+      "cat_id": "12496",
+      "price": "49.95",
+      "brand": "Baby Ktan",
+      "sem3_id": "1H5oExs8gkomKOMWSsm0Su",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1383082600,
+              "availability": "Available",
+              "id": "5X99QorpBYecay0eUCSoWI",
+              "firstrecorded_at": 1383082600,
+              "seller": "AllModern",
+              "price": "50.97",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "price": "51.31",
+              "seller": "AllModern",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1380955700,
+              "id": "5JpndngYv2ksoymiyG6MOS",
+              "firstrecorded_at": 1380953000,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.allmodern.com/Baby-KTan-Cotton-Baby-Carrier-BKBC-BR-L752-K~BKT1001.html",
+          "recentoffers_count": 1,
+          "sku": "BKT1001",
+          "name": "allmodern.com"
+        }
+      ],
+      "height": "50.80",
+      "ean": "0827912059731",
+      "updated_at": 1460523909,
+      "name": "Baby K'tan ORIGINAL Baby Carrier, Black, X-Small []",
+      "color": "Warm Cocoa",
+      "model": "BKBC BR XS",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.backcountry.com/deuter-kid-comfort-i",
+          "recentoffers_count": 0,
+          "sku": "deuter-kid-comfort-i",
+          "name": "backcountry.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1386348900,
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "lastrecorded_at": 1386348900,
+              "price": "159.19",
+              "availability": "Available",
+              "id": "4jzssNbGqe8cyQqaCa4mew",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1385536300,
+              "price": "179.10",
+              "availability": "Available",
+              "id": "0vi9qP2BUAoCuU08G0AMUS",
+              "firstrecorded_at": 1385536300,
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1380034900,
+              "seller": "Backcountry.com",
+              "availability": "Available",
+              "id": "2FWduP0d6GUgQ8qwsY6I8U",
+              "price": "199.00",
+              "lastrecorded_at": 1382474000,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Altrec",
+              "firstrecorded_at": 1380034900,
+              "id": "3tiqfPQlrsMW4eYscAm2o4",
+              "availability": "Available",
+              "price": "199.00",
+              "lastrecorded_at": 1382474000,
+              "isactive": 0
+            }
+          ],
+          "name": "altrec.com",
+          "sku": "kid-comfort-i-child-carrier",
+          "url": "http://www.altrec.com/deuter/kid-comfort-i-child-carrier",
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.backcountry.com/deuter-kid-comfort-i-dtr0133",
+          "latestoffers": [
+            {
+              "id": "4jzssNbGqe8cyQqaCa4mew",
+              "availability": "Available",
+              "lastrecorded_at": 1393912500,
+              "price": "159.19",
+              "shipping": "8.94",
+              "currency": "USD",
+              "seller": "Backcountry.com",
+              "firstrecorded_at": 1386348900,
+              "isactive": 0
+            }
+          ],
+          "name": "backcountry.com",
+          "sku": "deuter-kid-comfort-i-dtr0133"
+        }
+      ],
+      "name": "Deuter Kid Comfort I Child Carrier [Titanium/Granite, One Size]",
+      "variation_id": "2FRQKs3A8SseocMSyIaAkU",
+      "manufacturer": "Deuter",
+      "weight": "2313321.09",
+      "cat_id": "18685",
+      "category": "Backpacks",
+      "sem3_id": "4WomjLxIQquiwgiwc4cSI2",
+      "color": "Fire / Anthracite",
+      "created_at": 1348666116,
+      "features": {
+        "Origin": "USA",
+        "Product Dimensions": "12 x 27 x 15 inches ; 5.1 pounds"
+      },
+      "model": "46501 55800",
+      "mpn": "46501",
+      "price": "199.00",
+      "brand": "Deuter",
+      "updated_at": 1460373146,
+      "ean": "4046051021225",
+      "size": "14L",
+      "gtins": [
+        "04046051021225"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

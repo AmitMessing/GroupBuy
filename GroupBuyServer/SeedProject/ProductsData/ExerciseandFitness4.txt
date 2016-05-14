@@ -1,0 +1,341 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "upc": "888376595098",
+      "variation_id": "5yaEwTLbpA6OgiMgkUSuYy",
+      "cat_id": "22176",
+      "created_at": 1437443220,
+      "name": "Under Armour Men's Raid 10\" Shorts [Black/Sun Bleached/Steel, XX-Large]",
+      "size": "XX-Large",
+      "updated_at": 1459115660,
+      "price": "17.98",
+      "sem3_id": "3jrSmKCia0CO44iWOGSOao",
+      "manufacturer": "Under Armour Apparel",
+      "model": "1253527",
+      "sitedetails": [],
+      "ean": "0888376595098",
+      "color": "Black/Sun Bleached/Steel",
+      "category": "Men",
+      "features": {
+        "Product Dimensions": "13 x 8 x 1 inches ; 8 ounces",
+        "Origin": "Jordan"
+      },
+      "mpn": "1253527",
+      "weight": "453592.37",
+      "brand": "Under Armour",
+      "gtins": [
+        "00888376595098"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "453592.37",
+      "ean": "0888376595111",
+      "sem3_id": "5UCMDALCeeEumi6ma66quk",
+      "variation_id": "5yaEwTLbpA6OgiMgkUSuYy",
+      "sitedetails": [],
+      "color": "Amalgam Gray/Sun Bleached/Sun Bleached",
+      "features": {
+        "Origin": "Jordan",
+        "Product Dimensions": "13 x 8 x 1 inches ; 8 ounces"
+      },
+      "size": "Small",
+      "upc": "888376595111",
+      "name": "Under Armour Men's Raid 10\" Shorts [Amalgam Gray/Sun Bleached/Sun Bleached, Small]",
+      "category": "Men",
+      "brand": "Under Armour",
+      "updated_at": 1459110438,
+      "cat_id": "22176",
+      "created_at": 1437443220,
+      "mpn": "1253527",
+      "price": "22.99",
+      "manufacturer": "Under Armour Apparel",
+      "model": "1253527",
+      "gtins": [
+        "00888376595111"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "17.98",
+      "model": "1253527",
+      "manufacturer": "Under Armour Apparel",
+      "mpn": "1253527",
+      "created_at": 1437443220,
+      "cat_id": "22176",
+      "updated_at": 1459110423,
+      "size": "Large",
+      "name": "Under Armour Men's Raid 10\" Shorts [Amalgam Gray/Sun Bleached/Sun Bleached, Large]",
+      "upc": "888376595135",
+      "brand": "Under Armour",
+      "category": "Men",
+      "features": {
+        "Origin": "Jordan",
+        "Product Dimensions": "13 x 8 x 1 inches ; 8 ounces"
+      },
+      "sitedetails": [],
+      "variation_id": "5yaEwTLbpA6OgiMgkUSuYy",
+      "color": "Amalgam Gray/Sun Bleached/Sun Bleached",
+      "sem3_id": "1KqsKIOyngmMGkKcgkMquK",
+      "weight": "453592.37",
+      "ean": "0888376595135",
+      "gtins": [
+        "00888376595135"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Running",
+      "upc": "883956161229",
+      "updated_at": 1459080614,
+      "variation_id": "11jHx0f31yygyAqCk0cmEw",
+      "model": "10188-4R4R",
+      "weight": "426376.83",
+      "cat_id": "15504",
+      "sitedetails": [],
+      "brand": "OluKai",
+      "manufacturer": "Olukai",
+      "color": "White/white",
+      "sem3_id": "3AO0cY3mZMeIYaIiAy6Ekg",
+      "size": "8 D(M) US",
+      "name": "OluKai Nohea Mesh - Men's Casual Shoes [White / White, 8 D(M) US]",
+      "mpn": "10188-4R4R",
+      "ean": "0883956161229",
+      "features": {
+        "Origin": "China",
+        "Product Dimensions": "12 x 7 x 5 inches; 2.3 pounds"
+      },
+      "price": "84.95",
+      "created_at": 1430320259,
+      "gtins": [
+        "00883956161229"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "Y0A111",
+      "name": "Thera-Band Exercise Ball, Green 65 cm (26\") - For height 5' 7\" - 6' 1\"",
+      "size": "65 cm, In Box",
+      "sem3_id": "1YS8rsCp0iiKUAiAYeEG6K",
+      "sitedetails": [],
+      "variation_id": "2EV8TrsBmms6aAuGm0EOwo",
+      "ean": "0002765904807",
+      "updated_at": 1459080603,
+      "manufacturer": "Exercise-Balls",
+      "price": "25.98",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "category": "Exercise Balls & Accessories",
+      "color": "Green",
+      "weight": "997903.21",
+      "cat_id": "6555",
+      "created_at": 1347562141,
+      "upc": "002765904807",
+      "mpn": "23030",
+      "brand": "Exercise Balls",
+      "gtins": [
+        "00002765904807"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "11.5 D(M) US",
+      "cat_id": "15504",
+      "created_at": 1430320259,
+      "category": "Running",
+      "price": "85.00",
+      "color": "Grey / Sulfur",
+      "upc": "883956114317",
+      "sem3_id": "2oqqTqNpCKQC4YamuYUOyY",
+      "weight": "426376.83",
+      "model": "10188-CCAB",
+      "features": {
+        "Origin": "China",
+        "Product Dimensions": "12 x 7 x 5 inches; 2.3 pounds"
+      },
+      "updated_at": 1459080551,
+      "manufacturer": "OluKai",
+      "variation_id": "11jHx0f31yygyAqCk0cmEw",
+      "ean": "0883956114317",
+      "sitedetails": [],
+      "brand": "OluKai",
+      "name": "OluKai Nohea Mesh - Men's Casual Shoes [Grey / Sulfur, 11.5 D(M) US]",
+      "mpn": "10188-CCAB",
+      "gtins": [
+        "00883956114317"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "426376.83",
+      "sem3_id": "4y3oCwNpoOMEyOEUCQSiam",
+      "upc": "883956141382",
+      "color": "Carbon/Carbon/Dark Grey",
+      "category": "Running",
+      "created_at": 1430320259,
+      "price": "72.25",
+      "size": "13 D(M) US",
+      "cat_id": "15504",
+      "mpn": "10188-028",
+      "name": "OluKai Nohea Mesh - Men's Casual Shoes [CARBON / CARBON, 13 D(M) US]",
+      "brand": "OluKai",
+      "sitedetails": [],
+      "ean": "0883956141382",
+      "variation_id": "11jHx0f31yygyAqCk0cmEw",
+      "features": {
+        "Origin": "China",
+        "Product Dimensions": "12 x 7 x 5 inches; 2.3 pounds"
+      },
+      "manufacturer": "OluKai",
+      "updated_at": 1459080533,
+      "model": "10188-028",
+      "gtins": [
+        "00883956141382"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459080799,
+      "manufacturer": "OluKai",
+      "features": {
+        "Origin": "China",
+        "Product Dimensions": "12 x 7 x 5 inches; 2.3 pounds"
+      },
+      "model": "10188-13AP",
+      "ean": "0883956115802",
+      "variation_id": "11jHx0f31yygyAqCk0cmEw",
+      "brand": "OluKai",
+      "sitedetails": [],
+      "mpn": "10188-13AP",
+      "name": "OluKai Nohea Mesh - Men's Casual Shoes [Mustang / Lime Peel, 11 D(M) US]",
+      "size": "11 D(M) US",
+      "cat_id": "15504",
+      "color": "Mustang/Lime Peel",
+      "price": "84.94",
+      "created_at": 1430320259,
+      "category": "Running",
+      "sem3_id": "6vKudOVMgaa0kCeKqWAMWY",
+      "upc": "883956115802",
+      "weight": "426376.83",
+      "gtins": [
+        "00883956115802"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Grey / Scuba",
+      "price": "85.00",
+      "created_at": 1430320259,
+      "category": "Running",
+      "size": "10.5 D(M) US",
+      "cat_id": "15504",
+      "weight": "426376.83",
+      "sem3_id": "79YZwaHk1IowWUGUcsi6yQ",
+      "upc": "883956157543",
+      "ean": "0883956157543",
+      "variation_id": "11jHx0f31yygyAqCk0cmEw",
+      "manufacturer": "Olukai",
+      "updated_at": 1459080723,
+      "features": {
+        "Product Dimensions": "12 x 7 x 5 inches; 2.3 pounds",
+        "Origin": "China"
+      },
+      "model": "10188-CCDT",
+      "mpn": "10188-CCDT",
+      "name": "OluKai Nohea Mesh - Men's Casual Shoes [Grey / Scuba, 10.5 D(M) US]",
+      "brand": "OluKai",
+      "sitedetails": [],
+      "gtins": [
+        "00883956157543"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0044209361708",
+      "color": "Red",
+      "model": "Boys_Baby_Jazz_H&L_-_K",
+      "size": "11.5 M US Little Kid",
+      "manufacturer": "Saucony",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Origin": "China"
+      },
+      "name": "Saucony Jazz H&L Sneaker (Toddler/Little Kid)",
+      "created_at": 1432569727,
+      "brand": "Saucony",
+      "sitedetails": [],
+      "mpn": "ST53535",
+      "sem3_id": "6UZZ9ZF6QKKMQMkwK2cYoS",
+      "category": "Footwear",
+      "price": "32.99",
+      "upc": "044209361708",
+      "updated_at": 1459085960,
+      "variation_id": "54Qsw45kTQY2s4QOOs2gMM",
+      "cat_id": "13727",
+      "weight": "113398.09",
+      "gtins": [
+        "00044209361708"
+      ],
+      "variation_secondaryids": [
+        "0TkpJyrnDqg2WQk2SKQ8CY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

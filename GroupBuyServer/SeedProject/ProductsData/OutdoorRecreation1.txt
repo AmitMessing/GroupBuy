@@ -1,0 +1,485 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "800523",
+      "updated_at": 1460685772,
+      "category": "Tents",
+      "size": "98\" x 80\" x 44\", 34.7 sq ft",
+      "price": "159.04",
+      "weight": "612349.70",
+      "features": {
+        "Sleeps": "2",
+        "Item Weight": "1.3 pounds"
+      },
+      "ean": "0793661030881",
+      "cat_id": "435",
+      "brand": "Black Diamond",
+      "mpn": "BD80304",
+      "created_at": 1347599145,
+      "color": "Blue",
+      "upc": "793661030881",
+      "sem3_id": "1Orb86S7OiiK0OECKKOuym",
+      "manufacturer": "Black Diamond",
+      "sitedetails": [
+        {
+          "url": "http://www.backcountry.com/black-diamond-beta-light-shelter",
+          "recentoffers_count": 0,
+          "sku": "black-diamond-beta-light-shelter",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "199.95",
+              "seller": "Backcountry.com",
+              "id": "3ZhIGeojNg6meGMGyymQ6g",
+              "lastrecorded_at": 1398605300,
+              "firstrecorded_at": 1386970600,
+              "isactive": 0
+            },
+            {
+              "id": "1eCThr41cS6U4OG6YquKwg",
+              "lastrecorded_at": 1385807800,
+              "firstrecorded_at": 1385807800,
+              "currency": "USD",
+              "price": "169.96",
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "isactive": 0
+            },
+            {
+              "id": "4tyEXISNnUkGoumIKMeygi",
+              "firstrecorded_at": 1379726000,
+              "lastrecorded_at": 1382843000,
+              "price": "199.95",
+              "currency": "USD",
+              "seller": "Backcountry.com",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "backcountry.com"
+        }
+      ],
+      "name": "Black Diamond Beta Light Shelter []",
+      "gtins": [
+        "00793661030881"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "126.11",
+      "sem3_id": "6m92hErXNI0qYeOyGqaGyA",
+      "sitedetails": [],
+      "weight": "1769010.24",
+      "color": "foliage green",
+      "mpn": "61497",
+      "created_at": 1347757873,
+      "features": {
+        "Shipping Information": "View shipping rates and policies"
+      },
+      "model": "Linchpin",
+      "category": "Backpacks & Bags",
+      "upc": "713852614973",
+      "cat_id": "21033",
+      "ean": "0713852614973",
+      "manufacturer": "CamelBak",
+      "name": "CamelBak - Linchpin Hydration Backpack - 102 oz (3.1 L)",
+      "updated_at": 1460646983,
+      "brand": "CamelBak",
+      "gtins": [
+        "00713852614973"
+      ],
+      "variation_secondaryids": [
+        "0L2lw3dwBawm4K44sg0ysq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "LIB791544",
+      "updated_at": 1460582313,
+      "ean": "0041689440008",
+      "upc": "041689440008",
+      "sem3_id": "1sJnnvsCRUikC6icM0ucAM",
+      "name": "Zippo Instant Campfire Cedar Starter Pucks [Starter Puck]",
+      "brand": "Zippo",
+      "created_at": 1347750883,
+      "cat_id": "329",
+      "sitedetails": [],
+      "weight": "117934.02",
+      "category": "Camp Kitchen",
+      "manufacturer": "Zippo",
+      "features": {
+        "Product Dimensions": "1 x 3.8 x 3.8 inches ; 1.6 ounces",
+        "Origin": "USA"
+      },
+      "color": "Starter Puck",
+      "price": "21.27",
+      "mpn": "44000",
+      "gtins": [
+        "00041689440008"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Stansport Hunter Series Trophy Hunter Tent",
+      "brand": "StanSport",
+      "sem3_id": "0KNxIWbQy92AYM06Gwceyy",
+      "updated_at": 1460583938,
+      "weight": "40823.31",
+      "ean": "0011319609846",
+      "price": "59.99",
+      "mpn": "725-15",
+      "model": "725 15",
+      "manufacturer": "Stansport",
+      "features": {
+        "Floor Dimensions": "7' x 7'",
+        "Sleeping Capacity": "3-person",
+        "Peak Height": "54\"",
+        "Floor Area": "49 sq. ft.",
+        "Minimum Trail Weight": "8 lb. 7 oz."
+      },
+      "upc": "843009057596",
+      "color": "Green/Tan",
+      "height": "1.68",
+      "length": "6.26",
+      "cat_id": "435",
+      "category": "Tents",
+      "width": "1.68",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "sku": "450690",
+          "recentoffers_count": 1,
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=450690",
+          "listprice": "78.98",
+          "name": "gandermountain.com",
+          "latestoffers": [
+            {
+              "availability": "Sold Out",
+              "firstrecorded_at": 1388779200,
+              "id": "0LfALhNurL6eysmCg42QsQ",
+              "currency": "USD",
+              "seller": "Gandermountain",
+              "lastrecorded_at": 1420733600,
+              "price": "59.99",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "created_at": 1347615081,
+      "gtins": [
+        "00843009057596",
+        "00011319609846"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "046928537136",
+      "ean": "0046928537136",
+      "cat_id": "10127",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "3.2 ounces"
+      },
+      "sem3_id": "1GqdFcAyH20UamI44qEMEe",
+      "sitedetails": [
+        {
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=VI53713",
+          "recentoffers_count": 0,
+          "name": "beachcamera.com",
+          "sku": "VI53713",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1418229100,
+              "price": "39.95",
+              "id": "5cslYLiqxsw0CKwmwqMemK",
+              "availability": "Available",
+              "seller": "Beachcamera",
+              "firstrecorded_at": 1394758300,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "created_at": 1357643883,
+      "manufacturer": "Swiss Army Knives",
+      "model": "53713",
+      "price": "43.12",
+      "category": "Knives & Tools",
+      "updated_at": 1460549673,
+      "color": "Hardwood",
+      "brand": "Victorinox Swiss Army",
+      "name": "Victorinox Swiss Army Huntsman Knife []",
+      "mpn": "53713",
+      "weight": "199580.64",
+      "gtins": [
+        "00046928537136"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "127.50",
+      "category": "Camp Bedding",
+      "upc": "873840009720",
+      "ean": "0873840009720",
+      "weight": "453592.37",
+      "width": "101.60",
+      "sem3_id": "6VzYaVRA7kAeQwC0qKO6Sm",
+      "size": "20\" x 72\"",
+      "created_at": 1375190822,
+      "name": "Big Agnes Air Core SL Sleeping Pad []",
+      "cat_id": "4693",
+      "sitedetails": [
+        {
+          "name": "backcountry.com",
+          "latestoffers": [
+            {
+              "price": "79.92",
+              "seller": "Backcountry.com",
+              "lastrecorded_at": 1387023400,
+              "id": "6XwVqebXW4EwyEsAQWQyyA",
+              "availability": "Available",
+              "firstrecorded_at": 1386343700,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1380078000,
+              "currency": "USD",
+              "seller": "Backcountry.com",
+              "price": "99.90",
+              "lastrecorded_at": 1383082400,
+              "id": "4dHc7UcIrQG8K2SyqiaKAC",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "big-agnes-air-core-sl-sleeping-pad",
+          "url": "http://www.backcountry.com/big-agnes-air-core-sl-sleeping-pad",
+          "recentoffers_count": 0
+        }
+      ],
+      "color": "Green",
+      "variation_id": "6lyVfvKjaKGISyws2iWOIC",
+      "mpn": "PACSLR13",
+      "features": {
+        "Thickness": "3.75\"",
+        "Rolled Size": "3\" x 10\"",
+        "Valve": "Durable inflation valve",
+        "Durable, superlight nylon rip-stop top and bottomInternal heat reflective polyurethane coatingEstimated R-Value of 1Insulation": "Air"
+      },
+      "manufacturer": "Big Agnes Inc.",
+      "model": "PACSLR13",
+      "length": "228.60",
+      "updated_at": 1460763808,
+      "brand": "Big Agnes Inc.",
+      "height": "101.60",
+      "gtins": [
+        "00873840009720"
+      ],
+      "variation_secondaryids": [
+        "7Syy1ZTdTcUuw2OUAGkQIq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Dimensions": "18 x 16 x 8 inches",
+        "Item Weight": "25 pounds"
+      },
+      "brand": "AirBedz",
+      "updated_at": 1460402465,
+      "sitedetails": [],
+      "color": "Royal Blue",
+      "size": "Full- Short Bed",
+      "ean": "0855100009015",
+      "manufacturer": "AirBedz",
+      "upc": "855100009015",
+      "cat_id": "4693",
+      "sem3_id": "2qNQung8pkMSGsgyeWSuAW",
+      "name": "AirBedz (PPI 102) Original Truck Bed Air Mattress for 6'-6.5' Full Sized Short Bed Trucks",
+      "created_at": 1357829749,
+      "variation_id": "3RNgaiD7Zge8EmUQakoUKu",
+      "model": "PPI 102",
+      "price": "193.99",
+      "mpn": "PPI-102",
+      "category": "Camp Bedding",
+      "gtins": [
+        "00855100009015"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Sea to Summit",
+      "updated_at": 1460471898,
+      "manufacturer": "Sea to Summit",
+      "sitedetails": [],
+      "model": "377",
+      "sem3_id": "0YU3BJeNzXasMGsG2eeSaY",
+      "created_at": 1347796710,
+      "category": "Backpacks & Bags",
+      "variation_id": "4y27yDyd9EGSIAYOAqikec",
+      "cat_id": "21033",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "name": "Sea to Summit Ultra-Sil Day Pack",
+      "weight": "453592.37",
+      "ean": "9327868022519",
+      "size": "20-Liter",
+      "color": "Gold",
+      "price": "32.95",
+      "mpn": "377 Yellow",
+      "gtins": [
+        "09327868022519"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "45359.24",
+      "created_at": 1348667696,
+      "length": "203.20",
+      "name": "Vario Carbon Refill (2 PK)",
+      "height": "50.80",
+      "ean": "0604375150362",
+      "brand": "Katadyn",
+      "upc": "604375150362",
+      "price": "11.62",
+      "width": "127.00",
+      "manufacturer": "Katadyn",
+      "mpn": "P413",
+      "sitedetails": [
+        {
+          "url": "http://www.backcountry.com/katadyn-vario-carbon-replacement-2-pack",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1385744500,
+              "shipping": "5.95",
+              "currency": "USD",
+              "lastrecorded_at": 1385744500,
+              "id": "0bXqDTcXJSoGKA0cWIcoQE",
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "price": "7.92",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1382742200,
+              "firstrecorded_at": 1380965000,
+              "shipping": "5.95",
+              "price": "9.90",
+              "seller": "Backcountry.com",
+              "availability": "Available",
+              "id": "0fx12y3z1KQeWUSC2qe4wY",
+              "isactive": 0
+            }
+          ],
+          "sku": "katadyn-vario-carbon-replacement-2-pack",
+          "name": "backcountry.com"
+        }
+      ],
+      "features": {
+        "Item Weight": "1.6 ounces"
+      },
+      "model": "Accesories and Parts",
+      "category": "Hydration",
+      "cat_id": "21301",
+      "updated_at": 1460491172,
+      "sem3_id": "6cqL5PjYhcEweM8Q4UO0K0",
+      "gtins": [
+        "00604375150362"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "444.50",
+      "model": "EC 60212010",
+      "color": "Black",
+      "length": "139.70",
+      "variation_id": "4bqTpgbkPwq2qSQIcmi8gY",
+      "height": "304.80",
+      "price": "74.95",
+      "sem3_id": "73J5QaZw6w0Swe6wOMisiS",
+      "brand": "Eagle Creek",
+      "upc": "658100699176",
+      "sitedetails": [],
+      "name": "Eagle Creek Travel Gear Emersen Daypack [Black, One Size]",
+      "created_at": 1375217859,
+      "cat_id": "21033",
+      "updated_at": 1455514415,
+      "ean": "0658100699176",
+      "features": {
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More"
+      },
+      "category": "Backpacks & Bags",
+      "manufacturer": "Eagle Creek Travel Gear",
+      "mpn": "EC-60212-010",
+      "weight": "1088621.69",
+      "gtins": [
+        "00658100699176"
+      ],
+      "variation_secondaryids": [
+        "0HWsfPQTeIikAkaWqQUY4G"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

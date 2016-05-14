@@ -1,0 +1,519 @@
+{
+  "total_results_count": 19465,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "9.96",
+      "cat_id": "12455",
+      "model": "10441",
+      "created_at": 1348673644,
+      "category": "Transmission",
+      "manufacturer": "Lucas Oil",
+      "name": "Lucas Oil 10441 Automatic Transmission Fluid Conditioner - 20 oz.",
+      "updated_at": 1461659638,
+      "mpn": "10441",
+      "weight": "589670.08",
+      "sitedetails": [],
+      "brand": "Lucas Oil",
+      "sem3_id": "6vJKJRN8kasgei4iawMI6s",
+      "upc": "049807104412",
+      "ean": "0049807104412",
+      "features": {
+        "Item Weight": "1.3 pounds",
+        "Product Dimensions": "9 x 3.8 x 2.1 inches"
+      },
+      "gtins": [
+        "00049807104412"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "0rlhlM0oWqsWEqk46q86YU",
+      "brand": "Shell",
+      "upc": "021400576940",
+      "features": {
+        "Volume Capacity": "1 gal",
+        "Assembled Product Dimensions (L x W x H)": "0.0 x 0.0 x 0.0 Inches",
+        "Assembled Product Weight": "0.0"
+      },
+      "updated_at": 1462286296,
+      "model": "550019921",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "id": "0dHDE9F856c0II0qkw88UA",
+              "currency": "USD",
+              "price": "83.42",
+              "firstrecorded_at": 1456844500,
+              "availability": "Available",
+              "lastrecorded_at": 1460335000,
+              "isactive": 0
+            },
+            {
+              "id": "3CJJXjDJU82iM8qymISSSk",
+              "currency": "USD",
+              "seller": "Walmart",
+              "price": "82.06",
+              "availability": "Available",
+              "lastrecorded_at": 1455847400,
+              "firstrecorded_at": 1455847400,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "46863141",
+          "url": "http://www.walmart.com/ip/46863141"
+        }
+      ],
+      "size": "1 Gallon (128 Ounces), (Pack of 3)",
+      "category": "Motor Oils",
+      "cat_id": "10154",
+      "ean": "0021400576940",
+      "created_at": 1357660621,
+      "price": "83.42",
+      "manufacturer": "Shell",
+      "weight": "11339809.25",
+      "mpn": "550019921",
+      "name": "Shell Rotella 550019921-3PK T6 5W-40 Full Synthetic Heavy Duty Diesel Engine Oil (CJ-4) - 1 Gallon Jug Pack of 3",
+      "gtins": [
+        "00021400576940"
+      ],
+      "variation_secondaryids": [
+        "3gnjqjrfhQOcwmOKYs6WQY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Prestone",
+      "created_at": 1347551299,
+      "sem3_id": "20yuO4zGbQIiMAYIuYsAcE",
+      "upc": "797496871671",
+      "name": "Prestone AF2100 Extended Life 50/50 Antifreeze - 1 Gallon [AF2100]",
+      "ean": "0797496871671",
+      "cat_id": "1637",
+      "features": {
+        "Item Weight": "9.2 pounds",
+        "Product Dimensions": "15.7 x 12.9 x 12.1 inches",
+        "This item": "Prestone AF2100 Extended Life 50/50 Antifreeze - 1 Gallon $8.44",
+        "Vehicle Service Type": "all-terrain-vehicles, utility-vehicles, street-sport-motorcycles, off-road-motorcycles, street-cruiser-motorcycles, street-touring-motorcycles, street-motor-scooters, snowmobiles, marine-personal-craft"
+      },
+      "manufacturer": "Prestone",
+      "model": "AF 888P",
+      "mpn": "AF2100",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/16879961",
+          "sku": "16879961",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "Walmart",
+              "price": "8.44",
+              "firstrecorded_at": 1449534300,
+              "currency": "USD",
+              "lastrecorded_at": 1460573400,
+              "id": "0P8T6PrBGuOyOYe66e6QQU",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "updated_at": 1462502100,
+      "price": "13.41",
+      "weight": "4517780.01",
+      "category": "Cooling System",
+      "gtins": [
+        "00797496871671"
+      ],
+      "variation_secondaryids": [
+        "3J3d6ygWOmcQkOuka0waMq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Grease & Lubricants",
+      "name": "Royal Purple 10036 Synthetic Gun Oil High Performance Multipurpose Gun Lubricant - 4 oz. [4 Ounce]",
+      "height": "139.70",
+      "brand": "Royal Purple",
+      "width": "57.15",
+      "price": "10.23",
+      "manufacturer": "Royal Purple",
+      "size": "4 Ounce",
+      "weight": "113398.09",
+      "sem3_id": "6ILXyVdfu4IagA6WoW8QKY",
+      "sitedetails": [],
+      "created_at": 1347609083,
+      "model": "10036",
+      "mpn": "10036",
+      "length": "57.15",
+      "updated_at": 1461454050,
+      "ean": "0641330100369",
+      "features": {
+        "Exterior": "Smooth",
+        "OEM Part Number": "10036",
+        "Item Weight": "4 ounces",
+        "Product Dimensions": "2.2 x 2.2 x 5.5 inches"
+      },
+      "cat_id": "20785",
+      "upc": "641330100369",
+      "gtins": [
+        "00641330100369"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347683367,
+      "updated_at": 1461617251,
+      "brand": "BlueDevil Products",
+      "upc": "891838002096",
+      "weight": "453592.37",
+      "height": "76.20",
+      "mpn": "#00209",
+      "sitedetails": [],
+      "model": "00209",
+      "features": {
+        "Green Sealâ¢-36 Certified": "No",
+        "Recommended Safety Equipment": "Gloves",
+        "Poisonous": "No",
+        "Recommended Cleaning Method": "Flushing Agent",
+        "Chemical Make Up": "Silicone",
+        "Use Location": "Interior",
+        "Product Data Last Certified": "2012-10-08",
+        "Flammable": "No",
+        "Internet Product Code (IPC)": "A1224F62FCA",
+        "Set Time": "1",
+        "Warranty": "Full Lifetime",
+        "Surface (Surface Applied To)": "Aluminum, Cast Iron, Steel, Plastic",
+        "Dry Color": "White",
+        "Adhesive Type": "Chemical weld",
+        "Curing Time": "1 hrs",
+        "Paintable / Stainable": "No"
+      },
+      "width": "76.20",
+      "name": "BlueDevil Pour-N-Go Head Gasket Sealer - 16 Ounce (00209)",
+      "manufacturer": "BlueDevil Products",
+      "sem3_id": "05Ap1NZie4msOIIWoAk6IS",
+      "cat_id": "1637",
+      "ean": "0891838002096",
+      "category": "Cooling System",
+      "length": "203.20",
+      "price": "36.99",
+      "gtins": [
+        "00891838002096"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "9510",
+      "size": "Single Unit",
+      "ean": "0078254050164",
+      "model": "05016",
+      "height": "152.40",
+      "brand": "CRC",
+      "price": "5.99",
+      "created_at": 1347482576,
+      "mpn": "05016",
+      "features": {
+        "Product Dimensions": "2 x 2 x 6 inches",
+        "Item Weight": "5.3 ounces",
+        "Discontinued by manufacturer": "Yes",
+        "Vehicle Service Type": "all-terrain-vehicles, utility-vehicles, street-sport-motorcycles, off-road-motorcycles, street-cruiser-motorcycles, street-touring-motorcycles, street-motor-scooters, snowmobiles, marine-personal-craft"
+      },
+      "sem3_id": "4fXj9qrGISUuuA8k2mCW6q",
+      "sitedetails": [
+        {
+          "sku": "mscdirect_74979212",
+          "name": "mscdirect.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "6.76",
+              "currency": "USD",
+              "id": "5cICjxAP3IU84akE64oWmq",
+              "availability": "available",
+              "firstrecorded_at": 1445607500,
+              "lastrecorded_at": 1461584200,
+              "seller": "MSC Industrial Direct Co",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.mscdirect.com/product/details/74979212"
+        }
+      ],
+      "width": "50.80",
+      "category": "Brake Cleaners",
+      "manufacturer": "CRC Industries, Inc",
+      "length": "50.80",
+      "updated_at": 1462223103,
+      "name": "CRC Disc Brake Quiet 05016, 4 Fl Oz [Single Unit]",
+      "upc": "078254050164",
+      "weight": "226796.18",
+      "gtins": [
+        "00078254050164"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "20332",
+      "manufacturer": "Generic",
+      "brand": "Castrol",
+      "price": "22.97",
+      "upc": "079191231012",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/35931146",
+          "sku": "35931146",
+          "latestoffers": [
+            {
+              "price": "22.97",
+              "seller": "Walmart",
+              "firstrecorded_at": 1458753900,
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1460583700,
+              "id": "2mlIjMILtYk8s6o4cGiGym",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "price": "25.17",
+              "firstrecorded_at": 1456044800,
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1457772800,
+              "id": "7KiVR3LRBoI66agYWo26Gu",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1438082400,
+              "price": "22.97",
+              "seller": "Walmart",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1443198000,
+              "id": "6dukpte9XEsySEa4YgyUky",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "name": "Castrol Edge Strength for Maximum Protection 0W40 Motor Oil, 5 Quart",
+      "sem3_id": "1a7WEz5kIKWoQ08CCyo0CI",
+      "features": {
+        "Sports League": "tempSportsLeagueValue",
+        "Volume Capacity": "5 qt",
+        "Assembled Product Dimensions (L x W x H)": "14.44 x 10.06 x 12.75 IN",
+        "Sports Team": "tempSportsTeamValue",
+        "Athlete": "tempAthleteValue"
+      },
+      "updated_at": 1462510133,
+      "ean": "0079191231012",
+      "category": "Oils",
+      "model": "03101",
+      "mpn": "03101",
+      "created_at": 1398482973,
+      "gtins": [
+        "00079191231012"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "95.25",
+      "name": "Royal Purple 01600 Purple Ice Super-Coolant Radiator Additive - 12 oz. [12 Ounce]",
+      "updated_at": 1462972319,
+      "height": "190.50",
+      "category": "Cooling System",
+      "features": {
+        "OEM Part Number": "01600",
+        "Item Weight": "1 pounds",
+        "Exterior": "Smooth",
+        "Product Dimensions": "3.8 x 1.1 x 7.5 inches",
+        "Vehicle Service Type": "all-terrain-vehicles;utility-vehicles;street-sport-motorcycles;off-road-motorcycles;street-cruiser-motorcycles;street-touring-motorcycles;street-motor-scooters;snowmobiles;marine-personal-craft"
+      },
+      "size": "12 Ounce",
+      "weight": "453592.37",
+      "cat_id": "1637",
+      "mpn": "01600",
+      "manufacturer": "Royal Purple",
+      "upc": "641330016004",
+      "created_at": 1347541566,
+      "ean": "0641330016004",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Out of Stock",
+              "seller": "iSave",
+              "price": "21.95",
+              "lastrecorded_at": 1424070300,
+              "id": "2DeLNS0ifIS6EsYYOgG4gi",
+              "firstrecorded_at": 1424070300,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/39905688",
+          "sku": "39905688"
+        }
+      ],
+      "sem3_id": "65QM8fpixkuEyMQUG0KAwe",
+      "price": "12.95",
+      "width": "28.96",
+      "model": "01600",
+      "brand": "Royal Purple",
+      "gtins": [
+        "00641330016004"
+      ],
+      "variation_secondaryids": [
+        "1gJsqE6CbYke4M8mYCWYuC"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "name": "wayfair.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1389793900,
+              "firstrecorded_at": 1389793900,
+              "currency": "USD",
+              "seller": "Wayfair",
+              "id": "49T06wRZZwCaCMoGk0uaso",
+              "price": "95.00",
+              "isactive": 0
+            }
+          ],
+          "sku": "ZYT1006",
+          "url": "http://www.wayfair.com/PBT-USA-Speedyvac-Brake-Bleeder-70850-ZYT1006.html"
+        },
+        {
+          "recentoffers_count": 1,
+          "name": "kmart.com",
+          "url": "http://www.kmart.com/pbt-speedyvac-brake-bleeder-500ml/p-00902146000P",
+          "latestoffers": [
+            {
+              "price": "109.99",
+              "seller": "Sears Brands, LLC.",
+              "id": "09HxPOdQfmSw88wMKqkCIO",
+              "availability": "Available",
+              "lastrecorded_at": 1425956000,
+              "firstrecorded_at": 1425956000,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "sku": "00902146000P"
+        }
+      ],
+      "created_at": 1357682654,
+      "name": "Speedyvac Brake Bleeder",
+      "updated_at": 1462160809,
+      "ean": "9328450000113",
+      "mpn": "PBT70850",
+      "category": "Brake Fluids",
+      "model": "5908661",
+      "price": "83.78",
+      "brand": "PBT USA",
+      "cat_id": "19181",
+      "manufacturer": "PBT USA",
+      "features": {
+        "Product Dimensions": "15.4 x 10.3 x 3.4 inches",
+        "Item Weight": "1.3 pounds",
+        "Item Package Quantity": "1"
+      },
+      "sem3_id": "2Hii5w8BdMcUiGgMUOMcYe",
+      "gtins": [
+        "09328450000113"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0745061870130",
+      "sitedetails": [],
+      "model": "8M0047921",
+      "brand": "Quicksilver",
+      "weight": "2267961.85",
+      "features": {
+        "Product Dimensions": "10.9 x 8.2 x 8.5 inches"
+      },
+      "mpn": "8M0047921",
+      "category": "Fuel System",
+      "name": "Quicksilver Quickleen Engine and Fuel System Cleaner",
+      "created_at": 1357645883,
+      "cat_id": "16039",
+      "upc": "745061870130",
+      "manufacturer": "Mercury/Quicksilver",
+      "updated_at": 1459088979,
+      "sem3_id": "7DwvkILKXQ6MUayuoSuMqi",
+      "price": "15.71",
+      "gtins": [
+        "00745061870130"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

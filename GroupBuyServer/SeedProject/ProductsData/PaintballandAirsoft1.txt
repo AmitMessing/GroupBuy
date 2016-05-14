@@ -1,0 +1,506 @@
+{
+  "total_results_count": 64538,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "Planet Eclipse",
+      "name": "ETEK4 - Planet Eclipse Etek 4 LT / AM Paintball Guns [HDE Forest, AM]",
+      "model": "ETEK 4 AM",
+      "weight": "2091060.83",
+      "price": "599.95",
+      "upc": "722301350621",
+      "brand": "Planet Eclipse",
+      "cat_id": "23035",
+      "color": "Black",
+      "updated_at": 1455553330,
+      "category": "Markers",
+      "features": {
+        "NEW ZICK2 RAMMER KIT": "The incredibly successful Zick2 kit is now to be found as standard on the Etek4. The Etek4 kit utilizes a unique rammer cap to work with the Etek4 rammer housing.",
+        "NEW SL3 REGULATOR": "Internally and performance-wise, the exact same regulator that can be found on the Ego11, CSL and Geo2.1. It allows the Etek4 to run with HP, MP or LP tanks without the need to alter settings and inline regulator adjustments. It has a replaceable and reversible main seal as well as self-purging feature to leave the firing chamber de-gassed after tank removal.",
+        "DEFTEK OFFSET FEED": "The feed is offset to one side by a small amount. This prevents the balls that tumble into the breech from bouncing excessively and causing breaks and chops.",
+        "NEW ANGLED INLINE REG SWIVEL": "Similar to those seen on the Geo2.1 and Ego11, the Etek4 now includes its own angled reg swivel.",
+        "NEW 2012 OOPS": "The new OOPS combines a low profile, ultra-easy on/off/purge function and front-mounted hose exit. As with all Eclipse markers since 2007 the Etek4 utilizes the T-Slot Rail. The Etek4 will also accept a POPS ASA.",
+        "Product Dimensions": "21.1 x 8.7 x 1.1 inches ; 2.2 pounds",
+        "NEW ONE-PIECE BODY": "New 3D machining with sleek lines. The Body has an integrated male FRM the same as Ego11 and Geo2 to accept the SL3 Regulator",
+        "NEW SHAFT4 ETEK BARREL": "Like the full-fat Shaft4 barrel, the Etek4 barrel utilizes a 2-piece, reverse threaded construction with a longer rear control bore for increased efficiency and consistency. The barrel is internally finished identically to the Geo and Ego Shaft4 barrel but features simplified external machining. The rear bore is honed to 0.693\" diameter and both front and backs are compatible with Shaft4 Boost Kits and Tips."
+      },
+      "size": "AM",
+      "sem3_id": "5dWQPNl1AekoYmqEqia6K0",
+      "mpn": "MARKA9301000",
+      "sitedetails": [],
+      "created_at": 1357323756,
+      "ean": "0722301350621",
+      "gtins": [
+        "00722301350621"
+      ],
+      "variation_secondaryids": [
+        "64QfWgwR9cSWUmWK8myusW",
+        "4HpcidkPDcYaICww2W68yo",
+        "6cupYkMqPYQk082iIiIGIo",
+        "69NCgm4UNM4eygGKgSUgKM",
+        "0yfi2JmGG6iKKaEoSQoMiO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "model": "T210007",
+      "mpn": "T210007",
+      "cat_id": "23035",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "0.3 ounces"
+      },
+      "upc": "669966993292",
+      "updated_at": 1461101830,
+      "ean": "0669966993292",
+      "category": "Markers",
+      "created_at": 1348675727,
+      "manufacturer": "Tippmann",
+      "name": "Tippmann Low Profile Cyclone Hopper",
+      "sem3_id": "1QTo5E8k3YeSKO6IsoQYUK",
+      "weight": "453592.37",
+      "brand": "Tippmann",
+      "price": "8.11",
+      "gtins": [
+        "00669966993292"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "Vanquish",
+      "brand": "Empire",
+      "category": "Markers",
+      "color": "Tuxedo Black",
+      "cat_id": "23035",
+      "sem3_id": "5mnnJ1Hk8Wg4oUWEMmQcYM",
+      "mpn": "16950",
+      "updated_at": 1461296162,
+      "created_at": 1374836920,
+      "features": {
+        "Item Weight": "8 pounds"
+      },
+      "ean": "0799599520128",
+      "weight": "2721554.22",
+      "price": "994.95",
+      "sitedetails": [],
+      "name": "Empire Vanquish Paintball Marker (Click-a-Color)",
+      "variation_id": "4PA34Z07R2mSysMeKSIAiK",
+      "manufacturer": "Empire",
+      "upc": "799599520128",
+      "gtins": [
+        "00799599520128"
+      ],
+      "variation_secondaryids": [
+        "6nYvhvSP1kqwAaew0YUaew"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "21280",
+      "updated_at": 1459049417,
+      "category": "Gun Scope Mounts",
+      "variation_id": "0x8LzroqqqsiwAus2kugmu",
+      "features": {
+        "Product Dimensions": "3.8 x 2.8 x 0.2 inches ; 3.2 ounces",
+        "Origin": "USA"
+      },
+      "size": "1\" Extra High",
+      "color": "Gloss Black",
+      "brand": "Weaver",
+      "length": "95.25",
+      "manufacturer": "Weaver",
+      "created_at": 1347474710,
+      "model": "49080",
+      "height": "6.35",
+      "upc": "076683490803",
+      "sem3_id": "4nyC1wmJgeu8uiiymgkOq2",
+      "name": "Weaver Detachable 1-Inch Extra High Top Mount Rings [Gloss Black]",
+      "ean": "0076683490803",
+      "weight": "90718.47",
+      "width": "69.85",
+      "mpn": "49080",
+      "price": "23.47",
+      "sitedetails": [],
+      "gtins": [
+        "00076683490803"
+      ],
+      "variation_secondaryids": [
+        "5fHwsyV16WAyk068iuayq0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "2279315",
+      "created_at": 1357338358,
+      "name": "Elite Force CO2 14 Rds. Metal Airsoft Magazine Fits 1911A1 and 1911 Tactical CO2 Airsoft Pistols",
+      "sem3_id": "4lyR5F7TlYSu2ewOwugOag",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "manufacturer": "Elite Force",
+      "price": "29.73",
+      "brand": "Elite",
+      "sitedetails": [],
+      "ean": "0723364793158",
+      "weight": "198446.66",
+      "category": "Magazines",
+      "color": "Black",
+      "upc": "723364793158",
+      "updated_at": 1458967550,
+      "model": "2279315",
+      "cat_id": "6102",
+      "gtins": [
+        "00723364793158"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Weaver",
+      "category": "Gun Scope Mounts",
+      "height": "177.80",
+      "features": {
+        "Shot Size": "N/A",
+        "Style": "N/A",
+        "Caliber": "N/A",
+        "Magnification": "N/A",
+        "Objective Lens MM": "N/A"
+      },
+      "price": "14.60",
+      "mpn": "48401",
+      "brand": "Weaver",
+      "name": "Weaver Side Mount Base [#1]",
+      "model": "48401",
+      "width": "6.35",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "name": "greentophuntfish.com",
+          "recentoffers_count": 1,
+          "url": "http://www.greentophuntfish.com/weaver-detach-side-mount-base-1-48401.html",
+          "latestoffers": [
+            {
+              "seller": "Green Top",
+              "id": "3X7dRM68mGyQQayiqmSeWg",
+              "availability": "Available: 1 in stock",
+              "lastrecorded_at": 1442440200,
+              "firstrecorded_at": 1393320700,
+              "price": "16.98",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "16.98",
+              "lastrecorded_at": 1390339900,
+              "firstrecorded_at": 1390339900,
+              "id": "2rdDP8YAFUkEyggk0qqAwk",
+              "seller": "Mountain Hideaway",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "listprice": "17.98",
+          "sku": "weaver-detach-side-mount-base-1-48401"
+        }
+      ],
+      "cat_id": "21280",
+      "weight": "4535.92",
+      "sem3_id": "3SarB9pVk0scU6eYG6gGMG",
+      "created_at": 1347694674,
+      "size": "#1",
+      "ean": "0076683484017",
+      "color": "Gloss Black",
+      "length": "66.80",
+      "updated_at": 1459008137,
+      "upc": "076683484017",
+      "gtins": [
+        "00076683484017"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Plano Shaped Pistol Case (Small)",
+      "model": "1421 00",
+      "height": "133.35",
+      "color": "Black",
+      "mpn": "1421-00",
+      "sem3_id": "7lHCJ1hCBEwYmOUYSmuMyA",
+      "brand": "Plano",
+      "ean": "0024099014212",
+      "length": "50.80",
+      "cat_id": "6383",
+      "updated_at": 1460856491,
+      "price": "8.27",
+      "created_at": 1347520723,
+      "sitedetails": [],
+      "width": "196.85",
+      "upc": "024099014212",
+      "weight": "12337.71",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "category": "Gun Cases",
+      "manufacturer": "Plano",
+      "gtins": [
+        "00024099014212"
+      ],
+      "variation_secondaryids": [
+        "41K6y9UFjcE6qeiiAeKMEc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "5X5qFF5SE4oCkS88GgAu0q",
+      "name": "Tippmann X7 Phenom E-Grip Hall Effect upgrade kit",
+      "color": "Black",
+      "cat_id": "23035",
+      "upc": "669966997429",
+      "category": "Markers",
+      "created_at": 1347545554,
+      "brand": "Tippmann",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "129.94",
+              "currency": "USD",
+              "id": "4c926P7H0qWIC2Ua4iSMcs",
+              "firstrecorded_at": 1388171300,
+              "availability": "Available",
+              "seller": "Bobwards",
+              "lastrecorded_at": 1446792100,
+              "isactive": 0
+            }
+          ],
+          "sku": "76301",
+          "recentoffers_count": 0,
+          "url": "http://www.bobwards.com/TIPPMANN-X-7-Phenom-Mechanical-E-Grip-76301",
+          "name": "bobwards.com"
+        }
+      ],
+      "manufacturer": "TIPPMANN",
+      "ean": "0669966997429",
+      "weight": "907184.74",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "price": "135.06",
+      "updated_at": 1460164060,
+      "mpn": "T230004",
+      "model": "T230004",
+      "gtins": [
+        "00669966997429"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Weaver",
+      "mpn": "48035",
+      "name": "Weaver Base Top Mount [Gloss Black, 35]",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "bobwards.com",
+          "url": "http://www.bobwards.com/WEAVER--Top-Mount-Aluminum-Base-35-48035-28987",
+          "latestoffers": [
+            {
+              "seller": "Bobwards",
+              "firstrecorded_at": 1388171400,
+              "currency": "USD",
+              "lastrecorded_at": 1430676100,
+              "id": "6SMHzYw5zs0I8yoycUY8ig",
+              "availability": "Available",
+              "price": "3.99",
+              "isactive": 0
+            }
+          ],
+          "sku": "28987"
+        },
+        {
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=402806",
+          "sku": "402806",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1420189200,
+              "seller": "Gandermountain",
+              "firstrecorded_at": 1388780000,
+              "price": "4.99",
+              "id": "4nMUg0vqSeo2MIsiqAo4o0",
+              "availability": "In Stock",
+              "isactive": 1
+            }
+          ],
+          "name": "gandermountain.com",
+          "listprice": "9.99",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "3.50",
+              "availability": "Available: 15 in stock",
+              "id": "43uAjy08FEckuk0sAsCA8q",
+              "lastrecorded_at": 1443172100,
+              "currency": "USD",
+              "firstrecorded_at": 1393320100,
+              "seller": "Green Top",
+              "isactive": 1
+            },
+            {
+              "price": "3.50",
+              "id": "6kvpmgxnxA2cYoCyUkUs0m",
+              "availability": "In Stock",
+              "lastrecorded_at": 1390339900,
+              "currency": "USD",
+              "seller": "Mountain Hideaway",
+              "firstrecorded_at": 1390339900,
+              "isactive": 0
+            }
+          ],
+          "sku": "weaver-aluminum-top-mount-base-35-48035",
+          "url": "http://www.greentophuntfish.com/weaver-aluminum-top-mount-base-35-48035.html",
+          "name": "greentophuntfish.com",
+          "listprice": "4.29",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD"
+        }
+      ],
+      "cat_id": "21280",
+      "updated_at": 1460169428,
+      "weight": "453.59",
+      "model": "48035",
+      "width": "0.06",
+      "length": "0.67",
+      "category": "Gun Scope Mounts",
+      "size": "35",
+      "features": {
+        "Shot Size": "N/A",
+        "Caliber": "N/A",
+        "Style": "N/A",
+        "Objective Lens MM": "N/A",
+        "Magnification": "N/A"
+      },
+      "color": "Gloss Black",
+      "upc": "076683480354",
+      "height": "1.78",
+      "ean": "0076683480354",
+      "price": "3.50",
+      "sem3_id": "0oRZbkORs6CkO6QYwQWwWg",
+      "created_at": 1347500034,
+      "brand": "Weaver",
+      "gtins": [
+        "00076683480354"
+      ],
+      "variation_secondaryids": [
+        "7SMXXIHQ24uUiao2SCA66a",
+        "3GiggMF0dyeA8Ok2yWYsQg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "453.59",
+      "manufacturer": "eMallGuide.com",
+      "upc": "076683485007",
+      "width": "6.35",
+      "height": "177.80",
+      "features": {
+        "Origin": "USA",
+        "Product Dimensions": "2.6 x 0.2 x 7 inches ; 0.2 ounces"
+      },
+      "mpn": "GS16048",
+      "price": "4.04",
+      "length": "66.80",
+      "brand": "Weaver",
+      "category": "Gun Scope Mounts",
+      "name": "Det Top Mount Base Blk Mtte 35M",
+      "created_at": 1347575220,
+      "updated_at": 1460165679,
+      "sitedetails": [
+        {
+          "name": "bobwards.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "3.99",
+              "firstrecorded_at": 1388171400,
+              "seller": "Bobwards",
+              "id": "7hJ7XFVIeWY468oIsIGKwc",
+              "availability": "Available",
+              "lastrecorded_at": 1430676800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.bobwards.com/WEAVER--Top-Mount-Aluminum-Base-35M-48500-29218",
+          "sku": "29218"
+        }
+      ],
+      "sem3_id": "4BXDTuK9Pk6ACUC4AA6o04",
+      "ean": "0076683485007",
+      "cat_id": "21280",
+      "gtins": [
+        "00076683485007"
+      ],
+      "variation_secondaryids": [
+        "33FVXQZ5pA26y6Ky2k6AmM",
+        "1hKuAeqb5cWKq6EkCISyUq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

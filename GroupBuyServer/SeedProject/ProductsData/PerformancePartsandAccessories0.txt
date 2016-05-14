@@ -1,0 +1,390 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "name": "Flex-a-lite 4190 Remote 6-Pass Transmission Oil Cooler - 16,000 GVW",
+      "height": "304.80",
+      "updated_at": 1460183884,
+      "mpn": "4190",
+      "upc": "088657041904",
+      "width": "79.50",
+      "features": {
+        "Item Weight": "2 pounds",
+        "Product Dimensions": "7.5 x 3.1 x 12 inches",
+        "OEM Part Number": "4190"
+      },
+      "model": "4190",
+      "brand": "Flex a lite",
+      "weight": "2267961.85",
+      "manufacturer": "Flex-a-lite",
+      "sem3_id": "6Ru6WXi1hYCm4EMCAAYMWQ",
+      "created_at": 1348682179,
+      "length": "190.50",
+      "price": "156.99",
+      "ean": "0088657041904",
+      "cat_id": "2879",
+      "sitedetails": [],
+      "category": "Coolers & Accessories",
+      "gtins": [
+        "00088657041904"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "13730",
+      "color": "Black",
+      "sitedetails": [],
+      "category": "Coolers & Accessories",
+      "updated_at": 1458967175,
+      "sem3_id": "6PB7xoTw000IuyimKeI2CK",
+      "name": "Derale 13730 Econo-Cool Remote Cooler",
+      "model": "13730",
+      "price": "111.99",
+      "upc": "083277137303",
+      "brand": "Derale",
+      "manufacturer": "Derale",
+      "created_at": 1347712802,
+      "ean": "0083277137303",
+      "features": {
+        "Product Dimensions": "11.8 x 16.8 x 5.4 inches",
+        "OEM Part Number": "13730",
+        "Item Weight": "4.5 pounds"
+      },
+      "cat_id": "2879",
+      "gtins": [
+        "00083277137303"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "2267961.85",
+      "sitedetails": [],
+      "upc": "849774010989",
+      "model": "50481",
+      "manufacturer": "Rigid Industries",
+      "height": "219.20",
+      "cat_id": "16958",
+      "name": "Rigid Industries 50481 D-Series SAE Fog Light Set",
+      "updated_at": 1455553698,
+      "sem3_id": "14kNLgOHQuGca2iqqqGAY8",
+      "features": {
+        "OEM Part Number": "50481",
+        "Item Weight": "5 pounds",
+        "Product Dimensions": "6.2 x 6.1 x 8.6 inches"
+      },
+      "length": "158.75",
+      "color": "Black",
+      "category": "Performance Parts & Accessories",
+      "brand": "Rigid Industries",
+      "ean": "0849774010989",
+      "price": "212.00",
+      "width": "155.70",
+      "mpn": "50481",
+      "created_at": 1435420487,
+      "gtins": [
+        "00849774010989"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "083277130069",
+      "sem3_id": "72SUFwBAjQGKqu4gSk8A8g",
+      "brand": "Derale",
+      "updated_at": 1459151782,
+      "model": "13006",
+      "manufacturer": "Derale",
+      "ean": "0083277130069",
+      "features": {
+        "Product Dimensions": "7.9 x 8.5 x 2.1 inches",
+        "OEM Part Number": "13006",
+        "Item Weight": "1.2 pounds"
+      },
+      "color": "Black",
+      "sitedetails": [],
+      "weight": "566990.46",
+      "created_at": 1347489076,
+      "category": "Coolers & Accessories",
+      "name": "Derale 13006 Transmission Cooler Install Kit",
+      "mpn": "13006",
+      "price": "17.37",
+      "cat_id": "2879",
+      "gtins": [
+        "00083277130069"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "140312",
+      "height": "177.80",
+      "weight": "453592.37",
+      "cat_id": "16958",
+      "length": "1117.60",
+      "price": "964.26",
+      "created_at": 1436844182,
+      "category": "Performance Parts & Accessories",
+      "mpn": "140312",
+      "manufacturer": "Rigid Industries",
+      "features": {
+        "OEM Part Number": "140312",
+        "Item Weight": "12 pounds",
+        "Product Dimensions": "44 x 7 x 7 inches"
+      },
+      "color": "Black",
+      "ean": "0849774003165",
+      "size": "40 Inch",
+      "sitedetails": [],
+      "sem3_id": "0CJqzxmrFHkgQ0U4qIww40",
+      "updated_at": 1459109785,
+      "brand": "Rigid Industries",
+      "upc": "849774003165",
+      "name": "Rigid Industries 140312 E-Series 40\" LED Spot/Flood Combo Light Bar [40 Inch]",
+      "width": "177.80",
+      "gtins": [
+        "00849774003165"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "120312",
+      "width": "177.80",
+      "manufacturer": "Rigid Industries",
+      "created_at": 1435183793,
+      "sem3_id": "71uUBzRHtYS8EQ0SkUE4mu",
+      "upc": "849774003080",
+      "size": "20 Inch",
+      "mpn": "120312",
+      "weight": "9071847.40",
+      "updated_at": 1459098606,
+      "sitedetails": [],
+      "category": "Performance Parts & Accessories",
+      "features": {
+        "Product Dimensions": "24 x 7 x 7 inches",
+        "Wattage": "110 watts",
+        "Item Weight": "9 pounds",
+        "OEM Part Number": "120312"
+      },
+      "price": "514.95",
+      "color": "Black",
+      "cat_id": "16958",
+      "length": "609.60",
+      "ean": "0849774003080",
+      "brand": "Rigid Industries",
+      "height": "177.80",
+      "name": "Rigid Industries 120312 E-Series 20\" LED Spot/Flood Combo Light Bar",
+      "gtins": [
+        "00849774003080"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "created_at": 1347663933,
+      "ean": "0083277139505",
+      "brand": "Derale",
+      "manufacturer": "Derale",
+      "updated_at": 1459117005,
+      "model": "13950",
+      "features": {
+        "Product Dimensions": "12 x 17.5 x 6.6 inches",
+        "OEM Part Number": "13950",
+        "Item Weight": "8.1 pounds"
+      },
+      "cat_id": "2879",
+      "category": "Coolers & Accessories",
+      "upc": "083277139505",
+      "mpn": "13950",
+      "color": "Black",
+      "price": "189.95",
+      "sem3_id": "6DYUZkmIcqYUMaKYoSwAiC",
+      "name": "Derale 13950 Atomic-Cool Remote Cooler",
+      "gtins": [
+        "00083277139505"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "features": {
+        "Item Weight": "9.5 pounds",
+        "OEM Part Number": "15950",
+        "Product Dimensions": "12 x 17.5 x 6.6 inches"
+      },
+      "created_at": 1347737945,
+      "upc": "083277159503",
+      "brand": "Derale",
+      "manufacturer": "Derale",
+      "ean": "0083277159503",
+      "updated_at": 1460898615,
+      "model": "15950",
+      "cat_id": "2879",
+      "category": "Coolers & Accessories",
+      "name": "Derale 15950 Atomic-Cool Remote Cooler",
+      "color": "Black",
+      "sem3_id": "6p0pCcGc6q6wAIIEWI0IIy",
+      "mpn": "15950",
+      "price": "175.97",
+      "gtins": [
+        "00083277159503"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "6e1TOmE66a0sqmScA68M0q",
+      "mpn": "21006ERL",
+      "name": "Earl's 21006ERL 10 Row Oil Cooler -6 AN",
+      "ean": "0021432251044",
+      "brand": "Earl's",
+      "updated_at": 1459135597,
+      "model": "21006ERL",
+      "category": "Coolers & Accessories",
+      "manufacturer": "Earls",
+      "sitedetails": [],
+      "created_at": 1347736208,
+      "upc": "021432251044",
+      "cat_id": "2879",
+      "features": {
+        "Product Dimensions": "10 x 6 x 4 inches",
+        "Discontinued by manufacturer": "Yes",
+        "Item Weight": "1.3 pounds"
+      },
+      "gtins": [
+        "00021432251044"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Flex-A-Lite",
+      "mpn": "45221",
+      "cat_id": "2879",
+      "price": "91.52",
+      "model": "45221",
+      "name": "Flex-a-lite 45221 4-Pass Heavy Duty Oil Cooler - 22,000 GVW",
+      "category": "Coolers & Accessories",
+      "upc": "088657452212",
+      "sitedetails": [
+        {
+          "url": "http://www.autopartswarehouse.com/sku/Flexalite/Oil_Cooler/F2145221.html",
+          "name": "autopartswarehouse.com",
+          "sku": "F2145221",
+          "listprice": "107.99",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "price": "91.52",
+              "firstrecorded_at": 1443225000,
+              "id": "4aPIiGP0mGM8igW8oC4Ee8",
+              "currency": "USD",
+              "seller": "autopartswarehouse.com",
+              "lastrecorded_at": 1448827800,
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "price": "81.73",
+              "firstrecorded_at": 1426914200,
+              "id": "05rSQxifjE0QuOyuA4uCee",
+              "currency": "USD",
+              "seller": "autopartswarehouse.com",
+              "lastrecorded_at": 1427997500,
+              "availability": "In Stock.",
+              "isactive": 0
+            },
+            {
+              "id": "6bwn9riwbYGccCG4owmeEk",
+              "firstrecorded_at": 1377854000,
+              "price": "101.38",
+              "currency": "USD",
+              "availability": "In Stock. Ships out in 2-3 business days.",
+              "seller": "autopartswarehouse.com",
+              "lastrecorded_at": 1388694500,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "width": "38.10",
+      "weight": "2267961.85",
+      "sem3_id": "4rteUJLD4qAewkeagGq8QQ",
+      "updated_at": 1460786991,
+      "ean": "0088657452212",
+      "length": "177.80",
+      "brand": "Flex a lite",
+      "features": {
+        "Anticipated Ship Out Time": "5-6 business days",
+        "Series": "Flexalite Heavy Duty Oil",
+        "Overall Dimensions": "7 x 18 x 1.5 in.",
+        "Notes": "Heavy Duty 7 X 15 X 1 1/2 in. Oil Cooler with 1/2 in. NPT Fittings",
+        "Quantity Sold": "Sold Individually",
+        "Construction": "Tube and fin",
+        "Material": "Copper and aluminum",
+        "Inlet Attachment Style": "NPT Fitting",
+        "Product Fit": "Direct Fit",
+        "Note": "Heavy Duty 7 X 15 X 1 1/2 in. Oil Cooler with 1/2 in. NPT Fittings",
+        "Outlet Size": "1/2 in. Female NPT",
+        "Outlet Attachment Style": "NPT Fitting",
+        "Inlet Size": "1/2 in. Female NPT",
+        "Recommended Use": "Performance"
+      },
+      "height": "457.20",
+      "created_at": 1347488835,
+      "gtins": [
+        "00088657452212"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

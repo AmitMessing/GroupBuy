@@ -1,0 +1,385 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "J1150ARM L CH",
+      "cat_id": "20298",
+      "brand": "Nathan Direct",
+      "category": "Jewelry Armoires",
+      "sitedetails": [],
+      "weight": "38555351.45",
+      "upc": "816302010650",
+      "features": {
+        "Product Dimensions": "45 x 23 x 17 inches ; 88 pounds"
+      },
+      "height": "1016.00",
+      "width": "482.60",
+      "color": "multicolor",
+      "created_at": 1357409146,
+      "length": "330.20",
+      "ean": "0816302010650",
+      "sem3_id": "3fpfUIHH56mM6Kw2i2CCkq",
+      "price": "385.99",
+      "name": "Marquis 8 Drawer Locking Jewelry Armoire Cherry [Cherry]",
+      "mpn": "J1150ARM-L-CH",
+      "manufacturer": "Nathan's Direct",
+      "updated_at": 1458953463,
+      "gtins": [
+        "00816302010650"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347731565,
+      "category": "Necklaces & Pendants",
+      "upc": "833975003918",
+      "height": "17.78",
+      "model": "TB82413",
+      "price": "13.98",
+      "color": "Black",
+      "size": "22 inches",
+      "variation_id": "4IYpggLPmC84Iw20WA4Aqg",
+      "updated_at": 1459012918,
+      "ean": "0833975003918",
+      "length": "142.24",
+      "sem3_id": "3iJ3DF3heCyQ6SumgciYOk",
+      "manufacturer": "Phiten",
+      "brand": "Phiten",
+      "width": "68.58",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "recentoffers_count": 1,
+          "listprice": "29.99",
+          "latestoffers": [
+            {
+              "price": "13.98",
+              "id": "2dZ8veaOXyuqEYU40mWWk8",
+              "firstrecorded_at": 1389339700,
+              "lastrecorded_at": 1448921000,
+              "seller": "Hockeymonkey",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.hockeymonkey.com/hockey-phiten-titanium-necklace.html",
+          "sku": "hockey-phiten-titanium-necklace_22in_Black",
+          "name": "hockeymonkey.com"
+        }
+      ],
+      "weight": "22679.62",
+      "features": {
+        "Origin": "Japan",
+        "Product Dimensions": "5.6 x 2.7 x 0.7 inches ; 0.8 ounces"
+      },
+      "name": "Phiten, Titanium Star Necklace, Black, 22-Inches [Black, 22 inches]",
+      "cat_id": "24526",
+      "mpn": "TB82413",
+      "gtins": [
+        "00833975003918"
+      ],
+      "variation_secondaryids": [
+        "4xtyNLaXZAiUyGQ8eACEKYx3"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "1.84",
+      "mpn": "A13EB14ZS",
+      "width": "0.41",
+      "weight": "22679.62",
+      "updated_at": 1459056706,
+      "cat_id": "1847",
+      "category": "Bangle",
+      "sem3_id": "2bEx09xQfEqA4GwC4YSo8w",
+      "brand": "Alex and Ani",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "Origin": "Made in USA or Imported",
+        "California residents": "Click here for Proposition 65 warning"
+      },
+      "price": "22.90",
+      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Silver Finish, Z]",
+      "sitedetails": [],
+      "manufacturer": "Alex and Ani",
+      "ean": "0886787073822",
+      "upc": "886787073822",
+      "color": "Russian Silver",
+      "model": "A13EB14ZS",
+      "size": "X",
+      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
+      "created_at": 1381632408,
+      "gtins": [
+        "00886787073822"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459051022,
+      "width": "0.41",
+      "length": "1.84",
+      "brand": "Alex and Ani",
+      "category": "Bangle",
+      "features": {
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "California residents": "Click here for Proposition 65 warning",
+        "Origin": "Made in USA or Imported",
+        "International Shipping": "This item is not eligible for international shipping. Learn More"
+      },
+      "weight": "22679.62",
+      "created_at": 1381632408,
+      "price": "27.57",
+      "upc": "886787073556",
+      "sem3_id": "0XJt6wRPeoS8imc0m44UMW",
+      "manufacturer": "Alex and Ani",
+      "cat_id": "1847",
+      "size": "X",
+      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Gold Finish, M]",
+      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
+      "ean": "0886787073556",
+      "model": "A13EB14MG",
+      "color": "Russian Gold",
+      "sitedetails": [],
+      "mpn": "A13EB14MG",
+      "gtins": [
+        "00886787073556"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "manufacturer": "Alex and Ani",
+      "length": "1.84",
+      "upc": "886787073600",
+      "cat_id": "1847",
+      "brand": "Alex and Ani",
+      "price": "23.00",
+      "model": "A13EB14OS",
+      "sem3_id": "4kjfVkmIDAg26WsoAkckag",
+      "updated_at": 1459052182,
+      "weight": "8504.86",
+      "created_at": 1381632408,
+      "mpn": "A13EB14OS",
+      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
+      "category": "Bangle",
+      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Silver Finish, O]",
+      "ean": "0886787073600",
+      "features": {
+        "Origin": "Made in USA or Imported",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "California residents": "Click here for Proposition 65 warning"
+      },
+      "color": "Russian Silver",
+      "size": "X",
+      "width": "0.41",
+      "gtins": [
+        "00886787073600"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "635MR",
+      "manufacturer": "Reed & Barton",
+      "name": "Man Of The Year Mahogany Jewelry Chest with Dior Red Lining",
+      "mpn": "635MR",
+      "color": "multicolor",
+      "brand": "Reed Barton",
+      "sitedetails": [],
+      "created_at": 1347644737,
+      "ean": "0730295635211",
+      "sem3_id": "2ZxoB2GrBAC2sik8uaGakY",
+      "upc": "730295635211",
+      "updated_at": 1459050160,
+      "cat_id": "7505",
+      "length": "346.20",
+      "weight": "1814369.48",
+      "width": "257.30",
+      "category": "Jewelry Boxes",
+      "price": "64.95",
+      "height": "120.65",
+      "gtins": [
+        "00730295635211"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "4QT3igA1qaSU4yMgAKMESm",
+      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
+      "updated_at": 1459050598,
+      "model": "A13EB14DS",
+      "cat_id": "1847",
+      "sitedetails": [],
+      "mpn": "A13EB14DS",
+      "manufacturer": "Alex and Ani",
+      "price": "28.00",
+      "color": "Russian Silver",
+      "upc": "886787073389",
+      "size": "X",
+      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Silver Finish, D]",
+      "brand": "Alex and Ani",
+      "length": "1.84",
+      "weight": "22679.62",
+      "created_at": 1381632408,
+      "ean": "0886787073389",
+      "width": "0.41",
+      "features": {
+        "California residents": "Click here for Proposition 65 warning",
+        "Origin": "Made in USA or Imported",
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S."
+      },
+      "category": "Bangle",
+      "gtins": [
+        "00886787073389"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "10341906.04",
+      "brand": "Plaza Astoria",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "4.2 x 14 x 48 inches",
+        "Origin": "USA"
+      },
+      "width": "3.56",
+      "upc": "731050004570",
+      "cat_id": "20298",
+      "name": "Plaza Astoria Wall/Door-Mount Jewelry Armoire, Cherry [One Size]",
+      "created_at": 1365754091,
+      "sitedetails": [],
+      "price": "102.99",
+      "ean": "0731050004570",
+      "model": "JA1448 BLK,JA1448 CH,JA1448 OAK,JA1448",
+      "color": "Cherry",
+      "manufacturer": "Plaza Astoria",
+      "sem3_id": "56veslRXPkeMqekmMyQa0S",
+      "category": "Jewelry Armoires",
+      "updated_at": 1459012267,
+      "mpn": "JA1448CH",
+      "height": "12.19",
+      "gtins": [
+        "00731050004570"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Mele and Company",
+      "width": "127.00",
+      "model": "00810S11M",
+      "sitedetails": [],
+      "category": "Jewelry Boxes",
+      "created_at": 1357752519,
+      "features": {
+        "Product Dimensions": "7 x 5 x 3.1 inches ; 1 pounds"
+      },
+      "manufacturer": "Mele and Company",
+      "color": "Pink",
+      "height": "79.50",
+      "size": "Medium",
+      "price": "25.25",
+      "updated_at": 1459012253,
+      "weight": "453592.37",
+      "cat_id": "7505",
+      "name": "Mele Kelsey Glitter-Fly Musical Dancing Ballerina Jewelry Box - 7W x 3H in. [Pink, Medium]",
+      "ean": "0739175882295",
+      "upc": "739175882295",
+      "sem3_id": "0PjINCVfCfu0cYmyIUgE0i",
+      "mpn": "00810S11M",
+      "length": "177.80",
+      "gtins": [
+        "00739175882295"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "1uoqr1Yh7gEWUOa2AOUWeG",
+      "length": "1.97",
+      "variation_id": "64n9lUBJ0Cw0GQsQagiiUo",
+      "brand": "Alex and Ani",
+      "category": "Bangle",
+      "sitedetails": [],
+      "manufacturer": "Alex and Ani",
+      "model": "A12EB48RS",
+      "upc": "886787063267",
+      "updated_at": 1459021462,
+      "mpn": "A12EB48RS",
+      "cat_id": "1847",
+      "ean": "0886787063267",
+      "color": "Russian-Silver",
+      "features": {
+        "Metal": "Brass",
+        "Diameter": "2.75 inches",
+        "Product Dimensions": "5.2 x 3.6 x 0.4 inches; 0.8 ounces",
+        "Chain": "No chain",
+        "Origin": "USA",
+        "Package": "Oversized Medium box",
+        "Brand, Seller, or Collection Name": "Alex and Ani",
+        "Clasp": "No clasp"
+      },
+      "created_at": 1364128789,
+      "name": "Alex and Ani Because I Love You Expandable Wire Bangle Bracelet, 7.75\" [Rafaelian Silver Finish, Sister]",
+      "price": "28.00",
+      "weight": "22679.62",
+      "gtins": [
+        "00886787063267"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

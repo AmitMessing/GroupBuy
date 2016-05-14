@@ -1,0 +1,421 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "name": "TaylorMade Burner Super Fast 2.0 Golf Driver",
+      "sem3_id": "27eNnmp5cuGk8cEAMuyiA4",
+      "sitedetails": [],
+      "variation_id": "4Gvqu4WhkGu2MMsMwowOUG",
+      "category": "Drivers",
+      "price": "154.99",
+      "ean": "0885583159723",
+      "weight": "907184.74",
+      "brand": "TaylorMade",
+      "model": "N10532 P",
+      "upc": "885583159723",
+      "updated_at": 1441987382,
+      "features": {
+        "Item Weight": "2 pounds"
+      },
+      "cat_id": "16174",
+      "created_at": 1347709685,
+      "manufacturer": "Taylor Made Golf",
+      "gtins": [
+        "00885583159723"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1455632229,
+      "ean": "0888167131863",
+      "height": "25.40",
+      "features": {
+        "Product Dimensions": "1 x 1 x 1 inches ; 8 pounds"
+      },
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "price": "524.99",
+              "lastrecorded_at": 1455632200,
+              "currency": "USD",
+              "id": "2yIF1CRK3sC4CkAMqOyacW",
+              "availability": "Backorder",
+              "seller": "A Worldwide Golf Company",
+              "firstrecorded_at": 1455632200,
+              "isactive": 1
+            },
+            {
+              "availability": "Backorder",
+              "seller": "A Worldwide Golf Company",
+              "firstrecorded_at": 1449674900,
+              "price": "699.99",
+              "currency": "USD",
+              "id": "0wFr50CXu2iUKqacACW0sK",
+              "lastrecorded_at": 1449859900,
+              "isactive": 0
+            }
+          ],
+          "listprice": "699.99",
+          "recentoffers_count": 1,
+          "sku": "worldwidegolfshops_10115054_942136",
+          "url": "http://www.worldwidegolfshops.com/10115054/Product",
+          "name": "worldwidegolfshops.com"
+        }
+      ],
+      "length": "25.40",
+      "created_at": 1428590972,
+      "brand": "TaylorMade",
+      "width": "25.40",
+      "sem3_id": "4YSJIgTUQa2CuqcYEUICmS",
+      "price": "524.99",
+      "category": "Irons",
+      "upc": "888167131863",
+      "mpn": "N1461209",
+      "model": "N1461209",
+      "variation_id": "1pKTuKgQtcWOwoimeCceiU",
+      "manufacturer": "Taylormade-Adidas Golf Company",
+      "name": "TaylorMade Men's RSi1 Iron Set [4-PW, Stiff, Right, Steel]",
+      "cat_id": "20619",
+      "weight": "453592.37",
+      "gtins": [
+        "00888167131863"
+      ],
+      "variation_secondaryids": [
+        "3SEjIwsXM8SWs6isksYWsKOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "1219.20",
+      "brand": "Cobra",
+      "name": "Cobra Men's Fly Z Driver [White, Senior, Left, Graphite]",
+      "upc": "847111067214",
+      "length": "127.00",
+      "price": "199.99",
+      "variation_id": "62D9QpNCc4qc4KsUIYOAWC",
+      "updated_at": 1455442981,
+      "manufacturer": "Cobra-Puma Golf",
+      "width": "127.00",
+      "cat_id": "16174",
+      "category": "Drivers",
+      "created_at": 1432020263,
+      "weight": "27215.54",
+      "features": {
+        "Product Dimensions": "1 x 1 x 1 inches ; 1 pounds"
+      },
+      "model": "FLY-Z WHT DRV GPH LITE #1 LH",
+      "sem3_id": "2LNyi2h1S8uU8cgMuQoSy8",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "199.99",
+              "id": "2LYliA6AuWGKY0wqwuEig2",
+              "seller": "A Worldwide Golf Company",
+              "firstrecorded_at": 1449675500,
+              "currency": "USD",
+              "lastrecorded_at": 1449849000,
+              "availability": "Backorder",
+              "isactive": 1
+            }
+          ],
+          "name": "worldwidegolfshops.com",
+          "sku": "worldwidegolfshops_10114795_940576",
+          "listprice_currency": "USD",
+          "listprice": "329.99",
+          "url": "http://www.worldwidegolfshops.com/10114795/Product"
+        }
+      ],
+      "ean": "0847111067214",
+      "color": "White",
+      "mpn": "FLY-Z WHT DRV GPH LITE _1 LH",
+      "gtins": [
+        "00847111067214"
+      ],
+      "variation_secondaryids": [
+        "2z55VNKTZIQK2aUKCEum0OOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "1\", .580, 65g",
+      "upc": "726381305632",
+      "features": {
+        "Item Weight": "3.2 ounces",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "ean": "0726381305632",
+      "sem3_id": "7DqiiTxtuCkKagAUuW2iaG",
+      "brand": "SuperStroke",
+      "name": "Super Stroke Ultra Slim 1.0 Golf Club Grip [Blue, 65gm]",
+      "color": "Blue",
+      "model": "Ultra Slim",
+      "mpn": "TS033P",
+      "cat_id": "8387",
+      "updated_at": 1459012723,
+      "category": "Grips",
+      "weight": "136077.71",
+      "sitedetails": [],
+      "variation_id": "6N6Jfrg6K0eGMGq2UGKwsi",
+      "created_at": 1374779440,
+      "price": "14.99",
+      "manufacturer": "Super Stroke",
+      "gtins": [
+        "00726381305632"
+      ],
+      "variation_secondaryids": [
+        "6zfkJ7Z3L62GSA6osoQa8w"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Cleveland Golf Black Iron Set (4-PW)",
+      "brand": "Cleveland",
+      "sem3_id": "7mGhxsp3ceecW66GyEagCA",
+      "weight": "54431.08",
+      "cat_id": "20619",
+      "ean": "3109883904584",
+      "category": "Irons",
+      "mpn": "CG_Black_I",
+      "model": "35387",
+      "manufacturer": "Cleveland",
+      "updated_at": 1459063948,
+      "price": "899.99",
+      "sitedetails": [],
+      "variation_id": "4wPEv9yw1ICWicwYccEiq8",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "created_at": 1347781498,
+      "gtins": [
+        "03109883904584"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "127.00",
+      "size": "in stock",
+      "name": "TaylorMade Men's Rocketbladez Tour Individual Iron [3, Stiff, Right, Steel]",
+      "category": "Irons",
+      "model": "N1382609",
+      "features": {
+        "Product Dimensions": "5 x 5 x 43 inches ; 14.4 ounces",
+        "Origin": "China"
+      },
+      "cat_id": "20619",
+      "upc": "885583589872",
+      "ean": "0885583589872",
+      "price": "59.97",
+      "manufacturer": "TaylorMade",
+      "width": "127.00",
+      "updated_at": 1459004040,
+      "variation_id": "7VNKLNVu6aSiwkQYwCaoE2",
+      "sem3_id": "4bK7984CtsgGA4KeAImy6K",
+      "mpn": "01TM3008 AW ST S",
+      "sitedetails": [],
+      "weight": "1814369.48",
+      "color": "wedges",
+      "created_at": 1374729620,
+      "brand": "TaylorMade",
+      "height": "1092.20",
+      "gtins": [
+        "00885583589872"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0847111011934",
+      "sitedetails": [],
+      "height": "25.40",
+      "weight": "453592.37",
+      "category": "Drivers",
+      "cat_id": "16174",
+      "created_at": 1347767572,
+      "length": "25.40",
+      "brand": "Cobra",
+      "upc": "847111011934",
+      "name": "Cobra Amp Offset Driver (Men's Right-Handed, 10.5 Degree Loft, Aldila RIP Speed Tuned Graphite Shaft, Regular Flex)",
+      "sem3_id": "6k3jTKZbEmceYEMkyeuOoS",
+      "model": "AMP O/S DRV GPH REG 10.5 RH",
+      "manufacturer": "Cobra",
+      "variation_id": "7MjJUy9IdkEwceeUe66CaS",
+      "features": {
+        "Product Dimensions": "1 x 1 x 1 inches ; 1 pounds",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "updated_at": 1458992168,
+      "width": "25.40",
+      "mpn": "AMP_Offset_D",
+      "gtins": [
+        "00847111011934"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Callaway Men's XR Driver [Stiff, 9 Degrees, Left, Graphite]",
+      "model": "WD LH XR 9.0 GR STF",
+      "height": "1219.20",
+      "ean": "0884885672060",
+      "length": "127.00",
+      "mpn": "WD LH XR 9.0 GR STF",
+      "created_at": 1428569655,
+      "weight": "680388.55",
+      "upc": "884885672060",
+      "manufacturer": "Callaway Golf",
+      "category": "Drivers",
+      "cat_id": "16174",
+      "features": {
+        "Item Weight": "2 pounds"
+      },
+      "updated_at": 1458957641,
+      "sem3_id": "7X3NAEEiNygYQeKuaaAiEs",
+      "variation_id": "35zEgUwiw4OuEumcsiAkoc",
+      "brand": "Callaway",
+      "price": "249.99",
+      "sitedetails": [
+        {
+          "url": "http://www.worldwidegolfshops.com/10118236/Product",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "seller": "A Worldwide Golf Company",
+              "lastrecorded_at": 1455631600,
+              "firstrecorded_at": 1455631600,
+              "id": "1fdTMBsZEOGcUSUYgQuYac",
+              "price": "249.99",
+              "isactive": 1
+            }
+          ],
+          "listprice": "349.99",
+          "listprice_currency": "USD",
+          "name": "worldwidegolfshops.com",
+          "sku": "worldwidegolfshops_10118236_960569",
+          "recentoffers_count": 1
+        }
+      ],
+      "width": "127.00",
+      "gtins": [
+        "00884885672060"
+      ],
+      "variation_secondaryids": [
+        "7F4rVowIGOU8iYyGUae4MaOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459014572,
+      "category": "Gloves",
+      "cat_id": "8687",
+      "mpn": "BIO019",
+      "created_at": 1347561073,
+      "variation_id": "7mMB2nflGCUIqIgqeGSsuQ",
+      "manufacturer": "Bionic",
+      "price": "23.51",
+      "weight": "453592.37",
+      "sitedetails": [],
+      "ean": "0044277797065",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "upc": "044277797065",
+      "sem3_id": "0XFatS1h0dMcAcG2iu8icu",
+      "size": "Medium",
+      "name": "Bionic Women's Classic Breast Cancer Awareness Pink Golf Glove [Worn On Left Hand, Medium]",
+      "brand": "Bionic",
+      "model": "PKGGWLM",
+      "color": "Breast Cancer Pink",
+      "gtins": [
+        "00044277797065"
+      ],
+      "variation_secondaryids": [
+        "74AIEvvJQW4KWKggMQ4I6Q",
+        "6pgXuVFolEUA04UQ0MocUU"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Superstroke Mid Slim 2.0 Putter Grips",
+      "mpn": "60TK012 BLK",
+      "sem3_id": "5Pvp1P9Mlkai82UYKKwwAC",
+      "price": "18.98",
+      "height": "203.20",
+      "brand": "SuperStroke",
+      "color": "Black",
+      "length": "127.00",
+      "category": "Grips",
+      "created_at": 1364233891,
+      "cat_id": "8387",
+      "weight": "181436.95",
+      "updated_at": 1459019055,
+      "features": {
+        "Item Weight": "6.4 ounces",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [],
+      "width": "101.60",
+      "manufacturer": "SuperStroke",
+      "variation_secondaryids": [
+        "1JkslU9dKEoEw8gouyiiEE",
+        "3hMb75rVnc8UgGQe00Y0UM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

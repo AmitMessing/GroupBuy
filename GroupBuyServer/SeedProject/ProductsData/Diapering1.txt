@@ -1,0 +1,461 @@
+{
+  "total_results_count": 62716,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "features": {
+        "Battery Type": "Does Not Contain a Battery",
+        "Assembled in Country of Origin": "USA",
+        "Origin of Components": "USA",
+        "Shipping Weight (in pounds)": "5.5",
+        "Product in Inches (L x W x H)": "10.0 x 9.75 x 9.313"
+      },
+      "upc": "036000406887",
+      "category": "Disposable Diapers",
+      "weight": "2417647.33",
+      "height": "247.65",
+      "mpn": "40688",
+      "created_at": 1417828838,
+      "sem3_id": "2qxX6oCTyqUIOeEcQiIK0q",
+      "updated_at": 1462256493,
+      "manufacturer": "Huggies",
+      "width": "254.00",
+      "name": "Huggies Overnites Diapers, Size 5, 50 Count []",
+      "ean": "0036000406887",
+      "price": "18.93",
+      "sitedetails": [
+        {
+          "sku": "36474046",
+          "url": "http://www.walmart.com/ip/36474046",
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1432691800,
+              "lastrecorded_at": 1460311200,
+              "id": "5YzQreTLn6IsGKW48AEmGw",
+              "seller": "Walmart",
+              "currency": "USD",
+              "availability": "Available",
+              "price": "19.77",
+              "isactive": 0
+            },
+            {
+              "price": "18.66",
+              "id": "0Yj3YoJ8vGCcmmKUooEE4s",
+              "seller": "Walmart",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1429749300,
+              "firstrecorded_at": 1427054800,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "size": "5",
+      "brand": "Huggies",
+      "length": "236.47",
+      "cat_id": "16876",
+      "gtins": [
+        "00036000406887"
+      ],
+      "variation_secondaryids": [
+        "17vXO1mmiMS2kwEkuG0AMW",
+        "2ROfTuFgNU0yMIokGyiICw",
+        "1psIWaJvBcqky2OcIwEaAi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0817634011438",
+      "weight": "1133980.93",
+      "category": "Diaper Bags",
+      "sem3_id": "0OdlFAavuQSAiqKe8mM2Gi",
+      "brand": "Petunia Pickle Bottom",
+      "color": "Earl Grey",
+      "updated_at": 1460478073,
+      "model": "BBCH-00-326",
+      "sitedetails": [],
+      "width": "124.97",
+      "cat_id": "3192",
+      "mpn": "BBCH-00-326",
+      "manufacturer": "Petunia Pickle Bottom",
+      "upc": "817634011438",
+      "department": "Baby",
+      "price": "189.00",
+      "height": "329.95",
+      "created_at": 1357155808,
+      "features": {
+        "Maximum weight recommendation": "96 Pounds",
+        "Material Type": "fabric",
+        "Target gender": "Unisex",
+        "Item Weight": "2.9 pounds",
+        "Product Dimensions": "13 x 4.9 x 13 inches",
+        "Minimum weight recommendation": "16 Ounces",
+        "Origin": "USA"
+      },
+      "length": "329.95",
+      "name": "Petunia Pickle Bottom Earl Grey Boxy Backpack []",
+      "gtins": [
+        "00817634011438"
+      ],
+      "variation_secondaryids": [
+        "0YNJX6mtGwgM2I2Q0sICUo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "279.40",
+      "department": "baby-boys",
+      "model": "30080",
+      "features": {
+        "Material Type": "Phthalate Free, Latex Free, Lead Free, BPA Free",
+        "Maximum weight recommendation": "50 Pounds",
+        "material.composition": "The main fabric is made of 100% polyester and the trim is made of 100% cotton. The filling is made of 100% expandable polyethylene.",
+        "Target gender": "Unisex",
+        "Minimum weight recommendation": "12 Pounds",
+        "Origin": "China",
+        "Item Weight": "3 pounds",
+        "Care instructions": "Spot clean only with damp cloth. Do NOT bleach, do NOT dry clean.",
+        "Number of items": "1",
+        "Best uses": "Nursery Decor"
+      },
+      "height": "76.20",
+      "sem3_id": "252XOSLkDsM22WqSCIaugy",
+      "price": "28.49",
+      "mpn": "30080",
+      "category": "Diaper Bags",
+      "brand": "Trend Lab",
+      "created_at": 1347557845,
+      "updated_at": 1460396305,
+      "weight": "263083.57",
+      "manufacturer": "Trend Lab",
+      "length": "381.00",
+      "ean": "0846216013744",
+      "cat_id": "3192",
+      "color": "ABC",
+      "name": "Trend Lab Dr Seuss Storage Caddy, ABC [ABC]",
+      "upc": "846216013744",
+      "sitedetails": [],
+      "gtins": [
+        "00846216013744"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "453592.37",
+      "features": {
+        "Style": "Stripe",
+        "Item Weight": "3 pounds",
+        "Number of items": "1",
+        "Target gender": "Unisex",
+        "Origin": "China",
+        "Product Dimensions": "6 x 14 x 11 inches"
+      },
+      "brand": "Kalencom",
+      "created_at": 1347462256,
+      "manufacturer": "Kalencom",
+      "height": "279.40",
+      "color": "Monkey Stripes Pink",
+      "name": "Kalencom Laminated Buckle Bag, Monkey Stripes Pink []",
+      "mpn": "KC0001-19",
+      "updated_at": 1460796991,
+      "department": "unisex-adult",
+      "ean": "0088161232362",
+      "category": "Diaper Bags",
+      "sitedetails": [],
+      "length": "152.40",
+      "price": "43.22",
+      "variation_id": "2vAF1xdzn6UcsK8aW88eUu",
+      "width": "355.60",
+      "upc": "088161232362",
+      "sem3_id": "3G2kFF3xkuw6YaYuWECccQ",
+      "cat_id": "3192",
+      "model": "2960LMMONSTRPNK",
+      "gtins": [
+        "00088161232362"
+      ],
+      "variation_secondaryids": [
+        "1goILO9C7c2SE8EWsmuAuI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Wipes & Refills",
+      "cat_id": "6747",
+      "weight": "68038.86",
+      "upc": "782126200112",
+      "name": "Natrcare Llc 0112 Organic Baby Wipes (Pack of 3)",
+      "features": {
+        "Ingredients": "Aqua (Rape Seed Oil), Glycerin, Lauryl Glucoside, Polyglyceryl-2-Dipolyhydroxystearate, Prunus Armeniaca (Organic Apricot Oil), Levulinic Acid, Parfum, Sodium Levulinate, Terpineol, Limonene, Linalool, Chamomilla Recutita (Organic Chamomile), Maltodextrin, Tillia Cordata (Organic Linden), Tocopherol, Potassium Sorbate, Glyceryl Oleate, Dicaprylyl Carbonate, Sodium Citrate.",
+        "Units in Package": "50"
+      },
+      "size": "3",
+      "width": "76.20",
+      "updated_at": 1460824964,
+      "height": "12.70",
+      "manufacturer": "Natracare",
+      "price": "19.98",
+      "ean": "0782126200112",
+      "length": "76.20",
+      "variation_id": "5h4P9NgJpAUaMOuOMeQyMS",
+      "brand": "Natracare",
+      "model": "5917",
+      "sitedetails": [],
+      "created_at": 1347748843,
+      "sem3_id": "768DZ1g9Sqwqis80gCE2ga",
+      "gtins": [
+        "00782126200112"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462264210,
+      "upc": "879674012974",
+      "height": "127.00",
+      "cat_id": "3192",
+      "category": "Diaper Bags",
+      "features": {
+        "Origin": "China",
+        "Target gender": "Unisex",
+        "Product Dimensions": "11 x 5 x 12 inches",
+        "Style": "Backpack",
+        "Batteries required": "No",
+        "Item Weight": "9.6 ounces"
+      },
+      "sem3_id": "1oJ9sjXlvUUsK6i2qGgiaI",
+      "name": "Skip Hop Inc Zoo Pack Backpack - Shark",
+      "sitedetails": [],
+      "weight": "226796.18",
+      "created_at": 1379707405,
+      "ean": "0879674012974",
+      "brand": "Skip Hop",
+      "mpn": "10-8404-17, 14252, 210218, 60310",
+      "length": "304.04",
+      "price": "19.98",
+      "width": "292.10",
+      "gtins": [
+        "00879674012974"
+      ],
+      "variation_secondaryids": [
+        "58IVLnFxtoICqc28S0oooS"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "5261671.49",
+      "cat_id": "16876",
+      "name": "Luvs With Ultra Leakguards Size 4 Diapers 180 Count []",
+      "created_at": 1347651223,
+      "updated_at": 1460817102,
+      "brand": "Luvs",
+      "model": "LUVSZ4BG",
+      "width": "447.55",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "samsclub.com",
+          "sku": "luvs-ultra-leakguard-diapers-size-4-22-37-lbs-180-ct",
+          "url": "http://www.samsclub.com/sams/luvs-ultra-leakguard-diapers-size-4-22-37-lbs-180-ct/prod6280091.ip",
+          "latestoffers": [
+            {
+              "price": "29.98",
+              "seller": "Sam's Club",
+              "currency": "USD",
+              "lastrecorded_at": 1381232100,
+              "id": "648nw3bGpyukgqcyGCe2cq",
+              "firstrecorded_at": 1381232100,
+              "availability": "Available",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "size": "4",
+      "length": "255.52",
+      "features": {
+        "Origin": "USA",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "17.6 x 10.1 x 14.8 inches ; 11.6 pounds"
+      },
+      "variation_id": "0uRjy3Ek2YikCeEK4eweIW",
+      "mpn": "022571",
+      "manufacturer": "Luvs",
+      "height": "374.65",
+      "color": "180",
+      "sem3_id": "43rMvXQlfkkeAGyG4QI84E",
+      "ean": "0037000178408",
+      "price": "29.98",
+      "category": "Disposable Diapers",
+      "upc": "037000178408",
+      "gtins": [
+        "00037000178408"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16254",
+      "ean": "0698904100096",
+      "category": "Diaper Pails & Refills",
+      "color": "Robbin's Egg Blue",
+      "price": "79.98",
+      "width": "381.00",
+      "mpn": "10009",
+      "name": "Ubbi Steel Diaper Pail, Robin's Egg Blue []",
+      "features": {
+        "Item Weight": "7 pounds",
+        "Target gender": "Unisex",
+        "Product Dimensions": "15 x 10.8 x 22.5 inches",
+        "Batteries required": "No",
+        "Origin": "China"
+      },
+      "sitedetails": [],
+      "length": "279.40",
+      "created_at": 1357377677,
+      "upc": "698904100096",
+      "height": "584.20",
+      "manufacturer": "Ubbi",
+      "updated_at": 1461170799,
+      "sem3_id": "4TTbBneufIWIUi06EIOSKW",
+      "brand": "Ubbi",
+      "variation_id": "6fwmm2TFhIU6ycC4YE8AyA",
+      "model": "10009",
+      "gtins": [
+        "00698904100096"
+      ],
+      "variation_secondaryids": [
+        "7Pp6rrfkGmYQcCQgImyM4w"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "6.35",
+      "cat_id": "18394",
+      "created_at": 1347566780,
+      "sem3_id": "3DFK7Z0hVgIEGomAsWMY0o",
+      "features": {
+        "Batteries required": "No",
+        "Product Dimensions": "3 x 3 x 0.2 inches",
+        "Care instructions": "Machine wash warm, tumble dry low or hang to dry. No bleach or softeners.",
+        "Origin": "USA",
+        "Item Weight": "0.2 ounces"
+      },
+      "category": "Diapering",
+      "mpn": "PW",
+      "upc": "816713010294",
+      "model": "WB L ARTDEC",
+      "updated_at": 1461233457,
+      "manufacturer": "Planet Wise",
+      "department": "womens",
+      "length": "76.20",
+      "width": "76.20",
+      "sitedetails": [],
+      "color": "Art Deco",
+      "size": "Large",
+      "weight": "4535.92",
+      "brand": "Planet Wise",
+      "name": "Planet Wise Wet Diaper Bag, Art Deco, Large []",
+      "price": "18.95",
+      "ean": "0816713010294",
+      "variation_id": "4OZRfXGPgeMEc2IMkoI6Yy",
+      "gtins": [
+        "00816713010294"
+      ],
+      "variation_secondaryids": [
+        "1e0XKMdqyqc2CsYue2uWGm"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "175.00",
+      "name": "Diaper Dude , Ultrasuede Guitars Bag []",
+      "features": {
+        "Number of items": "1",
+        "Batteries required": "No",
+        "Best uses": "Diaper Bag",
+        "Item Weight": "2.1 pounds",
+        "Style": "Solid",
+        "Product Dimensions": "7 x 14 x 16 inches",
+        "Target gender": "Unisex",
+        "Material Type": "Polyester"
+      },
+      "created_at": 1347752606,
+      "width": "76.20",
+      "color": "Suede Guitars",
+      "length": "406.40",
+      "department": "mens",
+      "height": "355.60",
+      "model": "104G",
+      "category": "Diaper Bags",
+      "manufacturer": "Diaper Dude",
+      "variation_id": "76daAOtW4mggU6QK0mgyEO",
+      "cat_id": "3192",
+      "weight": "952543.98",
+      "mpn": "104G",
+      "upc": "855013001069",
+      "ean": "0855013001021",
+      "updated_at": 1461155462,
+      "sem3_id": "0jZL2qOSfCIwaEgicYYU4Q",
+      "sitedetails": [],
+      "brand": "Diaper Dude",
+      "gtins": [
+        "00855013001069",
+        "00855013001021"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

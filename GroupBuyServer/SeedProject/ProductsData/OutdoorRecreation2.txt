@@ -1,0 +1,648 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "name": "Helle GT Knife",
+      "price": "140.00",
+      "manufacturer": "Helle Knives",
+      "sitedetails": [
+        {
+          "sku": "helle-gt",
+          "listprice_currency": "USD",
+          "listprice": "159.00",
+          "url": "http://www.greentophuntfish.com/helle-gt.html",
+          "recentoffers_count": 1,
+          "name": "greentophuntfish.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available: 5 in stock",
+              "firstrecorded_at": 1435252500,
+              "id": "7i8ykBaE7Mis2U8GwSKmcm",
+              "seller": "Green Top",
+              "lastrecorded_at": 1442439000,
+              "price": "140.00",
+              "isactive": 1
+            },
+            {
+              "price": "119.00",
+              "lastrecorded_at": 1434756800,
+              "seller": "Green Top",
+              "firstrecorded_at": 1434331300,
+              "id": "4VQVKQg7HMyGYI0uoM4i6S",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1427869600,
+              "id": "6C9eXQynduasO2Oia4kcwM",
+              "lastrecorded_at": 1433678900,
+              "seller": "Green Top",
+              "price": "140.00",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 1,
+          "sku": "Helle-Helle-GT-Knife",
+          "latestoffers": [
+            {
+              "id": "4lNCk3N1FQkUOai8EG2wYu",
+              "firstrecorded_at": 1428583200,
+              "lastrecorded_at": 1455698600,
+              "seller": "Great Miami Outfitters",
+              "price": "169.00",
+              "availability": "Not Available",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.greatmiamioutfitters.com/Helle-Helle-GT-Knife.html",
+          "name": "greatmiamioutfitters.com"
+        },
+        {
+          "recentoffers_count": 1,
+          "name": "campsaver.com",
+          "latestoffers": [
+            {
+              "availability": "Not Available",
+              "currency": "USD",
+              "firstrecorded_at": 1458823900,
+              "id": "22EiaOoXM0CGo2kWuiuS2u",
+              "price": "154.00",
+              "seller": "Camp Saver",
+              "lastrecorded_at": 1458823900,
+              "isactive": 0
+            }
+          ],
+          "sku": "campsaver_gt-knife",
+          "listprice_currency": "USD",
+          "url": "http://www.campsaver.com/gt-knife",
+          "listprice": "154.00"
+        }
+      ],
+      "brand": "Helle",
+      "sem3_id": "1hLLjwSM68g22uU68w0IOK",
+      "model": "36",
+      "updated_at": 1458823991,
+      "features": {
+        "Opening Style": "Fixed Blade",
+        "Blade Style": "Drop Point",
+        "Blade Material": "Triple layered laminated stainless steel",
+        "Overall Length": "9.3 in / 23.6 cm",
+        "Blade Edge": "Non-Serrated",
+        "UPC, EAN, ISBN": "7023890060506",
+        "Blade Length": "4.8 in / 12.1 cm",
+        "Made in": "Norway",
+        "Closed Length": "Not Applicable",
+        "Sheath/Case Type": "Leather Sheath",
+        "Locking Mechanism": "Non-Locking",
+        "Handle Material": "Masurian birch"
+      },
+      "cat_id": "10127",
+      "created_at": 1347720990,
+      "mpn": "GT",
+      "ean": "7023890060506",
+      "weight": "3175.15",
+      "category": "Knives & Tools",
+      "gtins": [
+        "07023890060506"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "5W9PjiBBb6QE4GAeueOWqM",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "6IFjCz5SRyyiECqSQEqKGi",
+              "seller": "Gandermountain",
+              "price": "199.99",
+              "lastrecorded_at": 1421001600,
+              "firstrecorded_at": 1388780300,
+              "availability": "Sold Out",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=428824",
+          "sku": "428824",
+          "listprice": "199.99",
+          "listprice_currency": "USD",
+          "recentoffers_count": 1,
+          "name": "gandermountain.com"
+        }
+      ],
+      "manufacturer": "Rightline Gear",
+      "cat_id": "435",
+      "color": "Gray",
+      "height": "2.54",
+      "width": "2.54",
+      "upc": "184633000238",
+      "created_at": 1347585498,
+      "features": {
+        "Product Dimensions": "23.3 x 10.4 x 7.7 inches",
+        "Item Weight": "12.2 pounds",
+        "Discontinued by manufacturer": "Yes"
+      },
+      "brand": "Rightline Gear",
+      "updated_at": 1458952522,
+      "mpn": "110860",
+      "weight": "61234.97",
+      "sem3_id": "1YfM5RdSrEQIAO8oYYEAsK",
+      "category": "Tents",
+      "size": "Mid  6.4'",
+      "price": "199.99",
+      "model": "110860",
+      "ean": "0184633000238",
+      "name": "Rightline Gear 110860 CampRight Mid Size Truck Tent 6.4'",
+      "gtins": [
+        "00184633000238"
+      ],
+      "variation_secondaryids": [
+        "46LbjoTmSOkYq2O4Q2w6Wc",
+        "39C2ie3bTcIUkO8qy2II0C",
+        "5yvlqDPghMkGosUMCk0yAk",
+        "3MJYJkqjLcSg2IOIsccokCAz"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "name": "Backpackers Cache Bear Resistant Container [Black]",
+      "features": {
+        "Shipping Information": "View shipping rates and policies"
+      },
+      "mpn": "812",
+      "category": "Safety & Survival",
+      "sem3_id": "0D3XVm8VksCeSKoK8SGAkw",
+      "price": "61.08",
+      "upc": "817068001012",
+      "updated_at": 1458948794,
+      "color": "Black",
+      "ean": "0817068001012",
+      "weight": "1587573.29",
+      "model": "812",
+      "brand": "Backpacker's Cache",
+      "manufacturer": "GARCIA MACHINE",
+      "cat_id": "6720",
+      "created_at": 1347498298,
+      "gtins": [
+        "00817068001012"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "21033",
+      "color": "Rosewood Red",
+      "created_at": 1347500262,
+      "brand": "Gregory",
+      "manufacturer": "Gregory",
+      "sem3_id": "06PI1M23ce0iKAEaSQauWm",
+      "mpn": "GM59220",
+      "price": "189.00",
+      "size": "Medium",
+      "upc": "844930058850",
+      "sitedetails": [
+        {
+          "sku": "3155049",
+          "name": "sportchalet.com",
+          "latestoffers": [
+            {
+              "seller": "Sport Chalet",
+              "price": "94.96",
+              "firstrecorded_at": 1405468000,
+              "availability": "Out Of Stock",
+              "lastrecorded_at": 1408250200,
+              "currency": "USD",
+              "id": "7To5jTEPWw2SgIewy4im4c",
+              "isactive": 0
+            },
+            {
+              "seller": "Sport Chalet",
+              "availability": "Out Of Stock",
+              "firstrecorded_at": 1394752200,
+              "price": "141.69",
+              "currency": "USD",
+              "lastrecorded_at": 1405251200,
+              "id": "08C0386LsVyiiuu42wW6k6",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.sportchalet.com/product/outdoor/backpacking+-+hiking/backpacks/301648_3155049.do",
+          "recentoffers_count": 0
+        }
+      ],
+      "variation_id": "3PLrBeETCaUgaIuqWuIKU2",
+      "ean": "0844930058850",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "21 x 12 x 3 inches ; 3.2 pounds"
+      },
+      "name": "Gregory Sage 45 Backpack [Rosewood Red, X-Small]",
+      "category": "Backpacks & Bags",
+      "model": "59222",
+      "updated_at": 1458955279,
+      "weight": "453592.37",
+      "gtins": [
+        "00844930058850"
+      ],
+      "variation_secondaryids": [
+        "0zDXGryjfMESqyC2MWQCcq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "299.95",
+      "color": "Black",
+      "brand": "Mountain Hardwear",
+      "name": "Mountain Hardwear South Col 70 Backpack Black Medium",
+      "features": {
+        "Item Weight": "10 pounds"
+      },
+      "created_at": 1357216130,
+      "ean": "0786559842758",
+      "manufacturer": "Mountain Hardwear",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1396766100,
+              "id": "2ILjm1dX8yCIiA8Cg4Yi4s",
+              "firstrecorded_at": 1392972200,
+              "price": "299.95",
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1391999900,
+              "id": "4x4IeHMTEOSsmgICYeIQqy",
+              "firstrecorded_at": 1387001300,
+              "price": "223.96",
+              "seller": "Backcountry.com",
+              "shipping": "8.94",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "2Z1q061R6i6M8uwU8ucKE2",
+              "lastrecorded_at": 1386345900,
+              "firstrecorded_at": 1386266900,
+              "price": "279.95",
+              "isactive": 0
+            }
+          ],
+          "name": "backcountry.com",
+          "sku": "mountain-hardwear-south-col-70-backpack-4275cu-in",
+          "url": "http://www.backcountry.com/mountain-hardwear-south-col-70-backpack-4275cu-in"
+        }
+      ],
+      "weight": "1950447.19",
+      "mpn": "OU4058-099-M",
+      "updated_at": 1459004278,
+      "sem3_id": "3f3VrwyzDkAG2CAiIgOeY2",
+      "category": "Backpacks & Bags",
+      "cat_id": "21033",
+      "upc": "786559842758",
+      "variation_id": "3MDWdIGevwEiKcoEUgUKiI",
+      "model": "Mountain Hardwear",
+      "gtins": [
+        "00786559842758"
+      ],
+      "variation_secondaryids": [
+        "6k7pyeZN6OGcW4aoEoyMYe",
+        "0Zuy34I7PrUcEGIeyWoMyC"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "model": "05101 605S1",
+      "upc": "748960091033",
+      "size": "X-Small",
+      "weight": "453592.37",
+      "mpn": "05101-605S1",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "variation_id": "5XTPksXvRuC4OaSUsKM4Qa",
+      "brand": "Ruff Wear",
+      "manufacturer": "Ruff Wear",
+      "category": "Backpacks & Bags",
+      "price": "59.96",
+      "name": "Ruffwear Cloud Chaser Soft Shell Jacket, Red Rock [Forest Green, XX-Small]",
+      "updated_at": 1459067802,
+      "created_at": 1347595254,
+      "color": "Red Rock",
+      "ean": "0748960091033",
+      "cat_id": "21033",
+      "sem3_id": "66thnZTwW0Ww2a0uquWwq6",
+      "gtins": [
+        "00748960091033"
+      ],
+      "variation_secondaryids": [
+        "3efFMZ8rdYii4eEgcaiUOu"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "453592.37",
+      "sem3_id": "4w6SqIfRxYYskIewUGiqUW",
+      "mpn": "32205294",
+      "manufacturer": "Exped",
+      "color": "Terracotta",
+      "name": "Exped SynMat UL 7 Pump Sleeping Mat. [Corn Yellow, Medium]",
+      "variation_id": "4pgQRwsyDgaOgsyG2S4K2a",
+      "category": "Camp Bedding",
+      "price": "131.96",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "70UwRMgSqeqWAYmQqgiIwe",
+              "shipping": "8.94",
+              "seller": "Backcountry.com",
+              "price": "131.96",
+              "availability": "Available",
+              "firstrecorded_at": 1386354000,
+              "lastrecorded_at": 1390962500,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1385751100,
+              "availability": "Available",
+              "firstrecorded_at": 1382759600,
+              "price": "164.95",
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "id": "3nVAwoorlogOUE08a0iyKo",
+              "isactive": 0
+            }
+          ],
+          "name": "backcountry.com",
+          "url": "http://www.backcountry.com/exped-synmat-ul-7",
+          "recentoffers_count": 1,
+          "sku": "exped-synmat-ul-7"
+        }
+      ],
+      "ean": "7640120119157",
+      "model": "3220 Ulmat",
+      "cat_id": "4693",
+      "features": {
+        "Item Weight": "1.4 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Exped",
+      "created_at": 1347639316,
+      "updated_at": 1458977857,
+      "size": "Medium",
+      "gtins": [
+        "07640120119157"
+      ],
+      "variation_secondaryids": [
+        "1h0LzBmvHk02iWCUcIAS00"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1458967345,
+      "ean": "0844930069894",
+      "brand": "Gregory",
+      "height": "359.92",
+      "price": "193.95",
+      "category": "Backpacks & Bags",
+      "created_at": 1375850902,
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "27.2 x 14.2 x 4.3 inches; 4 pounds"
+      },
+      "length": "109.98",
+      "name": "Gregory Mountain Products Contour 60 Backpack [Electric Yellow, Medium]",
+      "sem3_id": "0j2YPeYLD6WMo8SkGwiak2",
+      "variation_id": "1eiA97NyG8UYycQMAAMQsW",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1386347300,
+              "currency": "USD",
+              "seller": "Backcountry.com",
+              "lastrecorded_at": 1386347300,
+              "price": "278.95",
+              "availability": "Available",
+              "id": "4sf3pJujfk2MyAgkMGeGcM",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1385931400,
+              "currency": "USD",
+              "lastrecorded_at": 1385931400,
+              "availability": "Available",
+              "price": "223.16",
+              "id": "5XdlKcN4qG2c48KKkYGoY0",
+              "seller": "Backcountry.com",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "backcountry.com",
+          "sku": "gregory-contour-60-backpack-3539-3783cu-in",
+          "url": "http://www.backcountry.com/gregory-contour-60-backpack-3539-3783cu-in"
+        }
+      ],
+      "cat_id": "21033",
+      "mpn": "GM59852",
+      "model": "59852",
+      "weight": "2267961.85",
+      "size": "Medium",
+      "color": "Electric Yellow Medium",
+      "manufacturer": "Gregory",
+      "upc": "844930069894",
+      "width": "659.89",
+      "gtins": [
+        "00844930069894"
+      ],
+      "variation_secondaryids": [
+        "3GQchFIw6SkQmAI2sGk8gc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "3/4 gal Bifen IT Generic talstar Pro / One 7.9% Bifenthrin Multi Use Pest Control Insecticide.. 96 ounce jug",
+      "upc": "072693044326",
+      "sem3_id": "1zfDSFk25sgkeMM80CkMWe",
+      "created_at": 1347773475,
+      "brand": "Bifen IT 7.9%",
+      "cat_id": "11247",
+      "sitedetails": [],
+      "ean": "0072693044326",
+      "category": "Personal Care",
+      "price": "37.35",
+      "weight": "2721554.22",
+      "updated_at": 1458969269,
+      "mpn": "Bifen IT 3/4 Gallon (96 oz)",
+      "features": {
+        "Item Weight": "9.5 pounds"
+      },
+      "manufacturer": "USAmist - Control Solution Inc",
+      "gtins": [
+        "00072693044326"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Arc'teryx",
+      "variation_id": "31gKGpFnlwmMokSwYigSWa",
+      "color": "Azure",
+      "price": "383.20",
+      "cat_id": "21033",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1391986000,
+              "id": "4H93M38u8usAsS2au8888a",
+              "lastrecorded_at": 1391986000,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "shipping": "8.94",
+              "price": "478.95",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.backcountry.com/arcteryx-altra-backpack-75-mens-4577-5248cu-in",
+          "name": "backcountry.com",
+          "sku": "arcteryx-altra-backpack-75-mens-4577-5248cu-in"
+        },
+        {
+          "sku": "arcteryx-altra-backpack-75-mens-4577-5248cu-in-arc3535",
+          "name": "backcountry.com",
+          "url": "http://www.backcountry.com/arcteryx-altra-backpack-75-mens-4577-5248cu-in-arc3535",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1392573800,
+              "id": "6kBchyZ9mKmsoQEGM0MaK2",
+              "lastrecorded_at": 1392573800,
+              "currency": "USD",
+              "availability": "Available",
+              "shipping": "8.94",
+              "seller": "Backcountry.com",
+              "price": "383.20",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1387007200,
+              "id": "3210ZOEelE4qycE2m266wA",
+              "lastrecorded_at": 1390157600,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Backcountry.com",
+              "price": "478.95",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1391194000,
+              "price": "383.16",
+              "seller": "Backcountry.com",
+              "shipping": "8.94",
+              "id": "1sj8Z3Lkz6QMCoMMcGsUgK",
+              "firstrecorded_at": 1390838600,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "upc": "806955628210",
+      "updated_at": 1459053076,
+      "created_at": 1364233221,
+      "category": "Backpacks & Bags",
+      "ean": "0806955628210",
+      "mpn": "11617",
+      "weight": "680388.55",
+      "name": "Arc'teryx Men's Altra 75 Backpack - [Carbon Copy, Regular/Tall]",
+      "size": "Tall",
+      "brand": "Arc'teryx",
+      "model": "11617 151325 21643 Reg/Tall",
+      "sem3_id": "2mCHo8PbQGACkAaA8Cgcg6",
+      "features": {
+        "Product Dimensions": "32 x 20 x 11 inches ; 5.2 pounds",
+        "Origin": "Philippines"
+      },
+      "gtins": [
+        "00806955628210"
+      ],
+      "variation_secondaryids": [
+        "0YHlmRb3CgCyCWAQkm6QYw"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

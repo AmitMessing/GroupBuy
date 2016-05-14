@@ -1,0 +1,371 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "category": "Tights & Leggings",
+      "weight": "453592.37",
+      "price": "55.99",
+      "brand": "Nike",
+      "updated_at": 1460727864,
+      "cat_id": "9173",
+      "features": {
+        "Product Dimensions": "8 x 1 x 6 inches"
+      },
+      "ean": "0885259167885",
+      "mpn": "589366-389",
+      "sem3_id": "2XrhLHflDYMcoOeCoyAiSs",
+      "variation_id": "62dxL3SpTUEAIasEQaY0eK",
+      "size": "Medium",
+      "upc": "885259167885",
+      "name": "Nike Womens Pro Training Capris []",
+      "created_at": 1432594273,
+      "model": "589366-389",
+      "color": "Dusty Cactus/Volt",
+      "sitedetails": [],
+      "gtins": [
+        "00885259167885"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "adidas Golf Men's Puremotion Short-Sleeve Polo Shirt []",
+      "category": "Shirts",
+      "mpn": "Z94682-471",
+      "price": "29.99",
+      "model": "Z94682-471",
+      "size": "Large",
+      "cat_id": "16265",
+      "sitedetails": [],
+      "updated_at": 1460730923,
+      "ean": "0887785575783",
+      "upc": "887785575783",
+      "color": "Bright Cyan/White",
+      "sem3_id": "6cQ0agSJnsuCkKkmsUa6SQ",
+      "manufacturer": "TaylorMade - Adidas Golf Apparel",
+      "brand": "adidas Performance",
+      "variation_id": "58RQRt4wLwI2yEKQECOyCa",
+      "weight": "453592.37",
+      "features": {
+        "Item Weight": "7.8 ounces",
+        "Origin": "Vietnam"
+      },
+      "created_at": 1418797250,
+      "length": "7.62",
+      "gtins": [
+        "00887785575783"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "886408985305",
+      "ean": "0886408985305",
+      "sem3_id": "1FFQc2hVWCWuKIKqwkeaWa",
+      "mpn": "Z4208636",
+      "variation_id": "4UjmRgRCam0CcQ4emEqwGa",
+      "sitedetails": [],
+      "cat_id": "4892",
+      "brand": "adidas",
+      "size": "Medium",
+      "features": {
+        "Item Weight": "1 pounds",
+        "Origin": "Imported"
+      },
+      "updated_at": 1460719657,
+      "weight": "453592.37",
+      "category": "Shirts",
+      "color": "Waterfall/White",
+      "name": "adidas Golf Men's Climalite Microstripe Polo []",
+      "model": "56",
+      "manufacturer": "Adidas Golf",
+      "created_at": 1375620428,
+      "gtins": [
+        "00886408985305"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "1253851",
+      "price": "24.99",
+      "category": "Shorts",
+      "ean": "0888284952563",
+      "mpn": "1253851",
+      "height": "177.80",
+      "width": "127.00",
+      "features": {
+        "Item Weight": "1 pounds",
+        "Origin": "Jordan"
+      },
+      "variation_id": "2iMgKNc5YOII4k6y6MQeaI",
+      "created_at": 1430329590,
+      "weight": "453592.37",
+      "sem3_id": "6VJajVfLBQAIcyWMsgc8CO",
+      "manufacturer": "Under Armour Apparel",
+      "name": "UA Boys Eliminator []",
+      "updated_at": 1460720157,
+      "sitedetails": [],
+      "cat_id": "15731",
+      "upc": "888284952563",
+      "size": "Large",
+      "color": "Bolt Orange/White/Graphite",
+      "brand": "Under Armour",
+      "length": "31.75",
+      "gtins": [
+        "00888284952563"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "79.98",
+      "brand": "Skins",
+      "sitedetails": [],
+      "size": "X-Small",
+      "created_at": 1435191502,
+      "sem3_id": "5CXyj1KRIe4CCgocACCGG0",
+      "cat_id": "20570",
+      "model": "B601-002",
+      "weight": "1360777.11",
+      "mpn": "B60014002XS_Red_XS",
+      "variation_id": "12ZdcXwvfsGa2IYCuYCaMa",
+      "ean": "9333826045339",
+      "color": "Red",
+      "category": "Shorts",
+      "name": "Skins A200 Men's Compression Half Tights []",
+      "manufacturer": "Skins North America",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "8.8 ounces"
+      },
+      "updated_at": 1460726459,
+      "gtins": [
+        "09333826045339"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "59.99",
+      "mpn": "74310-724-44-30",
+      "manufacturer": "5.11",
+      "brand": "5.11",
+      "category": "Pants",
+      "name": "5.11 Tactical #74310 Men's EMS Pant []",
+      "variation_id": "7Na8B6il28EoQEWM4okcUE",
+      "sem3_id": "36BpMT3H7QKea4uGG0cCIo",
+      "upc": "844802147354",
+      "ean": "0844802147354",
+      "size": "44W x 30L",
+      "color": "Dark Navy",
+      "features": {
+        "Item Weight": "3 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [],
+      "created_at": 1348690790,
+      "updated_at": 1460726090,
+      "model": "5 74310 724 Dark Navy 44 30",
+      "weight": "453592.37",
+      "cat_id": "6612",
+      "gtins": [
+        "00844802147354"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "83800",
+      "variation_id": "2y0cw6yS8uq0MkGyEAsKoc",
+      "name": "Patagonia Torrentshell Jacket []",
+      "manufacturer": "Patagonia",
+      "category": "Jackets",
+      "created_at": 1347465639,
+      "cat_id": "3412",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "url": "http://www.theflipflopper.com/pajiaacefadogfhe/product",
+          "name": "theflipflopper.com",
+          "listprice": "79.00",
+          "latestoffers": [
+            {
+              "availability": "Backorder",
+              "id": "1G7JEJtOtiiYQUMY0e6uGa",
+              "price": "79.00",
+              "seller": "Theflipflopper",
+              "firstrecorded_at": 1387910700,
+              "lastrecorded_at": 1404087900,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "pajiaacefadogfhe_125463"
+        }
+      ],
+      "size": "Large",
+      "color": "Alpha Green",
+      "features": {
+        "Waterproof": "Yes - 20,000mm minimum",
+        "Zip": "Full length centre front zip with interior and exterior storm flaps, pit zips for ventilation",
+        "Suitable for": "Everyday Use, Travel, Walking",
+        "Hood Details": "2-way adjustable, stowable",
+        "Internal Pockets": "Internal mesh drop pocket",
+        "Breathable": "Yes",
+        "Interactive": "No",
+        "Cuff Details": "Velcro adjustable cuffs",
+        "Fit": "Regular, drawcord hem",
+        "External Pockets": "Two zipped handwarmer pockets"
+      },
+      "updated_at": 1460751305,
+      "ean": "0680131078170",
+      "weight": "453592.37",
+      "sem3_id": "0DbtVxYyMiWKaAkQg0aUEa",
+      "price": "79.00",
+      "upc": "680131078170",
+      "brand": "Patagonia",
+      "gtins": [
+        "00680131078170"
+      ],
+      "variation_secondaryids": [
+        "0lCxGCXSYqmq0IM6iUyeAo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Under Armour",
+      "color": "Black/Reflective/PINK SHOCK",
+      "model": "1243045-021",
+      "name": "Under Armour Women's Fly-By Compression Capri []",
+      "manufacturer": "Under Armour",
+      "size": "Small",
+      "sitedetails": [],
+      "updated_at": 1460755071,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "China"
+      },
+      "ean": "0888284935092",
+      "price": "41.99",
+      "weight": "453592.37",
+      "cat_id": "17801",
+      "category": "Pants",
+      "created_at": 1430330430,
+      "mpn": "1243045-021_021_S",
+      "sem3_id": "6973HvZB0ike6uWaYq00Qg",
+      "upc": "888284935092",
+      "variation_id": "6ecqgb7gtk0oEICMeUc8Sa",
+      "gtins": [
+        "00888284935092"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Nike Legend Dri-Fit Poly - 371642 []",
+      "ean": "0884499236993",
+      "upc": "884499236993",
+      "color": "Black",
+      "mpn": "371642-010-L",
+      "sitedetails": [],
+      "size": "L",
+      "cat_id": "16265",
+      "features": {
+        "Product Dimensions": "6 x 6 x 1 inches"
+      },
+      "length": "7.87",
+      "category": "Shirts",
+      "manufacturer": "Nike",
+      "sem3_id": "4JgPDiwQ3MCoQuAuSK4mOO",
+      "model": "371642",
+      "brand": "Nike",
+      "price": "34.95",
+      "created_at": 1347768053,
+      "weight": "453592.37",
+      "variation_id": "0ANGyB8d1Qe6yCSEy8k4YQ",
+      "updated_at": 1460758834,
+      "gtins": [
+        "00884499236993"
+      ],
+      "variation_secondaryids": [
+        "1ZBd3PzxLUIAm4Ma2CaqUi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460758918,
+      "upc": "613543733030",
+      "sem3_id": "7lot658WJM4MgEqQYucus4",
+      "ean": "0613543733030",
+      "weight": "453592.37",
+      "category": "Underwear",
+      "name": "ExOfficio Men's Give-N-Go Sport Mesh 9-Inch Boxer Brief []",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [],
+      "price": "21.22",
+      "manufacturer": "ExOfficio",
+      "color": "Curfew",
+      "model": "12412056",
+      "cat_id": "2184",
+      "variation_id": "5mwU8sWoqmMGgCwAQk4S6U",
+      "brand": "ExOfficio",
+      "created_at": 1430311359,
+      "mpn": "1241-2056",
+      "size": "Small",
+      "gtins": [
+        "00613543733030"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

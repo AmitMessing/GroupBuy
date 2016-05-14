@@ -1,0 +1,403 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Triple 8",
+      "manufacturer": "Triple 8",
+      "upc": "604352600057",
+      "category": "Protective Gear",
+      "sitedetails": [],
+      "created_at": 1347547702,
+      "weight": "68038.86",
+      "price": "15.97",
+      "name": "Triple 8 Saver Series Wristsavers [Black, Junior]",
+      "ean": "0604352600057",
+      "cat_id": "14912",
+      "variation_id": "4mw6ItyawS8qosQWEE60YK",
+      "width": "101.60",
+      "size": "Junior",
+      "sem3_id": "3kJimXb9mSKQyQG6U8KguY",
+      "updated_at": 1459020653,
+      "mpn": "604352 6000X",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "height": "71.12",
+      "length": "241.30",
+      "model": "604352 60005",
+      "color": "Black",
+      "gtins": [
+        "00604352600057"
+      ],
+      "variation_secondaryids": [
+        "1TpDAhAMNs0wCsokeqoCWA"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Bell",
+      "length": "88.90",
+      "sem3_id": "4vEQfpTJeKgk28KoSUaIu0",
+      "category": "Protective Gear",
+      "sitedetails": [],
+      "manufacturer": "Bell Sports",
+      "height": "260.35",
+      "updated_at": 1459017173,
+      "upc": "035011894669",
+      "model": "1003306",
+      "cat_id": "14912",
+      "ean": "0035011868509",
+      "color": "Assorted",
+      "mpn": "1003306",
+      "created_at": 1348683809,
+      "width": "311.15",
+      "features": {
+        "Product Dimensions": "3.5 x 12.2 x 10.2 inches"
+      },
+      "weight": "258547.65",
+      "name": "Bell Sports 1003306 Elbow/knee Pad Set",
+      "gtins": [
+        "00035011894669",
+        "00035011868509"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "0b1GRfFjYdUqSIcmQU4c8A",
+      "brand": "Sector 9",
+      "category": "Standard Skateboards & Longboards",
+      "sitedetails": [],
+      "manufacturer": "Sector 9",
+      "upc": "888961646433",
+      "model": "DHS125",
+      "updated_at": 1459014975,
+      "mpn": "DHS125C",
+      "cat_id": "4917",
+      "color": "Black",
+      "ean": "0888961646433",
+      "features": {
+        "Product Dimensions": "46 x 11.4 x 4.8 inches ; 10.8 pounds",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "created_at": 1357021445,
+      "name": "Sector 9 Natasha Downhill Division 40\" Drop Through Complete Longboard [Black, 9.75-Inch x 40.0-Inch]",
+      "price": "279.00",
+      "weight": "4898797.60",
+      "size": "9.75-Inch x 40.0-Inch",
+      "gtins": [
+        "00888961646433"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "2ijJ8cusZyQKMaku0YcaM0",
+      "size": "X-Large",
+      "ean": "0843990032831",
+      "upc": "843990032831",
+      "features": {
+        "Item Weight": "8 ounces",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "sem3_id": "5p4obJgldYWUsUksg0iMmc",
+      "category": "Protective Gear",
+      "cat_id": "14912",
+      "width": "226.06",
+      "weight": "4535.92",
+      "mpn": "VM2EMBKDXL",
+      "length": "276.86",
+      "created_at": 1348675230,
+      "color": "Black",
+      "model": "VM2EMBKDXL",
+      "manufacturer": "Bern",
+      "sitedetails": [],
+      "name": "BERN Macon Summer Distress Logo EPS Helmet [Navy Blue, Large]",
+      "price": "40.99",
+      "brand": "Bern",
+      "height": "180.34",
+      "updated_at": 1459015161,
+      "gtins": [
+        "00843990032831"
+      ],
+      "variation_secondaryids": [
+        "5Cu0nWMfrEggyGiIqIYOmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "D",
+      "name": "Bauer Vapor X90 Junior Ice Hockey Skates [D, 3.5]",
+      "features": {
+        "FREE GROUND SHIPPING ITEM": "Free shipping to all lower 48 states on orders over $ 49.99 at Hockey Plus"
+      },
+      "cat_id": "20541",
+      "upc": "680680490003",
+      "variation_id": "2VdjhV5XdEQAmSGYikMaq6",
+      "category": "Ice Skates",
+      "updated_at": 1459018309,
+      "created_at": 1381510531,
+      "size": "3.5",
+      "manufacturer": "Bauer",
+      "sitedetails": [
+        {
+          "listprice": "369.99",
+          "name": "hockeyplusinc.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "Hockey Plus",
+              "lastrecorded_at": 1400065000,
+              "firstrecorded_at": 1387394200,
+              "id": "3myhlYyFv6Y6840aiuewCu",
+              "currency": "USD",
+              "price": "369.99",
+              "isactive": 1
+            }
+          ],
+          "sku": "bauer-vapor-x-90-junior-hockey-skates_3.0D",
+          "url": "http://www.hockeyplusinc.com/bauer-vapor-x-90-junior-hockey-skates.html",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD"
+        },
+        {
+          "sku": "11108_3_D",
+          "name": "greatskate.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "369.99",
+              "firstrecorded_at": 1389267800,
+              "id": "1lSJY87HOCEQG6aOoccmoS",
+              "seller": "Great Skate Hockey Supply Co",
+              "availability": "Available",
+              "lastrecorded_at": 1418806300,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.greatskate.com/11108/Bauer-Vapor-X-90-Ice-Hockey-Skates---Junior/detail.html",
+          "recentoffers_count": 0
+        }
+      ],
+      "weight": "2267961.85",
+      "price": "369.99",
+      "sem3_id": "3HGyY7U5BgI0KsE0SYg4yC",
+      "ean": "0680680490003",
+      "brand": "Bauer",
+      "gtins": [
+        "00680680490003"
+      ],
+      "variation_secondaryids": [
+        "0mJA4z1P9MUS2kIE2iu6sgZp",
+        "2mpjjAiz72GCI64SO886yq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "340194.28",
+      "brand": "DC",
+      "created_at": 1348675104,
+      "name": "DC Men's Court Graffik Skate Shoe [White/White/Battleship, 7.5 D(M) US]",
+      "mpn": "300529-HHB",
+      "color": "White/White/Battleship",
+      "price": "59.99",
+      "manufacturer": "DC",
+      "size": "7.5 D(M) US",
+      "length": "25.40",
+      "category": "Skateboarding",
+      "width": "25.40",
+      "model": "300529",
+      "sitedetails": [],
+      "sem3_id": "74xjKczeTY8suEoYgU6cci",
+      "updated_at": 1459074816,
+      "cat_id": "4333",
+      "height": "25.40",
+      "variation_id": "5DYWZtyKwCeekO26w6iGey",
+      "features": {
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Origin": "China"
+      },
+      "ean": "0885112626344",
+      "upc": "885112626344",
+      "gtins": [
+        "00885112626344"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "10.5 D(M) US",
+      "price": "59.95",
+      "cat_id": "4333",
+      "category": "Skateboarding",
+      "created_at": 1348675104,
+      "sitedetails": [],
+      "name": "DC Men's Court Graffik Skate Shoe [Black / Black / Black, 10.5 D(M) US]",
+      "sem3_id": "1FnH6eX3yYQieEGWkOCayc",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "Origin": "China"
+      },
+      "variation_id": "5DYWZtyKwCeekO26w6iGey",
+      "manufacturer": "DC",
+      "brand": "DC",
+      "ean": "0886434908712",
+      "updated_at": 1459083785,
+      "weight": "340194.28",
+      "color": "Black/Black/Black",
+      "upc": "886434908712",
+      "model": "COURT GRAFFIK M",
+      "mpn": "300529",
+      "gtins": [
+        "00886434908712"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "0g2zVvXEKauES0OOO2o8cs",
+      "model": "1CPEN0127N027GY-P",
+      "price": "82.48",
+      "weight": "453592.37",
+      "updated_at": 1459073986,
+      "upc": "788430650629",
+      "sitedetails": [],
+      "ean": "0788430650629",
+      "created_at": 1434722352,
+      "cat_id": "4333",
+      "size": "7.5\" X 27\"",
+      "category": "Skateboarding",
+      "manufacturer": "Penny",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "mpn": "PNYCOMP27224",
+      "brand": "Penny",
+      "name": "Penny Nickel Complete Skateboard [Candy Painted Fade, 7.5\" X 27\"]",
+      "color": "Candy Painted Fade",
+      "variation_id": "50D3GqHdeqssIKGQiIAEY2",
+      "gtins": [
+        "00788430650629"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "PENDEK27HOLS",
+      "cat_id": "4917",
+      "manufacturer": "Penny",
+      "mpn": "PNYCOMP27121",
+      "color": "aztec",
+      "category": "Standard Skateboards & Longboards",
+      "ean": "0817753012606",
+      "sitedetails": [],
+      "updated_at": 1459071583,
+      "brand": "Penny",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "27.2 x 5.9 x 3.9 inches ; 1 pounds",
+        "Origin": "China"
+      },
+      "name": "Penny Nickel Complete Skateboard [Buffy Pink, 7.5\" X 27\"]",
+      "size": "7\\",
+      "width": "150.11",
+      "weight": "453592.37",
+      "length": "690.12",
+      "upc": "817753012606",
+      "sem3_id": "3jfoV4IPTyowCU46eku0wa",
+      "height": "100.08",
+      "price": "87.95",
+      "created_at": 1381583379,
+      "gtins": [
+        "00817753012606"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "PECOCR221209",
+      "created_at": 1348673768,
+      "sitedetails": [],
+      "height": "100.08",
+      "color": "Hover",
+      "ean": "0817753012408",
+      "price": "78.00",
+      "width": "119.89",
+      "cat_id": "4917",
+      "sem3_id": "1rMUlC3PNkMWgE2uMioA08",
+      "weight": "7257477.92",
+      "length": "560.07",
+      "upc": "817753010985",
+      "features": {
+        "Product Dimensions": "22 x 4.7 x 3.9 inches ; 4.3 pounds",
+        "Origin": "Australia"
+      },
+      "manufacturer": "Penny",
+      "model": "DECK",
+      "updated_at": 1460696238,
+      "category": "Standard Skateboards & Longboards",
+      "brand": "Penny",
+      "size": "22-Inch",
+      "gtins": [
+        "00817753010985",
+        "00817753012408",
+        "00733220914306"
+      ],
+      "name": "Penny Graphic Complete Skateboard []",
+      "variation_secondaryids": [
+        "3RA9nuppk80CWuAKiIA68o",
+        "6hM0FEaIICeaUsqKmgMI22"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

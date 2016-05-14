@@ -1,0 +1,401 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "37458",
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "5 x 5 x 43 inches"
+      },
+      "manufacturer": "Cleveland",
+      "name": "Cleveland Golf 588 MT Iron Set []",
+      "category": "Irons",
+      "updated_at": 1460523662,
+      "ean": "3109883934086",
+      "mpn": "37458",
+      "sitedetails": [],
+      "sem3_id": "6K5DMpEpE0UeOseI6Qs2yi",
+      "weight": "4082331.33",
+      "brand": "Cleveland Golf",
+      "cat_id": "20619",
+      "price": "799.99",
+      "created_at": 1364196620,
+      "variation_id": "1xvVaDeYlcyIW0Sy2aoYoG",
+      "gtins": [
+        "03109883934086"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460497493,
+      "variation_id": "49emAXyPQOgiywYiuqGeyC",
+      "brand": "Cobra",
+      "category": "Irons",
+      "manufacturer": "Cobra",
+      "upc": "847111022107",
+      "width": "127.00",
+      "height": "1092.20",
+      "sitedetails": [],
+      "created_at": 1364156807,
+      "mpn": "2111LGR4G",
+      "length": "127.00",
+      "cat_id": "20619",
+      "color": "Silver",
+      "features": {
+        "Metal wood face-weld construction with E9 Face Technology": "Creates a high COR zone and controls weighting with a lighter, high-strength face for explosive distance and forgiveness",
+        "V-skid sole design": "Sculpted sole configuration that improves turf interaction for all swing types",
+        "Product Dimensions": "5 x 5 x 43 inches ; 3 pounds",
+        "AMP Cell technology": "Distributes weight from the face and body to create perimeter weighting and positions CG behind the Sweet Zone",
+        "Origin": "China"
+      },
+      "sem3_id": "4ldEqVXjNwEMi8aQic042K",
+      "price": "699.00",
+      "ean": "0847111022107",
+      "weight": "1360777.11",
+      "name": "Cobra Amp Cell Men's Silver Iron Set []",
+      "model": "AMP CELL IRN GPH REG 4 GW LH",
+      "gtins": [
+        "00847111022107"
+      ],
+      "variation_secondaryids": [
+        "1FxLa2bF7AUKQ2yw0UeqS8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "329.99",
+      "cat_id": "16174",
+      "sitedetails": [],
+      "updated_at": 1460529033,
+      "color": "Black",
+      "sem3_id": "1vvhDv3kFYe0am2KMcW0Sw",
+      "features": {
+        "Product Dimensions": "6 x 6 x 54 inches",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Origin": "China"
+      },
+      "category": "Drivers",
+      "name": "Cleveland Golf Classic XL Driver []",
+      "ean": "3109883938039",
+      "brand": "Cleveland Golf",
+      "created_at": 1364146688,
+      "mpn": "37806",
+      "manufacturer": "Cleveland Golf",
+      "model": "37806",
+      "weight": "453592.37",
+      "variation_id": "50aiIqTy6SeyAU8ywW2sIS",
+      "gtins": [
+        "03109883938039"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "561.73",
+      "variation_id": "2s0HXG9An2y8OyAKES0CiO",
+      "features": {
+        "Product Dimensions": "5 x 5 x 43 inches ; 8 pounds",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "upc": "883813764853",
+      "sitedetails": [
+        {
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=WSWGR114160R",
+          "name": "beachcamera.com",
+          "latestoffers": [],
+          "sku": "WSWGR114160R",
+          "recentoffers_count": 0
+        }
+      ],
+      "cat_id": "20619",
+      "updated_at": 1455454845,
+      "model": "WGR114160R",
+      "color": "Steel Irons",
+      "ean": "0883813764853",
+      "weight": "3628738.96",
+      "brand": "Wilson",
+      "name": "Wilson Sporting Goods Men's Ci11 Premium Iron Set, 4-PW [4-PW, Stiff, Left Hand, Graphite Irons]",
+      "created_at": 1347684226,
+      "mpn": "WGR114160R",
+      "manufacturer": "Wilson",
+      "sem3_id": "6L2GdGmkfAKe8sgMyYKEo6",
+      "category": "Irons",
+      "gtins": [
+        "00883813764853"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1455607729,
+      "weight": "27215.54",
+      "variation_id": "62D9QpNCc4qc4KsUIYOAWC",
+      "height": "1219.20",
+      "created_at": 1432020263,
+      "sem3_id": "0lZq7iT6CQaM28A4siW8W8",
+      "manufacturer": "Cobra-Puma Golf",
+      "cat_id": "16174",
+      "mpn": "FLY-Z ORNG DRV GPH LITE _1 RH",
+      "features": {
+        "Product Dimensions": "1 x 1 x 1 inches ; 1 pounds"
+      },
+      "color": "Orange",
+      "model": "FLY-Z ORNG DRV GPH LITE #1 RH",
+      "ean": "0847111062646",
+      "brand": "Cobra",
+      "length": "127.00",
+      "sitedetails": [
+        {
+          "name": "worldwidegolfshops.com",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1455607700,
+              "price": "199.99",
+              "id": "6ehmN2QjuSakk6gaeMwuYK",
+              "firstrecorded_at": 1449674800,
+              "availability": "Backorder",
+              "seller": "A Worldwide Golf Company",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.worldwidegolfshops.com/10114788/Product",
+          "listprice": "329.99",
+          "sku": "worldwidegolfshops_10114788_940538"
+        }
+      ],
+      "category": "Drivers",
+      "name": "Cobra Men's Fly Z Driver [Orange, Senior, Right, Graphite]",
+      "width": "127.00",
+      "upc": "847111062646",
+      "price": "169.97",
+      "gtins": [
+        "00847111062646"
+      ],
+      "variation_secondaryids": [
+        "0dWBdf42GFEo4Cqq2UCmmqOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2nKpZxkOPwKkuy4e48EuGq",
+      "length": "965.20",
+      "width": "152.40",
+      "name": "Callaway Mack Daddy PM Grind Wedge [Stiff, 60 Degrees, Right, Steel]",
+      "height": "152.40",
+      "sitedetails": [
+        {
+          "name": "worldwidegolfshops.com",
+          "sku": "worldwidegolfshops_10121518_976904",
+          "url": "http://www.worldwidegolfshops.com/10121518/Product",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "A Worldwide Golf Company",
+              "currency": "USD",
+              "id": "2AHraopLAaQcGe8COYGEyE",
+              "firstrecorded_at": 1455632300,
+              "lastrecorded_at": 1455632300,
+              "price": "129.99",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "weight": "6803.89",
+      "price": "129.99",
+      "cat_id": "18611",
+      "manufacturer": "Callaway Golf",
+      "variation_id": "6UD7tvaarQa8Q8AuOCqo8Y",
+      "mpn": "WG RH MAC DADDY PM CRM 60-10 SS ST S300",
+      "updated_at": 1458964032,
+      "model": "WG_RH_MAC_DADDY_PM_CRM_60-10_SS_ST_S300",
+      "category": "Wedges & Utility Clubs",
+      "brand": "Callaway",
+      "color": "60*/10*",
+      "upc": "884885774146",
+      "ean": "0884885774146",
+      "created_at": 1435792042,
+      "features": {
+        "Product Dimensions": "38 x 6 x 6 inches ; 2.5 pounds"
+      },
+      "gtins": [
+        "00884885774146"
+      ],
+      "variation_secondaryids": [
+        "1g8NZ4diC48oMq8sEEue2AOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1458959162,
+      "length": "127.00",
+      "height": "1092.20",
+      "brand": "Adams Golf",
+      "manufacturer": "Adams Golf",
+      "name": "Adams Golf Super S Hybrid Golf Club [X-Stiff, 22 Degrees, Left, Graphite]",
+      "ean": "0658628167065",
+      "sem3_id": "6kHlZlwvRYe0We2SaQqmui",
+      "created_at": 1364128289,
+      "variation_id": "44w0TbNjXMwECa8uWQIOYC",
+      "width": "127.00",
+      "cat_id": "16436",
+      "upc": "658628167065",
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "5 x 5 x 43 inches"
+      },
+      "price": "69.98",
+      "mpn": "144417119",
+      "sitedetails": [],
+      "weight": "1360777.11",
+      "model": "144417119",
+      "category": "Hybrid Clubs",
+      "gtins": [
+        "00658628167065"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Cleveland Golf Classic XL Driver [Regular, 9 Degrees, Right, Fubuki Tour 53 Graphite]",
+      "ean": "3109883942616",
+      "variation_id": "50aiIqTy6SeyAU8ywW2sIS",
+      "category": "Drivers",
+      "cat_id": "16174",
+      "mpn": "38168",
+      "sitedetails": [],
+      "color": "Black",
+      "model": "38168",
+      "created_at": 1364146688,
+      "weight": "453592.37",
+      "sem3_id": "0vaIdObvRuygmuA0UKuEsw",
+      "features": {
+        "Item Weight": "2 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Cleveland Golf",
+      "manufacturer": "Cleveland Golf",
+      "price": "329.99",
+      "updated_at": 1458959197,
+      "gtins": [
+        "03109883942616"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347796223,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "2 pounds"
+      },
+      "manufacturer": "Adams",
+      "weight": "9071.85",
+      "updated_at": 1458957665,
+      "variation_id": "2gXz9cp9tg8AC2qmQEcI2q",
+      "mpn": "SpeedlineF12FW",
+      "sem3_id": "1zsyxYwzMi6WeCoWGIC6gm",
+      "brand": "Adams",
+      "color": "Grafalloy ProLaunch Graphite",
+      "upc": "658628142864",
+      "name": "Adams Men's Golf Speedline Fast12 Driver [Regular, 15 Degrees, Right, Grafalloy ProLaunch Graphite]",
+      "ean": "0658628142864",
+      "cat_id": "16174",
+      "price": "119.99",
+      "model": "144003130",
+      "sitedetails": [],
+      "category": "Drivers",
+      "gtins": [
+        "00658628142864"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "Vokey SM4 Tour Chrome",
+      "name": "Men's Titleist Vokey SM4 Tour Chrome Wedge [Wedge, 48 Degrees, Left, Steel]",
+      "features": {
+        "SHAFT SPECIFICS": "Titleist/True Temper Dynamic Gold",
+        "SHAFT": "Steel",
+        "DEXTERITY": "Right-Handed",
+        "CONDITION SPECIFICS": "Used condition 9, excellent shape, face shows a few ball marks, sole shows minor wear from regular play, no major dings or nicks!",
+        "FLEX": "Wedge",
+        "GENDER": "Men",
+        "GRIP": "Titleist Golf Pride M600",
+        "CLUB": "Lob Wedge, 60* 07*",
+        "CONDITION": "Used"
+      },
+      "brand": "Titleist",
+      "updated_at": 1459015062,
+      "cat_id": "18611",
+      "manufacturer": "Titleist",
+      "ean": "0084984430626",
+      "upc": "084984430626",
+      "sitedetails": [],
+      "weight": "907184.74",
+      "category": "Wedges & Utility Clubs",
+      "mpn": "01TI534 6007 DG S",
+      "price": "109.99",
+      "sem3_id": "61FRt9ZfFoK4GwyueU0SsW",
+      "created_at": 1356213096,
+      "gtins": [
+        "00084984430626"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

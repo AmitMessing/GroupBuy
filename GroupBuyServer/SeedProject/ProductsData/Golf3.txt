@@ -1,0 +1,407 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "weight": "340194.28",
+      "size": "10 D(M) US",
+      "manufacturer": "Puma Golf Footwear Mens",
+      "variation_id": "5p1Qkf6Llg8gQiKq4QWomw",
+      "upc": "887119509828",
+      "name": "PUMA Men's Faas Lite Mesh Golf Shoe []",
+      "sitedetails": [
+        {
+          "name": "puma.com",
+          "sku": "887119509828",
+          "url": "http://www.shop.puma.com/Faas-Lite-Mesh-Men's-Golf-Shoes/pna887119509828,en_US,pd.html?s_kwcid=887119509828&mktId=PS:JDigital:Adwords:PLA:USA",
+          "latestoffers": [
+            {
+              "price": "90.00",
+              "seller": "PUMA",
+              "id": "1fjrctVRIqcwqQccaS62iS",
+              "firstrecorded_at": 1387101800,
+              "currency": "USD",
+              "lastrecorded_at": 1387101800,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        }
+      ],
+      "color": "Vibrant Orange/White",
+      "cat_id": "22577",
+      "ean": "0887119509828",
+      "length": "254.00",
+      "model": "FAAS LITE MESH M",
+      "width": "177.80",
+      "updated_at": 1460384096,
+      "created_at": 1375653269,
+      "sem3_id": "69p3acUh7IAmKcOcsMCWCW",
+      "height": "431.80",
+      "features": {
+        "Origin": "Vietnam",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More"
+      },
+      "brand": "PUMA",
+      "category": "Golf",
+      "mpn": "18684701",
+      "gtins": [
+        "00887119509828"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "658628167072",
+      "ean": "0658628167072",
+      "updated_at": 1460495937,
+      "variation_id": "44w0TbNjXMwECa8uWQIOYC",
+      "manufacturer": "Adams Golf",
+      "weight": "1360777.11",
+      "model": "144417149",
+      "brand": "Adams Golf",
+      "height": "1092.20",
+      "name": "Adams Golf Super S Hybrid Golf Club []",
+      "created_at": 1364128289,
+      "cat_id": "16436",
+      "length": "127.00",
+      "width": "127.00",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "2.5 pounds"
+      },
+      "price": "24.99",
+      "sem3_id": "71wBL2BqiW8ym0qesmQA2C",
+      "mpn": "144417149",
+      "category": "Hybrid Clubs",
+      "sitedetails": [],
+      "gtins": [
+        "00658628167072"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "mp-61967",
+      "name": "TaylorMade Spider Mallet Putters []",
+      "weight": "2721554.22",
+      "category": "Putters",
+      "features": {
+        "CONDITION": "New",
+        "SHAFT": "Steel",
+        "DEXTERITY": "Left-Handed",
+        "GENDER": "Men",
+        "CONDITION SPECIFICS": "New condition 10, Brand New! Cover Included!",
+        "GRIP": "Taylor Made",
+        "HEADCOVER": "Matching headcover included",
+        "CLUB": "Putter"
+      },
+      "sitedetails": [],
+      "ean": "0885583732674",
+      "sem3_id": "0FOvl5TcNwOgsOMEGKGA4u",
+      "manufacturer": "Taylormade",
+      "length": "965.20",
+      "created_at": 1375560588,
+      "updated_at": 1460797940,
+      "brand": "TaylorMade",
+      "upc": "885583732674",
+      "cat_id": "8353",
+      "price": "199.99",
+      "model": "Spider Mallet",
+      "gtins": [
+        "00885583732674"
+      ],
+      "variation_secondaryids": [
+        "0xF0b3g7SMokY8EKwm4owc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "368550",
+      "ean": "0029757368553",
+      "created_at": 1435039326,
+      "color": "Black/Yellow",
+      "sem3_id": "4FOGEmutzkaYOomwCc6guC",
+      "cat_id": "21279",
+      "weight": "49895.16",
+      "brand": "Bushnell",
+      "name": "Bushnell NEO XS Golf GPS Rangefinder Watch []",
+      "price": "142.86",
+      "updated_at": 1460799273,
+      "length": "62.99",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "listprice": "199.99",
+          "sku": "worldwidegolfshops_10064848_903909",
+          "name": "worldwidegolfshops.com",
+          "recentoffers_count": 1,
+          "url": "http://www.worldwidegolfshops.com/10064848/Product",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1455632200,
+              "availability": "Available",
+              "lastrecorded_at": 1455632200,
+              "seller": "A Worldwide Golf Company",
+              "id": "1UyTXPwSYSIiQAWaOuqs4W",
+              "currency": "USD",
+              "price": "149.99",
+              "isactive": 1
+            },
+            {
+              "price": "129.99",
+              "currency": "USD",
+              "seller": "A Worldwide Golf Company",
+              "id": "0O92Gh5gKO0SUA0Y6wKCky",
+              "lastrecorded_at": 1449860000,
+              "availability": "Available",
+              "firstrecorded_at": 1449860000,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "category": "Rangefinders",
+      "mpn": "368550",
+      "features": {
+        "Item Weight": "8 ounces",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "height": "13.97",
+      "width": "44.96",
+      "variation_id": "2gb2no4AUac00SskE2amGE",
+      "manufacturer": "Business Success Systems",
+      "upc": "799430207553",
+      "gtins": [
+        "00799430207553",
+        "00029757368553"
+      ],
+      "variation_secondaryids": [
+        "3Qs5wKoU3MkQCOEiYk4EOyOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "127.00",
+      "features": {
+        "Item Weight": "9 pounds"
+      },
+      "category": "Irons",
+      "height": "1092.20",
+      "mpn": "N1384207",
+      "name": "TaylorMade Men's Rocketbladez Tour Iron Set []",
+      "model": "N1384207",
+      "cat_id": "20619",
+      "created_at": 1374716252,
+      "weight": "4989516.07",
+      "price": "449.99",
+      "sitedetails": [],
+      "brand": "TaylorMade",
+      "sem3_id": "3ZjptKxBXyU8I4qs8ogKk2",
+      "manufacturer": "TaylorMade",
+      "updated_at": 1460883682,
+      "width": "127.00",
+      "upc": "885583590014",
+      "ean": "0885583590014",
+      "variation_id": "36FulDYiLw6sKIeeo2Asay",
+      "gtins": [
+        "00885583590014"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "IR LH X HOT 9 GR STF",
+      "manufacturer": "Callaway",
+      "created_at": 1365756195,
+      "name": "Callaway X Hot Individual Iron []",
+      "updated_at": 1460883465,
+      "brand": "Callaway",
+      "cat_id": "20619",
+      "variation_id": "6uqVf4rFSa6Eoi2iwEeAaA",
+      "weight": "453592.37",
+      "upc": "884885380033",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "5 x 5 x 43 inches"
+      },
+      "sitedetails": [],
+      "category": "Irons",
+      "price": "112.50",
+      "color": "Silver",
+      "sem3_id": "3ixf4MdVHU2cscGMWMKisc",
+      "ean": "0884885380033",
+      "gtins": [
+        "00884885380033"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16174",
+      "sitedetails": [],
+      "variation_id": "6sfy8yKwQCywASKo4cyiCg",
+      "weight": "13607.77",
+      "sem3_id": "0jGeHTh5wWmkaICwyGYYcq",
+      "mpn": "ZL_Encore_White_D",
+      "name": "Cobra ZL Encore White Driver []",
+      "updated_at": 1460895473,
+      "upc": "847111012504",
+      "brand": "Cobra",
+      "category": "Drivers",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "manufacturer": "Cobra",
+      "price": "232.28",
+      "ean": "0847111012504",
+      "model": "ZL ENCORE WHT DRV GPH REG 10.5 LH",
+      "created_at": 1347571039,
+      "gtins": [
+        "00847111012504"
+      ],
+      "variation_secondaryids": [
+        "4XRJ3Kr0ZsImcmo4ccA80O"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "CG_Black_FW",
+      "ean": "3109883906618",
+      "model": "35518",
+      "brand": "Cleveland",
+      "created_at": 1347770781,
+      "name": "Cleveland Golf Black Fairway Wood []",
+      "manufacturer": "Cleveland",
+      "color": "Miyazaki C Kua 39 Gram LTD",
+      "weight": "13607.77",
+      "sem3_id": "7kNOpMd9JAGGEyGeoiO8sE",
+      "sitedetails": [],
+      "price": "199.99",
+      "features": {
+        "Item Weight": "2.5 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "updated_at": 1460920140,
+      "category": "Fairway Woods",
+      "variation_id": "40CBuJJFAGWUi0oGggQ84O",
+      "cat_id": "2396",
+      "gtins": [
+        "03109883906618"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "AMP CELL ORNG IRN STL REG 4 GW RH",
+      "sitedetails": [],
+      "price": "599.00",
+      "upc": "847111025894",
+      "mpn": "2114RSR4G",
+      "name": "Cobra Amp Cell Men's Orange Iron Set []",
+      "sem3_id": "5TS9aXT49AIoII2SCYkMUG",
+      "category": "Irons",
+      "length": "127.00",
+      "weight": "1360777.11",
+      "cat_id": "20619",
+      "color": "Orange",
+      "ean": "0847111025894",
+      "variation_id": "62Nlp1AgwC66EkWIseOSu2",
+      "height": "1092.20",
+      "manufacturer": "Cobra",
+      "brand": "Cobra",
+      "created_at": 1364223515,
+      "updated_at": 1460860195,
+      "features": {
+        "Product Dimensions": "5 x 5 x 43 inches ; 3 pounds",
+        "Metal wood face-weld construction with E9 Face Technology": "Creates a high COR zone and controls weighting with a lighter, high-strength face for explosive distance and forgiveness",
+        "Origin": "China",
+        "V-skid sole design": "Sculpted sole configuration that improves turf interaction for all swing types",
+        "AMP Cell technology": "Distributes weight from the face and body to create perimeter weighting and positions CG behind the Sweet Zone"
+      },
+      "width": "127.00",
+      "gtins": [
+        "00847111025894"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Graphite Design Tour AD Graphite",
+      "brand": "Cobra",
+      "weight": "453592.37",
+      "name": "Cobra Baffler T-Rail Fairway Wood [Regular, 18 Degrees, Right, Graphite Design Tour AD Graphite]",
+      "sem3_id": "2cCyZhKZM0WMwyOQ0a4AWM",
+      "sitedetails": [],
+      "manufacturer": "Cobra",
+      "updated_at": 1443502901,
+      "ean": "0847111011576",
+      "upc": "847111011576",
+      "model": "BAFF T RAIL FW GPH LITE 7W RH",
+      "category": "Fairway Woods",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "High-strength Face": "allows for 10% of the weight to be strategically repositioned low and back.",
+        "New tungsten rail soles": "Improve turf interaction and move the cg low and deep for high, penetrating ball flight.",
+        "Product Dimensions": "6 x 6 x 54 inches ; 4 pounds",
+        "Shallower face and new oversize profile": "Improved forgiveness and higher launch."
+      },
+      "created_at": 1347712823,
+      "cat_id": "2396",
+      "price": "76.04",
+      "variation_id": "2nyNcLnHo0IMAikSWa4guO",
+      "gtins": [
+        "00847111011576"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

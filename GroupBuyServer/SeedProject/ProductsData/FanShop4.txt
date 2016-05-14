@@ -1,0 +1,340 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "height": "579.12",
+      "price": "169.00",
+      "cat_id": "2715",
+      "created_at": 1357823331,
+      "upc": "878460004544",
+      "sitedetails": [],
+      "mpn": "C0537-Alabama",
+      "name": "Fan Creations Collegiate End Table",
+      "features": {
+        "Product Dimensions": "20.5 x 31.2 x 22.8 inches ; 34 pounds"
+      },
+      "sem3_id": "1oOivhVaNMSaYgCc0uKIyU",
+      "width": "793.75",
+      "category": "Furniture",
+      "brand": "Fan Creations",
+      "weight": "15422140.58",
+      "ean": "0878460004544",
+      "manufacturer": "Fan Creations",
+      "model": "C0537",
+      "updated_at": 1460739411,
+      "color": "Alabama Crimson Tide",
+      "length": "520.70",
+      "gtins": [
+        "00878460004544"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460716250,
+      "weight": "907.18",
+      "created_at": 1347762279,
+      "brand": "College Flags and Banners Co.",
+      "price": "21.95",
+      "sem3_id": "6MUQriFaq0KmMIYK4Ig8A0",
+      "manufacturer": "College Flags and Banners Co.",
+      "features": {
+        "Origin": "China"
+      },
+      "length": "10.16",
+      "category": "Patio, Lawn & Garden",
+      "width": "7.62",
+      "sitedetails": [],
+      "cat_id": "12861",
+      "upc": "816844010675",
+      "ean": "0816844010675",
+      "mpn": "148304069Gr",
+      "name": "University of Miami Hurricanes House Flag",
+      "gtins": [
+        "00816844010675"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "R37-30ILL",
+      "sem3_id": "6C507u4XNuGYgIQieeWOKQ",
+      "sitedetails": [],
+      "created_at": 1347637373,
+      "price": "26.44",
+      "name": "NCAA Embossed Trifold Wallet []",
+      "upc": "024994230144",
+      "updated_at": 1460714357,
+      "ean": "0024994230144",
+      "category": "Accessories",
+      "manufacturer": "Rico Industries",
+      "model": "R37 30ILL",
+      "color": "Illinois Fighting Illini",
+      "cat_id": "21364",
+      "weight": "204116.57",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Rico",
+      "gtins": [
+        "00024994230144"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "094131594262",
+      "ean": "0094131594262",
+      "color": "Louisiana State Fightin Tigers",
+      "name": "NCAA Crystal Freezer Mug []",
+      "price": "14.75",
+      "sem3_id": "7F8LAtZ5maIWY2O4s08WEQ",
+      "sitedetails": [],
+      "mpn": "DUC5LST-LCM426",
+      "width": "137.16",
+      "cat_id": "12028",
+      "created_at": 1347732639,
+      "category": "Kitchen & Dining",
+      "height": "104.14",
+      "updated_at": 1460726497,
+      "length": "154.94",
+      "weight": "385553.51",
+      "model": "LCM426",
+      "brand": "Duck House",
+      "manufacturer": "Duck House",
+      "features": {
+        "Origin": "China",
+        "Item Weight": "13.6 ounces"
+      },
+      "size": "16 fl. oz.",
+      "gtins": [
+        "00094131594262"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "1587.57",
+      "manufacturer": "College Flags and Banners Co.",
+      "price": "33.95",
+      "sem3_id": "6To2EcRYWWQU0iiCqEeQge",
+      "features": {
+        "Origin": "China"
+      },
+      "cat_id": "12861",
+      "width": "7.62",
+      "sitedetails": [],
+      "brand": "College Flags and Banners Co.",
+      "updated_at": 1460728043,
+      "name": "Alabama Throwback Mascot House Flag",
+      "ean": "0848267014756",
+      "created_at": 1374612608,
+      "mpn": "067304058SPEC1",
+      "length": "10.16",
+      "category": "Patio, Lawn & Garden",
+      "upc": "848267014756",
+      "gtins": [
+        "00848267014756"
+      ],
+      "variation_secondaryids": [
+        "0mG4ZQ68ggCA2G4gIAOScu"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "WinCraft",
+      "sem3_id": "4qRTwlNXO4WMma26QUIsuW",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "upc": "032085656094",
+      "updated_at": 1460728969,
+      "name": "NFL 65609013 Seattle Seahawks Premium Pennant, 12\" X 30\"",
+      "manufacturer": "WinCraft",
+      "cat_id": "24333",
+      "sitedetails": [],
+      "category": "Pennants",
+      "ean": "0032085656094",
+      "price": "12.81",
+      "color": "Official Team",
+      "size": "30\" Long",
+      "mpn": "65609081",
+      "model": "65609013",
+      "created_at": 1347733480,
+      "weight": "172365.10",
+      "gtins": [
+        "00032085656094"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1357108253,
+      "brand": "New Era",
+      "features": {
+        "Gender": "Men",
+        "Product Dimensions": "7.7 x 7.5 x 2.2 inches; 4 ounces",
+        "Team": "Philadelphia Eagles",
+        "Product": "Hat, Cap",
+        "Material": "Polyester"
+      },
+      "ean": "0887141265433",
+      "variation_id": "7AWKiL73fyemUwkeKkKUWg",
+      "cat_id": "21364",
+      "updated_at": 1460731099,
+      "sitedetails": [],
+      "model": "10628622PHILADELPHIA EAGLES",
+      "weight": "453592.37",
+      "sem3_id": "7OsUZ3fDJAy4os04agykge",
+      "color": "Black/Green",
+      "size": "7 3/4",
+      "category": "Accessories",
+      "upc": "887141265433",
+      "name": "Era NFL Black and Team Color 59FIFTY Fitted Cap []",
+      "price": "34.99",
+      "manufacturer": "New Era",
+      "mpn": "1019851",
+      "gtins": [
+        "00887141265433"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "3wV5xP2qa8cUIOkYIsGI8G",
+      "width": "1727.20",
+      "height": "889.00",
+      "sem3_id": "7lKWDKN5zkkUCQO0CYGeMI",
+      "weight": "907184.74",
+      "category": "Patio, Lawn & Garden",
+      "upc": "094746338299",
+      "sitedetails": [],
+      "length": "533.40",
+      "mpn": "138822",
+      "price": "25.99",
+      "updated_at": 1460731370,
+      "features": {
+        "Origin": "China",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "ean": "0094746338299",
+      "color": "Tennesse Titans",
+      "created_at": 1348680430,
+      "manufacturer": "OPTIMUM FULFILLMENT",
+      "brand": "OPTIMUM FULFILLMENT",
+      "cat_id": "12861",
+      "name": "NFL Licensed Deluxe Grill Covers",
+      "gtins": [
+        "00094746338299"
+      ],
+      "variation_secondaryids": [
+        "62AeXJN9yw0mciCSOSkGiI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "brand": "New Era",
+      "upc": "887141265167",
+      "model": "10628620SAN DIEGO CHARGERS",
+      "created_at": 1357108265,
+      "manufacturer": "New Era",
+      "cat_id": "21364",
+      "name": "Era NFL Black and Team Color 59FIFTY Fitted Cap []",
+      "sem3_id": "56fw3P2B2WEq0Oc48wKsWa",
+      "size": "7 1/8",
+      "category": "Accessories",
+      "mpn": "1019853",
+      "variation_id": "08gH5UMEeg4CKuk2KGAeCO",
+      "updated_at": 1460720015,
+      "weight": "453592.37",
+      "features": {
+        "Gender": "Men",
+        "Team": "San Diego Chargers",
+        "Product": "Hat, cap",
+        "Product Dimensions": "1 x 1 x 1 inches; 1 pounds",
+        "Material": "Polyester"
+      },
+      "ean": "0887141265167",
+      "color": "Black/Black",
+      "price": "27.99",
+      "gtins": [
+        "00887141265167"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "1MXAj9VjBIIqgioy2yEay2",
+      "created_at": 1442987145,
+      "manufacturer": "VF Imagewear - DROP SHIP",
+      "category": "Polo Shirts",
+      "upc": "821382615411",
+      "cat_id": "24429",
+      "brand": "VF LSG",
+      "model": "TTP2-1746-LD-58W_SMALL",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "color": "Royal",
+      "mpn": "TTP2-1746-LD-58W",
+      "ean": "0821382615411",
+      "price": "26.00",
+      "size": "Small",
+      "updated_at": 1460719782,
+      "sitedetails": [],
+      "name": "MLB Soft Hand Favorite Pitch Short sleeve tee []",
+      "variation_id": "2vJdZ7dXPsySoqOcmkK8ke",
+      "gtins": [
+        "00821382615411"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

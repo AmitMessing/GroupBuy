@@ -1,0 +1,540 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Moosejaw",
+      "color": "Red",
+      "manufacturer": "Moosejaw",
+      "cat_id": "15362",
+      "ean": "0094664410688",
+      "upc": "094664410688",
+      "updated_at": 1460251996,
+      "variation_id": "3ngqpu0ldI6a4ySWoEWyQI",
+      "sem3_id": "38PNPVznY0ImqCU4SWQ86Y",
+      "name": "Moosejaw Moontower Disc Red One Size",
+      "weight": "453592.37",
+      "price": "14.95",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "12 x 9 x 1 inches ; 9.6 ounces"
+      },
+      "sitedetails": [
+        {
+          "name": "xtremebikeandsport.com",
+          "recentoffers_count": 0,
+          "sku": "17372",
+          "url": "https://xtremebikeandsport.com/product?item_id=17372",
+          "latestoffers": [
+            {
+              "seller": "Xtreme Bike & Sport",
+              "id": "2KxlkPq8pQ8s4AkAMGeaYq",
+              "currency": "USD",
+              "firstrecorded_at": 1400947100,
+              "lastrecorded_at": 1400947100,
+              "price": "21.78",
+              "isactive": 0
+            },
+            {
+              "price": "21.45",
+              "currency": "USD",
+              "lastrecorded_at": 1389837500,
+              "firstrecorded_at": 1388708900,
+              "seller": "Xtreme Bike & Sport",
+              "id": "3UHRVjWfKCgm2wOCoM6Km0",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "id": "517PPUrqmGqOoweKeqqcU0",
+              "seller": "Sport Chalet",
+              "price": "24.99",
+              "currency": "USD",
+              "lastrecorded_at": 1408227300,
+              "firstrecorded_at": 1394764100,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.sportchalet.com/product/tech+&+games/balls+-+flying+discs/301881_3133649.do",
+          "sku": "3133649",
+          "recentoffers_count": 0,
+          "name": "sportchalet.com"
+        }
+      ],
+      "model": "NIZ 01",
+      "created_at": 1374245639,
+      "category": "Disc Golf",
+      "gtins": [
+        "00094664410688"
+      ],
+      "variation_secondaryids": [
+        "3YTHrkpTdYcsMQkmEs0gOg",
+        "7DR6ET5nxQWI8uGYe4Ca4A"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "711.20",
+      "model": "20029345",
+      "updated_at": 1460720519,
+      "mpn": "20029345",
+      "category": "Disc Golf",
+      "height": "330.20",
+      "name": "Innova Discatcher Sport Disc Golf Target",
+      "brand": "Innova",
+      "manufacturer": "Innova",
+      "price": "193.99",
+      "ean": "0080757431708",
+      "weight": "17236510.06",
+      "sitedetails": [],
+      "features": {
+        "Product Dimensions": "26 x 13 x 26 inches"
+      },
+      "width": "711.20",
+      "upc": "080757431708",
+      "sem3_id": "700asQOJBuGSAq6yAcUieA",
+      "created_at": 1348698969,
+      "cat_id": "15362",
+      "gtins": [
+        "00080757431708"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Rhino",
+      "mpn": "M01474W",
+      "size": "90L in.",
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "89 x 47 x 89 inches"
+      },
+      "category": "Table Games",
+      "name": "Atomic Double Shoot Out []",
+      "width": "984.25",
+      "cat_id": "6443",
+      "price": "495.99",
+      "color": "multicolor",
+      "upc": "754806132235",
+      "length": "1320.80",
+      "ean": "0754806132235",
+      "brand": "Rhino",
+      "height": "361.95",
+      "sitedetails": [],
+      "model": "M01474W",
+      "sem3_id": "54yIPLPTai4MI8K02kmcoM",
+      "updated_at": 1460501282,
+      "weight": "1188412.01",
+      "created_at": 1348667479,
+      "gtins": [
+        "00754806132235"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "113398.09",
+      "width": "101.60",
+      "updated_at": 1455385443,
+      "created_at": 1347712878,
+      "sem3_id": "4D20VRtbMGWsyiussYueKm",
+      "upc": "946640086700",
+      "model": "MTL 08 10",
+      "length": "139.70",
+      "manufacturer": "Nite Ize",
+      "size": "Pack of 1",
+      "cat_id": "24323",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "color": "Red",
+      "sitedetails": [
+        {
+          "name": "masseysoutfitters.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1405131500,
+              "currency": "USD",
+              "availability": "In Stock",
+              "seller": "MasseysOutfitters",
+              "price": "6.39",
+              "firstrecorded_at": 1405131500,
+              "id": "2vgUQxwEzIYW6046g0wuue",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1398134800,
+              "availability": "In Stock",
+              "currency": "USD",
+              "seller": "MasseysOutfitters",
+              "price": "5.99",
+              "id": "6yFsP5lpkOwKeYeYiYmCaY",
+              "firstrecorded_at": 1398134800,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.masseysoutfitters.com/10018187/product",
+          "sku": "10018187_11081"
+        },
+        {
+          "sku": "10018213_11604",
+          "url": "http://www.masseysoutfitters.com/10018213/product",
+          "latestoffers": [
+            {
+              "id": "7AiRHaSOMCwayi4yu8EsQa",
+              "firstrecorded_at": 1406102500,
+              "seller": "MasseysOutfitters",
+              "price": "7.49",
+              "availability": "In Stock",
+              "currency": "USD",
+              "lastrecorded_at": 1406680500,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "masseysoutfitters.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "12.99",
+              "seller": "Sheepleg",
+              "firstrecorded_at": 1391106400,
+              "id": "5utvinJe64i2QCi2gmaAW6",
+              "lastrecorded_at": 1421137100,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "meteorlight_Red49",
+          "url": "http://www.sheepleg.com/Nite_Ize_Meteorlight_LED_Ball_p/meteorlight.htm",
+          "name": "sheepleg.com"
+        }
+      ],
+      "name": "Nite Ize MeteorLight L.E.D Ball [Red, Pack of 1]",
+      "category": "Flying Discs",
+      "ean": "0094664008670",
+      "height": "50.80",
+      "variation_id": "1vJMymelkeCMumoqSkYou6",
+      "mpn": "MTL-08-10",
+      "price": "12.99",
+      "brand": "Nite Ize",
+      "gtins": [
+        "00946640086700",
+        "00094664008670"
+      ],
+      "variation_secondaryids": [
+        "5l2VXEERY8wKIKCO04cYaE",
+        "73HWrHa2YwWq86EoGySsu2",
+        "4QwhNyHv32gkaSWSokE6MoFe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "35BR BCT",
+      "brand": "Worldwise Imports",
+      "updated_at": 1460680424,
+      "upc": "035756940485",
+      "sem3_id": "3g1Rawn54S0O0yoA6uSKm8",
+      "name": "Black Russian on Black Chest",
+      "mpn": "35BR-BCT",
+      "created_at": 1357460994,
+      "features": {
+        "King Height": "3-1/2.",
+        "Square Size": "1-1/2.",
+        "Product Dimensions": "16 x 16 x 4 inches ; 10 pounds",
+        "Manufacturer recommended age": "8 years and up",
+        "King Base": "1-2/5."
+      },
+      "category": "Darts & Dartboards",
+      "sitedetails": [],
+      "price": "107.96",
+      "ean": "0035756940485",
+      "weight": "4535923.70",
+      "manufacturer": "WORLDWISE IMPORTS LLC",
+      "cat_id": "21394",
+      "gtins": [
+        "00035756940485"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "127.00",
+      "ean": "0009132610033",
+      "cat_id": "6443",
+      "color": "White",
+      "upc": "009132610033",
+      "brand": "Confer Plastics",
+      "weight": "10432624.51",
+      "created_at": 1364183125,
+      "model": "NE1165",
+      "price": "81.94",
+      "height": "1422.40",
+      "manufacturer": "Blue Wave Products",
+      "updated_at": 1458953563,
+      "sitedetails": [],
+      "category": "Table Games",
+      "name": "Confer Plastics Heavy Duty In-pool Ladder (Discontinued by Manufacturer)",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "5 x 18 x 56 inches ; 23 pounds"
+      },
+      "mpn": "6100B",
+      "size": "Evolution In-pool Ladder",
+      "sem3_id": "4HWxEzVmWm8meWEeKmWUyM",
+      "width": "457.20",
+      "gtins": [
+        "00009132610033"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "60q0Y33ujoisWgC0cgcsEM",
+              "seller": "Gandermountain",
+              "availability": "In Stock",
+              "firstrecorded_at": 1388778500,
+              "lastrecorded_at": 1420729300,
+              "currency": "USD",
+              "price": "39.99",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=756361",
+          "recentoffers_count": 1,
+          "listprice": "39.99",
+          "listprice_currency": "USD",
+          "name": "gandermountain.com",
+          "sku": "756361"
+        }
+      ],
+      "created_at": 1347748888,
+      "variation_id": "0jKivLFk02YQ24eeQc4yGS",
+      "category": "Billiards",
+      "price": "35.45",
+      "upc": "719265512585",
+      "ean": "0783847097050",
+      "color": "Green",
+      "brand": "Viper",
+      "updated_at": 1458966793,
+      "height": "38.10",
+      "model": "50 9005",
+      "width": "38.10",
+      "weight": "453592.37",
+      "sem3_id": "698cfeN7JoWSgqUWYEKUuM",
+      "name": "Viper Signature 57-Inch Realtree Camouflage Billiard Cue [Realtree APG Green]",
+      "manufacturer": "Viper",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Origin": "China",
+        "Product Dimensions": "31.5 x 4.4 x 2.9 inches ; 1.6 pounds"
+      },
+      "size": "18 to 21-Ounce (Weight will Vary)",
+      "mpn": "50-9005",
+      "length": "1447.80",
+      "cat_id": "13837",
+      "gtins": [
+        "00719265512585",
+        "00783847097050"
+      ],
+      "variation_secondaryids": [
+        "27LS65M6MGqgGgkCa68OWM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Billiards",
+      "size": "19 oz",
+      "upc": "812351010474",
+      "ean": "0812351010474",
+      "updated_at": 1458973895,
+      "model": "KIT2",
+      "created_at": 1347704845,
+      "name": "McDermott Pro Pool Cue Kit",
+      "manufacturer": "McDermott Cues",
+      "brand": "McDermott",
+      "mpn": "KIT2",
+      "sitedetails": [],
+      "sem3_id": "63TJOm51husuSCoc6qgiie",
+      "price": "92.50",
+      "cat_id": "13837",
+      "features": {
+        "Length (Inches)": "58.0",
+        "Gender": "Unisex",
+        "Series Name": "Pro",
+        "Cue Type": "Jump",
+        "Level of Play (Recommended Usage)": "Recreational",
+        "Warranty": "1-year limited",
+        "Weight (lbs.)": "1.19",
+        "Number of Pieces": "4.0",
+        "Includes Case": "Yes",
+        "Includes Replacement Tips": "No",
+        "Includes Bridge Head": "No"
+      },
+      "weight": "1723651.01",
+      "gtins": [
+        "00812351010474"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Downtown-3 Indoor Basketball Arcade-Style Electronic Hoops Game",
+      "mpn": "68100",
+      "brand": "Voit",
+      "updated_at": 1461206498,
+      "sem3_id": "4A3dQfJrbywGSuQCAKk4EK",
+      "features": {
+        "Finish": "Teak",
+        "Sport": "Basketball",
+        "Assembled Product Dimensions (L x W x H)": "18.90 x 18.90 x 71.46 IN",
+        "Recommended Use": "Residential",
+        "Condition": "New",
+        "Material": "Wood"
+      },
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/36268044",
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "id": "2zo1wBaLeiwEwSOeUkai8a",
+              "lastrecorded_at": 1461206400,
+              "price": "101.99",
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1461206400,
+              "isactive": 1
+            },
+            {
+              "seller": "Wayfair",
+              "id": "7i1fEdKVuKkwy2yaE0E0ue",
+              "lastrecorded_at": 1459370000,
+              "price": "72.98",
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1459370000,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1458432100,
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1458432100,
+              "price": "76.98",
+              "id": "6Kl0bNDxRIcWEGiSu04wY0",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "walmart.com",
+          "sku": "36268044"
+        }
+      ],
+      "created_at": 1356018248,
+      "price": "101.99",
+      "ean": "0639504681004",
+      "width": "1117.60",
+      "weight": "20955967.49",
+      "length": "2133.60",
+      "model": "68100",
+      "upc": "639504681004",
+      "category": "Table Games",
+      "height": "2133.60",
+      "manufacturer": "Voit",
+      "cat_id": "6443",
+      "gtins": [
+        "00639504681004"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Go Pong",
+      "height": "698.50",
+      "category": "Table Games",
+      "cat_id": "6443",
+      "updated_at": 1459065090,
+      "name": "GoPong 8-Foot Portable Beer Pong / Tailgate Tables",
+      "model": "GP 8 Football",
+      "mpn": "GP-8-Football",
+      "sem3_id": "3NEIyi4BvMQSQCucceiIUW",
+      "length": "2438.40",
+      "sitedetails": [],
+      "price": "89.99",
+      "ean": "0850298002343",
+      "weight": "11793401.62",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "width": "609.60",
+      "created_at": 1357675158,
+      "manufacturer": "Go Pong",
+      "upc": "850298002343",
+      "size": "96\"",
+      "gtins": [
+        "00850298002343"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

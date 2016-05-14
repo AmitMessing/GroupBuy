@@ -1,0 +1,617 @@
+{
+  "total_results_count": 4455,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "16327",
+      "updated_at": 1462708003,
+      "name": "Vullie Sophie Giraffe and Pie Pink - Natural Rubber and Food Paint Details Set of 2 []",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1CW0F11712",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1382755200,
+              "availability": "In stock. [BBX: Buy Box]",
+              "currency": "USD",
+              "seller": "DBRoth",
+              "price": "33.99",
+              "firstrecorded_at": 1362696500,
+              "id": "0peSX2edgGmIUqQSQO6MCm",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1380470100,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "seller": "Newegg",
+              "currency": "USD",
+              "firstrecorded_at": 1370509100,
+              "id": "16rROGb3o48goqyU4eQycW",
+              "price": "33.99",
+              "isactive": 0
+            }
+          ],
+          "sku": "9SIA1CW0F11712"
+        },
+        {
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Vulli-Sophie-the-Giraffe-Teether-616324-VLLI1000.html",
+          "recentoffers_count": 0,
+          "sku": "VLLI1000",
+          "latestoffers": [
+            {
+              "price": "22.00",
+              "id": "7bNn5SglbEa6GUesaSa4Oc",
+              "firstrecorded_at": 1393905400,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "lastrecorded_at": 1393905400,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "HealthCheck Systems, Inc",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1462708000,
+              "price": "38.21",
+              "id": "6VgGATYYTImqWQUggqE8KO",
+              "firstrecorded_at": 1433018100,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1429831300,
+              "seller": "HealthCheck Systems, Inc",
+              "currency": "USD",
+              "firstrecorded_at": 1424356600,
+              "id": "1vtS6NmORQg6mUMCsUww2c",
+              "price": "32.95",
+              "isactive": 0
+            }
+          ],
+          "sku": "39814245",
+          "recentoffers_count": 1,
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/39814245"
+        }
+      ],
+      "sem3_id": "1tzfRXKB4i2UOAQaa4COEe",
+      "manufacturer": "Vulli",
+      "mpn": "616324-300198",
+      "upc": "989898155439",
+      "category": "Teethers",
+      "weight": "907184.74",
+      "ean": "0989898155439",
+      "model": "7546",
+      "features": {
+        "Shipping Weight (in pounds)": "3.0",
+        "Origin of Components": "Imported",
+        "Assembled in Country of Origin": "Imported"
+      },
+      "created_at": 1347625806,
+      "price": "37.22",
+      "brand": "Vulli",
+      "size": "0-12 months",
+      "color": "Pink",
+      "gtins": [
+        "00989898155439"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "122001",
+      "brand": "Lifefactory",
+      "cat_id": "16327",
+      "category": "Teethers",
+      "sem3_id": "3pdgyxAhz6qGWSisGk8yMc",
+      "name": "Lifefactory Multi Sensory Silicone Teether, Sky/Spring Green, 2 Count [Sky/Spring Green]",
+      "size": "2",
+      "variation_id": "1SZ1PRb91AeuoGwU20kQq2",
+      "upc": "628586843608",
+      "ean": "0628586843608",
+      "mpn": "122001",
+      "weight": "226796.18",
+      "manufacturer": "Lifefactory",
+      "updated_at": 1462902961,
+      "features": {
+        "Product Dimensions": "5.5 x 4.5 x 1.6 inches",
+        "Number of items": "2",
+        "Origin": "USA",
+        "Batteries required": "No",
+        "Item Weight": "0.8 ounces"
+      },
+      "color": "Sky/Spring Green",
+      "price": "10.59",
+      "department": "baby-boys",
+      "sitedetails": [],
+      "created_at": 1347687626,
+      "gtins": [
+        "00628586843608"
+      ],
+      "variation_secondaryids": [
+        "1Ygd13qQoG4A2Wuy4S8c48i1"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "074451081727",
+      "updated_at": 1461437093,
+      "sem3_id": "1pSc7bUifQoiAEkcqqCew6",
+      "width": "114.30",
+      "variation_id": "0EI4xr9prf6UOAIWSU8uck",
+      "category": "Teethers",
+      "weight": "90718.47",
+      "created_at": 1347697676,
+      "cat_id": "16327",
+      "price": "4.88",
+      "length": "25.40",
+      "department": "baby-boys",
+      "name": "Bright Starts License to Drool Teether []",
+      "manufacturer": "KIDS II",
+      "sitedetails": [],
+      "mpn": "8172",
+      "brand": "Bright Starts",
+      "model": "8172",
+      "features": {
+        "Origin": "China",
+        "Item Weight": "1.6 ounces",
+        "Target gender": "Unisex",
+        "Batteries required": "No",
+        "Product Dimensions": "1 x 4.5 x 3.8 inches"
+      },
+      "ean": "0798256246951",
+      "height": "95.25",
+      "color": "Multi",
+      "gtins": [
+        "00074451081727",
+        "00798256246951"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "45359.24",
+      "color": "Orthees Transition",
+      "created_at": 1357119753,
+      "sem3_id": "2jf80xphk8UoysQ2OaYasy",
+      "manufacturer": "Dr. Brown's",
+      "cat_id": "16327",
+      "model": "TE220 P2",
+      "upc": "072239112205",
+      "size": "1 Count",
+      "updated_at": 1463156863,
+      "ean": "0072239112205",
+      "mpn": "TE200",
+      "price": "4.99",
+      "category": "Teethers",
+      "brand": "Dr. Brown's",
+      "name": "Dr. Brown's Teether, Coolees Watermelon []",
+      "features": {
+        "Target gender": "Unisex",
+        "Dishwasher safe": "No",
+        "Batteries required": "No",
+        "Is portable": "No",
+        "Origin": "China",
+        "Material Type": "BPA Free",
+        "Item Weight": "0.6 ounces"
+      },
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "5.99",
+              "firstrecorded_at": 1419595100,
+              "availability": "available",
+              "seller": "Toysrus",
+              "currency": "USD",
+              "lastrecorded_at": 1462924200,
+              "id": "7fq435WkdMIoC0aM8GGAsu",
+              "isactive": 1
+            }
+          ],
+          "sku": "12409876",
+          "url": "http://www.toysrus.com/product/index.jsp?productId=12409876",
+          "name": "toysrus.com"
+        }
+      ],
+      "gtins": [
+        "00072239112205"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348676769,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "59buEQPgZygQ8yuCUUcwsO",
+              "lastrecorded_at": 1382809700,
+              "currency": "USD",
+              "firstrecorded_at": 1362816200,
+              "availability": "In stock. [BBX: Buy Box]",
+              "seller": "DBRoth",
+              "price": "33.99",
+              "isactive": 0
+            },
+            {
+              "seller": "Newegg",
+              "price": "33.99",
+              "firstrecorded_at": 1370491500,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "currency": "USD",
+              "lastrecorded_at": 1380402800,
+              "id": "38hRWJ9hpI4YESggIyyWoG",
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1CW0F11705",
+          "sku": "9SIA1CW0F11705"
+        },
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "39.15",
+              "seller": "HealthCheck Systems, Inc",
+              "firstrecorded_at": 1433695300,
+              "availability": "Available",
+              "lastrecorded_at": 1461212100,
+              "currency": "USD",
+              "id": "0knTjKv5CAy8IGiE6uWSMy",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1427037100,
+              "price": "36.95",
+              "seller": "HealthCheck Systems, Inc",
+              "id": "7dCL1vPxfywMGeoykk68Ky",
+              "currency": "USD",
+              "lastrecorded_at": 1429998600,
+              "isactive": 0
+            }
+          ],
+          "sku": "39445581",
+          "url": "http://www.walmart.com/ip/39445581"
+        }
+      ],
+      "ean": "0989898155422",
+      "size": "0-12 months",
+      "upc": "989898155422",
+      "cat_id": "16327",
+      "color": "Blue",
+      "name": "Vullie Sophie Giraffe and Chan Blue - Natural Rubber and Food Paint Details Set of 2 [Blue]",
+      "category": "Teethers",
+      "model": "Vul 8240",
+      "price": "36.29",
+      "sem3_id": "3zU1ZOLf2OU6M26uCMuA8W",
+      "features": {
+        "Shipping Weight (in pounds)": "3.0",
+        "Origin of Components": "Imported",
+        "Assembled in Country of Origin": "Imported"
+      },
+      "brand": "Vulli",
+      "weight": "907184.74",
+      "manufacturer": "Vulli",
+      "updated_at": 1461646493,
+      "mpn": "616324-300197",
+      "gtins": [
+        "00989898155422"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347718681,
+      "price": "29.50",
+      "features": {
+        "Product Dimensions": "14.5 x 2 x 0.7 inches",
+        "Target gender": "Unisex",
+        "Item Weight": "0.3 ounces",
+        "Origin": "Imported",
+        "Material free": "BPA, phthalates, cadmium, lead, metals"
+      },
+      "sitedetails": [],
+      "brand": "Chewbeads",
+      "mpn": "chewbeadsjanered",
+      "category": "Teethers",
+      "model": "JANE NECKLACE   CHERRY RED",
+      "updated_at": 1462106579,
+      "upc": "854428003026",
+      "cat_id": "16327",
+      "sem3_id": "7Q6iaaNIfIagaKuOaoocgW",
+      "ean": "0854428003026",
+      "color": "Cherry Red",
+      "size": "adult",
+      "name": "Chewbeads Jane Necklace - Teething Jewelry - Soft on Infant's Gums and Teeth - 100% Safe Silicone - Easily Cleaned, Dishwasher Safe - Cherry Red [Cherry Red]",
+      "manufacturer": "Chewbeads",
+      "gtins": [
+        "00854428003026"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16327",
+      "manufacturer": "Mud Pie",
+      "sem3_id": "757t8b8X1UY4AsOcsoU0Ka",
+      "price": "15.10",
+      "features": {
+        "Sales Rank": "9268",
+        "Battery Info": "Not Applicable",
+        "Age Range / 8-11 years": "8-11 years"
+      },
+      "upc": "718540053997",
+      "width": "88.90",
+      "brand": "Mud Pie",
+      "color": "E-I-E-I-O",
+      "sitedetails": [],
+      "ean": "0718540053997",
+      "height": "25.40",
+      "category": "Teethers",
+      "name": "Mud Pie Baby E-I-E-I-O Rubber Duck Light-Up Toy Set (Discontinued by Manufacturer)",
+      "length": "76.20",
+      "created_at": 1347484788,
+      "mpn": "180390",
+      "model": "180390",
+      "updated_at": 1462171519,
+      "gtins": [
+        "00718540053997"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463128109,
+      "category": "Teethers",
+      "name": "Vulli Teether, Fanfan the Fawn []",
+      "price": "19.98",
+      "cat_id": "16327",
+      "color": "Fanfan the Fawn",
+      "brand": "Vulli",
+      "department": "baby-boys",
+      "ean": "3056566163403",
+      "model": "616340",
+      "features": {
+        "Material free": "BPA, Phthalate, Lead, PVC, Latex",
+        "Target gender": "Unisex",
+        "Product Dimensions": "9.2 x 4.4 x 2 inches",
+        "Batteries required": "No",
+        "Care instructions": "Do not sterilize. Wipe surface clean with soapy water and a damp cloth.",
+        "Item Weight": "0.3 ounces",
+        "material.composition": "Cotton",
+        "Origin": "France",
+        "Material Type": "100% natural rubber and food paint"
+      },
+      "manufacturer": "Vulli",
+      "sem3_id": "671g3qaqGmu4KK0u4q4suO",
+      "created_at": 1434777803,
+      "mpn": "616340",
+      "sitedetails": [
+        {
+          "sku": "8909691_12677075",
+          "url": "http://www.overstock.com/8909691/product.html",
+          "name": "overstock.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "23.59",
+              "availability": "Available",
+              "seller": "Overstock",
+              "currency": "USD",
+              "id": "4XFNXXKgzoY4ia6ks8wSOe",
+              "lastrecorded_at": 1462193600,
+              "firstrecorded_at": 1461960900,
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "seller": "Overstock",
+              "price": "23.79",
+              "lastrecorded_at": 1461669500,
+              "firstrecorded_at": 1461039500,
+              "id": "6gUGA4gKQaMYuWoI4euW2S",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "1KsxeK3JDkCaO2gGqsCEK4",
+              "firstrecorded_at": 1458950100,
+              "lastrecorded_at": 1460693200,
+              "price": "23.09",
+              "seller": "Overstock",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "size": "9.3 x 4.2 x 2 inches",
+      "weight": "453.59",
+      "gtins": [
+        "03056566163403"
+      ],
+      "variation_secondaryids": [
+        "37ChXNuZwu2IoWckSUwamC"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "MJ-040C",
+      "features": {
+        "Shipping Weight (in pounds)": "3.36",
+        "Battery Type": "Does Not Contain a Battery",
+        "Multi Pack Indicator": "No",
+        "Product in Inches (L x W x H)": "3.56 x 5.81 x 10.188"
+      },
+      "weight": "941204.17",
+      "cat_id": "12044",
+      "category": "Health & Baby Care",
+      "sem3_id": "4nvwZQ8SCm8S0CgSyMOOQ6",
+      "created_at": 1439227973,
+      "brand": "Enfamil",
+      "name": "Enfamil Infant Baby Formula",
+      "updated_at": 1462801377,
+      "price": "100.49",
+      "sitedetails": [
+        {
+          "url": "http://www.soap.com/p/enfamil-infant-baby-formula-powder-12-5-oz-6-pk-1214160",
+          "name": "soap.com",
+          "latestoffers": [
+            {
+              "price": "100.49",
+              "id": "1HUP0osHKggOEaekkGmumc",
+              "lastrecorded_at": 1462801300,
+              "firstrecorded_at": 1439227900,
+              "seller": "Soap",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "1214160"
+        },
+        {
+          "url": "http://www.walmart.com/ip/15939732",
+          "name": "walmart.com",
+          "sku": "15939732",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1456392100,
+              "lastrecorded_at": 1462110100,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Walmart",
+              "price": "147.91",
+              "id": "6i1bOzaNxg4K06uicUG4yi",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "TOMY",
+      "created_at": 1347503756,
+      "variation_id": "5lyx5cUIBUuEkQWA6AmYKa",
+      "upc": "813741010401",
+      "width": "127.00",
+      "ean": "0813741010401",
+      "department": "baby-boys",
+      "features": {
+        "Target gender": "Unisex",
+        "Item Weight": "3.2 ounces",
+        "Origin": "China",
+        "Material Type": "Plastic",
+        "Batteries required": "No",
+        "Care instructions": "Hand Wash",
+        "Product Dimensions": "0.8 x 1.1 x 14.6 inches"
+      },
+      "sem3_id": "3RJqeHBXxYIA6M4KG4iUK0",
+      "length": "203.20",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "allmodern.com",
+          "sku": "BOO1113",
+          "url": "http://www.allmodern.com/Boon-Gnaw-Teething-Tether-Blue-Raspberry-Tangerine-287-L3830-K~BOO1113.html?ptid=38909797636",
+          "latestoffers": [
+            {
+              "price": "12.94",
+              "id": "5Ef6RxC0OeEEqWWccIaEEa",
+              "seller": "AllModern",
+              "firstrecorded_at": 1386344700,
+              "availability": "Available",
+              "lastrecorded_at": 1386344700,
+              "currency": "USD",
+              "shipping": "4.99",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "mpn": "2413.15",
+      "brand": "Boon",
+      "cat_id": "16327",
+      "name": "Boon Gnaw Multi-Purpose Teething Tether,Blue/Orange []",
+      "price": "5.18",
+      "color": "Blue Raspberry/Tangerine",
+      "category": "Teethers",
+      "height": "25.40",
+      "updated_at": 1463128736,
+      "model": "B287",
+      "gtins": [
+        "00813741010401"
+      ],
+      "variation_secondaryids": [
+        "3YNjjIm7FQeC2oi4CiUuek",
+        "6RU1mysHkeEYGAqMma8wcKZ0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

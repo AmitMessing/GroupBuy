@@ -1,0 +1,561 @@
+{
+  "total_results_count": 25937,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "width": "609.60",
+      "features": {
+        "Minimum weight recommendation": "8 Pounds",
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Item Weight": "1.5 pounds",
+        "Maximum weight recommendation": "35 Pounds",
+        "Dishwasher safe": "No",
+        "Origin": "China",
+        "Is portable": "No",
+        "Target gender": "Unisex"
+      },
+      "variation_id": "5VzXzLYcQCaGGu6Kg8Mkei",
+      "name": "Baby K'tan Organic Baby Carrier, Natural, Medium []",
+      "category": "Soft Carriers",
+      "sem3_id": "2AfJ0uBzjY6YkUOski4c2W",
+      "sitedetails": [
+        {
+          "name": "allmodern.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1379632900,
+              "id": "2bLbqdvzjocIUUGQU0i2ww",
+              "seller": "AllModern",
+              "availability": "Available",
+              "lastrecorded_at": 1383314800,
+              "currency": "USD",
+              "price": "59.95",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-L752-K~BKT1006.html",
+          "sku": "BKT1006"
+        },
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1379632900,
+              "id": "2bLbqdvzjocIUUGQU0i2ww",
+              "seller": "AllModern",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1386078200,
+              "price": "59.95",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006.html",
+          "sku": "Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006",
+          "name": "allmodern.com"
+        }
+      ],
+      "ean": "0827912059649",
+      "length": "1181.10",
+      "weight": "680388.55",
+      "upc": "827912059649",
+      "height": "25.40",
+      "department": "baby-boys",
+      "model": "BKBC NO M",
+      "price": "59.95",
+      "brand": "Baby Ktan",
+      "created_at": 1347719624,
+      "size": "Medium",
+      "mpn": "BKBC-NO-M",
+      "updated_at": 1460675062,
+      "manufacturer": "Baby K'Tan",
+      "cat_id": "12496",
+      "color": "Natural",
+      "gtins": [
+        "00827912059649"
+      ],
+      "variation_secondaryids": [
+        "3XLlAbXKuO4kaeWu6u8W4a"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "1181.10",
+      "mpn": "BKBC-NO-XL",
+      "variation_id": "5VzXzLYcQCaGGu6Kg8Mkei",
+      "weight": "680388.55",
+      "manufacturer": "Baby K'Tan",
+      "width": "609.60",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "allmodern.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1383082700,
+              "availability": "Available",
+              "id": "0wnuwHeyXMeiA8UCeKGMmw",
+              "firstrecorded_at": 1380310900,
+              "seller": "AllModern",
+              "price": "59.95",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-L752-K~BKT1006.html",
+          "sku": "BKT1006"
+        },
+        {
+          "recentoffers_count": 1,
+          "name": "allmodern.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1385913400,
+              "price": "59.95",
+              "id": "0wnuwHeyXMeiA8UCeKGMmw",
+              "firstrecorded_at": 1380310900,
+              "seller": "AllModern",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006.html",
+          "sku": "Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006"
+        }
+      ],
+      "features": {
+        "Maximum weight recommendation": "35 Pounds",
+        "Minimum weight recommendation": "8 Pounds",
+        "Item Weight": "1.5 pounds",
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Origin": "India",
+        "Product Dimensions": "46.5 x 24 x 1 inches",
+        "Target gender": "Unisex"
+      },
+      "height": "25.40",
+      "created_at": 1347719624,
+      "price": "59.95",
+      "cat_id": "12496",
+      "color": "Natural",
+      "name": "Baby K'tan Organic Baby Carrier, Natural, X-Large []",
+      "department": "baby-boys",
+      "sem3_id": "38j76FN8jQi6iGG8uE0Msq",
+      "size": "X-Large",
+      "ean": "0827912059625",
+      "model": "BKBC NO XL",
+      "category": "Soft Carriers",
+      "updated_at": 1460696649,
+      "brand": "Baby Ktan",
+      "upc": "827912059625",
+      "gtins": [
+        "00827912059625"
+      ],
+      "variation_secondaryids": [
+        "2CMhcj84tMGuyQGc48AiyK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Chicco 06063803650070 Polly Double Pad High Chair Adventure",
+      "sitedetails": [],
+      "mpn": "06063803650070, 10-1223-07",
+      "ean": "0049796602708",
+      "sem3_id": "0Soh22TJQacU0k6qG6EMOw",
+      "brand": "Chicco",
+      "category": "Backpacks & Carriers",
+      "cat_id": "11749",
+      "upc": "049796602708",
+      "features": {
+        "Minimum weight recommendation": "5 Pounds",
+        "Item Weight": "22 pounds",
+        "Origin": "China",
+        "Maximum weight recommendation": "37 Pounds",
+        "Material Type": "Metal,Plastic",
+        "Product Dimensions": "31 x 25 x 41 inches"
+      },
+      "updated_at": 1460154571,
+      "price": "292.58",
+      "created_at": 1380647910,
+      "gtins": [
+        "00049796602708"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Origin": "China",
+        "Additional product features": "Eco-Friendly",
+        "Care instructions": "Machine washable: Cold with mild detergent on gentle cycle. Dry on delicate cycle and remove when seams are still damp. Air dry.",
+        "Item Weight": "11.4 ounces",
+        "Target gender": "Unisex",
+        "Product Dimensions": "11.8 x 9.4 inches",
+        "Batteries required": "No",
+        "Number of items": "1"
+      },
+      "mpn": "NZEG00101",
+      "color": "Galaxy Grey",
+      "cat_id": "3722",
+      "updated_at": 1460148194,
+      "manufacturer": "Ergobaby",
+      "ean": "0845197035875",
+      "category": "Accessories",
+      "length": "58.42",
+      "variation_id": "76dRstxyTooYSMWUQsI62E",
+      "width": "254.00",
+      "price": "23.00",
+      "name": "ERGObaby Original Doll Carrier, Galaxy Grey (Discontinued by Manufacturer)",
+      "sem3_id": "7VufsbmaW0uaCkm8kMQG60",
+      "height": "177.80",
+      "upc": "845197005243",
+      "brand": "ERGObaby",
+      "weight": "113398.09",
+      "created_at": 1347597216,
+      "model": "NZEG00101",
+      "sitedetails": [],
+      "gtins": [
+        "00845197005243",
+        "00845197035875"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "CM7v2",
+      "brand": "Phil Ted's",
+      "cat_id": "18685",
+      "model": "CM_V2_7_200_USA",
+      "height": "450.09",
+      "created_at": 1347472738,
+      "color": "Charcoal/Charcoal",
+      "sem3_id": "7U1evx17jcIgKgsqUGAeQY",
+      "width": "320.04",
+      "category": "Backpacks",
+      "variation_id": "4wHv8qqwJkW2gO4WSmyC6e",
+      "ean": "9420015719321",
+      "features": {
+        "Product Dimensions": "27.6 x 12.6 x 17.7 inches",
+        "Origin": "China",
+        "Item Weight": "4.4 pounds",
+        "Minimum weight recommendation": "5 Pounds",
+        "Maximum weight recommendation": "45 Pounds",
+        "Additional product features": "Adjustable",
+        "Number of items": "1",
+        "Batteries required": "No",
+        "Target gender": "Unisex"
+      },
+      "name": "phil&teds Metro Child Carrier, Charcoal/Charcoal []",
+      "length": "700.02",
+      "manufacturer": "phil&teds",
+      "price": "189.99",
+      "size": "Charcoal/Charcoal",
+      "weight": "2000342.35",
+      "department": "baby-boys",
+      "updated_at": 1460558809,
+      "sitedetails": [],
+      "gtins": [
+        "09420015719321"
+      ],
+      "variation_secondaryids": [
+        "6JqQRIwBqSKiS4sKomKWSq",
+        "3O34gurJzs6Q0Q0GWeekGW"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "1016.00",
+      "brand": "Fisher Price",
+      "color": "Tree Party",
+      "updated_at": 1460493601,
+      "name": "Fisher-Price Papasan Cradle Swing, Butterfly Garden []",
+      "sem3_id": "4o1tOpZo126qokmIso2AaE",
+      "cat_id": "11043",
+      "variation_id": "7bVlG89wnoMiOKwKCs6cEQ",
+      "ean": "0027084442595",
+      "manufacturer": "Fisher-Price",
+      "created_at": 1347802366,
+      "upc": "746775115425",
+      "features": {
+        "Item Weight": "22 pounds",
+        "Origin": "Made in USA or Imported",
+        "Maximum weight recommendation": "25 Pounds",
+        "material.composition": "Metal",
+        "Product Dimensions": "25.2 x 15.2 x 13.5 inches",
+        "Number of items": "1",
+        "Specification met": "certified frustration-free",
+        "Seating capacity": "20.00"
+      },
+      "department": "baby-girls",
+      "mpn": "X2535",
+      "length": "914.40",
+      "category": "Swings",
+      "model": "X2535",
+      "width": "762.00",
+      "sitedetails": [],
+      "price": "132.03",
+      "weight": "9570799.01",
+      "gtins": [
+        "00746775115425",
+        "00027084442595"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "Small",
+      "width": "101.60",
+      "length": "228.60",
+      "upc": "827912059731",
+      "created_at": 1347760598,
+      "weight": "498951.61",
+      "features": {
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Minimum weight recommendation": "8 Pounds",
+        "Target gender": "Unisex",
+        "Maximum weight recommendation": "35 Pounds",
+        "Material Type": "Cotton",
+        "Additional product features": "Adjustable",
+        "Number of items": "1",
+        "Batteries required": "No",
+        "Item Weight": "1.3 pounds",
+        "Origin": "USA",
+        "Number of reclining positions": "6"
+      },
+      "manufacturer": "Baby K'Tan",
+      "category": "Soft Carriers",
+      "mpn": "BKBC-BR-S",
+      "sitedetails": [
+        {
+          "url": "http://www.allmodern.com/Baby-KTan-Cotton-Baby-Carrier-BKBC-BR-L752-K~BKT1001.html",
+          "recentoffers_count": 1,
+          "sku": "BKT1001",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1384857900,
+              "availability": "Available",
+              "id": "31jM7t6Ks4CSgwagmkWKye",
+              "firstrecorded_at": 1384857900,
+              "seller": "AllModern",
+              "price": "50.44",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "seller": "AllModern",
+              "price": "50.81",
+              "currency": "USD",
+              "lastrecorded_at": 1384153500,
+              "availability": "Available",
+              "firstrecorded_at": 1384153500,
+              "id": "0EoVKBb9gB68AO4KaYemOm",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1381925700,
+              "id": "6g2fd7maxM4cya0WGy62Kc",
+              "firstrecorded_at": 1381925700,
+              "price": "51.37",
+              "seller": "AllModern",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "allmodern.com"
+        }
+      ],
+      "gtins": [
+        "00827912059731",
+        "00827912059724",
+        "00827912075380"
+      ],
+      "variation_id": "3DrgRFMl6eoucKOuag0MUi",
+      "sem3_id": "6UlrfdJO0OUS6QaswU6AqC",
+      "brand": "Baby Ktan",
+      "cat_id": "12496",
+      "price": "49.95",
+      "color": "Warm Cocoa",
+      "name": "Baby K'tan ORIGINAL Baby Carrier, Black, X-Small []",
+      "updated_at": 1460523601,
+      "model": "BKBC BR S",
+      "ean": "0827912059724",
+      "height": "304.80",
+      "variation_secondaryids": [
+        "07XwpR6jtwmM4QQMqiSOAy",
+        "2TIoE8pRRIYkms4oua0uyY",
+        "3YJhdLGdwuWScqOgg6yY8g"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Beco Baby Carrier",
+      "cat_id": "12496",
+      "color": "Metro Black",
+      "sitedetails": [],
+      "price": "129.00",
+      "model": "S1RE MBLK",
+      "variation_id": "7hNfMHlrySW2qsKk0c0eSI",
+      "updated_at": 1460593615,
+      "length": "530.10",
+      "brand": "Beco Baby Carrier",
+      "created_at": 1375916733,
+      "upc": "817579011197",
+      "width": "320.04",
+      "sem3_id": "6dr9BliGUwcgWUICQEmEAi",
+      "height": "9.91",
+      "weight": "907184.74",
+      "name": "Beco Soleil Baby Carrier - Metro Black []",
+      "ean": "0817579011197",
+      "size": "Birth -and UP",
+      "mpn": "S1RE-MBLK",
+      "features": {
+        "Item Weight": "1.8 pounds",
+        "Minimum weight recommendation": "7 Pounds",
+        "Number of items": "1",
+        "Product Dimensions": "20.9 x 12.6 x 0.4 inches",
+        "Batteries required": "No",
+        "Target gender": "Unisex",
+        "Maximum weight recommendation": "45 Pounds"
+      },
+      "category": "Soft Carriers",
+      "gtins": [
+        "00817579011197"
+      ],
+      "variation_secondaryids": [
+        "0IfGcauNOwC4s6gQOKc4KC"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0845197010704",
+      "sem3_id": "0EwG2aQDOnAcUU8iKIECMm",
+      "brand": "ERGObaby",
+      "color": "Peaceful Portofino",
+      "model": "CREG10102",
+      "manufacturer": "Ergo Baby",
+      "name": "Ergobaby Designer Series Petunia Pickle Bottom Carrier, Peaceful Portofino (Discontinued by Manufacturer)",
+      "cat_id": "12496",
+      "features": {
+        "Item Weight": "2 pounds",
+        "Safety warning": "Babies between 7 lb (3.2 kg) and 12 lb (5.5 kg) must use the Ergobaby Infant Insert with the Ergobaby Carier, and the baby should only be carried in the front-carry position. Babies more than 12 lb (5.5 kg) but younger than 4 months or without strong and consistent head and neck control must continue using the Ergobaby Infant Insert with the carrier. Neither the baby carrier nor the Infant Insert should be used for children under 7 lb (3.2 kg).",
+        "Care instructions": "Machine washable: Cold with mild detergent on gentle cycle. Dry on delicate cycle and remove when seams are still damp. Air dry.",
+        "Origin": "Imported (India)",
+        "Discontinued by manufacturer": "Yes",
+        "Target gender": "Unisex",
+        "Product Dimensions": "12.2 x 10.1 x 4.6 inches",
+        "Material Type": "Organic Cotton Canvas, Organic Cotton Sateen, PU Foam",
+        "Maximum weight recommendation": "45 Pounds",
+        "Minimum weight recommendation": "7 Pounds"
+      },
+      "length": "307.34",
+      "category": "Soft Carriers",
+      "height": "111.76",
+      "weight": "13607.77",
+      "price": "135.25",
+      "updated_at": 1460690203,
+      "width": "248.92",
+      "mpn": "CREG10102",
+      "sitedetails": [],
+      "created_at": 1347763979,
+      "upc": "845197010605",
+      "gtins": [
+        "00845197010605",
+        "00845197010704"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "ERGObaby",
+      "updated_at": 1458942854,
+      "width": "340.11",
+      "mpn": "BC6CALEDIIC",
+      "category": "Soft Carriers",
+      "department": "Baby Products",
+      "color": "Black",
+      "created_at": 1357850019,
+      "upc": "045625000622",
+      "sem3_id": "5zOrBf7aamQ2MU4euKMuSK",
+      "model": "ERG 7909",
+      "features": {
+        "Is portable": "No",
+        "Target gender": "Unisex",
+        "Item Weight": "1.5 pounds",
+        "Safety warning": "Babies between 7 lb (3.2 kg) and 12 lb (5.5 kg) must use the Ergobaby Infant Insert with the Ergobaby Carier, and the baby should only be carried in the front-carry position. Babies more than 12 lb (5.5 kg) but younger than 4 months or without strong and consistent head and neck control must continue using the Ergobaby Infant Insert with the carrier. Neither the baby carrier nor the Infant Insert should be used for children under 7 lb (3.2 kg).",
+        "Dishwasher safe": "No",
+        "Batteries required": "No",
+        "Material Type": "Cotton",
+        "Care instructions": "Machine washable: Cold with mild detergent on gentle cycle. Dry on delicate cycle and remove when seams are still damp. Air dry.",
+        "Minimum weight recommendation": "7 Pounds",
+        "Maximum weight recommendation": "45 Pounds",
+        "Origin": "China",
+        "Style": "Original Collection"
+      },
+      "sitedetails": [],
+      "ean": "0045625000622",
+      "price": "114.00",
+      "weight": "689460.40",
+      "cat_id": "12496",
+      "length": "400.05",
+      "brand": "ERGObaby",
+      "name": "Ergobaby Original 3 Position Baby Carrier Black Camel [Black/Camel]",
+      "gtins": [
+        "00045625000622"
+      ],
+      "variation_secondaryids": [
+        "6cXSpxEsVMSw2Eyk6wOSKI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

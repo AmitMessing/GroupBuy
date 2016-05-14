@@ -1,0 +1,368 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "category": "Travel Covers",
+      "sem3_id": "2V5RTgfUWaa4KQaS8AYOcO",
+      "features": {
+        "Product Dimensions": "12 x 54 x 16 inches ; 15 pounds",
+        "Origin": "China"
+      },
+      "length": "304.80",
+      "brand": "Samsonite",
+      "size": "54-inch",
+      "sitedetails": [],
+      "cat_id": "14189",
+      "updated_at": 1460780954,
+      "upc": "609529685028",
+      "width": "1371.60",
+      "weight": "453592.37",
+      "price": "145.28",
+      "mpn": "6850-SIL",
+      "manufacturer": "Samsonite",
+      "height": "406.40",
+      "model": "6850SIL",
+      "name": "Samsonite Golf Hard Sided Travel Cover Case []",
+      "color": "Silver",
+      "variation_id": "0g2YsHRQcoCW4IGsCckUYm",
+      "ean": "0609529685028",
+      "created_at": 1347735381,
+      "gtins": [
+        "00609529685028"
+      ],
+      "variation_secondaryids": [
+        "46fzWgrE7EQSCUisO2IsAO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "CONDITION SPECIFICS": "New condition 10, Brand New!",
+        "DEXTERITY": "Left-Handed",
+        "SHAFT SPECIFICS": "Graphite Grafalloy ProLaunch Blue 60-R",
+        "GENDER": "Men",
+        "SHAFT": "Graphite",
+        "CONDITION": "New",
+        "GRIP": "Tour Elite Plus",
+        "FLEX": "Regular",
+        "CLUB": "4h-6h+7-PW+GW"
+      },
+      "price": "399.99",
+      "updated_at": 1460128114,
+      "mpn": "01AD379 4GW GR R",
+      "created_at": 1347668946,
+      "upc": "658628133084",
+      "model": "170799139",
+      "cat_id": "20619",
+      "sitedetails": [],
+      "weight": "9071.85",
+      "sem3_id": "6WrlJvG4000uWCaC66QqeQ",
+      "name": "Adams Golf Idea A12OS 7-GW 4,5,6 Hybrid",
+      "manufacturer": "Adams Golf",
+      "ean": "0658628133084",
+      "variation_id": "0TTtkV3XcEwqMUqAacA68e",
+      "brand": "Adams Golf",
+      "category": "Irons",
+      "size": "Standard",
+      "gtins": [
+        "00658628133084"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2bQF6GX0WuU4cAawsMMIGi",
+      "price": "179.99",
+      "created_at": 1364217144,
+      "width": "127.00",
+      "sitedetails": [
+        {
+          "sku": "worldwidegolfshops_10050026_489238",
+          "latestoffers": [
+            {
+              "price": "179.99",
+              "seller": "A Worldwide Golf Company",
+              "firstrecorded_at": 1449675800,
+              "id": "1XkOOxdRNA0Asa66YoUeAE",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1455632600,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "worldwidegolfshops.com",
+          "url": "http://www.worldwidegolfshops.com/10050026/Product"
+        }
+      ],
+      "upc": "885583504738",
+      "brand": "TaylorMade",
+      "weight": "1360777.11",
+      "model": "Ghost Spider S",
+      "manufacturer": "Taylor Made",
+      "height": "1092.20",
+      "size": "35 inch",
+      "variation_id": "4HuiLiqZbMmqSSyQaAySwa",
+      "cat_id": "8353",
+      "name": "TaylorMade Ghost Spider S Putter",
+      "category": "Putters",
+      "mpn": "01TM783 S 35",
+      "ean": "0885583504738",
+      "updated_at": 1458949443,
+      "features": {
+        "Product Dimensions": "34 x 4 x 4 inches",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "length": "127.00",
+      "gtins": [
+        "00885583504738"
+      ],
+      "variation_secondaryids": [
+        "3JrSdX6CZEoEM8WaukWKAEOg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1458946520,
+      "upc": "884885389036",
+      "width": "127.00",
+      "price": "899.99",
+      "weight": "4082331.33",
+      "brand": "Callaway",
+      "name": "Callaway X Hot Iron Set [4-PW, SW, Light, Right, Graphite]",
+      "model": "IR RH X HOT 4PS GR WMS",
+      "color": "Silver",
+      "cat_id": "20619",
+      "mpn": "4780452601576",
+      "sem3_id": "2SBB8opGKOkQQwkSuUUyEW",
+      "manufacturer": "Callaway",
+      "ean": "0884885389036",
+      "variation_id": "4eI9oUGHzEsKgUe8skmyEg",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "China"
+      },
+      "created_at": 1364128289,
+      "length": "127.00",
+      "height": "1092.20",
+      "category": "Irons",
+      "sitedetails": [],
+      "gtins": [
+        "00884885389036"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Nike Golf Men's VRS Victory Red Speed Covert Fairway Wood [Regular, Right, Graphite]",
+      "width": "152.40",
+      "weight": "1360777.11",
+      "length": "152.40",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "6 x 6 x 54 inches ; 3 pounds"
+      },
+      "category": "Fairway Woods",
+      "manufacturer": "Nike Golf",
+      "mpn": "GY0845-001",
+      "updated_at": 1458993780,
+      "sem3_id": "1XVe51S4j6OIiisUQ8mQ6Q",
+      "ean": "0886915433986",
+      "model": "GY0845",
+      "height": "1371.60",
+      "created_at": 1364128385,
+      "upc": "886915433986",
+      "brand": "Nike",
+      "variation_id": "2sRXkbfgQqYqOYoUO0kag2",
+      "price": "199.99",
+      "sitedetails": [],
+      "cat_id": "2396",
+      "gtins": [
+        "00886915433986"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1364128365,
+      "category": "Irons",
+      "sem3_id": "1JzAzDiPlE6K0ao2MAQaqg",
+      "sitedetails": [],
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "ean": "3109883931764",
+      "cat_id": "20619",
+      "variation_id": "02XbBA1rxDIOUggEMwAYoo",
+      "weight": "453592.37",
+      "model": "37275",
+      "name": "Cleveland Golf Men's Altitude Iron Set []",
+      "updated_at": 1460723860,
+      "price": "499.99",
+      "brand": "Cleveland Golf",
+      "manufacturer": "Cleveland Golf",
+      "mpn": "37275",
+      "gtins": [
+        "03109883931764"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "1xvVaDeYlcyIW0Sy2aoYoG",
+      "ean": "3109883933768",
+      "mpn": "37426",
+      "sitedetails": [],
+      "manufacturer": "Cleveland",
+      "updated_at": 1460720287,
+      "created_at": 1364196620,
+      "name": "Cleveland Golf 588 MT Iron Set []",
+      "price": "699.99",
+      "features": {
+        "Origin": "China",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "cat_id": "20619",
+      "brand": "Cleveland Golf",
+      "sem3_id": "4v9T2Ku7OSGkkKmUGmSE0Q",
+      "weight": "4082331.33",
+      "category": "Irons",
+      "model": "37426",
+      "gtins": [
+        "03109883933768"
+      ],
+      "variation_secondaryids": [
+        "1GEaRsNL26yscwKg6s6E4y"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "5q9i51w2xycuQWI2akYaew",
+      "model": "37216",
+      "variation_id": "02XbBA1rxDIOUggEMwAYoo",
+      "created_at": 1364128365,
+      "brand": "Cleveland Golf",
+      "price": "370.88",
+      "category": "Irons",
+      "name": "Cleveland Golf Men's Altitude Iron Set []",
+      "updated_at": 1460652563,
+      "weight": "453592.37",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "mpn": "37216",
+      "ean": "3109883931177",
+      "cat_id": "20619",
+      "manufacturer": "Cleveland Golf",
+      "sitedetails": [],
+      "gtins": [
+        "03109883931177"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "50aiIqTy6SeyAU8ywW2sIS",
+      "created_at": 1364146688,
+      "name": "Cleveland Golf Classic XL Driver []",
+      "cat_id": "16174",
+      "model": "38166",
+      "brand": "Cleveland Golf",
+      "sem3_id": "5N3OZLduMaOSyGWYY0KcSs",
+      "updated_at": 1460653631,
+      "sitedetails": [],
+      "color": "Black",
+      "ean": "3109883942593",
+      "mpn": "38166",
+      "price": "145.32",
+      "category": "Drivers",
+      "weight": "453592.37",
+      "features": {
+        "Item Weight": "2 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "manufacturer": "Cleveland Golf",
+      "gtins": [
+        "03109883942593"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "TaylorMade",
+      "name": "TaylorMade Men's Rocketbladez Tour Iron Set []",
+      "sem3_id": "1X9oXipzJEAQqs6ww4iiCO",
+      "price": "524.99",
+      "ean": "0885583589940",
+      "upc": "885583589940",
+      "weight": "4989516.07",
+      "model": "Rocketbladez Tour",
+      "category": "Irons",
+      "updated_at": 1460481534,
+      "brand": "TaylorMade",
+      "variation_id": "1oj6ETdhkGos0GgGSKkwYw",
+      "mpn": "N1383111",
+      "cat_id": "20619",
+      "created_at": 1364152272,
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "sitedetails": [],
+      "gtins": [
+        "00885583589940"
+      ],
+      "variation_secondaryids": [
+        "36FulDYiLw6sKIeeo2Asay"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "total_results_count": 25937,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "63.99",
+      "brand": "Safety 1st",
+      "model": "WA028ALJ",
+      "sem3_id": "7gTi7fDZx2AYQAUeMwoMIY",
+      "created_at": 1357625766,
+      "updated_at": 1460365633,
+      "upc": "884392551513",
+      "color": "Pink",
+      "manufacturer": "Safety1st",
+      "features": {
+        "Item Weight": "12.5 pounds",
+        "Number of items": "1",
+        "Maximum weight recommendation": "30 Pounds",
+        "Best uses": "baby activity center",
+        "Additional product features": "Adjustable HeightCompact FoldToys",
+        "Product Dimensions": "28.5 x 25 x 22.5 inches",
+        "Target gender": "Female"
+      },
+      "sitedetails": [],
+      "name": "Disney Baby Music and Lights Walker, Happily Ever After (Discontinued by Manufacturer)",
+      "mpn": "WA028ALJ",
+      "size": "Baby-Walker",
+      "cat_id": "14211",
+      "ean": "0884392551513",
+      "category": "Walkers",
+      "gtins": [
+        "00884392551513"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "37.77",
+      "department": "mens",
+      "length": "5511.80",
+      "manufacturer": "Moby Wrap",
+      "weight": "907184.74",
+      "sem3_id": "0CgY4zvRMx6gqA0U28osC0",
+      "brand": "Moby Wrap",
+      "updated_at": 1460583585,
+      "variation_id": "6X2eRpCdu4AOOmMq0sOEQa",
+      "model": "MWUV Turquoise",
+      "width": "609.60",
+      "upc": "843390000218",
+      "color": "Turquoise",
+      "category": "Slings",
+      "cat_id": "3482",
+      "created_at": 1347582646,
+      "features": {
+        "This item": "Moby Wrap UV SPF 50+ 100% Cotton Baby Carrier, Turquoise",
+        "Item Weight": "2 pounds",
+        "Target gender": "Unisex",
+        "Maximum weight recommendation": "35 Pounds",
+        "Product Dimensions": "217 x 24 x 0.8 inches",
+        "Minimum weight recommendation": "5 Pounds"
+      },
+      "sitedetails": [],
+      "height": "20.32",
+      "name": "Moby Wrap UV SPF 50+ 100% Cotton Baby Carrier, Almond Blossom []",
+      "mpn": "MW-UVTurquoise",
+      "ean": "0843390001963",
+      "gtins": [
+        "00843390000218",
+        "00843390001963"
+      ],
+      "variation_secondaryids": [
+        "0CuELnGx0t6QwKWawuusY0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "759482710",
+      "ean": "5023133506459",
+      "name": "Mamas & Papas MAGIC Stargaze Playmat & Gym",
+      "color": "Mixed",
+      "sitedetails": [],
+      "price": "159.99",
+      "department": "Baby",
+      "brand": "Mamas Papas",
+      "features": {
+        "Item Weight": "6.9 pounds",
+        "Product Dimensions": "35.4 x 35.4 x 19.7 inches",
+        "Target gender": "Unisex"
+      },
+      "category": "Baby Gyms & Playmats",
+      "manufacturer": "Mamas & Papas",
+      "cat_id": "2991",
+      "sem3_id": "4Ww4rWmmoiEqkMUAcmWuEm",
+      "created_at": 1348680355,
+      "model": "759482710",
+      "height": "500.13",
+      "width": "899.92",
+      "upc": "795871494545",
+      "weight": "22679618.50",
+      "length": "899.92",
+      "updated_at": 1458934036,
+      "gtins": [
+        "00795871494545",
+        "05023133506459"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2LVVhH24EqGIuIokCogMO0",
+      "brand": "Baby Ktan",
+      "updated_at": 1461168340,
+      "manufacturer": "Baby K'Tan",
+      "height": "25.40",
+      "category": "Soft Carriers",
+      "ean": "0827912059632",
+      "name": "Baby K'tan Organic Baby Carrier, Natural, Large []",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1384628900,
+              "id": "2nZZ689p9EwWAWC2OCS2YK",
+              "seller": "AllModern",
+              "currency": "USD",
+              "price": "59.95",
+              "availability": "Available",
+              "firstrecorded_at": 1380890600,
+              "isactive": 0
+            }
+          ],
+          "sku": "BKT1006",
+          "recentoffers_count": 0,
+          "name": "allmodern.com",
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-L752-K~BKT1006.html"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "allmodern.com",
+          "latestoffers": [
+            {
+              "seller": "AllModern",
+              "currency": "USD",
+              "lastrecorded_at": 1385336800,
+              "id": "2nZZ689p9EwWAWC2OCS2YK",
+              "availability": "Available",
+              "firstrecorded_at": 1380890600,
+              "price": "59.95",
+              "isactive": 0
+            }
+          ],
+          "sku": "Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006",
+          "url": "http://www.allmodern.com/Baby-KTan-Organic-Baby-Carrier-BKBC-NO-BKT1006.html"
+        }
+      ],
+      "width": "609.60",
+      "model": "BKBC NO L",
+      "cat_id": "12496",
+      "upc": "827912059632",
+      "color": "Natural",
+      "created_at": 1347719624,
+      "mpn": "BKBC-NO-L",
+      "department": "baby-boys",
+      "features": {
+        "Maximum weight recommendation": "35 Pounds",
+        "Item Weight": "1.5 pounds",
+        "Product Dimensions": "46.5 x 24 x 1 inches",
+        "Target gender": "Unisex",
+        "Origin": "China",
+        "Minimum weight recommendation": "8 Pounds",
+        "Safety warning": "Follow instructions provided by the manufacturer."
+      },
+      "size": "Large",
+      "weight": "680388.55",
+      "price": "54.00",
+      "length": "1181.10",
+      "variation_id": "5VzXzLYcQCaGGu6Kg8Mkei",
+      "gtins": [
+        "00827912059632"
+      ],
+      "variation_secondaryids": [
+        "2CMhcj84tMGuyQGc48AiyK",
+        "3XLlAbXKuO4kaeWu6u8W4a"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "department": "unisex-baby",
+      "length": "5511.80",
+      "category": "Soft Carriers",
+      "updated_at": 1462961558,
+      "ean": "0843390000096",
+      "height": "20.32",
+      "sem3_id": "6W433V7SXAO8O42COasy2M",
+      "price": "34.00",
+      "upc": "843390000096",
+      "color": "Sienna",
+      "mpn": "MW-Sienna",
+      "model": "MW Sienna",
+      "cat_id": "12496",
+      "name": "Moby Wrap Original 100% Cotton Baby Carrier, Sienna []",
+      "created_at": 1347607912,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "target.com",
+              "firstrecorded_at": 1386802400,
+              "currency": "USD",
+              "id": "6vAbobWn9U6ieWCSUycCEW",
+              "availability": "Not Available in stock",
+              "lastrecorded_at": 1426560700,
+              "price": "44.99",
+              "isactive": 0
+            },
+            {
+              "seller": "target.com",
+              "firstrecorded_at": 1367912000,
+              "currency": "USD",
+              "id": "1CTOzGwVo0E4EocwQeuYK6",
+              "lastrecorded_at": 1372790100,
+              "availability": "Available Online",
+              "price": "47.99",
+              "isactive": 0
+            },
+            {
+              "price": "44.95",
+              "lastrecorded_at": 1362721700,
+              "availability": "Available Online. Not Available In Store",
+              "id": "5I0mHdHIqWCQ8gk0Ueu8SW",
+              "currency": "USD",
+              "firstrecorded_at": 1360483300,
+              "seller": "target.com",
+              "isactive": 0
+            }
+          ],
+          "sku": "11110554",
+          "url": "http://www.target.com/p/moby-wrap-baby-carrier-sienna/-/A-11110554",
+          "name": "target.com"
+        },
+        {
+          "sku": "MOB1008",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "44.95",
+              "shipping": "4.99",
+              "seller": "AllModern",
+              "firstrecorded_at": 1388043100,
+              "currency": "USD",
+              "id": "6lR4GsaCEScokUaWCmW8oG",
+              "availability": "Available",
+              "lastrecorded_at": 1388043100,
+              "isactive": 1
+            },
+            {
+              "price": "47.95",
+              "firstrecorded_at": 1384242600,
+              "seller": "AllModern",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1384242600,
+              "id": "6hmY26NnJu4OSiUsciuuSm",
+              "isactive": 0
+            },
+            {
+              "price": "55.95",
+              "id": "4ilXAjWUyeseysKqaGSeWU",
+              "availability": "Available",
+              "lastrecorded_at": 1381978200,
+              "currency": "USD",
+              "seller": "AllModern",
+              "firstrecorded_at": 1380735100,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.allmodern.com/Moby-Wrap-Cotton-Baby-Carrier-MW-Choc-L752-K~MOB1008.html",
+          "name": "allmodern.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "13368385",
+          "latestoffers": [
+            {
+              "id": "1gGowavE24UIcsumemkaKk",
+              "lastrecorded_at": 1460245900,
+              "availability": "available",
+              "currency": "USD",
+              "seller": "Toysrus",
+              "firstrecorded_at": 1419596700,
+              "price": "44.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.toysrus.com/product/index.jsp?productId=13368385",
+          "name": "toysrus.com"
+        }
+      ],
+      "variation_id": "0AcNKhH8AFcE02cU8w2KKW",
+      "features": {
+        "Others": "Multiple Position Options",
+        "Maximum Weight Capacity": "35.0 Lb.",
+        "Manufacturer's Suggested Age": "Newborn and Up",
+        "Safety and Security Features": "Triple Wrapped",
+        "Care and Cleaning": "Machine Wash",
+        "Includes": "Instruction Booklet",
+        "Material": "Cotton",
+        "Minimum Age": "Newborn",
+        "Dimensions": "4.5 \" W x 4.5 \" D x 8.5 \" L",
+        "Minimum Weight Supported": "8.0 Lb."
+      },
+      "width": "609.60",
+      "brand": "Moby Wrap",
+      "weight": "907184.74",
+      "manufacturer": "Moby Wrap",
+      "gtins": [
+        "00843390000096"
+      ],
+      "variation_secondaryids": [
+        "71QlTANBnUYyKM4240WCcY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "031878039700",
+      "brand": "Jeep",
+      "name": "Jeep 2-in-1 Sport Baby Carrier (Discontinued by Manufacturer)",
+      "manufacturer": "Jeep",
+      "mpn": "JC004-XSL1",
+      "ean": "0031878039700",
+      "color": "Grey",
+      "price": "74.98",
+      "height": "330.20",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "29.99",
+              "firstrecorded_at": 1407364000,
+              "currency": "USD",
+              "seller": "Walmart",
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1421799400,
+              "id": "7Xk0V8TxQmmgM6yCg8u4wQ",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/24547296",
+          "sku": "24547296"
+        }
+      ],
+      "sem3_id": "38sk9w3NqKUqeISeE4iuOU",
+      "model": "JC004 XSL2",
+      "updated_at": 1462292807,
+      "category": "Soft Carriers",
+      "cat_id": "12496",
+      "weight": "7076.04",
+      "length": "254.00",
+      "department": "baby-boys",
+      "features": {
+        "Origin": "China",
+        "Batteries required": "No",
+        "Product Dimensions": "10 x 3 x 13 inches",
+        "Maximum weight recommendation": "26 Pounds",
+        "Minimum weight recommendation": "8 Pounds",
+        "Item Weight": "1.6 pounds"
+      },
+      "width": "76.20",
+      "created_at": 1375916703,
+      "gtins": [
+        "00031878039700"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0879496000036",
+      "size": "Medium",
+      "upc": "879496000036",
+      "features": {
+        "Batteries required": "No",
+        "Material Type": "Cotton",
+        "Maximum weight recommendation": "35 Pounds",
+        "Target gender": "Unisex",
+        "Best uses": "Babywearing and breastfeeding",
+        "Care instructions": "Machine Washable",
+        "Minimum weight recommendation": "8 Pounds",
+        "Item Weight": "1.3 pounds"
+      },
+      "model": "LPS M 37",
+      "updated_at": 1461883676,
+      "mpn": "452_LPS_M_37",
+      "created_at": 1347570363,
+      "sitedetails": [],
+      "sem3_id": "3If8dqSkvgQEGq8iquQuYu",
+      "color": "Bright Stripe",
+      "category": "Slings",
+      "manufacturer": "Maya Wrap",
+      "name": "Maya Wrap® Lightly Padded Ring Sling - Bright Stripes - Medium []",
+      "brand": "Maya Wrap",
+      "cat_id": "3482",
+      "price": "79.90",
+      "gtins": [
+        "00879496000036"
+      ],
+      "variation_secondaryids": [
+        "3kXssqpI3s2ogEiI0i24U0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "11749",
+      "color": "Evening in Innsbruck",
+      "price": "99.79",
+      "features": {
+        "Care instructions": "Machine washable: Cold with mild detergent on gentle cycle. Dry on delicate cycle and remove when seams are still damp. Air dry.",
+        "Maximum weight recommendation": "45 Pounds",
+        "Minimum weight recommendation": "7 Pounds",
+        "Target gender": "Unisex",
+        "Batteries required": "No",
+        "Material Type": "Organic Cotton Canvas, Organic Cotton Sateen, PU Foam",
+        "Safety warning": "Babies between 7 lb (3.2 kg) and 12 lb (5.5 kg) must use the Ergobaby Infant Insert with the Ergobaby Carier, and the baby should only be carried in the front-carry position. Babies more than 12 lb (5.5 kg) but younger than 4 months or without strong and consistent head and neck control must continue using the Ergobaby Infant Insert with the carrier. Neither the baby carrier nor the Infant Insert should be used for children under 7 lb (3.2 kg).",
+        "Product Dimensions": "12.2 x 10.1 x 4.6 inches",
+        "Item Weight": "2 pounds",
+        "Discontinued by manufacturer": "Yes",
+        "Origin": "Imported (India)"
+      },
+      "mpn": "CREG10103",
+      "height": "109.22",
+      "name": "ERGObaby Petunia Pickle Bottom Carrier, Evening in Innsbruck (Discontinued by Manufacturer)",
+      "sitedetails": [],
+      "length": "307.34",
+      "upc": "845197010728",
+      "variation_id": "6QAXGzoo4GKAQIA4SoK4cS",
+      "width": "254.00",
+      "category": "Backpacks & Carriers",
+      "created_at": 1347495470,
+      "updated_at": 1460154443,
+      "ean": "0845197010704",
+      "sem3_id": "4ABNenhd8qgIWOWIggG4yI",
+      "model": "CREG10103",
+      "brand": "ERGObaby",
+      "manufacturer": "Ergo Baby",
+      "gtins": [
+        "00845197010728",
+        "00845197010704"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "1181.10",
+      "size": "Small",
+      "upc": "827912059694",
+      "sem3_id": "1HvC343EMi0y4wQ8YyqAME",
+      "updated_at": 1461145055,
+      "color": "Sage Green",
+      "weight": "680388.55",
+      "name": "Baby K'tan Baby Carrier, Sage Green, Large (Discontinued by Manufacturer)",
+      "sitedetails": [
+        {
+          "url": "http://www.allmodern.com/Baby-KTan-Cotton-Baby-Carrier-BKBC-BR-L752-K~BKT1001.html",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "id": "0wxR3SZz2ECwkI6uKwUA2K",
+              "lastrecorded_at": 1385701900,
+              "currency": "USD",
+              "seller": "AllModern",
+              "firstrecorded_at": 1385701900,
+              "availability": "Available",
+              "price": "50.56",
+              "isactive": 1
+            },
+            {
+              "id": "4iPED0BQL28Me4W8oW0yoC",
+              "seller": "AllModern",
+              "lastrecorded_at": 1380934300,
+              "currency": "USD",
+              "firstrecorded_at": 1380934300,
+              "price": "51.31",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "id": "4maCgHTa6aWOauOwgScsq6",
+              "seller": "AllModern",
+              "currency": "USD",
+              "lastrecorded_at": 1379662700,
+              "firstrecorded_at": 1379662700,
+              "price": "50.62",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "allmodern.com",
+          "sku": "BKT1001"
+        }
+      ],
+      "model": "BKBC SG S",
+      "brand": "Baby Ktan",
+      "created_at": 1347760598,
+      "mpn": "BKBC-SG-S",
+      "variation_id": "3DrgRFMl6eoucKOuag0MUi",
+      "height": "25.40",
+      "features": {
+        "Product Dimensions": "8 x 3.5 x 8.5 inches",
+        "Item Weight": "1.4 pounds",
+        "Additional product features": "10",
+        "Target gender": "Unisex",
+        "Safety warning": "Follow instructions provided by the manufacturer.",
+        "Material Type": "Cotton",
+        "Minimum weight recommendation": "8 Pounds",
+        "Maximum weight recommendation": "35 Pounds",
+        "Number of reclining positions": "6",
+        "Number of items": "1",
+        "Origin": "China"
+      },
+      "price": "50.56",
+      "category": "Soft Carriers",
+      "manufacturer": "Baby K'Tan",
+      "department": "baby-boys",
+      "ean": "0827912076653",
+      "width": "609.60",
+      "cat_id": "12496",
+      "gtins": [
+        "00827912059694",
+        "00827912076653"
+      ],
+      "variation_secondaryids": [
+        "2TIoE8pRRIYkms4oua0uyY",
+        "07XwpR6jtwmM4QQMqiSOAy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "22352",
+      "color": "Geo Trim",
+      "variation_id": "4cKP4T42WmM82aqCeWc2Gm",
+      "manufacturer": "Balboa Baby",
+      "price": "49.99",
+      "brand": "Balboa Baby",
+      "mpn": "90101",
+      "gtins": [
+        "00811499010889",
+        "00811499012296",
+        "00811499011763"
+      ],
+      "category": "Shopping Cart Covers",
+      "name": "Balboa Baby Shopping Cart Cover, Diamond []",
+      "upc": "811499010889",
+      "length": "259.08",
+      "sem3_id": "3F5ddLkeLwYkKuGW4A0oG6",
+      "weight": "453592.37",
+      "ean": "0811499012296",
+      "height": "127.00",
+      "created_at": 1347809302,
+      "features": {
+        "Origin": "Imported",
+        "Product Dimensions": "4 x 19 x 22 inches",
+        "Number of items": "1",
+        "Material Type": "Phthalate Free, Latex Free, Lead Free, BPA Free",
+        "Minimum weight recommendation": "15 Pounds",
+        "Item Weight": "1 pounds",
+        "Target gender": "Unisex",
+        "Maximum weight recommendation": "35 Pounds"
+      },
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1380631300,
+              "price": "49.99",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1380631300,
+              "seller": "AllModern",
+              "id": "171fQoSApqgAgI2KIe2sww",
+              "isactive": 0
+            }
+          ],
+          "sku": "Balboa-Baby-Shopping-Cart-High-Chair-Cover-90111-BLB1033",
+          "recentoffers_count": 0,
+          "url": "http://www.allmodern.com/Balboa-Baby-Shopping-Cart-High-Chair-Cover-90111-BLB1033.html",
+          "name": "allmodern.com"
+        },
+        {
+          "url": "http://www.allmodern.com/Balboa-Baby-Shopping-Cart-High-Chair-Cover-90111-L1057-K~BLB1033.html",
+          "name": "allmodern.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1385765400,
+              "seller": "AllModern",
+              "id": "171fQoSApqgAgI2KIe2sww",
+              "firstrecorded_at": 1380631300,
+              "price": "49.99",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "sku": "BLB1033"
+        }
+      ],
+      "department": "baby-boys",
+      "model": "90101",
+      "updated_at": 1461560313,
+      "width": "177.80",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

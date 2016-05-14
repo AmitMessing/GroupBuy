@@ -1,0 +1,433 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "Mizuno",
+      "cat_id": "2265",
+      "variation_id": "48WWzPHP1EmgmEkYqMSEM2",
+      "length": "203.20",
+      "color": "Black",
+      "updated_at": 1458936400,
+      "sitedetails": [],
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "7 x 6.2 x 0.4 inches ; 4.8 ounces"
+      },
+      "width": "152.40",
+      "brand": "Mizuno",
+      "height": "10.16",
+      "created_at": 1347661393,
+      "size": "Small",
+      "model": "480105.9090.04.S",
+      "category": "Protective Gear",
+      "sem3_id": "5dMooMvfzUquum2iqAIqUG",
+      "upc": "041969901434",
+      "price": "19.98",
+      "ean": "0041969901434",
+      "weight": "113398.09",
+      "name": "Mizuno LR6 Volleyball Kneepad [Black, Small]",
+      "mpn": "480105-BLK-S",
+      "gtins": [
+        "00041969901434"
+      ],
+      "variation_secondaryids": [
+        "15m3jzjCAoiGic8gESkm2G",
+        "4qf0aW00XoYe6a60GyWm6e"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "139.70",
+      "sitedetails": [
+        {
+          "url": "http://www.eastbay.com/product/sku:818001",
+          "sku": "818001_Black_L",
+          "listprice_currency": "USD",
+          "name": "eastbay.com",
+          "recentoffers_count": 1,
+          "listprice": "19.98",
+          "latestoffers": [
+            {
+              "id": "4GjvN1Lphwgkuew4gSMQIE",
+              "lastrecorded_at": 1423177200,
+              "availability": "Available",
+              "price": "18.98",
+              "currency": "USD",
+              "firstrecorded_at": 1423177200,
+              "seller": "Eastbay Inc.",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "url": "http://www.eastbay.com/product/sku:8180014",
+          "sku": "8180014_Digi_Camo_Gold_Grey_Black_L",
+          "recentoffers_count": 0,
+          "name": "eastbay.com",
+          "latestoffers": [
+            {
+              "seller": "Eastbay Inc.",
+              "firstrecorded_at": 1418390400,
+              "currency": "USD",
+              "price": "19.98",
+              "availability": "Available",
+              "lastrecorded_at": 1418390400,
+              "id": "0RyVi2EmUakyQYOyOMSiyS",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "updated_at": 1460752920,
+      "weight": "453592.37",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "price": "18.98",
+      "height": "22.86",
+      "category": "Protective Gear",
+      "manufacturer": "EvoShield",
+      "cat_id": "17533",
+      "color": "Black",
+      "created_at": 1348670309,
+      "width": "83.82",
+      "brand": "EVO",
+      "ean": "0891226002615",
+      "model": "A180BLKL",
+      "upc": "891226002615",
+      "variation_id": "4UGYfkftEGKuI0acewUC2m",
+      "sem3_id": "4IYMYA6zgOEuqcuuEqMoqG",
+      "size": "Large",
+      "name": "EvoShield Compression Arm Sleeve []",
+      "mpn": "020EV005 BLK L",
+      "gtins": [
+        "00891226002615"
+      ],
+      "variation_secondaryids": [
+        "5ItmfoEyK8yy62iKOOEKuQ",
+        "3fd8POVf724kOkacksaMGmBg",
+        "5TXdqJusuewug0gCOcsuYWBg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "4HX2syqz3goueeMocGWE4m",
+      "upc": "885002127289",
+      "color": "Navy",
+      "updated_at": 1458952441,
+      "mpn": "5424",
+      "name": "Easton Speed Elite Traditional Catcher's Facemask [Navy]",
+      "cat_id": "17533",
+      "model": "A165098NY",
+      "manufacturer": "Easton",
+      "ean": "0885002127289",
+      "weight": "13607.77",
+      "category": "Protective Gear",
+      "sitedetails": [],
+      "brand": "Easton",
+      "created_at": 1347631363,
+      "price": "68.42",
+      "sem3_id": "3U8x7hWDnsi4UO2wCuiwIc",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "3 pounds"
+      },
+      "gtins": [
+        "00885002127289"
+      ],
+      "variation_secondaryids": [
+        "4RTeQkyGZ60UwySAwGQqaa"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Marucci Bat Co.",
+      "manufacturer": "MARUCCI SPORTS, LLC",
+      "category": "Bats",
+      "variation_id": "4M012ne6lksm6w00k0IEWG",
+      "created_at": 1347733592,
+      "sitedetails": [],
+      "color": "Black Barrel/Natural Handle/Albert Pujol",
+      "features": {
+        "Item Weight": "2 pounds",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "weight": "1360777.11",
+      "sem3_id": "05bXd5lPnBgqS6KSsWeWAo",
+      "price": "139.99",
+      "updated_at": 1458945040,
+      "cat_id": "9743",
+      "mpn": "002MC000 AP NTBK 31",
+      "size": "31 inches",
+      "name": "Marucci Maple AP5 Pro Model Baseball Bat [Natural/Black, 31 inches]",
+      "model": "5282",
+      "upc": "814204011201",
+      "ean": "0814204011201",
+      "gtins": [
+        "00814204011201"
+      ],
+      "variation_secondaryids": [
+        "3ssva1Lnho8GcEEwOwIMoW"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0044277481841",
+      "size": "31 - Inch",
+      "model": "MLB225YB 31",
+      "category": "Baseball",
+      "weight": "725747.79",
+      "sem3_id": "1NMJXhtg2iEWoIwaocgW8q",
+      "width": "25.40",
+      "manufacturer": "Louisville Slugger",
+      "brand": "Louisville Slugger",
+      "variation_id": "2PqVyp7BvAweeIkIYmS0eU",
+      "mpn": "1670",
+      "updated_at": 1458972554,
+      "created_at": 1347779422,
+      "upc": "044277481841",
+      "sitedetails": [],
+      "length": "78740.00",
+      "features": {
+        "Discontinued by manufacturer": "Yes",
+        "Product Dimensions": "3,100 x 1 x 1 inches"
+      },
+      "cat_id": "460",
+      "height": "25.40",
+      "name": "LOUISVILLE SLUGGER Youth Wood Baseball Bat [27 inch]",
+      "color": "Natural",
+      "gtins": [
+        "00044277481841"
+      ],
+      "variation_secondaryids": [
+        "6vgHvxtu76gYYC2YueGsOS"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "1ccIdSwX0OQgwSGEMcm0S0",
+      "size": "Large",
+      "ean": "0041969365861",
+      "upc": "041969365861",
+      "updated_at": 1458965168,
+      "color": "Royal",
+      "mpn": "018MZ046 RYBK L",
+      "model": "330264.5252.10.L",
+      "weight": "453592.37",
+      "sitedetails": [],
+      "cat_id": "19443",
+      "manufacturer": "Mizuno",
+      "sem3_id": "4mueVZ0ulMAsuUKg66uGEq",
+      "category": "Batting Gloves",
+      "features": {
+        "Item Weight": "1 pounds",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "name": "Mizuno Vintage Pro G4 Batting Gloves [Black, Large]",
+      "created_at": 1348694232,
+      "brand": "Mizuno",
+      "gtins": [
+        "00041969365861"
+      ],
+      "variation_secondaryids": [
+        "7C7rJ8gZzkGa4S8iQGy6qe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Protective Gear",
+      "upc": "041969268537",
+      "variation_id": "46ndAk1akKu0SmYAQOO2SM",
+      "price": "74.95",
+      "brand": "Mizuno",
+      "created_at": 1347668496,
+      "sem3_id": "189BZ8yL58acO6iQasCEuG",
+      "mpn": "022MZ010 BLK",
+      "sitedetails": [],
+      "color": "Black",
+      "weight": "1360777.11",
+      "updated_at": 1460652979,
+      "features": {
+        "Item Weight": "2 pounds",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "ean": "0041969268537",
+      "cat_id": "17533",
+      "name": "Mizuno G4 Youth Samurai Catcher's Helmet []",
+      "manufacturer": "Mizuno",
+      "model": "380192.9090.01.0000",
+      "size": "6.5-Inch - 7.25-Inch",
+      "gtins": [
+        "00041969268537"
+      ],
+      "variation_secondaryids": [
+        "4VOaRtCbHEcYcUOOYaKos4",
+        "6Rjd8U0YASYm4YOakOmy42"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1381757938,
+      "size": "29-Inch/21-Ounce",
+      "upc": "885002281264",
+      "name": "Easton 2014 XL1 SL14X18 Baseball Bat (-8)",
+      "sitedetails": [
+        {
+          "name": "champssports.com",
+          "recentoffers_count": 1,
+          "listprice": "249.99",
+          "listprice_currency": "USD",
+          "sku": "111650_29",
+          "url": "http://www.champssports.com/product/model:209743/sku:111650",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1414682500,
+              "price": "299.99",
+              "seller": "champssports",
+              "firstrecorded_at": 1414682500,
+              "availability": "Available",
+              "id": "0Xv99ZK68f2OIYOSoUwGuM",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "category": "Bats",
+      "cat_id": "9743",
+      "weight": "371378.75",
+      "model": "A11165029",
+      "mpn": "A11165029",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "color": "Yellow/Black",
+      "manufacturer": "Easton",
+      "sem3_id": "4BpJl3OW6Syqy8UIeuEMoA",
+      "variation_id": "0eb5WcluXdQ0QEAGkO8aKa",
+      "ean": "0885002281264",
+      "brand": "Easton",
+      "updated_at": 1460656926,
+      "price": "299.99",
+      "gtins": [
+        "00885002281264"
+      ],
+      "variation_secondaryids": [
+        "1Zv0I73HaGAWseMsWmkk2c",
+        "3l1857KIiOgw8i2i42K2gUuk"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "DeMarini Vendetta Bag with Wheels []",
+      "color": "Black/Purple",
+      "sitedetails": [],
+      "model": "5516",
+      "cat_id": "3970",
+      "updated_at": 1460701159,
+      "mpn": "045WS038 BKPU",
+      "ean": "0883813710522",
+      "sem3_id": "723Wwgr5M0ucwIC4SmAm6g",
+      "variation_id": "4GWAQCUNIOyaGsqeGg68yM",
+      "created_at": 1347625022,
+      "brand": "Demarini",
+      "manufacturer": "DeMARINI",
+      "features": {
+        "Product Dimensions": "20 x 12 x 3 inches ; 3 pounds",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "weight": "3628738.96",
+      "upc": "883813710522",
+      "category": "Equipment Bags",
+      "gtins": [
+        "00883813710522"
+      ],
+      "variation_secondaryids": [
+        "1I0EyyMcnCaQYMMsYsG4IK",
+        "4YbaZI9ne4cWgcAGGGaSC4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Protective Gear",
+      "sem3_id": "1JzvTyeJH0K42UEkwMEseo",
+      "manufacturer": "Mizuno",
+      "ean": "0041969317976",
+      "size": "16-Inch",
+      "color": "Forest/Yellow",
+      "brand": "Mizuno",
+      "weight": "453592.37",
+      "created_at": 1357155129,
+      "mpn": "020MZ024 FOGL",
+      "model": "380195.4130.01.0000",
+      "cat_id": "17533",
+      "features": {
+        "Origin": "China",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "sitedetails": [],
+      "updated_at": 1458979995,
+      "name": "Mizuno Samurai G3 16-Inch Chest Protector [Forest/Yellow, 16-Inch]",
+      "variation_id": "6lgt1MN3GC4WaGOeMmeqgQ",
+      "price": "78.94",
+      "upc": "041969317976",
+      "gtins": [
+        "00041969317976"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

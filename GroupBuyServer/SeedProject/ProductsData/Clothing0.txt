@@ -1,0 +1,365 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "North Face",
+      "color": "R TNF WHITE / METALLIC SILVER",
+      "variation_id": "4KnikDBljc0OU4oOM2iuwq",
+      "brand": "The North Face",
+      "updated_at": 1460756893,
+      "sitedetails": [],
+      "sem3_id": "5DNCrq7ZBQoMyuMOs2cW6c",
+      "ean": "0766182023793",
+      "price": "219.99",
+      "category": "Jackets",
+      "size": "Large",
+      "weight": "453592.37",
+      "features": {
+        "Origin": "Imported",
+        "Item Weight": "4 pounds"
+      },
+      "created_at": 1357370150,
+      "upc": "766182023793",
+      "cat_id": "283",
+      "name": "The North Face Denali Hoodie - Women's [White/Metallic Silver, Large]",
+      "model": "ANLN",
+      "gtins": [
+        "00766182023793"
+      ],
+      "variation_secondaryids": [
+        "65Dip3wbLs6YQamAaaqmc6"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "updated_at": 1460717016,
+      "brand": "Under Armour",
+      "variation_id": "3etnQBOSy0MIisaYwIAeOe",
+      "color": "ELECTRIC BLUE/Black/Academy",
+      "manufacturer": "Under Armour",
+      "category": "Underwear",
+      "price": "40.00",
+      "ean": "0887547667435",
+      "sem3_id": "7T3z3jqRLk40gc4UE0UKMY",
+      "upc": "887547667435",
+      "created_at": 1432595795,
+      "features": {
+        "Item Weight": "5.4 ounces"
+      },
+      "size": "XXX-Large",
+      "mpn": "1242921-428",
+      "weight": "153087.42",
+      "model": "1242921",
+      "name": "Under Armour Men's Charged Cotton® Stretch 6\" Boxerjock® 3-Pack []",
+      "cat_id": "2184",
+      "gtins": [
+        "00887547667435"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "1242921",
+      "cat_id": "2184",
+      "name": "Under Armour Men's Charged Cotton® Stretch 6\" Boxerjock® 3-Pack []",
+      "created_at": 1432594654,
+      "upc": "887907444201",
+      "features": {
+        "Item Weight": "5.4 ounces"
+      },
+      "size": "XXX-Large",
+      "weight": "153087.42",
+      "mpn": "1242921-035",
+      "ean": "0887907444201",
+      "price": "40.00",
+      "category": "Underwear",
+      "sem3_id": "1GUiomalUQoCs0iw4guIem",
+      "sitedetails": [],
+      "updated_at": 1460716988,
+      "color": "Steel/Steel/Graphite",
+      "manufacturer": "Under Armour",
+      "variation_id": "3etnQBOSy0MIisaYwIAeOe",
+      "brand": "Under Armour",
+      "gtins": [
+        "00887907444201"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "886450574861",
+      "manufacturer": "Under Armour",
+      "ean": "0886450574861",
+      "sitedetails": [],
+      "length": "25.40",
+      "mpn": "UA-1233723-410-SM",
+      "model": "1233723 410 SM",
+      "name": "Under Armour Men's UA Performance Team Polo []",
+      "color": "Navy",
+      "updated_at": 1460742734,
+      "category": "Shirts",
+      "price": "41.36",
+      "size": "Small",
+      "weight": "453592.37",
+      "height": "25.40",
+      "brand": "Under Armour",
+      "created_at": 1375210688,
+      "features": {
+        "Product Dimensions": "1 x 1 x 1 inches; 4 ounces"
+      },
+      "sem3_id": "0QsPcRDPFmwsKS0w28oyGo",
+      "width": "25.40",
+      "cat_id": "16265",
+      "variation_id": "7kmILwuK4eIGueu80wcc8g",
+      "gtins": [
+        "00886450574861"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "887547667046",
+      "created_at": 1432594654,
+      "name": "Under Armour Men's Charged Cotton® Stretch 6\" Boxerjock® 3-Pack []",
+      "features": {
+        "Item Weight": "5.4 ounces"
+      },
+      "color": "White/Black/White",
+      "category": "Underwear",
+      "mpn": "1242921-100",
+      "price": "37.06",
+      "cat_id": "2184",
+      "sitedetails": [],
+      "updated_at": 1460744604,
+      "model": "1242921",
+      "size": "Large",
+      "manufacturer": "Under Armour",
+      "brand": "Under Armour",
+      "variation_id": "3etnQBOSy0MIisaYwIAeOe",
+      "sem3_id": "7XSYma9p8wY2gi0MMaqOYW",
+      "ean": "0887547667046",
+      "weight": "154221.41",
+      "gtins": [
+        "00887547667046"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1375226778,
+      "mpn": "3413C",
+      "brand": "Canvas",
+      "sitedetails": [],
+      "color": "Light Red Triblend",
+      "weight": "154221.41",
+      "ean": "0884913184671",
+      "upc": "884913184671",
+      "sem3_id": "2I6SeU7dY48QOQAque88Su",
+      "cat_id": "16265",
+      "width": "152.40",
+      "price": "14.58",
+      "name": "Men's Tri-blend Tee []",
+      "length": "228.60",
+      "manufacturer": "Canvas",
+      "variation_id": "34PLTHlGK0SeygsiaaWSAe",
+      "model": "3413C",
+      "features": {
+        "Product Dimensions": "12 x 12 x 2 inches; 5.9 ounces"
+      },
+      "category": "Shirts",
+      "height": "25.40",
+      "updated_at": 1460744562,
+      "size": "X-Large",
+      "gtins": [
+        "00884913184671"
+      ],
+      "variation_secondaryids": [
+        "6p6bAsTh3IUAaqA2ocGCGK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Shirts",
+      "color": "Amazon",
+      "weight": "453592.37",
+      "features": {
+        "Item Weight": "7.8 ounces",
+        "Origin": "Vietnam"
+      },
+      "brand": "adidas Performance",
+      "variation_id": "58RQRt4wLwI2yEKQECOyCa",
+      "price": "26.45",
+      "ean": "0887776981111",
+      "manufacturer": "TaylorMade - Adidas Golf Apparel",
+      "mpn": "Z87200-AMA",
+      "size": "XX-Large",
+      "upc": "887776981111",
+      "height": "203.20",
+      "sitedetails": [],
+      "created_at": 1418797250,
+      "model": "TM3022S4",
+      "width": "101.60",
+      "cat_id": "16265",
+      "name": "adidas Golf Men's Puremotion Short-Sleeve Polo Shirt []",
+      "length": "127.00",
+      "sem3_id": "1AVz8qnM8Y24cOyyWiIScw",
+      "updated_at": 1460736455,
+      "gtins": [
+        "00887776981111"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "886450504592",
+      "brand": "Under Armour",
+      "cat_id": "16265",
+      "ean": "0886450504592",
+      "mpn": "1233665-609",
+      "weight": "453592.37",
+      "model": "1233672",
+      "manufacturer": "Under Armour",
+      "color": "Maroon/White",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "hockeymonkey.com",
+          "listprice_currency": "USD",
+          "url": "http://www.hockeymonkey.com/underarmour-hockey-shirt-locker-ss-yth.html",
+          "listprice": "24.99",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1389339700,
+              "currency": "USD",
+              "lastrecorded_at": 1448913700,
+              "seller": "Hockeymonkey",
+              "price": "19.98",
+              "id": "1lHvISDRGaCEmIAEuYSsos",
+              "isactive": 1
+            }
+          ],
+          "sku": "underarmour-hockey-shirt-locker-ss-yth_Large_Maroon_White"
+        }
+      ],
+      "price": "19.98",
+      "updated_at": 1460743258,
+      "name": "Under Armour Boys Locker Short Sleeve T-Shirt []",
+      "size": "Large",
+      "variation_id": "0SradxWP9hQooqoMIYyE6A",
+      "created_at": 1356344482,
+      "category": "Shirts",
+      "sem3_id": "5H71CgrJOwaaegCUkkwWOO",
+      "features": {
+        "Product Dimensions": "10 x 12 x 2 inches ; 6.1 ounces"
+      },
+      "gtins": [
+        "00886450504592"
+      ],
+      "variation_secondaryids": [
+        "17a6K63jX84eWsg0WIWk2Gx3",
+        "6Nu6mnaJaiAy6EKgAwWMm4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460716364,
+      "weight": "113398.09",
+      "model": "MPWD",
+      "width": "107.95",
+      "cat_id": "2184",
+      "name": "MyPakage Men's Weekday Boxer Brief []",
+      "mpn": "MPWD",
+      "sitedetails": [],
+      "created_at": 1430275261,
+      "size": "Small (30-32)",
+      "variation_id": "4M4mmxpdseUmgmoSQS2oMC",
+      "features": {
+        "Origin": "Indonesia",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "manufacturer": "My Pakage Apparel",
+      "category": "Underwear",
+      "height": "228.60",
+      "price": "24.99",
+      "sem3_id": "2Vn4Jg3Yq0CasgAk2oqmUy",
+      "ean": "0829102111038",
+      "brand": "MyPakage",
+      "color": "Black/Orange",
+      "length": "31.75",
+      "upc": "829102111038",
+      "gtins": [
+        "00829102111038"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "BB",
+      "size": "S - US X-Small",
+      "updated_at": 1460732727,
+      "brand": "Tesla",
+      "category": "Shorts",
+      "mpn": "COMPRESSION BASE LAYER",
+      "sitedetails": [],
+      "sem3_id": "3OLgUyutC4G46EmuS4G2cm",
+      "cat_id": "20570",
+      "manufacturer": "Tesla Gear",
+      "name": "Tesla Men's Cool Dry Compression Baselayer Shorts Pants Capri Tights S17 []",
+      "created_at": 1430319192,
+      "variation_id": "7PjXFREWnIeg6seO48o0E0",
+      "ean": "8806189606024",
+      "gtins": [
+        "08806189606024"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}
