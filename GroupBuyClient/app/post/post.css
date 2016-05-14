@@ -7,6 +7,7 @@
     width: 400px;
     height: 450px;
     border: 1px solid gray;
+    position: relative;
 }
 
 .discount-table {
@@ -14,8 +15,19 @@
     width: 430px;
 }
 
+.add-discount-button {
+    width: 40px !important;
+    min-width: 40px !important;
+    color: white !important;
+    background: orange !important;
+}
+
 .endDate-picker {
     margin-right: 190px;
+}
+
+.add-post-button {
+    color: white !important;
 }
 
 .table-header {
@@ -33,4 +45,39 @@
     font-size: smaller;
     color: red;
 }
+
+canvas {
+    width: 400px;
+    height: 450px;
+    display: inline-block;
+}
+
+.button-upload {
+    position: absolute;
+    z-index: 1000; 
+}
+
+.image-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+/*.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}*/
 

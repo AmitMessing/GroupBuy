@@ -30,23 +30,29 @@
                 <md-table-container class="discount-table">
                     <table md-table>
                         <thead md-head>
-                            <tr md-row>
-                                <th md-column md-numeric class="table-header">Number of buyers</th>
-                                <th md-column md-numeric class="table-header">Discount percentage %</th>
-                            </tr>
+                        <tr md-row>
+                            <th md-column md-numeric class="table-header">Number of buyers</th>
+                            <th md-column md-numeric class="table-header">Discount percentage %</th>
+                        </tr>
                         </thead>
                         <tbody md-body>
-                            <tr md-row md-select="discounts" md-select-id="name" md-auto-select ng-repeat="discount in discounts">
-                                <td md-cell class="value-cell">{{discount.numberOfBuyers}}</td>
-                                <td md-cell class="value-cell">{{discount.value}} %</td>
-                            </tr>
+                        <tr md-row md-select="discounts" md-select-id="name" md-auto-select ng-repeat="discount in discounts">
+                            <td md-cell class="value-cell">{{discount.numberOfBuyers}}</td>
+                            <td md-cell class="value-cell">{{discount.value}} %</td>
+                        </tr>
                         </tbody>
                     </table>
                 </md-table-container>
+                <md-button class="btn md-raised add-discount-button"> + </md-button>
             </div>
         </div>
+
+        <div layout="row">
+            <md-button class="md-raised md-primary add-post-button">Save</md-button>
+        </div>
     </md-content>
-    <div class="upload-pic">
-        <input type="file" name="pic" accept="image/*">
+    <div class="upload-pic btn btn-primary">
+        <input type="file" id="imageLoader" class="button-upload" name="imageLoader" accept="image/*"/>
+        <canvas id="imageCanvas" class="image-canvas"></canvas>
     </div>
 </div>
