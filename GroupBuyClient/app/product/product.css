@@ -8,6 +8,11 @@
     margin: 20px 10px;
 }
 
+.current-price {
+    color: red;
+    font-size: 25px;
+}
+
 .product-page .tabel-cell {
     border-style: solid; 
     border-width: thin;

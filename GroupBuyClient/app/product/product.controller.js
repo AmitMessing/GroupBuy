@@ -4,6 +4,13 @@ mainApp
             $scope.calcPrice = function(price, discount) {
                 return price - ((price * discount) / 100);
             };
+
+            $scope.numberOfBuyers = 7;
+
+            $scope.joinGroup = function() {
+                $scope.numberOfBuyers ++;
+            };
+
             $scope.products =
             [
                 {

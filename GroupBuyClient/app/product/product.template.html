@@ -2,11 +2,27 @@
     <div layout="row">
         <div layout="row" class="product-details">
             <div layout="column">
-                <span class="product-name">{{product.name}}</span>
+                <div class="product-name">
+                    {{product.name}}
+                </div>
+                <label class="current-price">Current price: 33.75 $</label>
+                <div>
+                    Seller:
+                    <a href="">
+                        John snow
+                    </a>
+                </div>
                 <p style="width: 500px;">{{product.content}}</p>
-                <md-button style="margin: 0 auto" class="md-fab md-primary md-hue-2" aria-label="join">
-                    <md-icon class="material-icons">group_add</md-icon>
-                </md-button>
+                <div layout="row">
+                    <md-button style="margin: 0 auto" class="md-fab md-primary md-hue-2" aria-label="join" ng-click="joinGroup()">
+                        <md-icon class="material-icons">group_add</md-icon>
+                    </md-button>
+                </div>
+                <div style="margin-top: 10px">
+                    <label>Number of buyers: {{numberOfBuyers}}</label>
+                    <a href=""> Buyers details</a>
+                </div>
+
                 <div class="discount" layout="row">
                     <div class="amount" layout="column">
                         <span class="tabel-header-cell">Number of people</span>
@@ -31,7 +47,7 @@
             <img class="product-img" src="{{product.img}}" />
         </div>
         <div class="related-products" layout="column">
-<!--            <span class="product-name">Related Products</span>-->
+            <!--            <span class="product-name">Related Products</span>-->
         </div>
     </div>
 </div>
