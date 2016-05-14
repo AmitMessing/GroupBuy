@@ -4,7 +4,8 @@
         'ngCookies',
         'ngAnimate',
         'ngResource',
-        'ngMaterial'
+        'ngMaterial',
+        'md.data.table'
         
     ]
 );

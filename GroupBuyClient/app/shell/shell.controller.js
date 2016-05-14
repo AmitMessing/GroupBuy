@@ -13,9 +13,14 @@
                 $scope.user = undefined;
             }
 
+            $scope.addPost = function () {
+                $state.go('shell.post');
+            };
+
             $scope.logout = function () {
                 $scope.user = undefined;
                 userService.setLoggedUSer($scope.user);
+                $state.go('shell.home',{}, {reload: true});
             };
 
             $scope.goHome = function() {

@@ -1,0 +1,36 @@
+﻿.product-page {
+    width: 90%;
+    margin: 25px;
+}
+
+.upload-pic {
+    width: 400px;
+    height: 450px;
+    border: 1px solid gray;
+}
+
+.discount-table {
+    border: 0.5px solid grey;
+    width: 430px;
+}
+
+.endDate-picker {
+    margin-right: 190px;
+}
+
+.table-header {
+    color: white !important;
+    padding-right: 47px !important;
+    background: orange;
+}
+
+.value-cell {
+    padding-right: 92px !important;
+}
+
+.note-message {
+    margin-top: 12px;
+    font-size: smaller;
+    color: red;
+}
+

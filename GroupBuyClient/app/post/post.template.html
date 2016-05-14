@@ -1,0 +1,52 @@
+﻿<div flex layout="row" class="product-page" layout-align="center center">
+    <md-content md-theme="docs-dark" layout-padding flex>
+        <div layout="row">
+            <md-input-container flex layout="row">
+                <label>Product Name</label>
+                <input ng-model="product.name" flex>
+            </md-input-container>
+        </div>
+        <div layout="row">
+            <md-input-container class="md-block" layout="row" flex>
+                <label>Description</label>
+                <textarea ng-model="product.content" md-maxlength="500" rows="5" md-select-on-focus flex></textarea>
+            </md-input-container>
+        </div>
+        <div layout="row">
+            <div layout="column" flex="50">
+                <label> End date:</label>
+            </div>
+            <div layout="column">
+                <label> Discount details:</label>
+            </div>
+        </div>
+        <div layout="row">
+            <div layout="column" class="endDate-picker">
+                <md-datepicker ng-model="product.endDate" md-placeholder="Select end date">
+                </md-datepicker>
+                <span class="note-message">Note that the sale will end at 23:00 on the selected date</span>
+            </div>
+            <div layout="column">
+                <md-table-container class="discount-table">
+                    <table md-table>
+                        <thead md-head>
+                            <tr md-row>
+                                <th md-column md-numeric class="table-header">Number of buyers</th>
+                                <th md-column md-numeric class="table-header">Discount percentage %</th>
+                            </tr>
+                        </thead>
+                        <tbody md-body>
+                            <tr md-row md-select="discounts" md-select-id="name" md-auto-select ng-repeat="discount in discounts">
+                                <td md-cell class="value-cell">{{discount.numberOfBuyers}}</td>
+                                <td md-cell class="value-cell">{{discount.value}} %</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </md-table-container>
+            </div>
+        </div>
+    </md-content>
+    <div class="upload-pic">
+        <input type="file" name="pic" accept="image/*">
+    </div>
+</div>

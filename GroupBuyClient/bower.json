@@ -4,9 +4,9 @@
   "homepage": "https://github.com/AmitMessing/GroupBuy",
   "description": "",
   "license": "MIT",
-  "install" : {
-  "path" : "GroupBuy/GroupBuyClient/bower_components"
-   },
+  "install": {
+    "path": "GroupBuy/GroupBuyClient/bower_components"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
@@ -21,6 +21,7 @@
     "angular-ui-router": "ui-router#^0.2.18",
     "angular-resource": "^1.5.5",
     "angular-cookies": "^1.5.5",
-    "material-design-icons": "^2.2.3"
+    "material-design-icons": "^2.2.3",
+    "angular-material-data-table": "^0.10.9"
   }
 }
