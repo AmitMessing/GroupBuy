@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using SeedProject.Models;
 
 namespace SeedProject
@@ -9,7 +10,7 @@ namespace SeedProject
             {
                 new User
                 {
-                    Id = 5,
+                    Id = new Guid(),
                     FirstName = "Rachel",
                     LastName = "Horovitz",
                     Email = "rachel@gmail.com",
@@ -17,7 +18,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 6,
+                    Id = new Guid(),
                     FirstName = "Roy",
                     LastName = "Cohen",
                     Email = "royc@gmail.com",
@@ -25,7 +26,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 7,
+                    Id = new Guid(),
                     FirstName = "Noy",
                     LastName = "Cohen",
                     Email = "noyc@gmail.com",
@@ -33,7 +34,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 8,
+                    Id = new Guid(),
                     FirstName = "Nadav",
                     LastName = "Mary",
                     Email = "nadavm@gmail.com",
@@ -41,7 +42,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 9,
+                    Id = new Guid(),
                     FirstName = "Koby",
                     LastName = "Shimony",
                     Email = "kobys@gmail.com",
@@ -49,7 +50,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 10,
+                    Id = new Guid(),
                     FirstName = "Bar",
                     LastName = "Ezra",
                     Email = "bare@gmail.com",
@@ -57,7 +58,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 11,
+                    Id = new Guid(),
                     FirstName = "Amit",
                     LastName = "Wolfus",
                     Email = "amitw@gmail.com",
@@ -65,7 +66,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 12,
+                    Id = new Guid(),
                     FirstName = "Amir",
                     LastName = "Schlezinger",
                     Email = "amirs@gmail.com",
@@ -73,7 +74,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 13,
+                    Id = new Guid(),
                     FirstName = "Roni",
                     LastName = "Dalomi",
                     Email = "royc@gmail.com",
@@ -81,7 +82,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 14,
+                    Id = new Guid(),
                     FirstName = "Roni",
                     LastName = "Dalomi",
                     Email = "royc@gmail.com",
@@ -89,7 +90,7 @@ namespace SeedProject
                 },
                 new User
                 {
-                    Id = 15,
+                    Id = new Guid(),
                     FirstName = "Ingrid",
                     LastName = "Mickel",
                     Email = "ingridm@gmail.com",
