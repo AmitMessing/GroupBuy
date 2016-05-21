@@ -1,0 +1,544 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "updated_at": 1458935292,
+      "variation_id": "3sCasUWSV6m2ySaUik6A84",
+      "name": "AutoCAD LT 2013 for Mac [Download] [Old Version] [Mac Download]",
+      "length": "190.50",
+      "category": "CAD",
+      "brand": "Autodesk",
+      "sitedetails": [
+        {
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=651098",
+          "recentoffers_count": 0,
+          "sku": "651098",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "1270.61",
+              "id": "02O3mpnV1BU8osmISc80a6",
+              "firstrecorded_at": 1388760900,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1390195100,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "operatingsystem": "Windows 7",
+      "manufacturer": "Autodesk PSG",
+      "created_at": 1374272845,
+      "width": "139.70",
+      "weight": "90718.47",
+      "height": "12.70",
+      "model": "057E1 AB5111 1001",
+      "cat_id": "5656",
+      "features": {
+        "Software Requirements": "Internet Explorer 7 or later",
+        "License Pricing": "Commercial",
+        "Subcategory": "Creativity - CAD",
+        "Distribution Media": "DVD-ROM",
+        "Language(s)": "English, German, French, Italian, Portuguese, Spanish / Autodesk ML02",
+        "License Type": "New License",
+        "License Qty": "1 seat",
+        "Licensing Details": "SLM",
+        "Package Type": "Retail",
+        "OS Required": "Microsoft Windows XP Professional x64 Edition SP2 or later, Microsoft Windows 7 Home Premium (32/64 bits), Microsoft Windows XP Professional SP3 or later, Microsoft Windows XP Home Edition SP3 or later, Microsoft Windows 7 Professional (32/64 bits), Microsoft Windows 7 Ultimate (32/64 bits), Microsoft Windows 7 Enterprise (32/64 bits), Microsoft Windows Vista Enterprise 64-bit Edition SP2 or later, Microsoft Windows Vista Ultimate 64-bit Edition SP2 or later, Microsoft Windows Vista Business 64-bit Edition SP2 or later",
+        "Platform": "Windows",
+        "System Requirements Details": "Microsoft Windows XP - Pentium 4 - 1.6 GHz - RAM 2 GB - HD 4 GB Microsoft Windows XP - Dual-Core Athlon - 1.6 GHz - RAM 2 GB - HD 4 GB Microsoft Windows 7 - Pentium 4 - 3 GHz - RAM 2 GB - HD 4 GB Microsoft Windows 7 - Dual-Core Athlon - 3 GHz - RAM 2 GB - HD 4 GB Microsoft Windows (64 bit) - Athlon 64 - RAM 2 GB - HD 4 GB Microsoft Windows (64 bit) - Opteron - RAM 2 GB - HD 4 GB Microsoft Windows (64 bit) - Xeon - RAM 2 GB - HD 4 GB Microsoft Windows (64 bit) - Pentium 4 - RAM 2 GB - HD 4 GB",
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, 1024 x 768 monitor resolution"
+      },
+      "sem3_id": "7lirD5suy8gS8eSum0OOoC",
+      "mpn": "057E1-AB5111-1001",
+      "upc": "606123570767",
+      "ean": "0606123570767",
+      "gtins": [
+        "00606123570767"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "9911",
+      "weight": "1065942.07",
+      "category": "Training",
+      "width": "23.11",
+      "sitedetails": [],
+      "sem3_id": "1inpcVekEKyoKaUciWW0ks",
+      "created_at": 1365753234,
+      "length": "213.11",
+      "ean": "9781111580155",
+      "features": {
+        "Paperback": "560 pages",
+        "Product Dimensions": "10.7 x 8.4 x 0.9 inches"
+      },
+      "updated_at": 1461205644,
+      "name": "Foundations of Business",
+      "height": "272.03",
+      "gtins": [
+        "09781111580155"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "25.40",
+      "manufacturer": "Filemaker Inc.",
+      "ean": "0044866045058",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=694067",
+          "name": "datavis.com",
+          "sku": "694067",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1390781100,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "491.43",
+              "currency": "USD",
+              "firstrecorded_at": 1388759500,
+              "id": "4zRuLo91nMQ6KCGI0KSS6y",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "created_at": 1374725518,
+      "upc": "044866045058",
+      "weight": "99790.32",
+      "width": "133.35",
+      "price": "499.00",
+      "mpn": "H6320LL/B",
+      "name": "FileMaker Pro 12 Advanced - English + Training DVD",
+      "cat_id": "9168",
+      "category": "Database",
+      "operatingsystem": "Mac OS X",
+      "length": "190.50",
+      "brand": "Filemaker Inc.",
+      "updated_at": 1461132894,
+      "features": {
+        "Version": "12",
+        "License Qty": "1 user",
+        "Platform": "Windows, MacOS",
+        "Language(s)": "English",
+        "OS Required": "Microsoft Windows 7 Professional, Microsoft Windows 7 Home Premium, Microsoft Windows 7 Ultimate, Microsoft Windows Vista Home Premium SP2, Microsoft Windows Vista Business SP2, Microsoft Windows Vista Ultimate SP2, Apple MacOS X 10.6, Microsoft Windows XP Professional SP3, Microsoft Windows XP Home Edition SP3, Apple MacOS X 10.7 Lion, Windows 8, Apple OS X 10.8 Mountain Lion, Windows 8 Pro",
+        "Peripheral / Interface Devices": "DVD-ROM, 1024 x 768 monitor resolution",
+        "Bundled with": "FileMaker Training Series",
+        "Subcategory": "Business - databases / database tools",
+        "License Type": "Complete package",
+        "Distribution Media": "DVD-ROM",
+        "System Requirements Details": "Microsoft Windows Vista / 7 / 8 - 1 GHz - RAM 1 GB Microsoft Windows XP - 700 MHz - RAM 256 MB Apple OS X 10.8 Mountain Lion - Core 2 Duo - RAM 2 GB Apple MacOS X 10.7 Lion - Intel x86-64 - RAM 2 GB Apple MacOS X 10.6 - Intel x86-64 - RAM 1 GB",
+        "Localization": "United States",
+        "License Pricing": "Promotional"
+      },
+      "model": "H6320LL/B",
+      "sem3_id": "3Pyu8gqMBMmcu0eYmaqkUK",
+      "gtins": [
+        "00044866045058"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "name": "xtremebikeandsport.com",
+          "url": "https://xtremebikeandsport.com/product?item_id=18637",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388693100,
+              "price": "8.05",
+              "currency": "USD",
+              "lastrecorded_at": 1388693100,
+              "id": "2W5EDe9BISwmwKEuICW4EC",
+              "seller": "Xtreme Bike & Sport",
+              "isactive": 0
+            }
+          ],
+          "sku": "18637"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=683546",
+          "name": "datavis.com",
+          "sku": "683546",
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "firstrecorded_at": 1388757600,
+              "price": "5.57",
+              "currency": "USD",
+              "id": "5eATgSy9rsG6yc6CweWy8C",
+              "lastrecorded_at": 1388757600,
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        }
+      ],
+      "color": "With Beef",
+      "created_at": 1356379474,
+      "weight": "172365.10",
+      "size": "2 Person",
+      "price": "7.56",
+      "model": "102455",
+      "cat_id": "17460",
+      "ean": "0048143024552",
+      "name": "Backpacker's Pantry Chili Macaroni with Beef []",
+      "sem3_id": "15Ur4HeDuAyIIemIWISeOO",
+      "manufacturer": "Backpacker's Pantry",
+      "updated_at": 1461128787,
+      "upc": "048143024552",
+      "operatingsystem": "Windows",
+      "mpn": "'102455'",
+      "brand": "Backpacker's Pantry",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "category": "Client Access Licenses",
+      "platform": "Windows",
+      "gtins": [
+        "00048143024552"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Software Name": "pcAnywhere v.12.5 Host",
+        "System Requirements": "Symantec pcAnywhere system requirements: Operating System: Windows 2000 Professional/Server/Advanced Server Windows XP Home/Professional (32/64-bit) Windows 2003 Server Standard/Enterprise (32/64-bit)Windows Vista Ultimate/Business/Enterprise/Home Premium/Home Basic (32/64-bit) Windows 2008 Server Others: Internet Explorer 6 or later Thin host system requirements for Windows: Operat ng System: Windows 2000 Professional/Server/Advanced Server Windows XP Home/Professional (32/64-bit) Windows 2003 Server Standard/Enterprise(32/64-bit) Windows Professional Edition Windows XP Embedded/Poin of Service Windows Vista Ultimate/Business/Enterprise/Home Premium/Home Basic (32/64-bit) Windows 2008 Server Others: Internet Explorer 6 or later Thin host system requirements for Linux: /p> Processor: Intel Pentium (or compatible) at 133 MHz or higher Operating System: Red Hat Enterprise Linux ES 3.0 or later Red Hat Enterprise Linux WS 3.0 or later SUSE Linux Enterprise Serv r 8.0 or later SUSE Linux 10.0 SUSE Professional 9.3 or later Novell Linux Desktop 9.0 Hard Disk: 20 MB space Memory: 64 MB of RAM Optical Drive: D-ROM or DVD-ROM Others: VGA or higher resolution monitor Firefox 1.5 or Mozilla 1.6 or later Thin host system requirements for Mac OS X: Operating System: Mac OS X 10.4.3 - F refox 1.5 or Safari 2.0.1 browsers Mac OS X 10.3.9 - Firefox 1.5 or Safari 1.3.1 browsers Mac OS X 10.5.x - Firefox 2.0.0.8 and above or Safari 3.1.2 and above browsers",
+        "Operating System Supported": "Mac OS",
+        "Product Type": "Software",
+        "Software Main Type": "Network & Communication",
+        "License Quantity": "1 Server",
+        "License Pricing": "OEM",
+        "Package Type": "Retail",
+        "Licensing Program": "Symantec System Builders Program",
+        "Language Supported": "Multilingual",
+        "License Type": "Complete Product",
+        "Distribution Media/Method": "CD-ROM",
+        "Service & Support": "1 Year - Security Alert Notification",
+        "Software Sub Type": "Remote Management",
+        "Packaged Quantity": "3",
+        "Platform Supported": "Mac"
+      },
+      "weight": "181436.95",
+      "upc": "037648641289",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=661536",
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "sku": "661536",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1399289200,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "220.62",
+              "seller": "DataVision Computer Video",
+              "id": "4lBs9QYCg4SIAg48yASY42",
+              "firstrecorded_at": 1388754700,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "ean": "0037648641289",
+      "updated_at": 1461450345,
+      "width": "187.96",
+      "operatingsystem": "Windows 2000",
+      "created_at": 1379683913,
+      "sem3_id": "7NH7GZDZPUCoQQUCyQoKkS",
+      "brand": "Norton Antivirus",
+      "name": "Symantec pcAnywhere Host - Mac, Unix, PC - CD-ROM - Multi",
+      "height": "27.94",
+      "category": "Software",
+      "length": "233.68",
+      "cat_id": "10539",
+      "gtins": [
+        "00037648641289"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "275690, 276314, Business for Tax Year 2002",
+      "price": "199.99",
+      "created_at": 1380219506,
+      "sem3_id": "6T4viMYdGaQQ2SGCaIqUWe",
+      "upc": "028287412910",
+      "cat_id": "10539",
+      "sitedetails": [],
+      "updated_at": 1461439689,
+      "brand": "Turbotax",
+      "operatingsystem": "Windows Me",
+      "features": {
+        "License Pricing": "Standard",
+        "Min Processor Type": "Intel Pentium - 200 MHz",
+        "Subcategory": "Business - commercial finance / tax preparation",
+        "License Type": "Complete package",
+        "License Qty": "1 user",
+        "Min RAM Size": "32 MB",
+        "Min Hard Drive Space": "65 MB",
+        "Peripheral / Interface Devices": "2x CD-ROM",
+        "OS Required": "Microsoft Windows 95, Microsoft Windows 98, Microsoft Windows NT 4.0 SP3 or later, Microsoft Windows 2000, Microsoft Windows Millennium Edition, Microsoft Windows XP",
+        "Platform": "Windows",
+        "Package Type": "Retail",
+        "Distribution Media": "CD-ROM"
+      },
+      "name": "TurboTax Business for Tax Year 2002 - PC - CD-ROM",
+      "category": "Software",
+      "ean": "0028287412910",
+      "gtins": [
+        "00028287412910"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "9168",
+      "manufacturer": "Filemaker Inc.",
+      "model": "H6321F/A",
+      "ean": "0044866048615",
+      "name": "Filemaker Pro 12 Advanced Upgrade - French",
+      "width": "133.35",
+      "upc": "044866048615",
+      "brand": "Filemaker Inc.",
+      "height": "25.40",
+      "operatingsystem": "Mac OS X",
+      "sem3_id": "3V0XJyFcaG8mc6u2qSg6Ky",
+      "features": {
+        "License Type": "Version / product upgrade package",
+        "Version": "12",
+        "Peripheral / Interface Devices": "DVD-ROM, 1024 x 768 monitor resolution",
+        "Distribution Media": "DVD-ROM",
+        "System Requirements Details": "Microsoft Windows Vista / 7 / 8 - 1 GHz - RAM 1 GB Microsoft Windows XP - 700 MHz - RAM 256 MB Apple OS X 10.8 Mountain Lion - Core 2 Duo - RAM 2 GB Apple MacOS X 10.7 Lion - Intel x86-64 - RAM 2 GB Apple MacOS X 10.6 - Intel x86-64 - RAM 1 GB",
+        "Platform": "Windows, MacOS",
+        "License Qty": "1 user",
+        "Upgrade from": "FileMaker Pro v. 10 FileMaker Pro v. 11 FileMaker Pro Advanced v. 10 FileMaker Pro Advanced v. 11 FileMaker Pro v. 12",
+        "Package Type": "Retail",
+        "OS Required": "Microsoft Windows 7 Professional, Microsoft Windows 7 Home Premium, Microsoft Windows 7 Ultimate, Microsoft Windows Vista Home Premium SP2, Microsoft Windows Vista Business SP2, Microsoft Windows Vista Ultimate SP2, Apple MacOS X 10.6, Microsoft Windows XP Professional SP3, Microsoft Windows XP Home Edition SP3, Apple MacOS X 10.7 Lion, Windows 8, Apple OS X 10.8 Mountain Lion, Windows 8 Pro",
+        "License Pricing": "Standard",
+        "Subcategory": "Business - databases / database tools",
+        "Language(s)": "French"
+      },
+      "mpn": "H6321F/A",
+      "weight": "45359.24",
+      "platform": "No Operating System",
+      "length": "190.50",
+      "sitedetails": [],
+      "category": "Database",
+      "updated_at": 1461318340,
+      "created_at": 1357482421,
+      "price": "299.00",
+      "gtins": [
+        "00044866048615"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1380181435,
+      "mpn": "Professional, VPNG01L-20000S",
+      "name": "ProSafe VPN Client Professional - PC - License - Electronic",
+      "features": {
+        "License Type": "License",
+        "License Qty": "1 user",
+        "Compliant Standards": "Triple DES, DES, MD5, SHA-1, AES-128, AES-192, AES-256",
+        "Distribution Media": "Electronic",
+        "Subcategory": "Security - VPN software",
+        "License Pricing": "Standard",
+        "OS Required": "Microsoft Windows 2000, Microsoft Windows Server 2003, Microsoft Windows Vista / XP / 7, Microsoft Windows Server 2008",
+        "Platform": "Windows"
+      },
+      "length": "205.99",
+      "height": "85.09",
+      "price": "167.00",
+      "ean": "0606449079319",
+      "weight": "99790.32",
+      "cat_id": "10539",
+      "upc": "606449079319",
+      "width": "256.03",
+      "updated_at": 1461080110,
+      "brand": "Netgear",
+      "category": "Software",
+      "sem3_id": "1BOFANZpkIqmCI2OgyQ0gI",
+      "sitedetails": [],
+      "gtins": [
+        "00606449079319"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Communication",
+      "features": {
+        "Product Type": "Software",
+        "Package Type": "Retail",
+        "Software Name": "Tablet Security v.2.0",
+        "License Quantity": "1 User",
+        "Language Supported": "English",
+        "Software Main Type": "Security",
+        "Operating System Supported": "Android",
+        "Software Sub Type": "Security",
+        "Platform Supported": "Handheld",
+        "License Pricing": "Standard",
+        "System Requirements": "Operating System: Android v.2.x or later",
+        "License Type": "Complete Product"
+      },
+      "manufacturer": "Symantec",
+      "cat_id": "24485",
+      "ean": "0037648329194",
+      "updated_at": 1461500533,
+      "model": "21211402",
+      "length": "31.75",
+      "platform": "Android",
+      "sem3_id": "4mawmOMAIakY8akcYuO4iE",
+      "name": "Norton Tablet Security",
+      "height": "133.35",
+      "brand": "Symantec",
+      "created_at": 1348667291,
+      "weight": "22679.62",
+      "upc": "037648336321",
+      "price": "5.00",
+      "operatingsystem": "Android",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "jr.com",
+          "sku": "SMI_21211402",
+          "latestoffers": [
+            {
+              "id": "4nvwGhCyIqSOCaIK04qkQa",
+              "lastrecorded_at": 1388156000,
+              "seller": "JR",
+              "price": "40.99",
+              "currency": "USD",
+              "firstrecorded_at": 1388156000,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.jr.com/symantec/pe/SMI_21211402"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "6W9W1qcl0qqukIaGOKWsou",
+              "lastrecorded_at": 1390277200,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "currency": "USD",
+              "price": "37.58",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388757800,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=626344",
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "sku": "626344"
+        }
+      ],
+      "width": "190.50",
+      "mpn": "21211402",
+      "gtins": [
+        "00037648336321",
+        "00037648329194"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Home Publishing",
+      "mpn": "FD7",
+      "platform": [
+        "Mac",
+        "Windows 2000",
+        "Windows NT 4",
+        "Windows Me",
+        "Windows XP",
+        "Mac OS X"
+      ],
+      "upc": "603121840021",
+      "brand": "Final Draft, Inc.",
+      "manufacturer": "Final Draft",
+      "weight": "204116.57",
+      "operatingsystem": "Windows Me",
+      "price": "170.00",
+      "sem3_id": "2z2vKSrSDge8SO2MMSc4yk",
+      "sitedetails": [],
+      "name": "Final Draft 7 Professional Scriptwriting",
+      "ean": "0603121840021",
+      "created_at": 1348665932,
+      "cat_id": "16736",
+      "updated_at": 1461887152,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "gtins": [
+        "00603121840021"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

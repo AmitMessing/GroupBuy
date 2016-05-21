@@ -1,0 +1,373 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0886787006424",
+      "updated_at": 1455614142,
+      "upc": "886787006424",
+      "weight": "22679.62",
+      "cat_id": "1847",
+      "created_at": 1374715945,
+      "sitedetails": [],
+      "manufacturer": "Alex and Ani",
+      "model": "A09EB245S",
+      "price": "28.00",
+      "features": {
+        "Metal": "Brass",
+        "Origin": "USA",
+        "Clasp": "No clasp",
+        "Chain": "No chain",
+        "Package": "Oversized Medium box",
+        "Brand, Seller, or Collection Name": "Alex and Ani",
+        "Diameter": "2.75 inches",
+        "Product Dimensions": "3.6 x 3.4 x 0.4 inches; 0.8 ounces"
+      },
+      "name": "Alex and Ani Bangle Bar Birthstone Bangle Bracelet, 7.75\" [Shiny-Silver, June]",
+      "length": "1.97",
+      "brand": "Alex and Ani",
+      "mpn": "A09EB245S",
+      "sem3_id": "4p7Op2UFpgWsaG4Qwwi0cc",
+      "color": "Shiny-Silver",
+      "category": "Bangle",
+      "variation_id": "5e3mCNlPhQyyEQoWKUQCwi",
+      "gtins": [
+        "00886787006424"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "4QT3igA1qaSU4yMgAKMESm",
+      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
+      "updated_at": 1459050598,
+      "model": "A13EB14DS",
+      "cat_id": "1847",
+      "sitedetails": [],
+      "mpn": "A13EB14DS",
+      "manufacturer": "Alex and Ani",
+      "price": "28.00",
+      "color": "Russian Silver",
+      "upc": "886787073389",
+      "size": "X",
+      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Silver Finish, D]",
+      "brand": "Alex and Ani",
+      "length": "1.84",
+      "weight": "22679.62",
+      "created_at": 1381632408,
+      "ean": "0886787073389",
+      "width": "0.41",
+      "features": {
+        "California residents": "Click here for Proposition 65 warning",
+        "Origin": "Made in USA or Imported",
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S."
+      },
+      "category": "Bangle",
+      "gtins": [
+        "00886787073389"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "A09EB242S",
+      "manufacturer": "Alex and Ani",
+      "color": "Shiny-Silver",
+      "model": "A09EB242S",
+      "updated_at": 1459096457,
+      "brand": "Alex and Ani",
+      "upc": "886787006363",
+      "weight": "45359.24",
+      "created_at": 1374715945,
+      "price": "28.00",
+      "sem3_id": "4qQ5315dIWyQGWQgK26Cu6",
+      "category": "Bangle",
+      "cat_id": "1847",
+      "name": "Alex and Ani Bangle Bar Birthstone Bangle Bracelet, 7.75\" [Shiny-Silver, March]",
+      "variation_id": "5e3mCNlPhQyyEQoWKUQCwi",
+      "length": "1.97",
+      "features": {
+        "Brand, Seller, or Collection Name": "Alex and Ani",
+        "Metal": "Brass",
+        "Origin": "USA",
+        "Chain": "No chain",
+        "Clasp": "No clasp",
+        "Diameter": "2.75 inches",
+        "Package": "Oversized Medium box",
+        "Product Dimensions": "4.7 x 3.8 x 0.2 inches; 1.6 ounces"
+      },
+      "sitedetails": [],
+      "ean": "0886787006363",
+      "gtins": [
+        "00886787006363"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Alex and Ani",
+      "sitedetails": [],
+      "brand": "Alex and Ani",
+      "ean": "0886787059444",
+      "cat_id": "1847",
+      "price": "20.00",
+      "name": "Alex and Ani \"Major League Baseball\" Sports Logo Expandable Wire Bangle Bracelet, 7.75\" [Rafaelian Gold Finish, San Diego Padres Logo]",
+      "variation_id": "17yl8OlMoWu6yAwumw8aua",
+      "mpn": "AS12SDP01RG",
+      "created_at": 1356004860,
+      "color": "Russian-Gold",
+      "sem3_id": "1z9kUxwlPUGQ2COG22WmUS",
+      "weight": "22679.62",
+      "model": "AS12SDP01RG",
+      "length": "1.97",
+      "category": "Bangle",
+      "updated_at": 1460208218,
+      "features": {
+        "Metal": "Brass",
+        "Origin": "USA",
+        "Package": "Deluxe Bangle and Hoops Box",
+        "Diameter": "2.75 inches",
+        "Brand, Seller, or Collection Name": "Alex and Ani",
+        "Clasp": "No clasp",
+        "Product Dimensions": "4 x 3.9 x 0.3 inches; 0.8 ounces",
+        "Chain": "No chain"
+      },
+      "upc": "886787059444",
+      "gtins": [
+        "00886787059444"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "black",
+      "brand": "Alex and Ani",
+      "name": "Alex and Ani Euphrates Beaded Bangle Bracelet []",
+      "length": "1.97",
+      "manufacturer": "Alex and Ani",
+      "sitedetails": [],
+      "sem3_id": "3juUfYHMdskaqiEIYMEy0C",
+      "cat_id": "1847",
+      "mpn": "BBEB17H",
+      "updated_at": 1460456509,
+      "model": "BBEB17H",
+      "category": "Bangle",
+      "created_at": 1357440651,
+      "weight": "22679.62",
+      "upc": "886787022387",
+      "ean": "0886787022387",
+      "price": "38.00",
+      "features": {
+        "Diameter": "2.75 inches",
+        "Metal": "Brass",
+        "Brand, Seller, or Collection Name": "Alex and Ani",
+        "Chain": "No chain",
+        "Product Dimensions": "3.1 x 3.1 x 0.1 inches; 0.8 ounces",
+        "Origin": "USA",
+        "Package": "Oversized Medium box",
+        "Clasp": "No clasp"
+      },
+      "gtins": [
+        "00886787022387"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1375094366,
+      "weight": "45359.24",
+      "updated_at": 1459192457,
+      "model": "61272",
+      "color": "Gold-Tone",
+      "brand": "1928 Jewelry",
+      "category": "Stretch",
+      "width": "0.25",
+      "manufacturer": "1928 Jewelry",
+      "sitedetails": [],
+      "length": "1.78",
+      "height": "0.13",
+      "sem3_id": "4lkYBYnwQK0wYAqCEUUw4c",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "California residents": "Click here for Proposition 65 warning",
+        "Origin": "China",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S."
+      },
+      "variation_id": "5BhIUkfTI8QSi6WceiksuK",
+      "price": "19.97",
+      "upc": "011996612726",
+      "name": "1928 Jewelry Vintage Lace Half-Circle Filigree Stretch Bracelet, 7\" [Gold-Tone]",
+      "ean": "0011996612726",
+      "mpn": "61272",
+      "cat_id": "2026",
+      "gtins": [
+        "00011996612726"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "453592.37",
+      "features": {
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More"
+      },
+      "sem3_id": "3nznZnFZTEe6yA4A0g84Wg",
+      "width": "0.25",
+      "cat_id": "23576",
+      "color": "Gold",
+      "category": "Bracelets & Bangles",
+      "model": "BC61408",
+      "updated_at": 1459136950,
+      "name": "BCBGeneration Ivory Leopard Print and Gold Fierce Affirmation Bracelet",
+      "brand": "BCBGeneration",
+      "upc": "724445116637",
+      "ean": "0724445116637",
+      "sitedetails": [],
+      "manufacturer": "BCBGeneration",
+      "mpn": "BC61408",
+      "created_at": 1375276651,
+      "length": "2.03",
+      "gtins": [
+        "00724445116637"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0850158006276",
+      "updated_at": 1444659972,
+      "price": "550.00",
+      "brand": "14k bracelets",
+      "variation_id": "1QDgeOFqfASyMMGas4moaQM+",
+      "features": {
+        "Web ID": "682534"
+      },
+      "cat_id": "23576",
+      "color": "Black",
+      "category": "Bracelets & Bangles",
+      "sem3_id": "7mfstoWmHYoGCOugmYUm60",
+      "created_at": 1444659949,
+      "sitedetails": [],
+      "name": "9\" Curb Chain Bracelet in 14k G",
+      "upc": "850158006276",
+      "gtins": [
+        "00850158006276"
+      ],
+      "variation_secondaryids": [
+        "5ZSnJYmfA0OakSm8c6CawcM+",
+        "2tYwLbxZaCAYOYIuQckeKkM+",
+        "2rbVL0MMeGG4yocCUouSOWM+",
+        "27AkxAJhgaAi06Aqgme8ycM+",
+        "0mdCgxjE1AGYkY6QMMOIm4M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "1928 Jewelry Vintage Lace Half-Circle Filigree Stretch Bracelet, 7\" []",
+      "length": "0.66",
+      "sem3_id": "41AoTDRrV2YO2IAS0Wmu66",
+      "updated_at": 1460785328,
+      "created_at": 1375094366,
+      "model": "61271",
+      "width": "0.25",
+      "cat_id": "2026",
+      "upc": "011996612719",
+      "sitedetails": [],
+      "height": "0.13",
+      "manufacturer": "1928 Jewelry",
+      "mpn": "61271",
+      "variation_id": "5BhIUkfTI8QSi6WceiksuK",
+      "ean": "0011996612719",
+      "price": "25.99",
+      "brand": "1928 Jewelry",
+      "color": "Silver-Tone",
+      "weight": "45359.24",
+      "features": {
+        "Diameter": "2.5 inches",
+        "Chain": "No chain",
+        "Brand, Seller, or Collection Name": "1928 Jewelry",
+        "Product Dimensions": "3.8 x 3.6 x 1.1 inches; 1.6 ounces",
+        "Material": "Glass",
+        "California residents": "Click here for Proposition 65 warning",
+        "Clasp": "No clasp",
+        "Origin": "China",
+        "Metal": "Base",
+        "Package": "Manufacturer Packaging"
+      },
+      "category": "Stretch",
+      "gtins": [
+        "00011996612719"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "features": {
+        "Web ID": "1077765"
+      },
+      "variation_id": "4bskLjnmD2WIKOyockCE2UM+",
+      "color": "No",
+      "price": "135.00",
+      "sem3_id": "2s0KirbFlQ6Kq8Aegu0Gwu",
+      "category": "Cuff",
+      "brand": "Fossil",
+      "name": "Women's Jacqueline Rose Gold-Tone Stainless Steel Bracelet Watch 36mm ES3435",
+      "upc": "796483045675",
+      "cat_id": "12699",
+      "created_at": 1392625606,
+      "ean": "0796483045675",
+      "updated_at": 1462801190,
+      "gtins": [
+        "00796483045675"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

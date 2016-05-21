@@ -1,0 +1,539 @@
+{
+  "total_results_count": 1811,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "size": "3oz Package",
+      "manufacturer": "Maruchan",
+      "name": "Maruchan Ramen, Oriental, 3-Ounce Packages (Pack of 24)",
+      "upc": "041789002144",
+      "cat_id": "15627",
+      "features": {
+        "Product Dimensions": "15.7 x 4.2 x 11.6 inches ; 4.8 pounds"
+      },
+      "model": "Oriental",
+      "brand": "Maruchan",
+      "created_at": 1348680497,
+      "updated_at": 1463596035,
+      "sem3_id": "5L2QYJ40zuGeQSkcEM6o6I",
+      "weight": "20411.66",
+      "category": "Ramen",
+      "ean": "0041789902147",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1440425900,
+              "seller": "BigFly",
+              "firstrecorded_at": 1440425900,
+              "id": "6mKdG4Fz9sE8wc0woSSgCE",
+              "currency": "USD",
+              "price": "16.98",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "46304206",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/46304206"
+        }
+      ],
+      "price": "13.89",
+      "gtins": [
+        "00041789002144",
+        "00041789902147"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Dynasty",
+      "ean": "0011152031880",
+      "name": "Dynasty B29467 Dynasty Maifun Rice Noodles -12x6.75oz",
+      "sitedetails": [],
+      "model": "10970",
+      "category": "Noodles",
+      "brand": "Dynasty",
+      "cat_id": "8166",
+      "sem3_id": "0xttrfLJ1qCk8WA66G084A",
+      "upc": "011152031880",
+      "updated_at": 1463637044,
+      "features": {
+        "Cholesterol": "0 mg (0 %)",
+        "Calcium": "0 %",
+        "Iron": "4 %",
+        "Vitamin C": "0 %",
+        "Sugars": "0 g",
+        "Directions": "To deep-fry maifun, pour vegetable oil into pan, at least 2 inches deep; heat to 400 degrees F. Add maifun, a little at a time. When maifun comes to top of oil, remove. Drain briefly on paper towel. Use in salads or as a bed for stir-fry combinations. To soften maifun, cover with hot water; let stand 10 minutes. Drain well. Coarsely chop, if desired. Add to soups, stews, stir-fry combinations or salads, as desired.",
+        "Unit Size": "6.75 oz",
+        "Units in Package": "1",
+        "Total Fat": "0.5 g (1 %)",
+        "Sodium": "130 mg (5 %)",
+        "Total Carbohydrate": "48 g (16 %)",
+        "Dietary Fiber": "1 g (4 %)",
+        "Trans Fat": "0 g",
+        "Vitamin A": "0 %",
+        "Servings Per Container": "3.5",
+        "Serving Size": "2 oz",
+        "Protein": "0 g",
+        "Ingredients": "Rice, Cornstarch and Water.",
+        "Saturated Fat": "0 g (0 %)"
+      },
+      "created_at": 1357687552,
+      "price": "32.25",
+      "weight": "191359.28",
+      "gtins": [
+        "00011152031880"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Noodles",
+      "cat_id": "8166",
+      "weight": "381017.59",
+      "ean": "0031146952397",
+      "upc": "031146952397",
+      "price": "37.43",
+      "sitedetails": [],
+      "brand": "Nong Shim",
+      "model": "101001809",
+      "name": "Nongshim Neoguri Spicy Seafood Noodle Ramyun, 4.2 Ounce Packages (Pack of 20)",
+      "created_at": 1348687239,
+      "updated_at": 1459314074,
+      "manufacturer": "NONGSHIM",
+      "features": {
+        "Country of Origin": "Canada"
+      },
+      "sem3_id": "5txQLWwpUWCyq8Ksm4KWw4",
+      "gtins": [
+        "00031146952397"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Flavor": "Chicken",
+        "Product in Inches (L x W x H)": "1.23 x 1.23 x 1.23",
+        "Shipping Weight (in pounds)": "1.23"
+      },
+      "name": "Maruchan Flavor Ramen Noodles, Chicken, 3 Ounce (Pack of 24)",
+      "category": "Ramen",
+      "manufacturer": "Maruchan",
+      "updated_at": 1463319454,
+      "brand": "Maruchan",
+      "weight": "27215.54",
+      "price": "13.89",
+      "ean": "0041789002113",
+      "sem3_id": "0bL9pZEDwAKyGisIWKUQ4W",
+      "upc": "041789002113",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1456526900,
+              "currency": "USD",
+              "seller": "Walmart",
+              "price": "0.25",
+              "id": "46A6zzkZzkw00iC2okcCSe",
+              "lastrecorded_at": 1460450700,
+              "availability": "Not Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "15754233",
+          "url": "http://www.walmart.com/ip/15754233"
+        }
+      ],
+      "model": "00211",
+      "cat_id": "15627",
+      "created_at": 1348680498,
+      "gtins": [
+        "00041789002113"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348687259,
+      "upc": "041789002175",
+      "brand": "Maruchan",
+      "name": "Maruchan Ramen Shrimp Flavor Noodle Soup 3 oz (Pack of 24)",
+      "category": "Ramen",
+      "ean": "0041789002175",
+      "updated_at": 1463589215,
+      "model": "00217",
+      "manufacturer": "Maruchan",
+      "features": {
+        "Fiber": "1g",
+        "Servings Per Container": "2",
+        "Calories from Fat": "70",
+        "Sugar": "0g",
+        "Calories": "190",
+        "Saturated Fat": "3.5g",
+        "Serving Size": "43g",
+        "Sodium": "860mg",
+        "Cholesterol": "0mg",
+        "Carbohydrates": "26g",
+        "Protein": "5g",
+        "Total Fat": "7mg"
+      },
+      "price": "1.09",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "15570902",
+          "url": "http://www.walmart.com/ip/15570902",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "availability": "Not Available",
+              "lastrecorded_at": 1459722500,
+              "price": "0.25",
+              "id": "5zOqyWIV60Eq0aQGYmaAEM",
+              "seller": "Walmart",
+              "firstrecorded_at": 1456287400,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "shopfoodex.com",
+          "latestoffers": [
+            {
+              "id": "7QEUaLPoWm4q2OcsWeQQeW",
+              "price": "1.09",
+              "lastrecorded_at": 1463589200,
+              "availability": "In Stock",
+              "firstrecorded_at": 1418839200,
+              "seller": "ShopFoodEx",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "3HoiSp0I3USqwoaqKu40EM",
+              "price": "0.90",
+              "availability": "In Stock",
+              "lastrecorded_at": 1416680900,
+              "firstrecorded_at": 1416680900,
+              "seller": "ShopFoodEx",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "39d8HCb30Kmo8woYaisOuC",
+              "price": "0.89",
+              "lastrecorded_at": 1414559600,
+              "availability": "In Stock",
+              "firstrecorded_at": 1414559600,
+              "seller": "ShopFoodEx",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.shopfoodex.com/maruchan-ramen-noodles-shrimp-flavor-p-28553.html",
+          "sku": "28553"
+        }
+      ],
+      "weight": "2199922.99",
+      "sem3_id": "49pbhf9YEqCukoEWOY4S0m",
+      "cat_id": "15627",
+      "gtins": [
+        "00041789002175"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "451233.69",
+      "brand": "JFC",
+      "ean": "0011152156842",
+      "name": "JFC Fresh Udon Bowl, 8.29-Ounce Containers (Pack of 6)",
+      "created_at": 1348665606,
+      "cat_id": "18179",
+      "upc": "011152156842",
+      "category": "Udon",
+      "features": {
+        "Battery Type": "Does Not Contain a Battery",
+        "Product in Inches (L x W x H)": "5.6 x 5.6 x 4.6",
+        "Shipping Weight (in pounds)": "0.52",
+        "Multi Pack Indicator": "No"
+      },
+      "updated_at": 1463269364,
+      "manufacturer": "JFC",
+      "price": "15.85",
+      "sem3_id": "4kHrPQku5Q00q4S4a6QqO0",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1418696200,
+              "currency": "USD",
+              "firstrecorded_at": 1407199300,
+              "id": "35Eu2YQEKuqcK0ysAiQCO2",
+              "availability": "Out of Stock",
+              "seller": "UnbeatableSale.com",
+              "price": "39.53",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/36362495",
+          "name": "walmart.com",
+          "sku": "36362495",
+          "recentoffers_count": 0
+        }
+      ],
+      "gtins": [
+        "00011152156842"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "23182",
+      "updated_at": 1463366754,
+      "brand": "Maruchan",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/22086241",
+          "latestoffers": [
+            {
+              "availability": "Not Available",
+              "currency": "USD",
+              "firstrecorded_at": 1456626900,
+              "lastrecorded_at": 1460756900,
+              "price": "0.78",
+              "seller": "Walmart",
+              "id": "1N9TUFJhm4IEiQe6246SeY",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart store",
+              "id": "1NcsJKFsp2uiqaUss6su4I",
+              "lastrecorded_at": 1444208100,
+              "price": "0.78",
+              "currency": "USD",
+              "firstrecorded_at": 1437494600,
+              "isactive": 0
+            }
+          ],
+          "sku": "22086241",
+          "name": "walmart.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "name": "Maruchan Yakisoba With Savory Soy Sauce 4.05-Ounce Packages (Pack of 8)",
+      "created_at": 1348674312,
+      "category": "Soba",
+      "upc": "041789007088",
+      "price": "18.68",
+      "manufacturer": "Maruchan",
+      "ean": "0041789007088",
+      "weight": "146963.93",
+      "sem3_id": "3VvkldiqaGCs0G04Csuos6",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "gtins": [
+        "00041789007088"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463795630,
+      "weight": "435448.68",
+      "upc": "070844004755",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1463288100,
+              "seller": "Walmart",
+              "availability": "Available",
+              "id": "6DdeoTY0OGyE4UEQsgwkeA",
+              "lastrecorded_at": 1463288100,
+              "price": "24.66",
+              "isactive": 1
+            },
+            {
+              "id": "5U6goIKlm4mCAY688CaqCO",
+              "lastrecorded_at": 1460357600,
+              "price": "21.18",
+              "availability": "Available",
+              "firstrecorded_at": 1458066900,
+              "seller": "Walmart",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1457118500,
+              "seller": "Walmart",
+              "availability": "Available",
+              "lastrecorded_at": 1457118500,
+              "id": "3i80fxJ5GSGSwGiWkSMQY2",
+              "price": "20.61",
+              "isactive": 0
+            }
+          ],
+          "sku": "17182599",
+          "url": "http://www.walmart.com/ip/17182599"
+        }
+      ],
+      "cat_id": "8166",
+      "manufacturer": "Ka-Me",
+      "category": "Noodles",
+      "features": {
+        "Product in Inches (L x W x H)": "0.9 x 4.5 x 9.65",
+        "Assembled in Country of Origin": "USA",
+        "Origin of Components": "USA",
+        "Multi Pack Indicator": "No",
+        "Shipping Weight (in pounds)": "0.54"
+      },
+      "name": "Ka-Me Noodles, Wide Lo Mein, 8 Ounce (Pack of 12)",
+      "size": "8 Ounce (Pack of 12)",
+      "price": "21.18",
+      "created_at": 1348687251,
+      "sem3_id": "6hQWTj6mzQAEGaQKQagKMG",
+      "ean": "0070844004755",
+      "brand": "Ka Me",
+      "gtins": [
+        "00070844004755"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "400.05",
+      "category": "Ramen",
+      "sem3_id": "4R4TcBhboGeM8E0ug44gmC",
+      "manufacturer": "C&S Wholesale",
+      "brand": "Maruchan",
+      "mpn": "439244939715",
+      "ean": "0041789002113",
+      "name": "Maruchan Ramen Chicken Flavor, 3 oz, 24 ct",
+      "updated_at": 1461538738,
+      "sitedetails": [],
+      "features": {
+        "Product Dimensions": "15.6 x 10 x 4.3 inches ; 1 ounces"
+      },
+      "height": "120.65",
+      "width": "254.00",
+      "upc": "041789002113",
+      "cat_id": "15627",
+      "price": "12.29",
+      "weight": "2240746.31",
+      "created_at": 1357467087,
+      "gtins": [
+        "00041789002113"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Dynasty",
+      "model": "40",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/10451687",
+          "sku": "10451687",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1461995100,
+              "firstrecorded_at": 1427524300,
+              "price": "1.72",
+              "id": "7lEyCmJRmwUACisK6Yuiyw",
+              "currency": "USD",
+              "availability": "Not Available",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart store",
+              "currency": "USD",
+              "price": "1.72",
+              "firstrecorded_at": 1434244100,
+              "id": "4LyhwJn9Oa4qCkAwIsmiQ8",
+              "lastrecorded_at": 1434244100,
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com"
+        }
+      ],
+      "updated_at": 1463331964,
+      "price": "33.97",
+      "created_at": 1348687273,
+      "ean": "0011152031880",
+      "sem3_id": "5IracVjrvEkC28g6qmeqM2",
+      "features": {
+        "Product in Inches (L x W x H)": "1.23 x 1.23 x 1.23",
+        "Shipping Weight (in pounds)": "1.23"
+      },
+      "manufacturer": "Dynasty",
+      "name": "Dynasty Mai-Fan Rice Stick, 6.75-Ounce Bags (Pack of 12)",
+      "upc": "011152031880",
+      "category": "Noodles",
+      "cat_id": "8166",
+      "weight": "2639907.59",
+      "gtins": [
+        "00011152031880"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

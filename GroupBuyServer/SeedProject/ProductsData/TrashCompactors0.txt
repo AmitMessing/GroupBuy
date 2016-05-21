@@ -1,0 +1,878 @@
+{
+  "total_results_count": 189,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "GE",
+      "sitedetails": [
+        {
+          "sku": "10061512",
+          "name": "overstock.com",
+          "url": "http://www.overstock.com/Home-Garden/GE-1.4-Cubic-Foot-Built-In-Stainless-Steel-Trash-Compactor/10061512/product.html",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1428674900,
+              "price": "1299.99",
+              "currency": "USD",
+              "seller": "Overstock",
+              "lastrecorded_at": 1428674900,
+              "id": "3iXJGdXDmqQ2UuCqMSW6eI",
+              "availability": "Availabe",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "1225.99",
+              "firstrecorded_at": 1463423900,
+              "availability": "Available",
+              "lastrecorded_at": 1463530500,
+              "seller": "Overstock",
+              "id": "4WBKdzYvu4i6kUUumeKeSU",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "393GL4xNOSOCMYamCuAGSQ",
+              "seller": "Overstock",
+              "lastrecorded_at": 1463335500,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "1235.49",
+              "firstrecorded_at": 1462209600,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Overstock",
+              "lastrecorded_at": 1460758400,
+              "id": "5UA6SY2pjESwC6YSUi0yAA",
+              "firstrecorded_at": 1459934400,
+              "price": "1239.49",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.overstock.com/Home-Garden/GE-1.4-Cubic-Foot-Built-In-Stainless-Steel-Trash-Compactor/10061512/product.html",
+          "name": "overstock.com",
+          "sku": "10061512_6965167"
+        }
+      ],
+      "price": "854.00",
+      "mpn": "GCG1580RSS",
+      "height": "889.00",
+      "weight": "63502931.80",
+      "brand": "General Electric",
+      "ean": "0084691206972",
+      "updated_at": 1463551062,
+      "name": "GE GCG1580RSS Profile 15\" Stainless Steel Built-In Fully Integrated Trash Compactor",
+      "category": "Trash Compactors",
+      "features": {
+        "Release Bin": "Front",
+        "ADA Compliant": "No",
+        "Appliance Series": "GE Profile",
+        "Certifications and Listings": "1-UL Listed",
+        "Reconditioned": "No",
+        "ETL Listed": "No",
+        "Capacity": "1.4",
+        "Appliance Type": "Built-In Trash Compactor",
+        "Assembled Width (in.)": "14.88 in",
+        "UL Listed": "1-UL Listed",
+        "Product Width (in.)": "14.88",
+        "Cut-Out Front to Back Depth (in.)": "24 in",
+        "Assembled Depth (in.)": "24.00 in",
+        "Removable Key Lock": "Yes",
+        "Product Height (in.)": "35.00",
+        "CSA Listed": "No",
+        "Manufacturer Warranty": "Limited 1-year entire appliance",
+        "Color/Finish Family": "Black",
+        "Trash Compactor Type": "Built-In Only",
+        "Cut-Out Height (in.)": "34.25 in",
+        "NSF Listed": "No",
+        "Cut-Out Left to Right Width (in.)": "15 in",
+        "Removable Drawer": "Yes",
+        "ANSI Certified": "No",
+        "Assembled Height (in.)": "35 in",
+        "Product Weight (lb.)": "129 lb",
+        "Product Depth (in.)": "24",
+        "Horsepower (hp)": "0.335 hp",
+        "CASE DEPTH (In decimal format)": "28.0",
+        "Amperage (amps)": "15 A",
+        "Returnable": "Non-Returnable"
+      },
+      "upc": "084691206972",
+      "model": "GCG1580RSS",
+      "cat_id": "19497",
+      "length": "609.60",
+      "sem3_id": "3pkDTiMMngWykG2MsmMsqa",
+      "color": "stainless",
+      "width": "377.70",
+      "created_at": 1348702051,
+      "gtins": [
+        "00084691206972"
+      ],
+      "variation_secondaryids": [
+        "2Pjn45n3dMuOEGMEw8sOMW",
+        "35KBFZkZjyWaM8SMaOaOEu",
+        "1qDMO1yAuyA8QmeWqsCGoa",
+        "387fGFqR2e24Qy6ocmGiM0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347683115,
+      "updated_at": 1463523573,
+      "brand": "Whirlpool",
+      "sitedetails": [],
+      "price": "719.10",
+      "color": "Stainless Steel",
+      "model": "GX900QPPS",
+      "cat_id": "19497",
+      "name": "Whirlpool GX900QPP Undercounter 15W in. Trash Compactor with Clean Touch Console - Stainless Steel",
+      "features": {
+        "Removable Key Lock": "Yes",
+        "Tilt Switch": "Yes",
+        "Capacity": "1.4 cubic feet",
+        "Automatic Anti-Jam": "Yes",
+        "Cut-Out Height": "34.13 inches",
+        "Color Category": "Silver",
+        "Cut-Out Width": "15 inches",
+        "Centrifugal Switch Control": "No",
+        "Compactor Type": "Built-In",
+        "Ram Force": "2300 pounds",
+        "Bag Retainer Clips": "Yes",
+        "Voltage": "115 volts",
+        "Sound-Reduction System": "Yes",
+        "Horsepower": "0.33 horsepower",
+        "Number Of Units": "1",
+        "Color Finish": "Stainless steel",
+        "Amperage": "15 amperes",
+        "Release Bin": "Side",
+        "Labor": "1 year limited",
+        "Cut-Out Depth": "24 inches",
+        "Parts": "1 year limited",
+        "Removable Drawer": "Yes",
+        "Power Cord Included": "No"
+      },
+      "length": "609.60",
+      "category": "Trash Compactors",
+      "sem3_id": "5GG4pgqSvQkgUCiMeyoIqq",
+      "mpn": "GX900QPPS",
+      "upc": "050946974576",
+      "manufacturer": "Whirlpool",
+      "ean": "0050946974576",
+      "weight": "65770893.65",
+      "width": "381.00",
+      "height": "866.65",
+      "gtins": [
+        "00050946974576"
+      ],
+      "variation_secondaryids": [
+        "0O8RsuCsBHaqUCaM2kuweo",
+        "45KerQnWKGyOMEqsOQ6g0K",
+        "1ek6vsTgIymWyMwgY26q4W",
+        "0wjkmSz00waAocsaQ2oaSO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "050946974538",
+      "sem3_id": "0EgsmI3dOjY2EgSuEa2kIy",
+      "height": "866.77",
+      "mpn": "GC900QPPQ",
+      "brand": "Whirlpool",
+      "created_at": 1347654815,
+      "price": "674.99",
+      "updated_at": 1463522343,
+      "name": "Whirlpool GC900QPPQ Convertible 15W in. Trash Compactor - White",
+      "manufacturer": "Whirlpool",
+      "features": {
+        "Power Cord Included": "No",
+        "Bag Retainer Clips": "Yes",
+        "Color Finish": "White",
+        "Cut-Out Width": "20 inches",
+        "Tilt Switch": "Yes",
+        "Compactor Type": "Convertible",
+        "Color Category": "White",
+        "Labor": "1 year limited",
+        "Amperage": "15 amperes",
+        "Capacity": "1.4 cubic feet",
+        "Number Of Units": "1",
+        "Horsepower": "0.33 horsepower",
+        "Parts": "1 year limited",
+        "Release Bin": "Side",
+        "Voltage": "115 volts",
+        "Removable Key Lock": "Yes",
+        "Cut-Out Height": "20 inches",
+        "Cut-Out Depth": "20 inches",
+        "Sound-Reduction System": "Yes",
+        "Centrifugal Switch Control": "No",
+        "Automatic Anti-Jam": "Yes",
+        "Removable Drawer": "Yes"
+      },
+      "category": "Trash Compactors",
+      "cat_id": "19497",
+      "color": "White",
+      "model": "GC900QPPQ",
+      "weight": "65770893.65",
+      "sitedetails": [],
+      "ean": "0050946974538",
+      "gtins": [
+        "00050946974538"
+      ],
+      "variation_secondaryids": [
+        "2AjeUGtN6ScmccE0G80WCC",
+        "5icZ3shC5Iyk68IcuOE40K"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Broan",
+      "color": "White",
+      "size": "1457",
+      "features": {
+        "Microban Antimicrobial Protective Coating": "Yes",
+        "Electrical Requirements Volts": "120V",
+        "Trash Bucket Drop Down Door": "Yes",
+        "Ram Status LED": "Yes",
+        "15TCOD": "Set of ten (10) odor control disks. Each disk lasts up to six (6) months.",
+        "Safety Interlock": "Yes",
+        "Accessories (purchased separately) 15TCTK": "Toe kick kit (required for freestanding installations).",
+        "Packaged Weight": "165 lbs.",
+        "Compaction Ration": "6:1 (Equivalent of Six 13 Gallon Trash Containers)",
+        "15TCBB": "Hardwood cutting board (rests on top of compactor when not installed under a counter top)",
+        "Programmable Compaction Cycle": "Yes",
+        "Dimensions & Weights Product Width": "14 7/8\"",
+        "Amps": "15",
+        "Product Height": "34 1/8\" min.",
+        "Battery Backup": "Yes",
+        "Compacting Plate": "Stainless Steel",
+        "Magnetic Door Gasket": "Yes",
+        "15TCBL": "Sixty (60) trash bags (black).",
+        "Advanced Odor Control System": "Automatic (6 Month Disk Provided)",
+        "Trash Bucket Drawer Slides": "Full Extension Ball Bearing",
+        "Product Depth (Not Including Handle)": "21 1/2\"",
+        "Leveling Legs": "Adjustable",
+        "Features Compaction Force": "3,000 lbs. Continual",
+        "Bag Storage Compartment": "Yes (3 Bags Included)",
+        "Trash Bucket Capacity": "1.55 cu. ft. (30 lbs. of Trash)",
+        "Start Button": "Yes",
+        "Textured Cabinets": "Yes",
+        "Hz": "60Hz",
+        "Removable Key Switch": "Yes",
+        "Horsepower": "3/4 HP",
+        "Reversible Doors": "Yes"
+      },
+      "weight": "76203518.16",
+      "sitedetails": [
+        {
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/15XEWH.html",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1415285700,
+              "seller": "Ajmadison",
+              "currency": "USD",
+              "availability": "available",
+              "price": "839.00",
+              "lastrecorded_at": 1415285700,
+              "id": "6YWyWGOYVcMEuuo6E2yics",
+              "isactive": 1
+            }
+          ],
+          "name": "ajmadison.com",
+          "recentoffers_count": 1,
+          "sku": "15XEWH"
+        }
+      ],
+      "category": "Trash Compactors",
+      "cat_id": "19497",
+      "model": "15XEWH",
+      "name": "Broan 15XEWH Programmable 15W in. Trash Compactor - White [White]",
+      "updated_at": 1463445644,
+      "upc": "026715182619",
+      "brand": "Broan-NuTone",
+      "created_at": 1357376016,
+      "price": "839.00",
+      "ean": "0026715182619",
+      "mpn": "15XEWH",
+      "sem3_id": "732LBy5yACyU8q4WsCMyiI",
+      "gtins": [
+        "00026715182619"
+      ],
+      "variation_secondaryids": [
+        "40oeeVZ3JIOAwkIQqg8g6I",
+        "0BSCVHKZkAK0OkMeKeOEyM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0026715182626",
+      "size": "Rectangular",
+      "price": "839.00",
+      "upc": "026715182626",
+      "sem3_id": "5eubEncrfUo46GUaiCCUEA",
+      "brand": "Broan-NuTone",
+      "color": "Matte Steel",
+      "category": "Trash Compactors",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Ajmadison",
+              "lastrecorded_at": 1415285700,
+              "currency": "USD",
+              "id": "1uKD9oBXNwowkMqqeAQQ6g",
+              "price": "839.00",
+              "firstrecorded_at": 1415285700,
+              "availability": "available",
+              "isactive": 1
+            }
+          ],
+          "sku": "15XEBL",
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/15XEBL.html",
+          "recentoffers_count": 1,
+          "name": "ajmadison.com"
+        }
+      ],
+      "updated_at": 1463402309,
+      "model": "15XEBL",
+      "weight": "76203518.16",
+      "manufacturer": "Broan",
+      "created_at": 1357638350,
+      "cat_id": "19497",
+      "features": {
+        "Textured Cabinets": "Yes",
+        "15TCBL": "Sixty (60) trash bags (black).",
+        "Start Button": "Yes",
+        "Programmable Compaction Cycle": "Yes",
+        "Accessories (purchased separately) 15TCTK": "Toe kick kit (required for freestanding installations).",
+        "Trash Bucket Drawer Slides": "Full Extension Ball Bearing",
+        "Amps": "15",
+        "Packaged Weight": "165 lbs.",
+        "Features Compaction Force": "3,000 lbs. Continual",
+        "Trash Bucket Capacity": "1.55 cu. ft. (30 lbs. of Trash)",
+        "Safety Interlock": "Yes",
+        "Magnetic Door Gasket": "Yes",
+        "Removable Key Switch": "Yes",
+        "Reversible Doors": "Yes",
+        "Microban Antimicrobial Protective Coating": "Yes",
+        "15TCOD": "Set of ten (10) odor control disks. Each disk lasts up to six (6) months.",
+        "Horsepower": "3/4 HP",
+        "Trash Bucket Drop Down Door": "Yes",
+        "Ram Status LED": "Yes",
+        "Product Height": "34 1/8\" min.",
+        "Electrical Requirements Volts": "120V",
+        "Advanced Odor Control System": "Automatic (6 Month Disk Provided)",
+        "Compacting Plate": "Stainless Steel",
+        "Product Depth (Not Including Handle)": "21 1/2\"",
+        "Compaction Ration": "6:1 (Equivalent of Six 13 Gallon Trash Containers)",
+        "Bag Storage Compartment": "Yes (3 Bags Included)",
+        "Dimensions & Weights Product Width": "14 7/8\"",
+        "Hz": "60Hz",
+        "Battery Backup": "Yes",
+        "Leveling Legs": "Adjustable",
+        "15TCBB": "Hardwood cutting board (rests on top of compactor when not installed under a counter top)"
+      },
+      "name": "Broan 15XEBL Programmable 15W in. Trash Compactor - Black [Black]",
+      "mpn": "15XEBL",
+      "gtins": [
+        "00026715182626"
+      ],
+      "variation_secondaryids": [
+        "40oeeVZ3JIOAwkIQqg8g6I",
+        "0BSCVHKZkAK0OkMeKeOEyM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Stainless Steel",
+      "model": "TU950QPXS",
+      "weight": "63502931.80",
+      "upc": "883049223476",
+      "sitedetails": [
+        {
+          "sku": "WHL1437",
+          "url": "http://www.wayfair.com/Whirlpool-15-Undercounter-Trash-Compactor-TU950QPXS-WHL1437.html",
+          "recentoffers_count": 0,
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "1026.09",
+              "id": "3XnVjdpC7EMi0qaieCYsaI",
+              "availability": "In Stock",
+              "firstrecorded_at": 1393907800,
+              "lastrecorded_at": 1393907800,
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "lastrecorded_at": 1391977500,
+              "firstrecorded_at": 1391977500,
+              "price": "1001.30",
+              "id": "5tbrsqx4EqGMcwuaAcgYCW",
+              "currency": "USD",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "1046.09",
+              "id": "6g3xx34bLMgmIQGuuOy8YC",
+              "availability": "In Stock",
+              "firstrecorded_at": 1389794500,
+              "lastrecorded_at": 1389794500,
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "sem3_id": "4u5eVBsZNgEG8CC2eAq2mQ",
+      "created_at": 1347549346,
+      "cat_id": "19497",
+      "name": "Whirlpool TU950QPXS Undercounter 15W in. Trash Compactor - Stainless Steel",
+      "category": "Trash Compactors",
+      "price": "854.00",
+      "updated_at": 1463485275,
+      "ean": "0883049223476",
+      "width": "381.00",
+      "mpn": "TU950QPXS",
+      "features": {
+        "Warranty Terms - Parts": "1 year limited",
+        "Centrifugal Switch Control": "No",
+        "RPM Grinding Action": "Doesn't apply",
+        "Overload Protector with Manual Reset": "Doesn't apply",
+        "PVC Hopper": "Doesn't apply",
+        "Product Depth": "24-3/8\"",
+        "Color Category": "Stainless/Stainless look",
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Galvanized Steel Grinder": "Doesn't apply",
+        "PVC Coated Grind Chamber": "Doesn't apply",
+        "Continuous Feed Operation": "No",
+        "Horsepower Motor": "1/3 HP Motor",
+        "Plug and Cord Accessory Included": "Yes",
+        "Power Connection": "120V; 60Hz",
+        "RPM Grinding Speed": "Doesn't apply",
+        "Stainless Steel Swivel Impellers": "Doesn't apply"
+      },
+      "height": "866.65",
+      "brand": "Whirlpool",
+      "manufacturer": "Whirlpool",
+      "length": "609.60",
+      "gtins": [
+        "00883049223476"
+      ],
+      "variation_secondaryids": [
+        "4qg7W5DcJ6yOKOoUEocYOQ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "764.00",
+      "model": "GCG1500RWW",
+      "features": {
+        "Certifications and Listings": "1-UL Listed",
+        "Capacity": "1.4",
+        "UL Listed": "1-UL Listed",
+        "CASE DEPTH (In decimal format)": "28.0",
+        "Product Weight (lb.)": "129 lb",
+        "NSF Listed": "No",
+        "Appliance Type": "Built-In Trash Compactor",
+        "ETL Listed": "No",
+        "ANSI Certified": "No",
+        "Trash Compactor Type": "Built-In Only",
+        "Reconditioned": "No",
+        "Amperage (amps)": "15 A",
+        "Assembled Height (in.)": "35 in",
+        "Removable Drawer": "Yes",
+        "Removable Key Lock": "Yes",
+        "Release Bin": "Front",
+        "ADA Compliant": "No",
+        "Assembled Depth (in.)": "24.00 in",
+        "Manufacturer Warranty": "Limited 1-year entire appliance",
+        "CSA Listed": "No",
+        "Horsepower (hp)": "0.335 hp",
+        "Returnable": "Non-Returnable",
+        "Product Depth (in.)": "24",
+        "Assembled Width (in.)": "14.88 in",
+        "Color/Finish Family": "Black",
+        "Product Height (in.)": "35.00",
+        "Cut-Out Front to Back Depth (in.)": "24 in",
+        "Appliance Series": "GE Profile",
+        "Cut-Out Left to Right Width (in.)": "15 in",
+        "Cut-Out Height (in.)": "34.25 in",
+        "Product Width (in.)": "14.88"
+      },
+      "sem3_id": "3UrN9mERJoE0SCqeAm2EI2",
+      "mpn": "GCG1500RWW",
+      "manufacturer": "GE",
+      "length": "377.82",
+      "cat_id": "19497",
+      "color": "White",
+      "sitedetails": [
+        {
+          "url": "http://www.overstock.com/Home-Garden/GE-Profile-GCG1500R-Fully-Integrated-Trash-Compactor/11168013/product.html",
+          "sku": "11168013_6965167",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463496700,
+              "availability": "Available",
+              "firstrecorded_at": 1463146300,
+              "seller": "Overstock",
+              "currency": "USD",
+              "price": "1103.99",
+              "id": "7WTKhCo0mWWmieEkUwciUS",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "id": "5uJUk7CNjkCQeAoi6eWUa6",
+              "price": "1107.99",
+              "availability": "Available",
+              "lastrecorded_at": 1463060000,
+              "firstrecorded_at": 1462366800,
+              "seller": "Overstock",
+              "isactive": 0
+            },
+            {
+              "price": "1107.49",
+              "id": "3QLNWrgK2q4syqsACoKU86",
+              "currency": "USD",
+              "firstrecorded_at": 1462096100,
+              "lastrecorded_at": 1462280100,
+              "availability": "Available",
+              "seller": "Overstock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "overstock.com"
+        }
+      ],
+      "weight": "58059823.36",
+      "upc": "084691206965",
+      "created_at": 1348702045,
+      "updated_at": 1463496732,
+      "ean": "0084691206965",
+      "category": "Trash Compactors",
+      "name": "GE GCG1500RWW Profile 15\" White Built-In Fully Integrated Trash Compactor",
+      "brand": "GE",
+      "gtins": [
+        "00084691206965"
+      ],
+      "variation_secondaryids": [
+        "2Pjn45n3dMuOEGMEw8sOMW",
+        "35KBFZkZjyWaM8SMaOaOEu",
+        "4saEcY9lAOiMkoOYysCG0s"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "0ZlrQzmuLS4A46ioC882Ow",
+      "price": "1682.60",
+      "length": "565.15",
+      "updated_at": 1461762215,
+      "name": "Broan 15XESSA 15\" Programmable Trash Compactor arch stainless steel door storage compartment [Stainless Steel]",
+      "manufacturer": "Broan",
+      "height": "866.65",
+      "brand": "Broan NuTone",
+      "width": "377.70",
+      "color": "Matte Steel",
+      "sitedetails": [],
+      "ean": "0026715182640",
+      "size": "-1",
+      "created_at": 1347697083,
+      "mpn": "15XESSA",
+      "cat_id": "19497",
+      "category": "Trash Compactors",
+      "model": "15XESSA",
+      "weight": "76657110.53",
+      "features": {
+        "Horsepower (HP)": "0.75",
+        "Manufacturer Color/Finish": "Stainless Steel",
+        "Capacity (Cu. Feet)": "1.55",
+        "Height (Inches)": "34.12",
+        "Color/Finish Family": "Steel-Stainless",
+        "Compactor Type": "Undercounter",
+        "Weight (lbs.)": "165.0",
+        "Amperage": "5.0",
+        "Warranty (Parts)": "Limited 1-year",
+        "Depth (Inches)": "21.5",
+        "Width (Inches)": "15.0"
+      },
+      "upc": "026715182640",
+      "gtins": [
+        "00026715182640"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0086876184235",
+      "sem3_id": "3AfcygFP6GO8SumGieYgKo",
+      "category": "Trash Compactors",
+      "upc": "086876184235",
+      "updated_at": 1463378049,
+      "manufacturer": "Rubbermaid Commercial Products",
+      "width": "806.45",
+      "created_at": 1348702053,
+      "weight": "11249090.78",
+      "sitedetails": [
+        {
+          "url": "http://www.webstaurantstore.com/rubbermaid-fg102800bla-hinged-dome-lid-for-fg101100bla-and-fg101300bla-tilt-trucks/690FG1028BK.html",
+          "recentoffers_count": 1,
+          "name": "webstaurantstore.com",
+          "sku": "690FG1028BK",
+          "latestoffers": [
+            {
+              "id": "6c1OtUVIW0eQEsgIWmUK8E",
+              "lastrecorded_at": 1449702300,
+              "currency": "USD",
+              "seller": "WebstaurantStore",
+              "availability": "Available",
+              "price": "164.99",
+              "firstrecorded_at": 1449702300,
+              "isactive": 1
+            },
+            {
+              "seller": "WebstaurantStore",
+              "id": "0h3I6u5ua8kqEWYEOOUgkG",
+              "lastrecorded_at": 1406035700,
+              "currency": "USD",
+              "price": "134.99",
+              "firstrecorded_at": 1406035700,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "seller": "WEBstaurantStore.com",
+              "id": "2XDcR2mC5oiyucqyOiiCcc",
+              "lastrecorded_at": 1392737200,
+              "currency": "USD",
+              "price": "135.99",
+              "firstrecorded_at": 1392737200,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.restaurantequipmentsolutions.com/RBMD-FG102800BLA.html",
+          "recentoffers_count": 0,
+          "name": "restaurantequipmentsolutions.com",
+          "sku": "RBMD-FG102800BLA",
+          "latestoffers": [
+            {
+              "id": "0Vao6ab9PGoaSW2A46AiOE",
+              "lastrecorded_at": 1394471900,
+              "currency": "USD",
+              "seller": "Restaurant Equipment Solutions",
+              "availability": "Available",
+              "price": "166.67",
+              "firstrecorded_at": 1392537500,
+              "isactive": 0
+            },
+            {
+              "id": "1dLtpWyWUCS02mCM4kecog",
+              "lastrecorded_at": 1391942000,
+              "currency": "USD",
+              "seller": "Restaurant Equipment Solutions",
+              "availability": "Available",
+              "price": "150.21",
+              "firstrecorded_at": 1389795600,
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1387377500,
+              "price": "139.96",
+              "lastrecorded_at": 1388481000,
+              "currency": "USD",
+              "id": "2JUdDVbNbUiKuqWO0g0S2a",
+              "seller": "Restaurant Equipment Solutions",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "2lUeXlEu88o2QqAa6kmeeQ",
+              "lastrecorded_at": 1448301700,
+              "currency": "USD",
+              "seller": "TigerDirect",
+              "availability": "ADD TO CART",
+              "price": "177.49",
+              "firstrecorded_at": 1432068700,
+              "isactive": 0
+            }
+          ],
+          "sku": "9743392",
+          "name": "tigerdirect.com",
+          "recentoffers_count": 0,
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9743392"
+        }
+      ],
+      "brand": "Rubbermaid Commercial Products",
+      "mpn": "640-1028-BLA",
+      "features": {
+        "Global Product Type": "Waste Receptacle Lids-Tilt Truck, Hinged",
+        "Pre-Consumer Recycled Content Percent": "0%",
+        "Post-Consumer Recycled Content Percent": "0%",
+        "Total Recycled Content Percent": "0%",
+        "Material(s)": "Plastic",
+        "Lid Type": "Dome",
+        "Shape": "Rectangular",
+        "Color(s)": "Black",
+        "For Use With": "RubbermaidÂ® Commercial Tilt Trucks"
+      },
+      "price": "164.13",
+      "length": "1549.40",
+      "height": "222.25",
+      "model": "FG102800BLA",
+      "cat_id": "19497",
+      "name": "Rubbermaid Commercial FG102800BLA Executive Series HDPE Lid for Tilt-Truck, Domed",
+      "gtins": [
+        "00086876184235"
+      ],
+      "variation_secondaryids": [
+        "790XKLzTH6CIEgI0Y4mYYS"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "635.00",
+      "manufacturer": "TK Products Inc",
+      "created_at": 1374272607,
+      "features": {
+        "Finish": "Stainless steel",
+        "Sleek stainless steel design Uses any quality plastic bags Fingerprint resistant Slow close lid that also locks in open position Compact household trash down to about half its normal volume Simply grab the handle and push Fewer trips to the curb plus real cost savings Brand": "TK Products",
+        "Mixer Dimensions": "25.5 inches high x 15.6 inches wide x 11.75 inches deep",
+        "Capacity": "10-gallon",
+        "Shape": "Rectangle",
+        "Color option": "Stainless steel",
+        "Style": "Modern, sleek",
+        "Material": "Stainless Steel"
+      },
+      "weight": "9525439.77",
+      "price": "139.99",
+      "ean": "0856202004007",
+      "cat_id": "19497",
+      "name": "Household Essentials Trash Krusher Manual Trash Compactor, 40 L, Stainless Steel",
+      "width": "381.00",
+      "updated_at": 1463405454,
+      "category": "Trash Compactors",
+      "model": "Trash Krusher",
+      "mpn": "Trash Krusher",
+      "brand": "Trash Krusher Manual Trash Compactor",
+      "color": "Silver",
+      "sem3_id": "7O5Dssgtpu4qcYkoay2uwq",
+      "upc": "856202004007",
+      "length": "304.80",
+      "sitedetails": [
+        {
+          "url": "http://www.overstock.com/9241496/product.html",
+          "recentoffers_count": 0,
+          "name": "overstock.com",
+          "sku": "9241496_13376610",
+          "latestoffers": [
+            {
+              "price": "163.99",
+              "currency": "USD",
+              "seller": "Overstock",
+              "lastrecorded_at": 1450255700,
+              "availability": "Available",
+              "id": "3ocLgmPcKuyyOaGAsegmkM",
+              "firstrecorded_at": 1445757200,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1437230500,
+              "id": "3kTfU0YpVwsioeMmsSqkUm",
+              "lastrecorded_at": 1438341000,
+              "availability": "Available",
+              "seller": "Overstock",
+              "currency": "USD",
+              "price": "159.00",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1436153200,
+              "seller": "Overstock",
+              "currency": "USD",
+              "price": "168.99",
+              "firstrecorded_at": 1436153200,
+              "id": "3rYk47cHbkAuyeGEA8cc4A",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "gtins": [
+        "00856202004007"
+      ],
+      "variation_secondaryids": [
+        "3mERezjjbUUQksO8I68owe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

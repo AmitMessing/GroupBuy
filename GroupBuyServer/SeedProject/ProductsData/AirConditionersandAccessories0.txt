@@ -1,0 +1,900 @@
+{
+  "total_results_count": 23016,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0846844010535",
+      "mpn": "AP12001S",
+      "weight": "31297873.53",
+      "sem3_id": "6BDWg7Y7XcyeiYaWYy8624",
+      "brand": "EdgeStar",
+      "price": "188.99",
+      "sitedetails": [
+        {
+          "sku": "AP12001S",
+          "url": "http://www.livingdirect.com/EdgeStar-12000-BTU-Portable-Air-Conditioner-Air-Cleaner-Silver/AP12001S,default,pd.html",
+          "listprice": "379.99",
+          "name": "livingdirect.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "3dzqKAG1Ye8CYo6wUIAQeU",
+              "price": "379.99",
+              "firstrecorded_at": 1435488100,
+              "lastrecorded_at": 1463493600,
+              "seller": "Living Direct, Inc",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1434702400,
+              "firstrecorded_at": 1434311800,
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "id": "07Sxcj9WsEq6UwEI4qQ4U2",
+              "price": "360.99",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "4BW69N4DI8KaSMksKIkO2W",
+              "price": "369.22",
+              "lastrecorded_at": 1420671000,
+              "firstrecorded_at": 1420671000,
+              "seller": "Living Direct, Inc",
+              "isactive": 0
+            }
+          ],
+          "listprice_currency": "USD"
+        },
+        {
+          "listprice": "251.99",
+          "sku": "AP12001SOB",
+          "url": "http://www.livingdirect.com/EdgeStar-Extreme-Cool-12000-BTU-Portable-Air-Conditioner-Open-Box-AP12001SOB/AP12001SOB,default,pd.html",
+          "latestoffers": [
+            {
+              "seller": "Living Direct, Inc",
+              "firstrecorded_at": 1462315100,
+              "lastrecorded_at": 1463493500,
+              "price": "188.99",
+              "id": "1Ld7RIkrxgiSyoWwoIqoaG",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "4Z1sV12I3y2MioSekYQwQk",
+              "currency": "USD",
+              "price": "287.99",
+              "seller": "Living Direct, Inc",
+              "firstrecorded_at": 1420559500,
+              "lastrecorded_at": 1420559500,
+              "isactive": 0
+            }
+          ],
+          "listprice_currency": "USD",
+          "name": "livingdirect.com",
+          "recentoffers_count": 1
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "475.99",
+              "id": "12e65t0kokaUUuMeq6mggw",
+              "currency": "USD",
+              "seller": "Brookstone",
+              "availability": "Not Available",
+              "firstrecorded_at": 1424776900,
+              "lastrecorded_at": 1426738500,
+              "isactive": 0
+            }
+          ],
+          "sku": "edgestar-extreme-cool-portable-ac-with-silver-ion-filter",
+          "url": "http://www.brookstone.com/edgestar-extreme-cool-portable-ac-with-silver-ion-filter",
+          "name": "brookstone.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "updated_at": 1463493610,
+      "length": "414.02",
+      "upc": "846844010535",
+      "cat_id": "9584",
+      "width": "434.34",
+      "name": "AP12001S - EdgeStar 12,000 BTU Portable Air Conditioner & Air Cleaner - Silver",
+      "features": {
+        "Cooling Capacity": "12000 BTU/h",
+        "Refrigerant": "R410A",
+        "Maximum Noise Level": "53 dB",
+        "Recommended Room Area": "Up to 430 sq.ft",
+        "Warranty": "3 years",
+        "Fan Speed Settings Qty": "3",
+        "Max Power Consumption": "1200 W",
+        "Safety Features": "Auto shut-off",
+        "Rated Current": "10.8 A",
+        "Timer": "12 hrs",
+        "Filter Type": "Silver filter",
+        "Voltage": "115 V / 60 Hz",
+        "Special Features": "Auto restart, adjustable thermostat, built-in wheels, self-evaporating technology, variable speed setting, integrated hand grip, washable pre-filter, Air Louver, Â°C/Â°F switching",
+        "Functions": "Cooling, dehumidifying, purifying",
+        "Product Type": "Air conditioner",
+        "Max Dehumidification Capacity": "80.3 pint/24hrs",
+        "Form Factor": "Mobile",
+        "Included Accessories": "Remote control . window exhaust kit",
+        "Energy Efficiency Ratio (EER)": "10",
+        "Timer Settings Features": "Timer"
+      },
+      "category": "Portable",
+      "height": "769.62",
+      "manufacturer": "EdgeStar",
+      "color": "Silver",
+      "created_at": 1348699337,
+      "model": "AP12001S",
+      "gtins": [
+        "00846844010535"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "381.00",
+      "created_at": 1347793214,
+      "updated_at": 1463697310,
+      "brand": "Heat Controller",
+      "height": "457.20",
+      "upc": "847283003614",
+      "price": "277.04",
+      "manufacturer": "Heat Controller",
+      "weight": "20411656.65",
+      "sem3_id": "3q07dJOccKYgWCyIqAUo4s",
+      "model": "RADS61H",
+      "ean": "0847283003614",
+      "category": "Window",
+      "mpn": "RADS-61J",
+      "name": "Heat Controller 6k BTU Window AC E Star",
+      "color": "White",
+      "length": "463.55",
+      "features": {
+        "Cooling Capacity": "6000 BTU/h",
+        "Product Type": "Air conditioner - indoor unit",
+        "Functions": "Cooling, dehumidifying",
+        "Form Factor": "Window mounted",
+        "Energy Efficiency Ratio (EER)": "10.7",
+        "ENERGY STAR Qualified": "Yes",
+        "Timer Settings Features": "Timer",
+        "Special Features": "Auto restart, washable filter, sleep mode, ventilation only mode, energy saving mode, adjustable thermostat, auto mode",
+        "Weight (Shipping)": "44.1 lbs",
+        "Included Accessories": "Remote control . window mounting kit",
+        "Air Flow Control": "Adjustable air flow",
+        "Maximum Noise Level": "56 dB",
+        "Timer": "24 hrs",
+        "Max Dehumidification Capacity": "42.5 pint/24hrs",
+        "Fan Speed Settings Qty": "3",
+        "Control Type": "Electronic",
+        "Voltage": "115 V / 60 Hz",
+        "Recommended Room Area": "Up to 248 sq.ft"
+      },
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/21106361",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "172.99",
+              "firstrecorded_at": 1435139500,
+              "lastrecorded_at": 1435139500,
+              "currency": "USD",
+              "seller": "BargainStation.com",
+              "id": "021wxl4Txu8wOsasyiSECm",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "price": "172.99",
+              "firstrecorded_at": 1435139500,
+              "lastrecorded_at": 1435139500,
+              "currency": "USD",
+              "id": "5ByIk7DWHAcW8ewgIO4giQ",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "price": "159.61",
+              "lastrecorded_at": 1432755100,
+              "firstrecorded_at": 1432755100,
+              "currency": "USD",
+              "seller": "Beach Audio Inc",
+              "id": "3TZSoZj9jUY62mO04MKAiy",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "sku": "21106361"
+        },
+        {
+          "name": "jr.com",
+          "sku": "HC0_RADS61H",
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/heat-controller/pe/HC0_RADS61H",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "6jy1W9sHqqYIewe2SsuOyG",
+              "seller": "JR",
+              "price": "168.99",
+              "lastrecorded_at": 1394712600,
+              "firstrecorded_at": 1394712600,
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "id": "0IeaXhW8O3cyOOeu4a6IMw",
+              "currency": "USD",
+              "firstrecorded_at": 1388157100,
+              "lastrecorded_at": 1388157100,
+              "price": "158.99",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "13068",
+      "gtins": [
+        "00847283003614"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "146.32",
+      "model": "36C03 300",
+      "sem3_id": "7WB9aK1djMGEMcqc4QSeuo",
+      "updated_at": 1463497496,
+      "upc": "786710005640",
+      "height": "116.84",
+      "manufacturer": "White Rodgers",
+      "created_at": 1364188896,
+      "weight": "1814369.48",
+      "mpn": "36C03-300",
+      "features": {
+        "Inlet/Outlet (In.)": "1/2 x 3/4",
+        "Amps Low": "0.23",
+        "Amps High": "--",
+        "Includes": "3/4 x 1/2\" and 1/2 x 3/8\" Reducer Bushings, Thermocouple Actuated Line Interrupter, Natural to LP Gas Conversion Kit, ECO Terminals",
+        "Ignition Type": "Standing Pilot",
+        "Outlet Size": "3/4\"",
+        "Inlet Pressure Tap": "No",
+        "Item": "Gas Valve",
+        "BtuH Capacity": "230,000",
+        "Valve Type": "Fast Opening",
+        "Amps AC": "0.23",
+        "LP Conversion Kit": "Yes",
+        "Pressure Setting Range (In. WC)": "2.5 to 5.0",
+        "Inlet Size": "1/2\"",
+        "Side Taps": "No",
+        "Reducer Bushing Kit": "3/4 x 1/2\" and 1/2 x 3/8\"",
+        "Shipping Weight (in pounds)": "2.35",
+        "Ambient Temp. Range": "-40 to 175 Degrees F",
+        "Ambient Temp. Range (F)": "-40 to 175",
+        "Coil Volts": "24",
+        "Reducer Bushing Kit (In.)": "3/4 To 1/2, 1/2 To 3/8",
+        "Pressure Setting Range": "2.5 to 5.0\" WC",
+        "Gas Type": "NG/LP",
+        "For Use With": "Standing Pilot"
+      },
+      "color": "N/A",
+      "brand": "White Rodgers",
+      "ean": "0786710005640",
+      "category": "Air Conditioners & Accessories",
+      "cat_id": "12981",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "119.74",
+              "lastrecorded_at": 1463497400,
+              "firstrecorded_at": 1458804300,
+              "availability": "In Stock",
+              "seller": "HDSupplySolutions.com",
+              "id": "0UZiatCsXR2YiEwaosCMoG",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "109.24",
+              "lastrecorded_at": 1458013600,
+              "firstrecorded_at": 1428698200,
+              "availability": "In Stock",
+              "seller": "HDSupplySolutions.com",
+              "id": "1JCAGAwULeCOMCaI0gGyKy",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "106.98",
+              "seller": "HDSupplySolutions.com",
+              "availability": "In Stock",
+              "firstrecorded_at": 1396452700,
+              "lastrecorded_at": 1424995600,
+              "id": "4QU3gLCiREg8W8yQ2SC2iw",
+              "isactive": 0
+            }
+          ],
+          "name": "hdsupplysolutions.com",
+          "recentoffers_count": 1,
+          "sku": "222652",
+          "url": "http://hdsupplysolutions.com/shop/product-white_rodgers_standing_pilot_gas_valve-222652"
+        },
+        {
+          "url": "http://www.walmart.com/ip/40757433",
+          "latestoffers": [
+            {
+              "price": "70.83",
+              "currency": "USD",
+              "seller": "Zoro Tools Inc",
+              "lastrecorded_at": 1463441200,
+              "firstrecorded_at": 1462485000,
+              "availability": "Available",
+              "id": "6a3PQw3Io4cM22Wa6msOYS",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "69.78",
+              "seller": "Zoro Tools Inc",
+              "availability": "Available",
+              "firstrecorded_at": 1455651400,
+              "lastrecorded_at": 1462198500,
+              "id": "2EUlSJ8RcekwwKGqEWOmCQ",
+              "isactive": 0
+            },
+            {
+              "id": "1y6YmWin0W8IkoomymqocK",
+              "currency": "USD",
+              "price": "76.95",
+              "firstrecorded_at": 1449911600,
+              "availability": "Available",
+              "lastrecorded_at": 1453076200,
+              "seller": "Zoro Tools Inc",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "sku": "40757433"
+        }
+      ],
+      "name": "White Rodgers 36C03-300 Gas Valve with LP Conversion Kit",
+      "width": "147.32",
+      "gtins": [
+        "00786710005640"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "EdgeStar",
+      "sitedetails": [
+        {
+          "sku": "AP14009COM",
+          "listprice_currency": "USD",
+          "url": "http://www.livingdirect.com/EdgeStar-Server-Cool-14000-BTU-Portable-Air-Conditioner-Silver/AP14009COM,default,pd.html",
+          "listprice": "699.00",
+          "name": "livingdirect.com",
+          "latestoffers": [
+            {
+              "id": "4Z2CSXar7YmMgUqaQ0skeo",
+              "currency": "USD",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1463492700,
+              "firstrecorded_at": 1462314200,
+              "price": "699.00",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "id": "6L8Y2SFO6qO4QC6MecuSqA",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1435485600,
+              "firstrecorded_at": 1415657600,
+              "price": "799.00",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1414691400,
+              "price": "759.05",
+              "availability": "Available",
+              "lastrecorded_at": 1414691400,
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "id": "2vHg3hCEzwII488uKYY2oI",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "ean": "0854502001825",
+      "updated_at": 1463492746,
+      "features": {
+        "Continuous Cooling": "Due to the self-evaporative design and integrated drain pump, you can leave the unit running overnight without having to worry about emptying water condensate",
+        "EER": "11.2",
+        "Power": "1250 W/10.8 A",
+        "Energy Saving Programmable Features": "Cut costs by setting the unit to run only when you need it, and have it efficiently cool your space before you even get there using the 24 hour programmable timer-- The timer allows you to set the unit to cycle on automatically, or once it is on, you can set it to automatically turn off",
+        "Energy Efficiency Ratio": "This portable air conditioner has an impressively high 11.2 EER, meaning that it consumes significantly less energy than others in its class",
+        "Temperatures": "61 - 89Â°F",
+        "Dual Hose Design": "Separate intake and exhaust hoses allow for more air intake, more cooling power, and a more stable air pressure, which all contribute to a 40% faster cooling rate than similar single-hosed units (this unit can be used as a single hose unit, as well)",
+        "Input voltage": "115 V/60 Hz",
+        "Three (3) Speed Fan": "Find your perfect setting and control noise and air output by choosing a high, medium, or low fan setting",
+        "Intelligent Auto Restart": "This unitâs auto restart function stores your settings, so that in case of a power outage, it will pick right back up where it left off when power is regained",
+        "Easy-to-Use Window Kit": "Venting your portable air conditioner is a simple three step process, and your purchase includes all the necessary materials-- Simply connect the vent hoses to the back of the unit, remove the caps from the window vent kit and connect it to the exhaust hoses (If using in a server room or office with no windows, we recommend using a drop ceiling vent kit, which is sold separately)",
+        "Warranty": "1 year advance replacement",
+        "Superior Reliability": "Due to durable construction and design, this portable air conditioner is built to withstand light commercial use",
+        "Window kit": "32\" min 56\" max",
+        "Standby Mode": "Despite producing high levels of cooling power, the highly-efficient control board enables it to have a low power usage rate when in standby mode-- When operational, it still only costs a little more than a dollar to run all day",
+        "Pump Included": "Even if you live in an area of high humidity, condensate will be of no consequence due to this unit's integrated drain pump",
+        "Eco-Friendly": "Designed to be an environmentally friendly product, this portable air conditioner uses non ozone-depleting CFC-free refrigerants and is made of all RoHS compliant components that are free of harmful chemicals",
+        "Noise level": "51 dB (low), 52 dB (high)",
+        "Dehumidification": "up to 86 pints/day",
+        "Advance Replacement Warranty": "Because of the important applications of this portable air conditioner, EdgeStar backs this unit with a 1 Year Advance Replacement Warranty-- this means that should your unit stop working, they will ship you a new unit immediately, allowing you to then use that packaging to ship back the non-working product"
+      },
+      "model": "5949344",
+      "width": "510.54",
+      "height": "830.58",
+      "weight": "35833797.23",
+      "upc": "854502001825",
+      "color": "Silver",
+      "cat_id": "9584",
+      "name": "EdgeStar Server Cool 14,000 BTU Portable Air Conditioner",
+      "manufacturer": "EdgeStar",
+      "mpn": "9SIA0MN0699187",
+      "category": "Portable",
+      "price": "699.00",
+      "sem3_id": "1lljFapnbkUGaCGAOcY2ee",
+      "length": "426.72",
+      "created_at": 1357839962,
+      "gtins": [
+        "00854502001825"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1458960094,
+      "color": "white|White",
+      "sem3_id": "3aEhvsUKhyCMQkQeu0iYMC",
+      "upc": "610635001602",
+      "brand": "AC Safe",
+      "ean": "0610635001602",
+      "length": "495.30",
+      "mpn": "RB-55HT1U R",
+      "manufacturer": "Nationwide",
+      "price": "34.99",
+      "created_at": 1348675911,
+      "features": {
+        "Item Weight": "3.4 pounds",
+        "Item Package Quantity": "1",
+        "Product Dimensions": "19.5 x 4.8 x 1.8 inches",
+        "Origin": "USA",
+        "Warranty Description": "Parts = 2 Year Limited"
+      },
+      "size": "Pack of 1",
+      "name": "A/C Safe AC-160 Universal Heavy Duty Window Air Conditioner Support [1]",
+      "sitedetails": [],
+      "cat_id": "6377",
+      "width": "120.65",
+      "category": "Parts & Accessories",
+      "height": "44.45",
+      "model": "AC 160",
+      "weight": "15422.14",
+      "gtins": [
+        "00610635001602"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "048231372411",
+      "sem3_id": "09pS3tN0fE8qiMEmaIEUiw",
+      "features": {
+        "Dehumid. (Pts/Hr)": "- 2.2",
+        "Compressor": "- Rotary",
+        "Product (WxHxD)": "- 19 9/16\" x 12 3/8\" x 19 3/8\"",
+        "Chassis Type": "- Top Down",
+        "Type Air Discharge": "- Top Discharge",
+        "Dry Air Flow (CFM)": "- 250",
+        "Energy Star Qualified": "- Yes",
+        "Rated Amps": "- 6.5",
+        "Shipping Weight (lbs.)": "- 63",
+        "Fan Only Speed": "- Yes",
+        "dBA Level (Indoor / Outdoor)": "- 54 / 60",
+        "Limited Warranty": "- 1 Year Parts and Labor with 1 Year Compressor",
+        "Watts": "- 700",
+        "Est. Cooling Area (Sq. Ft.)": "- 340",
+        "Voltage / 60 Hz": "- 115",
+        "Net Weight (lbs.)": "- 57",
+        "Indoor Fan Type": "- Turbo",
+        "EER": "- 11.3",
+        "BTU Performance": "- 8,000",
+        "-": "Thermistor",
+        "Shipping (WxHxD)": "- 22 11/16\" x 14 3/16\" x 21 1/4\"",
+        "Fan Speed: Cooling (Heating)": "- 3 (3)",
+        "Energy Saver Function": "- Yes",
+        "Air Deflection": "- 4-Way"
+      },
+      "brand": "LG",
+      "length": "495.30",
+      "color": "White",
+      "price": "269.99",
+      "model": "LW8014ER",
+      "name": "LG Electronics LW8014ER Energy Star Qualified 8,000-BTU 115V Window-Mounted Air Conditioner with Remote Control",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/36156304",
+          "latestoffers": [
+            {
+              "price": "269.99",
+              "id": "3jvVOSR4auIU86AQIQsm6w",
+              "firstrecorded_at": 1442639300,
+              "currency": "USD",
+              "lastrecorded_at": 1442639300,
+              "seller": "Walmart",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1440777600,
+              "id": "0RskeyukJZeIsy4mCS6S4K",
+              "price": "278.99",
+              "availability": "Available",
+              "lastrecorded_at": 1440777600,
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1437525000,
+              "seller": "Walmart",
+              "availability": "Available",
+              "price": "294.99",
+              "id": "0h9T3yGaJ2Ow22Em6gYMck",
+              "firstrecorded_at": 1437525000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "36156304"
+        },
+        {
+          "name": "beachcamera.com",
+          "recentoffers_count": 0,
+          "sku": "LGLW8014ER",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1417411800,
+              "seller": "Beachcamera",
+              "firstrecorded_at": 1412877400,
+              "currency": "USD",
+              "price": "349.00",
+              "id": "6pkwxRcqsCOAAma0E2GSgK",
+              "isactive": 0
+            },
+            {
+              "id": "7d5TPQM8VUKckMucks8sia",
+              "price": "309.00",
+              "currency": "USD",
+              "firstrecorded_at": 1401505000,
+              "lastrecorded_at": 1401505000,
+              "seller": "Beachcamera",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=LGLW8014ER"
+        },
+        {
+          "url": "http://www.target.com/p/lg-8-000-btu-energy-star-window-air-conditioner-with-electronic-controls/-/A-15639377",
+          "latestoffers": [
+            {
+              "seller": "target.com",
+              "lastrecorded_at": 1463570600,
+              "availability": "Available",
+              "id": "2etL5ykEFyCquEQqaCEyiU",
+              "price": "269.99",
+              "currency": "USD",
+              "firstrecorded_at": 1444509700,
+              "isactive": 1
+            },
+            {
+              "id": "7AnAt8vgK86CMKiEo8IeKa",
+              "price": "279.99",
+              "currency": "USD",
+              "firstrecorded_at": 1439549400,
+              "lastrecorded_at": 1444085900,
+              "seller": "target.com",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1439488500,
+              "seller": "target.com",
+              "currency": "USD",
+              "firstrecorded_at": 1439488500,
+              "id": "6R3Qnp4NRQkqaUKYg6aU6C",
+              "price": "289.99",
+              "isactive": 0
+            }
+          ],
+          "name": "target.com",
+          "sku": "15639377",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "LG",
+      "category": "Air Conditioners & Accessories",
+      "updated_at": 1463626015,
+      "cat_id": "12981",
+      "height": "317.50",
+      "width": "498.47",
+      "created_at": 1401516704,
+      "weight": "25854765.09",
+      "mpn": "LW8014ER",
+      "ean": "0048231372411",
+      "gtins": [
+        "00048231372411"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "PH4 13R 01",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/6376531",
+          "sku": "6376531",
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Frys",
+              "lastrecorded_at": 1463648100,
+              "firstrecorded_at": 1443263200,
+              "id": "440dBgJoY4cws2cK6umM0i",
+              "price": "99.90",
+              "availability": "Available for In-Store Pickup Only",
+              "isactive": 1
+            },
+            {
+              "id": "0aSeYAVEwTIC4kyAUywgiG",
+              "firstrecorded_at": 1440380100,
+              "price": "149.90",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "currency": "USD",
+              "seller": "Frys",
+              "lastrecorded_at": 1441850900,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1439655000,
+              "seller": "Frys",
+              "currency": "USD",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "price": "249.00",
+              "id": "2QfRbVIzkKQkWowUikqkSc",
+              "firstrecorded_at": 1437018600,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "mpn": "LX-135DHP",
+      "upc": "647568552482",
+      "brand": "Soleus Air",
+      "name": "Soleus Air PH4-13R-01 13,000 BTU Evaporative Portable Air Conditioner, 13,000 BTU Heater, Dehumidifier and Fan",
+      "updated_at": 1463648165,
+      "category": "Portable",
+      "price": "99.90",
+      "ean": "0647568552482",
+      "created_at": 1347486878,
+      "color": "white/black",
+      "cat_id": "9584",
+      "height": "863.60",
+      "features": {
+        "Included Accessories": "Remote control",
+        "Functions": "Cooling, heating, dehumidifying",
+        "Display Type": "LCD display",
+        "Fan Speed Settings Qty": "3",
+        "Form Factor": "Mobile",
+        "Refrigerant": "R410A",
+        "Heating Capacity": "12500 BTU/h",
+        "Cooling Capacity": "13000 BTU/h",
+        "Max Dehumidification Capacity": "71.9 pint/24hrs",
+        "Timer Settings Features": "Timer",
+        "Compliant Standards": "cETLus",
+        "Power Details": "Cooling - 1390 W Heating - 1180 W",
+        "Special Features": "Ventilation only mode, auto mode, oscillation, adjustable room thermostat",
+        "Control Type": "Electronic",
+        "Voltage": "115 V / 60 Hz",
+        "Product Type": "Air conditioner - indoor unit",
+        "Airflow": "224.8 CFM",
+        "Warranty": "1 year"
+      },
+      "width": "563.88",
+      "weight": "399161.29",
+      "manufacturer": "Soleus Air",
+      "sem3_id": "73PyGdkq48a4myucyEgAaK",
+      "length": "546.10",
+      "gtins": [
+        "00647568552482"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Haier",
+      "updated_at": 1458943266,
+      "features": {
+        "Included Accessories": "Window mounting kit",
+        "Form Factor": "Window mounted",
+        "Product Type": "Air conditioner",
+        "Air Flow Control": "2-way air direction control",
+        "Fan Speed Settings Qty": "2",
+        "Special Features": "Washable filter",
+        "Rated Current": "4.5 A",
+        "Max Power Consumption": "515 W",
+        "Recommended Room Area": "Up to 150 sq.ft",
+        "Energy Efficiency Ratio (EER)": "9.7",
+        "Voltage": "115 V / 60 Hz",
+        "Compliant Standards": "UL, cUL, AHAM, EEV",
+        "Weight (Shipping)": "39.9 lbs",
+        "Cord Length": "6 ft",
+        "Cooling Capacity": "5000 BTU/h",
+        "Width (Shipping)": "18.7 in",
+        "Max Dehumidification Capacity": "38.5 pint/24hrs",
+        "Height (Shipping)": "15 in",
+        "Airflow": "135 CFM",
+        "Depth (Shipping)": "15.1 in",
+        "Functions": "Cooling, dehumidifying"
+      },
+      "length": "294.64",
+      "sem3_id": "5dPdyzcIG8OkYw8iYeI48U",
+      "category": "Window",
+      "cat_id": "13068",
+      "width": "424.18",
+      "sitedetails": [],
+      "weight": "21001326.73",
+      "ean": "0688057402246",
+      "model": "HWF05XCL",
+      "name": "Haier HWF05XCL-L 5,000 BTU 115V Window-Mounted Air Conditioner with Mechanical Controls",
+      "mpn": "ESA406M",
+      "upc": "688057402246",
+      "price": "152.90",
+      "created_at": 1374955496,
+      "brand": "Haier",
+      "height": "320.04",
+      "gtins": [
+        "00688057402246"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2UHURFNQn6AoGaWGKgg0wk",
+      "updated_at": 1461151316,
+      "category": "Air Conditioners & Accessories",
+      "created_at": 1348704575,
+      "weight": "27215.54",
+      "features": {
+        "Item Weight": "5.6 pounds",
+        "Product Dimensions": "11.3 x 10.8 x 9.6 inches"
+      },
+      "sitedetails": [],
+      "ean": "0662766151466",
+      "upc": "662766151466",
+      "name": "Rheem Ruud Weatherking Factory OEM Protech Parts 70-24033-01 Furnace Vent Blower - Draft Inducer",
+      "cat_id": "12981",
+      "manufacturer": "Protech",
+      "mpn": "70-24033-01",
+      "model": "70 24033 01",
+      "price": "205.35",
+      "brand": "Protech",
+      "gtins": [
+        "00662766151466"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "6K1GueHRlAa0aWE6qocy82",
+              "availability": "Available",
+              "firstrecorded_at": 1420334400,
+              "seller": "Sears Brands, LLC.",
+              "price": "179.99",
+              "currency": "USD",
+              "lastrecorded_at": 1420334400,
+              "isactive": 1
+            }
+          ],
+          "name": "kmart.com",
+          "url": "http://www.kmart.com/luma-comfort-corporation-ec110s-portable-evaporative-cooler/p-006V006374410000P",
+          "recentoffers_count": 1,
+          "sku": "006V006374410000P"
+        }
+      ],
+      "color": "Metallic",
+      "width": "431.80",
+      "name": "Luma Comfort EC110S Portable Evaporative Cooler with 250 Square Foot Cooling, 500 CFM [Silver/Black]",
+      "updated_at": 1461345859,
+      "manufacturer": "Newair",
+      "brand": "Luma Comfort",
+      "sem3_id": "6UvI7cNRi4yG4YGiOcWeAY",
+      "length": "939.80",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "12.8 x 11.2 x 34.5 inches ; 16.2 pounds"
+      },
+      "mpn": "EC110S",
+      "category": "Air Conditioners & Accessories",
+      "created_at": 1374230066,
+      "weight": "9071847.40",
+      "price": "149.97",
+      "cat_id": "12981",
+      "model": "EC110S",
+      "height": "304.80",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

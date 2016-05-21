@@ -1,0 +1,1172 @@
+{
+  "total_results_count": 7993,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "weight": "13607771.10",
+      "width": "477.52",
+      "cat_id": "3269",
+      "model": "MCIM30SST",
+      "updated_at": 1463560688,
+      "price": "221.14",
+      "color": "grey",
+      "ean": "0168141556418",
+      "name": "Magic Chef Portable Mini Ice Maker MCIM30SST",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 7,
+          "url": "http://www.walmart.com/ip/25538170",
+          "sku": "25538170",
+          "latestoffers": [
+            {
+              "seller": "Pcrush",
+              "currency": "USD",
+              "id": "2MAB0p06UGqUsCQOuc4ICg",
+              "firstrecorded_at": 1462602000,
+              "price": "221.14",
+              "lastrecorded_at": 1463560600,
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463560600,
+              "availability": "Available",
+              "price": "236.57",
+              "firstrecorded_at": 1463390800,
+              "currency": "USD",
+              "seller": "Direct Home Supplies",
+              "id": "61qHDvyt7Ik4I4ka0Ckkc0",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1463493400,
+              "seller": "ShopLadder",
+              "currency": "USD",
+              "id": "0vtSyp2tcI4UC2W80gWWUO",
+              "lastrecorded_at": 1463560600,
+              "availability": "Available",
+              "price": "259.05",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "kohls.com",
+          "sku": "233381_88838032",
+          "url": "http://www.kohls.com/product/prd-233381/magic-chef-portable-ice-maker.jsp",
+          "latestoffers": [
+            {
+              "seller": "Kohl's.com",
+              "currency": "USD",
+              "id": "0eYKwIvxXcGwKc0W2aQSMK",
+              "firstrecorded_at": 1392669400,
+              "price": "249.99",
+              "availability": "Available",
+              "lastrecorded_at": 1462835100,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461911200,
+              "currency": "USD",
+              "seller": "Wayfair",
+              "id": "4gWkGt722iMIIEQ2280C8O",
+              "lastrecorded_at": 1461911200,
+              "availability": "Available",
+              "price": "216.99",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1459817000,
+              "price": "273.99",
+              "firstrecorded_at": 1459591600,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "id": "5zQXVXmkhk4wQU6oKSgaOM",
+              "isactive": 0
+            },
+            {
+              "id": "114N8YuXUeWWysICC4EeO8",
+              "seller": "Wayfair",
+              "currency": "USD",
+              "firstrecorded_at": 1459253000,
+              "price": "243.99",
+              "lastrecorded_at": 1459253000,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.wayfair.com/Magic-Chef-Portable-Mini-Ice-Maker-MCIM30SST-MGCF1044.html",
+          "sku": "MGCF1044",
+          "recentoffers_count": 0,
+          "name": "wayfair.com"
+        }
+      ],
+      "features": {
+        "Water Filter": "No",
+        "Labor": "1 year",
+        "Ice Maker Type": "Portable",
+        "Color Category": "Silver",
+        "Ice Scoop Included": "Yes",
+        "Door Style": "Drop-down",
+        "Power Cord Included": "Yes",
+        "Clean Cycle": "No",
+        "Color Finish": "Stainless steel",
+        "Daily Ice Production": "33 pounds",
+        "Parts": "1 year",
+        "Ice Storage Capacity": "0 pounds",
+        "Front Venting": "No",
+        "Clear Ice": "No",
+        "Number Of Units": "1"
+      },
+      "mpn": "MCIM30SST",
+      "length": "482.60",
+      "category": "Ice Makers",
+      "manufacturer": "MAGIC CHEF",
+      "sem3_id": "2nJFpCX29QES8EyGy66KWg",
+      "brand": "Magic Chef",
+      "upc": "665679002580",
+      "height": "441.96",
+      "created_at": 1348680054,
+      "gtins": [
+        "00665679002580",
+        "00168141556418"
+      ],
+      "variation_secondaryids": [
+        "0DlZqQwEeMS8mgkcqoq8qo",
+        "5rpacEchTy2Ows4S2EOQOI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "IM 600US",
+      "features": {
+        "Capacity": "Makes up to 50 pounds of ice per day",
+        "Ice making current": "3.0 A",
+        "Hardware finish": "Stainless steel",
+        "Materials": "Electric",
+        "Reversible door with full-length stainless steel handleMakes crystal-clear, gourmet ice cubesPower input": "115V / 60Hz",
+        "Cord Length": "More than 1 ft.",
+        "Supplied water temperature": "41 to 90 degrees Fahrenheit",
+        "Ice harvesting current": "3.6 A",
+        "Material": "Stainless Steel",
+        "Water supply hose length": "9 feet",
+        "Refrigerant": "R134a / 3.17 oz.",
+        "Drain hose length (gravity-pulled)": "5 feet",
+        "Dimensions": "32.8 inches high x 14.6 inches wide x 23.6 inches deep",
+        "Operating temperature": "50 to 100 degrees Fahrenheit",
+        "Storage capacity": "Stores up to 25 pounds of ice",
+        "Style": "Upright",
+        "Wattage": "200-400 Watts",
+        "Number of boxes this will ship in": "One (1)",
+        "Power consumption": "400 watts",
+        "Noise level": "50-60dB"
+      },
+      "updated_at": 1463559140,
+      "name": "SPT IM-600US Stainless Steel Under-Counter Ice Maker, 50-Pound",
+      "length": "599.44",
+      "brand": "SPT",
+      "ean": "0876840006409",
+      "sem3_id": "422SBTeu3yC4SUIkSg2Qgi",
+      "price": "877.60",
+      "category": "Ice Makers",
+      "weight": "38101759.08",
+      "color": "Stainless steel door with black cabinet",
+      "height": "833.12",
+      "mpn": "IM-600US",
+      "cat_id": "3269",
+      "width": "370.84",
+      "manufacturer": "Sunpentown",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/37424280",
+          "latestoffers": [
+            {
+              "seller": "Appliances Connection",
+              "lastrecorded_at": 1458924700,
+              "price": "996.79",
+              "currency": "USD",
+              "firstrecorded_at": 1458924700,
+              "id": "7F1E7gqBrkagK4wagSY0m0",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "967.94",
+              "lastrecorded_at": 1458924700,
+              "seller": "ShopLadder",
+              "id": "03ps4mPGq76eEQiYoCeoMO",
+              "firstrecorded_at": 1458924700,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1458291600,
+              "price": "954.20",
+              "seller": "ShopLadder",
+              "firstrecorded_at": 1458291600,
+              "currency": "USD",
+              "id": "7eHSVOH4bIQgGUGk2S8ca6",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "37424280",
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Overstock",
+              "price": "899.09",
+              "lastrecorded_at": 1429620600,
+              "id": "0NcoaHVZCt6Is4iCqyYeAy",
+              "currency": "USD",
+              "firstrecorded_at": 1427353600,
+              "availability": "Availabe",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "seller": "Overstock",
+              "lastrecorded_at": 1426740000,
+              "price": "899.99",
+              "firstrecorded_at": 1426740000,
+              "currency": "USD",
+              "id": "0NHcqiXqqZ6KKWcySqGuYy",
+              "isactive": 0
+            },
+            {
+              "id": "1dgkVr5zTY6oscA2aAO06M",
+              "currency": "USD",
+              "firstrecorded_at": 1425160400,
+              "price": "899.09",
+              "lastrecorded_at": 1425160400,
+              "seller": "Overstock",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "7986907",
+          "url": "http://www.overstock.com/Home-Garden/SPT-Stainless-Steel-Under-counter-Ice-Maker/7986907/product.html",
+          "name": "overstock.com",
+          "recentoffers_count": 0
+        },
+        {
+          "url": "http://www.kmart.com/spt-50-lbs-stainless-steel-under-counter-ice/p-022V007748363000P",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "999.99",
+              "lastrecorded_at": 1425951000,
+              "seller": "Sears Brands, LLC.",
+              "id": "6WTqu4MmwqWaCCYUouakAc",
+              "currency": "USD",
+              "firstrecorded_at": 1425951000,
+              "isactive": 0
+            }
+          ],
+          "sku": "022V007748363000P",
+          "recentoffers_count": 0,
+          "name": "kmart.com"
+        }
+      ],
+      "upc": "876840006409",
+      "created_at": 1375867691,
+      "gtins": [
+        "00876840006409"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "17\" H x 17\" D x 15\" W",
+      "name": "Dometic HZB-15S Black Stainless Steel Portable Top Load Ice Maker",
+      "model": "HZB 15S",
+      "updated_at": 1463560814,
+      "cat_id": "3269",
+      "sem3_id": "3tScPtOG3M2YKEqSayakMg",
+      "brand": "Dometic",
+      "price": "157.50",
+      "sitedetails": [
+        {
+          "sku": "98271",
+          "listprice_currency": "USD",
+          "name": "gandermountain.com",
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=98271",
+          "listprice": "299.99",
+          "latestoffers": [
+            {
+              "seller": "Gandermountain",
+              "availability": "In Stock",
+              "firstrecorded_at": 1388778500,
+              "lastrecorded_at": 1421091300,
+              "price": "299.99",
+              "currency": "USD",
+              "id": "5km9JWSA7MkQacKAAuySiM",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1
+        },
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "sku": "33274207",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1428392200,
+              "firstrecorded_at": 1428392200,
+              "availability": "Available",
+              "seller": "Tonzof",
+              "id": "0oma3435IwYMueMOOMsMCI",
+              "currency": "USD",
+              "price": "340.85",
+              "isactive": 0
+            },
+            {
+              "seller": "Tonzof",
+              "availability": "Available",
+              "firstrecorded_at": 1427655200,
+              "lastrecorded_at": 1427655200,
+              "price": "351.58",
+              "currency": "USD",
+              "id": "0pZxoAVWqoYAscwAYQUyi8",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "5Q2pFBiGQaEaesGiOAysQC",
+              "price": "362.03",
+              "lastrecorded_at": 1423332300,
+              "availability": "Available",
+              "seller": "Tonzof",
+              "firstrecorded_at": 1423332300,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/33274207"
+        }
+      ],
+      "length": "431.80",
+      "category": "Ice Makers",
+      "height": "431.80",
+      "upc": "713814075682",
+      "width": "381.00",
+      "weight": "14514955.84",
+      "created_at": 1347517068,
+      "mpn": "HZB15S",
+      "features": {
+        "Special Features": "Defrost water drain, 3 ice cube sizes, ice cube container full indicator, water tank empty indicator",
+        "Exterior Features": "Recessed handle",
+        "Freezer Shelves / Drawers Details": "1 x basket - removable",
+        "Control Features": "LED display",
+        "Warranty": "1 year",
+        "Compliant Standards": "UL",
+        "Ice": "Cubed",
+        "Weight (Shipping)": "42.1 lbs",
+        "Rated Current": "2.4 A",
+        "Freezing Capacity": "33 lbs/24hrs",
+        "Voltage": "120 V / 60 Hz",
+        "Product Type": "Ice cube maker - portable",
+        "Cord Length": "6 ft",
+        "Included Accessories": "Ice scoop"
+      },
+      "ean": "0713814075682",
+      "manufacturer": "Dometic",
+      "gtins": [
+        "00713814075682"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "BI95B00",
+      "cat_id": "3269",
+      "manufacturer": "U-Line",
+      "sitedetails": [],
+      "brand": "U Line",
+      "name": "U-Line : BI95B-00 14 Ice Maker - Black",
+      "color": "Black",
+      "created_at": 1347528754,
+      "ean": "0845033061570",
+      "features": {
+        "Product Dimensions": "27.5 x 20 x 18.2 inches",
+        "Item Weight": "61.6 pounds",
+        "Model Info": "BI95B00"
+      },
+      "sem3_id": "0QsACuJsVuoOGmqAeqWwgW",
+      "category": "Ice Makers",
+      "upc": "845033061570",
+      "price": "1045.00",
+      "updated_at": 1463398958,
+      "model": "BI95B00",
+      "gtins": [
+        "00845033061570"
+      ],
+      "variation_secondaryids": [
+        "22lSJ9jvdoSY0CqCqESoqY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "IM200SS",
+      "category": "Ice Makers",
+      "sem3_id": "5dOKZvU3SC2ig8UOU62CGE",
+      "width": "375.92",
+      "name": "Luma Comfort IM200SS Portable Clear Ice Maker, 28-Pound",
+      "created_at": 1381492820,
+      "price": "233.99",
+      "ean": "0856413003219",
+      "brand": "Luma Comfort",
+      "color": "Stainless Steel",
+      "height": "358.14",
+      "weight": "11566605.44",
+      "length": "287.02",
+      "sitedetails": [
+        {
+          "url": "http://www.wayfair.com/Luma-Comfort-IM200SS-Stainless-Steel-Portable-Clear-Ice-Maker-IM200SS-LYM1024.html",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1461914300,
+              "price": "239.99",
+              "firstrecorded_at": 1439354700,
+              "seller": "Wayfair",
+              "id": "5AfsshhdLyKqMsuQ0asKUe",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "id": "2ZkQzEt4jMeCYwMak8GIUk",
+              "currency": "USD",
+              "availability": "available",
+              "lastrecorded_at": 1436675500,
+              "price": "239.90",
+              "firstrecorded_at": 1389793700,
+              "isactive": 0
+            }
+          ],
+          "name": "wayfair.com",
+          "sku": "LYM1024",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "4613309",
+          "recentoffers_count": 1,
+          "name": "rcwilley.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1451653900,
+              "price": "239.99",
+              "firstrecorded_at": 1446046300,
+              "seller": "RC Willey",
+              "id": "5eHQJQTcrQE8C24Ag6Eogo",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.rcwilley.com/4613309/Luma-Comfort-IM200SS-Stainless-Steel-Portable-Clear-Ice-Maker-View.jsp"
+        },
+        {
+          "sku": "8246994_3419237",
+          "url": "http://www.overstock.com/Home-Garden/Luma-Comfort-Stainless-Steel-Portable-Ice-Maker/8246994/product.html",
+          "recentoffers_count": 0,
+          "name": "overstock.com",
+          "latestoffers": [
+            {
+              "id": "6RE9H5vslkWUsSAEMeQ4k0",
+              "seller": "Overstock",
+              "price": "239.99",
+              "firstrecorded_at": 1456988300,
+              "availability": "Available",
+              "lastrecorded_at": 1463422800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "3269",
+      "model": "IM200SS",
+      "manufacturer": "Luma Comfort Corporation",
+      "features": {
+        "Ice Scoop Included": "Yes",
+        "Auto Shut-Off": "No",
+        "Front Venting": "No",
+        "Ice Storage Capacity": "2 pounds",
+        "Color Finish": "Stainless steel",
+        "Parts": "1 year limited",
+        "Power Cord Included": "Yes",
+        "Daily Ice Production": "28 pounds",
+        "Clear Ice": "Yes",
+        "Number Of Units": "1",
+        "Color Category": "Silver",
+        "Water Filter": "Yes",
+        "Removable Basket": "Yes",
+        "Door Style": "Drop-down",
+        "Number Of Unique Cube Sizes": "1",
+        "Labor": "1 year limited",
+        "Commercial/Residential Use": "Commercial/residential",
+        "Ice Maker Type": "Freestanding",
+        "Clean Cycle": "No"
+      },
+      "updated_at": 1463528791,
+      "upc": "856413003219",
+      "gtins": [
+        "00856413003219"
+      ],
+      "variation_secondaryids": [
+        "4tNVGJ9pFAuaIymqwiGEe4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "3269",
+      "ean": "0876840002319",
+      "sem3_id": "5bqbzraTjMogM6aOeKgy4G",
+      "price": "244.82",
+      "brand": "SPT",
+      "name": "Sunpentown IM-101S Portable Ice Maker with LCD with Stainless Steel Body",
+      "mpn": "IM-101S",
+      "features": {
+        "Frequency": "60 Hertz",
+        "Overall Product Weight": "45lbs",
+        "Overall": "17\" H x 17.13\" W x 15\" D",
+        "Compressor Type": "Water Cooled",
+        "Ice Making Capacity": "35 Pounds",
+        "Ice Shape": "Cube",
+        "Product Type": "Portable Ice Maker",
+        "Rated current": "1.8-2.9A",
+        "Ice Storage Capacity": "2.5 Pounds",
+        "Finish": "Platinum",
+        "Primary Material": "Other",
+        "Primary Material: OtherPrimary Material Details: PlatinumNumber of Items Included": "1",
+        "Compatible Refrigerant": "R134a",
+        "ETL Certified": "Yes",
+        "Ice Cubes Produced": "12",
+        "Amperage": "2.9 Amps",
+        "Water Usage": "4.8 Quarts",
+        "Refrigerant": "R134a / 97g",
+        "Country of Manufacture": "China",
+        "Power consumption": "150 W",
+        "Voltage": "115 Volts (V)",
+        "Platinum color Digital controls with soft-touch buttons LCD panel with blue back light 18 Hour timer Self-clean function Make up to 35 lbs of ice cubes per day Stores up to 2.5 lbs of ice at a time Produces approx. 12 ice cubes in less than 10 minutes No drain required Makes 3 different ice cube sizes Freestanding application High efficiency CFC-free compressor UL / CE / GS certified ETL listed 1.2 Gallon water reservoir Power": "115V / 60Hz",
+        "Maximum Wattage": "150 Watts (W)",
+        "Number of Items Included": "1"
+      },
+      "model": "IM 101S",
+      "created_at": 1347725453,
+      "updated_at": 1463561042,
+      "upc": "876840002319",
+      "weight": "24947580.35",
+      "color": "Black",
+      "length": "431.80",
+      "width": "381.00",
+      "category": "Ice Makers",
+      "height": "431.80",
+      "manufacturer": "SPT",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "Available Online",
+              "id": "0CLze7z9qcK4soeUMUosSq",
+              "firstrecorded_at": 1378496600,
+              "price": "229.09",
+              "lastrecorded_at": 1378496600,
+              "seller": "target.com",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.target.com/p/sunpentown-stainless-steel-portable-ice-maker-im101s/-/A-10447813",
+          "recentoffers_count": 0,
+          "sku": "10447813",
+          "name": "target.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "6jzoNHDoXoCuq2SWu8MW2m",
+              "firstrecorded_at": 1461909400,
+              "lastrecorded_at": 1461909400,
+              "price": "258.45",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "currency": "USD",
+              "firstrecorded_at": 1459591800,
+              "lastrecorded_at": 1459816900,
+              "price": "273.99",
+              "availability": "Available",
+              "id": "1lRm7U8i2eeScc8CyKw4mg",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "id": "0rxSYLmYC6CaUGGUmiWocA",
+              "firstrecorded_at": 1459211900,
+              "lastrecorded_at": 1459211900,
+              "price": "254.95",
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/SPT-Stainless-Steel-Portable-Ice-Maker-IM-101S-SPT1103.html",
+          "sku": "SPT1103",
+          "name": "wayfair.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Wayfair",
+              "availability": "Available",
+              "id": "1GwSzVND9mISuOkKWO2Qmq",
+              "firstrecorded_at": 1461909400,
+              "price": "236.45",
+              "lastrecorded_at": 1461909400,
+              "isactive": 0
+            },
+            {
+              "price": "278.99",
+              "lastrecorded_at": 1459816900,
+              "firstrecorded_at": 1459591800,
+              "id": "79SkSddgC8iy44ycumK0kO",
+              "availability": "Available",
+              "seller": "Wayfair",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "id": "14RvdnatBUc24Yi8QaUkYm",
+              "firstrecorded_at": 1458842400,
+              "lastrecorded_at": 1459211800,
+              "price": "263.99",
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/SPT-Portable-Ice-Maker-w-LCD-IM-101-SPT1102.html",
+          "sku": "SPT1102",
+          "name": "wayfair.com"
+        }
+      ],
+      "gtins": [
+        "00876840002319"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Koldfront",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "129.00",
+              "seller": "Living Direct",
+              "currency": "USD",
+              "firstrecorded_at": 1463169000,
+              "availability": "Available",
+              "lastrecorded_at": 1463570000,
+              "id": "2BLxVkpDKSS4Q8yswSGYiw",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463570000,
+              "availability": "Available",
+              "id": "6wgSFO3t1yA6oqsIUk40cW",
+              "seller": "Newegg",
+              "price": "129.00",
+              "firstrecorded_at": 1463169000,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "0UX1nf6ttxIuwCq4GIeyq2",
+              "lastrecorded_at": 1462849400,
+              "availability": "Available",
+              "firstrecorded_at": 1462849400,
+              "currency": "USD",
+              "seller": "Newegg",
+              "price": "122.55",
+              "isactive": 0
+            }
+          ],
+          "listprice": "210.00",
+          "recentoffers_count": 2,
+          "name": "newegg.com",
+          "sku": "9SIA0MN0689785",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA0MN0689785",
+          "listprice_currency": "USD"
+        },
+        {
+          "url": "http://www.livingdirect.com/Koldfront-Ultra-Compact-Portable-Ice-Maker-Open-Box-KIM202WOB/KIM202WOB,default,pd.html",
+          "listprice_currency": "USD",
+          "sku": "KIM202WOB",
+          "recentoffers_count": 1,
+          "name": "livingdirect.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463495000,
+              "id": "2NFpHaBOECi2qekO0Eq84i",
+              "price": "74.98",
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "firstrecorded_at": 1462317200,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1435491600,
+              "id": "78M7hsT7vkUa2AsYaqweKQ",
+              "seller": "Living Direct, Inc",
+              "price": "94.99",
+              "firstrecorded_at": 1435491600,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "90.24",
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "firstrecorded_at": 1434317300,
+              "lastrecorded_at": 1434704500,
+              "id": "7LUCkkeOUigkiKigYwUeAW",
+              "isactive": 0
+            }
+          ],
+          "listprice": "99.99"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "149.99",
+              "seller": "Overstock",
+              "currency": "USD",
+              "firstrecorded_at": 1456988700,
+              "availability": "Available",
+              "lastrecorded_at": 1460762000,
+              "id": "4qNEP0HZFYACUes84Yysg4",
+              "isactive": 0
+            }
+          ],
+          "sku": "6212929_3419234",
+          "recentoffers_count": 0,
+          "name": "overstock.com",
+          "url": "http://www.overstock.com/Home-Garden/Koldfront-White-Ultra-Compact-Portable-Ice-Maker/6212929/product.html"
+        }
+      ],
+      "color": "White",
+      "width": "241.30",
+      "brand": "Koldfront",
+      "sem3_id": "1KQ43ck3K6oOgMoqmCSqSq",
+      "features": {
+        "Product Type": "Ice cube maker - portable",
+        "Special Features": "Defrost water drain, ice cube container full indicator, water tank empty indicator, 2 ice cube sizes",
+        "Included Accessories": "Ice scoop",
+        "Control Features": "Electronic controls",
+        "Max Power Consumption": "230 W",
+        "Refrigerant": "R 134 A",
+        "Voltage": "115 V / 60 Hz",
+        "Warranty": "1 year",
+        "Rated Current": "2 A",
+        "Freezing Capacity": "26 lbs/24hrs"
+      },
+      "name": "Koldfront Ultra Compact Portable Ice Maker - White",
+      "mpn": "KIM202W",
+      "price": "74.98",
+      "weight": "13154178.73",
+      "upc": "854502001641",
+      "length": "358.14",
+      "category": "Ice Makers",
+      "created_at": 1347769387,
+      "height": "327.66",
+      "cat_id": "3269",
+      "model": "KIM202W",
+      "updated_at": 1463570031,
+      "ean": "0854502001641",
+      "gtins": [
+        "00854502001641"
+      ],
+      "variation_secondaryids": [
+        "5VO9OwE51kkUW8MUKCioaw",
+        "04TdNXkG0WusEC2Y4wciGG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347707997,
+      "sitedetails": [
+        {
+          "sku": "23218132",
+          "latestoffers": [
+            {
+              "price": "542.41",
+              "currency": "USD",
+              "id": "2jU78SUenYQgSuIIogM222",
+              "availability": "Available",
+              "seller": "PlumStruck",
+              "firstrecorded_at": 1462755400,
+              "lastrecorded_at": 1463360100,
+              "isactive": 1
+            },
+            {
+              "seller": "ShopLadder",
+              "id": "1kkhRgqlBcMoKMKMssUu4q",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1463360100,
+              "firstrecorded_at": 1463360100,
+              "price": "617.76",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "1bxKvhkm2e8KmY0MQU8M2A",
+              "seller": "ShopLadder",
+              "firstrecorded_at": 1463154200,
+              "lastrecorded_at": 1463154200,
+              "price": "617.74",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 2,
+          "url": "http://www.walmart.com/ip/23218132"
+        }
+      ],
+      "model": "VT IMSW",
+      "cat_id": "3269",
+      "manufacturer": "Vinotemp",
+      "color": "Blk/Silver",
+      "upc": "657433004725",
+      "name": "Vinotemp VT-IMSW Under-Counter Ice Maker, Stainless/Black",
+      "features": {
+        "Removable Basket": "Yes",
+        "Clean Cycle": "No",
+        "Ice Scoop Included": "Yes",
+        "Parts": "1 year limited",
+        "Color Finish": "Stainless steel",
+        "Door Style": "Right to left",
+        "Daily Ice Production": "12 pounds",
+        "Power Cord Included": "Yes",
+        "Ice Maker Type": "Freestanding",
+        "Clear Ice": "No",
+        "Front Venting": "Yes",
+        "Ice Storage Capacity": "6 pounds",
+        "Number Of Units": "1",
+        "Color Category": "Silver",
+        "Auto Shut-Off": "No",
+        "Number Of Unique Cube Sizes": "1",
+        "Labor": "1 year limited"
+      },
+      "width": "647.70",
+      "weight": "23813599.43",
+      "mpn": "VT-IMSW",
+      "updated_at": 1463428985,
+      "ean": "0657433004725",
+      "brand": "Vinotemp",
+      "price": "464.99",
+      "height": "431.80",
+      "category": "Ice Makers",
+      "length": "495.30",
+      "sem3_id": "61zkR4pdGSyCg8IuMocaug",
+      "gtins": [
+        "00657433004725"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0971478197731",
+      "manufacturer": "Petra Industries, Inc. - Consumer Electronics Replen",
+      "updated_at": 1463427373,
+      "width": "241.30",
+      "features": {
+        "Specifications": "Included Items",
+        "Ice Maker Features": "Automatic Ice Level Control/Shutoff,Removable Basket",
+        "Assembled Depth (in.)": "14.1 in",
+        "Appliance Type": "Freestanding Ice Maker",
+        "Certifications and Listings": "*No Certifications or Listings",
+        "Number of Possible Ice Cube Shapes": "1",
+        "Commercial / Residential": "Residential",
+        "ENERGY STAR Certified": "No",
+        "Assembled Height (in.)": "12.9 in",
+        "Door Swing": "Lift Up",
+        "Ice Production per Day (lb.)": "27",
+        "Number of Possible Ice Cube Sizes": "2",
+        "Control Type": "Electronic",
+        "Ice Storage Capacity (lb.)": "1.8",
+        "Product Weight (lb.)": "20.3",
+        "Product Width (in.)": "9.5",
+        "Installation Type": "Freestanding Only",
+        "Drain Required": "No",
+        "Manufacturer Warranty": "1 year parts and labor, 5 years compressor (part only)",
+        "Exterior Material": "Plastic",
+        "Assembled Width (in.)": "9.5 in",
+        "MFG Part #": "OSIM22SV",
+        "Ice Maker Type": "Portable",
+        "Product Height (in.)": "12.9",
+        "MFG Model #": "OSIM22SV",
+        "Product Depth (in.)": "14.1"
+      },
+      "height": "327.66",
+      "length": "358.14",
+      "weight": "9207925.11",
+      "sem3_id": "7g0yCa6SmGQso0OksygiiW",
+      "upc": "665679015726",
+      "category": "Ice Makers",
+      "model": "OSIM22SV",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1403769400,
+              "id": "1yhhpwCD7EemisoMa6gooy",
+              "currency": "USD",
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1423350000,
+              "seller": "Walmart",
+              "price": "149.00",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1398990300,
+              "id": "2AItOgpgO44uWGAECkMAaO",
+              "currency": "USD",
+              "lastrecorded_at": 1403566500,
+              "availability": "Out of Stock",
+              "seller": "UnbeatableSale.com",
+              "price": "173.54",
+              "isactive": 0
+            },
+            {
+              "price": "181.13",
+              "seller": "TigerDirect",
+              "id": "0KW7JvxY6oCG4a0yO6eiEy",
+              "firstrecorded_at": 1392076400,
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1403045900,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "14977099",
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/14977099",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "datavis.com",
+          "sku": "662246",
+          "latestoffers": [
+            {
+              "id": "6iRbY63WpyuigYyqC2gG48",
+              "firstrecorded_at": 1388762300,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1390707700,
+              "price": "171.99",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=662246",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "antonline.com",
+          "sku": "996467",
+          "latestoffers": [
+            {
+              "seller": "ANTOnline",
+              "price": "170.03",
+              "firstrecorded_at": 1391196400,
+              "id": "0R8mh8qijOSqAeCK2aWm08",
+              "currency": "USD",
+              "lastrecorded_at": 1400609600,
+              "availability": "9 In Stock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.antonline.com/p_Oster_996467.htm"
+        }
+      ],
+      "color": "Black",
+      "gtins": [
+        "00665679015726",
+        "00971478197731",
+        "00611101194903"
+      ],
+      "cat_id": "3269",
+      "brand": "Oster",
+      "name": "Oster OSIM22SV 27-Pound Portable Ice Maker",
+      "mpn": "OSIM22SV",
+      "price": "199.99",
+      "created_at": 1347707464,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "35 lb. Portable Ice Maker in Platinum",
+      "manufacturer": "SPT",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1462118200,
+              "seller": "Wayfair",
+              "id": "4yJ6osokQKAqGCu42swcOO",
+              "price": "209.95",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1462118200,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1458910300,
+              "id": "4VqHHbleQKkMauKCCAAS8y",
+              "seller": "Wayfair",
+              "availability": "Available",
+              "lastrecorded_at": 1459213000,
+              "currency": "USD",
+              "price": "265.55",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "254.95",
+              "lastrecorded_at": 1458746500,
+              "availability": "Available",
+              "seller": "Wayfair",
+              "id": "3QP71i51kGUKEU0MQuGMWK",
+              "firstrecorded_at": 1458746500,
+              "isactive": 0
+            }
+          ],
+          "sku": "SPT1101",
+          "url": "http://www.wayfair.com/SPT-Portable-Ice-Maker-IM-100-SPT1101.html",
+          "name": "wayfair.com"
+        }
+      ],
+      "ean": "0876840000209",
+      "features": {
+        "Platinum color Make up to 35 lbs of ice cubes per day Stores up to 2.5 lbs of ice at a time Produces approx. 12 ice cubes in less than 10 minutes Makes 3 different ice cube sizes No drain required Soft touch controls Freestanding application High efficiency CFC-free compressor UL / CE / GS certified ETL listed Water reservoir": "1.2 Gallon",
+        "Water Usage": "4.8 Quarts",
+        "Frequency": "60 Hertz",
+        "Finish": "Platinum",
+        "Country of Manufacture": "China",
+        "Rated current": "2.6 A",
+        "Ice Shape": "Cube",
+        "Compressor Type": "Water Cooled",
+        "Overall Product Weight": "45lbs",
+        "Ice Storage Capacity": "2.5 Pounds",
+        "Voltage": "115 Volts (V)",
+        "Refrigerant": "R134a / 105g",
+        "Ice Making Capacity": "35 Pounds",
+        "Primary Material": "Other",
+        "Product Type": "Portable Ice Maker",
+        "Overall": "17\" H x 17.13\" W x 15\" D",
+        "Ice Cubes Produced": "12",
+        "ETL Certified": "Yes",
+        "Power consumption": "300 W",
+        "Compatible Refrigerant": "R134a",
+        "Number of Items Included": "1",
+        "Maximum Wattage": "300 Watts (W)",
+        "Primary Material: OtherPrimary Material Details: PlatinumNumber of Items Included": "1",
+        "Power": "115V / 60Hz",
+        "Amperage": "2.6 Amps"
+      },
+      "height": "431.80",
+      "mpn": "IM-100",
+      "brand": "SPT",
+      "price": "243.42",
+      "sem3_id": "7Lcc2YpyJE6oiOC0008KSq",
+      "updated_at": 1463477056,
+      "cat_id": "3269",
+      "width": "381.00",
+      "category": "Ice Makers",
+      "color": "PLATINUM/PLASTIC",
+      "created_at": 1378806040,
+      "model": "IM 100",
+      "upc": "876840000209",
+      "weight": "20865249.02",
+      "gtins": [
+        "00876840000209"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

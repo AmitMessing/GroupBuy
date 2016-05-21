@@ -1,0 +1,452 @@
+{
+  "total_results_count": 60504,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "height": "132.08",
+      "created_at": 1379847118,
+      "cat_id": "12126",
+      "sem3_id": "07xFjZ9tp8C0wmqqgsM8gK",
+      "sitedetails": [],
+      "ean": "0077652082357",
+      "upc": "077652082357",
+      "updated_at": 1461100642,
+      "mpn": "08235, STA-08235",
+      "features": {
+        "Directions": "Brewing: To savor the full flavor of our teas, bring fresh water to a rolling boil. Pour hot water directly over the tea bag in a pre-heated pot or cup. Brew 3-5 minutes or to desired taste. One tea bag makes 8 ounces of hot tea. For iced tea, brew double strength.",
+        "Total Size": "0.91 oz",
+        "Units in Package": "20",
+        "Ingredients": "Green Tea, Spearmint, Lemongrass, and Peppermint."
+      },
+      "brand": "Stash",
+      "name": "Stash Premium Green Tea, Moroccan Mint - 20 bags, 0.91 oz",
+      "length": "78.74",
+      "weight": "25798.07",
+      "category": "Tea",
+      "width": "71.12",
+      "gtins": [
+        "00077652082357"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Dimensions": "14 x 9 x 2 inches"
+      },
+      "category": "Tea",
+      "sem3_id": "0bdDcc0rlPU8cemK8ym6Y4",
+      "brand": "Frontier",
+      "cat_id": "12126",
+      "sitedetails": [],
+      "mpn": "2826",
+      "ean": "0089836028266",
+      "created_at": 1380151111,
+      "name": "Frontier Bulk Earl Grey Tea",
+      "price": "24.96",
+      "weight": "72574.78",
+      "updated_at": 1461168687,
+      "upc": "089836028266",
+      "gtins": [
+        "00089836028266"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Item Weight": "2.9 pounds",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "weight": "1632932.53",
+      "sitedetails": [
+        {
+          "sku": "198560",
+          "latestoffers": [
+            {
+              "price": "36.88",
+              "firstrecorded_at": 1442500300,
+              "seller": "Sam's West",
+              "id": "5PcTu46NxA0u6WCSYeyWwW",
+              "lastrecorded_at": 1460780300,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1441277300,
+              "currency": "USD",
+              "id": "2lVE42WDYOIwKmSCcCOaEe",
+              "seller": "Sam's West",
+              "firstrecorded_at": 1440703200,
+              "price": "34.81",
+              "isactive": 0
+            },
+            {
+              "id": "2fiAgfU0vQKoK2qUmk64KS",
+              "lastrecorded_at": 1437175500,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "29.81",
+              "firstrecorded_at": 1437175500,
+              "seller": "Sam's West",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.samsclub.com/sams/5-hour-energy-berry-24-shots/198560.ip",
+          "recentoffers_count": 1,
+          "name": "samsclub.com"
+        }
+      ],
+      "price": "36.88",
+      "updated_at": 1461270539,
+      "sem3_id": "1wiTea75OCoQiE8iQe2S40",
+      "name": "5 Hour Energy - Berry, 24 -Count 1.93 oz Bottles",
+      "category": "Energy Drinks",
+      "cat_id": "12120",
+      "ean": "0719410500245",
+      "upc": "719410500245",
+      "brand": "5 Hour Energy",
+      "created_at": 1365754466,
+      "manufacturer": "5 Hour Energy",
+      "mpn": "024008",
+      "gtins": [
+        "00719410500245"
+      ],
+      "variation_secondaryids": [
+        "5TOq1GBvnss2u86Eyqes2A"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "635029.32",
+      "category": "Coffee",
+      "size": "12 Count (Pack of 3)",
+      "color": "Grey",
+      "variation_id": "2MAGABj7WW8eoA2eSMISGo",
+      "width": "210.82",
+      "price": "14.99",
+      "manufacturer": "Rogers Family Co",
+      "mpn": "64419",
+      "cat_id": "13454",
+      "updated_at": 1461430082,
+      "model": "47071",
+      "name": "San Francisco Bay OneCup, Decaf French Roast, 12 Single Serve Coffees (Pack of 3)",
+      "sitedetails": [],
+      "created_at": 1348699000,
+      "features": {
+        "Ingredients": "Arabica Coffee (100%).",
+        "Directions": "Use OneCups as directed in your coffeemaker manual. Open hatch, insert OneCup with foil top facing up, and close hatch. Optimal brewing size is 8 oz, or the medium cup setting on your machine. Press appropriate brew button. The OneCups inside this box are packaged in a flavor-lock bag. For best results, reseal with a clip, rubber band, or airtight container.",
+        "Total Size": "4.65 oz",
+        "Units in Package": "12"
+      },
+      "height": "160.02",
+      "brand": "San Francisco Bay Coffee",
+      "sem3_id": "1JkfNbDnQcwgyimGcuYIw2",
+      "ean": "0077324470710",
+      "length": "297.18",
+      "upc": "077324470710",
+      "gtins": [
+        "00077324470710"
+      ],
+      "variation_secondaryids": [
+        "650bBaQyju2Omm0iskAiMG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2JojThUARsCMAok2KEsiwC",
+      "features": {
+        "Packaging may vary from what is depicted on site image but product remains same Shipping Details": "Ships in Amazon Certified Frustration-Free Packaging",
+        "Kosher Certification": "This product is certified kosher by the Orthodox Union"
+      },
+      "sitedetails": [],
+      "variation_id": "4v0nmfdYXQogweqKWQKUY6",
+      "height": "215.90",
+      "created_at": 1348698988,
+      "category": "Coffee",
+      "weight": "911720.66",
+      "upc": "834259007233",
+      "manufacturer": "Coffee People",
+      "ean": "0099555156423",
+      "cat_id": "13454",
+      "mpn": "CAJ-074",
+      "size": "50-Count",
+      "updated_at": 1461097535,
+      "length": "228.60",
+      "width": "215.90",
+      "brand": "Coffee People",
+      "name": "Keurig, The Original Donut Shop, Medium Roast, K-Cup Counts, 50 Count []",
+      "price": "28.99",
+      "gtins": [
+        "00834259007233",
+        "00099555156423"
+      ],
+      "variation_secondaryids": [
+        "3bUlu7alQWoc62qgImW8Uk",
+        "0DGCkVnMW9memo2e42s0W2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "default",
+      "model": "22041",
+      "weight": "68038.86",
+      "sem3_id": "22MayI6zw4caqEKYUUogyk",
+      "cat_id": "12126",
+      "category": "Tea",
+      "size": "16",
+      "updated_at": 1460856277,
+      "sitedetails": [],
+      "mpn": "22041",
+      "upc": "032917000514",
+      "name": "Traditional Medicinals Organic Seasonal Echinacea Plus Caffeine Free - 16 Tea Bags",
+      "height": "127.00",
+      "features": {
+        "Total Size": "0.85 oz",
+        "Servings Per Container": "16",
+        "Directions": "To Enjoy: Pour 8 oz freshly boiled water over 1 tea bag. Cover cup & steep for 10-15 minutes. Squeeze tea bag to ensure maximum goodness in your cup. Enjoy 5 to 6 cups throughout the day when needed. Good with honey! Be well.",
+        "Warnings": "Consult your healthcare practitioner prior to use: if you are pregnant or breastfeeding; or if you have an auto-immune disorder or a progressive systemic disease such as rheumatoid arthritis, tuberculosis, leukosis, collagenosis, multiple sclerosis, AIDS or HIV infections, or if you are taking immunosuppressants. Do not use this product if you are allergic to plants within the daisy (Asteraceae) family, such as chamomile or echinacea. Not recommended for use with children under 12 years of age.",
+        "Units in Package": "16",
+        "Ingredients": "Proprietary Blend: Organic West Indian Lemongrass Leaf, Organic Spearmint Leaf.",
+        "Serving Size": "1 cup"
+      },
+      "width": "76.20",
+      "brand": "Traditional Medicinals",
+      "created_at": 1347714770,
+      "manufacturer": "Traditional Medicinals Tea",
+      "length": "76.20",
+      "price": "8.69",
+      "ean": "0032917000514",
+      "variation_id": "4W07E88rZowQu0may80uQS",
+      "gtins": [
+        "00032917000514"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "114.30",
+      "category": "Coffee",
+      "sitedetails": [],
+      "mpn": "ALP802",
+      "created_at": 1348687444,
+      "weight": "9071.85",
+      "updated_at": 1461032691,
+      "features": {
+        "Country of Origin": "USA",
+        "Product Dimensions": "2.6 x 1.8 x 1.8 inches"
+      },
+      "height": "152.40",
+      "manufacturer": "Donut House Collection",
+      "variation_id": "7W1NS3jJ6ecy0Kqm6KoUeg",
+      "ean": "0099555067156",
+      "brand": "Donut House Collection",
+      "name": "Donut House Collection Coffee, Cinnamon Roll, K-Cup Portion Count for Keurig K-Cup Brewers, 24-Count []",
+      "size": "24 Count",
+      "length": "203.20",
+      "model": "ALP802",
+      "cat_id": "13454",
+      "upc": "099555067156",
+      "price": "34.99",
+      "sem3_id": "3K6QNZusPoIeKq8I28IIyM",
+      "gtins": [
+        "00099555067156"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Kirkland, Product of Japan",
+      "upc": "096619798551",
+      "name": "Kirkland Ito En Matcha Blend Japanese Green Tea-100 ct []",
+      "updated_at": 1461965533,
+      "weight": "22679.62",
+      "ean": "0096619798551",
+      "mpn": "A2AWorld888",
+      "sem3_id": "3vxTfjWC4WgwCmgeo0SMyW",
+      "cat_id": "12126",
+      "created_at": 1348682032,
+      "price": "17.79",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Origin": "Japan"
+      },
+      "size": "100 count",
+      "category": "Tea",
+      "sitedetails": [],
+      "brand": "Kirkland Signature",
+      "model": "A2AWorld888",
+      "gtins": [
+        "00096619798551"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "070177862688",
+      "manufacturer": "Twinings North America, Inc.",
+      "cat_id": "12126",
+      "brand": "Twinings",
+      "category": "Tea",
+      "ean": "0070177862688",
+      "name": "Twinings Christmas Tea, Keurig K-Cups, 12 Count []",
+      "sem3_id": "6AEE9Z0j20wwgS0OKe0S6e",
+      "created_at": 1356816050,
+      "size": "12 Count",
+      "weight": "36003.89",
+      "features": {
+        "Item Weight": "1.3 ounces"
+      },
+      "updated_at": 1461616954,
+      "sitedetails": [],
+      "price": "13.29",
+      "color": "Christmas Blend Black Tea",
+      "gtins": [
+        "00070177862688"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "58.72",
+      "updated_at": 1462164434,
+      "sitedetails": [
+        {
+          "name": "bjs.com",
+          "recentoffers_count": 0,
+          "sku": "194004",
+          "url": "http://www.bjs.com/.product.194004",
+          "latestoffers": [
+            {
+              "id": "1UY0WC90N2OeYKMgEyI2E0",
+              "seller": "BJ's Wholesale Club,Inc",
+              "price": "46.99",
+              "firstrecorded_at": 1420547500,
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1460919600,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "11090139",
+          "name": "samsclub.com",
+          "url": "http://www.samsclub.com/prod11090139.ip",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1449496600,
+              "price": "42.98",
+              "seller": "Sam's West",
+              "id": "3vbJ0djdYmaY4cemIaeGIk",
+              "lastrecorded_at": 1450100400,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1449111300,
+              "price": "37.97",
+              "seller": "Sam's West",
+              "id": "0s1a8fKin0ww2cQ40Wusuq",
+              "lastrecorded_at": 1449111300,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "1ptCIw7bQWICyOsGIqq2eo",
+              "firstrecorded_at": 1444370800,
+              "seller": "Sam's West",
+              "price": "42.98",
+              "currency": "USD",
+              "lastrecorded_at": 1448566600,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "size": "80 Count",
+      "created_at": 1348665733,
+      "cat_id": "13454",
+      "name": "Tully's French Roast K-cups, 80-Count []",
+      "weight": "3628738.96",
+      "features": {
+        "Flavor": "French Roast",
+        "Count": "80",
+        "Includes": "80 K-Cups",
+        "Product shelf life": "approx. 6 months; expiration date included",
+        "Estimated Delivery": "3 to 5 Days",
+        "Serving Size": "1 K-Cup",
+        "Expiration Date Included": "Yes",
+        "Product Warnings": "May Have Touched Equipment Used to Process Tree Nuts",
+        "Decaf": "No",
+        "Shelf Life": "6 Months (approx.)",
+        "Compatibility": "For Use in Keurig K-Cup Brewing Systems",
+        "Country of Origin": "May Vary"
+      },
+      "brand": "Tully's Coffee",
+      "upc": "099555155822",
+      "manufacturer": "CAJ International",
+      "ean": "0099555155822",
+      "category": "Coffee",
+      "variation_id": "2R2D6LXGdoQ0AI6sa8aGGW",
+      "model": "15582",
+      "sem3_id": "54mV0jIT1kyyAuw2qEEQ4k",
+      "gtins": [
+        "00099555155822"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

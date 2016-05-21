@@ -1,0 +1,396 @@
+{
+  "total_results_count": 85,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Intuit",
+      "price": "189.00",
+      "upc": "028287053144",
+      "updated_at": 1463543701,
+      "ean": "0028287053144",
+      "category": "Tax Preparation",
+      "name": "QuickBooks 2016 for Mac (1-User, Boxed)",
+      "cat_id": "7687",
+      "created_at": 1447471687,
+      "sem3_id": "5BABXzpiNc4wCoSEkSUe0e",
+      "model": "INQ2016MAC1B",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.bhphotovideo.com/c/product/1191520-REG/intuit_426520_quickbooks_2016_for_mac.html",
+          "sku": "1191520",
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463543700,
+              "seller": "B&H",
+              "price": "189.00",
+              "id": "6ycRlC5kMwsEmYGM0AKAO8",
+              "currency": "USD",
+              "firstrecorded_at": 1463099600,
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1462326800,
+              "seller": "B&H",
+              "id": "6O6S4ALcTuWmCKaoyYG6mC",
+              "price": "299.99",
+              "currency": "USD",
+              "firstrecorded_at": 1462326800,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "id": "6UrnRw0vRYeYAe08CCGgUK",
+              "price": "181.00",
+              "lastrecorded_at": 1461437800,
+              "seller": "B&H",
+              "availability": "Available",
+              "firstrecorded_at": 1460816800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "mpn": "426520",
+      "features": {
+        "Box Dimensions (LxWxH)": "7.5 x 5.4 x 0.7\""
+      },
+      "gtins": [
+        "00028287053144"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "category": "Tax Preparation",
+      "features": {
+        "Mobile Device Requirements": "Smartphones and tablets running iOS 8, iOS 9, or Android 3.0 and higher",
+        "Internet": "56 Kbps modem (broadband recommended for online services)",
+        "Additional Requirements": "Microsoft .NET 4.0 or later (included in Quicken installer)",
+        "Memory": "1 GB or more",
+        "Processor": "1 GHz or higher",
+        "Operating Systems Supported": "32-bit and 64-bit versions of Windows Vista SP1, 7, 8, 8.1, and 10",
+        "Printers Supported": "Any printer compatible with Windows Vista/7/8/8.1/10",
+        "Sound": "Sound card and speakers recommended",
+        "Hard Disk Space": "Up to 450 MB, up to 1.5 GB if .NET not installed"
+      },
+      "created_at": 1450943254,
+      "sem3_id": "4Y2yZDgbm4qUEUoqSekUi6",
+      "cat_id": "7687",
+      "model": "QU16RPM",
+      "price": "139.99",
+      "brand": "Intuit",
+      "sitedetails": [
+        {
+          "sku": "1202785",
+          "url": "http://www.bhphotovideo.com/c/product/1202785-REG/intuit_426791_quicken_2016_rental_property.html",
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461372200,
+              "price": "139.99",
+              "availability": "Available",
+              "id": "1LEeszBZMuWgM6yGoYwY8m",
+              "seller": "B&H",
+              "lastrecorded_at": 1462651200,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "price": "164.99",
+              "availability": "Available",
+              "id": "5SMN7z5888ucga6EKCGEEw",
+              "seller": "B&H",
+              "lastrecorded_at": 1460247900,
+              "currency": "USD",
+              "firstrecorded_at": 1450943200,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "mpn": "426791",
+      "updated_at": 1462651291,
+      "name": "Quicken 2016 Rental Property Manager (Download)",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7687",
+      "features": {
+        "Platform": "Windows",
+        "Product Type": "Box pack",
+        "License Type": "1 user",
+        "Supported OS": "Microsoft Windows Vista / 7 / 8 / 8.1 / 10",
+        "Additional Requirements": "Printer, Internet connection 56Kbps, 1024 x 768 monitor resolution , Microsoft .NET Framework 4.0, Adobe Reader 10.x",
+        "Hardware Requirements": "Microsoft Windows Vista / 7 / 8 / 8.1 / 10 - Pentium 4 - RAM 1 GB - HD 650 MB Â¦ Microsoft Windows Vista / 7 / 8 / 8.1 / 10 - Athlon - RAM 1 GB - HD 650 MB",
+        "Distribution Media": "CD-ROM",
+        "Bundled with": "E-file 2015",
+        "Details": "U.S. Federal only"
+      },
+      "manufacturer": "Intuit",
+      "created_at": 1456400052,
+      "updated_at": 1463268324,
+      "ean": "0028287054745",
+      "name": "TurboTax Business for Tax Year 2015 - Box pack - 1 user - CD - U.S. Federal only - Win - with E-file 2015",
+      "sitedetails": [
+        {
+          "sku": "9943516",
+          "latestoffers": [
+            {
+              "id": "4F5tYQoOsqgaOECkaaKmCQ",
+              "firstrecorded_at": 1456400000,
+              "price": "147.99",
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1463268300,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9943516",
+          "name": "tigerdirect.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "category": "Tax Preparation",
+      "mpn": "426886",
+      "brand": "Intuit",
+      "sem3_id": "5gb3G4I8siKW2a2sc2eWk6",
+      "price": "147.99",
+      "upc": "028287054745",
+      "gtins": [
+        "00028287054745"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0
+    },
+    {
+      "price": "51.99",
+      "category": "Tax Preparation",
+      "sem3_id": "1N5NeBRhHgOoE2u6oeyGQy",
+      "brand": "H&R Block",
+      "updated_at": 1462857655,
+      "sitedetails": [],
+      "cat_id": "7687",
+      "created_at": 1449859861,
+      "name": "Tax Software Premium Federal and State: Self-Employed and Rental Property Owners (Tax Year 2015) - Windows|Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1428441537,
+      "category": "Tax Preparation",
+      "manufacturer": "HRB Digital LLC",
+      "updated_at": 1463573706,
+      "mpn": "33BWVFS2Z4YQHTB Bundle",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1428441500,
+              "id": "1fZWdx486Oqq6KqKSUuycA",
+              "availability": "Available",
+              "lastrecorded_at": 1428441500,
+              "seller": "TigerDirect",
+              "currency": "USD",
+              "price": "59.99",
+              "isactive": 0
+            }
+          ],
+          "name": "tigerdirect.com",
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9548425",
+          "recentoffers_count": 0,
+          "sku": "9548425"
+        }
+      ],
+      "upc": "890552816675",
+      "sem3_id": "2K5TZHrRToMyI2swOEyKGs",
+      "brand": "HRB Digital LLC",
+      "ean": "0890552816675",
+      "features": {
+        "OS Compatibility": "WindowsÂ® 8, 7, Vista, XP",
+        "Media": "Download"
+      },
+      "cat_id": "7687",
+      "name": "H&R Block 2014 Deluxe Tax Software For Windows and McAfee 2015 Multi-Access 1 User 5 Devices Bundle",
+      "gtins": [
+        "00890552816675"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7687",
+      "brand": "H&R Block",
+      "sitedetails": [],
+      "sem3_id": "4mu5deeEngy0KkWCym8Owq",
+      "name": "H&R Block Tax Software Deluxe: Homeowners/Investors Federal and State (Tax Year 2015) - Windows|Mac",
+      "updated_at": 1462855450,
+      "created_at": 1449825078,
+      "price": "44.99",
+      "category": "Tax Preparation",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "TurboTax Home & Business 2014 - Box pack - 1 user - CD - U.S. Federal only - Win, Mac - with E-file 2014 + State 2014",
+      "features": {
+        "Additional Requirements": "CD-ROM, printer, Internet connection 56Kbps, 1024 x 768 monitor resolution , Microsoft .NET Framework 4.0, Adobe Reader 8.0 or later",
+        "Product Type": "Box pack",
+        "License Type": "1 user",
+        "Hardware Requirements": "Microsoft Windows XP SP3 or later - 1 GHz - RAM 1 GB - HD 515 MB Â¦ Apple MacOS X 10.6.8 or later - RAM 1 GB - HD 360 MB",
+        "Distribution Media": "CD-ROM",
+        "Platform": "Windows, MacOS",
+        "Details": "U.S. Federal only",
+        "Supported OS": "Microsoft Windows XP Professional SP3 or later, Microsoft Windows XP Home Edition SP3 or later, Microsoft Windows Vista Business (32/64 bits), Microsoft Windows Vista Home Premium (32/64 bits), Microsoft Windows Vista Home Basic (32/64 bits), Microsoft Windows Vista Ultimate (32/64 bits), Microsoft Windows 7 (32/64 bits), Apple MacOS X 10.6.8 or la",
+        "Bundled with": "E-file 2014 + State 2014"
+      },
+      "updated_at": 1463587625,
+      "ean": "0028287049673",
+      "brand": "Intuit",
+      "mpn": "424559",
+      "manufacturer": "Intuit",
+      "sitedetails": [
+        {
+          "name": "tigerdirect.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "1itSkIf2UeOeeOeS0U2Ya0",
+              "availability": "Available",
+              "firstrecorded_at": 1428441400,
+              "price": "101.49",
+              "currency": "USD",
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1428441400,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9556268",
+          "sku": "9556268"
+        }
+      ],
+      "created_at": 1428441485,
+      "sem3_id": "2cmqN0Kf2a4Kyii0MKQ2I2",
+      "category": "Tax Preparation",
+      "upc": "028287049673",
+      "cat_id": "7687",
+      "gtins": [
+        "00028287049673"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "category": "Tax Preparation",
+      "sitedetails": [],
+      "name": "TurboTax Deluxe with State 2013 with Quicken Deluxe 2014 Bundle",
+      "created_at": 1395126104,
+      "updated_at": 1463726476,
+      "features": {
+        "TurboTax": "Use some (or all) of your federal refund to purchase an Amazon.com Gift Card** from TurboTax and TurboTax will tack on an extra 10% - so $500 would become $550",
+        "Quicken": "Develop a personal debt reduction and savings plan"
+      },
+      "cat_id": "7687",
+      "sem3_id": "2dwkGupA4moq6KCUs0EO2I",
+      "variation_secondaryids": [
+        "20ZXtOqIyKA4wOk8okIW8Q",
+        "5sV0JtigWeCaGYIu4QSmqM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "62iSClpSMqSsKqKuoG84eG",
+      "category": "Tax Preparation",
+      "created_at": 1449826147,
+      "price": "27.99",
+      "cat_id": "7687",
+      "sitedetails": [],
+      "updated_at": 1462906951,
+      "name": "Tax Software Deluxe: Homeowners/Investors Federal (Tax Year 2015) - Windows|Mac",
+      "brand": "H&R Block",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "2600.00",
+      "cat_id": "7687",
+      "created_at": 1447472991,
+      "name": "QuickBooks 2016 Enterprise Solution Platinum (Download, 1-Year Subscription, 3-Users)",
+      "sem3_id": "4YWI6oaTIOAOyAQSSgyeC4",
+      "brand": "Intuit",
+      "updated_at": 1462695206,
+      "category": "Tax Preparation",
+      "sitedetails": [
+        {
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "2600.00",
+              "currency": "USD",
+              "firstrecorded_at": 1447472900,
+              "lastrecorded_at": 1462695200,
+              "seller": "B&H",
+              "id": "2N3y6RQDSqSWYe4c2ECaEU",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "1192756",
+          "url": "http://www.bhphotovideo.com/c/product/1192756-REG/intuit_427783_quickbooks_2016_enterprise_solution.html"
+        }
+      ],
+      "model": "INQBESPLTNM3",
+      "mpn": "427783",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    }
+  ]
+}

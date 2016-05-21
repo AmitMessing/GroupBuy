@@ -1,0 +1,410 @@
+{
+  "total_results_count": 33976,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "updated_at": 1460339547,
+      "cat_id": "14300",
+      "weight": "90718.47",
+      "brand": "The Learning Company",
+      "ean": "0798936822086",
+      "name": "Reader Rabbit Personalized 2nd Grade Deluxe",
+      "manufacturer": "Learning Company",
+      "features": {
+        "Product Dimensions": "5 x 5 x 5 inches"
+      },
+      "category": "Children's",
+      "model": "RSG3744AE",
+      "upc": "798936822086",
+      "mpn": "RSG3744AE",
+      "price": "12.95",
+      "sitedetails": [],
+      "sem3_id": "5x9hhYs9gGQYAcU2ic6Gs0",
+      "platform": "Windows",
+      "created_at": 1348673677,
+      "operatingsystem": "Windows",
+      "gtins": [
+        "00798936822086"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0798936822055",
+      "sem3_id": "09BDkbYk7lYguMaYaAaQ8I",
+      "operatingsystem": "Windows",
+      "platform": "Windows",
+      "sitedetails": [],
+      "mpn": "RRP3744CE",
+      "category": "Children's",
+      "cat_id": "14300",
+      "manufacturer": "Learning Company",
+      "features": {
+        "Product Dimensions": "5 x 5 x 5 inches"
+      },
+      "brand": "The Learning Company",
+      "model": "2002",
+      "upc": "798936822055",
+      "created_at": 1348687077,
+      "name": "READER RABBIT PER PRESCHOOL DLX 2CD JC",
+      "weight": "349266.12",
+      "updated_at": 1460518742,
+      "price": "9.50",
+      "gtins": [
+        "00798936822055"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Encore",
+      "price": "9.75",
+      "sitedetails": [],
+      "mpn": "70011",
+      "ean": "0705381700395",
+      "features": {
+        "Distribution Media": "DVD-ROM",
+        "OS Required": "Microsoft Windows Vista SP2, Apple MacOS X 10.2 - 10.5, Microsoft Windows XP SP3",
+        "System Requirements Details": "Microsoft Windows XP SP3 - Pentium - 300 MHz - RAM 128 MB - HD 600 MB Microsoft Windows Vista SP2 - Pentium - 800 MHz - RAM 512 MB - HD 600 MB PowerPC G4 - 867 MHz - RAM 512 MB - HD 600 MB PowerPC G5 - 867 MHz - RAM 512 MB - HD 600 MB",
+        "License Type": "Complete package",
+        "Package Type": "Retail",
+        "Platform": "Windows, MacOS",
+        "License Pricing": "Standard",
+        "Version": "4",
+        "Peripheral / Interface Devices": "DVD-ROM",
+        "License Qty": "1 user",
+        "Software Requirements": "Acrobat Reader",
+        "Subcategory": "Creativity - graphics & image editing"
+      },
+      "sem3_id": "1nuYoepJs8WGAy0q8GW4CU",
+      "created_at": 1348687069,
+      "operatingsystem": "Mac",
+      "cat_id": "20590",
+      "model": "70039",
+      "weight": "90718.47",
+      "upc": "705381700395",
+      "brand": "Encore",
+      "category": "Art & Creativity",
+      "name": "Kid Pix Deluxe 4 Home Edition",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "updated_at": 1460869666,
+      "gtins": [
+        "00705381700395"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348687066,
+      "ean": "0671196504223",
+      "model": "50422",
+      "features": {
+        "Origin of Components": "USA",
+        "Platform": "PC",
+        "Shipping Weight (in pounds)": "0.15",
+        "Product in Inches (L x W x H)": "0.4 x 5.3 x 7.4",
+        "Genre": "Kids & Family",
+        "Assembled in Country of Origin": "USA"
+      },
+      "updated_at": 1463121509,
+      "operatingsystem": "Windows 2000",
+      "cat_id": "15055",
+      "manufacturer": "PC Treasures",
+      "weight": "72574.78",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/16207052",
+          "latestoffers": [],
+          "sku": "16207052",
+          "recentoffers_count": 0,
+          "name": "walmart.com"
+        }
+      ],
+      "price": "22.99",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "category": "Early Learning",
+      "brand": "PC Treasures",
+      "name": "Teacher's Pet Pre Kindergarten",
+      "upc": "671196504223",
+      "sem3_id": "4CWvMm8ZgGGca0Q6sEGMGM",
+      "mpn": "50422",
+      "gtins": [
+        "00671196504223"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "3898103836",
+      "ean": "0738981038360",
+      "sem3_id": "1cV1U0lIH6csmEecesEeUI",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "December 27, 2004",
+        "Media": "Video Game"
+      },
+      "sitedetails": [],
+      "cat_id": "7003",
+      "mpn": "44744",
+      "platform": [
+        "Windows 98",
+        "Windows XP"
+      ],
+      "name": "Sabrina Teenage Witch (Jewel Case) - PC",
+      "brand": "Simon Schuster",
+      "weight": "349266.12",
+      "upc": "738981038360",
+      "price": "19.98",
+      "created_at": 1348696523,
+      "manufacturer": "Vivendi Universal Interactive Publishing",
+      "updated_at": 1462269709,
+      "operatingsystem": "Windows XP",
+      "category": "Games",
+      "gtins": [
+        "00738981038360"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "70010",
+      "features": {
+        "License Qty": "1 user",
+        "Peripheral / Interface Devices": "4x CD-ROM, SVGA monitor",
+        "Subcategory": "Creativity - graphics & image editing",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Microsoft Windows 98 Second Edition - Pentium - 300 MHz - RAM 128 MB - HD 600 MB Microsoft Windows Millennium Edition - Pentium - 300 MHz - RAM 128 MB - HD 600 MB Microsoft Windows 2000 SP4 - Pentium - 300 MHz - RAM 128 MB - HD 600 MB Microsoft Windows XP SP1 - Pentium - 300 MHz - RAM 128 MB - HD 600 MB Apple MacOS 8.6 - 9.2.2 - PowerPC G3 - 333 MHz - RAM 128 MB - HD 600 MB Apple MacOS X 10.0 - PowerPC G3 - 333 MHz - RAM 128 MB - HD 600 MB",
+        "Platform": "Windows, MacOS",
+        "OS Required": "Microsoft Windows 98 Second Edition, Microsoft Windows Millennium Edition, Microsoft Windows XP SP1, Apple MacOS X 10.0, Microsoft Windows 2000 SP4, Apple MacOS 8.6 - 9.2.2",
+        "Package Type": "Retail",
+        "Version": "4",
+        "License Type": "Complete package"
+      },
+      "name": "Learning Company Kid Pix Deluxe 4",
+      "cat_id": "20590",
+      "manufacturer": "Encore Software",
+      "upc": "705381700104",
+      "created_at": 1348687081,
+      "updated_at": 1462384844,
+      "category": "Art & Creativity",
+      "sem3_id": "2UyXbOHAdYaYA4kaucgkac",
+      "model": "32179",
+      "brand": "Encore",
+      "operatingsystem": "Windows XP",
+      "weight": "45359.24",
+      "ean": "0705381321798",
+      "price": "9.94",
+      "sitedetails": [],
+      "platform": [
+        "Mac",
+        "Windows XP",
+        "Windows"
+      ],
+      "gtins": [
+        "00705381700104",
+        "00705381321798"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "sitedetails": [
+        {
+          "sku": "FLT_32903",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "259.35",
+              "seller": "JR",
+              "id": "07hi7SsbKTYU4YwK6KiocW",
+              "firstrecorded_at": 1388156300,
+              "currency": "USD",
+              "lastrecorded_at": 1388156300,
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com",
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_32903"
+        }
+      ],
+      "ean": "9781617161087",
+      "cat_id": "14300",
+      "created_at": 1348674148,
+      "weight": "544310.84",
+      "category": "Children's",
+      "model": "27896",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Media": "CD-ROM",
+        "Release Date": "September 14, 2010"
+      },
+      "manufacturer": "Rosetta Stone",
+      "price": "169.00",
+      "sem3_id": "2hDtaIvPGCMyyCc8GumsGo",
+      "name": "Learn Turkish: Rosetta Stone Turkish Level 1-3 Set [PC/Mac Disc]",
+      "upc": "794678329036",
+      "size": "Level 1, 2, 3 Set",
+      "updated_at": 1462456015,
+      "operatingsystem": "Mac OS X 10.6+",
+      "brand": "Rosetta Stone",
+      "gtins": [
+        "00794678329036",
+        "09781617161087"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "9781617160318",
+      "sem3_id": "7F4px0ZywSq0GI8MGQM6kS",
+      "size": "Level 1",
+      "operatingsystem": "Mac OS X 10.6+",
+      "cat_id": "14300",
+      "brand": "Rosetta Stone",
+      "manufacturer": "Rosetta Stone",
+      "category": "Children's",
+      "upc": "794678332012",
+      "sitedetails": [],
+      "price": "99.00",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Media": "CD-ROM",
+        "Release Date": "September 14, 2010"
+      },
+      "updated_at": 1462066502,
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "created_at": 1348680364,
+      "name": "Learn Irish: Rosetta Stone Irish - Level 1 [Irish, PC/Mac Disc]",
+      "model": "27817",
+      "gtins": [
+        "00794678332012",
+        "09781617160318"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Hmh Se/Lp",
+      "sem3_id": "3O20t061PsoA8m62OqKiUU",
+      "features": {
+        "Provider Product ID": "1025496563",
+        "Platform": "Mac",
+        "Training Subject": "Thinkin Things 3 School Edition (2)",
+        "Training Type": "Course"
+      },
+      "name": "HMH Thinkin Things 3 School Edition MacOS/Win 98/95 CD 2 User",
+      "created_at": 1357791960,
+      "mpn": "1038434",
+      "ean": "0772040841461",
+      "height": "30.48",
+      "width": "134.62",
+      "updated_at": 1462648533,
+      "category": "Early Learning",
+      "upc": "772040841461",
+      "weight": "158757.33",
+      "cat_id": "15055",
+      "price": "69.98",
+      "brand": "Thinkin Things",
+      "length": "190.50",
+      "sitedetails": [],
+      "gtins": [
+        "00772040841461"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0020626716550",
+      "upc": "020626716567",
+      "created_at": 1395292524,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Discontinued by manufacturer": "Yes"
+      },
+      "price": "10.98",
+      "mpn": "71655",
+      "updated_at": 1462641012,
+      "cat_id": "14300",
+      "brand": "Vivendi Universal",
+      "category": "Children's",
+      "sem3_id": "7VxUougfRoKiciUyU8wo68",
+      "manufacturer": "Vivendi Universal",
+      "sitedetails": [],
+      "model": "1093",
+      "weight": "158757.33",
+      "operatingsystem": "Macintosh",
+      "name": "JumpStart Advanced Kindergarten",
+      "gtins": [
+        "00020626716567",
+        "00020626716550"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

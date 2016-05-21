@@ -1,0 +1,901 @@
+{
+  "total_results_count": 15348,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "98.01",
+      "size": "5.13L x 5.75W x 6.75H in.",
+      "height": "158.75",
+      "updated_at": 1463685139,
+      "model": "B 6A1",
+      "mpn": "AAC4001-B6A1",
+      "weight": "2177243.38",
+      "cat_id": "13944",
+      "ean": "0750545719430",
+      "sitedetails": [
+        {
+          "sku": "556882",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=556882",
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388758600,
+              "id": "4gqm8RLHwWsca6U88QGoeQ",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390603900,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "currency": "USD",
+              "price": "71.69",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "1088983",
+          "url": "http://www.antonline.com/p_World-Marketing--B6A1-REFURB--Pelonis-Classic-Ceramic-Heater_1088983.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1401692400,
+              "id": "7bPqfaInCqkiEw4CgEM2kG",
+              "lastrecorded_at": 1415268000,
+              "availability": "1 In Stock",
+              "seller": "ANTOnline",
+              "price": "88.94",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "344680",
+          "url": "http://www.antonline.com/p_World-Marketing--B6A1--Pelonis-Classic-Ceramic-Heater_344680.htm",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "availability": "1 In Stock",
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1401610500,
+              "price": "87.88",
+              "currency": "USD",
+              "firstrecorded_at": 1401610500,
+              "id": "2Sv7P3Icsq2GSS0KAwaKus",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com"
+        }
+      ],
+      "brand": "World Marketing",
+      "manufacturer": "World Marketing",
+      "sem3_id": "1L6z7jvvbsosEOyYm8qUqG",
+      "upc": "750545719430",
+      "width": "177.80",
+      "category": "Space Heaters",
+      "name": "Pelonis Classic Ceramic Heater (Indoor & Outdoor Living)",
+      "created_at": 1357700058,
+      "features": {
+        "Remote Control": "No",
+        "Area Heated (Sq. Ft.)": "200",
+        "Heating Technology Type": "Convection",
+        "Voltage (volts)": "120",
+        "Manufacturer Warranty": "1 Year",
+        "Automatic shutoff": "No",
+        "Anti-freeze setting": "No",
+        "Assembled Width (in.)": "7 in",
+        "MFG Part #": "B6A1",
+        "Product Weight (lb.)": "4.8",
+        "Heater Type": "Ceramic",
+        "Amperage (amps)": "12.5",
+        "Heating area": "150-200 sq. ft.",
+        "MFG Model #": "B6A1",
+        "Accessories Included": "No",
+        "Specifications": "Product Height (in.)",
+        "Wheels": "No",
+        "Thermostat": "No",
+        "Nonslip base": "No",
+        "Timer Included": "No",
+        "Product Width (in.)": "7",
+        "Wattage (watts)": "700",
+        "Power/Fuel Type": "Electric",
+        "Assembled Depth (in.)": "9 in",
+        "Product Depth (in.)": "9",
+        "Assembled Height (in.)": "6.25 in",
+        "Heating Product Type": "Electric Portable Heater",
+        "Certifications and Listings": "1-UL Listed",
+        "Heater type": "ceramic disc",
+        "Cord Length (in.)": "60",
+        "Material": "Ceramic",
+        "Indoor/Outdoor": "Indoor",
+        "Heat output": "5200 BTUs"
+      },
+      "color": "multicolor",
+      "gtins": [
+        "00750545719430"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "sku": "fire-sense-black-wall-mounted-electric-fireplace",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "145.97",
+              "seller": "Sam's Club",
+              "id": "1rJIuvqbGCUm6OGQ2eACq8",
+              "lastrecorded_at": 1379837900,
+              "firstrecorded_at": 1379837900,
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "samsclub.com",
+          "url": "http://www.samsclub.com/sams/fire-sense-black-wall-mounted-electric-fireplace/prod4960580.ip"
+        }
+      ],
+      "category": "Space Heaters",
+      "updated_at": 1463681635,
+      "color": "Black",
+      "name": "30 in. Wall-Mount Electric Fireplace in Black",
+      "width": "775.97",
+      "ean": "0690730607572",
+      "price": "145.97",
+      "cat_id": "13944",
+      "created_at": 1378818318,
+      "manufacturer": "Well Traveled Living",
+      "model": "60757",
+      "height": "485.90",
+      "features": {
+        "Finish Family": "Black",
+        "Mantel material": "Other",
+        "Voltage (volts)": "120",
+        "Fuel type": "Electrical",
+        "Adjustable flicker": "No",
+        "Number of Heat Settings": "2",
+        "Fireplace Depth (in.)": "5.67",
+        "Firebox height (in.)": "11.5",
+        "Media Fireplace": "No",
+        "Remote Control": "Yes",
+        "RegExTest": "Non-Wood",
+        "Fireplace Height (in.)": "19.13",
+        "Blower": "Yes",
+        "Finish": "Black",
+        "Thermostatic Control": "No",
+        "Adjustable Thermostat": "Yes",
+        "Programmable thermostat": "No",
+        "Material": "Glass",
+        "Firebox depth (in.)": "5.67",
+        "Fireplace Style": "Modern",
+        "Assembled Depth (in.)": "5.67 in",
+        "Mantel included": "No",
+        "Returnable": "90-Day",
+        "Timer Included": "Yes",
+        "Vented or Vent-Free": "Vent-Free",
+        "Wattage (watts)": "1400",
+        "Certifications and Listings": "*No Certifications or Listings",
+        "Mount type": "Wall",
+        "Assembled Width (in.)": "30.55 in",
+        "Firebox width (in.)": "22.5",
+        "Area Heated (Sq. Ft.)": "144",
+        "Manufacturer Warranty": "1 Year",
+        "Heat output (BTU/hour)": "4600",
+        "Fireplace Width (in.)": "30.55",
+        "Assembled Height (in.)": "19.13 in"
+      },
+      "sem3_id": "2v9uOCuc1wO4qgMSEe0wgS",
+      "mpn": "60757",
+      "upc": "690730607572",
+      "weight": "17762677.21",
+      "brand": "Fire Sense",
+      "gtins": [
+        "00690730607572"
+      ],
+      "variation_secondaryids": [
+        "0dfXQSrj9jE8iQkAMiMQ4c"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463677890,
+      "features": {
+        "Installation Required": "Unknown",
+        "Voltage": "220V",
+        "Heater Power Source": "Electric",
+        "Provider Product ID": "1021005078",
+        "Maximum Heat Power": "4 kW",
+        "Thermostat Heat Control": "Yes",
+        "Input Voltage": "220 V AC",
+        "Energy Star Compliant": "No",
+        "Weight (Approximate)": "15 lb",
+        "Heater Type": "Convection Heater",
+        "Features": "Thermostat",
+        "Power Source": "Electric",
+        "Heating Element": "Tubular"
+      },
+      "cat_id": "13944",
+      "price": "149.38",
+      "mpn": "04508702, 1970-TPIICH-240C, 4508702, 737-ICH-240C, ICH - 240C, ORS737-ICH-240C, TPI Corp. 737-ICH-240C, TPIICH-240C",
+      "upc": "686334450874",
+      "category": "Space Heaters",
+      "sem3_id": "5rGuQ3YQSG2oGOWomwyY06",
+      "created_at": 1379714641,
+      "height": "323.85",
+      "ean": "0686334450874",
+      "brand": "TPI",
+      "weight": "6803885.55",
+      "length": "254.00",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "url": "http://www.walmart.com/ip/15145950",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "149.38",
+              "firstrecorded_at": 1461547100,
+              "availability": "Available",
+              "seller": "Air and Water Inc",
+              "id": "2X25nvRXXc0musskOws6GO",
+              "lastrecorded_at": 1463677800,
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1423916000,
+              "currency": "USD",
+              "price": "147.63",
+              "id": "0qqMOAPa2060C6KWCsEqQM",
+              "seller": "Tonzof",
+              "lastrecorded_at": 1423916000,
+              "availability": "Out of stock",
+              "isactive": 0
+            }
+          ],
+          "sku": "15145950"
+        }
+      ],
+      "name": "Tpi Industrial ICH-240C Construction Site / Utility Fan Forced Heater",
+      "width": "270.00",
+      "gtins": [
+        "00686334450874"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "184.15",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "49.99",
+              "id": "4oA5dhLt4qciUW6QWeSAcC",
+              "lastrecorded_at": 1388156800,
+              "firstrecorded_at": 1388156800,
+              "seller": "JR",
+              "isactive": 0
+            }
+          ],
+          "sku": "LKO_5165",
+          "url": "http://www.jr.com/lasko/pe/LKO_5165",
+          "name": "jr.com"
+        },
+        {
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "price": "69.00",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1458187700,
+              "firstrecorded_at": 1441301400,
+              "seller": "DataVision Computer Video",
+              "id": "6AeOuIxAo4O6S0QqW26mWQ",
+              "isactive": 1
+            },
+            {
+              "availability": "In Stock",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "price": "73.14",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1440717900,
+              "firstrecorded_at": 1437345000,
+              "id": "767y0konXkCqYKsMes8QYC",
+              "isactive": 0
+            },
+            {
+              "availability": "OUT OF STOCK",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "75.59",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1424444500,
+              "lastrecorded_at": 1436674200,
+              "id": "21jVGdQLXsEqc0u2k0kgKk",
+              "isactive": 0
+            }
+          ],
+          "sku": "697228",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=697228",
+          "recentoffers_count": 1
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=697229",
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK",
+              "price": "73.20",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390501300,
+              "firstrecorded_at": 1390501300,
+              "seller": "DataVision Computer Video",
+              "id": "331ZdNHMhs4gqim0iEseYW",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "57.90",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "id": "2RI41T00F2auOQAicoIwOS",
+              "firstrecorded_at": 1390073400,
+              "lastrecorded_at": 1390073400,
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1389017300,
+              "lastrecorded_at": 1389749300,
+              "id": "5d4G7oNVXEG6GYggYAqEOQ",
+              "availability": "Low Stock. Order Now!",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "price": "73.20",
+              "isactive": 0
+            }
+          ],
+          "sku": "697229",
+          "name": "datavis.com"
+        }
+      ],
+      "upc": "046013766229",
+      "weight": "2993709.64",
+      "updated_at": 1463719394,
+      "ean": "0046013766229",
+      "brand": "Lasko",
+      "features": {
+        "Oscillating Design": "Yes",
+        "ALCI Safety Plug": "No",
+        "Form Factor": "Tower",
+        "Voltage": "120 volts",
+        "Features": "Handle, Oscillating, Overheat Protection, Thermostat",
+        "Amperage": "12.5 amperes",
+        "Color Category": "White",
+        "Heater Power Rating": "5118.2 british thermal units per hour [The British thermal unit (symbol Btu or sometimes BTU) is a traditional unit of energy equal to about 1.055 KJoules. It is approximately the amount of energy needed to heat 1 pound (0.454 kg) of water, which is exactly one tenth of a UK gallon or about 0.1198 US gallons, from 39 Â°F to 40 Â°F (3.8 Â°C to 4.4 Â°C). ]",
+        "Indoor Or Outdoor Use": "Indoor",
+        "Power Source": "Electric",
+        "Input Voltage": "120 V AC",
+        "Heater Style": "Tower",
+        "Voltage Requirement": "120 volts",
+        "Number of Heat Settings": "2",
+        "Maximum Heat Power": "1.50 kW",
+        "Weight (Approximate)": "6.95 lb",
+        "Country of Origin": "China",
+        "Heating Method": "Convection",
+        "Number Of Heat Levels": "2",
+        "Limited Warranty": "3 Year",
+        "Timer Included": "Yes",
+        "Additional Accessories Included": "Digital Ceramic Tower Heater Remote Control",
+        "Warranty Terms - Parts": "3 years",
+        "Wattage": "1500 watts",
+        "Heating Element": "Ceramic",
+        "Area Heated": "150 square feet",
+        "Timer": "Yes"
+      },
+      "cat_id": "13944",
+      "name": "Lasko 5165 Digital Ceramic Tower Heater with Remote Control",
+      "category": "Space Heaters",
+      "length": "215.90",
+      "sem3_id": "1KgCjNTzvcS2Gm4yCOEOCM",
+      "created_at": 1357681216,
+      "manufacturer": "Lasko Metal Products",
+      "price": "49.94",
+      "height": "584.20",
+      "model": "5165",
+      "gtins": [
+        "00046013766229"
+      ],
+      "variation_secondaryids": [
+        "3HS8ldY0PowSae2EMEo2wU",
+        "6gTExtsFkGSe6IMC0S8Ae2",
+        "3WHicTZOcq4K8usGAscOKq",
+        "1qRcI1cqD6uceQCsAI4aS8",
+        "5Y2XlhIRKww8G466MaaGQG",
+        "0DtjdcMZnosAgKQWEuaGKw"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "MD300TGA",
+      "brand": "ProCom",
+      "category": "Space Heaters",
+      "updated_at": 1461273092,
+      "sem3_id": "6O18EVX5VIaO4OmSYkiWIg",
+      "width": "675.64",
+      "ean": "0800084020105",
+      "weight": "158757.33",
+      "length": "203.20",
+      "created_at": 1347757105,
+      "price": "229.00",
+      "features": {
+        "Recommended Room Area": "Up to 1001 sq.ft",
+        "Warranty": "1 year",
+        "Product Type": "Heater",
+        "Safety Features": "Auto shut-off, O.D.S. (Oxygen Depletion Sensor)",
+        "Heating Capacity": "30000 BTU/h",
+        "Form Factor": "Wall mounted",
+        "Functions": "Heating",
+        "Special Features": "Adjustable thermostat, piezoelectric ignition, Dual Fuel Technology"
+      },
+      "upc": "800084020105",
+      "height": "596.90",
+      "cat_id": "13944",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "northerntool.com",
+          "latestoffers": [
+            {
+              "price": "199.99",
+              "id": "6hy22ap6DgaA8cqYYO8kq8",
+              "seller": "Northern Tool",
+              "lastrecorded_at": 1415954000,
+              "availability": "Available",
+              "firstrecorded_at": 1415954000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.northerntool.com/shop/tools/product_200442160",
+          "sku": "200442160_200442160"
+        }
+      ],
+      "manufacturer": "ProCom",
+      "name": "ProCom Dual Fuel Vent-Free Blue Flame Garage Heater - 30,000 BTU",
+      "gtins": [
+        "00800084020105"
+      ],
+      "variation_secondaryids": [
+        "4ITFj8Gn9Eu4SwUcCgmoM6",
+        "42SpBgAg1QQgIWasM6iumE"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "508.00",
+      "length": "381.00",
+      "features": {
+        "Max Power Consumption": "1500 W",
+        "Product Type": "Stove",
+        "Display Type": "LED display",
+        "Special Features": "Energy saving mode, adjustable thermostat, built-in wheels, cool touch housing, infrared heating element, adjustable flame brightness, log flame effect",
+        "Rated Current": "12.5 A",
+        "Form Factor": "Mobile"
+      },
+      "upc": "611768073191",
+      "created_at": 1347702225,
+      "manufacturer": "Duraflame",
+      "ean": "0611768073191",
+      "cat_id": "13944",
+      "price": "212.21",
+      "name": "Duraflame Infrared Rolling Mantel, 20IF100GRA-C202",
+      "updated_at": 1463352770,
+      "sem3_id": "4RJ0PwETSq0yeyeE2YwcQq",
+      "mpn": "20IF100GRA-C202",
+      "category": "Space Heaters",
+      "brand": "Duraflame",
+      "weight": "24448628.74",
+      "sitedetails": [
+        {
+          "name": "qvc.com",
+          "url": "http://www.qvc.com/qvc.product.H353313.html",
+          "sku": "H353313",
+          "latestoffers": [],
+          "recentoffers_count": 0
+        }
+      ],
+      "color": "Cherry",
+      "model": "20IF100GRA C202",
+      "height": "558.80",
+      "gtins": [
+        "00611768073191"
+      ],
+      "variation_secondaryids": [
+        "5SqldTaaoqc6Q8wwcysI0e"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "4308284",
+      "name": "PROCOM Blue Flame Vent Free Wall Heater - 30,000 BTU Output, 1000 Sq. Ft. Heating Capacity",
+      "weight": "14968548.21",
+      "size": "30",
+      "created_at": 1347714625,
+      "length": "711.20",
+      "model": "MD300TBA",
+      "width": "228.60",
+      "manufacturer": "ProCom",
+      "sitedetails": [],
+      "category": "Space Heaters",
+      "cat_id": "13944",
+      "brand": "ProCom",
+      "price": "411.89",
+      "updated_at": 1458942930,
+      "color": "White",
+      "height": "660.40",
+      "sem3_id": "5WloZVLTfccqOe6EwYSua0",
+      "upc": "800084019345",
+      "ean": "0800084019345",
+      "features": {
+        "Item Weight": "33 pounds",
+        "Certification": "certified frustration-free",
+        "Item Package Quantity": "1",
+        "Product Dimensions": "28 x 9 x 26 inches"
+      },
+      "gtins": [
+        "00800084019345"
+      ],
+      "variation_secondaryids": [
+        "4AIit5JLIWAQSyYKuoQ2MI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "350.52",
+      "color": "Black",
+      "cat_id": "13944",
+      "category": "Space Heaters",
+      "features": {
+        "Material": "Cement",
+        "Amps": "11.7 amps",
+        "Condition": "New",
+        "Volts": "120 V",
+        "BTU": "4600 BTU , 4,600",
+        "Maximum Room Size": "sq ft sq ft , 400.0",
+        "Assembled Product Dimensions (L x W x H)": "23.62 x 9.28 x 20.00 IN",
+        "Battery Type": "Alkaline",
+        "manufacturer.part.number": "23EF023GRA",
+        "Fuel Type": "Electric"
+      },
+      "model": "23EF023GRA",
+      "weight": "12614403.81",
+      "length": "660.40",
+      "updated_at": 1463723766,
+      "sem3_id": "3XYA2M8FSqeiY6k8wuaOmO",
+      "ean": "0611768074419",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "sku": "29763300",
+          "url": "http://www.walmart.com/ip/29763300",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1458979100,
+              "id": "0TfjQbtGktaKSASeWcqKsy",
+              "currency": "USD",
+              "price": "319.99",
+              "firstrecorded_at": 1455182000,
+              "seller": "BEACH AUDIO",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "5rjsUQ7tFu2QIWq8KGge2M",
+              "lastrecorded_at": 1423243800,
+              "seller": "Walmart",
+              "availability": "Out of stock",
+              "price": "169.99",
+              "firstrecorded_at": 1423243800,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1422344300,
+              "price": "304.00",
+              "availability": "Out of stock",
+              "seller": "Walmart",
+              "id": "0I6QjhrGZXcqagCAUYK4Oa",
+              "lastrecorded_at": 1422344300,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "listprice": "303.00",
+          "latestoffers": [
+            {
+              "seller": "Living Direct, Inc",
+              "price": "303.00",
+              "firstrecorded_at": 1418303400,
+              "lastrecorded_at": 1463494200,
+              "id": "7d2CXOLEUSa6QSOC0qQgi8",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "Living Direct, Inc",
+              "firstrecorded_at": 1414690800,
+              "price": "319.99",
+              "currency": "USD",
+              "id": "3C9hvMP9FA8GkqY0IgSku6",
+              "lastrecorded_at": 1415998700,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.livingdirect.com/Classic-Flame-23-Inch-Fixed-Front-Electric-Fireplace-Insert/23EF023GRA,default,pd.html",
+          "sku": "23EF023GRA",
+          "listprice_currency": "USD",
+          "name": "livingdirect.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "Classic Flame",
+      "mpn": "23EF023GRA",
+      "brand": "Classic Flame",
+      "upc": "611768074419",
+      "price": "265.33",
+      "height": "508.00",
+      "created_at": 1356891037,
+      "name": "Classic Flame 23EF023GRA INSERT ONLY. Fixed Front 23\" Insert w/Backlit Display, with Remote",
+      "gtins": [
+        "00611768074419"
+      ],
+      "variation_secondaryids": [
+        "1juaSTVlMS8UGSGYw8Eiio"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "13944",
+      "created_at": 1347600236,
+      "updated_at": 1463726468,
+      "name": "Lasko 5309 Electronic Oscillating Tower Heater",
+      "features": {
+        "Controls": "Electronic Control",
+        "power source": "Electric",
+        "temperature control": "yes",
+        "Heating Element": "Ceramic",
+        "Maximum Heat Power": "1.50 kW",
+        "Application/Usage": "Indoor",
+        "dimensions": "16.5\"H x 6.13\"W x 7.25\"D",
+        "construction": "ceramic",
+        "warranty length": "3-year limited",
+        "grade list": "college",
+        "wattage": "1500 watts",
+        "number of heat settings": "2",
+        "Certifications & Standards": "E.T.L. listed",
+        "form factor": "Tower; Floor; Desk",
+        "Heat Settings Qty": "2",
+        "Features": "Oscillating; Thermostat; Handle; Overheat Protection; Cool Touch Housing",
+        "portable": "yes"
+      },
+      "model": "5309",
+      "price": "34.97",
+      "weight": "2086524.90",
+      "height": "412.75",
+      "width": "151.13",
+      "sitedetails": [
+        {
+          "sku": "9SIA0FU0B00564",
+          "latestoffers": [
+            {
+              "price": "49.99",
+              "currency": "USD",
+              "firstrecorded_at": 1382490200,
+              "availability": "In stock. [BBX: Buy Box]",
+              "id": "21kLxMDe6uAIY4swYiw60k",
+              "lastrecorded_at": 1382753500,
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "id": "4C9idXI2oS6GsqiYoCaMuq",
+              "lastrecorded_at": 1382753500,
+              "seller": "HPP ENTERPRISES",
+              "firstrecorded_at": 1379641500,
+              "price": "36.50",
+              "currency": "USD",
+              "shipping": "12.09",
+              "isactive": 0
+            },
+            {
+              "id": "1DhumwnWs2QiKCIcEoiKWE",
+              "lastrecorded_at": 1382753500,
+              "seller": "UnbeatableSale",
+              "firstrecorded_at": 1370129000,
+              "price": "43.85",
+              "shipping": "11.95",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA0FU0B00564",
+          "recentoffers_count": 0,
+          "name": "newegg.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "JR",
+              "lastrecorded_at": 1388156800,
+              "id": "49pgVFWaVMoGQewmW0S26u",
+              "currency": "USD",
+              "price": "39.99",
+              "firstrecorded_at": 1388156800,
+              "isactive": 0
+            }
+          ],
+          "sku": "LKO_5309",
+          "url": "http://www.jr.com/lasko/pe/LKO_5309",
+          "name": "jr.com",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "625216",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=625216",
+          "latestoffers": [
+            {
+              "price": "44.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "firstrecorded_at": 1424332700,
+              "availability": "In Stock",
+              "id": "3MV4ad8TqSqC2yGmI0MUgI",
+              "lastrecorded_at": 1458183100,
+              "seller": "DataVision Computer Video",
+              "isactive": 1
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1423156700,
+              "id": "5CI5tq98oagacEeIsKSAUy",
+              "availability": "In Stock",
+              "firstrecorded_at": 1416182000,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "43.50",
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1415365400,
+              "id": "40mlM6YKWuesm6sWkeq2UG",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "42.30",
+              "currency": "USD",
+              "firstrecorded_at": 1414429400,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "datavis.com"
+        }
+      ],
+      "ean": "0046013766250",
+      "category": "Space Heaters",
+      "length": "141.22",
+      "mpn": "5309",
+      "brand": "Lasko",
+      "manufacturer": "Lasko Metal Products",
+      "upc": "046013766250",
+      "sem3_id": "69O9MpXkdk0UIwCq4AGQck",
+      "gtins": [
+        "00046013766250"
+      ],
+      "variation_secondaryids": [
+        "1XAzBC4DLosMyyE6EySSMk",
+        "2bfOVay2YCSKOYMO8aouIy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "CV 2230",
+      "width": "457.20",
+      "features": {
+        "Origin": "Imported",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "19 x 18 x 22 inches"
+      },
+      "height": "558.80",
+      "color": "Beige",
+      "size": "27H by 18.75D Round",
+      "sem3_id": "0vksybvSQ4GQg8QsE8gmGK",
+      "brand": "Sengoku",
+      "category": "Space Heaters",
+      "ean": "0795561922303",
+      "length": "482.60",
+      "mpn": "CV2230",
+      "sitedetails": [],
+      "cat_id": "13944",
+      "upc": "795561922303",
+      "updated_at": 1460320406,
+      "manufacturer": "Sengoku",
+      "price": "189.95",
+      "name": "Sengoku CV-2230 KeroHeat Convection 23,000-BTU Portable Kerosene Heater",
+      "created_at": 1347626764,
+      "weight": "145149.56",
+      "gtins": [
+        "00795561922303"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

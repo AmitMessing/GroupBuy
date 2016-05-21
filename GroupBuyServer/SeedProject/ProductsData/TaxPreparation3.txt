@@ -1,0 +1,380 @@
+{
+  "total_results_count": 85,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "INQBESPLTNM7",
+      "mpn": "427787",
+      "category": "Tax Preparation",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "price": "4000.00",
+              "availability": "Available",
+              "id": "395C6v9Nnsse6AwsYMSqwu",
+              "seller": "B&H",
+              "lastrecorded_at": 1462695200,
+              "firstrecorded_at": 1447473200,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "sku": "1192760",
+          "url": "http://www.bhphotovideo.com/c/product/1192760-REG/intuit_427787_quickbooks_2016_enterprise_solution.html"
+        }
+      ],
+      "created_at": 1447473238,
+      "name": "QuickBooks 2016 Enterprise Solution Platinum (Download, 1-Year Subscription, 7-Users)",
+      "cat_id": "7687",
+      "updated_at": 1462695240,
+      "sem3_id": "7lz96gtWYii0MSiSQieeM4",
+      "brand": "Intuit",
+      "price": "4000.00",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "name": "Quicken Rental Property Manager 2015 (Download)",
+      "model": "INQ15RPM",
+      "features": {
+        "Box Dimensions (WxHxD)": "0.0 x 0.0 x 0.0"
+      },
+      "created_at": 1428610211,
+      "brand": "Intuit",
+      "sitedetails": [
+        {
+          "url": "http://www.bhphotovideo.com/c/product/1088722-REG/intuit_0424256_quicken_rental_property_manager.html",
+          "sku": "1088722",
+          "name": "bhphotovideo.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462697200,
+              "id": "4Yv9qsSmAaWUgM4g6Ygs2S",
+              "currency": "USD",
+              "firstrecorded_at": 1454263200,
+              "availability": "Available",
+              "price": "149.94",
+              "seller": "B&H",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1430297000,
+              "availability": "Available",
+              "seller": "B&H",
+              "price": "129.00",
+              "lastrecorded_at": 1450282400,
+              "id": "6Nh2nngG1IYemmO2e6Gcu0",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "category": "Tax Preparation",
+      "cat_id": "7687",
+      "updated_at": 1462697230,
+      "mpn": "0424256",
+      "sem3_id": "690EN6DAVkckMSGeWyyG2E",
+      "price": "149.94",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "7ggIrzdDY8UQGK8guuo0cs",
+      "brand": "Intuit",
+      "updated_at": 1462695164,
+      "cat_id": "7687",
+      "created_at": 1447473007,
+      "name": "QuickBooks 2016 Enterprise Solution Platinum (Download, 1-Year Subscription, 4-Users)",
+      "price": "3000.00",
+      "mpn": "427784",
+      "model": "INQBESPLTNM4",
+      "sitedetails": [
+        {
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462695100,
+              "id": "18AOtay3waswwO0yU4iSIq",
+              "seller": "B&H",
+              "firstrecorded_at": 1447473000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "3000.00",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.bhphotovideo.com/c/product/1192757-REG/intuit_427784_quickbooks_2016_enterprise_solution.html",
+          "sku": "1192757"
+        }
+      ],
+      "category": "Tax Preparation",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1447471371,
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "seller": "B&H",
+              "lastrecorded_at": 1462695200,
+              "price": "289.99",
+              "id": "24HhGWcDM828QcEKMYuguK",
+              "currency": "USD",
+              "firstrecorded_at": 1447471300,
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/c/product/1191521-REG/intuit_426503_quickbooks_online_2016_essentials.html",
+          "sku": "1191521"
+        }
+      ],
+      "name": "QuickBooks Online 2016 Essentials Software with 1-Year License (Boxed Version)",
+      "updated_at": 1462695214,
+      "model": "INQBO2016EB",
+      "price": "289.99",
+      "mpn": "426503",
+      "cat_id": "7687",
+      "sem3_id": "1tycXJNmWasOCSU8y6IM0C",
+      "category": "Tax Preparation",
+      "brand": "Intuit",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "model": "INQBESGLD3",
+      "name": "QuickBooks 2016 Enterprise Solution Gold (Download, 1-Year Subscription, 3-Users)",
+      "mpn": "427772",
+      "category": "Tax Preparation",
+      "sitedetails": [
+        {
+          "sku": "1192778",
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "id": "5Ne2zuuPgGo6mcYQEyQeKK",
+              "firstrecorded_at": 1447473100,
+              "seller": "B&H",
+              "currency": "USD",
+              "availability": "Available",
+              "price": "2300.00",
+              "lastrecorded_at": 1462695200,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/c/product/1192778-REG/intuit_427772_quickbooks_2016_enterprise_solution.html"
+        }
+      ],
+      "cat_id": "7687",
+      "sem3_id": "6xwEJFTrTEGk2kyOgAYQOI",
+      "created_at": 1447473187,
+      "brand": "Intuit",
+      "price": "2300.00",
+      "updated_at": 1462695223,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1447473231,
+      "brand": "Intuit",
+      "updated_at": 1462695168,
+      "price": "2700.00",
+      "model": "INQBESGLD4",
+      "category": "Tax Preparation",
+      "mpn": "427773",
+      "name": "QuickBooks 2016 Enterprise Solution Gold (Download, 1-Year Subscription, 4-Users)",
+      "sitedetails": [
+        {
+          "name": "bhphotovideo.com",
+          "recentoffers_count": 1,
+          "sku": "1192779",
+          "url": "http://www.bhphotovideo.com/c/product/1192779-REG/intuit_427773_quickbooks_2016_enterprise_solution.html",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1447473200,
+              "seller": "B&H",
+              "id": "4ZZ3xNUfySASqMESCI6AOA",
+              "lastrecorded_at": 1462695100,
+              "availability": "Available",
+              "price": "2700.00",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "sem3_id": "3biGMbF5xQOkAm8M8K4e6W",
+      "cat_id": "7687",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462695151,
+      "sem3_id": "6swbZRfiQS6kcYOskQYcAe",
+      "brand": "Intuit",
+      "created_at": 1447473230,
+      "name": "QuickBooks 2016 Enterprise Solution Platinum (Download, 1-Year Subscription, 8-Users)",
+      "cat_id": "7687",
+      "price": "4300.00",
+      "mpn": "427788",
+      "model": "INQBESPLTNM8",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1447473200,
+              "id": "7NQJHXbhT6okcUEwkSY6u4",
+              "seller": "B&H",
+              "lastrecorded_at": 1462695100,
+              "price": "4300.00",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "name": "bhphotovideo.com",
+          "url": "http://www.bhphotovideo.com/c/product/1192761-REG/intuit_427788_quickbooks_2016_enterprise_solution.html",
+          "sku": "1192761"
+        }
+      ],
+      "category": "Tax Preparation",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1449825343,
+      "brand": "H&R Block",
+      "name": "H&R Block Tax Software Basic (Tax Year 2015) - Windows|Mac",
+      "cat_id": "7687",
+      "category": "Tax Preparation",
+      "sem3_id": "0E1pYVlKjtguEqm8Y04Kq6",
+      "price": "19.98",
+      "sitedetails": [],
+      "updated_at": 1462916994,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "QuickBooks 2016 Enterprise Solution Gold (Download, 1-Year Subscription, 2-Users)",
+      "mpn": "427771",
+      "category": "Tax Preparation",
+      "model": "INQBESGLD2",
+      "cat_id": "7687",
+      "sem3_id": "6PFdnVYFuKEW6YoAcCCmq0",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "1900.00",
+              "availability": "Available",
+              "lastrecorded_at": 1462695100,
+              "id": "6aYun3mRJuOUgqOScIs8Cw",
+              "seller": "B&H",
+              "firstrecorded_at": 1447473200,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/c/product/1192777-REG/intuit_427771_quickbooks_2016_enterprise_solution.html",
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com",
+          "sku": "1192777"
+        }
+      ],
+      "created_at": 1447473277,
+      "updated_at": 1462695152,
+      "price": "1900.00",
+      "brand": "Intuit",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "price": "3700.00",
+      "updated_at": 1462695189,
+      "brand": "Intuit",
+      "created_at": 1447473264,
+      "sem3_id": "4MX6yZY6Ea446ScAIOCcc8",
+      "cat_id": "7687",
+      "sitedetails": [
+        {
+          "url": "http://www.bhphotovideo.com/c/product/1192780-REG/intuit_427776_quickbooks_2016_enterprise_solution.html",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "3700.00",
+              "lastrecorded_at": 1462695100,
+              "id": "4cPHyAwm9IWoQC0y4Mk4Wu",
+              "firstrecorded_at": 1447473200,
+              "seller": "B&H",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "sku": "1192780",
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com"
+        }
+      ],
+      "name": "QuickBooks 2016 Enterprise Solution Gold (Download, 1-Year Subscription, 7-Users)",
+      "mpn": "427776",
+      "category": "Tax Preparation",
+      "model": "INQBESGLD7",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    }
+  ]
+}

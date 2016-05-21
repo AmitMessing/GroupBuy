@@ -1,0 +1,960 @@
+{
+  "total_results_count": 12440,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "height": "38.10",
+      "operatingsystem": "Windows XP Home Edition",
+      "cat_id": "17135",
+      "updated_at": 1463724300,
+      "sitedetails": [
+        {
+          "sku": "21862767",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "7ADC0GHZdgmGaoSImqw0G6",
+              "price": "49.99",
+              "lastrecorded_at": 1412305800,
+              "firstrecorded_at": 1375008800,
+              "availability": "Out of Stock",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "price": "54.79",
+              "lastrecorded_at": 1370202600,
+              "seller": "Walmart",
+              "firstrecorded_at": 1370202600,
+              "availability": "In stock",
+              "id": "3kxogxjPUeiWoUYwOo826K",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "firstrecorded_at": 1369394600,
+              "availability": "In stock",
+              "lastrecorded_at": 1369394600,
+              "price": "53.50",
+              "id": "3U84RvK2RkaWY4o8m6g4Yk",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/21862767",
+          "recentoffers_count": 0,
+          "name": "walmart.com"
+        },
+        {
+          "sku": "666418",
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=666418",
+          "latestoffers": [
+            {
+              "id": "1hAPu5qcZEWOmSOYuAyCuy",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "firstrecorded_at": 1388758300,
+              "price": "40.45",
+              "lastrecorded_at": 1390436700,
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com"
+        }
+      ],
+      "sem3_id": "4Xi5BhSklcUIySUaWog8IY",
+      "brand": "AVG TECHNOLOGIES USA INC.",
+      "features": {
+        "Platform": "Windows",
+        "License Pricing": "Standard",
+        "Distribution Media": "DVD-ROM",
+        "Peripheral / Interface Devices": "DVD-ROM",
+        "Package Type": "Retail",
+        "Service & Support": "New releases update",
+        "Service & Support Details": "New releases update - 1 year Virus definitions update - 1 year Spam filter update - 1 year Phone consulting - 1 year",
+        "Subcategory": "Security - antispam software, security - network antivirus, security - network firewall",
+        "License Type": "Subscription package",
+        "License Validation Period": "1 year",
+        "License Qty": "1 computer",
+        "OS Required": "Microsoft Windows XP, Microsoft Windows XP Professional x64 Edition, Microsoft Windows Vista (32/64 bits), Microsoft Windows 7 (32/64 bits), Windows 8 (32/64 bits)",
+        "Software Requirements": "Internet Explorer, Google Chrome, Mozilla Firefox",
+        "System Requirements Details": "Pentium - 1.5 GHz - RAM 512 MB - HD 1000 MB"
+      },
+      "width": "133.35",
+      "created_at": 1348672666,
+      "mpn": "IS13N12EN001",
+      "price": "24.00",
+      "platform": "No Operating System",
+      "length": "190.50",
+      "ean": "0814949011825",
+      "category": "Education & Reference",
+      "name": "AVG Internet Security 2013 - 1 User 1 Year [PC Disc]",
+      "manufacturer": "AVG TECHNOLOGIES USA INC.",
+      "upc": "814949011825",
+      "weight": "113398.09",
+      "gtins": [
+        "00814949011825"
+      ],
+      "variation_secondaryids": [
+        "6hgRm5SPYWUsOQACUImkgk"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Mac OS X 10.6+",
+      "manufacturer": "Rosetta Stone",
+      "updated_at": 1463692389,
+      "category": "Education & Reference",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "name": "Learn Hebrew: Rosetta Stone Hebrew - Level 1-3 Set [PC/Mac Disc]",
+      "cat_id": "17135",
+      "model": "27809",
+      "sem3_id": "0rIHtfyia2oso0ieGGoOo0",
+      "sitedetails": [
+        {
+          "name": "jr.com",
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_31303",
+          "sku": "FLT_31303",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "6HTCOxIMTYmeaAOmsEcAMQ",
+              "currency": "USD",
+              "seller": "JR",
+              "lastrecorded_at": 1388156200,
+              "price": "259.35",
+              "firstrecorded_at": 1388156200,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "weight": "816466.27",
+      "brand": "Rosetta Stone",
+      "created_at": 1348680741,
+      "size": "Level 1, 2, 3 Set",
+      "features": {
+        "Media": "CD-ROM",
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "September 14, 2010"
+      },
+      "price": "199.00",
+      "ean": "9781617160219",
+      "upc": "794678313035",
+      "gtins": [
+        "00794678313035",
+        "09781617160219"
+      ],
+      "variation_secondaryids": [
+        "6gYD3Tdtia2MGqwQysqc80"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "90718.47",
+      "price": "12.95",
+      "manufacturer": "Learning Company",
+      "length": "135.89",
+      "brand": "The Learning Company",
+      "platform": [
+        "Windows XP Professional",
+        "Windows XP Home Edition",
+        "Mac OS 9 and below"
+      ],
+      "sem3_id": "6X6UHbbcbgoGagOOOaqKGK",
+      "created_at": 1348673673,
+      "cat_id": "17135",
+      "name": "Reader Rabbit Personalized Kindergarten",
+      "ean": "0798936822062",
+      "upc": "798936822062",
+      "mpn": "RRK3744CE",
+      "operatingsystem": "See Description",
+      "width": "44.45",
+      "sitedetails": [],
+      "updated_at": 1460519509,
+      "height": "127.00",
+      "model": "RRPERKINDER",
+      "category": "Education & Reference",
+      "features": {
+        "Product Dimensions": "5.4 x 1.8 x 5 inches"
+      },
+      "gtins": [
+        "00798936822062"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348676822,
+      "height": "25.40",
+      "price": "7.99",
+      "updated_at": 1463774438,
+      "operatingsystem": "Windows XP Home Edition",
+      "sem3_id": "6h5vkQNsKeCM2WoYQMAgEA",
+      "ean": "0882224462938",
+      "mpn": "B17-00389",
+      "width": "25.40",
+      "weight": "163293.25",
+      "sitedetails": [],
+      "cat_id": "3947",
+      "features": {
+        "Language(s)": "English",
+        "License Pricing": "Standard",
+        "Distribution Media": "DVD-ROM",
+        "Min Supported Color Depth": "8-bit (256 colors)",
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows Server 2003 SP1, Microsoft Windows Vista",
+        "Software Requirements": "Internet Explorer 5.5 or later",
+        "Package Type": "Retail",
+        "License Type": "Complete package",
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, SVGA monitor",
+        "Subcategory": "Reference / data - maps/travel/address/phone directory",
+        "License Qty": "1 PC",
+        "System Requirements Details": "Microsoft Windows Server 2003 SP1 - Pentium II - RAM 256 MB - HD 1.6 GB Microsoft Windows Vista - Pentium II - RAM 1 GB - HD 1.6 GB Microsoft Windows XP SP2 - Pentium II - RAM 128 MB - HD 1.6 GB",
+        "Platform": "Windows"
+      },
+      "manufacturer": "Microsoft Software",
+      "model": "B17 00389",
+      "brand": "Microsoft",
+      "category": "Maps & Atlases",
+      "platform": [
+        "Windows 2003 Server",
+        "Windows XP",
+        "Windows Vista"
+      ],
+      "length": "25.40",
+      "name": "Microsoft Streets and Trips 2008",
+      "upc": "882224462938",
+      "gtins": [
+        "00882224462938"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "9781617168772",
+      "cat_id": "17135",
+      "brand": "Rosetta Stone",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "34qacchQZM4cWo0SqKck4g",
+              "price": "505.98",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1462561200,
+              "lastrecorded_at": 1463202500,
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "price": "499.00",
+              "id": "6Zmf6Qmm362WC0c8eKGKU0",
+              "lastrecorded_at": 1461870500,
+              "seller": "Newegg",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1461870500,
+              "isactive": 0
+            },
+            {
+              "price": "505.98",
+              "id": "5TV40j42iW0wEYuKa44egU",
+              "seller": "Newegg",
+              "lastrecorded_at": 1461577600,
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1456549700,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832249114",
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "sku": "N82E16832249114"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "34456259",
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/34456259",
+          "latestoffers": [
+            {
+              "id": "0VhvHHVfu7aA0I0IOaA4u8",
+              "price": "249.00",
+              "firstrecorded_at": 1456671700,
+              "currency": "USD",
+              "availability": "Not Available",
+              "seller": "Walmart",
+              "lastrecorded_at": 1456671700,
+              "isactive": 0
+            },
+            {
+              "price": "376.42",
+              "id": "6wQ6NelC5YIMWYGeqGGecM",
+              "lastrecorded_at": 1443630700,
+              "seller": "Walmart",
+              "firstrecorded_at": 1441847900,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "209.00",
+              "id": "1Byd4P5JJ4awIQ6e88YWsE",
+              "seller": "Walmart",
+              "lastrecorded_at": 1440447600,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1440447600,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "created_at": 1347735090,
+      "updated_at": 1463721848,
+      "manufacturer": "Rosetta Stone",
+      "price": "249.00",
+      "sem3_id": "0GmxPRCzAW0IU8kSsiMsaS",
+      "name": "Learn Russian: Rosetta Stone Russian - Level 1-5 Set [Disc, Level 1-5 Set, PC/Mac]",
+      "features": {
+        "Assembled in Country of Origin": "USA",
+        "Origin of Components": "USA",
+        "Product in Inches (L x W x H)": "6.31 x 2.88 x 7.62",
+        "Battery Type": "Does Not Contain a Battery",
+        "Multi Pack Indicator": "No",
+        "Platform": "Multi-Platform",
+        "Shipping Weight (in pounds)": "1.38"
+      },
+      "category": "Education & Reference",
+      "weight": "379883.61",
+      "operatingsystem": "Mac OS X 10.6+",
+      "model": "29882",
+      "gtins": [
+        "09781617168772"
+      ],
+      "variation_secondaryids": [
+        "727KldChsmAceOEAomEiQc",
+        "0UbEPvSaprU6m68EK0Weo8",
+        "4aYNyIvp1cCMAK2GaYKomU",
+        "7mxtVmnksiigA8cSKiAsKu"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "195.58",
+      "features": {
+        "Package Type": "Retail",
+        "License Type": "Subscription package",
+        "Subcategory": "Security - desktop antivirus, security - desktop firewall",
+        "License Pricing": "Standard",
+        "OS Required": "Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows XP SP3 or later, Microsoft Windows 7 (32/64 bits), Windows 8 (32/64 bits)",
+        "License Qty": "3 PCs",
+        "Language(s)": "English",
+        "Software Requirements": "Internet Explorer 7 or later, Google Chrome, Firefox 3.5 or later",
+        "License Validation Period": "1 year",
+        "Platform": "Windows",
+        "Service & Support": "New releases update",
+        "System Requirements Details": "Microsoft Windows XP - 1 GHz - RAM 512 MB - HD 500 MB Microsoft Windows Vista / 7 - 1 GHz - RAM 2 GB - HD 500 MB",
+        "Service & Support Details": "New releases update - 1 year Virus definitions update - 1 year Phone consulting - 30 days E-mail consulting - 1 year Web support - 1 year Money back guarantee - 30 days Web knowledge base access - 1 year",
+        "Distribution Media": "( mini-box )",
+        "Peripheral / Interface Devices": "Internet connection"
+      },
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/21978054",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1382536100,
+              "lastrecorded_at": 1424550000,
+              "availability": "Out of Stock",
+              "price": "62.10",
+              "id": "5P8FFeSucSg6CA6K2mOC20",
+              "seller": "Walmart",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "72.39",
+              "availability": "In stock",
+              "lastrecorded_at": 1370454500,
+              "firstrecorded_at": 1370454500,
+              "currency": "USD",
+              "seller": "Walmart",
+              "id": "2bIwbTtvKqES2aC0S0WUI0",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "id": "37u22dSjHsi860Q2eWs4We",
+              "availability": "In stock",
+              "price": "61.59",
+              "firstrecorded_at": 1368369900,
+              "lastrecorded_at": 1368452800,
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "sku": "21978054"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "5KMZ2pz5NI808cEOm0i8yO",
+              "seller": "JR",
+              "currency": "USD",
+              "lastrecorded_at": 1394707200,
+              "firstrecorded_at": 1388156600,
+              "price": "69.98",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/mcafee/pe/NAP_63097",
+          "sku": "NAP_63097",
+          "name": "jr.com"
+        },
+        {
+          "name": "datavis.com",
+          "sku": "665167",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "id": "50DU43zcdUU6UegCQ8YoAs",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "firstrecorded_at": 1388759200,
+              "lastrecorded_at": 1389315300,
+              "availability": "OUT OF STOCK",
+              "price": "64.30",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=665167"
+        }
+      ],
+      "cat_id": "17135",
+      "platform": "PC",
+      "operatingsystem": "Windows XP Home Edition",
+      "price": "7.87",
+      "manufacturer": "MCAFEE, INC.",
+      "model": "MIS13EMB3RAA",
+      "weight": "907.18",
+      "sem3_id": "5u2ymF4V7oY86magUauouG",
+      "ean": "0731944630977",
+      "category": "Education & Reference",
+      "mpn": "MCA-MIS13EMB3RAA",
+      "name": "McAfee Internet Security 3PCs 2013",
+      "width": "142.24",
+      "created_at": 1357147273,
+      "updated_at": 1463686614,
+      "brand": "McAfee",
+      "height": "40.64",
+      "upc": "731944630977",
+      "gtins": [
+        "00731944630977"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "14.94",
+      "operatingsystem": "Windows XP Home Edition",
+      "sitedetails": [
+        {
+          "sku": "3884932",
+          "url": "http://www.walmart.com/ip/3884932",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1460172700,
+              "lastrecorded_at": 1462464900,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "5VWklJimSOW8EEygcQKMow",
+              "price": "22.56",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "id": "603MX25JrcmWcygOugCGkI",
+              "firstrecorded_at": 1458316100,
+              "lastrecorded_at": 1458316100,
+              "price": "21.97",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "id": "399v0TrALoqCQ60wqeCo0M",
+              "currency": "USD",
+              "availability": "Not Available",
+              "lastrecorded_at": 1456675600,
+              "firstrecorded_at": 1456675600,
+              "seller": "Walmart",
+              "price": "20.91",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Kohl's.com",
+              "price": "26.99",
+              "lastrecorded_at": 1454885600,
+              "firstrecorded_at": 1392669200,
+              "id": "2ubaH6e1ui4swYM8MUScqk",
+              "currency": "USD",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.kohls.com/product/prd-1038687/call-of-duty-2-for-xbox-360.jsp",
+          "sku": "1038687_92662208",
+          "name": "kohls.com"
+        }
+      ],
+      "height": "15.24",
+      "brand": "Activision",
+      "ean": "0047875809376",
+      "features": {
+        "Video Game Platform": "Xbox 360",
+        "Is Downloadable Content Available": "Y",
+        "Multiplayer Mayhem": "Go online for intense Axis vs. Allies team-based multiplayer action, building on the hugely popular Call of Duty multiplayer modes.",
+        "Is Online Multiplayer Available": "Y",
+        "Video Game Collection": "Call of Duty",
+        "Age Range": "12 - 14 Years",
+        "Subgenre": "First Person Shooter",
+        "Target Audience": "13+",
+        "Genre": "Fighting & Shooting",
+        "Required Peripherals": "Controller (Rumble)",
+        "New conflicts and enemies to face": "Call of Duty 2 brings you bigger battles, with more tanks, troops, and explosions on-screen, and bigger scope, with a wide range of locales and environments across the European Theater. Fight \"The Desert Fox\" across the scorching sands of North Africa as wave upon wave of tanks clash in the desert. Use rocket-propelled grappling hooks alongside your Army Ranger squad to storm and scale the cliffs of Pointe du Hoc against a relentless German counterassault, and slog through urban chaos as a tank hunter in war-torn Russia.",
+        "ESRB Rating": "TEEN with Blood, Mild Language, and Violence",
+        "Choice-based gameplay": "Play through missions in the order you see fit. Will you decide to play first as a sniper or as a tank commander? It's your call. Open-ended battlefields allow you to individualize your tactics and choose the order in which you complete your objectives.",
+        "Rely on your squad as never before": "The dozens of Allied soldiers surrounding you are fully aware of the changing situations around them, and will let you know using an all-new, context-sensitive battle chatter system. They will draw enemy fire, lay down cover for you, use foxholes and moving tanks for cover, and warn you of incoming enemy troops and hostile fire.",
+        "Condition": "New Games"
+      },
+      "manufacturer": "AcTiVision",
+      "category": "Education & Reference",
+      "cat_id": "17135",
+      "length": "190.50",
+      "upc": "047875809376",
+      "weight": "113398.09",
+      "platform": "Xbox 360",
+      "created_at": 1357739851,
+      "width": "134.62",
+      "updated_at": 1463769702,
+      "name": "Call of Duty 2 Special Edition - Xbox 360",
+      "mpn": "80937",
+      "sem3_id": "45E6Jdxlaq6M4yuAQIiCWa",
+      "gtins": [
+        "00047875809376"
+      ],
+      "variation_secondaryids": [
+        "63l37sW07kuKIaqcmesQGe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Mac OS X 10.6+",
+      "manufacturer": "Rosetta Stone",
+      "brand": "Rosetta Stone",
+      "updated_at": 1463749690,
+      "created_at": 1348680741,
+      "size": "Level 1, 2, 3 Set",
+      "sitedetails": [
+        {
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832249110",
+          "sku": "N82E16832249110",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "00RJH0I7QU3imYAuKysG0a",
+              "price": "405.98",
+              "firstrecorded_at": 1462566200,
+              "currency": "USD",
+              "lastrecorded_at": 1462566200,
+              "availability": "Not Available",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "seller": "Newegg",
+              "availability": "Available",
+              "lastrecorded_at": 1462533300,
+              "id": "7IgS5Qem0mgYik8ye4kk0c",
+              "price": "399.00",
+              "firstrecorded_at": 1462533300,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1461587400,
+              "seller": "Newegg",
+              "price": "405.98",
+              "firstrecorded_at": 1461587400,
+              "id": "2J0AfnL2USYcqaKwK8MYmM",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6403302",
+          "recentoffers_count": 0,
+          "sku": "6403302",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "25VLHhqOJ2QQ2OS6Oo06eu",
+              "price": "399.00",
+              "firstrecorded_at": 1399551600,
+              "seller": "Frys",
+              "availability": "In stock, ships same Business Day.",
+              "lastrecorded_at": 1401203200,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1398435200,
+              "id": "242fVZCynQmYmw20kaS04U",
+              "price": "239.40",
+              "currency": "USD",
+              "availability": "In stock, ships same Business Day.",
+              "lastrecorded_at": 1399020100,
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "id": "6ceX49u9CaC2EIKGsaK6Cg",
+              "price": "399.00",
+              "firstrecorded_at": 1393001100,
+              "currency": "USD",
+              "lastrecorded_at": 1397911500,
+              "availability": "In stock, ships same Business Day.",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "price": "199.00",
+      "features": {
+        "PC Processor Speed": "1GHz",
+        "PC Video": "1024 x 768 video card",
+        "Mac Drive Type and Speed": "CD-ROM, DVD-ROM",
+        "PC Operating System": "Windows XP Professional with Service Pack 3, Windows Vista with Service Pack 2, Windows 7",
+        "Mac Processor Speed": "1GHz",
+        "Mac Video": "1024 x 768 video card",
+        "PC Hard Drive Space": "600MB",
+        "Mac System Memory": "1GB RAM",
+        "Platform": "Mac/Windows",
+        "Number of Discs": "1",
+        "Mac Hard Drive Space": "600MB",
+        "PC Additional Requirements": "Broadband Internet service required to access online features; USB port for headset with microphone",
+        "Mac Additional Requirements": "Broadband Internet service required to access online features; USB port for headset with microphone",
+        "Mac Operating System": "Macintosh System 10.4.11, Macintosh System 10.5.8 Leopard, Macintosh System 10.6.2 Snow Leopard",
+        "PC System Memory": "1GB RAM",
+        "PC Drive Type and Speed": "CD-ROM, DVD-ROM"
+      },
+      "sem3_id": "1CB5AewzKucAk4A2w4u6MG",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "cat_id": "17135",
+      "model": "27829",
+      "weight": "544310.84",
+      "upc": "794678316173",
+      "category": "Education & Reference",
+      "name": "Learn Italian: Rosetta Stone Italian - Level 1-3 Set [PC/Mac Disc]",
+      "mpn": "27829",
+      "ean": "9781617160394",
+      "gtins": [
+        "00794678316173",
+        "09781617160394"
+      ],
+      "variation_secondaryids": [
+        "4QXr0BEhQmIssSUoCAYask",
+        "1p6oDg5eOWE0qQo8EKAiQW",
+        "6tJPqeL5ySSikOEyEwawuE",
+        "1WZqv2F6D6KO4wSoIqA0IC",
+        "7UJsDInP9sCq6SmWIiwEU4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product in Inches (L x W x H)": "1.7 x 7.6 x 5.4",
+        "Multi Pack Indicator": "No",
+        "Platform": "PC",
+        "Battery Type": "Does Not Contain a Battery",
+        "Shipping Weight (in pounds)": "0.28"
+      },
+      "platform": "No Operating System",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1412477000,
+              "id": "5AfmQdGdMW4IQcKOgysUQw",
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1360796600,
+              "price": "49.99",
+              "seller": "Walmart",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "21862775",
+          "url": "http://www.walmart.com/ip/21862775"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=696930",
+          "sku": "696930",
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "price": "44.84",
+              "availability": "In Stock",
+              "firstrecorded_at": 1392025600,
+              "id": "096hBYAKrVA6sMseqQ0iII",
+              "lastrecorded_at": 1410270400,
+              "isactive": 0
+            },
+            {
+              "price": "42.99",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390879500,
+              "availability": "In Stock",
+              "firstrecorded_at": 1388757600,
+              "id": "5FR1riOeFEcIIuc8EQA6wU",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "brand": "AVG TECHNOLOGIES USA INC.",
+      "sem3_id": "2ADcTJzpZYW4ygYoiqM4WY",
+      "operatingsystem": "Windows XP Home Edition",
+      "height": "190.50",
+      "upc": "814949011870",
+      "width": "38.10",
+      "name": "AVG Anti-Virus + PC Tune Up 2013 - 3 Users 1 Year",
+      "updated_at": 1463666717,
+      "length": "133.35",
+      "weight": "113398.09",
+      "model": "AVPCT13N12EN003",
+      "manufacturer": "AVG TECHNOLOGIES USA INC.",
+      "price": "19.84",
+      "ean": "0814949011870",
+      "category": "Education & Reference",
+      "cat_id": "17135",
+      "created_at": 1348705477,
+      "gtins": [
+        "00814949011870"
+      ],
+      "variation_secondaryids": [
+        "5zpn1ZWfVuUgEqWey8AqC6",
+        "6rS5MDkWLA8cgsqyo2cC0A"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Rosetta Stone",
+      "name": "Learn Tagalog: Rosetta Stone Filipino (Tagalog) - Level 1-3 Set",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "upc": "794678327032",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463647600,
+              "availability": "Special Orders",
+              "firstrecorded_at": 1462979300,
+              "id": "4qmpt8wd4CYOKsIUUcosks",
+              "price": "199.00",
+              "currency": "USD",
+              "seller": "Frys",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1461219900,
+              "availability": "Special Orders",
+              "id": "7dC5jv6GzgIqUEAIaI2oMq",
+              "firstrecorded_at": 1461219900,
+              "seller": "Frys",
+              "price": "169.00",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1460430600,
+              "availability": "Special Orders",
+              "firstrecorded_at": 1459764700,
+              "id": "5qvXCofpdA6oGUgY4weCYA",
+              "currency": "USD",
+              "price": "199.00",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/6445782",
+          "recentoffers_count": 1,
+          "sku": "6445782",
+          "name": "frys.com"
+        },
+        {
+          "name": "jr.com",
+          "sku": "FLT_32703",
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_32703",
+          "latestoffers": [
+            {
+              "seller": "JR",
+              "currency": "USD",
+              "price": "259.35",
+              "id": "1LtPNodo7YA6eqg0Q288MA",
+              "firstrecorded_at": 1388156300,
+              "lastrecorded_at": 1388156300,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "model": "27779",
+      "category": "Education & Reference",
+      "updated_at": 1463775027,
+      "size": "Level 1, 2, 3 Set",
+      "operatingsystem": "Mac OS X 10.6+",
+      "sem3_id": "4cECrnlaausC4YQ4A8W4kQ",
+      "created_at": 1348673680,
+      "cat_id": "17135",
+      "weight": "816466.27",
+      "brand": "Rosetta Stone",
+      "ean": "9781608299911",
+      "price": "199.00",
+      "features": {
+        "PC Drive Type and Speed": "CD",
+        "Mac Additional Requirements": "Broadband Internet service required to access online features, USB port for headset with microphone",
+        "PC Processor Speed": "1.6GHz",
+        "Mac System Memory": "1GB RAM",
+        "Mac Hard Drive Space": "3GB per level",
+        "Mac Processor Speed": "1.33GHz",
+        "Platform": "Mac/Windows",
+        "Mac Video": "1024 x 768 video card",
+        "PC System Memory": "1GB RAM",
+        "PC Hard Drive Space": "3GB per level",
+        "Mac Operating System": "Macintosh System 10.6 or later",
+        "PC Video": "1024 x 768 video card",
+        "PC Operating System": "Windows XP with Service Pack 3, Windows Vista with Service Pack 2, Windows 7, Windows 8",
+        "PC Additional Requirements": "Broadband Internet service required to access online features, USB port for headset with microphone, 2.33GHz or faster processor speed for x86-compatible processors",
+        "PC Processor Type": "IntelÂ® Atomâ¢ processor, x86-compatible processor",
+        "Mac Drive Type and Speed": "CD",
+        "Mac Processor Type": "IntelÂ® Core Duo processor"
+      },
+      "gtins": [
+        "00794678327032",
+        "09781608299911"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

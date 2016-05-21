@@ -1,0 +1,346 @@
+{
+  "total_results_count": 60504,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "category": "Coffee",
+      "model": "4300039564",
+      "cat_id": "13454",
+      "created_at": 1357774950,
+      "ean": "0043000395684",
+      "length": "406.40",
+      "price": "51.55",
+      "mpn": "4300039564",
+      "name": "Maxwell House Decaf Ground Coffee, 0.7-Ounce Filter Pak (Pack of 100)",
+      "weight": "2948350.40",
+      "size": "4-Cup 0.7oz",
+      "sem3_id": "7SfFGZflDs4YYcOaYYmk0k",
+      "brand": "Maxwell House",
+      "height": "285.75",
+      "upc": "043000395684",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "16 x 12 x 11 inches ; 6 pounds"
+      },
+      "width": "304.80",
+      "updated_at": 1460197479,
+      "sitedetails": [],
+      "manufacturer": "Maxwell House",
+      "gtins": [
+        "00043000395684"
+      ],
+      "variation_secondaryids": [
+        "0Yyl1ydxwTuCgGs88wUe0u"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348665725,
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Item Weight": "12.6 ounces"
+      },
+      "cat_id": "23701",
+      "updated_at": 1458944434,
+      "upc": "070893028801",
+      "mpn": "34826494652",
+      "brand": "Grove Square Hot Cocoa",
+      "ean": "0885625955719",
+      "sem3_id": "7gryT2nUki4OGISEE8SA6G",
+      "manufacturer": "Sturm Foods, Inc.",
+      "name": "Grove Square Hot Cocoa, Milk Chocolate, 24 Single Serve Cups [Milk Chocolate, 24 Count]",
+      "category": "Hot Cocoa",
+      "model": "34826494652",
+      "weight": "453592.37",
+      "size": "24 Count",
+      "sitedetails": [],
+      "price": "9.36",
+      "gtins": [
+        "00070893028801",
+        "00885625955719"
+      ],
+      "variation_secondaryids": [
+        "4LDqCPotfs0wwAiS2awEy2",
+        "5xr3aeqGYKYi2oMMSQwUAs"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "ALP982",
+      "created_at": 1348687447,
+      "upc": "085903897179",
+      "weight": "4535.92",
+      "model": "ALP982",
+      "features": {
+        "Product Dimensions": "8 x 4.4 x 6.2 inches"
+      },
+      "manufacturer": "Wolfgang Puck",
+      "variation_id": "3NmVVKeF20e0CwAMs2cqyO",
+      "price": "13.20",
+      "updated_at": 1460522767,
+      "sitedetails": [],
+      "ean": "0685903211120",
+      "category": "Coffee",
+      "brand": "Wolfgang Puck",
+      "sem3_id": "3pytnZFXRAccs2uWoQAOgY",
+      "size": "24 Count",
+      "name": "Wolfgang Puck Coffee, Jamaican Me Crazy, K-Cups for Keurig Brewers, 24-Count []",
+      "cat_id": "13454",
+      "gtins": [
+        "00085903897179",
+        "00685903211120"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "671685",
+      "sitedetails": [],
+      "sem3_id": "1rpg42Denk6ieWOe8aoG42",
+      "upc": "076950450110",
+      "category": "Tea",
+      "brand": "Yogi Teas",
+      "name": "Yogi Tea - Ginger Tea, 16 bag",
+      "weight": "86182.55",
+      "features": {
+        "Total Size": "1.12 oz",
+        "Ingredients": "Proprietary Blend of Herbs: Organic Ginger Root, Organic Lemongrass, Organic Licorice Root, Organic Peppermint Leaf, Organic Black Pepper.",
+        "Serving Size": "1 tea bag",
+        "Warnings": "Consult your healthcare provider prior to use if you are pregnant or nursing.",
+        "Units in Package": "16",
+        "Servings Per Container": "16",
+        "Directions": "Get the most out of every cup. Bring water to boiling and steep 5 to 10 minutes. For a stronger tea, use 2 tea bags. To support digestion, drink a cup with your meal, and repeat 15 to 20 minutes afterward. To help soothe an occasional upset stomach, sip a cup as needed."
+      },
+      "size": "16 teabags",
+      "manufacturer": "Yogi Tea",
+      "price": "8.16",
+      "ean": "0076950450110",
+      "created_at": 1364192122,
+      "cat_id": "12126",
+      "updated_at": 1460306816,
+      "variation_id": "52J8I9u0l6sU2Aws84CuYm",
+      "gtins": [
+        "00076950450110"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "203.20",
+      "manufacturer": "Green Mountain Coffee",
+      "upc": "099555066029",
+      "variation_id": "0wSQy3ugJsE0IwQ6IkikuK",
+      "features": {
+        "Product Dimensions": "2.6 x 1.8 x 1.8 inches"
+      },
+      "brand": "Green Mountain Coffee",
+      "created_at": 1348687460,
+      "price": "15.71",
+      "updated_at": 1461030344,
+      "size": "24 Count",
+      "category": "Coffee",
+      "sem3_id": "5bfC7I0DpIq6EU6CWqi8WS",
+      "sitedetails": [],
+      "model": "6602",
+      "cat_id": "13454",
+      "mpn": "6602",
+      "weight": "4535.92",
+      "ean": "0099555066029",
+      "name": "Green Mountain Coffee, Vermont Country Blend, K-Cup Portion Pack for Keurig Brewers 24-Count []",
+      "height": "152.40",
+      "width": "114.30",
+      "gtins": [
+        "00099555066029"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "13454",
+      "weight": "9071.85",
+      "manufacturer": "Green Mountain Coffee",
+      "height": "152.40",
+      "mpn": "T6783",
+      "model": "T6783",
+      "updated_at": 1460883562,
+      "brand": "Green Mountain Coffee",
+      "created_at": 1348687450,
+      "name": "Green Mountain Wild Mountain Blueberry, 24-Count,0.33 Oz EA Net Wt. 7.9 Oz. [24 Count]",
+      "width": "114.30",
+      "price": "17.94",
+      "category": "Coffee",
+      "sem3_id": "3Z19TTq6jYcqAeM8wEEY6e",
+      "ean": "0099555067835",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "upc": "099555067835",
+      "length": "203.20",
+      "size": "24 Count",
+      "sitedetails": [],
+      "gtins": [
+        "00099555067835"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "manufacturer": "Sturm Foods, Inc.",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "sem3_id": "2MiaTD1h84C0c4osOE8Wmc",
+      "size": "24 Count",
+      "name": "Grove Square Cappuccino, Caramel, 24 Single Serve Cups []",
+      "created_at": 1374248227,
+      "upc": "070893028863",
+      "variation_id": "4PU2YfRerouSGSSGoigmSI",
+      "brand": "Grove Square",
+      "cat_id": "10366",
+      "model": "12G79514652",
+      "ean": "0070893028863",
+      "price": "7.92",
+      "updated_at": 1460704332,
+      "weight": "453592.37",
+      "category": "Pods",
+      "gtins": [
+        "00070893028863"
+      ],
+      "variation_secondaryids": [
+        "5x4WTRxUVk6I8Wm4MEUosWK6"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "4535.92",
+      "created_at": 1348699022,
+      "variation_id": "3WncalUrRIUGQamgSoSWuQ",
+      "manufacturer": "Caribou Coffee",
+      "price": "18.10",
+      "category": "Coffee",
+      "cat_id": "13454",
+      "brand": "Caribou Coffee",
+      "width": "114.30",
+      "model": "CAJ100001",
+      "length": "165.10",
+      "ean": "0798493067005",
+      "sitedetails": [],
+      "updated_at": 1458953552,
+      "mpn": "65004",
+      "name": "Caribou Coffee, Caribou Blend Decaf, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count [24 Count]",
+      "height": "203.20",
+      "size": "24 Count",
+      "features": {
+        "Product Dimensions": "6.5 x 4.5 x 4.5 inches ; 8 ounces"
+      },
+      "upc": "798493067005",
+      "sem3_id": "02Q3F5RpPmqUyyEikKukKK",
+      "gtins": [
+        "00798493067005"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0681427002855",
+      "sitedetails": [],
+      "name": "Tully's Coffee French Roast, K-Cup Portion Pack for Keurig K-Cup Brewers 24-Count []",
+      "width": "215.90",
+      "height": "330.20",
+      "manufacturer": "Tully's Coffee",
+      "features": {
+        "Product Dimensions": "9.2 x 8.5 x 13 inches ; 1 pounds"
+      },
+      "price": "14.65",
+      "model": "74 00285",
+      "size": "24 Count",
+      "upc": "681427002855",
+      "variation_id": "2R2D6LXGdoQ0AI6sa8aGGW",
+      "brand": "Tully's Coffee",
+      "length": "234.95",
+      "created_at": 1348665733,
+      "sem3_id": "5HYOOUaf3oaCQG8cKcA8Wc",
+      "cat_id": "13454",
+      "weight": "408233.13",
+      "category": "Coffee",
+      "updated_at": 1461106896,
+      "gtins": [
+        "00681427002855"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "17.98",
+      "cat_id": "12126",
+      "sitedetails": [],
+      "category": "Tea",
+      "weight": "158757.33",
+      "updated_at": 1461261609,
+      "features": {
+        "Item Weight": "5.6 ounces"
+      },
+      "mpn": "40009",
+      "sem3_id": "2qitrGlcuWUoQi88OOgioi",
+      "ean": "0742676400097",
+      "brand": "Republic of Tea",
+      "upc": "742676400097",
+      "created_at": 1380102335,
+      "name": "Republic of Tea Ginger Peach Decaf Tea Bag 50 Count",
+      "gtins": [
+        "00742676400097"
+      ],
+      "variation_secondaryids": [
+        "1ANIM19ZBUuAGMAU2Oomow"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

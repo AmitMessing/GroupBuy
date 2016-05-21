@@ -1,0 +1,400 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "sitedetails": [],
+      "category": "Bangle",
+      "model": "AS12TAM01RS",
+      "updated_at": 1462894349,
+      "brand": "Alex and Ani",
+      "variation_id": "5j31Oq2nDsGqauUQk6mu62",
+      "ean": "0886787065520",
+      "mpn": "AS12TAM01RS",
+      "color": "Russian Silver",
+      "created_at": 1357118046,
+      "cat_id": "1847",
+      "upc": "886787065520",
+      "weight": "249475.80",
+      "manufacturer": "Alex and Ani",
+      "features": {
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Origin": "USA"
+      },
+      "price": "32.00",
+      "length": "1.97",
+      "sem3_id": "4hPpftXId6KmUoiiQKIEUq",
+      "name": "Alex and Ani \"Collegiate\" University of Texas A&M Logo Expandable Rafaelian Gold Finish Wire Bangle Bracelet []",
+      "gtins": [
+        "00886787065520"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "1Envm6SB6Y4AOCc6eqOK00",
+      "model": "HCB96178Y",
+      "length": "1.78",
+      "created_at": 1347574222,
+      "features": {
+        "Gender": "Ladies",
+        "Gold Karat": "18k",
+        "Metal": "Hollow gold",
+        "Bracelet Style": "Bangles",
+        "Closure": "Slide Insert"
+      },
+      "name": "18k Yellow Gold 2mm Slip-On Bangle - 7 Inch - JewelryWeb",
+      "price": "657.90",
+      "updated_at": 1462883007,
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "listprice": "1417.00",
+          "sku": "JRY15755",
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "price": "657.90",
+              "id": "6FLZZSLy2CckmAOoYii0CU",
+              "currency": "USD",
+              "lastrecorded_at": 1393906300,
+              "firstrecorded_at": 1393906300,
+              "seller": "Wayfair",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1389793500,
+              "seller": "Wayfair",
+              "lastrecorded_at": 1392123600,
+              "price": "708.50",
+              "id": "00dE2wJtHm2wYIGQG0iKYG",
+              "currency": "USD",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "listprice_currency": "USD",
+          "url": "http://www.wayfair.com/Jewelryweb-Slip-On"
+        },
+        {
+          "url": "http://www.kmart.com/18k-yellow-gold-2mm-slip-on-bangle-7/p-026V006915514000P",
+          "name": "kmart.com",
+          "sku": "026V006915514000P",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1420308200,
+              "seller": "Sears Brands, LLC.",
+              "lastrecorded_at": 1420308200,
+              "price": "999.99",
+              "id": "3P4iiMwm1o4I8meiy0WgAc",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "category": "Bangle",
+      "cat_id": "1847",
+      "brand": "JewelryWeb",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "CRFAS657B7",
+      "created_at": 1347588572,
+      "price": "17.26",
+      "model": "CRFAS657B7",
+      "weight": "136077.71",
+      "manufacturer": "Amazon Curated Collection",
+      "features": {
+        "Minimum color": "White",
+        "Metal": "Sterling silver",
+        "Surface markings and blemishes": "lightly-blemished",
+        "Metal stamp": "925 Sterling",
+        "Chain": "No chain",
+        "Uniformity": "Good",
+        "Product Dimensions": "4.8 x 2.7 x 0.5 inches; 4.8 ounces",
+        "Stringing Method": "single-knotted",
+        "Pearl type": "Freshwater cultured",
+        "Luster": "medium-luster",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Shape": "semiround",
+        "Material": "Pearl",
+        "Package": "Classic Medium Box",
+        "Clasp": "Single strand fishhook",
+        "Size per pearl": "6.5-7.0mm",
+        "Total metal weight": "0.4 Grams"
+      },
+      "name": "Sterling Silver White Freshwater Cultured A Quality Pearl Bracelet []",
+      "color": "white",
+      "variation_id": "47W0fGOsXwYieAKIe66U4y",
+      "length": "1.78",
+      "cat_id": "7140",
+      "sem3_id": "2VF3vdLyH6sC6eAkwUEIeW",
+      "brand": "Amazon Curated Collection",
+      "updated_at": 1462867107,
+      "category": "Strand",
+      "sitedetails": [],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1364146895,
+      "length": "1.78",
+      "weight": "136077.71",
+      "ean": "0846827024412",
+      "model": "JSD766R",
+      "manufacturer": "Jules Smith",
+      "name": "Jules Smith \"Viva Glam\" 14k Gold-Plated Cuff Bracelet []",
+      "category": "Cuff",
+      "brand": "Jules Smith",
+      "price": "98.00",
+      "color": "Rose Gold",
+      "mpn": "JSD766R",
+      "updated_at": 1462876026,
+      "features": {
+        "Origin": "China",
+        "Brand, Seller, or Collection Name": "Jules Smith",
+        "Metal stamp": "14k",
+        "Chain": "Other",
+        "Product Dimensions": "3 x 2.4 x 2.1 inches; 4.8 ounces",
+        "Diameter": "2.5 inches",
+        "Package": "Manufacturer Packaging",
+        "Metal": "rose-gold-plated-base",
+        "Clasp": "No clasp"
+      },
+      "sem3_id": "2RNYpFE33IkaC4Com0maKc",
+      "upc": "846827024412",
+      "sitedetails": [],
+      "variation_id": "3kreH21S1gaO0QcmiCyywW",
+      "cat_id": "12699",
+      "gtins": [
+        "00846827024412"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1356854008,
+      "price": "12.99",
+      "color": "Rainbow",
+      "cat_id": "7140",
+      "model": "shamb002",
+      "weight": "22679.62",
+      "width": "0.13",
+      "sitedetails": [],
+      "brand": "Sophistikitty",
+      "name": "Shamballa Bracelet: 9 10mm Beautiful Sparkly Crystal Rhinestones []",
+      "upc": "609207678748",
+      "length": "0.70",
+      "updated_at": 1462873633,
+      "sem3_id": "3e8xsRBnBgUYWM0UGuYuMe",
+      "category": "Strand",
+      "ean": "0609207678748",
+      "features": {
+        "Material": "Shamballa CZ Crystal Beads, String, Magnetic Hematite Beads",
+        "Brand, Seller, or Collection Name": "Sophistikitty",
+        "Product Dimensions": "2.9 x 2.4 x 0.3 inches; 0.8 ounces"
+      },
+      "height": "0.70",
+      "gtins": [
+        "00609207678748"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "AS12BNC01RG",
+      "name": "Alex and Ani \"Collegiate\" Boston College Logo Expandable Rafaelian Gold Finish Wire Bangle Bracelet []",
+      "mpn": "AS12BNC01RG",
+      "cat_id": "1847",
+      "ean": "0886787065315",
+      "manufacturer": "Alex and Ani",
+      "created_at": 1348690525,
+      "color": "Russian Gold",
+      "updated_at": 1462972433,
+      "features": {
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Origin": "Imported"
+      },
+      "upc": "886787065315",
+      "length": "1.97",
+      "brand": "Alex and Ani",
+      "category": "Bangle",
+      "price": "32.00",
+      "weight": "226796.18",
+      "sitedetails": [],
+      "sem3_id": "1fQPfuSq8qg2WKCUm48IEs",
+      "variation_id": "0qthkrNEQmOwSgSCGwsQ2y",
+      "gtins": [
+        "00886787065315"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Stone Weight": "3 carats",
+        "Chain": "No chain",
+        "Stone Treatment Method": "Not treated",
+        "Metal stamp": "14k",
+        "Gem Type": "Diamond",
+        "Stone Creation Method": "Natural",
+        "Metal": "White gold",
+        "Minimum total gem weight": "3 carats",
+        "Minimum color": "G",
+        "Number of stones": "47",
+        "Item Weight": "1 pounds",
+        "Brand, Seller, or Collection Name": "Jewelry Pot",
+        "Minimum Total Carat Weight": "3 carats",
+        "Stone shape": "Round",
+        "Lab Created": "No"
+      },
+      "category": "Link",
+      "updated_at": 1462989720,
+      "cat_id": "19632",
+      "sem3_id": "13ykTkbwmsiGMIiweCYC0S",
+      "name": "14K White Gold 3cttw Round Diamond Bracelet",
+      "brand": "Jewelry Pot",
+      "mpn": "B4396-3WG",
+      "model": "B4396-3WG",
+      "weight": "453592.37",
+      "created_at": 1347522141,
+      "sitedetails": [],
+      "price": "5149.99",
+      "variation_secondaryids": [
+        "5q2ayfyP9kkySqq6o2Cssa",
+        "7lzAaRvmfg4QycwemS06Co"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "height": "0.19",
+      "width": "4.95",
+      "ean": "0899058000526",
+      "category": "Charm",
+      "name": "Pink Enamel Bow and Sterling Silver Charm Bracelet,7\"",
+      "length": "1.78",
+      "price": "95.00",
+      "upc": "899058000526",
+      "brand": "Hello Kitty",
+      "updated_at": 1463033291,
+      "cat_id": "3345",
+      "model": "HBL1324SS",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "California residents": "Click here for Proposition 65 warning"
+      },
+      "sem3_id": "0dYwCEmO5MOmKsesq2mgsI",
+      "mpn": "HBL1324SS",
+      "color": "silver",
+      "manufacturer": "Simmons Jewelry Co.",
+      "created_at": 1347473170,
+      "weight": "22679.62",
+      "gtins": [
+        "00899058000526"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "color": "No ",
+      "upc": "883954013933",
+      "cat_id": "23576",
+      "category": "Bracelets & Bangles",
+      "sem3_id": "1nVT0ODwLoG6yICqMCoqY6",
+      "variation_id": "7EAZVISBfcqweWKa2sAQk6M+",
+      "created_at": 1442931703,
+      "ean": "0883954013933",
+      "price": "240.00",
+      "updated_at": 1442931703,
+      "features": {
+        "Web ID": "598088"
+      },
+      "brand": "14k",
+      "name": "10k Gold Bracelet, Multistone Link Bracelet",
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1443384886,
+      "created_at": 1442931918,
+      "category": "Bracelets & Bangles",
+      "variation_id": "6T0aozH6MSOcqkKg2eiSOiM+",
+      "color": "No",
+      "brand": "bangle bracelets",
+      "features": {
+        "Web ID": "613835"
+      },
+      "price": "1200.00",
+      "name": "Saph Splash by EFFY Shades Of Sapphire Bangle Bracelet (10-3/8 ct. t.w.) in Sterling Silver",
+      "upc": "883954013933",
+      "cat_id": "23576",
+      "ean": "0883954013933",
+      "sem3_id": "3PeyTqoQOmsSau8uYcsS8Q",
+      "sitedetails": [],
+      "gtins": [
+        "00883954013933"
+      ],
+      "variation_secondaryids": [
+        "5JVKVe8Llgw0QIakKeOW6MM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

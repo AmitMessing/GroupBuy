@@ -1,0 +1,1318 @@
+{
+  "total_results_count": 13302,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "length": "508.00",
+      "ean": "0026715135639",
+      "name": "Broan QS136SS Allure Range Hood, 36-Inch, Stainless steel [Stainless Steel]",
+      "brand": "Broan NuTone",
+      "size": "36 Inch",
+      "upc": "026715135639",
+      "price": "165.99",
+      "sitedetails": [
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16896781022",
+          "sku": "N82E16896781022",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1460988800,
+              "shipping": "1595.00",
+              "lastrecorded_at": 1463570100,
+              "seller": "UnbeatableSale",
+              "currency": "USD",
+              "id": "6eJmwMDlzsUaMs04Sg2m6W",
+              "availability": "Available",
+              "price": "193.98",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "seller": "Appliances Connection",
+              "lastrecorded_at": 1463570100,
+              "firstrecorded_at": 1459204600,
+              "price": "217.35",
+              "availability": "Available",
+              "id": "2f6AAOE5qiAMC0g8s6aI2S",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463570100,
+              "currency": "USD",
+              "seller": "Newegg",
+              "firstrecorded_at": 1463570100,
+              "price": "194.28",
+              "id": "6eN1GHHH8ausGk48eU8ocM",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "name": "newegg.com",
+          "recentoffers_count": 4,
+          "listprice_currency": "USD",
+          "listprice": "194.28"
+        },
+        {
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=545479",
+          "sku": "545479",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388756800,
+              "lastrecorded_at": 1443097600,
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "5DwZ4exArom0yMA0C6qGEg",
+              "availability": "In Stock",
+              "price": "199.99",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "updated_at": 1463570152,
+      "created_at": 1347771017,
+      "model": "QS136SS",
+      "manufacturer": "Broan",
+      "cat_id": "4184",
+      "mpn": "QS136SS",
+      "variation_id": "2WXLaQ8sK8iqqMA0A4CYmy",
+      "height": "184.15",
+      "weight": "10432624.51",
+      "features": {
+        "Dishwasher-Safe Filter": "Yes",
+        "Control Type": "Rocker",
+        "Removable Grease Filter": "Yes",
+        "Number Of Filters": "2",
+        "Color Finish": "Stainless steel",
+        "Damper Included": "Yes",
+        "ANSI Certified": "Yes",
+        "UL Listed": "Yes",
+        "Duct Width": "10 inches",
+        "Ducted or Ductless": "Ducted",
+        "Bulb(s) Included": "No",
+        "Amperage": "1.8 amperes",
+        "Number Of Light Levels": "2",
+        "Maximum Air Flow Capacity": "220 cubic feet per minute",
+        "Voltage": "120 volts",
+        "Parts": "1 year limited",
+        "Number Of Units": "1",
+        "Maximum Wattage": "50 watts",
+        "Bulb Type Required": "Halogen",
+        "Self-Cleaning Filters": "Yes",
+        "Housing Material": "Steel",
+        "Exhaust Timer": "No",
+        "Temperature Sensor": "No",
+        "Allowable Height Above Cooktop": "16.75 feet",
+        "Number Of Lights": "2",
+        "Remote Control": "No",
+        "Minimum Air Flow Capacity": "110 cubic feet per minute",
+        "Number Of Bulbs Required": "2",
+        "Air Flow Method": "Centrifugal blower",
+        "Hardware Included": "No",
+        "Color Category": "Silver",
+        "Integrated Light(s)": "Yes",
+        "Delay Shut-Off": "No",
+        "Labor": "1 year limited",
+        "Vent Material": "Other",
+        "Number Of Fan Speeds": "2",
+        "Lighted": "Yes",
+        "Assembly Required": "No",
+        "Mount Type": "Under cabinet",
+        "Duct Shape": "Round"
+      },
+      "color": "Stainless Steel",
+      "category": "Range Hoods",
+      "sem3_id": "1ZYufSHcp6WuqEWKmEmScc",
+      "width": "914.40",
+      "gtins": [
+        "00026715135639"
+      ],
+      "variation_secondaryids": [
+        "677l5VuGdEe2uquKkuCA0G",
+        "0XUSoY1MQISeiOw6gU8YiO",
+        "2JRxdGn9FoSauIQKwIi2e8",
+        "52QmwIjJB2c0sGUwiiEyAI",
+        "5SJSzQ4b8wEqE0m6qaKgI2GL",
+        "7gm8QjBQsSS0QoMqyQOumY",
+        "2oBbrRWUpEQkuKG4uqSkSU"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Broan NuTone",
+      "category": "Range Hoods",
+      "cat_id": "4184",
+      "size": "30 in. W x 20 1/8 in. D x 7 1/4 in. H",
+      "created_at": 1347608164,
+      "updated_at": 1463505542,
+      "upc": "026715177110",
+      "price": "407.53",
+      "color": "Stainless Steel",
+      "weight": "7257477.92",
+      "features": {
+        "Volts": "120 V",
+        "Country of Manufacture": "United States",
+        "Frequency": "60 Hz",
+        "Hood Projection": "20.12\"",
+        "Exhaust Vent Location": "Rear/Bottom",
+        "Exhaust CFM": "450 Cubic Feet Per Minute (CFM)",
+        "Amperage": "3.3 Amps",
+        "Quietmode": "Yes",
+        "Integrated LED clock and timer with 10-minute delay off Centrifugal blower provides increased performance and quieter operation Advanced Heat Sentry detects excessive heat and turns unit to high speed or adjusts blower to appropriate speed Fully enclosed design with non-stick bottom for easy cleaning Four-level blower speed control": "normal/mid/high/boost",
+        "Primary Materials": "Metal",
+        "Hertz": "60 Hertz",
+        "Damper Included": "Yes",
+        "Lights Included: YesAdjustable Light: YesNumber of Lights: 4Bulbs Included: YesBulb Type: HalogenNumber of Bulbs Included: 4Required Bulb Wattage: 50 Watts (W)Duct Included: YesConvertible Ducting: Verticle; DuctlessDuct Cover Included: YesDuct Type: Round exhaustChimney Extension Required": "No",
+        "Overall": "7.25\" H x 30\" W x 20.12\" D",
+        "Blower Type": "Interior",
+        "Product Type": "Under cabinet range hood",
+        "Components": "Range hood fan",
+        "Hardware Material": "Stainless steel",
+        "Mount Type": "Wall",
+        "Voltage": "120 Volts (V)",
+        "Ventilation Type": "Updraft",
+        "Auto-On Sensor": "Yes",
+        "Speed Control: YesNumber of Speeds: 4Blower Type": "Interior",
+        "Halogen Flood Light": "50W, MR16 with GU10 base",
+        "Overall Product Weight": "16lbs",
+        "Commercial Use": "No",
+        "Filter Included: YesFilter Type: GreaseRemovable Filter: YesWashable Filter: YesDamper Included": "Yes",
+        "Maximum Air Movement (CFM)": "450 Cubic Feet Per Minute (CFM)",
+        "CFM": "100 (normal), 360 (high), 450 (boost)",
+        "Two-level ambient light sensor automatically turns on night-time lights Four halogen lights provide focused lighting for unmatched cooktop visibility Full filter design with antimicrobial coating inhibits formation of odor-producing bacteria U.L. listed, CU.L.listed HVI 2100 certified Amps": "3.3",
+        "Number of Items Included": "9",
+        "Auto Shut-off Sensor": "Yes",
+        "Chimney Extension Required": "No",
+        "Pieces Included": "Range hood, 4 bulbs, 2 filters, damper/adapter, and manual"
+      },
+      "mpn": "QP330SS",
+      "width": "511.05",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=545599",
+          "sku": "545599",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388757900,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "400.99",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1443092900,
+              "id": "3ieXOKl82KgAsuG6GmEkCG",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/Broan-Nutone-30-Evolution-3-Range-Hood-QP330-BRN1639.html",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461911700,
+              "price": "544.00",
+              "currency": "USD",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1461911700,
+              "availability": "Available",
+              "id": "2QJLN1d5hYiEAkcQs46mKo",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1460237500,
+              "price": "36.36",
+              "lastrecorded_at": 1460237500,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5qnG60rvIOcscoSu0kQ4W6",
+              "isactive": 0
+            },
+            {
+              "price": "50.00",
+              "firstrecorded_at": 1459874700,
+              "availability": "Available",
+              "id": "79aCxMkPmCuMUAYqEiMWKC",
+              "lastrecorded_at": 1459874700,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "BRN1639_7361452",
+          "name": "wayfair.com"
+        },
+        {
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461911000,
+              "price": "356.95",
+              "lastrecorded_at": 1461911000,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "id": "5hhrGjkjmCsamyiiWKyQue",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "id": "4ovNz40ZF2WWaMOQe86iiu",
+              "availability": "Available",
+              "lastrecorded_at": 1460605700,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "price": "48.69",
+              "firstrecorded_at": 1460605700,
+              "isactive": 0
+            },
+            {
+              "price": "52.72",
+              "firstrecorded_at": 1460237800,
+              "id": "6tIIgCnjuqkmMqKKkEcUG6",
+              "availability": "Available",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1460237800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "BRN1638_7361450",
+          "url": "http://www.wayfair.com/Broan-Nutone-30-Evolution-2-Range-Hood-QP230-BRN1638.html",
+          "recentoffers_count": 0
+        }
+      ],
+      "sem3_id": "4mSC0fcAZso0KkUEMGKqYA",
+      "name": "Broan QP330SS Evolution 3 30 In. Stainless Steel Convertible Range Hood [Stainless Steel]",
+      "model": "QP330SS",
+      "ean": "0026715177110",
+      "manufacturer": "Broan",
+      "height": "184.15",
+      "length": "762.00",
+      "gtins": [
+        "00026715177110"
+      ],
+      "variation_secondaryids": [
+        "6v1Qn85BCacaK8imMg0eIg",
+        "5g1fgnpuN6M0uSAiAkmgs0",
+        "5TGWcGY86wwmMuYccqI80I"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463552317,
+      "width": "511.05",
+      "cat_id": "4184",
+      "sem3_id": "2ghkeUpshy8QKkew8Iuk6m",
+      "created_at": 1347639943,
+      "manufacturer": "Broan",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=673237",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "329.99",
+              "firstrecorded_at": 1427616000,
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "0pBiEI7s4WmIYEuweskas4",
+              "availability": "In Stock",
+              "lastrecorded_at": 1443092800,
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1427014200,
+              "id": "2Jt8HkkqNo6c884w44KkS4",
+              "availability": "Low Stock. Order Now!",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "firstrecorded_at": 1396440700,
+              "price": "319.99",
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "4IZxNBDhbM6yG8og84M486",
+              "lastrecorded_at": 1392025200,
+              "availability": "Ships in 1-3 days",
+              "seller": "DataVision Computer Video",
+              "price": "290.99",
+              "currency": "USD",
+              "firstrecorded_at": 1388758300,
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "sku": "673237"
+        }
+      ],
+      "height": "184.15",
+      "ean": "0026715176991",
+      "features": {
+        "Common Undercabinet Range Hood Size": "30 inch",
+        "Damper Included": "Yes",
+        "Manufacturer's Warranty (Labor)": "1-year limited",
+        "Color/Finish Family": "Stainless steel",
+        "Vent Type": "Convertible",
+        "Actual Depth (Inches)": "20.12",
+        "Charcoal Filter": "No",
+        "Slide-Out": "No",
+        "UL Safety Listing": "Yes",
+        "Manufacturer Color/Finish": "Stainless steel",
+        "CSA Safety Listing": "No",
+        "Sones Rating - Vertical": "6",
+        "Cooktop Light(s)": "Yes",
+        "ADA Compliant": "No",
+        "Actual Height (Inches)": "7.25",
+        "Removable Grease Filter": "Yes",
+        "ENERGY STAR Qualified": "No",
+        "Package Contents": "Range hood, installation instructions, filter",
+        "Exhaust Fan Controls": "Soft-touch",
+        "Duct Type": "3.25 x 10 or 7-in round",
+        "Manufacturer's Warranty (Parts)": "1-year limited",
+        "Sub-Brand": "N/A",
+        "Range Hood Air Volume": "100 CFM at normal speed; 350 CFM at high",
+        "Sones Rating - Horizontal": "5",
+        "Actual Width (Inches)": "29.87",
+        "ETL Safety Listing": "No"
+      },
+      "brand": "Broan NuTone",
+      "length": "762.00",
+      "mpn": "QP230SS",
+      "upc": "026715176991",
+      "weight": "6577089.37",
+      "name": "Broan QP230SS Evolution 2 30 In. Stainless Steel Convertible Range Hood [Stainless Steel]",
+      "model": "QP230SS",
+      "price": "313.99",
+      "category": "Range Hoods",
+      "color": "Stainless Steel",
+      "gtins": [
+        "00026715176991"
+      ],
+      "variation_secondaryids": [
+        "1U8uMvpVEOYY2826i2Mqis"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.pcrichard.com/Broan/Broan-30inch-Ducted-Range-Hood-Stainless-Steel/403004.pcrp",
+          "name": "pcrichard.com",
+          "sku": "403004",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1441367100,
+              "price": "71.97",
+              "lastrecorded_at": 1441367100,
+              "id": "2ACRBPR6wmMuQOmaQQaiM2",
+              "seller": "P.C. Richard & Son",
+              "isactive": 0
+            },
+            {
+              "seller": "P.C. Richard & Son",
+              "lastrecorded_at": 1440763300,
+              "id": "3EoLowLQhkkq4G4WIAMYQs",
+              "price": "63.90",
+              "firstrecorded_at": 1438958800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1438369000,
+              "id": "1AKiZDFfpQW0qasIok2Gkg",
+              "price": "71.97",
+              "lastrecorded_at": 1438369000,
+              "seller": "P.C. Richard & Son",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "listprice": "81.97",
+          "recentoffers_count": 0,
+          "listprice_currency": "USD"
+        },
+        {
+          "sku": "1894669",
+          "url": "http://www.acehardware.com/product/index.jsp?productId=1894669",
+          "name": "acehardware.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1390340100,
+              "id": "4CkqnYGikq8cA4w8MCq2yM",
+              "price": "139.99",
+              "lastrecorded_at": 1396660100,
+              "seller": "Ace Hardware",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "110.92",
+              "lastrecorded_at": 1397453100,
+              "id": "05mrIKqGTewqimSieIc40C",
+              "seller": "PlumbingDepot",
+              "firstrecorded_at": 1397270000,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1393511000,
+              "lastrecorded_at": 1397100100,
+              "id": "1a1LVyyQsWqYesEEwSsiQs",
+              "price": "112.81",
+              "seller": "PlumbingDepot",
+              "isactive": 0
+            }
+          ],
+          "listprice": "188.96",
+          "name": "plumbingdepot.com",
+          "sku": "broan-nutone-f403004-4-way-30-quot-convertible-range-hood-in-stainless-steel",
+          "url": "http://www.plumbingdepot.com/broan-nutone-f403004-4-way-30-quot-convertible-range-hood-in-stainless-steel"
+        }
+      ],
+      "width": "762.00",
+      "category": "Range Hoods",
+      "mpn": "F403004",
+      "manufacturer": "Broan",
+      "created_at": 1347743936,
+      "updated_at": 1463522432,
+      "variation_id": "3BUuG8zevQ26ASEIc2mC6S",
+      "length": "444.50",
+      "name": "Broan F403004 Two-Speed Four-Way Convertible Range Hood, 30-Inch, Stainless Steel [Stainless Steel]",
+      "size": "30 Inch",
+      "height": "152.40",
+      "weight": "5624545.39",
+      "ean": "0026715142996",
+      "brand": "Broan NuTone",
+      "color": "Stainless Steel",
+      "upc": "026715142996",
+      "model": "F403004",
+      "price": "66.15",
+      "cat_id": "4184",
+      "features": {
+        "Accommodates Ceiling Height": "N/A",
+        "Dishwasher Safe Filters": "Yes",
+        "Digital Clock": "No",
+        "Sones Certified Vertical Rectangular Low": "N/A",
+        "Heat Sentry - Temperature Sensor": "No",
+        "Product Height (inches)": "6\"",
+        "CFM (Airflow)": "160",
+        "Mounting System": "Wall",
+        "Non-Stick Coated": "No",
+        "Filter Type": "Aluminum",
+        "Rated Amps": "2.0",
+        "Flue Accommodates ceilings up to xx ft": "N/A",
+        "Light Bulbs Included": "No",
+        "HVI Certified": "Yes",
+        "UL Listed": "Yes",
+        "Product Width (inches)": "30\"",
+        "Sones Certified Vertical Rectangular High": "6.5",
+        "Blower Air Mover Type": "Fan",
+        "Product Depth (inches)": "17-1/2\"",
+        "Mounting Type": "Under Cabinet",
+        "Accessories Optional": "No",
+        "Delay Shut Off": "No",
+        "Filter Included": "Yes",
+        "Sones Certified Vertical Round Low": "N/A",
+        "Max Sones/100 CFM": "4.1",
+        "ENERGY STAR(R) qualified": "No",
+        "Sones Certified Horizontal Rectangular High": "6.5",
+        "Lighting Type": "Incandescent",
+        "Remote Control": "No",
+        "Nightlight": "No",
+        "ADA Compliance": "See Additional Information above",
+        "Minimum Height Above Cook Top": "18\"",
+        "Boost Mode": "No",
+        "Voltage": "120",
+        "Sones Certified Vertical Round High": "N/A",
+        "Switch Style": "Rocker",
+        "Sones Certified Horizontal Rectangular Low": "N/A",
+        "Control Feature Filter Reminder": "No",
+        "Damper Included": "Yes",
+        "Lighting Function": "One-level",
+        "Blower Included": "Yes",
+        "Duct Connector Size": "3-1/4\" x 10\"",
+        "Timer": "No"
+      },
+      "sem3_id": "795QGxPvaCOiuggsgAEQyu",
+      "gtins": [
+        "00026715142996"
+      ],
+      "variation_secondaryids": [
+        "2tJCbm73WiugWEwIeU8Ig8",
+        "6QEsvjTy1guSAq6a24Yo4W",
+        "3rNvrVPkjAUS2kqgg0eyUY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0026715135844",
+      "brand": "Broan NuTone",
+      "name": "Broan QS330WW QS3 Series Range Hood, 30-Inch, White [30-Inch, White]",
+      "size": "30 Inch",
+      "length": "508.00",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "341.91",
+              "availability": "Available",
+              "id": "2Nxt0GIBP2M8WaQOkEUMye",
+              "lastrecorded_at": 1463570100,
+              "currency": "USD",
+              "seller": "Beach Audio",
+              "firstrecorded_at": 1463570100,
+              "isactive": 1
+            },
+            {
+              "id": "2Cv8UIvtk82YMi8gIa8yqQ",
+              "availability": "Available",
+              "price": "354.99",
+              "shipping": "1295.00",
+              "firstrecorded_at": 1460988700,
+              "seller": "UnbeatableSale",
+              "currency": "USD",
+              "lastrecorded_at": 1463570100,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "id": "5bQB3MRo1YGK4mEGOo0eKw",
+              "price": "378.22",
+              "firstrecorded_at": 1460642400,
+              "seller": "VirVentures",
+              "currency": "USD",
+              "lastrecorded_at": 1463570100,
+              "isactive": 1
+            }
+          ],
+          "sku": "N82E16896781033",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16896781033",
+          "name": "newegg.com",
+          "listprice": "356.98",
+          "listprice_currency": "USD",
+          "recentoffers_count": 5
+        }
+      ],
+      "updated_at": 1463570145,
+      "created_at": 1347626707,
+      "upc": "026715135844",
+      "price": "339.98",
+      "cat_id": "4184",
+      "mpn": "QS330WW",
+      "variation_id": "49Pocwri5wq0QcQwWmQ2u2",
+      "height": "184.15",
+      "model": "QS330WW",
+      "manufacturer": "Broan",
+      "category": "Range Hoods",
+      "sem3_id": "1wZaWefXpwS6uMuwAyCkgm",
+      "width": "762.00",
+      "weight": "13244897.20",
+      "features": {
+        "Bulb Type Required": "Halogen",
+        "Number Of Units": "1",
+        "Voltage": "120 volts",
+        "Maximum Air Flow Capacity": "430 cubic feet per minute",
+        "Parts": "1 year limited",
+        "Amperage": "3 amperes",
+        "Exhaust Vent Location": "Top/Rear",
+        "Bulb(s) Included": "No",
+        "Ducted or Ductless": "Ducted",
+        "ANSI Certified": "Yes",
+        "UL Listed": "Yes",
+        "Color Finish": "White",
+        "Damper Included": "Yes",
+        "Removable Grease Filter": "Yes",
+        "Dishwasher-Safe Filter": "Yes",
+        "Control Type": "Other",
+        "Number Of Filters": "2",
+        "Mount Type": "Under cabinet",
+        "Assembly Required": "No",
+        "Lighted": "Yes",
+        "Vent Material": "Other",
+        "Color Category": "White",
+        "Integrated Light(s)": "Yes",
+        "Delay Shut-Off": "Yes",
+        "Labor": "1 year limited",
+        "Number Of Fan Speeds": "4",
+        "Air Flow Method": "Centrifugal blower",
+        "Number Of Bulbs Required": "2",
+        "Hardware Included": "No",
+        "Number Of Lights": "2",
+        "Remote Control": "No",
+        "Temperature Sensor": "Yes",
+        "Allowable Height Above Cooktop": "16.75 feet",
+        "Housing Material": "Steel",
+        "Exhaust Timer": "No",
+        "CSA Listed": "Yes",
+        "Self-Cleaning Filters": "Yes"
+      },
+      "color": "White",
+      "gtins": [
+        "00026715135844"
+      ],
+      "variation_secondaryids": [
+        "6hBfRolK8Oq26cI6WOCQmU",
+        "3bObVgvLdwomQUooAqUUeI",
+        "6lBxvxcO7kySC6Yuum2q08",
+        "5dJJkeDpeCm86gimaAMcG8",
+        "75FXpDYA0eMCQUuAsi6ceW",
+        "5MdMthtjyCqsUaKEsEEWGe",
+        "77eQZrc7toyqME6IkUim8Q",
+        "77KG8uB9Ci6gqe2ECM6oeg",
+        "0wtGZD5R5M0kAakmEWuwmeGL"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "14646497.63",
+      "ean": "0026715199006",
+      "price": "487.99",
+      "color": "stainless-steel",
+      "width": "7.62",
+      "size": "613",
+      "category": "Range Hoods",
+      "sem3_id": "2Z2ZkKj5s488UKg8Y4CUUa",
+      "upc": "026715199006",
+      "model": "QP430SS",
+      "length": "511.30",
+      "height": "1.84",
+      "brand": "Broan NuTone",
+      "mpn": "QP430SS",
+      "updated_at": 1463551926,
+      "manufacturer": "Nutone",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461844200,
+              "price": "269.51",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "4kayoIna76uEMq8eWiy2ke",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1461909300,
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1459592400,
+              "id": "6Ev6f8Fc6SGmaqwoaGo6EY",
+              "currency": "USD",
+              "price": "312.45",
+              "firstrecorded_at": 1459592400,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "0w2ANM1xZyqw024yeUeIII",
+              "lastrecorded_at": 1459253400,
+              "seller": "Wayfair",
+              "firstrecorded_at": 1458998400,
+              "price": "292.45",
+              "isactive": 0
+            }
+          ],
+          "name": "wayfair.com",
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/Broan-Nutone-30-Under-Cabinet-Range-Hood-with-300-CFM-QS230-BRN1193.html",
+          "sku": "BRN1193_3925997"
+        }
+      ],
+      "created_at": 1347619785,
+      "features": {
+        "Number Of Units": "1",
+        "Filter Saturation Alarm": "No",
+        "Amperage": "3.5 amperes",
+        "Control Type": "Rocker",
+        "Minimum Air Flow Capacity": "150 cubic feet per minute",
+        "Delay Shut-Off": "Yes",
+        "Assembly Required": "Yes",
+        "Duct Shape": "Rectangular",
+        "Housing Material": "Stainless steel",
+        "Voltage": "120 volts",
+        "Additional Accessories Included": "Four 50W halogen light bulbs",
+        "Filter Material": "Aluminum",
+        "Removable Grease Filter": "Yes",
+        "Vent Material": "Aluminum",
+        "Color Finish": "Stainless steel",
+        "Number Of Bulbs Required": "4",
+        "Number Of Fan Speeds": "4",
+        "Duct Width": "3.25 inches",
+        "Damper Included": "No",
+        "Air Flow Method": "Centrifugal blower",
+        "Filter Width": "30 inches",
+        "Maximum Wattage": "200 watts",
+        "Time Delay": "No",
+        "Number Of Lights": "4",
+        "Integrated Light(s)": "Yes",
+        "Parts": "1 year",
+        "Number Of Light Levels": "4",
+        "Hardware Included": "No",
+        "Self-Cleaning Filters": "No",
+        "UL Listed": "Yes",
+        "Filter Height": "7.25 inches",
+        "Ducted or Ductless": "Ducted",
+        "Mount Type": "Under cabinet",
+        "Number Of Filters": "2",
+        "Lighted": "Yes",
+        "Maximum Bulb Wattage": "50 watts",
+        "Auto Fan Shut-Off": "No",
+        "Maximum Air Flow Capacity": "630 cubic feet per minute",
+        "Filter Length": "20.13 inches",
+        "Color Category": "Silver",
+        "Bulb Type Required": "Halogen",
+        "Duct Length": "14 inches",
+        "ETL Listed": "Yes",
+        "Temperature Sensor": "Yes",
+        "Operating Sound Level": "1 decibels",
+        "Auto Delay Shut-Off For Light(s)": "Yes",
+        "Bulb(s) Included": "Yes",
+        "Labor": "1 year",
+        "Remote Control": "Yes",
+        "Dishwasher-Safe Filter": "Yes"
+      },
+      "name": "Broan 30W in. QP4 Under Cabinet Range Hood [stainless-steel]",
+      "cat_id": "4184",
+      "gtins": [
+        "00026715199006"
+      ],
+      "variation_secondaryids": [
+        "6z7dLED0pkAOsWm2uAkSWc",
+        "4evQ46BswieUiei0k0OOKw"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "30-Inch",
+      "category": "Range Hoods",
+      "mpn": "883004",
+      "width": "7.62",
+      "name": "Broan 883004 Under-Cabinet Range Hood, 30-Inch, Stainless Steel [Stainless Steel, 30-Inch]",
+      "height": "228.60",
+      "weight": "15875732.95",
+      "created_at": 1347534979,
+      "ean": "0026715010943",
+      "brand": "Broan NuTone",
+      "length": "508.00",
+      "upc": "026715010943",
+      "updated_at": 1463541937,
+      "sitedetails": [
+        {
+          "sku": "883004",
+          "listprice": "358.97",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "0PSvGf8fBPiQ0KeGcoI2cG",
+              "seller": "P.C. Richard & Son",
+              "price": "349.97",
+              "firstrecorded_at": 1457357300,
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1457357300,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1441367300,
+              "currency": "USD",
+              "price": "314.97",
+              "firstrecorded_at": 1441367300,
+              "seller": "P.C. Richard & Son",
+              "id": "7AaerzMXzMEkEkSgWagu0G",
+              "isactive": 0
+            },
+            {
+              "id": "3KwDCnFiIa8SyCIYMa8qOm",
+              "seller": "P.C. Richard & Son",
+              "firstrecorded_at": 1438959900,
+              "price": "282.60",
+              "lastrecorded_at": 1440763800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "pcrichard.com",
+          "url": "http://www.pcrichard.com/Broan/Broan-30inch-Ducted-Range-Hood-Stainless-Steel/883004.pcrp",
+          "listprice_currency": "USD"
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1424422400,
+              "price": "280.60",
+              "lastrecorded_at": 1433869900,
+              "availability": "OUT OF STOCK",
+              "currency": "USD",
+              "id": "1XQOeKugeScoU6EAiAsWcS",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1388757300,
+              "price": "267.68",
+              "currency": "USD",
+              "lastrecorded_at": 1420939600,
+              "availability": "Low Stock. Order Now!",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "2slCxrYlbsKwAeKOQ48m6m",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "sku": "545419",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=545419",
+          "recentoffers_count": 0
+        },
+        {
+          "url": "http://www.wayfair.com/Broan-Nutone-30-Under-Cabinet-Range-Hood-with-430-CFM-QS330-BRN1195.html",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1461910700,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1461910700,
+              "price": "392.45",
+              "seller": "Wayfair",
+              "id": "4j8QJTeoFEIWUQwW4sIQoq",
+              "isactive": 0
+            },
+            {
+              "id": "5Tax9U8ye0EmK84kI86Eyw",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1459817500,
+              "price": "509.95",
+              "currency": "USD",
+              "lastrecorded_at": 1459817500,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1459577000,
+              "price": "409.95",
+              "currency": "USD",
+              "lastrecorded_at": 1459577000,
+              "availability": "Available",
+              "id": "7GJOAGXBiaYyqWQwU2kacg",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "name": "wayfair.com",
+          "recentoffers_count": 0,
+          "sku": "BRN1195_3926004"
+        }
+      ],
+      "sem3_id": "6ToNWVHQFyYMq2ISACWmky",
+      "price": "320.64",
+      "color": "Stainless Steel",
+      "variation_id": "65UWmhruz2QeYCKIyMueQ4",
+      "model": "883004",
+      "manufacturer": "Broan",
+      "features": {
+        "Sones Certified Vertical Round Low": "N/A",
+        "Flue Accommodates ceilings up to xx ft": "N/A",
+        "CFM (Airflow)": "360",
+        "Lighting Function": "Two-level",
+        "Boost Mode": "No",
+        "Heat Sentry - Temperature Sensor": "Yes",
+        "Product Height (inches)": "9\"",
+        "Accessories Optional": "Yes",
+        "Control Feature Filter Reminder": "No",
+        "Sones Certified Horizontal Rectangular High": "6.0",
+        "HVI Certified": "Yes",
+        "Accommodates Ceiling Height": "N/A",
+        "Dishwasher Safe Filters": "Yes",
+        "Nightlight": "No",
+        "Mounting Type": "Under Cabinet",
+        "Product Width (inches)": "30\"",
+        "Delay Shut Off": "No",
+        "Sones Certified Vertical Round High": "N/A",
+        "Mounting System": "Wall",
+        "Sones Certified Horizontal Rectangular Low": "N/A",
+        "Lighting Type": "Incandescent",
+        "Minimum Height Above Cook Top": "18\"",
+        "Rated Amps": "4.5",
+        "Light Bulbs Included": "No",
+        "Product Depth (inches)": "20\"",
+        "Blower Air Mover Type": "Dual Centrifugal Blower",
+        "Non-Stick Coated": "No",
+        "Timer": "No",
+        "Sones Certified Vertical Rectangular High": "5.5",
+        "Digital Clock": "No",
+        "Filter Included": "Yes",
+        "Max Sones/100 CFM": "1.7",
+        "Voltage": "120",
+        "UL Listed": "Yes",
+        "Remote Control": "No",
+        "Filter Type": "Aluminum",
+        "Switch Style": "Slide",
+        "Switch Control Settings": "Variable",
+        "Duct Connector Size": "3-1/4\" x 10\"",
+        "Sones Certified Vertical Rectangular Low": "N/A",
+        "Damper Included": "Yes",
+        "Blower Included": "Yes",
+        "ENERGY STAR(R) qualified": "No"
+      },
+      "cat_id": "4184",
+      "gtins": [
+        "00026715010943"
+      ],
+      "variation_secondaryids": [
+        "7gLDUtVqjo64UmKMAUKYsW",
+        "0WvAgjwNL2c80w2CMwQug4Gi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "27215542.20",
+      "price": "471.20",
+      "sitedetails": [
+        {
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Cavaliere-Stainless-Steel-30-x-22-Under-Cabinet-Mount-Range-Hood-with-Adjustable-Airflow-AP238-PS13-30-CVE1022.html",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461909500,
+              "price": "528.99",
+              "id": "710ni37U9YsKiwE0ssemcu",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1461909500,
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "id": "4ubxTknDdoSwEiW0scwAcq",
+              "price": "526.99",
+              "firstrecorded_at": 1459592400,
+              "lastrecorded_at": 1459592400,
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "currency": "USD",
+              "lastrecorded_at": 1459253400,
+              "firstrecorded_at": 1457251000,
+              "price": "588.99",
+              "availability": "Available",
+              "id": "5vRWrtv6fowcCK4CU4IuCs",
+              "isactive": 0
+            }
+          ],
+          "sku": "CVE1022"
+        },
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/25892109",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1463534300,
+              "seller": "PlumStruck",
+              "firstrecorded_at": 1461940000,
+              "price": "639.00",
+              "availability": "Available",
+              "id": "59aNkO8BXcOq84Imc6I6ys",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1441839300,
+              "price": "638.98",
+              "availability": "Available",
+              "id": "15T8KUR5IuU8ig6emyMeme",
+              "currency": "USD",
+              "lastrecorded_at": 1441839300,
+              "seller": "Build.com",
+              "isactive": 0
+            },
+            {
+              "price": "639.00",
+              "firstrecorded_at": 1440389500,
+              "availability": "Available",
+              "id": "6rdfdOhPH6OEOuUmsoaSoc",
+              "seller": "Build.com",
+              "currency": "USD",
+              "lastrecorded_at": 1440389500,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "25892109"
+        },
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1463530600,
+              "seller": "Overstock",
+              "price": "589.00",
+              "firstrecorded_at": 1456985200,
+              "availability": "Available",
+              "id": "2OJeq83yAGagIGQws8Q8Wc",
+              "isactive": 1
+            }
+          ],
+          "sku": "3844985_5108445",
+          "listprice_currency": "USD",
+          "url": "http://www.overstock.com/Home-Garden/Cavaliere-Euro-30-inch-Under-cabinet-Range-Hood/3844985/product.html",
+          "name": "overstock.com",
+          "listprice": "1057.50"
+        }
+      ],
+      "name": "Cavaliere-Euro 30W in. Under Cabinet Range Hood [stainless-steel]",
+      "created_at": 1357766981,
+      "manufacturer": "Cavaliere",
+      "sem3_id": "10WbHM5K1miKm8Cy0Uo6S4",
+      "brand": "Cavaliere",
+      "upc": "816606010202",
+      "features": {
+        "Give your kitchen a functional yet elegant update with a range hood Over-range hood from Cavaliere-Euro provides ventilation and light Hood features under-cabinet design\">Make your cooking easier and worry-free with this 30-inch range hood. Choose one of its four speed levels, and cook at your own pace. Thanks to this hood's auto-shutoff feature, you never have to try to remember whether you've turned it off after cooking. The elegant design makes this stainless-steel hood a natural fit for any modern kitchen and a welcome contrast in a traditional kitchen. Give your kitchen a functional yet elegant update with a range hood Over-range hood from Cavaliere-Euro provides ventilation and light Hood features under-cabinet design Delayed power auto shut-off Voltage": "120 volts at 60 Hz",
+        "Range Hood Installation": "Under Cabinet",
+        "Motor": "Dual centrifugal squirrel cage",
+        "Hood Finish": "Stainless Steel",
+        "Lighting": "two (2) 20-watt halogen lights (included)",
+        "Speeds": "Four (4) levels",
+        "Noise Level": "1.5Sone(46dB)/3.5Sone(58dB)/5.3Sone(64dB)/7.5Sone(69dB)",
+        "Assembly": "Assembled",
+        "Material": "High quality #304 19-gauge stainless steel",
+        "Range Hood Air Mover Type": "Dual Centrifugal Blower",
+        "Wattage": "100-200 Watts",
+        "Filters": "two (2) Stainless steel baffle filter (dishwasher friendly)",
+        "Airflow": "385CFM/490CFM/615CFM/900CFM",
+        "Dimensions": "9.81 inches high x 30 inches long x 22 inches wide",
+        "Grease Filter": "Baffle",
+        "Control type": "Electronic button control panel with LED display",
+        "Number of Overall Speed": "4",
+        "Venting Size": "8-inch round duct vent"
+      },
+      "width": "762.00",
+      "category": "Range Hoods",
+      "model": "AP238 PS13 30",
+      "mpn": "AP238-PS13-30",
+      "updated_at": 1463534312,
+      "ean": "0816606010202",
+      "length": "558.80",
+      "size": "613",
+      "color": "stainless-steel",
+      "cat_id": "4184",
+      "gtins": [
+        "00816606010202"
+      ],
+      "variation_secondaryids": [
+        "3caDUM8WtsA84IYaY4CYU0",
+        "4G8PAMs1LEio0i6gsGaCSS"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0026715192779",
+      "width": "7.62",
+      "weight": "453592.37",
+      "created_at": 1347611476,
+      "category": "Range Hoods",
+      "height": "1.84",
+      "sem3_id": "7UY0rLev2WkuUaoKkQuEGo",
+      "brand": "Broan NuTone",
+      "manufacturer": "Nutone",
+      "sitedetails": [],
+      "mpn": "QP230BC",
+      "updated_at": 1463429721,
+      "cat_id": "4184",
+      "name": "Broan 30W in. QP2 Under Cabinet Range Hood [Beige]",
+      "features": {
+        "Damper Included": "Yes",
+        "Sones Rating - Horizontal": "5",
+        "Manufacturer's Warranty (Parts)": "1-year limited",
+        "Actual Height (Inches)": "7.25",
+        "Manufacturer Color/Finish": "Bisque",
+        "Package Contents": "Range hood, installation instructions, filter",
+        "Sub-Brand": "N/A",
+        "CSA Safety Listing": "No",
+        "Cooktop Light(s)": "Yes",
+        "Common Undercabinet Range Hood Size": "30 inch",
+        "Charcoal Filter": "No",
+        "Actual Depth (Inches)": "20.12",
+        "ADA Compliant": "No",
+        "Color/Finish Family": "White",
+        "UL Safety Listing": "Yes",
+        "ETL Safety Listing": "No",
+        "Exhaust Fan Controls": "Soft-touch",
+        "Manufacturer's Warranty (Labor)": "1-year limited",
+        "Range Hood Air Volume": "100 CFM at normal speed; 350 CFM at high",
+        "Slide-Out": "No",
+        "Vent Type": "Convertible",
+        "ENERGY STAR Qualified": "No",
+        "Actual Width (Inches)": "29.87",
+        "Removable Grease Filter": "Yes",
+        "Duct Type": "3.25 x 10 or 7-in round",
+        "Sones Rating - Vertical": "6"
+      },
+      "price": "282.50",
+      "model": "QP230BC",
+      "color": "Beige",
+      "upc": "026715192779",
+      "gtins": [
+        "00026715192779"
+      ],
+      "variation_secondaryids": [
+        "1U8uMvpVEOYY2826i2Mqis"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "79.00",
+      "brand": "Broan NuTone",
+      "cat_id": "4184",
+      "model": "F402404",
+      "features": {
+        "Ductwork Flexibility": "4-way: rear, down, left or right",
+        "Depth, Chimney": "17.5",
+        "Updraft": "Under-cabinet",
+        "Wattage": "75 watts max.",
+        "Cleanability": "Open fixture",
+        "Maximum Width (In.)": "24",
+        "Recommendations": "Instructions w/product take precedence",
+        "Max. Height Above Cooktop": "24",
+        "General Warranty": "1 year limited",
+        "Power Cord Included": "No",
+        "Number of Air Movers": "1 internal",
+        "Cutout Dimensions": "See Installation Guide below product description",
+        "Settings": "Cooking light",
+        "Exhaust": "Ducted or ductless",
+        "Visibility": "Recessed",
+        "Chimney": "Adjustable (telescopic)",
+        "Sones (Noise Level) Rating": "6.5",
+        "Design Look": "Contemporary",
+        "Grease Filter(s)": "Removable",
+        "Overall": "Painted steel",
+        "Installation": "Wall",
+        "Control(s) Location": "Front",
+        "Air Mover": "2 speed",
+        "Item Weight (lbs.)": "11.7",
+        "Convenience": "Variable speed control",
+        "Filter Cleaning": "Standard",
+        "Air Mover Type(s)": "Fan(s)",
+        "Overall Color": "Stainless steel",
+        "Number": "1",
+        "Min. Height Above Cooktop": "18 in.",
+        "Control Type(s)": "Finger-controlled on/off switch",
+        "Hood": "Stainless steel",
+        "Cubic Feet per Minute (CFM)": "160 CFM",
+        "Type(s)": "Incandescent",
+        "Pollutant Removal": "Convertible (either ventless or vented)",
+        "Air Mover(s) Speed": "2 speed",
+        "Overall Width": "24 in.",
+        "Positioning": "Stationary (fixed)",
+        "Ratings": "120 volts",
+        "Considerations": "Never cut/modify cabinets w/o merchandise",
+        "Duct Size": "3-1/4 in. x 10 in. rectangular",
+        "Ductwork Type": "Vertical or horizontal",
+        "Depth (In.)": "17.5",
+        "Maximum Connected Load": "2.5",
+        "Exhaust Method": "Ducted"
+      },
+      "upc": "026715142958",
+      "height": "1.52",
+      "created_at": 1348675571,
+      "size": "24-Inch",
+      "weight": "453592.37",
+      "ean": "0026715142958",
+      "manufacturer": "Broan",
+      "sem3_id": "0zoYSy3YSuUQy2M66AcSSo",
+      "color": "Stainless Steel",
+      "name": "Broan F402404 Two-Speed Four-Way Convertible Range Hood, 24-Inch, Stainless Steel [Stainless Steel, 24-Inch]",
+      "sitedetails": [],
+      "mpn": "F402404",
+      "width": "6.10",
+      "category": "Range Hoods",
+      "updated_at": 1463497191,
+      "gtins": [
+        "00026715142958"
+      ],
+      "variation_secondaryids": [
+        "3P6UIBPxjkIomSm4yeEgqq"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

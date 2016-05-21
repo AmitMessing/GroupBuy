@@ -1,0 +1,667 @@
+{
+  "total_results_count": 18801,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Sharp",
+      "mpn": "FPA80UW",
+      "model": "FP A80UW",
+      "cat_id": "12118",
+      "price": "259.00",
+      "updated_at": 1463479660,
+      "weight": "7983225.71",
+      "created_at": 1357475528,
+      "color": "White",
+      "manufacturer": "Sharp",
+      "upc": "074000663176",
+      "category": "HEPA Air Purifiers",
+      "width": "466.60",
+      "length": "304.80",
+      "ean": "0074000663176",
+      "features": {
+        "Wall Mountable": "No",
+        "Automatic shutoff": "Yes",
+        "Assembled Width (in.)": "15.87 in",
+        "Product Weight (lb.)": "17.6",
+        "Effectiveness (%)": "99.97",
+        "Product Height (in.)": "24.37",
+        "Remote Control": "No",
+        "Removes odors": "Yes",
+        "Removes viruses": "No",
+        "UVC lamp": "No",
+        "Filter/bulb monitor": "No",
+        "Product Width (in.)": "15.87",
+        "Product Depth (in.)": "9.75",
+        "Removes particulates": "Yes",
+        "Filtered or Filterless": "Filtered",
+        "Portable": "No",
+        "Electrostatic": "No",
+        "Returnable": "90-Day",
+        "Removes bacteria": "Yes",
+        "Air Treatment Product Type": "Air Purifier",
+        "Filter Type": "HEPA",
+        "Manufacturer Warranty": "Limited 1 year parts and labor",
+        "Number of cleaning stages": "3",
+        "Assembled Depth (in.)": "9.75 in",
+        "Removes mold": "No",
+        "Voltage (volts)": "0 V",
+        "Maximum coverage area (sq. ft.)": "400",
+        "Control Type": "Electronic",
+        "Energy Star Compliant": "Yes",
+        "ETL Listed": "No",
+        "Timer": "Yes",
+        "Removes pollen": "Yes",
+        "Primary Filter Type": "HEPA - True",
+        "Air Purifier Type": "Tower",
+        "Assembled Height (in.)": "24.37 in",
+        "Removes dust": "Yes",
+        "CADR (Clean Air Delivery Rate)": "293"
+      },
+      "name": "Sharp FPA80UW Plasmacluster Ion Air Purifier with True HEPA Filter",
+      "sitedetails": [
+        {
+          "sku": "ARP2576",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "289.95",
+              "availability": "Available",
+              "lastrecorded_at": 1459514500,
+              "firstrecorded_at": 1459514500,
+              "seller": "Wayfair",
+              "id": "6txhKy88HYuMS44gk4soQO",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "306.99",
+              "availability": "Available",
+              "lastrecorded_at": 1459212100,
+              "firstrecorded_at": 1459212100,
+              "seller": "Wayfair",
+              "id": "554unXPTtI06kCSmwkwwyU",
+              "isactive": 0
+            },
+            {
+              "price": "312.99",
+              "currency": "USD",
+              "lastrecorded_at": 1458909400,
+              "availability": "Available",
+              "firstrecorded_at": 1458909400,
+              "seller": "Wayfair",
+              "id": "5GSdFAc5JY2MSey6SOYaQw",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Sharp-Plasmacluster-Air-Purifier-FP-A80UW-ARP2576.html"
+        },
+        {
+          "name": "quill.com",
+          "sku": "50035875",
+          "latestoffers": [
+            {
+              "seller": "Quill",
+              "id": "1vCRWiZUoyoucqygKMg8me",
+              "availability": "Available",
+              "lastrecorded_at": 1463422300,
+              "firstrecorded_at": 1463422300,
+              "currency": "USD",
+              "price": "272.79",
+              "isactive": 1
+            },
+            {
+              "seller": "Quill",
+              "id": "2p99RDSPBwecy2ewOkCm4m",
+              "lastrecorded_at": 1463142100,
+              "availability": "Available",
+              "firstrecorded_at": 1463142100,
+              "price": "275.49",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "289.99",
+              "seller": "Quill",
+              "id": "3oAgL2Yxbcks4M80AC0gW6",
+              "lastrecorded_at": 1462877300,
+              "firstrecorded_at": 1462877300,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.quill.com/sharp-air-purifiers/cbs/50035875.html",
+          "recentoffers_count": 1
+        },
+        {
+          "recentoffers_count": 1,
+          "sku": "1920370",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "287.99",
+              "id": "6qFnUIOZ7YCkGeSqcEaY2m",
+              "seller": "TigerDirect",
+              "firstrecorded_at": 1459850000,
+              "lastrecorded_at": 1463206000,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1920370",
+          "name": "tigerdirect.com"
+        }
+      ],
+      "sem3_id": "30ZD8Q0HL6wMm02uoeg0uO",
+      "height": "685.80",
+      "gtins": [
+        "00074000663176"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "HEPA Air Purifiers",
+      "length": "279.40",
+      "weight": "8164662.66",
+      "upc": "769100216925",
+      "manufacturer": "Austin Air",
+      "brand": "Austin Air",
+      "cat_id": "12118",
+      "created_at": 1347796857,
+      "price": "367.49",
+      "size": "White",
+      "width": "279.40",
+      "sitedetails": [],
+      "name": "Austin Air HealthMate Jr. - White [White, HealthMate Junior]",
+      "sem3_id": "3ZzVNavQA4QmUACM8cigW6",
+      "height": "419.10",
+      "color": "White",
+      "mpn": "AUAP-200-W-B",
+      "features": {
+        "Product Dimensions": "11 x 11 x 16.5 inches ; 18 pounds",
+        "Origin": "Azerbaijan"
+      },
+      "model": "hm200 white",
+      "ean": "0769100216925",
+      "updated_at": 1461301530,
+      "gtins": [
+        "00769100216925"
+      ],
+      "variation_secondaryids": [
+        "5lHtPVw5EOSuO4yMkAIOae",
+        "5kJRVig0IKouUge8sYo00q"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "B450B1",
+      "length": "368.30",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "id": "4Wf003BiM46qyEAQge8iIe",
+              "currency": "USD",
+              "lastrecorded_at": 1459244500,
+              "availability": "Available",
+              "price": "648.99",
+              "firstrecorded_at": 1459244500,
+              "seller": "Newegg",
+              "isactive": 1
+            }
+          ],
+          "name": "newegg.com",
+          "listprice_currency": "USD",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA3S31BD7794",
+          "sku": "9SIA3S31BD7794",
+          "listprice": "648.99"
+        }
+      ],
+      "brand": "Austin Air",
+      "sem3_id": "060Kas7UyGGA6ugOEeGGgQ",
+      "ean": "0769100216963",
+      "created_at": 1347763097,
+      "category": "HEPA Air Purifiers",
+      "height": "584.20",
+      "name": "Austin Health Mate HM450+ Black Air Purifier With 4-Stage Filter [Hm450-Black, HealthMate]",
+      "updated_at": 1461416999,
+      "model": "B450B1",
+      "features": {
+        "Origin": "USA"
+      },
+      "price": "636.01",
+      "upc": "769100216963",
+      "manufacturer": "Austin Air Systems",
+      "weight": "20865249.02",
+      "cat_id": "12118",
+      "size": "HealthMate",
+      "color": "Black",
+      "width": "368.30",
+      "gtins": [
+        "00769100216963"
+      ],
+      "variation_secondaryids": [
+        "7eGHuxtHAO0GimcQuo6WCI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Surround Air",
+      "sem3_id": "4aOC6TmVg0oO2mGEUqwGQK",
+      "upc": "890577001209",
+      "created_at": 1364116906,
+      "weight": "4535923.70",
+      "category": "HEPA Air Purifiers",
+      "color": "multicolor",
+      "length": "381.00",
+      "mpn": "XJ3000D",
+      "ean": "0890577001209",
+      "cat_id": "12118",
+      "features": {
+        "Fan Speed": "90 cfm (cubic feet per minute)",
+        "UV Lamp Life": "10,000 hours (over a year)",
+        "Nanometer Frequency": "254 nm, the ideal frequency for destroying DNA cells of microorganisms",
+        "Power Consumption": "50 Watts",
+        "UV Wavelength": "UV-C, the short, germicidal range of the UV wavelength that is effective at destroying the DNA cell of microorganisms",
+        "Negative Ion Output": "12,000,000/cm3 (trillions per second)",
+        "Electrical": "120VAC/60Hz"
+      },
+      "sitedetails": [],
+      "height": "330.20",
+      "price": "129.00",
+      "manufacturer": "Surround Air",
+      "model": "XJ 3000D",
+      "width": "203.20",
+      "name": "Surround Air Multi Tech II XJ-3000D Air Purifier with HEPA/Carbon/Pre-Filter and Germicidal UV lamp",
+      "updated_at": 1460289559,
+      "gtins": [
+        "00890577001209"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462156977,
+      "name": "Filtrete Clean Living Basic Dust Filter, MPR 300, 20 x 25 x 1-Inches, 6-Pack [20x25x1, 6]",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "1ZoJWtWP2eowScWWcaOOiM",
+              "price": "4.58",
+              "lastrecorded_at": 1460143300,
+              "seller": "Walmart",
+              "firstrecorded_at": 1423844400,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/10721103",
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "sku": "10721103"
+        }
+      ],
+      "cat_id": "5844",
+      "features": {
+        "Item Package Quantity": "6",
+        "Minimum Efficiency Reporting Values (MERV)": "6",
+        "Save Big On Open-Box & Used Products": "Buy \"Filtrete Clean Living Basic Dust Filter, MPR 300, ...â from Amazon Open-Box & Used and save 17% off the $31.74 list price. Product is eligible for Amazon's 30-day returns policy and Prime or FREE Shipping. See all offers from Amazon Open-Box & Used.",
+        "Certification": "certified frustration-free",
+        "Product Dimensions": "6 x 20 x 25 inches",
+        "Item Weight": "4.5 pounds"
+      },
+      "length": "668.02",
+      "price": "26.11",
+      "height": "518.16",
+      "upc": "051111020715",
+      "weight": "2154563.76",
+      "manufacturer": "3M",
+      "ean": "0051111020715",
+      "model": "303DC 6",
+      "width": "162.56",
+      "variation_id": "37LnMjaNMOsIQaSyea2UYA",
+      "category": "Parts & Accessories",
+      "mpn": "303DC-6",
+      "size": "20 x 25",
+      "brand": "3M",
+      "created_at": 1347577429,
+      "sem3_id": "0dYlL00ElnMGAsssyki8WY",
+      "gtins": [
+        "00051111020715"
+      ],
+      "variation_secondaryids": [
+        "1zlfYFeKQq0wuO4eC64yiU",
+        "2S5bNe10KSKcgcc0ECgAMi",
+        "1uJG5PlP5E2I6SkeCOMsWo",
+        "4nuE55DE2C8gsgOMOMiOaO",
+        "6SGb3dBGGOYeS0u6u4ys4K"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463179563,
+      "name": "Filtrete Elite Allergen Reduction Filter, 2200 MPR, 20x20x1 1 EA ...",
+      "weight": "2449398.80",
+      "sitedetails": [
+        {
+          "url": "http://www.walgreens.com/store/c/filtrete-elite-allergen-reduction-filter%2c-2200-mpr/ID=prod6152432-product",
+          "sku": "6152432_6135876",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "2Hg70L62mO2qoqQ84OAacC",
+              "lastrecorded_at": 1463109900,
+              "seller": "Walgreens",
+              "price": "22.99",
+              "currency": "USD",
+              "firstrecorded_at": 1406998000,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "walgreens.com"
+        },
+        {
+          "listprice": "22.99",
+          "listprice_currency": "USD",
+          "sku": "271647",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1457000400,
+              "currency": "USD",
+              "seller": "Drug Store",
+              "price": "19.19",
+              "id": "5JKJVO2oCmYGgUe6USEiGU",
+              "availability": "Available",
+              "lastrecorded_at": 1463179500,
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1428487200,
+              "currency": "USD",
+              "price": "22.99",
+              "seller": "Drug Store",
+              "lastrecorded_at": 1456397300,
+              "id": "0LniKfUXGpiKqIwuWYCqI2",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.drugstore.com/filtrete-elite-allergen-reduction-filter-2200-mpr-20x20x1/qxp271647",
+          "recentoffers_count": 1,
+          "name": "drugstore.com"
+        }
+      ],
+      "category": "Parts & Accessories",
+      "height": "22.86",
+      "price": "19.19",
+      "width": "500.38",
+      "variation_id": "7kI25n05GiGSUgwoKckYIi",
+      "mpn": "1733-4137, 2200",
+      "length": "398.78",
+      "cat_id": "5844",
+      "sem3_id": "5fRLGGc1PyuOU28wOGUqi0",
+      "brand": "3M",
+      "upc": "051141901220",
+      "created_at": 1380626915,
+      "ean": "0051141901220",
+      "features": {
+        "Item Package Quantity": "6",
+        "Item Weight": "5.4 pounds",
+        "Product Dimensions": "20.9 x 6.4 x 20.4 inches"
+      },
+      "gtins": [
+        "00051141901220"
+      ],
+      "variation_secondaryids": [
+        "15AUtj8RNeiI6KSmQY6WmMQg",
+        "58zfZln0j2QigMCCCiCmKK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "68.34",
+      "sem3_id": "61GcFfPybYMu0OieGuwmck",
+      "height": "431.80",
+      "width": "228.60",
+      "color": "White",
+      "sitedetails": [],
+      "brand": "Sunpentown",
+      "model": "AC 3000I",
+      "features": {
+        "Voltage": "120 V / 60 Hz",
+        "Form Factor": "Mobile",
+        "Functions": "Air ionizing, purifying",
+        "Compliant Standards": "UL",
+        "Fan Speed Settings Qty": "2",
+        "Special Features": "Filter change indicator, variable speed setting, pilot light",
+        "Filter Type": "Carbon filter, HEPA filter",
+        "Recommended Room Area": "Up to 185 sq.ft",
+        "Warranty": "1 year",
+        "Airflow": "100.1 CFM",
+        "Product Type": "Air purifier",
+        "Max Power Consumption": "100 W",
+        "Control Type": "Mechanical"
+      },
+      "created_at": 1364185209,
+      "length": "406.40",
+      "category": "HEPA Air Purifiers",
+      "upc": "876840003620",
+      "cat_id": "12118",
+      "name": "Sunpentown AC-3000I Magic Clean HEPA Air Cleaner with Ionizer",
+      "size": "-1",
+      "manufacturer": "Sunpentown",
+      "mpn": "AC-3000i",
+      "updated_at": 1460723566,
+      "ean": "0876840003620",
+      "weight": "4082331.33",
+      "gtins": [
+        "00876840003620"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "2410",
+      "height": "171.45",
+      "brand": "Aprilaire",
+      "ean": "0686720240003",
+      "sem3_id": "7le8d01UPIQo6c0cQ26YMG",
+      "length": "716.28",
+      "upc": "686720024108",
+      "cat_id": "5844",
+      "variation_id": "7Ao5ydCiLAAGqu0eMeMi8e",
+      "width": "450.85",
+      "sitedetails": [],
+      "created_at": 1380022874,
+      "name": "Aprilaire Media Air Cleaner 16 x 25, MERV 10",
+      "features": {
+        "Product Dimensions": "28.2 x 17.8 x 6.8 inches",
+        "Item Weight": "17.2 pounds",
+        "Item Package Quantity": "1",
+        "Batteries Required?": "No"
+      },
+      "category": "Parts & Accessories",
+      "updated_at": 1460730590,
+      "price": "138.41",
+      "gtins": [
+        "00686720024108",
+        "00686720240003"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "551.18",
+      "color": "Silver",
+      "features": {
+        "Removes pollen": "Yes",
+        "Air Treatment Product Type": "Air Purifier",
+        "Filter/bulb monitor": "Yes",
+        "Returnable": "90-Day",
+        "Electrostatic": "No",
+        "Product Width (in.)": "16.3",
+        "Air Purifier Type": "Personal",
+        "ENERGY STAR Certified": "Yes",
+        "Wall Mountable": "No",
+        "Removes dust": "Yes",
+        "Removes viruses": "Yes",
+        "Primary Filter Type": "HEPA - True",
+        "Number of Fan Speeds": "4 or More",
+        "Control Type": "LED",
+        "CADR (Clean Air Delivery Rate)": "350",
+        "Automatic shutoff": "No",
+        "Removes mold": "Yes",
+        "Timer": "No",
+        "Product Height (in.)": "21.7",
+        "Number of cleaning stages": "3",
+        "Product Depth (in.)": "8.5",
+        "Portable": "Yes",
+        "Removes odors": "Yes",
+        "Removes particulates": "Yes",
+        "Manufacturer Warranty": "1 year limited",
+        "Remote Control": "No",
+        "Effectiveness (%)": "99.97",
+        "Filtered or Filterless": "Filtered",
+        "Maximum coverage area (sq. ft.)": "350",
+        "Certifications and Listings": "AHAM Certified",
+        "Voltage (volts)": "120",
+        "Removes bacteria": "Yes",
+        "UVC lamp": "No"
+      },
+      "width": "414.02",
+      "model": "5300",
+      "sitedetails": [],
+      "category": "HEPA Air Purifiers",
+      "sem3_id": "7GXv86m288uMw4gIc2iEMg",
+      "updated_at": 1463395017,
+      "manufacturer": "Winix",
+      "ean": "8809154392281",
+      "created_at": 1378803643,
+      "price": "185.71",
+      "weight": "7121400.21",
+      "mpn": "115104",
+      "name": "True HEPA Air Cleaner with PlasmaWave Technology",
+      "brand": "Winix",
+      "cat_id": "12118",
+      "gtins": [
+        "08809154392281"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "A205G1",
+      "brand": "Austin Air",
+      "length": "279.40",
+      "sem3_id": "3VPGWYoITIcqCyyc4C8qYg",
+      "manufacturer": "Austin Air",
+      "ean": "0769100217168",
+      "height": "419.10",
+      "weight": "5443108.44",
+      "updated_at": 1463403986,
+      "width": "279.40",
+      "category": "HEPA Air Purifiers",
+      "mpn": "A205G1",
+      "upc": "769100217168",
+      "features": {
+        "Three Fan Speeds": "Customize the power, noise and fan speed using the easy-to-use control dial, which allows you to choose from three (3) speed options",
+        "Input voltage": "120 V/60 Hz",
+        "Warranty": "5 years",
+        "360Â° Progressive Filtering System": "Air is drawn into the unit from all sides, allowing for a quicker and more efficient purification process",
+        "Air flow": "200 CFM (max)",
+        "Five Year Filter Life": "You'll rarely have to worry about filter maintenance and replacement with this air purification system due to its incredible five (5) year filter life",
+        "Compact Yet Powerful": "With an impressive 700 sq. ft. coverage area capability, you and your loved ones will be breathing fresher, cleaner air in no time at all",
+        "Designed to Protect Your Baby's Health": "Designed for placement in your baby's nusery, the High Efficiency Gas Absorption (HEGA) carbon cloth used in this air purifier was originally developed by the British military to protect against chemical warfare and is now used by Austin Air to provide the best overall particulate protection for your loved ones",
+        "Filter life": "5 years",
+        "Coverage area": "700 sq. ft.",
+        "Four-Stage Filtration": "This air purifier uses a 4-stage system that filters your air through an activated carbon-zeolite filter, gas-absorbing (HEGA) carbon cloth and a True Medical HEPA filter, which removes particles as small as 0.3 microns from your air"
+      },
+      "size": "HealthMate Baby's Breath",
+      "color": "Blue",
+      "created_at": 1347655321,
+      "price": "394.99",
+      "sitedetails": [
+        {
+          "listprice": "395.00",
+          "sku": "A205G1_Blue",
+          "latestoffers": [
+            {
+              "price": "395.00",
+              "currency": "USD",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1463403900,
+              "firstrecorded_at": 1414692900,
+              "id": "7V8pBvXsi8MM8qiEuKw0q4",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "url": "http://www.livingdirect.com/austin-air-babys-breath-air-purifier-a205b/A205G1,default,pd.html",
+          "name": "livingdirect.com"
+        }
+      ],
+      "name": "Austin Air Baby's Breath HEPA Air Purifier in Blue; MADE IN USA [Blue, HealthMate Baby's Breath]",
+      "cat_id": "12118",
+      "gtins": [
+        "00769100217168"
+      ],
+      "variation_secondaryids": [
+        "7CfgEvhblI8YUSG2moUWMo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

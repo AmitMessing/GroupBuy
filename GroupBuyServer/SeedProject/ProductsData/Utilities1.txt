@@ -1,0 +1,1082 @@
+{
+  "total_results_count": 8436,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "features": {
+        "Software name": "Computrace LoJack Premium Edition",
+        "Platform": "Mac",
+        "Operating system supported": "Mac OS",
+        "License validation period": "3 year",
+        "Product in Inches (L x W x H)": "0.8 x 5.2 x 7.6",
+        "License quantity": "1 notebook",
+        "Shipping Weight (in pounds)": "0.17",
+        "Software product supported": "laptops",
+        "Lojack for Laptops Premium Edition - 3-year platform supported": "Mac",
+        "Multi Pack Indicator": "No",
+        "Battery Type": "Does Not Contain a Battery",
+        "License type": "subscription package"
+      },
+      "created_at": 1348678289,
+      "name": "Lojack For Laptops Premium 3 Year Mac [Premium 3 Years, Mac Disc]",
+      "model": "LJP RE P5 MAC 36",
+      "weight": "77110.70",
+      "platform": "Mac OS X Intel",
+      "updated_at": 1463678578,
+      "mpn": "LJP-RE-P5-MAC-36",
+      "sem3_id": "0aBiRXce5zacqyaoEMk62g",
+      "upc": "679857001401",
+      "width": "134.62",
+      "operatingsystem": "Mac OS X",
+      "brand": "LoJack",
+      "price": "99.99",
+      "category": "Backup",
+      "ean": "0679857001401",
+      "length": "193.04",
+      "height": "38.10",
+      "manufacturer": "Absolute Software",
+      "sitedetails": [
+        {
+          "recentoffers_count": 3,
+          "latestoffers": [
+            {
+              "price": "99.99",
+              "firstrecorded_at": 1463678500,
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1463678500,
+              "id": "6VblR3zhWwOWk2Sci2GKEy",
+              "seller": "BEACH AUDIO",
+              "isactive": 1
+            },
+            {
+              "price": "106.42",
+              "availability": "Available",
+              "firstrecorded_at": 1463062900,
+              "seller": "Cyberstorm LLC",
+              "currency": "USD",
+              "id": "7jNETSSxCSIkKeSicIcKeE",
+              "lastrecorded_at": 1463678500,
+              "isactive": 1
+            },
+            {
+              "id": "6WmlnZfWTooq6GAegkcKwk",
+              "lastrecorded_at": 1463678500,
+              "currency": "USD",
+              "seller": "Atlanta Network Technologies",
+              "availability": "Available",
+              "firstrecorded_at": 1463062900,
+              "price": "107.39",
+              "isactive": 1
+            }
+          ],
+          "sku": "20923946",
+          "url": "http://www.walmart.com/ip/20923946",
+          "name": "walmart.com"
+        },
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "98.76",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "lastrecorded_at": 1458189900,
+              "id": "1BnaG7ndYcAeQisIySuOwm",
+              "availability": "In Stock",
+              "firstrecorded_at": 1448687000,
+              "isactive": 1
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "98.38",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "lastrecorded_at": 1443115500,
+              "id": "2naMuhsElEIIWs2KC2G2mg",
+              "availability": "In Stock",
+              "firstrecorded_at": 1436081500,
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "98.51",
+              "currency": "USD",
+              "lastrecorded_at": 1435384200,
+              "id": "0m50JtdAh0I6082gsmICAg",
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "firstrecorded_at": 1435384200,
+              "isactive": 0
+            }
+          ],
+          "sku": "683332",
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=683332"
+        },
+        {
+          "name": "jr.com",
+          "url": "http://www.jr.com/absolute-software/pe/ABU_10000539",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1394720700,
+              "currency": "USD",
+              "id": "6wrlhDYwGeeKaY2s4ek4Su",
+              "lastrecorded_at": 1396461400,
+              "seller": "JR",
+              "price": "101.99",
+              "isactive": 0
+            },
+            {
+              "price": "97.99",
+              "currency": "USD",
+              "lastrecorded_at": 1392120200,
+              "id": "4XGw5IxDCaM4gusiGGiKYW",
+              "seller": "JR",
+              "firstrecorded_at": 1392120200,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "ABU_10000539"
+        }
+      ],
+      "cat_id": "16079",
+      "gtins": [
+        "00679857001401"
+      ],
+      "variation_secondaryids": [
+        "66Gw4FWXbsA4CagGqoWSky"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "IGG",
+      "ean": "0777786295622",
+      "name": "iBank 4 [Mac Disc]",
+      "features": {
+        "Software Sub Type": "Financial Management",
+        "Software Name": "iBank v.4.0",
+        "System Requirements": "Operating System: Mac OS v.10.5 or higher Others: Screen resolution at least 1028 x 640",
+        "Platform Supported": "Mac",
+        "Operating System Supported": "Mac OS",
+        "Software Main Type": "Management",
+        "Product Type": "Software",
+        "Features": "Easily set up and manage existing accounts Import Mac or PC data from Quicken or Money Set budgets to watch spending by category Monitor account balances at a glance Export TXF files for use with TurboTax rack all aspects of investments Manage buys, sells and splits in portfolios Import bank data with direct downloads Create, save and print custom reports Password-protect private data Schedule, edit or split tr nsactions Reconcile data with bank statements Print checks to standard or custom formats Attach images and files to transactions Access accounts via built-in browser Back-up data to local networks or online Sync to iPhone/iPod app (sold separately) Use multiple currencies - and much more!"
+      },
+      "weight": "113398.09",
+      "upc": "897133001055",
+      "cat_id": "16079",
+      "model": "00001055",
+      "variation_id": "3RxlQ45dkOUmiSOaMswWS0",
+      "sem3_id": "4gvbDM9p564C2IMo2CSUEC",
+      "category": "Backup",
+      "updated_at": 1463796540,
+      "platform": "Mac OS X",
+      "manufacturer": "CSDC",
+      "created_at": 1376609399,
+      "sitedetails": [
+        {
+          "sku": "6375101",
+          "url": "http://www.frys.com/product/6375101",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1381366300,
+              "firstrecorded_at": 1377686400,
+              "price": "59.99",
+              "seller": "Frys",
+              "id": "0d8H3mAXiWsqGMc8e8QoQi",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com",
+          "recentoffers_count": 0
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=568261",
+          "sku": "568261",
+          "latestoffers": [
+            {
+              "id": "21CjUHzaOWIyMMs8CMiE4o",
+              "seller": "DataVision Computer Video",
+              "price": "53.30",
+              "firstrecorded_at": 1415008800,
+              "lastrecorded_at": 1416267200,
+              "availability": "In Stock",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "id": "3cFtM9Eg5A8QmKUqm088eS",
+              "firstrecorded_at": 1414031600,
+              "price": "53.95",
+              "availability": "In Stock",
+              "lastrecorded_at": 1414737700,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1413655000,
+              "firstrecorded_at": 1410666900,
+              "price": "53.30",
+              "seller": "DataVision Computer Video",
+              "id": "2d0aL9GtPyiq4Qew2wUog2",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "datavis.com"
+        },
+        {
+          "sku": "784069",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=784069",
+          "recentoffers_count": 1,
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "77EiiqZGByOCsGAq4uyOIQ",
+              "seller": "DataVision Computer Video",
+              "price": "51.75",
+              "firstrecorded_at": 1457657700,
+              "lastrecorded_at": 1458209300,
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "id": "5ePsUaxwiOaYkEi2CKaUsO",
+              "firstrecorded_at": 1456373300,
+              "price": "50.71",
+              "availability": "In Stock",
+              "lastrecorded_at": 1456974300,
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1455887300,
+              "firstrecorded_at": 1454148500,
+              "price": "49.64",
+              "seller": "DataVision Computer Video",
+              "id": "2A6fAo6vQGYUE8ImGYgaCC",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "price": "59.71",
+      "operatingsystem": "Mac",
+      "gtins": [
+        "00897133001055",
+        "00777786295622"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Bitdefender PB11601000EN-M2 Sphere English M2",
+      "cat_id": "741",
+      "price": "105.69",
+      "platform": [
+        "Windows 2000",
+        "Windows XP Home Edition",
+        "Windows XP Professional"
+      ],
+      "weight": "99790.32",
+      "sem3_id": "1PRbKSDwpIMmais2qQ6AQ6",
+      "operatingsystem": "Windows XP Home Edition",
+      "created_at": 1348699260,
+      "features": {
+        "Feature": "Bitdefender Sphere provides all-around security for an unlimited number of desktops, laptops and mobile devices in your home. This unified security solution enables households running any combination of PCs, Macs and Android-based Smartphones or Tablets to protect all their devices from an array of e-threats, such as viruses, spyware, spam and phishing attacks.Key Features:- Protects all your PCs, Macs and Android devices (Smartphones or Tablets) for 1 year- Safeguards privacy, counters e-threats on an unlimited number of devices- No slowdown - superior performance- Blocks e-threats on social networks- Shop, bank, play and work securely wherever you are- Parental Control, Online Backup & Tune-Up included (PC only)For PCs:- Blocks viruses, spyware & spam- Halts ID theft attempts- Blocks social-networking specific e-threats- Keeps kids safe with cutting-edge parental controls- Protects your data with Online Backup- Tunes up your PC for optimal speed & performanceFor Smartphones & Tablets:- Uses in-the-cloud services to defend your Android device against viruses and spyware- Helps users remotely find their mobile device- Remotely lock, send message to, or wipe device, in case of loss or theft of the smartphone or tablet- Gives advance warning of risky websites when browsing on your mobile deviceFor Macs- Protects your valuable files and documents from all Mac viruses- Blocks webpages that attempt to steal your credit card data- Prevents you from passing viruses along to your friends working on Windows machines- Uses minimal system resources - won't slow you down",
+        "System Requirements": "For PCsMinimal system requirements:Operating system: Microsoft Windows XP SP3 (32 bit), Vista (SP2), Microsoft Windows 7 (SP1)CPU: 800MHz processorMemory (RAM): 1 GBAvailable free hard disk space: 1.8 GB free space (at least 800 MB on the system drive)Recommended system requirements:Operating system: Microsoft Windows XP SP3 (32 bit), Vista (SP2), Microsoft Windows 7 (SP1)CPU: Intel CORE Duo (1.66 GHz) or equivalent processorMemory (RAM):- 1 GB (Microsoft Windows XP)- 1.5 GB (Microsoft Windows Vista and Microsoft Windows 7)Available free hard disk space: 2.8 GB free space (at least 800 MB on system drive)Software requirements:Internet Explorer 7 and higherYahoo Messenger 8.1 and higherFirefox 3.6 and higherThunderbird 3.0.4Outlook 2007, 2010Outlook Express and Windows Mail on x86.Net framework 3For Smartphones & TabletsMinimal system requirements:Android 2.2 or laterAn active Internet connectionSoftware requirements:Default Android browserFor MacsMinimal system requirements:Intel-based Macintosh running the one of following operating systems:- Mac OS X Tiger (10.4.6 or later)- Mac OS X Leopard (10.5 or later)- Mac OS X Snow Leopard (10.6 or later)- Mac OS X Lion (10.7 or later)1 GB of RAM Memory100 MB available hard disk spaceMinimal normal (4:3) display resolution: 1024 x 768Minimal wide display resolution: 1024 x 640",
+        "Name": "Sphere - Unlimited Devices"
+      },
+      "brand": "BITDEFENDER",
+      "model": "PB11601000EN M2",
+      "ean": "0812813011698",
+      "updated_at": 1463706664,
+      "sitedetails": [
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832719101",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1365567900,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "price": "69.98",
+              "currency": "USD",
+              "seller": "Newegg",
+              "id": "7Gr1d7hwJsgK0eU6ksSCEe",
+              "lastrecorded_at": 1382811700,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1361429200,
+              "availability": "Was: $99.99 [BBX: Buy Box]",
+              "price": "64.98",
+              "currency": "USD",
+              "seller": "newegg.com",
+              "id": "2gNrjy88Aqyk6Io6QyQC4m",
+              "lastrecorded_at": 1361429200,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1350682835,
+              "availability": "This item is currently out of stock and it may or may not be restocked.",
+              "seller": "Newegg",
+              "price": "69.98",
+              "currency": "USD",
+              "id": "007meRUr04lkU26WWwA6q8",
+              "lastrecorded_at": 1350682835,
+              "isactive": 0
+            }
+          ],
+          "sku": "N82E16832719101",
+          "recentoffers_count": 0,
+          "name": "newegg.com"
+        }
+      ],
+      "manufacturer": "BITDEFENDER",
+      "upc": "812813011698",
+      "mpn": "PB11601000EN-M2",
+      "category": "Cross Platform",
+      "gtins": [
+        "00812813011698"
+      ],
+      "variation_secondaryids": [
+        "30Wk8GsUxEuiKImYuwokE0"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "12.70",
+      "manufacturer": "CSDC",
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "currency": "USD",
+              "firstrecorded_at": 1372167000,
+              "price": "49.99",
+              "id": "3fwYq4R0b26Q2OKeQU0kWw",
+              "lastrecorded_at": 1402473600,
+              "isactive": 0
+            }
+          ],
+          "sku": "7284233",
+          "recentoffers_count": 0,
+          "url": "http://www.frys.com/product/7284233"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=651102",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "price": "38.84",
+              "firstrecorded_at": 1450525700,
+              "id": "5nedGT4SLA0ameEKKIkmsk",
+              "lastrecorded_at": 1458206000,
+              "isactive": 1
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "firstrecorded_at": 1449959400,
+              "price": "40.07",
+              "currency": "USD",
+              "id": "4O8WbP8CGuk2uqkOOSkEgw",
+              "lastrecorded_at": 1449959400,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1448730800,
+              "price": "38.84",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1449316900,
+              "id": "208B4pP9rMoou0026qOC0I",
+              "isactive": 0
+            }
+          ],
+          "sku": "651102",
+          "name": "datavis.com"
+        },
+        {
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=2186197",
+          "recentoffers_count": 0,
+          "name": "tigerdirect.com",
+          "latestoffers": [
+            {
+              "id": "5pEx73ALeSE6UqgWeWim0k",
+              "lastrecorded_at": 1444310700,
+              "seller": "TigerDirect",
+              "availability": "Available,",
+              "firstrecorded_at": 1432579600,
+              "price": "39.00",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "2186197"
+        }
+      ],
+      "upc": "608498006728",
+      "updated_at": 1463777654,
+      "price": "46.28",
+      "height": "190.50",
+      "features": {
+        "Features": "Access internal and external Mac-formatted disks. Access Mac OS from Windows on Boot Camp Macs. Format, Partition and Repair Mac disks. Quick Start launcher. Burn Mac CDs and DVDs.",
+        "Software Sub Type": "Disk Management",
+        "Platform Supported": "PC",
+        "Software Main Type": "Management",
+        "System Requirements": "Operating System: Windows 7/Vista/XP Windows Server 2008/2003",
+        "Distribution Media/Method": "DVD-ROM",
+        "Packing": "Box",
+        "Software Name": "MacDrive v.9.0 Standard",
+        "Product Type": "Software",
+        "Operating System Supported": "Windows"
+      },
+      "model": "MD90 E0WR",
+      "sem3_id": "68k28CVwkSMQeS2kSeOISo",
+      "brand": "CSDC",
+      "cat_id": "741",
+      "category": "Cross Platform",
+      "ean": "0608498006728",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows 2000",
+        "Windows XP"
+      ],
+      "length": "133.35",
+      "weight": "90718.47",
+      "created_at": 1348699270,
+      "operatingsystem": "Windows 2000",
+      "name": "CSDC MacDrive 9 Standard for Windows",
+      "mpn": "MD90-E0WR",
+      "gtins": [
+        "00608498006728"
+      ],
+      "variation_secondaryids": [
+        "2mOxEW3NomOwa6ws8e8oqM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Operating System Supported": "Windows",
+        "Distribution Media/Method": "Download",
+        "Software Sub Type": "Data Erase",
+        "Platform Supported": "PC",
+        "Software Name": "DriveScrubber v.8.0",
+        "System Requirements": "Operating System:Windows 2000, XP, 7, VistaHard Disk:10 MBMemory:128 MB RAM",
+        "Product Type": "Software",
+        "Package Type": "Retail",
+        "License Quantity": "3 PC",
+        "Software Main Type": "Utility",
+        "License Type": "Complete Product",
+        "License Pricing": "Government"
+      },
+      "updated_at": 1463801869,
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows 2000",
+        "Windows XP"
+      ],
+      "upc": "813279005672",
+      "sem3_id": "69zRqtyU4WygIkySQ8uEOI",
+      "created_at": 1348687346,
+      "category": "PC Maintenance",
+      "price": "27.88",
+      "operatingsystem": "Windows 7",
+      "mpn": "DS08D",
+      "cat_id": "14320",
+      "name": "DriveScrubber - Up to 3 PCs",
+      "sitedetails": [
+        {
+          "sku": "709761",
+          "latestoffers": [
+            {
+              "id": "2WJXNTrV440IaC0c42A0sM",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1455289500,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "32.00",
+              "currency": "USD",
+              "lastrecorded_at": 1458247800,
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "26.20",
+              "currency": "USD",
+              "lastrecorded_at": 1454231900,
+              "availability": "In Stock",
+              "id": "2PBhMxiAjAEy4e4SUuCssQ",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1395796200,
+              "isactive": 0
+            },
+            {
+              "id": "7T5cCDC6jI0A6gyQAy8cIa",
+              "firstrecorded_at": 1388755500,
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "price": "24.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390173800,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=709761",
+          "name": "datavis.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "ean": "0813279006136",
+      "manufacturer": "IOLO Technologies",
+      "model": "8010321",
+      "weight": "68038.86",
+      "brand": "IOLO Technologies",
+      "gtins": [
+        "00813279005672",
+        "00813279006136"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463195997,
+      "model": "21210267",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1396476300,
+              "id": "4zXwqUNlei4uwIKe2SC6kK",
+              "price": "16.98",
+              "seller": "JR",
+              "firstrecorded_at": 1388156000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com",
+          "url": "http://www.jr.com/symantec/pe/SMI_21210267",
+          "sku": "SMI_21210267"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=636408",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "OUT OF STOCK",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388754800,
+              "price": "17.30",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1390031100,
+              "id": "6bBnxB5bIOUW0yeGmOSooE",
+              "isactive": 0
+            }
+          ],
+          "sku": "636408"
+        }
+      ],
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "price": "9.97",
+      "name": "PC Tools Registry Mechanic 2012 - 1 User / 3 PC",
+      "upc": "037648328210",
+      "weight": "680.39",
+      "created_at": 1348687340,
+      "sem3_id": "0W8neJNgm6CusqeoIkkYo6",
+      "mpn": "21210267",
+      "cat_id": "14320",
+      "brand": "Symantec",
+      "length": "35.56",
+      "operatingsystem": "Windows 7",
+      "features": {
+        "Package Type": "Retail",
+        "Platform Supported": "PC",
+        "License Type": "Complete Product",
+        "Operating System Supported": "Windows",
+        "Software Sub Type": "Utility",
+        "Software Name": "PC Tools Registry Mechanic 2012",
+        "Language Supported": "English",
+        "Distribution Media/Method": "CD-ROM",
+        "License Quantity": "3 PC in One Household",
+        "Software Main Type": "Utility",
+        "System Requirements": "Operating System: Windows Vista (32-bit) Windows XP Windows 98 Windows Me Windows 2000",
+        "Product Type": "Software",
+        "License Pricing": "Standard"
+      },
+      "width": "137.16",
+      "height": "193.04",
+      "category": "PC Maintenance",
+      "ean": "0037648328210",
+      "manufacturer": "Symantec",
+      "gtins": [
+        "00037648328210"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Subcategory": "Security - security suite",
+        "Target Company": "OfficeMax",
+        "License Pricing": "Standard",
+        "Package Type": "Retail",
+        "Peripheral / Interface Devices": "Internet connection",
+        "Service & Support Details": "New releases update - 1 year Virus definitions update - 1 year Phone consulting - 30 days E-mail consulting - 1 year Web support - 1 year Money back guarantee - 30 days Web knowledge base access - 1 year",
+        "Language(s)": "English",
+        "Platform": "Windows",
+        "Software Requirements": "Internet Explorer 7 or later, Google Chrome, Mozilla Firefox 4.0 or later",
+        "License Qty": "1 PC",
+        "OS Required": "Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows XP SP3 or later, Microsoft Windows 7 (32/64 bits), Windows 8 (32/64 bits)",
+        "System Requirements Details": "Microsoft Windows XP - 1 GHz - RAM 512 MB - HD 500 MB Microsoft Windows Vista / 7 / 8 - 1 GHz - RAM 2 GB - HD 500 MB",
+        "Service & Support": "New releases update",
+        "License Type": "Subscription package",
+        "License Validation Period": "1 year"
+      },
+      "updated_at": 1463799140,
+      "brand": "McAfee",
+      "operatingsystem": "Windows 7",
+      "sem3_id": "5Mub0ZKnKaeUYCo26YyySo",
+      "length": "193.04",
+      "width": "132.08",
+      "name": "McAfee Total Protection 1 PC 2013",
+      "platform": "PC",
+      "cat_id": "12736",
+      "created_at": 1364966693,
+      "mpn": "MTP13EMB1RAA",
+      "weight": "68038.86",
+      "ean": "0731944629995",
+      "manufacturer": "McAfee",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1376302900,
+              "seller": "Walmart",
+              "lastrecorded_at": 1423278600,
+              "availability": "Out of Stock",
+              "currency": "USD",
+              "price": "47.99",
+              "id": "1H67SoSj1WaqiymQoC82kA",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1366372900,
+              "availability": "In stock",
+              "firstrecorded_at": 1366372900,
+              "seller": "Walmart",
+              "currency": "USD",
+              "id": "1W9pelOEGmoi8o82ew26sC",
+              "price": "53.88",
+              "isactive": 0
+            }
+          ],
+          "sku": "21978037",
+          "url": "http://www.walmart.com/ip/21978037"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "NAP_62999",
+          "name": "jr.com",
+          "url": "http://www.jr.com/mcafee/pe/NAP_62999",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "JR",
+              "firstrecorded_at": 1388156600,
+              "lastrecorded_at": 1396521800,
+              "price": "59.99",
+              "id": "7hF90Tf2mmmESyy4YWWYiE",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "665156",
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=665156",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1388758800,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1390674500,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "54.92",
+              "id": "0nWw3cs3OSG8yUka2MuMU8",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "price": "9.99",
+      "height": "35.56",
+      "upc": "731944629995",
+      "category": "Internet Utilities",
+      "model": "MTP13EMB1RAA",
+      "gtins": [
+        "00731944629995"
+      ],
+      "variation_secondaryids": [
+        "4W3iMIoQWeuOOOGaAawake"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463643256,
+      "platform": "Mac",
+      "upc": "814223010476",
+      "features": {
+        "License Pricing": "Standard",
+        "Package Type": "Retail",
+        "License Type": "Complete package",
+        "Platform": "MacOS",
+        "Language(s)": "English",
+        "License Qty": "1 user",
+        "Version": "5",
+        "Subcategory": "Utilities - desktop virtualization"
+      },
+      "mpn": "FUS5-ENG-M-CP",
+      "weight": "127005.86",
+      "brand": "VMware, Inc.",
+      "manufacturer": "VMware",
+      "model": "FUS5 ENG M CP",
+      "height": "190.50",
+      "sitedetails": [
+        {
+          "sku": "7385974",
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/7385974",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1390015500,
+              "currency": "USD",
+              "firstrecorded_at": 1377686800,
+              "price": "49.99",
+              "id": "07dU8JnbDEWomSCA0weikY",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        }
+      ],
+      "sem3_id": "10lGW3UefGym0OsUYCqIa0",
+      "cat_id": "741",
+      "length": "133.35",
+      "category": "Cross Platform",
+      "operatingsystem": "Mac OS X 10.7 Lion",
+      "ean": "0814223010476",
+      "created_at": 1348681414,
+      "name": "VMware Fusion 5 for MAC OS X",
+      "width": "34.80",
+      "gtins": [
+        "00814223010476"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "sku": "6660604",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1377686700,
+              "id": "068UxNV9bX6mMGmKuYo6ge",
+              "price": "39.99",
+              "seller": "Frys",
+              "lastrecorded_at": 1387413000,
+              "currency": "USD",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com",
+          "recentoffers_count": 0,
+          "url": "http://www.frys.com/product/6660604"
+        },
+        {
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=617652",
+          "sku": "617652",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1389719300,
+              "id": "5WFZYf5EswQm0OEQcAEymG",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "42.99",
+              "lastrecorded_at": 1390723900,
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "availability": "OUT OF STOCK",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1388756700,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "2HEwR0IZAO2mKYWIkyouCU",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1388756700,
+              "price": "41.76",
+              "availability": "OUT OF STOCK",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "bhphotovideo.com",
+          "url": "http://www.bhphotovideo.com/c/product/913785-REG/corel_wzsus1enmb_winzip_sys_utilities_ste.html",
+          "sku": "913785",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1434512400,
+              "seller": "B&H",
+              "price": "36.99",
+              "id": "3VKEJXnac4cGQWOy8oCgis",
+              "firstrecorded_at": 1412625000,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "3160",
+      "mpn": "WZSUS1ENMB",
+      "model": "WZSUS1ENMB",
+      "features": {
+        "License Pricing": "Standard",
+        "System Requirements": "Operating System:Windows XPWindows VistaWindows 7 (32/64-bit)Note:Internet access is required for product activation",
+        "Package Type": "Retail",
+        "License Type": "Complete Product",
+        "Product Type": "Software Suite",
+        "License Quantity": "3 PC",
+        "Packing": "Mini Box",
+        "Software Sub Type": "Utility",
+        "Software Name": "WinZip System Utilities Suite v.1.0",
+        "Software Main Type": "Utility",
+        "Platform Supported": "PC",
+        "Language Supported": "English",
+        "Operating System Supported": "Windows"
+      },
+      "created_at": 1374230141,
+      "weight": "90718.47",
+      "length": "31.75",
+      "sem3_id": "52uW5ScYXwQKiee0Cwsaki",
+      "upc": "735163132700",
+      "variation_id": "5dtRCkGNSCKGKWueYKgoUC",
+      "category": "File Compression & Decompression",
+      "width": "134.87",
+      "height": "190.50",
+      "manufacturer": "Corel",
+      "updated_at": 1463680521,
+      "operatingsystem": "Windows 7",
+      "brand": "Corel",
+      "ean": "0735163132700",
+      "name": "WinZip Systems Utilities Suite (Single User) [Download]",
+      "gtins": [
+        "00735163132700"
+      ],
+      "variation_secondaryids": [
+        "4oXY4jLUsqMYiqCeYUq4k61I"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "846829000537",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/6749765",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1348654700,
+              "availability": "Shipping: In stock, ships same Business Day",
+              "price": "79.98",
+              "currency": "USD",
+              "seller": "Frys",
+              "id": "72tsXIHdQGMokIMKA6QkYa",
+              "firstrecorded_at": 1348654700,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "6749765",
+          "name": "frys.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "623473",
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=623473",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388758900,
+              "id": "2JQQYteF5MkyMsOsCKmuiO",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "price": "69.98",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1390278800,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "availability": "Not Available",
+              "lastrecorded_at": 1463580800,
+              "currency": "USD",
+              "price": "88.95",
+              "condition": "New",
+              "id": "2NX7joadtkw0ysmQYoYy2S",
+              "seller": "ReStockIt",
+              "firstrecorded_at": 1460563300,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.restockit.com/parallels-desktop-for-mac-v-7-complete-package-num-0385a9.html",
+          "name": "restockit.com",
+          "sku": "restockit_parallels-desktop-for-mac-v-7-complete-package-num-0385a9",
+          "recentoffers_count": 1
+        }
+      ],
+      "operatingsystem": "Mac",
+      "model": "PDFM7XL BX1 EN",
+      "features": {
+        "Platform Supported": "Intel-based Mac",
+        "Package Type": "Retail",
+        "License Type": "Complete Product",
+        "Software Name": "Desktop v.7.0",
+        "Software Main Type": "Utility",
+        "Language Supported": "English",
+        "System Requirements": "Processor: Intel Core 2 Duo, Core i3, Core i5, Core i7, or Xeon Operating System: Mac OS X Lion v.10.7 Mac OS X Snow Leopard v.10.6.3 or later Mac OS X Leopard v.10.58 or later Hard Disk: About 500 MB of space on the boot volume (Macintosh HD) for Parallels Desktop installation About 15 GB of space for each virtual machine Memory: 4 GB recommended to run Windows 7 in a virtual machine or if your host OS is Lion Note: Mac OS X Tiger v.10.4.x is not supported in this version of Parallels Desktop",
+        "Features": "The Seamless Solution: Whether you are a hard-core Mac enthusiast, a multi-platform pro or a first-time Mac user, the brilliant essentials of Parallels Desktop 7 for Mac Quick installation, a user-friendlyinterface, and the Parallels Wizard Makes moving to the Mac seamless and everyday use easier than ever Manageability and Mobility: The smart tools of Parallels Desktop 7 for Mac are designed to help you stay productive on the go and protect your Mac and all the data inside Enhanced Performance: With a dramatically improved battery life, up to 1GB of video memory, enhanced security, and more Parallels Deskto 7 for Mac features the best overall performance and stability in the market Immersive Gaming and Graphics: Parallels Desktop 7 for Mac delivers an even more immersive environment for gaming, music, movies, and more ith support for Surround Sound 7.1 and superior 3D graphics rendering speeds",
+        "Operating System Supported": "Mac OS",
+        "Software Product Supported": "Mac",
+        "License Quantity": "1 User",
+        "License Pricing": "Standard",
+        "Product Type": "Software",
+        "Software Sub Type": "Utility"
+      },
+      "width": "133.35",
+      "platform": "Mac",
+      "brand": "Parallels Software",
+      "mpn": "PDFM7XL-BX1-EN",
+      "sem3_id": "6g2GvBk4lyegIqIEiYUQ8i",
+      "created_at": 1347611744,
+      "ean": "0846829000537",
+      "name": "Parallels Desktop 7 for Mac",
+      "updated_at": 1463645911,
+      "category": "Cross Platform",
+      "price": "8.44",
+      "cat_id": "741",
+      "manufacturer": "Parallels Software",
+      "height": "190.50",
+      "weight": "145149.56",
+      "length": "31.75",
+      "gtins": [
+        "00846829000537"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

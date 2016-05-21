@@ -1,0 +1,538 @@
+{
+  "total_results_count": 60504,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "variation_id": "5ExsUDQ70i8esQKC0ckUS0",
+      "ean": "0632432962016",
+      "height": "76.20",
+      "created_at": 1381507794,
+      "brand": "Guayaki Yerba Mate",
+      "updated_at": 1463031319,
+      "name": "Guayaki Yerba Mate Organic Tea, 25-Count, 2.6oz []",
+      "length": "152.40",
+      "sem3_id": "2bPmHSSyD6qwUmKSA8QO04",
+      "sitedetails": [
+        {
+          "sku": "30256532",
+          "recentoffers_count": 1,
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/30256532",
+          "latestoffers": [
+            {
+              "seller": "VitaminLife",
+              "price": "7.89",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1462924000,
+              "id": "5z4XizvIG0kouGceG4SEUi",
+              "firstrecorded_at": 1455944900,
+              "isactive": 1
+            },
+            {
+              "price": "7.85",
+              "seller": "VitaminLife",
+              "id": "5a7uLRaFlookIc8mmscaIY",
+              "firstrecorded_at": 1453778400,
+              "lastrecorded_at": 1453778400,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "6.28",
+              "seller": "VitaminLife",
+              "id": "5ZSmyUuJ96mCwwwmYE8QUU",
+              "firstrecorded_at": 1427325700,
+              "lastrecorded_at": 1450518300,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "width": "83.82",
+      "upc": "632432962016",
+      "size": "25",
+      "model": "25010 BA",
+      "features": {
+        "Shipping Weight (in pounds)": "0.4",
+        "Assembled in Country of Origin": "USA and/or Imported",
+        "Origin of Components": "USA and/or Imported"
+      },
+      "weight": "136077.71",
+      "manufacturer": "KeHE Distributors",
+      "category": "Tea",
+      "price": "5.73",
+      "cat_id": "12126",
+      "gtins": [
+        "00632432962016"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Lavazza",
+      "cat_id": "13454",
+      "updated_at": 1462644504,
+      "features": {
+        "Product Dimensions": "8 x 6.3 x 3.7 inches ; 2.2 pounds"
+      },
+      "width": "160.02",
+      "weight": "9979.03",
+      "category": "Coffee",
+      "upc": "800007002447",
+      "created_at": 1348699043,
+      "sitedetails": [],
+      "mpn": "Plavbt",
+      "length": "203.20",
+      "manufacturer": "Lavazza",
+      "price": "29.18",
+      "sem3_id": "0Cau0URjs0WcGAoI8gIC8a",
+      "name": "Lavazza Tierra! Intenso - Whole Bean Espresso Coffee, 2.2-Pound Bag []",
+      "size": "2.2 lb",
+      "ean": "8000070043305",
+      "height": "93.98",
+      "gtins": [
+        "00800007002447",
+        "08000070043305"
+      ],
+      "variation_secondaryids": [
+        "2KkwW6NdguIOAIQUsqwSeQ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462919121,
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/21268884",
+          "recentoffers_count": 0,
+          "sku": "21268884",
+          "name": "walmart.com",
+          "latestoffers": []
+        }
+      ],
+      "ean": "0016571245764",
+      "mpn": "608476",
+      "width": "60.96",
+      "length": "60.96",
+      "category": "Water",
+      "manufacturer": "Sparkling ICE",
+      "sem3_id": "74NHV0ZbaSIm2SkOIOCwc4",
+      "brand": "Sparkling ICE",
+      "upc": "016571910372",
+      "model": "24576",
+      "cat_id": "15216",
+      "height": "237.24",
+      "size": "17 fl oz twelve bottles only",
+      "price": "21.00",
+      "name": "Sparkling ICE Spring Water, Pink Grapefruit, 17-Ounce Bottles (Pack of 12)",
+      "features": {
+        "Item Weight": "14.5 pounds",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Country of Origin": "USA"
+      },
+      "created_at": 1348699181,
+      "weight": "925328.43",
+      "gtins": [
+        "00016571910372",
+        "00016571245764"
+      ],
+      "variation_secondaryids": [
+        "1sDhMiDD00OsIe6Og0SEQW"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347659984,
+      "upc": "769493200068",
+      "manufacturer": "GU Energy Labs",
+      "category": "Soft Drink Mixes",
+      "brand": "GU Energy Labs",
+      "ean": "0769493200068",
+      "sem3_id": "49lRRdutKKqIGC2ywag66i",
+      "price": "26.99",
+      "name": "GU Original Sports Nutrition Energy Gel, Tri Berry, 24-Count []",
+      "cat_id": "16238",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/22154380",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "Vitamin Shoppe Industries Inc",
+              "lastrecorded_at": 1462904200,
+              "currency": "USD",
+              "id": "18ifWY1OJ6mQeKUkks0csw",
+              "price": "29.99",
+              "firstrecorded_at": 1459304900,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "Vitamin Shoppe Industries Inc",
+              "lastrecorded_at": 1457816300,
+              "currency": "USD",
+              "id": "7hpjrOq1k8Y4uQsCgYEKKc",
+              "price": "28.99",
+              "firstrecorded_at": 1456941000,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1425873800,
+              "availability": "Out of Stock",
+              "seller": "Bikewagon",
+              "id": "7Bwkt7VJVAUYWo0Es04W8u",
+              "currency": "USD",
+              "price": "33.00",
+              "firstrecorded_at": 1384540300,
+              "isactive": 0
+            }
+          ],
+          "sku": "22154380",
+          "recentoffers_count": 1
+        }
+      ],
+      "variation_id": "1QwbQcNCUWwCW2y0EskeWE",
+      "weight": "816466.27",
+      "color": "Tri-Berry",
+      "model": "106",
+      "size": "24 Pack",
+      "mpn": "106",
+      "updated_at": 1462990720,
+      "features": {
+        "Origin of Components": "USA and/or Imported",
+        "Shipping Weight (in pounds)": "1.0",
+        "Assembled in Country of Origin": "USA and/or Imported"
+      },
+      "gtins": [
+        "00769493200068"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Cafe Escapes Cafe Mocha 12 Count Keurig K-Cups",
+      "upc": "099555098037",
+      "weight": "2721.55",
+      "created_at": 1357710279,
+      "category": "Coffee",
+      "model": "099555",
+      "mpn": "B004EE0TYK",
+      "ean": "0099555098037",
+      "size": "12-Count",
+      "sitedetails": [],
+      "manufacturer": "Unified Grocers(National)",
+      "features": {
+        "Ingredients": "Sugar, Alkalized Cocoa Powder, Creamer (Hydrogenated Coconut Oil, Glucose Syrup, Sodium Caseinate (from Milk), Sodium Polyphosphate, Dipotassium Phosphate, Maltodextrin, Sodium Stearoyl-2-Lactylate, Silicon Dioxide), Instant Coffee, Maltodextrin, Salt, Natural and Artificial Flavor, Silicon Dioxide, Sucralose.",
+        "Vitamin C": "0 %",
+        "Servings Per Container": "12",
+        "Dietary Fiber": "1 g (4 %)",
+        "Trans Fat": "0 g",
+        "Calcium": "2 %",
+        "Sugars": "7 g",
+        "Total Size": "6.35 oz",
+        "Total Carbohydrate": "11 g (4 %)",
+        "Saturated Fat": "1.5 g (8 %)",
+        "Vitamin A": "0 %",
+        "Total Fat": "1.5 g (2 %)",
+        "Cholesterol": "0 mg (0 %)",
+        "Protein": "1 g (2 %)",
+        "Iron": "8 %",
+        "Sodium": "150 mg (6 %)",
+        "Serving Size": "1 k-cup",
+        "Units in Package": "12",
+        "Warnings": "Contains: milk, soy, tree nuts. Not for use by children without adult supervision. Potential for exposure to very hot liquid.",
+        "Directions": "Brewing Tips: After brewing, Cafe Escapes K-Cups are hot and may drip. To prevent dripping, tilt the K-Cup slightly when you remove it from the brewer. For Best Results: Store at room temperature. Shake K-Cup before brewing. Use the 8-oz setting on your brewer. Run a hot water brew cycle (without a K-Cup) after brewing Cafe Escapes. After brewing, Cafe Escapes K-Cups are hot and may drip. To prevent dripping, tilt the K-Cup slightly when you remove it from the brewer."
+      },
+      "brand": "Café Escapes",
+      "cat_id": "13454",
+      "price": "13.50",
+      "sem3_id": "3HgoVo2p9cSqWuyWuI4WOM",
+      "updated_at": 1463060517,
+      "gtins": [
+        "00099555098037"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463150253,
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "17194962",
+          "url": "http://www.walmart.com/ip/17194962",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1463150200,
+              "availability": "Available",
+              "lastrecorded_at": 1463150200,
+              "id": "0N0Azv6zZ4YEk2Mg6oA26i",
+              "seller": "Walmart",
+              "currency": "USD",
+              "price": "66.78",
+              "isactive": 1
+            },
+            {
+              "id": "5DKMedIOxM2oAoG8qg8M6i",
+              "seller": "Walmart",
+              "firstrecorded_at": 1461111400,
+              "lastrecorded_at": 1461111400,
+              "availability": "Available",
+              "price": "80.25",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "87.63",
+              "currency": "USD",
+              "id": "4RlchILShsIQakCAgyIiGA",
+              "seller": "Walmart",
+              "lastrecorded_at": 1459501300,
+              "availability": "Available",
+              "firstrecorded_at": 1459501300,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "sem3_id": "6saHp2xFZ2EIuGA8UwwmCO",
+      "brand": "Caribou Coffee",
+      "features": {
+        "Product in Inches (L x W x H)": "3.85 x 5.9 x 3.75",
+        "Origin of Components": "USA",
+        "Assembled in Country of Origin": "USA",
+        "Shipping Weight (in pounds)": "0.57"
+      },
+      "price": "66.78",
+      "name": "Caribou Coffee Caribou Blend K-Cups Coffee, 12ct (Pack of 6)",
+      "model": "229154",
+      "created_at": 1376304327,
+      "category": "Coffee",
+      "ean": "0030684843952",
+      "upc": "030684843952",
+      "manufacturer": "Generic",
+      "cat_id": "13454",
+      "mpn": "229154",
+      "gtins": [
+        "00030684843952"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "category": "Energy Drinks",
+      "model": "4480004",
+      "updated_at": 1463118961,
+      "mpn": "718128",
+      "sitedetails": [
+        {
+          "sku": "39325351",
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/39325351",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1423683600,
+              "price": "33.79",
+              "firstrecorded_at": 1423683600,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Tonzof",
+              "id": "0RgIb5kdfSCAqGyCKywo2G",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1422529500,
+              "price": "55.61",
+              "firstrecorded_at": 1422529500,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "1gVSIrXTo0mWOO4yWOkEu8",
+              "seller": "Tonzof",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "ean": "0719410700126",
+      "upc": "719410734121",
+      "sem3_id": "3g3FhhQB1UKkwC6kkcKEqq",
+      "name": "5 Hour Energy Extra Strength Energy Shots, Berry, 12 pk []",
+      "cat_id": "12120",
+      "price": "25.09",
+      "manufacturer": "5 Hour Energy",
+      "variation_id": "0M9RbWnwiMwU420WIUk4EY",
+      "created_at": 1347746699,
+      "brand": "5 Hour Energy",
+      "features": {
+        "Product in Inches (L x W x H)": "6.0 x 4.75 x 3.63",
+        "Shipping Weight (in pounds)": "1.95",
+        "Origin of Components": "USA or Imported"
+      },
+      "weight": "108862.17",
+      "size": "12 Count",
+      "gtins": [
+        "00719410734121",
+        "00719410700126"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "brand": "Rishi Tea",
+      "manufacturer": "Rishi Tea Company",
+      "model": "NA",
+      "price": "11.80",
+      "sem3_id": "7CChHll3ZoieO2giMoASQO",
+      "category": "Tea",
+      "created_at": 1381507759,
+      "weight": "181436.95",
+      "updated_at": 1459093541,
+      "mpn": "1772102",
+      "upc": "741391970182",
+      "ean": "0741391970182",
+      "sitedetails": [],
+      "name": "Rishi Tea Turmeric Ginger, 2.47 Ounce",
+      "cat_id": "12126",
+      "gtins": [
+        "00741391970182"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Keurig",
+      "category": "Coffee",
+      "ean": "0029441040246",
+      "brand": "Keurig",
+      "upc": "029441040246",
+      "weight": "3175146.59",
+      "cat_id": "13454",
+      "name": "Van Houtte French Vanilla Coffee Keurig K-Cups, 24 Count",
+      "price": "95.67",
+      "created_at": 1357768090,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "0sgzjRXXb6G6QMucawiw8S",
+              "currency": "USD",
+              "lastrecorded_at": 1420299700,
+              "seller": "Gregg Appliances, Inc.",
+              "firstrecorded_at": 1420299700,
+              "availability": "Available",
+              "price": "11.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.hhgregg.com/keurig-van-houtte-french-vanilla-coffee/item/108878KEU",
+          "recentoffers_count": 0,
+          "name": "hhgregg.com",
+          "sku": "108878KEU"
+        }
+      ],
+      "sem3_id": "3JbN3ZvoaeUMs68UcmIygW",
+      "features": {
+        "Manufacturer Model Number": "53778"
+      },
+      "updated_at": 1461427109,
+      "gtins": [
+        "00029441040246"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "114.30",
+      "weight": "453592.37",
+      "sem3_id": "0HigYcBIY76mKOoeWimuA6",
+      "sitedetails": [],
+      "features": {
+        "Directions": "Shake well prior to use. Always begin use with one-quarter bottle [0.63 fl oz (about three capfuls)] of Redline Power Rush daily to assess tolerance. Never exceed more than one half bottle (1/2) per 7 hours or one full bottle daily. One half (1/2) bottle is one full serving.",
+        "Serving Size": "0.5 bottle",
+        "Warnings": "Do not use this product if you are pregnant or nursing or have a medical condition. This product contains caffeine and should not be used with any other caffeine containing products. This product is intended for use by healthy individuals only. Keep out of reach of children. Phenylketonurics: Contains phenylalanine. Not for use by individuals under the age of 18.",
+        "Servings Per Container": "2",
+        "Units in Package": "2",
+        "Trans Fat": "0 g (0 %)",
+        "Ingredients": "Proprietary Blend: Caffeine Anhydrous, N-Acetyl-L-Tyrosine, Beta-Alanine, DL Phenylalanine, L-Phenylalanine, Potassium (as Potassium Phosphate Dibasic). Additional Ingredients: Highly Purified Water, Glycerin, Citric Acid, Natural and Artificial Flavors, Sucralose, Sodium Benzoate, Malic Acid, Potassium Sorbate, Calcium Disodium EDTA.",
+        "Total Carbohydrate": "0 g (0 %)"
+      },
+      "ean": "0610764370372",
+      "cat_id": "12120",
+      "updated_at": 1461524900,
+      "size": "12",
+      "price": "29.94",
+      "color": "12",
+      "created_at": 1347649923,
+      "model": "VX38",
+      "length": "158.75",
+      "brand": "VPX",
+      "name": "VPX Power Rush, 7hr Grape Shots, 12-Count (2.5 FL. OZ)",
+      "mpn": "VX38",
+      "manufacturer": "VPX",
+      "height": "95.25",
+      "category": "Energy Drinks",
+      "upc": "610764370686",
+      "variation_id": "6pS0IkLK2SE0yAUciEiKGw",
+      "gtins": [
+        "00610764370686",
+        "00610764370372"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

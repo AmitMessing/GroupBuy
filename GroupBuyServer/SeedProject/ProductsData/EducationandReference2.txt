@@ -1,0 +1,871 @@
+{
+  "total_results_count": 12440,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "height": "50.80",
+      "brand": "IMSI",
+      "updated_at": 1463708077,
+      "ean": "0730526361179",
+      "created_at": 1357321780,
+      "length": "139.70",
+      "name": "IMSI Software 00D3MX22CC01 Designcad Max V22 Full Featureddvd 2d/3d Cad",
+      "width": "203.20",
+      "weight": "68038.86",
+      "category": "Education & Reference",
+      "model": "NE_8097778",
+      "operatingsystem": "Windows XP Home Edition",
+      "upc": "730526361179",
+      "features": {
+        "Subcategory": "Creativity - CAD",
+        "Version": "22",
+        "Platform": "Windows",
+        "License Qty": "1 user",
+        "License Pricing": "Standard",
+        "Package Type": "Retail",
+        "License Type": "Complete package"
+      },
+      "sitedetails": [
+        {
+          "sku": "7550836",
+          "url": "http://www.frys.com/product/7550836",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1459163700,
+              "price": "49.99",
+              "lastrecorded_at": 1463648200,
+              "seller": "Frys",
+              "id": "6a0Ftjdk00YK0QY4UA0K2Q",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "price": "59.99",
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1448368000,
+              "currency": "USD",
+              "id": "6TiBzGZ1I8c8O0iykIwu0u",
+              "seller": "Frys",
+              "lastrecorded_at": 1458767800,
+              "isactive": 0
+            },
+            {
+              "id": "57WepCkMVMyoqKMsC2COWi",
+              "currency": "USD",
+              "seller": "Frys",
+              "lastrecorded_at": 1447768300,
+              "price": "69.98",
+              "firstrecorded_at": 1439656400,
+              "availability": "Sold Out",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com"
+        }
+      ],
+      "sem3_id": "1sPK65ESnQGQAQsW8AUGyg",
+      "cat_id": "17135",
+      "price": "84.99",
+      "mpn": "00D3MX22CC01",
+      "manufacturer": "IMSI DESIGN, LLC",
+      "gtins": [
+        "00730526361179"
+      ],
+      "variation_secondaryids": [
+        "6JMwZA4O0GGu0cuooyyCYs"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "The Complete National Geographic - 125 Years (1888 - 2012)",
+      "brand": "National Geographic",
+      "weight": "317514.66",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "upc": "727994963738",
+      "manufacturer": "National Geographic",
+      "length": "139.70",
+      "sem3_id": "4wWHV4FcSWA8cUEsMYwAkG",
+      "model": "96373",
+      "ean": "0727994963738",
+      "width": "54.10",
+      "price": "15.45",
+      "created_at": 1387836335,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.mastgeneralstore.com/products2.cfm/ID/98407",
+          "sku": "98407",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1389299500,
+              "id": "7lVMTyVaCmiK2WAWg2ySo2",
+              "price": "29.95",
+              "seller": "Mast General Store",
+              "lastrecorded_at": 1398992900,
+              "isactive": 0
+            }
+          ],
+          "name": "mastgeneralstore.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1398270200,
+              "id": "1kWBASLfPs0CmAGGkYo2i0",
+              "price": "24.99",
+              "lastrecorded_at": 1398270200,
+              "seller": "JR",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1392120100,
+              "currency": "USD",
+              "id": "4ecSVss1JwAGKKcKSyio8O",
+              "price": "49.00",
+              "seller": "JR",
+              "lastrecorded_at": 1396785700,
+              "isactive": 0
+            }
+          ],
+          "sku": "NGI_96373",
+          "name": "jr.com",
+          "listprice": "49.00",
+          "url": "http://www.jr.com/national-geographic/pe/NGI_96373",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "35.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "id": "7K0aE8GIdsIs6kmsmA4qsE",
+              "firstrecorded_at": 1428534200,
+              "currency": "USD",
+              "lastrecorded_at": 1443141000,
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=788892",
+          "sku": "788892",
+          "name": "datavis.com"
+        }
+      ],
+      "cat_id": "3947",
+      "height": "190.50",
+      "category": "Maps & Atlases",
+      "operatingsystem": "Mac OS X",
+      "updated_at": 1462055301,
+      "gtins": [
+        "00727994963738"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Total Protection 2011",
+      "updated_at": 1463242418,
+      "ean": "0731944508597",
+      "price": "3.00",
+      "model": "MTP11EMB3 RAA",
+      "sitedetails": [
+        {
+          "sku": "xlsImpprod4730073_2249664",
+          "url": "http://www.ulta.com/ulta/browse/productDetail.jsp?productId=xlsImpprod4730073",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1463242400,
+              "firstrecorded_at": 1461486700,
+              "price": "16.50",
+              "currency": "USD",
+              "seller": "Ulta",
+              "id": "0f5m1rJqfbqAQImGuKOOWq",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1459844300,
+              "lastrecorded_at": 1460855600,
+              "availability": "Available",
+              "seller": "Ulta",
+              "id": "6XSOxIm77o4wKGEO22uY4C",
+              "price": "15.50",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "ulta.com"
+        }
+      ],
+      "cat_id": "17135",
+      "upc": "731944508597",
+      "created_at": 1348673678,
+      "features": {
+        "Peripheral / Interface Devices": "CD-ROM, Internet connection",
+        "Package Type": "Retail",
+        "License Type": "Subscription package",
+        "Service & Support": "New releases update",
+        "Platform": "Windows",
+        "System Requirements Details": "Microsoft Windows XP SP3 - 1 GHz - RAM 512 MB - HD 350 MB Microsoft Windows Vista (32/64 bits) SP1 - 1 GHz - RAM 2 GB - HD 350 MB Microsoft Windows 7 - 1 GHz - RAM 2 GB - HD 350 MB",
+        "Software Requirements": "Internet Explorer 6.0, Mozilla Firefox 3.5",
+        "Language(s)": "English",
+        "Subcategory": "Security - security suite",
+        "Distribution Media": "CD-ROM ( mini-box )",
+        "License Validation Period": "1 year",
+        "License Qty": "3 PCs",
+        "Service & Support Details": "New releases update - 1 year Virus definitions update - 1 year Phone consulting - 30 days E-mail consulting - 1 year Web support - 1 year Money back guarantee - 30 days Web knowledge base access - 1 year",
+        "OS Required": "Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows 7, Microsoft Windows XP SP3",
+        "License Pricing": "Standard"
+      },
+      "category": "Education & Reference",
+      "sem3_id": "4PrRL6KSYCmCuoY6EG0EEA",
+      "operatingsystem": "N/A",
+      "manufacturer": "McAfee Network Associates",
+      "brand": "McAfee",
+      "mpn": "MTP11EMB3RAA",
+      "weight": "90718.47",
+      "platform": "Windows",
+      "gtins": [
+        "00731944508597"
+      ],
+      "variation_secondaryids": [
+        "4hShi2v7AW4eeIA2aiYsAe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "1SC0060",
+      "sem3_id": "6R31nwXQJMaE6KuMiAUA6c",
+      "weight": "294835.04",
+      "upc": "705868060066",
+      "created_at": 1348669684,
+      "price": "163.54",
+      "ean": "0705868060066",
+      "platform": [
+        "Windows Vista",
+        "Mac",
+        "Windows 2000",
+        "Windows XP",
+        "Windows 7"
+      ],
+      "sitedetails": [],
+      "brand": "Write Brothers",
+      "manufacturer": "Write Brothers",
+      "model": "1SC0060",
+      "name": "Movie Magic Screenwriter Version 6 [PC/Mac]",
+      "cat_id": "3939",
+      "operatingsystem": "Windows 2000",
+      "updated_at": 1460724813,
+      "category": "Script & Screenwriting",
+      "features": {
+        "Subcategory": "Office applications - word processor",
+        "System Requirements Details": "Microsoft Windows 2000/XP/Vista/7 - Pentium - 300 MHz - HD 60 MB Apple MacOS X 10.3.9 or later - PowerPC G3 - HD 25 MB",
+        "Peripheral / Interface Devices": "Microphone, CD-ROM, speakers, graphics card, Internet connection, 8MB video memory",
+        "License Qty": "1 user",
+        "License Pricing": "Standard",
+        "Platform": "Windows, MacOS",
+        "OS Required": "Microsoft Windows 2000, Microsoft Windows XP, Microsoft Windows 7, Apple MacOS X 10.3.9 or later, Microsoft Windows Vista",
+        "Version": "6",
+        "License Type": "Complete package",
+        "Package Type": "Retail"
+      },
+      "gtins": [
+        "00705868060066"
+      ],
+      "variation_secondaryids": [
+        "1j2sgQgx0mQckq2oq2sCYa"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows 98",
+      "mpn": "00021",
+      "created_at": 1364133218,
+      "cat_id": "17135",
+      "price": "32.65",
+      "height": "245.11",
+      "weight": "172365.10",
+      "length": "192.28",
+      "upc": "601975020002",
+      "size": "1 - Pack",
+      "width": "40.64",
+      "model": "00021",
+      "ean": "0601975020002",
+      "sem3_id": "0acgiAu3HkkO2yuqygKCEM",
+      "manufacturer": "Notions - In Network",
+      "features": {
+        "Primary Color": "Multi-Color",
+        "Origin of Components": "USA",
+        "Product in Inches (L x W x H)": "1.6 x 7.57 x 9.65",
+        "Shipping Weight (in pounds)": "6.0",
+        "Assembled in Country of Origin": "USA",
+        "Battery Type": "Does Not Contain a Battery",
+        "Multi Pack Indicator": "No"
+      },
+      "brand": "Hobbyware",
+      "name": "Hobbyware Pattern Maker Cross Stitch Software -Standard Version-Version 4.0",
+      "category": "Education & Reference",
+      "color": "Version 4.0",
+      "updated_at": 1463644523,
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 5,
+          "sku": "24547392",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463644500,
+              "id": "4NEP88uFDc88q2cUAcsKEk",
+              "price": "40.09",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1458396100,
+              "seller": "Hobby Warehouse",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1462448200,
+              "seller": "Super Mart, LLC",
+              "availability": "Available",
+              "price": "40.17",
+              "currency": "USD",
+              "lastrecorded_at": 1463644500,
+              "id": "2eb727ghXEiSWOi2cQmmQa",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "41.21",
+              "availability": "Available",
+              "id": "4Js1NhFDtQoqYMQWW6I4u4",
+              "lastrecorded_at": 1463644500,
+              "seller": "Bic Supply LLC",
+              "firstrecorded_at": 1456801300,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.walmart.com/ip/24547392"
+        }
+      ],
+      "gtins": [
+        "00601975020002"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "81125",
+      "sem3_id": "5QZDILbDCiUeoESgIcAqAg",
+      "features": {
+        "Mac Optional Requirements": "Microphone, iTunes 10 or higher",
+        "PC Optional Requirements": "Microphone, iTunes 10 or higher",
+        "Mac Sound Card": "Mac-compatible sound card",
+        "PC Video": "1024 x 768 video card",
+        "Mac Operating System": "Macintosh System 10.4",
+        "Platform": "Mac/Windows",
+        "PC Drive Type and Speed": "DVD",
+        "Genre": "Educational",
+        "Mac Processor Type": "IntelÂ® processor",
+        "PC Processor Type": "IntelÂ® PentiumÂ® 4 processor",
+        "Mac Video": "1024 x 768 video card",
+        "PC Processor Speed": "500MHz",
+        "Mac System Memory": "512MB RAM",
+        "PC System Memory": "512MB RAM",
+        "Mac Drive Type and Speed": "DVD",
+        "PC Operating System": "Windows XP, Windows Vista, Windows 7",
+        "PC Sound Card": "Windows-compatible sound card"
+      },
+      "manufacturer": "Topics Entertainment",
+      "upc": "781735811252",
+      "model": "81125",
+      "brand": "TOPICS Entertainment",
+      "operatingsystem": "Mac OS X",
+      "sitedetails": [
+        {
+          "sku": "9SIA1FS0NS0005",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1FS0NS0005",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1382729900,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "firstrecorded_at": 1379576500,
+              "id": "0QDS4VMaJryeqyu80mAeUK",
+              "seller": "Newegg",
+              "currency": "USD",
+              "price": "33.04",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1378304000,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "firstrecorded_at": 1378304000,
+              "seller": "Humble Brothers LLC",
+              "id": "7Y8lVXI6TogIEgW24sISIc",
+              "currency": "USD",
+              "price": "40.49",
+              "isactive": 0
+            },
+            {
+              "availability": "Was: $43.72 [BBX: Buy Box]",
+              "lastrecorded_at": 1364030200,
+              "id": "5oVkqJQMhEgiiiOAoUuW2W",
+              "seller": "Cheapees",
+              "currency": "USD",
+              "price": "33.04",
+              "shipping": "5.99",
+              "firstrecorded_at": 1364030200,
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "CUB_81125",
+          "url": "http://www.jr.com/topics-entertainment/pe/CUB_81125",
+          "name": "jr.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1398253100,
+              "currency": "USD",
+              "price": "22.99",
+              "id": "3JvZf3aNXy8oi0KGwa2y66",
+              "seller": "JR",
+              "lastrecorded_at": 1398253100,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1394697200,
+              "id": "5vBlndv93giwEEIM0wiW0K",
+              "seller": "JR",
+              "currency": "USD",
+              "price": "19.97",
+              "lastrecorded_at": 1397729900,
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "id": "63VuVxUbdgOAK4aySQOSAM",
+              "currency": "USD",
+              "price": "29.99",
+              "firstrecorded_at": 1388155900,
+              "lastrecorded_at": 1388155900,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388754900,
+              "id": "1oDCDk5S9wUMIwOosgcESy",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "price": "35.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390107200,
+              "availability": "OUT OF STOCK",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=583299",
+          "sku": "583299"
+        }
+      ],
+      "updated_at": 1463792619,
+      "weight": "181436.95",
+      "category": "Education & Reference",
+      "name": "Instant Immersion French Levels 1, 2 & 3",
+      "created_at": 1357723446,
+      "ean": "0781735811252",
+      "price": "25.99",
+      "cat_id": "17135",
+      "gtins": [
+        "00781735811252"
+      ],
+      "variation_secondaryids": [
+        "45pwupcRPMOU0ce8ycyuga",
+        "7GTMjSuz1kwKKuycg04Cwa"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Learn Arabic: Rosetta Stone Arabic - Level 1-3 Set [PC/Mac Disc]",
+      "length": "79.50",
+      "cat_id": "17135",
+      "size": "Level 1, 2, 3 Set",
+      "updated_at": 1463801038,
+      "features": {
+        "Mac Additional Requirements": "Broadband Internet service required to access online features, USB port for headset with microphone",
+        "PC Processor Type": "IntelÂ® Atomâ¢ processor, x86-compatible processor",
+        "Mac Drive Type and Speed": "CD",
+        "PC Additional Requirements": "Broadband Internet service required to access online features, USB port for headset with microphone, 2.33GHz or faster processor speed for x86-compatible processors",
+        "Mac Video": "1024 x 768 video card",
+        "Mac Hard Drive Space": "3GB per level",
+        "PC Drive Type and Speed": "CD",
+        "PC Video": "1024 x 768 video card",
+        "Mac Processor Speed": "1.33GHz",
+        "PC Operating System": "Windows XP with Service Pack 3, Windows Vista with Service Pack 2, Windows 7, Windows 8",
+        "Mac Operating System": "Macintosh System 10.6 or later",
+        "Mac Processor Type": "IntelÂ® Core Duo processor",
+        "Platform": "Mac/Windows",
+        "PC Hard Drive Space": "3GB per level",
+        "Mac System Memory": "1GB RAM",
+        "PC Processor Speed": "1.6GHz",
+        "PC System Memory": "1GB RAM"
+      },
+      "upc": "794678301032",
+      "ean": "9781608299584",
+      "height": "196.85",
+      "weight": "861825.50",
+      "brand": "Rosetta Stone",
+      "width": "165.10",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "model": "27746",
+      "category": "Education & Reference",
+      "price": "169.00",
+      "sem3_id": "5dqExlBjOa6SKIMwSEsAS2",
+      "manufacturer": "Rosetta Stone",
+      "created_at": 1348673674,
+      "color": "Yellow",
+      "operatingsystem": "Mac OS X 10.6+",
+      "sitedetails": [
+        {
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_30103",
+          "listprice": "399.00",
+          "recentoffers_count": 1,
+          "sku": "FLT_30103",
+          "listprice_currency": "USD",
+          "name": "jr.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "2UhQpKYMkO604yagKQguwC",
+              "firstrecorded_at": 1388156200,
+              "lastrecorded_at": 1388156200,
+              "seller": "JR",
+              "price": "259.35",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "mpn": "27746",
+      "gtins": [
+        "00794678301032",
+        "09781608299584"
+      ],
+      "variation_secondaryids": [
+        "6tmeE8YXuwwWWYaOEOeCkM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "created_at": 1348680749,
+      "sem3_id": "3wbE4A2U4mQMOumUMaYCkS",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Media": "CD-ROM",
+        "Release Date": "September 14, 2010"
+      },
+      "name": "Rosetta Stone V4 TOTALe: Greek Level 1-3 [PC/Mac Disc]",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_31203",
+          "name": "jr.com",
+          "sku": "FLT_31203",
+          "latestoffers": [
+            {
+              "id": "5DWDVK6gI4sIA02EAI04Cc",
+              "price": "259.35",
+              "firstrecorded_at": 1388156200,
+              "currency": "USD",
+              "seller": "JR",
+              "lastrecorded_at": 1388156200,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1396519700,
+              "price": "399.00",
+              "id": "1JnOe4GEasA8Qce0OwMU4c",
+              "lastrecorded_at": 1396519700,
+              "seller": "JR",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "weight": "816466.27",
+      "updated_at": 1458941996,
+      "operatingsystem": "Mac OS X 10.6+",
+      "size": "Level 1, 2, 3 Set",
+      "manufacturer": "Rosetta Stone",
+      "upc": "794678312038",
+      "category": "Education & Reference",
+      "cat_id": "17135",
+      "brand": "Rosetta Stone",
+      "price": "169.00",
+      "model": "27803",
+      "ean": "9781617160158",
+      "gtins": [
+        "00794678312038",
+        "09781617160158"
+      ],
+      "variation_secondaryids": [
+        "6mMRBGQP1UauSU0GmOEWEi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Individual Software",
+      "weight": "77110.70",
+      "features": {
+        "Subcategory": "CBT - typing",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Microsoft Windows Vista / 2000 / XP - Pentium - HD 250 MB",
+        "License Type": "Complete package",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "Package Type": "Retail",
+        "OS Required": "Microsoft Windows 2000, Microsoft Windows XP, Microsoft Windows Vista",
+        "Platform": "Windows",
+        "Peripheral / Interface Devices": "Sound card, mouse or compatible device, CD-ROM, speakers",
+        "License Qty": "1 user",
+        "Version": "17.0"
+      },
+      "cat_id": "13246",
+      "category": "Typing",
+      "name": "Typing Quick & Easy 17 [Box, PC Disc]",
+      "sem3_id": "68HeDGiVE0642cmiIY6kEG",
+      "ean": "0018527101827",
+      "sitedetails": [
+        {
+          "sku": "5299797",
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/5299797",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "14.99",
+              "currency": "USD",
+              "id": "6UKPvhVqa0qY8QGykQ8qGi",
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1372167300,
+              "seller": "Frys",
+              "lastrecorded_at": 1463645500,
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "13.42",
+              "availability": "In Stock",
+              "currency": "USD",
+              "id": "2vsLNS5luqsMkmWCImGoSY",
+              "firstrecorded_at": 1390944600,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1458190200,
+              "seller": "DataVision Computer Video",
+              "isactive": 1
+            },
+            {
+              "availability": "In Stock",
+              "currency": "USD",
+              "id": "4kjUJjo5XUWUqI6eSOiQUA",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388754700,
+              "lastrecorded_at": 1390272900,
+              "seller": "DataVision Computer Video",
+              "price": "33.99",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=660467",
+          "sku": "660467"
+        },
+        {
+          "sku": "272959",
+          "name": "quill.com",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "3ZXgnlCCb2emCMKKU4Iogs",
+              "availability": "Available",
+              "firstrecorded_at": 1463378800,
+              "seller": "Quill",
+              "lastrecorded_at": 1463690400,
+              "price": "12.49",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1463080100,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "249C7o13nAQSOA86ckgMCu",
+              "seller": "Quill",
+              "lastrecorded_at": 1463080100,
+              "price": "13.22",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1462787800,
+              "seller": "Quill",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "7Iezh5fUUCQKwu2smWEQsO",
+              "firstrecorded_at": 1461050500,
+              "price": "12.49",
+              "isactive": 0
+            }
+          ],
+          "listprice": "14.69",
+          "url": "http://www.quill.com/honest-tech-fireman-3-0/cbs/272959.html"
+        }
+      ],
+      "mpn": "QMM-T17",
+      "model": "2224562",
+      "upc": "018527101827",
+      "created_at": 1348701488,
+      "platform": "Windows 7",
+      "operatingsystem": "Windows 7",
+      "brand": "Individual Software, Inc.",
+      "updated_at": 1463690459,
+      "price": "12.49",
+      "gtins": [
+        "00018527101827"
+      ],
+      "variation_secondaryids": [
+        "5ec664249YaWwUUc8acsWw",
+        "1inOEj63MCKCcWgsWcak4y"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "17135",
+      "brand": "Nova Development US",
+      "weight": "680388.55",
+      "upc": "727298402445",
+      "manufacturer": "Nova Development US",
+      "model": "SFW",
+      "sem3_id": "0PiNAVSZGuc8UqyS8KKq6A",
+      "name": "Nova Scrapbook Factory Deluxe 3.0",
+      "features": {
+        "Software Sub Type": "Image Collection/Management",
+        "Software Main Type": "Graphics/Multimedia",
+        "Platform Supported": "PC",
+        "Software Name": "Scrapbook Factory v.3.0 Deluxe",
+        "Platform": "PC",
+        "Operating System Supported": "Windows",
+        "Model Number NR": "40300"
+      },
+      "category": "Education & Reference",
+      "updated_at": 1463775493,
+      "created_at": 1348698996,
+      "mpn": "40300",
+      "operatingsystem": "Windows 98",
+      "sitedetails": [],
+      "platform": [
+        "Windows 98",
+        "Windows 2000",
+        "Windows Me",
+        "Windows XP"
+      ],
+      "ean": "0727298403008",
+      "price": "3.98",
+      "gtins": [
+        "00727298402445",
+        "00727298403008"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

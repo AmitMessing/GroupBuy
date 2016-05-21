@@ -1,0 +1,545 @@
+{
+  "total_results_count": 12516,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "id": "49RiNFDGwK8gqEeCasKiM8",
+              "availability": "In Stock",
+              "price": "20.78",
+              "currency": "USD",
+              "lastrecorded_at": 1418239300,
+              "firstrecorded_at": 1418239300,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/35752214",
+          "recentoffers_count": 0,
+          "sku": "35752214"
+        }
+      ],
+      "features": {
+        "Shipping Weight (in pounds)": "1.0",
+        "Assembled in Country of Origin": "Imported",
+        "Product in Inches (L x W x H)": "0.5 x 2.0 x 1.5",
+        "Origin of Components": "Imported"
+      },
+      "updated_at": 1462704865,
+      "cat_id": "7211",
+      "brand": "Fantasyard",
+      "width": "0.38",
+      "weight": "28349.52",
+      "sem3_id": "3ku0zuQFMWwsS2Iy42w0EO",
+      "created_at": 1347581915,
+      "name": "Amethyst Vintage Style Octopus Pin Austrian Crytsal Pin Brooch",
+      "price": "10.99",
+      "category": "Brooches & Pins",
+      "manufacturer": "Fantasyard",
+      "model": "100 295A",
+      "height": "0.51",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0726500398316",
+      "created_at": 1347661178,
+      "length": "0.51",
+      "sem3_id": "4SfCFg9QvI4AaQ8iU268KM",
+      "name": "Liz Palacios \"Piedras\" Swarovski Elements Crystal and Pearl Starburst Pin",
+      "updated_at": 1462712641,
+      "category": "Brooches & Pins",
+      "mpn": "PP-2",
+      "features": {
+        "International Shipping": "This item can be shipped to select countries outside of the U.S. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "Origin": "USA"
+      },
+      "upc": "726500398316",
+      "cat_id": "7211",
+      "weight": "90718.47",
+      "price": "120.00",
+      "model": "PP 2",
+      "color": "gold",
+      "sitedetails": [],
+      "manufacturer": "LIZ Palacios",
+      "brand": "Liz Palacios",
+      "gtins": [
+        "00726500398316"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462651810,
+      "model": "br082 d",
+      "manufacturer": "BERRICLE",
+      "cat_id": "7211",
+      "created_at": 1347659953,
+      "weight": "453592.37",
+      "sem3_id": "4a0M2bb2IaUAGWCc0eOOWu",
+      "brand": "BERRICLE",
+      "price": "14.90",
+      "category": "Brooches & Pins",
+      "sitedetails": [
+        {
+          "listprice": "34.00",
+          "name": "newegg.com",
+          "listprice_currency": "USD",
+          "sku": "9SIA00J0193691",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "2z9fXM7ClEMOQEWswSSq0e",
+              "seller": "BERRICLE",
+              "firstrecorded_at": 1456264000,
+              "price": "14.90",
+              "availability": "Available",
+              "lastrecorded_at": 1462651800,
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1442109100,
+              "availability": "Available",
+              "price": "14.90",
+              "lastrecorded_at": 1462651800,
+              "id": "5OyMj6c9qaUKiWuKwW6qMA",
+              "seller": "Newegg",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "14.00",
+              "firstrecorded_at": 1427045900,
+              "lastrecorded_at": 1454985700,
+              "id": "0UpMEdEssWOeqECgW2CC2g",
+              "seller": "BERRICLE",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA00J0193691",
+          "recentoffers_count": 2
+        }
+      ],
+      "features": {
+        "Adjustable": "No",
+        "Occasion": "Valentine's Day",
+        "Condition": "New",
+        "Design": "Names, ID's & Initials",
+        "Gift Box": "Gift Box",
+        "Stone": "Crystal",
+        "Resizable": "No",
+        "Material": "Brass",
+        "Gender": "Female",
+        "Age": "Adult"
+      },
+      "name": "BERRICLE Silver-Tone Rhinestone Initial Letter \"D\" Brooch",
+      "mpn": "br082-d",
+      "variation_secondaryids": [
+        "6Ahz1ERXUWOEGuK0aUCeym"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347514357,
+      "cat_id": "7211",
+      "price": "14.90",
+      "features": {
+        "Age": "Adult",
+        "Occasion": "Valentine's Day",
+        "Stone Shape": "Round",
+        "Resizable": "No",
+        "Condition": "New",
+        "Gender": "Female",
+        "Stone": "Crystal",
+        "Material": "Brass",
+        "Adjustable": "No",
+        "Gift Box": "Gift Box",
+        "Design": "Names, ID's & Initials"
+      },
+      "category": "Brooches & Pins",
+      "model": "br098 C",
+      "updated_at": 1462652399,
+      "manufacturer": "BERRICLE",
+      "mpn": "br098-C",
+      "name": "BERRICLE Gold-Tone Rhinestone Initial Letter \"C\" Brooch",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462652300,
+              "id": "7MffSbR3UOmuWsM0OoSgSQ",
+              "seller": "BERRICLE",
+              "firstrecorded_at": 1456272600,
+              "currency": "USD",
+              "price": "14.90",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "price": "14.90",
+              "lastrecorded_at": 1462652300,
+              "firstrecorded_at": 1448840800,
+              "seller": "Newegg",
+              "id": "4Afwmzy11E4aUWgw2UyseY",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "14.00",
+              "lastrecorded_at": 1455084100,
+              "firstrecorded_at": 1448840800,
+              "id": "6MtmDFuaw4gkMQkSyM4mMC",
+              "seller": "BERRICLE",
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA00J0193736",
+          "sku": "9SIA00J0193736",
+          "listprice_currency": "USD",
+          "listprice": "34.00",
+          "recentoffers_count": 2
+        }
+      ],
+      "sem3_id": "7Vcm9djpz6sMwgMwEUSoq2",
+      "brand": "BERRICLE",
+      "weight": "453592.37",
+      "variation_secondaryids": [
+        "1WGggRujoeI2AQGusweeQs"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "67.90",
+      "name": "St Justin, Pewter Large Celtic Penannular Brooch",
+      "sitedetails": [],
+      "sem3_id": "1gfhDkdEjgWiA4yc0iiioa",
+      "cat_id": "7211",
+      "created_at": 1381739707,
+      "mpn": "PB162",
+      "category": "Brooches & Pins",
+      "updated_at": 1456965852,
+      "features": {
+        "Shipping Information": "View shipping rates and policies"
+      },
+      "model": "PB162",
+      "ean": "5055060554616",
+      "manufacturer": "St Justin",
+      "brand": "St Justin",
+      "gtins": [
+        "05055060554616"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "SS Y 2428",
+      "brand": "Summit",
+      "name": "Peacock Feather Brooch - Collectible Jewelry Accessory Pin Jewel",
+      "ean": "0804112024288",
+      "price": "12.99",
+      "manufacturer": "Summit",
+      "sem3_id": "0vZeLldBBiquYa2WoeSQqq",
+      "upc": "804112024288",
+      "created_at": 1347804766,
+      "features": {
+        "Metal stamp": "Not stamped",
+        "Item SKU": "SS-Y-2428",
+        "Dimensions": "H: 2 (inches)",
+        "Metal": "Pewter",
+        "Condition": "Brand New",
+        "Brand, Seller, or Collection Name": "Summit",
+        "Crafted with": "Lead Free Pewter"
+      },
+      "weight": "172932.09",
+      "updated_at": 1456897431,
+      "category": "Brooches & Pins",
+      "mpn": "SS-Y-2428",
+      "sitedetails": [],
+      "cat_id": "7211",
+      "gtins": [
+        "00804112024288"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "33l70lE22aMIGac8iCCKU4",
+      "price": "51.90",
+      "manufacturer": "St Justin",
+      "updated_at": 1460726948,
+      "features": {
+        "Shipping Information": "View shipping rates and policies"
+      },
+      "model": "PB85",
+      "created_at": 1381744554,
+      "name": "St Justin, Pewter Chalice Well Brooch",
+      "mpn": "PB85",
+      "cat_id": "7211",
+      "sitedetails": [],
+      "ean": "5055060532843",
+      "category": "Brooches & Pins",
+      "brand": "St Justin",
+      "gtins": [
+        "05055060532843"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Fantasyard",
+      "mpn": "100-287A",
+      "name": "Vintage Style Black Flower Pearl Pin Brooch and Pendant",
+      "brand": "Fantasyard",
+      "updated_at": 1463183161,
+      "cat_id": "7211",
+      "sem3_id": "5cdkJFIM7s400ie0OuGI68",
+      "width": "0.54",
+      "price": "17.59",
+      "sitedetails": [
+        {
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Fantasyard-Flower-Pearl-Pin-Brooch-Pendant-100-287A-FNYD1451.html",
+          "sku": "FNYD1451",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "4HOOtGg9hQss22ik2yCk2Q",
+              "seller": "Wayfair",
+              "currency": "USD",
+              "price": "21.00",
+              "lastrecorded_at": 1411386100,
+              "availability": "In Stock",
+              "firstrecorded_at": 1400353800,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1393908900,
+              "availability": "In Stock",
+              "price": "19.89",
+              "firstrecorded_at": 1393908900,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "id": "7UgqlwCRcW20EIyISUAMWe",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "currency": "USD",
+              "id": "5qCXRHgF04yGyykAGkaCcY",
+              "firstrecorded_at": 1392107200,
+              "lastrecorded_at": 1392138100,
+              "availability": "In Stock",
+              "price": "18.70",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "category": "Brooches & Pins",
+      "weight": "28349.52",
+      "height": "0.54",
+      "created_at": 1347472987,
+      "model": "100 287A",
+      "features": {
+        "Lifestage": "Adults; Teens",
+        "Gender": "Womens",
+        "Product Type": "Floral",
+        "Material": "Base Metal"
+      },
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Fantasyard",
+      "created_at": 1347806324,
+      "brand": "Fantasyard",
+      "category": "Brooches & Pins",
+      "height": "0.38",
+      "features": {
+        "Color: 2": "Red",
+        "Product Type": "Floral",
+        "Color: 1": "Green",
+        "Material": "Base Metal"
+      },
+      "width": "0.51",
+      "weight": "28349.52",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "5k9Qa7pr3Q0Wc02IKIi8qk",
+              "price": "21.10",
+              "availability": "In Stock",
+              "firstrecorded_at": 1401654500,
+              "lastrecorded_at": 1408961800,
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "id": "3ZHXZrxlmC4wkwSgwuWgWe",
+              "price": "18.80",
+              "availability": "In Stock",
+              "firstrecorded_at": 1392147400,
+              "lastrecorded_at": 1392147400,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "6YSsJf8eHI4eo4egeuASky",
+              "price": "19.10",
+              "availability": "In Stock",
+              "firstrecorded_at": 1389793200,
+              "lastrecorded_at": 1389793200,
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "sku": "FNYD1379",
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Fantasyard-Christmas-Poinsettia-Flower-Crystal-Brooch-100-122B-FNYD1379.html",
+          "recentoffers_count": 0
+        }
+      ],
+      "price": "12.59",
+      "name": "Christmas Poinsettia Flower Pin Brooch",
+      "model": "100 122B",
+      "sem3_id": "6Ovpja6phgGAcyYooIeAQw",
+      "cat_id": "7211",
+      "updated_at": 1463202885,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "3CgHJ97i0O0U6Wu8qyU2WW",
+      "name": "Made in America Scalloped Heart USA Flag Pin",
+      "category": "Brooches & Pins",
+      "created_at": 1375062183,
+      "brand": "1928 Jewelry",
+      "color": "Silver - Red - White - Blue",
+      "ean": "0011996324537",
+      "width": "38.10",
+      "sitedetails": [
+        {
+          "sku": "1832524_95601729",
+          "name": "kohls.com",
+          "listprice_currency": "USD",
+          "recentoffers_count": 1,
+          "listprice": "24.00",
+          "url": "http://www.kohls.com/product/prd-1832524/1928-american-flag-heart-pin.jsp",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "18.00",
+              "id": "788gdj6xhQg2eGimgIYO8u",
+              "lastrecorded_at": 1463296100,
+              "firstrecorded_at": 1461770900,
+              "seller": "Kohl's.com",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "24.00",
+              "id": "4BIv9arh6e0EQMAs44Y0aw",
+              "lastrecorded_at": 1461164100,
+              "seller": "Kohl's.com",
+              "availability": "Available",
+              "firstrecorded_at": 1461164100,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1460375800,
+              "availability": "Available",
+              "seller": "Kohl's.com",
+              "lastrecorded_at": 1460672100,
+              "id": "54Pu5r1gLgWOkiIeGoeCYM",
+              "price": "18.00",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "length": "38.10",
+      "manufacturer": "1928 Jewelry",
+      "price": "18.00",
+      "cat_id": "7211",
+      "updated_at": 1463296160,
+      "weight": "45359.24",
+      "features": {
+        "Brand, Seller, or Collection Name": "1928 Jewelry",
+        "Material": "Enamel, Epoxy",
+        "Metal": "Base",
+        "Package": "Classic Medium Box",
+        "Product Dimensions": "3.1 x 3.1 x 0.8 inches; 9.6 ounces"
+      },
+      "mpn": "32453",
+      "upc": "011996324537",
+      "model": "32453",
+      "gtins": [
+        "00011996324537"
+      ],
+      "variation_secondaryids": [
+        "0NHF4h3tUvWgM2KgqKiaCK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

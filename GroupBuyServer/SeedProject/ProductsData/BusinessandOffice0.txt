@@ -1,0 +1,584 @@
+{
+  "total_results_count": 25950,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Microsoft",
+      "updated_at": 1463707872,
+      "created_at": 1348689736,
+      "sem3_id": "1QAZkJwW6G6cQ0wSYEqoMO",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "ean": "0882224263580",
+      "mpn": "W87-02379",
+      "name": "Microsoft Office Small Business 2007 UPGRADE",
+      "manufacturer": "Microsoft Software",
+      "price": "107.00",
+      "weight": "408233.13",
+      "operatingsystem": "Windows",
+      "width": "134.62",
+      "category": "Business & Office",
+      "features": {
+        "Language(s)": "English",
+        "Localization": "United States",
+        "Distribution Media": "CD-ROM",
+        "License Type": "Version upgrade package",
+        "Package Type": "Retail",
+        "License Pricing": "Standard",
+        "Peripheral / Interface Devices": "XGA monitor",
+        "Software Suite Components": "Microsoft Excel, Microsoft Powerpoint, Microsoft Publisher, Microsoft Word, Microsoft Outlook with Business Contact Manager",
+        "License Qty": "1 PC",
+        "System Requirements Details": "Microsoft Windows XP SP2 or later - 500 MHz - RAM 256 MB - HD 2 GB Microsoft Windows Server 2003 SP1 or later - 500 MHz - RAM 256 MB - HD 2 GB",
+        "OS Required": "Microsoft Windows XP SP2 or later, Microsoft Windows Server 2003 SP1 or later",
+        "Platform": "Windows",
+        "Subcategory": "Office applications - office suite"
+      },
+      "height": "38.10",
+      "cat_id": "5007",
+      "length": "187.96",
+      "model": "W87 02379",
+      "upc": "882224263580",
+      "sitedetails": [],
+      "gtins": [
+        "00882224263580"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "61RMgf847UUEgAW62G4ik6",
+      "updated_at": 1463443170,
+      "mpn": "GYD-00001",
+      "height": "33.02",
+      "sitedetails": [],
+      "platform": "Mac OS X",
+      "weight": "45359.24",
+      "model": "GYD 00001",
+      "manufacturer": "Microsoft Software",
+      "upc": "882224897143",
+      "name": "Microsoft Office for Mac 2008 Business Edition",
+      "width": "134.62",
+      "cat_id": "7547",
+      "length": "185.42",
+      "price": "110.49",
+      "ean": "0882224897150",
+      "operatingsystem": "Mac OS X",
+      "category": "Office Suites",
+      "created_at": 1348690291,
+      "features": {
+        "Language(s)": "English",
+        "Platform": "MacOS",
+        "Software Suite Components": "Microsoft Entourage, Microsoft Excel, Microsoft Powerpoint, Microsoft Word",
+        "Distribution Media": "DVD-ROM",
+        "Peripheral / Interface Devices": "DVD-ROM, XGA monitor",
+        "OS Required": "Apple MacOS X 10.4.9 or later",
+        "License Qty": "1 PC",
+        "Subcategory": "Office applications - office suite",
+        "License Type": "Complete package",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Apple MacOS X 10.4.9 - 500 MHz - RAM 512 MB - HD 2.3 GB",
+        "Package Type": "Retail"
+      },
+      "brand": "Microsoft",
+      "gtins": [
+        "00882224897143",
+        "00882224897150"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Nuance Communications, Inc.",
+      "operatingsystem": "Windows 2000",
+      "cat_id": "17052",
+      "platform": [
+        "Windows XP",
+        "Windows Vista",
+        "Windows 7"
+      ],
+      "created_at": 1348672648,
+      "price": "28.50",
+      "features": {
+        "Language(s)": "English",
+        "License Pricing": "Standard",
+        "Software Requirements": "Internet Explorer 6.0 or later",
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows 7, Microsoft Windows Server 2003 SP1, Microsoft Windows Server 2008 R2, Microsoft Windows Server 2008 SP2, Microsoft Windows Server 2008 SP1, Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows Server 2003 R2, Microsoft Windows Server 2003 SP2, Microsoft Windows XP SP3",
+        "Localization": "United States",
+        "Package Type": "Retail",
+        "System Requirements Details": "Microsoft Windows Vista / XP - Pentium - 1 GHz - RAM 1 GB - HD 2.5 GB Microsoft Windows 7 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB Microsoft Windows Server 2003 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB Microsoft Windows Server 2008 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB",
+        "Distribution Media": "DVD-ROM",
+        "Platform": "Windows",
+        "Version": "11",
+        "Bundled with": "Headset",
+        "License Type": "Complete package",
+        "Peripheral / Interface Devices": "Microphone, DVD-ROM, Internet connection, 16 bit sound card",
+        "Subcategory": "Office applications - voice recognition",
+        "License Qty": "1 user"
+      },
+      "manufacturer": "Nuance Communications, Inc.",
+      "model": "K409A G00 11.0",
+      "ean": "0780420122215",
+      "name": "Dragon NaturallySpeaking Home 11",
+      "category": "Voice Recognition",
+      "length": "203.20",
+      "updated_at": 1463464151,
+      "mpn": "K409A-L00-11.0",
+      "sitedetails": [],
+      "height": "63.50",
+      "upc": "780420122215",
+      "width": "139.70",
+      "weight": "226796.18",
+      "sem3_id": "3gBVMD8wk426osoea6uWE0",
+      "gtins": [
+        "00780420122215"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "A709A-X97-11.0",
+      "operatingsystem": "Microsoft Windows 7, Microsoft Windows Vista SP1 and SP2, 32-bit and 64-bit, Microsoft Windows XP SP2 and SP3, 32-bit only, Windows Server 2003 and 2008, SP1, SP2, and R2, 32-bit and 64-bit",
+      "price": "1899.99",
+      "features": {
+        "Package Type": "Retail",
+        "License Type": "Complete package",
+        "Bundled with": "PowerMic II",
+        "Platform": "Windows",
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows Server 2008 R2, Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows XP SP3, Microsoft Windows Server 2003 R2 (32/64-bits), Microsoft Windows Server 2008 R2 x64 Edition, Microsoft Windows 7 (32/64 bits), Microsoft Windows Server 2003 (32/64-bits) SP2, Microsoft Windows Server 2003 (32/64-bits) SP1, Microsoft Windows Server 2008 (32/64-bits) SP1, Microsoft Windows Server 2008 (32/64-bits) SP2",
+        "License Qty": "1 user",
+        "Subcategory": "Office applications - voice recognition",
+        "Software Requirements": "Internet Explorer 7 or later",
+        "System Requirements Details": "Microsoft Windows Vista / XP - 1 GHz - RAM 2 GB - HD 5 GB Microsoft Windows Server 2003 - 1 GHz - RAM 4 GB - HD 5 GB Microsoft Windows Server 2008 - 1 GHz - RAM 4 GB - HD 5 GB Microsoft Windows 7 (32/64 bits) - 1 GHz - RAM 4 GB - HD 5 GB",
+        "License Pricing": "Standard",
+        "Distribution Media": "DVD-ROM",
+        "Version": "11.0",
+        "Peripheral / Interface Devices": "DVD-ROM"
+      },
+      "category": "Voice Recognition",
+      "name": "Nuance Dragon Medical Practice Edition with PowerMic II",
+      "ean": "0780420124509",
+      "cat_id": "17052",
+      "updated_at": 1460583003,
+      "manufacturer": "Nuance",
+      "weight": "453592.37",
+      "created_at": 1348667289,
+      "upc": "780420124509",
+      "brand": "Nuance",
+      "sitedetails": [],
+      "sem3_id": "1cD3gpoiQGQuEo480KSOOg",
+      "gtins": [
+        "00780420124509"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "jr.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1396628500,
+              "seller": "JR",
+              "id": "4Fk6zj0TyCgCgAcoyc22eI",
+              "firstrecorded_at": 1388156200,
+              "price": "249.00",
+              "isactive": 0
+            }
+          ],
+          "sku": "SAJ_PRO2014RT",
+          "url": "http://www.jr.com/sage/pe/SAJ_PRO2014RT"
+        },
+        {
+          "sku": "1055055",
+          "url": "http://www.antonline.com/p_Sage_1055055.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1398769400,
+              "availability": "16 In Stock",
+              "currency": "USD",
+              "id": "692tKWpEtyY6wSwUIUG6oK",
+              "price": "295.64",
+              "firstrecorded_at": 1394761400,
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "price": "273.14",
+              "firstrecorded_at": 1391196400,
+              "id": "5UQwFkRQi8w4qYgE2iG88g",
+              "currency": "USD",
+              "availability": "12 In Stock",
+              "lastrecorded_at": 1393896500,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "category": "Office Suites",
+      "ean": "0040689016145",
+      "sem3_id": "7Q5B1Vh7HkmCE6aEoWCMqk",
+      "mpn": "PRO2014RT",
+      "platform": "Windows",
+      "width": "177.80",
+      "features": {
+        "License Pricing": "Standard",
+        "Service & Support": "New releases update",
+        "Bundled Support": "1 Year Sage Business Care Silver",
+        "Peripheral / Interface Devices": "DVD-ROM, SVGA monitor, Internet connection",
+        "OS Required": "Microsoft Windows 7, Microsoft Windows Vista SP1, Microsoft Windows XP SP3, Windows 8",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "Subcategory": "Business - accounting",
+        "Software Requirements": "Microsoft .NET Framework, Internet Explorer 7",
+        "Package Type": "Retail",
+        "System Requirements Details": "- 2 GHz - RAM 1 GB - HD 1 GB",
+        "Service & Support Details": "New releases update - 1 year Phone consulting - 1 year E-mail consulting - 1 year Web knowledge base access - 1 year Web support - 1 year",
+        "Platform": "Windows",
+        "License Qty": "1 user",
+        "License Type": "Complete package"
+      },
+      "name": "Sage 50 Pro Accounting 2014 US Edition [PC Disc]",
+      "upc": "040689016145",
+      "created_at": 1375056575,
+      "variation_id": "5hj10GSDSqGsCW62ckIywK",
+      "operatingsystem": "Windows 8;Windows 7;Windows Vista;Windows XP",
+      "model": "PRO2014RT",
+      "updated_at": 1463661771,
+      "cat_id": "7547",
+      "height": "76.20",
+      "manufacturer": "Sage Software",
+      "brand": "Sage Software",
+      "length": "254.00",
+      "gtins": [
+        "00040689016145"
+      ],
+      "variation_secondaryids": [
+        "5VdpW7UEOOyO2W8EI6mMia1I"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Intuit, Inc.",
+      "created_at": 1381489384,
+      "cat_id": "5007",
+      "operatingsystem": "Windows 7",
+      "length": "136.65",
+      "width": "50.80",
+      "ean": "0028287043114",
+      "weight": "167829.18",
+      "sem3_id": "3Fh1SiAy7s8eYEac0yikwa",
+      "sitedetails": [
+        {
+          "url": "http://www.officemax.com/technology/software/accounting-finance-tax-software/product-prod5270041",
+          "listprice_currency": "USD",
+          "sku": "prod5270041",
+          "name": "officemax.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1407044600,
+              "id": "1rifPxiPAmUig4cyy0miGO",
+              "price": "299.99",
+              "availability": "Available",
+              "firstrecorded_at": 1407044600,
+              "seller": "Office Max",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "listprice": "399.99"
+        },
+        {
+          "name": "reliable.com",
+          "sku": "relprd4680054_IN04311",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1431285200,
+              "id": "1grl810GNMoW2g6MQUwcUw",
+              "availability": "Available,",
+              "price": "399.95",
+              "seller": "Reliable",
+              "firstrecorded_at": 1424681500,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.reliable.com/technology/product-relprd4680054",
+          "recentoffers_count": 0
+        }
+      ],
+      "features": {
+        "Platform": "Windows",
+        "Warranty": "60 Day Money Back Guarantee",
+        "Product Type": "Box"
+      },
+      "price": "299.99",
+      "variation_id": "6zYX1oEC8WGWC2WWGigW0K",
+      "brand": "Intuit, Inc.",
+      "category": "Business & Office",
+      "name": "QuickBooks Premier 2014 [Old Version] [PC Disc]",
+      "model": "421337",
+      "updated_at": 1460606936,
+      "upc": "028287043114",
+      "height": "190.50",
+      "gtins": [
+        "00028287043114"
+      ],
+      "variation_secondaryids": [
+        "7ijgPpeYq0UygEKgYuCkEy8A"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "45359.24",
+      "price": "27.35",
+      "operatingsystem": "Mac OS X",
+      "category": "Office Suites",
+      "features": {
+        "Distribution Media": "DVD-ROM",
+        "Package Type": "Retail",
+        "System Requirements Details": "Apple MacOS X 10.4.9 - 500 MHz - RAM 512 MB - HD 1.5 GB",
+        "OS Required": "Apple MacOS X 10.4.9 or later",
+        "Platform": "MacOS",
+        "License Type": "Version upgrade package",
+        "Software Suite Components": "Microsoft Entourage, Microsoft Excel, Microsoft Powerpoint, Microsoft Word",
+        "Subcategory": "Office applications - office suite",
+        "License Pricing": "Standard",
+        "License Qty": "1 PC",
+        "Language(s)": "English",
+        "Peripheral / Interface Devices": "DVD-ROM, XGA monitor"
+      },
+      "mpn": "731-01769",
+      "platform": [
+        "Mac",
+        "Mac OS X"
+      ],
+      "manufacturer": "Microsoft Software",
+      "width": "139.95",
+      "updated_at": 1458965185,
+      "name": "Microsoft Office 2008 for Mac Upgrade",
+      "model": "45055G",
+      "length": "189.99",
+      "sem3_id": "1GyGylLnFaaW6IK6qY8iAy",
+      "ean": "0882224544283",
+      "upc": "882224544283",
+      "height": "39.88",
+      "created_at": 1348690301,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK",
+              "seller": "DataVision Computer Video",
+              "price": "174.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "firstrecorded_at": 1388760800,
+              "id": "1nDhRSNAVAu4miAUW6Q8A4",
+              "lastrecorded_at": 1390179500,
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "sku": "474864",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=474864"
+        }
+      ],
+      "brand": "Microsoft",
+      "cat_id": "7547",
+      "gtins": [
+        "00882224544283"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "48.26",
+      "price": "89.00",
+      "length": "198.12",
+      "updated_at": 1461261408,
+      "brand": "Adobe",
+      "category": "Document Management",
+      "model": "22002418",
+      "upc": "883919145037",
+      "sitedetails": [],
+      "features": {
+        "System Requirements Details": "Microsoft Windows Server 2003 SP2 - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows Vista Business (32/64 bits) - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows Vista Enterprise (32/64 bits) - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows Vista Home Basic (32/64 bits) - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows Vista Home Premium (32/64 bits) - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows Vista Ultimate (32/64 bits) - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows XP Home Edition SP2 or later - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows XP Professional SP2 or later - 1.3 GHz - RAM 256 MB - HD 985 MB Microsoft Windows XP Tablet PC Edition SP2 or later - 1.3 GHz - RAM 256 MB - HD 985 MB",
+        "Platform": "Windows",
+        "License Type": "Complete package",
+        "Package Type": "Retail",
+        "License Qty": "1 user",
+        "Software Requirements": "Internet Explorer 6.0",
+        "Subcategory": "Creativity - desktop publishing, office applications - document management",
+        "Version": "9",
+        "License Pricing": "Standard",
+        "OS Required": "Microsoft Windows XP Professional SP2 or later, Microsoft Windows XP Home Edition SP2 or later, Microsoft Windows XP Tablet PC Edition SP2 or later, Microsoft Windows Vista Business (32/64 bits), Microsoft Windows Vista Home Premium (32/64 bits), Microsoft Windows Vista Home Basic (32/64 bits), Microsoft Windows Vista Enterprise (32/64 bits), Microsoft Windows Vista Ultimate (32/64 bits), Microsoft Windows Server 2003 SP2",
+        "Peripheral / Interface Devices": "DVD-ROM, XGA monitor",
+        "Language(s)": "Universal English",
+        "Distribution Media": "DVD-ROM"
+      },
+      "width": "147.32",
+      "name": "Adobe Acrobat Standard 9",
+      "manufacturer": "Adobe",
+      "operatingsystem": "Windows Vista",
+      "cat_id": "19652",
+      "ean": "0883919145013",
+      "created_at": 1348672662,
+      "sem3_id": "6bBopAiBe4wGMWYwOaQCuq",
+      "mpn": "22002420",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP",
+        "Windows"
+      ],
+      "weight": "226796.18",
+      "gtins": [
+        "00883919145037",
+        "00883919145013"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "5007",
+      "brand": "Microsoft Office",
+      "features": {
+        "Item Dimensions L x W x H": "4.72 x 0.98 x 6.69 inches",
+        "Processor Brand": "IBM",
+        "Operating System": "Windows 7, Windows 8",
+        "Processor": "PA-8200",
+        "Hardware Platform": "PC"
+      },
+      "sitedetails": [
+        {
+          "url": "http://www.costco.com/.product.100029285.html",
+          "latestoffers": [
+            {
+              "price": "219.99",
+              "availability": "Available",
+              "lastrecorded_at": 1440524700,
+              "seller": "Costco Wholesale",
+              "firstrecorded_at": 1438612500,
+              "currency": "USD",
+              "id": "4Xbwjf2rbcSGsKYMAW8CSE",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "costco.com",
+          "sku": "100029285"
+        }
+      ],
+      "mpn": "730191",
+      "updated_at": 1463532294,
+      "height": "169.93",
+      "category": "Business & Office",
+      "created_at": 1438612598,
+      "price": "239.99",
+      "length": "119.89",
+      "name": "Microsoft Office Home and Business 2013 (Product Key Card)",
+      "operatingsystem": "Windows 7",
+      "width": "24.89",
+      "sem3_id": "2a4Vt65vNI2CSoUEQoECSi",
+      "platform": "PC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "brand": "Intuit, Inc.",
+      "cat_id": "5007",
+      "name": "QuickBooks Pro 2006",
+      "weight": "136077.71",
+      "updated_at": 1460971639,
+      "features": {
+        "License Pricing": "Standard",
+        "Distribution Media": "CD-ROM",
+        "Platform": "Windows",
+        "Subcategory": "Business - accounting, business - commercial finance / tax preparation, business - payroll software",
+        "OS Required": "Microsoft Windows 2000, Microsoft Windows XP",
+        "License Type": "Complete package",
+        "System Requirements Details": "Pentium II - 500 MHz - RAM 128 MB - HD 850 MB",
+        "License Qty": "1 user",
+        "Software Requirements": "Microsoft .NET Framework 1.1, Internet Explorer 6.0",
+        "Peripheral / Interface Devices": "2x CD-ROM, SVGA monitor",
+        "Package Type": "Retail",
+        "Min Supported Color Depth": "8-bit (256 colors)"
+      },
+      "upc": "028287011823",
+      "operatingsystem": "Windows 2000",
+      "model": "296536",
+      "manufacturer": "Intuit, Inc.",
+      "platform": [
+        "Windows 2000",
+        "Windows XP"
+      ],
+      "category": "Business & Office",
+      "created_at": 1348677388,
+      "sem3_id": "6bz1a3MIKmGUwwmwOyGKQU",
+      "ean": "0028287011823",
+      "mpn": "296536",
+      "price": "399.98",
+      "gtins": [
+        "00028287011823"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

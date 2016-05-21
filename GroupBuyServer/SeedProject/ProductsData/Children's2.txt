@@ -1,0 +1,340 @@
+{
+  "total_results_count": 33976,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "1UnOsdXgm4cagWCIqQoqqq",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "weight": "907184.74",
+      "model": "61296",
+      "cat_id": "14300",
+      "created_at": 1381588160,
+      "brand": "Rosetta Stone",
+      "category": "Children's",
+      "updated_at": 1459161273,
+      "price": "229.00",
+      "upc": "794678612961",
+      "ean": "9781607179399",
+      "sitedetails": [],
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "name": "Rosetta Stone Homeschool Greek Level Level 1-3 Set including Audio Companion",
+      "manufacturer": "Rosetta Stone",
+      "gtins": [
+        "00794678612961",
+        "09781607179399"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows 98",
+      "created_at": 1348705344,
+      "cat_id": "18993",
+      "length": "101.60",
+      "sem3_id": "4vsgQMc43644AOSweICySG",
+      "ean": "0635517083064",
+      "platform": [
+        "Windows 95",
+        "Windows 98",
+        "Mac OS 9 and below"
+      ],
+      "sitedetails": [],
+      "updated_at": 1463182085,
+      "name": "My Amazing Human Body",
+      "weight": "113398.09",
+      "width": "25.40",
+      "price": "11.49",
+      "features": {
+        "Product Dimensions": "4 x 1 x 4 inches ; 4 ounces",
+        "Media": "CD-ROM"
+      },
+      "category": "Science & Nature",
+      "manufacturer": "DK Interactive Learning",
+      "model": "0 7894 8306 8",
+      "brand": "DK",
+      "height": "101.60",
+      "upc": "635517083064",
+      "gtins": [
+        "00635517083064"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "509.52",
+      "manufacturer": "Hooked on Phonics, LLC",
+      "sem3_id": "3PgvWV1FEu0qcyUmI0eiEm",
+      "price": "269.99",
+      "mpn": "016005",
+      "upc": "713974160051",
+      "length": "147.32",
+      "features": {
+        "Product Dimensions": "5.8 x 13 x 20.1 inches"
+      },
+      "category": "Reading & Language",
+      "weight": "5606401.69",
+      "ean": "0713974160051",
+      "width": "330.20",
+      "brand": "Hooked on Phonics",
+      "updated_at": 1459207137,
+      "created_at": 1348681213,
+      "sitedetails": [],
+      "cat_id": "15294",
+      "name": "Hooked on Phonics: Master Reader",
+      "gtins": [
+        "00713974160051"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "price": "229.00",
+      "sem3_id": "7jUKcHYHNAmO8SaS2cYuoA",
+      "upc": "794678617966",
+      "created_at": 1364181593,
+      "weight": "907184.74",
+      "name": "Rosetta Stone Homeschool Japanese Level 1-3 Set including Audio Companion",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Rosetta Stone",
+      "manufacturer": "Rosetta Stone",
+      "cat_id": "14300",
+      "model": "61796",
+      "updated_at": 1459117534,
+      "sitedetails": [],
+      "ean": "9781607179597",
+      "category": "Children's",
+      "gtins": [
+        "00794678617966",
+        "09781607179597"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Clifford the Big Red Dog Learning Activities - PC",
+      "sitedetails": [],
+      "brand": "Scholastic",
+      "manufacturer": "Scholastic",
+      "updated_at": 1460922495,
+      "category": "Early Learning",
+      "created_at": 1348682319,
+      "cat_id": "15055",
+      "weight": "68038.86",
+      "sem3_id": "1xi4euVToqKQKIMkSWoseW",
+      "model": "34397",
+      "platform": [
+        "Mac",
+        "Windows 2000",
+        "Windows XP",
+        "Windows"
+      ],
+      "upc": "078073343973",
+      "operatingsystem": "Windows 2000",
+      "ean": "0078073343973",
+      "mpn": "LKCLILEARJ",
+      "price": "10.99",
+      "features": {
+        "Discontinued by manufacturer": "Yes"
+      },
+      "gtins": [
+        "00078073343973"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "category": "Children's",
+      "manufacturer": "Rosetta Stone",
+      "cat_id": "14300",
+      "ean": "9781607179559",
+      "created_at": 1381596685,
+      "upc": "794678617164",
+      "updated_at": 1460830132,
+      "model": "61716",
+      "brand": "Rosetta Stone",
+      "sitedetails": [],
+      "name": "Rosetta Stone Homeschool Japanese Level 1 including Audio Companion",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "weight": "635029.32",
+      "sem3_id": "6uViiaSKQqYweWimywqmua",
+      "price": "114.00",
+      "gtins": [
+        "00794678617164",
+        "09781607179559"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348689703,
+      "ean": "0020626720564",
+      "platform": [
+        "Windows 98",
+        "Windows 2000",
+        "Windows Me",
+        "Windows XP"
+      ],
+      "cat_id": "20590",
+      "sitedetails": [],
+      "category": "Art & Creativity",
+      "name": "Barbie Beauty Boutique - PC",
+      "features": {
+        "Media": "Video Game",
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "August 26, 2003"
+      },
+      "manufacturer": "Vivendi Universal",
+      "sem3_id": "7S3qayOSYqEGS2cg4mo02c",
+      "operatingsystem": "Windows 2000",
+      "price": "59.99",
+      "updated_at": 1460850949,
+      "upc": "020626720564",
+      "brand": "Vivendi Universal",
+      "mpn": "72056",
+      "gtins": [
+        "00020626720564"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462963193,
+      "sitedetails": [],
+      "features": {
+        "Discontinued by manufacturer": "Yes"
+      },
+      "model": "cs 074",
+      "price": "206.67",
+      "upc": "781735800744",
+      "platform": [
+        "Windows 98",
+        "Windows Me",
+        "Windows 95"
+      ],
+      "operatingsystem": "Windows 98",
+      "manufacturer": "Topics Entertainment",
+      "name": "Discovering Egypt (4 CD-ROM)",
+      "ean": "0781735800744",
+      "sem3_id": "5OkH8hcDfEkCIyMC8GK8su",
+      "cat_id": "18993",
+      "brand": "TOPICS Entertainment",
+      "created_at": 1348669401,
+      "weight": "544310.84",
+      "category": "Science & Nature",
+      "gtins": [
+        "00781735800744"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "manufacturer": "Rosetta Stone",
+      "ean": "9781607179849",
+      "name": "Rosetta Stone Homeschool Russian Level 1-3 Set including Audio Companion",
+      "upc": "794678625961",
+      "created_at": 1381601229,
+      "weight": "952543.98",
+      "sem3_id": "70AQKCa1GCOISEiOMCuwAe",
+      "updated_at": 1453560174,
+      "model": "62596",
+      "cat_id": "14300",
+      "category": "Children's",
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "brand": "Rosetta Stone",
+      "price": "249.00",
+      "sitedetails": [],
+      "gtins": [
+        "00794678625961",
+        "09781607179849"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7003",
+      "created_at": 1348673397,
+      "platform": [
+        "Mac",
+        "Windows"
+      ],
+      "updated_at": 1459360377,
+      "features": {
+        "Release Date": "August 28, 2001",
+        "Media": "Video Game",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "upc": "020626712149",
+      "brand": "Vivendi Universal",
+      "category": "Games",
+      "model": "71214",
+      "manufacturer": "Vivendi Universal",
+      "name": "The Incredible Machine: Even More Contraptions",
+      "price": "99.99",
+      "sem3_id": "4PFKtpq4M4e8WU0Sw40UWO",
+      "sitedetails": [],
+      "ean": "0020626712149",
+      "gtins": [
+        "00020626712149"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

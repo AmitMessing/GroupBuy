@@ -1,0 +1,382 @@
+{
+  "total_results_count": 16409,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "36NYLbv7CK02ucmkm26mW4",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "qvc.com",
+          "sku": "J312372",
+          "url": "http://www.qvc.com/qvc.product.J312372.html",
+          "latestoffers": [
+            {
+              "shipping": "3.00",
+              "lastrecorded_at": 1444539500,
+              "seller": "QVC",
+              "currency": "USD",
+              "firstrecorded_at": 1441623600,
+              "id": "1c9Mak6OICkSIwMMcosGUa",
+              "price": "36.00",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "J312370",
+          "url": "http://www.qvc.com/qvc.product.J312370.html",
+          "name": "qvc.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "48.00",
+              "shipping": "3.00",
+              "lastrecorded_at": 1454884800,
+              "seller": "QVC",
+              "currency": "USD",
+              "firstrecorded_at": 1417002300,
+              "id": "5ukhExUkT28AeWEq0AwoA0",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "category": "Loose Gemstones",
+      "brand": "Siopa",
+      "manufacturer": "JC Walsh",
+      "weight": "5669.90",
+      "length": "270.97",
+      "mpn": "C100",
+      "updated_at": 1463129370,
+      "created_at": 1356291204,
+      "price": "49.95",
+      "features": {
+        "Metal stamp": "Not stamped",
+        "Metal": "Silver plated base",
+        "Origin": "Imported (Ireland)",
+        "Brand, Seller, or Collection Name": "Connemara Marble"
+      },
+      "cat_id": "5947",
+      "model": "C100",
+      "name": "Connemara Irish Marble & Nickle Oval Rosary Beads with St Patrick's Celtic Cross",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "195.00",
+      "width": "13.00",
+      "weight": "294835.04",
+      "updated_at": 1463229127,
+      "features": {
+        "Metal stamp": "Not stamped",
+        "Gem Type": "Opal",
+        "Number of stones": "1",
+        "Metal": "Loose-stone-only",
+        "Stone Length": "18 millimeters",
+        "Inscription": "no",
+        "Minimum clarity": "AA",
+        "Stone Width": "13 millimeters",
+        "Stone shape": "Oval",
+        "Origin": "USA",
+        "Resizable": "No",
+        "Product Dimensions": "6.4 x 2.1 x 0.4 inches; 10.4 ounces",
+        "Minimum total gem weight": "9.37 carats",
+        "Minimum color": "Orange",
+        "Stone Creation Method": "Natural",
+        "Stone Weight": "9.37 carats",
+        "Brand, Seller, or Collection Name": "Mysticdrop"
+      },
+      "created_at": 1356124359,
+      "mpn": "TBR370676",
+      "brand": "Mysticdrop",
+      "sitedetails": [],
+      "sem3_id": "6cQEh5aQoSkWmuYQWsWGGW",
+      "height": "18.00",
+      "category": "Loose Gemstones",
+      "manufacturer": "Mysticdrop",
+      "name": "9.35-9.95 Cts of 18X13 mm AA Oval Brazilian Fire Opal (1 pc) Loose Gemstone",
+      "cat_id": "5947",
+      "model": "TBR370676",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "849.00",
+      "manufacturer": "Charles & Colvard",
+      "created_at": 1347742851,
+      "mpn": "GEM-NCL-SRB-0000009.5-0VG",
+      "category": "Loose Gemstones",
+      "features": {
+        "Lab Created": "Yes",
+        "Stone shape": "Round",
+        "Minimum color": "I-K",
+        "Cut": "Very good cut",
+        "Number of stones": "1",
+        "Stone Treatment Method": "Not-known",
+        "Stone Creation Method": "Synthetic",
+        "Brand, Seller, or Collection Name": "Charles & Colvard",
+        "Gem Type": "Moissanite",
+        "Minimum clarity": "VS1-VS2",
+        "Minimum total gem weight": "3.10 carats"
+      },
+      "model": "GEM NCL SRB 0000009.5 0VG",
+      "variation_id": "6Itj3CFiSW4icAUAmQGAga",
+      "sem3_id": "0yeNib4ul2cwIGSeUsw0ka",
+      "name": "Round Moissanite by Charles and Colvard® Loose Stone, Very Good Cut []",
+      "weight": "453592.37",
+      "updated_at": 1462946332,
+      "cat_id": "5947",
+      "sitedetails": [],
+      "brand": "Charles Colvard",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "6Itj3CFiSW4icAUAmQGAga",
+      "model": "GEM NCL SRB 0000014.0 0VG",
+      "category": "Loose Gemstones",
+      "price": "3725.00",
+      "sitedetails": [],
+      "created_at": 1347742851,
+      "mpn": "GEM-NCL-SRB-0000014.0-0VG",
+      "features": {
+        "Lab Created": "Yes",
+        "Stone Treatment Method": "Not-known",
+        "Gem Type": "Moissanite",
+        "Stone shape": "Round",
+        "Stone Creation Method": "Synthetic",
+        "Brand, Seller, or Collection Name": "Charles & Colvard",
+        "Cut": "Very good cut",
+        "Minimum clarity": "VS1-VS2",
+        "Minimum total gem weight": "9.75 carats",
+        "Minimum color": "I-K",
+        "Number of stones": "1"
+      },
+      "manufacturer": "Charles & Colvard",
+      "cat_id": "5947",
+      "weight": "453592.37",
+      "updated_at": 1462608984,
+      "name": "Round Moissanite by Charles and Colvard® Loose Stone, Very Good Cut []",
+      "sem3_id": "5vzhB6rFrsyeo4uq42qOEU",
+      "brand": "Charles Colvard",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462697374,
+      "created_at": 1375451771,
+      "sem3_id": "7Pt3cbU9fk2SAoqaqEQsio",
+      "category": "Loose Gemstones",
+      "name": "Frogs Gemstone Carving in Serpentine for Collector",
+      "brand": "AMC",
+      "sitedetails": [],
+      "manufacturer": "AMC",
+      "upc": "887415202263",
+      "cat_id": "5947",
+      "model": "MC01039",
+      "price": "199.00",
+      "features": {
+        "Brand, Seller, or Collection Name": "AMC",
+        "Material": "Serpentine",
+        "Metal stamp": "Not Stamped",
+        "Metal": "No-metal-type"
+      },
+      "mpn": "MC01039",
+      "weight": "1814369.48",
+      "ean": "0887415202263",
+      "gtins": [
+        "00887415202263"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Gem Type": "Moissanite",
+        "Minimum total gem weight": "1.20 carats",
+        "Stone Creation Method": "Synthetic",
+        "Cut": "Very good cut",
+        "Stone shape": "Round",
+        "Minimum color": "I-K",
+        "Brand, Seller, or Collection Name": "Charles & Colvard",
+        "Stone Treatment Method": "Not-known",
+        "Number of stones": "1",
+        "Minimum clarity": "VS1-VS2",
+        "Lab Created": "Yes"
+      },
+      "name": "Round Moissanite by Charles and Colvard® Loose Stone, Very Good Cut []",
+      "mpn": "GEM-NCL-SRB-0000007.0-0VG",
+      "sitedetails": [],
+      "weight": "453592.37",
+      "sem3_id": "61tIZAxAW0K6k8o66MEeSm",
+      "category": "Loose Gemstones",
+      "price": "315.00",
+      "variation_id": "6Itj3CFiSW4icAUAmQGAga",
+      "manufacturer": "Charles & Colvard",
+      "brand": "Charles Colvard",
+      "updated_at": 1462898035,
+      "model": "GEM NCL SRB 0000007.0 0VG",
+      "cat_id": "5947",
+      "created_at": 1347742851,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "3ALUKyJkZkGg8Umi6emwOI",
+      "price": "1665.00",
+      "category": "Loose Gemstones",
+      "weight": "453592.37",
+      "sitedetails": [],
+      "name": "Round Moissanite by Charles and Colvard® Loose Stone, Very Good Cut []",
+      "mpn": "GEM-NCL-SRB-0000011.5-0VG",
+      "features": {
+        "Stone Treatment Method": "Not-known",
+        "Brand, Seller, or Collection Name": "Charles & Colvard",
+        "Number of stones": "1",
+        "Minimum clarity": "VS1-VS2",
+        "Lab Created": "Yes",
+        "Gem Type": "Moissanite",
+        "Minimum total gem weight": "5.37 carats",
+        "Stone Creation Method": "Synthetic",
+        "Cut": "Very good cut",
+        "Stone shape": "Round",
+        "Minimum color": "I-K"
+      },
+      "model": "GEM NCL SRB 0000011.5 0VG",
+      "created_at": 1347742851,
+      "cat_id": "5947",
+      "manufacturer": "Charles & Colvard",
+      "updated_at": 1462897881,
+      "brand": "Charles Colvard",
+      "variation_id": "6Itj3CFiSW4icAUAmQGAga",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462897995,
+      "brand": "Charles Colvard",
+      "manufacturer": "Charles & Colvard",
+      "variation_id": "6Itj3CFiSW4icAUAmQGAga",
+      "created_at": 1347742851,
+      "cat_id": "5947",
+      "model": "GEM NCL SRB 0000008.5 0VG",
+      "mpn": "GEM-NCL-SRB-0000008.5-0VG",
+      "name": "Round Moissanite by Charles and Colvard® Loose Stone, Very Good Cut []",
+      "features": {
+        "Minimum color": "I-K",
+        "Stone shape": "Round",
+        "Cut": "Very good cut",
+        "Stone Creation Method": "Synthetic",
+        "Gem Type": "Moissanite",
+        "Minimum total gem weight": "2.20 carats",
+        "Lab Created": "Yes",
+        "Minimum clarity": "VS1-VS2",
+        "Stone Treatment Method": "Not-known",
+        "Brand, Seller, or Collection Name": "Charles & Colvard",
+        "Number of stones": "1"
+      },
+      "price": "575.00",
+      "category": "Loose Gemstones",
+      "sem3_id": "3tuyWMq24WyGUwY86ys6wM",
+      "weight": "453592.37",
+      "sitedetails": [],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Loose Gemstones",
+      "price": "1435.00",
+      "sem3_id": "77sEOz4nNusYuIkQysOYUe",
+      "sitedetails": [],
+      "weight": "453592.37",
+      "mpn": "GEM-NCL-SRB-0000011.0-0VG",
+      "name": "Round Moissanite by Charles and Colvard® Loose Stone, Very Good Cut []",
+      "features": {
+        "Stone Creation Method": "Synthetic",
+        "Minimum total gem weight": "4.75 carats",
+        "Gem Type": "Moissanite",
+        "Stone shape": "Round",
+        "Minimum color": "I-K",
+        "Cut": "Very good cut",
+        "Minimum clarity": "VS1-VS2",
+        "Number of stones": "1",
+        "Brand, Seller, or Collection Name": "Charles & Colvard",
+        "Stone Treatment Method": "Not-known",
+        "Lab Created": "Yes"
+      },
+      "cat_id": "5947",
+      "created_at": 1347742851,
+      "model": "GEM NCL SRB 0000011.0 0VG",
+      "updated_at": 1462898077,
+      "brand": "Charles Colvard",
+      "manufacturer": "Charles & Colvard",
+      "variation_id": "6Itj3CFiSW4icAUAmQGAga",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "3ZYXqA1gAquO2aaY6QIQCK",
+      "mpn": "GEM-NCL-PRN-0000005.5-0VG",
+      "sitedetails": [],
+      "category": "Loose Gemstones",
+      "features": {
+        "Origin": "Made in USA"
+      },
+      "manufacturer": "Charles & Colvard",
+      "updated_at": 1463020267,
+      "cat_id": "5947",
+      "sem3_id": "3T3DKYeHfs8suWaCo6CqGY",
+      "created_at": 1347488298,
+      "model": "GEM NCL PRN 0000005.5 0VG",
+      "price": "245.00",
+      "brand": "Charles Colvard",
+      "weight": "453592.37",
+      "name": "Moissanite Princess Cut VG Quality 9.0 mm 57 facets, Loose Stone []",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

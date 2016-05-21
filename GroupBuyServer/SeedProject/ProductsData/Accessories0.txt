@@ -1,0 +1,464 @@
+{
+  "total_results_count": 47507,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "6NM4DoPHWKSmWSWKCOMQc6",
+      "category": "Jewelry Armoires",
+      "size": "Large",
+      "price": "321.32",
+      "height": "1016.00",
+      "cat_id": "20298",
+      "color": "Espresso",
+      "features": {
+        "Product Dimensions": "19 x 13 x 40 inches ; 82 pounds",
+        "Origin": "Imported",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "brand": "Nathan Direct",
+      "ean": "0816302010667",
+      "weight": "37194574.34",
+      "upc": "816302010667",
+      "model": "1151E",
+      "manufacturer": "Nathan Direct",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/33735781",
+          "latestoffers": [
+            {
+              "availability": "Out of Stock",
+              "price": "294.89",
+              "currency": "USD",
+              "firstrecorded_at": 1425307100,
+              "id": "3qFmqkI90iusuw0yGoM4Ek",
+              "lastrecorded_at": 1425307100,
+              "seller": "UnbeatableSale.com",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1411786800,
+              "lastrecorded_at": 1420215800,
+              "id": "0hEAwNHWmWEmgi8s8wQewY",
+              "seller": "UnbeatableSale.com",
+              "availability": "Out of Stock",
+              "currency": "USD",
+              "price": "294.98",
+              "isactive": 0
+            },
+            {
+              "id": "4Br0aPq9zsWoGsS6oGOSm8",
+              "lastrecorded_at": 1401517200,
+              "firstrecorded_at": 1401517200,
+              "seller": "UnbeatableSale.com",
+              "availability": "In Stock",
+              "price": "333.72",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "33735781",
+          "recentoffers_count": 0,
+          "name": "walmart.com"
+        }
+      ],
+      "updated_at": 1462930164,
+      "width": "330.20",
+      "length": "482.60",
+      "created_at": 1357375741,
+      "name": "Nathan Direct Lewis 7-Drawer Locking Jewelry Armoire",
+      "gtins": [
+        "00816302010667"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "color": "burlwood oak",
+      "height": "317.50",
+      "sem3_id": "2dYw90BW4GWCWOkaUgIkWe",
+      "price": "110.00",
+      "width": "330.20",
+      "category": "Jewelry Boxes",
+      "model": "0091 11",
+      "manufacturer": "Mele",
+      "created_at": 1348691362,
+      "weight": "4082331.33",
+      "features": {
+        "Product Dimensions": "13 x 6.4 x 12.5 inches ; 6.6 pounds"
+      },
+      "updated_at": 1460269635,
+      "length": "161.80",
+      "size": "13\\",
+      "upc": "739175115751",
+      "brand": "Mele",
+      "name": "Mele & Co. Trinity Wooden Jewelry Box in Burlwood Walnut Finish [13\" x 6 3/8\" x 12 1/2\"]",
+      "mpn": "0079111",
+      "cat_id": "7505",
+      "ean": "0739175115751",
+      "gtins": [
+        "00739175115751"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "updated_at": 1460547710,
+      "category": "Jewelry Boxes",
+      "model": "0074511",
+      "length": "330.20",
+      "width": "209.55",
+      "manufacturer": "Mele and Company",
+      "features": {
+        "Product Dimensions": "13 x 8.2 x 8.8 inches ; 10 pounds"
+      },
+      "price": "100.00",
+      "sem3_id": "54VK5aYfsu0WQEIs6YMYkI",
+      "size": "Large",
+      "cat_id": "7505",
+      "mpn": "0074511",
+      "name": "Mele & Co. Rita Jewelry Box in Mahogany [Mahogany, Large]",
+      "color": "Brown",
+      "height": "222.25",
+      "upc": "739175104540",
+      "brand": "Mele and Company",
+      "weight": "4989516.07",
+      "created_at": 1347674489,
+      "ean": "0739175104540",
+      "gtins": [
+        "00739175104540"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0813373016550",
+      "updated_at": 1461554416,
+      "sitedetails": [],
+      "name": "Best Choice Products Vanity Armoire Makeup Table Set - White",
+      "model": "jewelry-armoires-1062",
+      "features": {
+        "Item Weight": "30 pounds",
+        "Origin": "Made in USA or Imported"
+      },
+      "upc": "813373016550",
+      "cat_id": "20298",
+      "manufacturer": "Sky Enterprise USA",
+      "created_at": 1347764762,
+      "weight": "13607771.10",
+      "category": "Jewelry Armoires",
+      "brand": "Sky Enterprise USA",
+      "price": "159.94",
+      "sem3_id": "43cwhduu1I0O8A2YeaWQUk",
+      "gtins": [
+        "00813373016550"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Powell Merlot Jewelry Armoire [Espresso]",
+      "color": "Black",
+      "price": "119.05",
+      "weight": "18143694.80",
+      "manufacturer": "Powell",
+      "ean": "0066510994901",
+      "category": "Jewelry Boxes",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "sku": "021V004780180001P",
+          "url": "http://www.kmart.com/merlot-jewelry-armoire/p-021V004780180001P",
+          "listprice": "185.00",
+          "recentoffers_count": 1,
+          "name": "kmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1425955200,
+              "seller": "Sears Brands, LLC.",
+              "id": "1mU4qNHpfY4QmscIScoG8K",
+              "lastrecorded_at": 1425955200,
+              "currency": "USD",
+              "price": "166.50",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "length": "787.40",
+      "upc": "066510994901",
+      "model": "398-315",
+      "width": "431.80",
+      "height": "330.20",
+      "cat_id": "7505",
+      "sem3_id": "5akUfTK7e4qAiEeS0miUqS",
+      "brand": "Powell",
+      "mpn": "398-315",
+      "features": {
+        "Assembly": "Ready to assemble",
+        "Audience": "Adult",
+        "Style": "Contemporary",
+        "Locking": "No",
+        "Finish": "Specialty",
+        "Lifestyle": "Casual",
+        "Material": "MDF",
+        "General Warranty": "6 months limited",
+        "Number of Drawers": "5",
+        "Mirror": "Yes",
+        "Hardware Finish": "Polished"
+      },
+      "created_at": 1347738647,
+      "updated_at": 1461545980,
+      "gtins": [
+        "00066510994901"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "J1150ARM L CH",
+      "cat_id": "20298",
+      "brand": "Nathan Direct",
+      "category": "Jewelry Armoires",
+      "sitedetails": [],
+      "weight": "38555351.45",
+      "upc": "816302010650",
+      "features": {
+        "Product Dimensions": "45 x 23 x 17 inches ; 88 pounds"
+      },
+      "height": "1016.00",
+      "width": "482.60",
+      "color": "multicolor",
+      "created_at": 1357409146,
+      "length": "330.20",
+      "ean": "0816302010650",
+      "sem3_id": "3fpfUIHH56mM6Kw2i2CCkq",
+      "price": "385.99",
+      "name": "Marquis 8 Drawer Locking Jewelry Armoire Cherry [Cherry]",
+      "mpn": "J1150ARM-L-CH",
+      "manufacturer": "Nathan's Direct",
+      "updated_at": 1458953463,
+      "gtins": [
+        "00816302010650"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Jewelry Trays",
+      "updated_at": 1458964684,
+      "sitedetails": [],
+      "length": "266.70",
+      "mpn": "1645",
+      "size": "10-1/2\"L x 5-3/5\"W x 11-3/8\"H",
+      "width": "139.70",
+      "color": "Clear",
+      "created_at": 1347666409,
+      "ean": "0080844016450",
+      "cat_id": "13394",
+      "features": {
+        "Product Dimensions": "10.5 x 5.8 x 11.4 inches ; 6.7 pounds",
+        "Origin": "Taiwan"
+      },
+      "height": "285.75",
+      "weight": "45359.24",
+      "upc": "080844016450",
+      "brand": "HomeAndWine.com",
+      "manufacturer": "HomeAndWine.com",
+      "name": "Deluxe 7-Drawer Jewelry Chest with Necklace Keeper",
+      "sem3_id": "76jpshNIaOOCQyWG8SqamK",
+      "model": "1645",
+      "price": "67.98",
+      "gtins": [
+        "00080844016450"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "881 315",
+      "sem3_id": "7SJwLkdyJkC4AIEOYiIOca",
+      "brand": "Powell",
+      "sitedetails": [
+        {
+          "sku": "5440171",
+          "name": "samsclub.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1432822700,
+              "seller": "Sam's West",
+              "id": "3dWOh6b9x2K8cKSa2O0s04",
+              "currency": "USD",
+              "lastrecorded_at": 1460737500,
+              "price": "189.87",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.samsclub.com/prod5440171.ip"
+        }
+      ],
+      "ean": "0066510997865",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "created_at": 1347591886,
+      "mpn": "881-315",
+      "upc": "066510997865",
+      "cat_id": "7505",
+      "name": "Powell \"Classic Cherry\" Jewelry Armoire [\"Classic Cherry\"; Black lining]",
+      "height": "381.00",
+      "category": "Jewelry Boxes",
+      "updated_at": 1460737556,
+      "manufacturer": "Powell",
+      "price": "180.97",
+      "width": "508.00",
+      "weight": "24493987.98",
+      "length": "660.40",
+      "gtins": [
+        "00066510997865"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "7jiXE3q6iGEywSu02qUAwy",
+      "category": "Jewelry Boxes & Organizers",
+      "cat_id": "9212",
+      "brand": "Coaster Home Furnishings",
+      "model": "502551",
+      "mpn": "502551",
+      "created_at": 1348702705,
+      "name": "Kristyna Soft Cream Bonded Leather Sofa by Coaster",
+      "features": {
+        "Assembled Length": "86 inches",
+        "Product Dimensions": "86 x 37 x 34 inches",
+        "Item Weight": "185 pounds",
+        "Assembled Height": "34 inches",
+        "Assembled Width": "37 inches"
+      },
+      "updated_at": 1460895791,
+      "ean": "0021032232016",
+      "manufacturer": "Coaster",
+      "upc": "021032232016",
+      "sitedetails": [],
+      "weight": "83914588.45",
+      "gtins": [
+        "00021032232016"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462063674,
+      "manufacturer": "Sky Enterprise USA",
+      "cat_id": "7505",
+      "name": "TCBunny Wooden Watch Box []",
+      "category": "Jewelry Boxes",
+      "color": "Black",
+      "size": "12 Grids",
+      "ean": "0813373017892",
+      "sem3_id": "0ZzkY0hOeHIoiKACMOaGyK",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/29603405",
+          "recentoffers_count": 0,
+          "sku": "29603405",
+          "latestoffers": [
+            {
+              "id": "0x23K7IF3wWuEGoUIiMoAi",
+              "seller": "Best Choice Products",
+              "firstrecorded_at": 1423384900,
+              "lastrecorded_at": 1423384900,
+              "availability": "Out of Stock",
+              "currency": "USD",
+              "price": "34.95",
+              "isactive": 0
+            },
+            {
+              "price": "34.00",
+              "seller": "Best Choice Products",
+              "id": "4Jvl4OuLk808uW6EgEKUAe",
+              "availability": "Available",
+              "lastrecorded_at": 1417596800,
+              "firstrecorded_at": 1417596800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "34.95",
+              "seller": "Best Choice Products",
+              "id": "2ONp9VcrH2asoIWeWq2Kqs",
+              "availability": "In Stock",
+              "lastrecorded_at": 1413956000,
+              "firstrecorded_at": 1398956000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "features": {
+        "Assembled in Country of Origin": "USA and/or Imported",
+        "Shipping Weight (in pounds)": "1.78",
+        "Origin of Components": "USA and/or Imported"
+      },
+      "brand": "Best Choice Products",
+      "model": "jewelry-boxes-1254",
+      "created_at": 1347668619,
+      "upc": "813373017892",
+      "price": "15.46",
+      "weight": "1814369.48",
+      "gtins": [
+        "00813373017892"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

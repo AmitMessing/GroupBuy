@@ -1,0 +1,369 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0807995076610",
+      "brand": "14k",
+      "updated_at": 1437434184,
+      "variation_id": "5jughEmqS8mcGyAWOcGaosM+",
+      "sem3_id": "2dlro2fa1Io6y622mCiyAA",
+      "sitedetails": [],
+      "category": "Rings",
+      "upc": "807995076610",
+      "created_at": 1435678499,
+      "name": "14k Gold Ring, Cultured Freshwater Pearl (8mm) and Diamond (1/4 ct. t.w.) Ring",
+      "cat_id": "8765",
+      "color": "Sterling Sivler",
+      "price": "199.00",
+      "features": {
+        "Web ID": "1111945"
+      },
+      "gtins": [
+        "00807995076610"
+      ],
+      "variation_secondaryids": [
+        "6VP3e9CQi0s0uSCeI4GsGEM+",
+        "5VqkFV4B9MyEq0as0gk0sMM+",
+        "1pg7WGeYCOGy4IGSA0KYGeM+",
+        "1tXnuDoqhIKQukgq4CSYGEM+",
+        "01pMubVygfMuomG6oi8aGMM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "0vliKpJe1KKQUCgoWi8MscM+",
+      "category": "Rings",
+      "brand": "clearance jewelry",
+      "sitedetails": [],
+      "cat_id": "8765",
+      "sem3_id": "1aEyBlEQiOCEImwKiGUies",
+      "updated_at": 1443400633,
+      "created_at": 1441104369,
+      "color": "No",
+      "ean": "0883954013933",
+      "name": "10k Gold Ring, Garnet (1-1/6 ct. t.w.) and Diamond (1/6 ct. tw.)",
+      "features": {
+        "Web ID": "224629"
+      },
+      "upc": "883954013933",
+      "price": "199.00",
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "14k",
+      "features": {
+        "Diamond Cut": "Full",
+        "Web ID": "1927882",
+        "Diamond Clarity Rating Code": "SI2",
+        "Diamond Color Rating Code": "H-I"
+      },
+      "variation_id": "5ZJeZDTrFYuYGUaAeekGicM+",
+      "sem3_id": "43LEWV3KvA0IMguaaCCmK4",
+      "color": "Yellow Gold",
+      "category": "Rings",
+      "upc": "850679004263",
+      "ean": "0850679004263",
+      "updated_at": 1448523277,
+      "created_at": 1447700318,
+      "name": "Le Vian Chocolate and White Diamond Three-Stone Ring in 14k Rose Gold (1 ct. t.w.)",
+      "price": "789.00",
+      "cat_id": "8765",
+      "sitedetails": [],
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "6kJ6B5tQPICCM2CGeyO20iM+",
+        "3T9lPUb32OsIcsUC8oMi6cM+",
+        "0dHXSNdrFTMisQW6y0IEU6M+",
+        "7DMCzhnk5guGsUacmY0kucM+",
+        "1C8ckkN4aq6ES00wqa0yUSM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347561645,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "shipping": "499.00",
+              "id": "7DN7aF5fI8eiGmiMSmUaQ0",
+              "firstrecorded_at": 1448161000,
+              "currency": "USD",
+              "lastrecorded_at": 1449397400,
+              "seller": "Gem Avenue",
+              "price": "14.00",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1448161000,
+              "availability": "Available",
+              "seller": "Newegg",
+              "lastrecorded_at": 1449397400,
+              "price": "14.99",
+              "id": "3zRozk62DgMaK8KgaASCkk",
+              "isactive": 0
+            },
+            {
+              "shipping": "499.00",
+              "id": "3y1VBUaGQSKyCU2486yoCM",
+              "firstrecorded_at": 1445746300,
+              "currency": "USD",
+              "price": "12.00",
+              "lastrecorded_at": 1447137600,
+              "seller": "Gem Avenue",
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA03Z0F47100",
+          "sku": "9SIA03Z0F47100"
+        }
+      ],
+      "cat_id": "8765",
+      "sem3_id": "6KTDq9zEUiO4uQUYgsoG64",
+      "model": "LWRS011",
+      "updated_at": 1462901339,
+      "brand": "Gem Avenue",
+      "price": "14.99",
+      "manufacturer": "Gem Avenue",
+      "category": "Rings",
+      "variation_id": "5ubTtACnB2eo44OAMeqOeo",
+      "width": "0.51",
+      "features": {
+        "Gift Box": "Gift Box",
+        "Metal Stamp": ".925 Sterling Silver",
+        "Stone": "Turquoise",
+        "Material": "Sterling Silver",
+        "Stone Shape": "Pear",
+        "Resizable": "No",
+        "Occasion": "Engagement",
+        "Age": "Adult",
+        "Adjustable": "No",
+        "Size/Dimensions": "5",
+        "Gender": "Female",
+        "Design": "Insects",
+        "Condition": "New"
+      },
+      "name": "Sterling Silver Teardrop Reconstituted Turquoise Dragonfly Ring []",
+      "mpn": "LWRS011-5",
+      "variation_secondaryids": [
+        "41yWMke4aOwGawamU66asWGL",
+        "7IJ3Jg4K36ciUkqIYKSCok"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462846687,
+      "manufacturer": "Solvar",
+      "category": "Rings",
+      "price": "55.95",
+      "sitedetails": [],
+      "width": "0.06",
+      "cat_id": "8765",
+      "created_at": 1347721418,
+      "features": {
+        "Sizing lower range": "4",
+        "Resizable": "No",
+        "Brand, Seller, or Collection Name": "Solvar",
+        "Metal": "Sterling silver",
+        "Metal stamp": ".925",
+        "Sizing upper range": "10"
+      },
+      "name": "Claddagh Ring Wishbone Ladies Sterling Silver Irish Made []",
+      "variation_id": "2ZZbLtVMGWU0gskSEGEuCc",
+      "sem3_id": "4mOM87cGDgaSOO4Y6uMmwU",
+      "brand": "Solvar",
+      "ean": "5390496176170",
+      "weight": "113398.09",
+      "gtins": [
+        "05390496176170"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "5c7xY5dNwmgOiAquaSS8Cy",
+      "brand": "14k",
+      "cat_id": "8765",
+      "sitedetails": [],
+      "updated_at": 1443385106,
+      "upc": "883954013933",
+      "variation_id": "7MOou4yABkEkY4oyMawuS2M+",
+      "ean": "0883954013933",
+      "name": "14k Gold Peridot (1-1/2 ct. t.w.) and Diamond (1/4 ct. t.w.) Round-Cut Ring",
+      "features": {
+        "Diamond Clarity Rating Code": "I2",
+        "Diamond Cut": "Full",
+        "Diamond Color Rating Code": "I-J",
+        "Web ID": "1429038"
+      },
+      "created_at": 1441106042,
+      "price": "750.00",
+      "category": "Rings",
+      "color": "No",
+      "gtins": [
+        "00883954013933"
+      ],
+      "variation_secondaryids": [
+        "1b8qFboRSWgqQmOuEA2A04M+",
+        "4pw2GPb6HwqOgowMsgi8KoM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "No",
+      "created_at": 1441105982,
+      "cat_id": "8765",
+      "ean": "0883954013933",
+      "sem3_id": "0jD2H65Kgk4miIUqoEki4m",
+      "features": {
+        "Web ID": "329848"
+      },
+      "upc": "883954013933",
+      "sitedetails": [],
+      "updated_at": 1442931919,
+      "variation_id": "1vdP4Mtb2KOsKQ8YAESucGM+",
+      "category": "Rings",
+      "name": "Men's Diamond Ring in Two-Tone 14k Gold ( 1/5 ct. t.w.)",
+      "price": "1050.00",
+      "brand": "14k gold",
+      "gtins": [
+        "00883954013933"
+      ],
+      "variation_secondaryids": [
+        "26mpF7k2j6akq4GG20eWGwM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8765",
+      "upc": "883954013933",
+      "sitedetails": [],
+      "brand": "clearance jewelry",
+      "category": "Rings",
+      "name": "Wrapped in Love Diamond Ring, Sterling Silver Diamond Pave Ring (1 ct. t.w.)",
+      "created_at": 1442931822,
+      "color": "No ",
+      "updated_at": 1442931822,
+      "variation_id": "2rl1T2t7aqOmySysWiee8AM+",
+      "features": {
+        "Diamond Color Rating Code": "L-J",
+        "Diamond Cut": "Single Round",
+        "Diamond Clarity Rating Code": "I3",
+        "Web ID": "999672"
+      },
+      "sem3_id": "5rgFv7YDCqa0woSMwYWa4q",
+      "price": "800.00",
+      "ean": "0883954013933",
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "No ",
+      "sitedetails": [],
+      "name": "Men's Black and White Diamond Square Ring in Sterling Silver (1 ct. t.w.)",
+      "category": "Rings",
+      "brand": "banded",
+      "variation_id": "2vehABxWk40u0sKe2UYWKMM+",
+      "cat_id": "8765",
+      "ean": "0883954013933",
+      "upc": "883954013933",
+      "created_at": 1442931748,
+      "features": {
+        "Diamond Clarity Rating Code": "I2-I3",
+        "Web ID": "589433",
+        "Diamond Color Rating Code": "I-J"
+      },
+      "sem3_id": "7RzThZXslyCeIWSg2ugWKY",
+      "price": "1200.00",
+      "updated_at": 1442931748,
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Rings",
+      "cat_id": "8765",
+      "upc": "883954013933",
+      "variation_id": "0MTn9vV9lqYeuOY6oMkuwIM+",
+      "ean": "0883954013933",
+      "name": "14k Gold and Sterling Silver Ring, Onyx Overlay",
+      "color": "No ",
+      "features": {
+        "Web ID": "475645"
+      },
+      "price": "143.60",
+      "sem3_id": "5cHHyXFNyqkGyiwmsEEMS8",
+      "updated_at": 1441104693,
+      "created_at": 1441104693,
+      "brand": "14k gold",
+      "sitedetails": [],
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "total_results_count": 17111,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "updated_at": 1463123845,
+      "brand": "Ghirardelli",
+      "created_at": 1357227732,
+      "sitedetails": [
+        {
+          "sku": "20695674",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "3.55",
+              "seller": "Walmart",
+              "availability": "Available",
+              "lastrecorded_at": 1460950200,
+              "firstrecorded_at": 1460950200,
+              "id": "4ZbjUWe9qauUOkIEKAIios",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1442951100,
+              "firstrecorded_at": 1438084900,
+              "currency": "USD",
+              "id": "3UXIrRM0bo8YMMqQSOykug",
+              "price": "3.78",
+              "availability": "Available",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "5nW5ZjZQWWEC6omW8ks2yQ",
+              "firstrecorded_at": 1430097500,
+              "lastrecorded_at": 1434539900,
+              "availability": "Available",
+              "seller": "Walmart",
+              "price": "3.28",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/20695674"
+        }
+      ],
+      "manufacturer": "Ghirardelli",
+      "features": {
+        "Shipping Weight (in pounds)": "0.3325",
+        "Assembled in Country of Origin": "USA",
+        "Origin of Components": "USA",
+        "Product in Inches (L x W x H)": "2.0 x 3.9 x 7.25"
+      },
+      "upc": "747599303142",
+      "sem3_id": "5cL5G04fewUkGIcMCES6YG",
+      "model": "60314",
+      "ean": "0747599303142",
+      "name": "Ghirardelli Dark and Caramel Sea Salt, Chocolate Squares, 5.32 oz., 4 Count",
+      "price": "19.20",
+      "weight": "150819.46",
+      "cat_id": "5378",
+      "category": "Chocolate Assortments",
+      "gtins": [
+        "00747599303142"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Chocolate Bars",
+      "features": {
+        "Dietary Fiber": "0 g (0 %)",
+        "Cholesterol": "5 mg (2 %)",
+        "Calcium": "2 %",
+        "Servings Per Container": "36",
+        "Warnings": "Made on equipment that also processes peanuts, egg, and soy.",
+        "Protein": "1 g",
+        "Vitamin C": "0 %",
+        "Trans Fat": "0 g",
+        "Sodium": "90 mg (4 %)",
+        "Sugars": "22 g",
+        "Vitamin A": "0 %",
+        "Serving Size": "1 package",
+        "Ingredients": "Milk Chocolate (Sugar, Cocoa Butter, Chocolate, Nonfat Milk, Lactose, Milkfat, Soy Lecithin, Vanillin - an Artificial Flavor), Corn Syrup, Sugar, High Fructose Corn Syrup, Nonfat Milk, Crisped Rice (Rice Flavor, Sugar, Barley Malt, Salt), Coconut Oil, Butter, Mono- and Diglycerides, Salt, Soy Lecithin, Artificial and Natural Flavor.",
+        "Saturated Fat": "5 g (26 %)",
+        "Total Fat": "8 g (12 %)",
+        "Unit Size": "1.5 oz bars",
+        "Units in Package": "36",
+        "Total Carbohydrate": "30 g (10 %)",
+        "Iron": "0 %"
+      },
+      "name": "Nestle $100 Grand Candy Bar, 36-Count",
+      "created_at": 1348683247,
+      "updated_at": 1463143069,
+      "sitedetails": [],
+      "weight": "1723651.01",
+      "sem3_id": "6Fpnmp1NeimW2oAuKey08A",
+      "brand": "Nestle",
+      "cat_id": "15051",
+      "price": "31.55",
+      "upc": "028000206307",
+      "manufacturer": "Nestle",
+      "mpn": "28000-20636",
+      "ean": "0028000206307",
+      "gtins": [
+        "00028000206307"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Hershey's",
+      "created_at": 1357721783,
+      "model": "White Chocolate with Meltaway Center",
+      "sitedetails": [
+        {
+          "name": "target.com",
+          "sku": "13347724",
+          "latestoffers": [
+            {
+              "id": "6wy7EXUpg8mkC0UMuAyGE8",
+              "firstrecorded_at": 1369561700,
+              "lastrecorded_at": 1371043500,
+              "availability": "Available On back order",
+              "seller": "target.com",
+              "price": "3.69",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.target.com/p/hershey-s-bliss-white-chocolate-candy-8-6-oz/-/A-13347724",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "sku": "22101552",
+          "url": "http://www.walmart.com/ip/22101552",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1456837400,
+              "lastrecorded_at": 1456837400,
+              "id": "35fVZv3ioiaQooM4iwGgEc",
+              "currency": "USD",
+              "seller": "Walmart",
+              "price": "3.84",
+              "availability": "Not Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "price": "3.66",
+              "availability": "Available",
+              "firstrecorded_at": 1427449000,
+              "lastrecorded_at": 1442942700,
+              "id": "3ppsTSG7BY82seOyK8kcau",
+              "isactive": 0
+            },
+            {
+              "id": "78nrZz4UeOak6Ko8MOAiOa",
+              "firstrecorded_at": 1419639500,
+              "lastrecorded_at": 1419639500,
+              "availability": "Available",
+              "price": "3.00",
+              "seller": "Walmart",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "shopfoodex.com",
+          "sku": "47086",
+          "latestoffers": [
+            {
+              "id": "2fr1dMi2UKwCYw4EWUugoG",
+              "lastrecorded_at": 1455755900,
+              "firstrecorded_at": 1449685900,
+              "availability": "In Stock",
+              "currency": "USD",
+              "price": "5.69",
+              "seller": "ShopFoodEx",
+              "isactive": 0
+            },
+            {
+              "id": "0GBjjd2vszAUayGsKYeqOA",
+              "firstrecorded_at": 1403626900,
+              "lastrecorded_at": 1421095100,
+              "availability": "In Stock",
+              "price": "6.99",
+              "seller": "ShopFoodEx",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.shopfoodex.com/hersheys-bliss-white-chocolate-p-47086.html",
+          "recentoffers_count": 0
+        }
+      ],
+      "weight": "453592.37",
+      "length": "304.80",
+      "width": "152.40",
+      "sem3_id": "6D3hFzqHrsEa6We2y2iUo0",
+      "brand": "Hershey's",
+      "category": "Chocolate Bars",
+      "upc": "034000149759",
+      "ean": "0034000149759",
+      "updated_at": 1463653793,
+      "name": "Hershey's Bliss, White Chocolate with Meltaway Center, 8.6-Ounce Bags (Pack of 4)",
+      "cat_id": "15051",
+      "features": {
+        "Serving Size": "6 pieces",
+        "Sugars": "24 g",
+        "Cholesterol": "10 mg (3 %)",
+        "Warnings": "Allergy Information: Manufactured on the same equipment that processes peanuts/tree nuts.",
+        "Vitamin C": "0 %",
+        "Calcium": "10 %",
+        "Units in Package": "1",
+        "Total Carbohydrate": "24 g (8 %)",
+        "Trans Fat": "0 g",
+        "Unit Size": "8.6 oz",
+        "Ingredients": "White Chocolate (Sugar, Cocoa Butter, Nonfat Milk, Milk, Lactose [Milk], Milk Fat, Soy Lecithin, Tocopherols, to Maintain Freshness, Vanillin, Artificial Flavor, Salt), Sugar, Palm Kernel Oil, Whey (Milk), Non Fat Milk, Milk Fat, Milk, Contains 2% or Less of: Soy Lecithin, Salt, Vanillin, Artificial Flavor.",
+        "Sodium": "70 mg (3 %)",
+        "Vitamin A": "0 %",
+        "Protein": "3 g",
+        "Total Fat": "14 g (22 %)",
+        "Dietary Fiber": "0 g (0 %)",
+        "Servings Per Container": "6",
+        "Iron": "0 %",
+        "Saturated Fat": "9 g (45 %)"
+      },
+      "height": "152.40",
+      "gtins": [
+        "00034000149759"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "13.39",
+      "sitedetails": [
+        {
+          "name": "toysrus.com",
+          "url": "http://www.toysrus.com/product/index.jsp?productId=25026246",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "availability": "available",
+              "currency": "USD",
+              "lastrecorded_at": 1443491200,
+              "seller": "Toysrus",
+              "price": "24.99",
+              "firstrecorded_at": 1419597600,
+              "id": "0mnDj9XzEqcgcKgS6OiSaO",
+              "isactive": 0
+            }
+          ],
+          "sku": "25026246"
+        }
+      ],
+      "model": "mark-1hooi-toop01",
+      "mpn": "687711",
+      "upc": "034000215423",
+      "weight": "1723651.01",
+      "manufacturer": "Hershey's",
+      "category": "Chocolate Assortments",
+      "cat_id": "5378",
+      "size": "56 Ounce",
+      "brand": "Hershey's",
+      "updated_at": 1463635711,
+      "created_at": 1348671492,
+      "name": "Hershey's Miniatures Chocolate Assortment, 56 Ounce []",
+      "sem3_id": "783siEmQ7MWuIGqMsgsKWE",
+      "features": {
+        "RWeb#": "323317",
+        "Manufacturer #": "209-00053",
+        "Product Dimensions (in inches)": "10.0 x 8.0 x 6.0"
+      },
+      "ean": "0034000215423",
+      "gtins": [
+        "00034000215423"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "152.40",
+      "created_at": 1356204351,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/26910050",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1440664100,
+              "firstrecorded_at": 1440664100,
+              "seller": "Walmart",
+              "id": "7A5Q42G3maU6e2KOMy8Ce2",
+              "price": "42.81",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "34.47",
+              "id": "50NDIfwUXgyMauwMES8wMY",
+              "seller": "Walmart",
+              "firstrecorded_at": 1435196200,
+              "lastrecorded_at": 1435196200,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1428472500,
+              "lastrecorded_at": 1429852800,
+              "seller": "Walmart",
+              "id": "4cSaYV9KWmAUU0c08iSamC",
+              "price": "30.00",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "26910050",
+          "name": "walmart.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1455170600,
+              "lastrecorded_at": 1457749700,
+              "seller": "Drug Store",
+              "id": "2zKrm897BgM08SW6kSU2os",
+              "price": "28.79",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Drug Store",
+              "lastrecorded_at": 1454024000,
+              "firstrecorded_at": 1447405300,
+              "price": "35.99",
+              "id": "7eNBcMipxuei48qMoKo0ua",
+              "isactive": 0
+            }
+          ],
+          "name": "drugstore.com",
+          "sku": "564358",
+          "url": "http://www.drugstore.com/lindt-lindor-truffles-60-extra-dark-chocolate/qxp564358",
+          "recentoffers_count": 0
+        }
+      ],
+      "name": "Lindt LINDOR 60% Extra Dark Chocolate Truffles, 120 Count [60% Extra Dark]",
+      "category": "Chocolate Truffles",
+      "size": "120 count",
+      "ean": "0037466035253",
+      "cat_id": "21724",
+      "upc": "037466035253",
+      "width": "127.00",
+      "weight": "1632932.53",
+      "mpn": "3552",
+      "sem3_id": "5KvqcQI5mw8K8qi88GAyIo",
+      "features": {
+        "Shipping Weight (in pounds)": "1.8",
+        "Battery Type": "Does Not Contain a Battery",
+        "Multi Pack Indicator": "No",
+        "Product in Inches (L x W x H)": "21.1 x 10.69 x 4.75",
+        "Origin of Components": "USA",
+        "Assembled in Country of Origin": "USA"
+      },
+      "brand": "Lindt",
+      "manufacturer": "Lindt",
+      "length": "279.40",
+      "updated_at": 1463648251,
+      "gtins": [
+        "00037466035253"
+      ],
+      "variation_secondaryids": [
+        "5hGET1pUR6qqAscsSesOA4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Nut Free": "No",
+        "Fat Free": "No",
+        "Dairy Free": "No",
+        "Candy Type": "Chocolate",
+        "Sugar Free": "No",
+        "Kosher": "Yes",
+        "All Natural": "No",
+        "Low Fat": "No",
+        "Gluten Free": "No"
+      },
+      "sitedetails": [],
+      "sem3_id": "1x2eyukkTQECKIek8y4Wgo",
+      "ean": "0040000011231",
+      "category": "Chocolate",
+      "upc": "040000353911",
+      "brand": "Twix",
+      "variation_id": "1iQNwbm0VAqs6w0ggG0Q4Y",
+      "created_at": 1374479905,
+      "size": "1.79 Ounce (Pack of 36)",
+      "name": "TWIX Caramel Singles Size Chocolate Cookie Bar Candy 1.79-Ounce Bar 36-Count Box []",
+      "weight": "1814369.48",
+      "mpn": "025270",
+      "price": "21.94",
+      "cat_id": "6741",
+      "updated_at": 1463710807,
+      "gtins": [
+        "00040000353911",
+        "00040000011231"
+      ],
+      "variation_secondaryids": [
+        "1Fqol2aam4euMaOOq6cyiw1I"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0071720331101",
+      "brand": "Tootsie Roll",
+      "upc": "071720331101",
+      "features": {
+        "Item Weight": "4 pounds",
+        "Country of Origin": "USA",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "created_at": 1357774599,
+      "manufacturer": "Tootsie Roll",
+      "price": "24.77",
+      "weight": "204116.57",
+      "cat_id": "15051",
+      "name": "Charleston Chews, Chocolate,1.875-Ounces Bars (Pack of 24)",
+      "category": "Chocolate Bars",
+      "sem3_id": "78sXobYgKWy8E2SkigwoUc",
+      "updated_at": 1459067116,
+      "sitedetails": [],
+      "gtins": [
+        "00071720331101"
+      ],
+      "variation_secondaryids": [
+        "3nLMDmWx0isUmIgoSYCYSC"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463055892,
+      "features": {
+        "Product in Inches (L x W x H)": "0.78 x 3.7 x 1.29",
+        "Assembled in Country of Origin": "USA",
+        "Origin of Components": "USA",
+        "Shipping Weight (in pounds)": "0.12"
+      },
+      "created_at": 1357849719,
+      "price": "20.68",
+      "height": "30.99",
+      "weight": "2086524.90",
+      "upc": "040000422068",
+      "length": "144.27",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "availability": "Not Available",
+              "currency": "USD",
+              "firstrecorded_at": 1457798500,
+              "lastrecorded_at": 1457798500,
+              "id": "1cIT18u7RAWqyciMgyoOw0",
+              "price": "0.78",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1428835500,
+              "lastrecorded_at": 1442803700,
+              "seller": "Walmart store",
+              "price": "0.74",
+              "id": "2OIIANY1b62sCau2kgQGe8",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1419859800,
+              "currency": "USD",
+              "firstrecorded_at": 1418071200,
+              "availability": "Out of Stock",
+              "seller": "Walmart",
+              "price": "0.74",
+              "id": "1ZQ0uPs2TEsooygeSSwy8C",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "33282373",
+          "url": "http://www.walmart.com/ip/33282373",
+          "name": "walmart.com"
+        }
+      ],
+      "sem3_id": "38Bv00VSICu4iQq8A8gAoe",
+      "category": "Chocolate Bars",
+      "model": "255386",
+      "cat_id": "15051",
+      "manufacturer": "MilkyWay",
+      "name": "MILKY WAY Milk Chocolate Singles Size Candy Bars 1.84-Ounce 36-Count Box []",
+      "size": "Singles",
+      "ean": "0040000422068",
+      "brand": "Milky Way",
+      "mpn": "1101",
+      "gtins": [
+        "00040000422068"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0745998903055",
+      "category": "Chocolate Bars",
+      "name": "Equal Exchange Organic Mint Chocolate, 3.5-Ounce (Pack of 6)",
+      "manufacturer": "Equal Exchange",
+      "sitedetails": [],
+      "weight": "99223.33",
+      "cat_id": "15051",
+      "model": "18604",
+      "sem3_id": "5P5FwUNWQSGIMqoA6O4WCw",
+      "updated_at": 1459053433,
+      "brand": "Equal Exchange",
+      "price": "29.88",
+      "features": {
+        "Unit Size": "3.5 oz",
+        "Trans Fat": "0 g",
+        "Ingredients": "Organic Chocolate Liquor (Fair Trade Ingredient), Organic Raw Cane Sugar (Fair Trade Ingredient), Organic Cocoa Butter (Fair Trade Ingredient), Peppermint Crisps (Organic Cane Sugar [Fair Trade Ingredient], Organic Peppermint Oil), Organic Unrefined Whole Cane Sugar (Fair Trade Ingredient), Organic Ground Vanilla Beans (Fair Trade Ingredient).",
+        "Protein": "2 g",
+        "Vitamin A": "0 %",
+        "Saturated Fat": "10 g (48 %)",
+        "Serving Size": "40 g",
+        "Total Fat": "16 g (24 %)",
+        "Cholesterol": "0 mg (0 %)",
+        "Iron": "28 %",
+        "Sodium": "4 mg (0 %)",
+        "Servings Per Container": "2.5",
+        "Sugars": "17 g",
+        "Units in Package": "1",
+        "Total Carbohydrate": "21 g (7 %)",
+        "Dietary Fiber": "3 g (13 %)",
+        "Calcium": "2 %",
+        "Vitamin C": "0 %",
+        "Warnings": "May contain traces of milk, peanuts, hazelnuts, cashews, pistachios & pecans."
+      },
+      "created_at": 1357701872,
+      "upc": "745998903055",
+      "gtins": [
+        "00745998903055"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "31.75",
+      "manufacturer": "Rocher",
+      "ean": "0009800123124",
+      "features": {
+        "Unit Size": "1.3 oz packs",
+        "Sodium": "15 mg (1 %)",
+        "Trans Fat": "0 g",
+        "Protein": "3 g",
+        "Dietary Fiber": "1 g (6 %)",
+        "Cholesterol": "<5 mg (1 %)",
+        "Ingredients": "Milk Chocolate (Sugar, Cocoa Butter, Cocoa Mass, Skim Milk Powder, Butteroil, Soy Lecithin: an Emulsifier, Vanillin: an Artificial Flavor), Hazelnuts, Sugar, Modified Palm Oil, Wheat Flour, Whey (from Milk), Lowfat Cocoa, Soy Lecithin: an Emulsifier, Skim Milk Powder, Sodium Bicarbonate as Leavening Agent, Salt, Vanillin (an Artificial Flavor).",
+        "Sugars": "15 g",
+        "Vitamin C": "0 %",
+        "Units in Package": "12",
+        "Saturated Fat": "5 g (25 %)",
+        "Calcium": "4 %",
+        "Servings Per Container": "12",
+        "Total Carbohydrate": "16 g (5 %)",
+        "Iron": "4 %",
+        "Directions": "Keep only in a cool, dry place.",
+        "Serving Size": "1 package",
+        "Vitamin A": "0 %",
+        "Total Fat": "16 g (24 %)"
+      },
+      "created_at": 1357698417,
+      "updated_at": 1459075128,
+      "mpn": "1257405",
+      "height": "38.10",
+      "sem3_id": "6WxCG5aVxgAe4IUekqiIms",
+      "brand": "Rocher",
+      "price": "41.99",
+      "weight": "36287.39",
+      "length": "107.95",
+      "cat_id": "6741",
+      "size": "1.3 Ounce (Pack of 24)",
+      "upc": "009800123124",
+      "name": "Ferrero Rocher, 3 Count (Pack of 24)",
+      "category": "Chocolate",
+      "sitedetails": [],
+      "gtins": [
+        "00009800123124"
+      ],
+      "variation_secondaryids": [
+        "4oGhGfh4eGCyQKUOgsU866"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

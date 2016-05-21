@@ -1,0 +1,1371 @@
+{
+  "total_results_count": 2940,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "SH 1506",
+      "sem3_id": "7eG3WQoZ7YYmsskKCc06so",
+      "manufacturer": "Sunpentown",
+      "cat_id": "5506",
+      "width": "412.75",
+      "updated_at": 1463564326,
+      "ean": "0876840001008",
+      "mpn": "SH-1506",
+      "weight": "4626642.17",
+      "features": {
+        "Has Automatic Shutoff": "Y",
+        "Power Type": "Electric",
+        "Recommended Use": "Residential",
+        "Features": "Ceramic",
+        "Assembled Product Weight": "7.00 Pounds",
+        "Condition": "New",
+        "Watts": "1,001 - 1,250",
+        "Maximum Room Size": "sq ft sq ft",
+        "Material": "Ceramic",
+        "For Outdoor Use": "Indoor",
+        "BTU": "1,001 - 5,000",
+        "Assembled Product Dimensions (L x W x H)": "16.75 x 7.00 x 15.00 IN"
+      },
+      "upc": "876840001008",
+      "name": "SPT SH-1506 Ceramic Heater with Humidifier [Grey]",
+      "brand": "Sunpentown",
+      "created_at": 1347575959,
+      "category": "Humidifiers",
+      "length": "469.90",
+      "price": "58.40",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1458302100,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Air and Water Inc",
+              "lastrecorded_at": 1463369200,
+              "id": "3BRO6Olzi4MSiA8MukaIcg",
+              "price": "64.28",
+              "isactive": 1
+            },
+            {
+              "seller": "ShopLadder",
+              "availability": "Available",
+              "id": "70ddwChtCq6a02k4I4kUAq",
+              "lastrecorded_at": 1463369200,
+              "price": "86.48",
+              "firstrecorded_at": 1463369200,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "price": "82.99",
+              "id": "6uLqkv15MGwOu8ESy2GGMG",
+              "lastrecorded_at": 1463369200,
+              "availability": "Available",
+              "seller": "Wayfair",
+              "currency": "USD",
+              "firstrecorded_at": 1463369200,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.walmart.com/ip/5799330",
+          "recentoffers_count": 3,
+          "sku": "5799330"
+        },
+        {
+          "name": "target.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "target.com",
+              "lastrecorded_at": 1463564300,
+              "id": "5BCqD1VdDkM2mIi0846gOC",
+              "price": "58.99",
+              "firstrecorded_at": 1454220900,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1453923900,
+              "currency": "USD",
+              "seller": "target.com",
+              "availability": "Available",
+              "id": "6q0shFYska2ooSEc8Kc0Ki",
+              "lastrecorded_at": 1453923900,
+              "price": "60.99",
+              "isactive": 0
+            },
+            {
+              "price": "58.99",
+              "id": "3EvJ6s3bVwmCeYsq4skgCM",
+              "lastrecorded_at": 1453621700,
+              "seller": "target.com",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1452999300,
+              "isactive": 0
+            }
+          ],
+          "sku": "10421366",
+          "recentoffers_count": 1,
+          "url": "http://www.target.com/p/spt-sh-1506-ceramic-heater-with-humidifier/-/A-10421366"
+        },
+        {
+          "url": "http://www.qvc.com/qvc.product.H354627.html",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1417001900,
+              "currency": "USD",
+              "seller": "QVC",
+              "id": "3pjE2V653w8Maoay0awyKy",
+              "lastrecorded_at": 1463352700,
+              "shipping": "5.00",
+              "price": "75.19",
+              "isactive": 1
+            }
+          ],
+          "sku": "H354627",
+          "recentoffers_count": 1,
+          "name": "qvc.com"
+        }
+      ],
+      "height": "228.60",
+      "color": "Charcoal",
+      "gtins": [
+        "00876840001008"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Vicks",
+      "created_at": 1347710822,
+      "upc": "328785207903",
+      "model": "V790",
+      "weight": "4535923.70",
+      "mpn": "V790N",
+      "gtins": [
+        "00328785207903",
+        "00100177257327",
+        "00132018310434"
+      ],
+      "ean": "0100177257327",
+      "sem3_id": "3VyEAyugdMcU6CggAMIQkq",
+      "price": "73.70",
+      "length": "429.26",
+      "cat_id": "5506",
+      "manufacturer": "Vicks",
+      "features": {
+        "Health Concern": "Congestion, Cold, Cough",
+        "Run Time per Fill": "24",
+        "Product Weight": "8.800",
+        "Warranty Description": "3 Year Limited Manufacturer Warranty",
+        "Product Depth": "15.710",
+        "Humidifier Misting Type": "Warm Mist",
+        "Room Size": "100-300 sq. ft.",
+        "Industry or Government Certifications": "UL Listed",
+        "Specifications": "Number of Speeds",
+        "Product Height": "12.500",
+        "Capacity (volume)": "2.0 Gal.",
+        "Number of Speeds": "3",
+        "Health/Beauty Concern": "Congestion, Cough, Cold",
+        "Includes": "Owner's Manual",
+        "Volts Required": "120.000",
+        "Moisture Output": "2.0 Gal.",
+        "Capacity Total Volume": "2.000",
+        "Humidifier Type": "Evaporative",
+        "Room Size Range": "100-300 Sq. Feet",
+        "Power Source": "Electric",
+        "Misting Type": "Warm Mist",
+        "Product Width": "11.180",
+        "Includes: Hardware": "Owner's Manual"
+      },
+      "updated_at": 1463561504,
+      "height": "345.44",
+      "color": "Blue, White",
+      "width": "312.42",
+      "category": "Humidifiers",
+      "sitedetails": [
+        {
+          "sku": "10757538",
+          "recentoffers_count": 7,
+          "latestoffers": [
+            {
+              "seller": "Pcrush",
+              "firstrecorded_at": 1463189000,
+              "availability": "Available",
+              "price": "95.01",
+              "id": "2QJLTw00QSIO0Oiow2asQQ",
+              "lastrecorded_at": 1463539600,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "seller": "Wayfair",
+              "lastrecorded_at": 1463539600,
+              "currency": "USD",
+              "firstrecorded_at": 1462929700,
+              "availability": "Available",
+              "price": "100.99",
+              "id": "1d7ainXhOWAcEAUoaAwc4S",
+              "isactive": 1
+            },
+            {
+              "seller": "Direct Home Supplies",
+              "id": "3wEbwgRlLsSeqCmAOyoeMu",
+              "price": "97.59",
+              "firstrecorded_at": 1463189000,
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1463539600,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.walmart.com/ip/10757538",
+          "name": "walmart.com"
+        },
+        {
+          "name": "newegg.com",
+          "listprice_currency": "USD",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16896151011",
+          "recentoffers_count": 9,
+          "latestoffers": [
+            {
+              "seller": "TristateCamera",
+              "shipping": "3199.00",
+              "lastrecorded_at": 1463190800,
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1462556200,
+              "price": "86.98",
+              "id": "64UAONrWHQ0C0S0e6eS0gc",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1463190800,
+              "id": "2o92worukCKuOucIaiu6es",
+              "price": "99.92",
+              "availability": "Available",
+              "firstrecorded_at": 1462556200,
+              "seller": "GizmosForLife",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463190800,
+              "currency": "USD",
+              "price": "125.23",
+              "firstrecorded_at": 1462556200,
+              "availability": "Available",
+              "id": "1Yqyhs0KuGUa4EMUq86sKw",
+              "seller": "Mega Retail Store",
+              "isactive": 1
+            }
+          ],
+          "listprice": "102.99",
+          "sku": "N82E16896151011"
+        },
+        {
+          "name": "target.com",
+          "listprice_currency": "USD",
+          "url": "http://www.target.com/p/vicks-germ-free-humidifier-white-blue-v790n/-/A-12729445",
+          "latestoffers": [
+            {
+              "id": "5iXIOKymu0gW2gayQm6ua4",
+              "availability": "Available",
+              "firstrecorded_at": 1462368800,
+              "price": "73.98",
+              "currency": "USD",
+              "lastrecorded_at": 1463561500,
+              "seller": "target.com",
+              "isactive": 1
+            },
+            {
+              "seller": "target.com",
+              "currency": "USD",
+              "lastrecorded_at": 1462048900,
+              "id": "1Hut8ofI84eqC0SUKuOIOM",
+              "firstrecorded_at": 1461746100,
+              "availability": "Available",
+              "price": "79.98",
+              "isactive": 0
+            },
+            {
+              "seller": "target.com",
+              "id": "3BTuGSPS40ysMga0SmcmO8",
+              "availability": "Available",
+              "firstrecorded_at": 1460630900,
+              "price": "73.98",
+              "currency": "USD",
+              "lastrecorded_at": 1461531800,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "12729445",
+          "listprice": "79.98"
+        }
+      ],
+      "size": "-1",
+      "name": "Vicks UV 99.999% Germ Free Humidifier",
+      "variation_secondaryids": [
+        "0OgiA0Qt3U8wAEqOuie2yA",
+        "0b8joqKFYqOc4k6MIIOU2U",
+        "5XqJzbL1BgAwME60UIyaa2",
+        "6obNDq7rmKIeI2woQMmyYm",
+        "7DCcR0GInuCKq00asiWAgm"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463571314,
+      "name": "SPT SU-4010 Ultrasonic Dual-Mist Warm/Cool Humidifier with Ion Exchange Filter - Blue [Blue, 13.2W x 5.3D x 12.4H inches]",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/15054334",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "id": "0CzmsrRZIWWuI6MWkqGIgA",
+              "price": "84.92",
+              "seller": "PlumStruck",
+              "lastrecorded_at": 1463538600,
+              "firstrecorded_at": 1462756400,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "price": "95.86",
+              "id": "1kzsSRfXEOEUUOIUKkICcy",
+              "lastrecorded_at": 1463538600,
+              "seller": "Air and Water Inc",
+              "availability": "Available",
+              "firstrecorded_at": 1461201000,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1463538600,
+              "availability": "Available",
+              "seller": "ShopLadder",
+              "lastrecorded_at": 1463538600,
+              "id": "1fC774ZeKGWEC0cKegUEuK",
+              "price": "93.42",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 3,
+          "sku": "15054334"
+        },
+        {
+          "recentoffers_count": 1,
+          "sku": "10538248",
+          "url": "http://www.target.com/p/sunpentown-dual-mist-humidifier-with-ion-exchange-filter/-/A-10538248",
+          "name": "target.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463571300,
+              "seller": "target.com",
+              "id": "1Uf3kuC2bc4kmEKwi4wAUA",
+              "price": "76.98",
+              "currency": "USD",
+              "firstrecorded_at": 1452700300,
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "id": "6sx6UMf2WmK6eoSyYMY2uI",
+              "price": "76.43",
+              "seller": "target.com",
+              "lastrecorded_at": 1452320700,
+              "firstrecorded_at": 1452320700,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1450378800,
+              "seller": "target.com",
+              "lastrecorded_at": 1452110200,
+              "price": "58.99",
+              "id": "3Pfp0Y7kOuEm2KGUiI4aCq",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "size": "13.2W x 5.3D x 12.4H inches",
+      "width": "228.60",
+      "created_at": 1347492108,
+      "manufacturer": "Sunpentown",
+      "length": "406.40",
+      "upc": "876840000841",
+      "mpn": "SU-4010",
+      "features": {
+        "Product Depth (in.)": "5.3",
+        "Voltage (volts)": "120 V",
+        "Product Width (in.)": "13.2",
+        "Moisture dispersion type": "Cool mist",
+        "Minimum run time (hours/tank)": "12",
+        "Assembled Height (in.)": "12.4 in",
+        "Product Height (in.)": "12.4",
+        "Water vapor output (gallons/day)": "Yes",
+        "ETL Listed": "Yes",
+        "Returnable": "90-Day",
+        "Energy Star Compliant": "No",
+        "Automatic shutoff": "Yes",
+        "Assembled Depth (in.)": "5.3 in",
+        "Control Type": "Analog",
+        "Water Filter Replacement Model#": "F-4010",
+        "Product Weight (lb.)": "7.5",
+        "Air Treatment Product Type": "Tabletop Humidifier",
+        "Automatic moisture control": "No",
+        "Tank Capacity (gallons)": "1.0556 gal (US)",
+        "Assembled Width (in.)": "13.2 in",
+        "Tank empty indicator": "Yes",
+        "Recirculating": "No",
+        "Manufacturer Warranty": "1 Year Limited Manufacturer Warranty",
+        "Timer": "No",
+        "Water Level Indicator": "Yes"
+      },
+      "brand": "Sunpentown",
+      "color": "White",
+      "sem3_id": "4Q3lofFBJ2yiwEiAMMkqOO",
+      "category": "Humidifiers",
+      "cat_id": "5506",
+      "height": "368.30",
+      "model": "SU 4010",
+      "price": "65.17",
+      "weight": "3401942.77",
+      "ean": "0876840000841",
+      "gtins": [
+        "00876840000841"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.target.com/p/vicks-ultrasonic-humidifier-v-5100-n/-/A-10403766",
+          "sku": "10403766",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "4EsGODQxGaUmousEcgwyaw",
+              "firstrecorded_at": 1452700200,
+              "availability": "Available",
+              "seller": "target.com",
+              "price": "49.99",
+              "lastrecorded_at": 1463561400,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1450463700,
+              "id": "1FwYoAlVYiOeQYmaGAcOe2",
+              "currency": "USD",
+              "price": "55.99",
+              "lastrecorded_at": 1452321800,
+              "seller": "target.com",
+              "isactive": 0
+            },
+            {
+              "id": "3WGNs5Ev3oQ22qQCSkW0K2",
+              "firstrecorded_at": 1446511600,
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1450157100,
+              "price": "49.99",
+              "seller": "target.com",
+              "isactive": 0
+            }
+          ],
+          "name": "target.com"
+        },
+        {
+          "sku": "880812",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463362400,
+              "price": "67.98",
+              "seller": "Pcrush",
+              "availability": "Available",
+              "firstrecorded_at": 1462757300,
+              "id": "5C5c5DVffyCqaGMsaQcGyy",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "id": "3Y5aB3VNzysqYYgMgCISKS",
+              "firstrecorded_at": 1463070200,
+              "availability": "Available",
+              "seller": "Darasi Inc",
+              "lastrecorded_at": 1463362400,
+              "price": "84.68",
+              "isactive": 1
+            },
+            {
+              "price": "78.01",
+              "lastrecorded_at": 1463362400,
+              "seller": "Air and Water Inc",
+              "firstrecorded_at": 1462152400,
+              "id": "40294nFjZgQe4sYKwsy82E",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/880812",
+          "recentoffers_count": 8
+        },
+        {
+          "url": "http://www.antonline.com/p_Vicks_635267.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1453828200,
+              "id": "3Qfxp9WvzymW8sOu0uc2Qo",
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1460822100,
+              "price": "72.36",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1451772600,
+              "price": "70.19",
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "firstrecorded_at": 1451772600,
+              "id": "3PtCHZpQtkyAqQU2CEGyE6",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1450754700,
+              "price": "71.63",
+              "seller": "ANTOnline",
+              "id": "1eDyUkEU6Ogos4a0kmyYCm",
+              "firstrecorded_at": 1397412900,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "635267"
+        }
+      ],
+      "cat_id": "5506",
+      "features": {
+        "Technical Information": "Technology",
+        "Controls/Indicators": "Controls",
+        "Tank Capacity": "1.70 gal",
+        "Physical Characteristics": "Color",
+        "Run Time": "20 Hour",
+        "Manufacturer Website Address": "http://www.kaz.com",
+        "Warranty": "Limited Warranty",
+        "Miscellaneous": "Additional Information",
+        "Product Type": "Humidifier",
+        "Power Description": "Operating Power Consumption",
+        "Product Model": "V5100-N"
+      },
+      "updated_at": 1463574322,
+      "model": "V5100NS",
+      "ean": "0328785251005",
+      "upc": "328785251005",
+      "manufacturer": "Vicks",
+      "price": "72.97",
+      "length": "342.90",
+      "brand": "Vicks",
+      "sem3_id": "6NmyPLltk8CSaSksckqQYu",
+      "height": "292.10",
+      "category": "Humidifiers",
+      "name": "Vicks Ultrasonic Cool Mist Humidifier",
+      "mpn": "V5100N",
+      "weight": "2653515.36",
+      "created_at": 1348665602,
+      "width": "206.50",
+      "gtins": [
+        "00328785251005"
+      ],
+      "variation_secondaryids": [
+        "3jWOBTXU9Amg0wUYG64OeA",
+        "3j2TJkqS3ccaAkCuO4wKqs",
+        "0MlZREuSQnQswK6CyUgwYU"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463448065,
+      "name": "Honeywell HWM-950 Filter Free Warm Moisture Humidifier",
+      "model": "Kaz 1012",
+      "weight": "2131884.14",
+      "sem3_id": "6SgkLkaxnsuC8U2WoM288W",
+      "ean": "0666671461511",
+      "manufacturer": "Kaz Inc",
+      "sitedetails": [],
+      "created_at": 1357483792,
+      "price": "43.75",
+      "upc": "666671461511",
+      "category": "Humidifiers",
+      "mpn": "7975934",
+      "brand": "Kaz Inc",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "China"
+      },
+      "cat_id": "5506",
+      "gtins": [
+        "00666671461511"
+      ],
+      "variation_secondaryids": [
+        "6f7EqNjugSgycwk4qSycUE",
+        "6vtMZ8ectcU004uC2KA0kE"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "name": "livingdirect.com",
+          "url": "http://www.livingdirect.com/Sunpentown-Ultrasonic-Pig-Humidifier/SU-3751,default,pd.html",
+          "sku": "SU-3751",
+          "recentoffers_count": 1,
+          "listprice": "45.90",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1463493700,
+              "currency": "USD",
+              "id": "3BWbGfudQuYegugygsYg62",
+              "price": "43.60",
+              "lastrecorded_at": 1463493700,
+              "seller": "Living Direct, Inc",
+              "isactive": 1
+            },
+            {
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1462944500,
+              "price": "45.90",
+              "id": "1TQL8E83megYYeyKmGA28i",
+              "firstrecorded_at": 1462944500,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "43.60",
+              "id": "7hVax2WOCOuyGmggAqKgWE",
+              "currency": "USD",
+              "firstrecorded_at": 1462315600,
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1462315600,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "mpn": "SU-3751",
+      "model": "SU 3751",
+      "created_at": 1347651452,
+      "length": "304.80",
+      "category": "Humidifiers",
+      "brand": "Sunpentown",
+      "sem3_id": "6ciJLK1qPQKsSOW66gw602",
+      "size": "10L x 11W x 10.25H inches",
+      "ean": "0876840002777",
+      "manufacturer": "Sunpentown",
+      "weight": "1814369.48",
+      "width": "317.50",
+      "height": "292.10",
+      "price": "27.99",
+      "name": "SPT SU-3751 Ultrasonic Pig-Shaped Humidifier [Pink, 10L x 11W x 10.25H inches]",
+      "updated_at": 1463499338,
+      "color": "Pink",
+      "features": {
+        "Tank Capacity (gallons)": "1 gal (US)",
+        "Assembled Depth (in.)": "10.25 in",
+        "Water Level Indicator": "Yes",
+        "Water Filter Replacement Model#": "None",
+        "Manufacturer Warranty": "1 Year Limited Manufacturer Warranty",
+        "Returnable": "90-Day",
+        "Product Height (in.)": "11.4",
+        "Automatic shutoff": "Yes",
+        "Minimum run time (hours/tank)": "12",
+        "Air Treatment Product Type": "Tabletop Humidifier",
+        "Product Depth (in.)": "10.25",
+        "Timer": "No",
+        "Water vapor output (gallons/day)": "Yes",
+        "Recirculating": "No",
+        "Automatic moisture control": "No",
+        "Voltage (volts)": "120 V",
+        "Control Type": "Analog",
+        "Assembled Height (in.)": "11.4 in",
+        "Product Width (in.)": "10.6",
+        "Product Weight (lb.)": "4",
+        "Energy Star Compliant": "No",
+        "Moisture dispersion type": "Cool mist",
+        "Tank empty indicator": "Yes",
+        "ETL Listed": "Yes",
+        "Assembled Width (in.)": "10.6 in"
+      },
+      "cat_id": "5506",
+      "upc": "876840002777",
+      "gtins": [
+        "00876840002777"
+      ],
+      "variation_secondaryids": [
+        "2OCb5ieacaGcIaQ0MWgKU0",
+        "1qR7Rzxrj2e280y8kaoYIG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463561805,
+      "sitedetails": [
+        {
+          "sku": "9SIA1Z80K29637",
+          "name": "newegg.com",
+          "listprice_currency": "USD",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1Z80K29637",
+          "recentoffers_count": 6,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463186100,
+              "firstrecorded_at": 1456508600,
+              "seller": "Toy Store Inc.",
+              "currency": "USD",
+              "id": "20r1L2vVOaEOQaOMkiWa8u",
+              "availability": "Available",
+              "price": "34.99",
+              "shipping": "1339.00",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "id": "4Rx9IHn8cKcaQOSOWiMGUq",
+              "price": "59.99",
+              "lastrecorded_at": 1463186100,
+              "seller": "tradeCOzone",
+              "firstrecorded_at": 1462554200,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1461257600,
+              "seller": "Brookstone",
+              "lastrecorded_at": 1463186100,
+              "shipping": "799.00",
+              "price": "49.99",
+              "availability": "Available",
+              "id": "7cHgtnVEqOmUuoc8UkyayC",
+              "isactive": 1
+            }
+          ],
+          "listprice": "44.99"
+        },
+        {
+          "url": "http://www.walmart.com/ip/4257147",
+          "name": "walmart.com",
+          "sku": "4257147",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463364500,
+              "currency": "USD",
+              "seller": "Pro Therapy Supplies, LLC",
+              "firstrecorded_at": 1458935100,
+              "id": "76WN4PSg1uieAsk0YM4MeC",
+              "availability": "Available",
+              "price": "54.56",
+              "isactive": 1
+            },
+            {
+              "seller": "Walmart",
+              "firstrecorded_at": 1460139700,
+              "currency": "USD",
+              "lastrecorded_at": 1462456700,
+              "price": "44.99",
+              "id": "3LMgzAoxMG4Ssw8QCQkKmk",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "34.88",
+              "id": "7LcvwOyINsgSGMkicS8MU0",
+              "availability": "Available",
+              "seller": "Walmart",
+              "firstrecorded_at": 1458297900,
+              "currency": "USD",
+              "lastrecorded_at": 1458935100,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        },
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "3XSYPAK2nIqkAKeS0ksCQ2",
+              "price": "44.99",
+              "lastrecorded_at": 1463561800,
+              "firstrecorded_at": 1457531700,
+              "seller": "target.com",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "seller": "target.com",
+              "firstrecorded_at": 1450156700,
+              "currency": "USD",
+              "lastrecorded_at": 1456940700,
+              "price": "29.99",
+              "id": "3DN1BL99hoIe4Oa02gYsYi",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1449240900,
+              "seller": "target.com",
+              "currency": "USD",
+              "lastrecorded_at": 1449843500,
+              "price": "33.99",
+              "availability": "Available",
+              "id": "0LvX9qKvtfy6KukWY8U0Sm",
+              "isactive": 0
+            }
+          ],
+          "sku": "719439",
+          "name": "target.com",
+          "url": "http://www.target.com/p/crane-ultrasonic-cool-mist-frog-humidifier/-/A-719439"
+        }
+      ],
+      "created_at": 1356883389,
+      "weight": "2993709.64",
+      "upc": "854689001014",
+      "width": "317.50",
+      "price": "30.59",
+      "height": "317.50",
+      "cat_id": "5506",
+      "model": "EE 3191",
+      "manufacturer": "Crane Usa Inc",
+      "mpn": "EE-3191",
+      "features": {
+        "Whisper-quiet operation Auto shutoff when tank is empty Tank holds 1 gal. Moisture output up to 2.2 gal. per day Humidifier Type": "Ultrasonic",
+        "Run Time per Fill": "24 Hr.",
+        "Includes": "Owner's Manual",
+        "Volts Required": "110.0 V",
+        "Product Availability": "Guest Location: Where your package is being delivered.",
+        "Features": "Quiet Operation",
+        "Room Size Range": "100-300 Sq. Feet",
+        "Health Concern": "Cough",
+        "Capacity (volume)": "1.0 Gal.",
+        "Moisture Output": "2.1 Gal.",
+        "Misting Type": "Cool Mist",
+        "Number of Speeds": "1",
+        "Shipping Speed": "Some items can't be expedited due to size, weight or vendor constraints and will only have Standard Shipping available."
+      },
+      "category": "Humidifiers",
+      "ean": "0854689001014",
+      "length": "393.70",
+      "sem3_id": "1EQxieUkEgiOcKaMM40EGq",
+      "color": "Retail",
+      "brand": "Crane",
+      "name": "Crane Adorable Ultrasonic Cool Mist Humidifier with 2.1 Gallon Output per Day - Frog [1]",
+      "gtins": [
+        "00854689001014"
+      ],
+      "variation_secondaryids": [
+        "60Vpu5a7geESmkqEQQwEeK",
+        "1HAHddL3pUMqISYkAIauMQ",
+        "537qJxB3OScYyG6Q6I8A8i",
+        "0HbmXwHhtpIkyM2268GWyI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463565043,
+      "name": "HYDRA Humidifier [1]",
+      "cat_id": "5506",
+      "brand": "Stadler Form",
+      "sitedetails": [
+        {
+          "sku": "1492139",
+          "url": "http://www.kohls.com/product/prd-1492139/stadler-form-hydra-humidifier.jsp",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1401503300,
+              "currency": "USD",
+              "seller": "Kohl's.com",
+              "availability": "In Stock",
+              "lastrecorded_at": 1411496800,
+              "price": "119.99",
+              "id": "6RxNhwvjCCqusIS8UWqoOW",
+              "isactive": 0
+            }
+          ],
+          "name": "kohls.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "99.99",
+              "id": "7TyBaJqVCwIU6Y8cuCIg8E",
+              "lastrecorded_at": 1432996200,
+              "seller": "Walgreens",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1406990300,
+              "isactive": 0
+            }
+          ],
+          "name": "walgreens.com",
+          "sku": "6081637",
+          "url": "http://www.walgreens.com/store/c/stadler-form-hydra-humidifier/ID=prod6081637-product"
+        },
+        {
+          "sku": "EMS-171",
+          "url": "http://www.livingdirect.com/Stadler-Form-Hydra-Humidifier-White-EMS-171/EMS-171,default,pd.html",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1414692600,
+              "currency": "USD",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1463393200,
+              "price": "119.99",
+              "id": "1TK4wQPwIWsqSG0yoCkKYm",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "listprice": "119.99",
+          "listprice_currency": "USD",
+          "name": "livingdirect.com"
+        }
+      ],
+      "length": "302.26",
+      "price": "73.68",
+      "manufacturer": "Swizz-Style",
+      "features": {
+        "Technology": "Ionic Silver Cube, Ultrasonic",
+        "Water Rate": "2 gal/Day",
+        "Coverage": "440 Sq. ft.",
+        "Weight (Approximate)": "5.10 lb",
+        "Humidifier Type": "Cool Mist",
+        "Capacity": "Up to 12.8 pints",
+        "Features": "Auto Safety Shutoff, Quiet Operation",
+        "Provider Product ID": "1025667511",
+        "Tank Capacity": "1.60 gal",
+        "Operating Power Consumption": "35 W",
+        "Energy Star Compliant": "No",
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Coverage (sq. ft.)": "440"
+      },
+      "model": "EMS 171",
+      "height": "345.44",
+      "color": "White",
+      "created_at": 1357741515,
+      "width": "149.86",
+      "weight": "2281569.62",
+      "ean": "7640115590268",
+      "mpn": "HAU380",
+      "sem3_id": "0EayTKV8WB6uWkk4guOsSI",
+      "category": "Humidifiers",
+      "gtins": [
+        "07640115590268"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "EE-8064",
+      "color": "White",
+      "model": "EE8064",
+      "ean": "0854689001786",
+      "cat_id": "5506",
+      "price": "78.59",
+      "brand": "RJ Quality Products",
+      "name": "Crane Ee-8064 Crane Germ Defense Humidifier - Digital, White",
+      "created_at": 1347477509,
+      "sitedetails": [
+        {
+          "recentoffers_count": 2,
+          "url": "http://www.walmart.com/ip/22136358",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "id": "6vTnLzEftuc8EaaioeOC8O",
+              "price": "109.94",
+              "seller": "Air and Water Inc",
+              "lastrecorded_at": 1463361300,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1462756500,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1463361300,
+              "id": "3ORV3jrE5YeUWq2sGC82Ua",
+              "seller": "Wayfair",
+              "price": "109.99",
+              "lastrecorded_at": 1463361300,
+              "isactive": 1
+            },
+            {
+              "id": "00P9BawFDTIceSOCWAU8ME",
+              "seller": "Wayfair",
+              "price": "118.99",
+              "lastrecorded_at": 1463065700,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1462756500,
+              "isactive": 0
+            }
+          ],
+          "sku": "22136358"
+        },
+        {
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Crane-USA-Germ-Defense-Warm-and-Cool-Anti-microbial-Humidifier-digital-EE-8064-ZWX1056.html",
+          "recentoffers_count": 0,
+          "sku": "ZWX1056",
+          "latestoffers": [
+            {
+              "price": "113.99",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1461917100,
+              "id": "322JwSjrLywUY4sGQYwcQi",
+              "firstrecorded_at": 1461917100,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1459818400,
+              "id": "5oJRa0gpN2ieIm4K0EKYe8",
+              "seller": "Wayfair",
+              "price": "119.99",
+              "lastrecorded_at": 1459818400,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1459247300,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "103.99",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1459247300,
+              "id": "5IEec8xfCwcqK0MsKuWwgk",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "listprice_currency": "USD",
+          "sku": "1045434_92693430",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463436500,
+              "seller": "Kohl's.com",
+              "price": "119.99",
+              "id": "3LH2tpikVs684iYSAaqoCa",
+              "firstrecorded_at": 1463436500,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463131600,
+              "price": "149.99",
+              "seller": "Kohl's.com",
+              "id": "2ctt8uUKCqw8uywU4WK64s",
+              "firstrecorded_at": 1462832400,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1462523900,
+              "price": "119.99",
+              "seller": "Kohl's.com",
+              "id": "7FBCbOVK1g2giuw6yw2IUg",
+              "firstrecorded_at": 1460773900,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "listprice": "149.99",
+          "name": "kohls.com",
+          "url": "http://www.kohls.com/product/prd-1045434/crane-germ-defense-digital-cool-warm-mist-humidifier.jsp",
+          "recentoffers_count": 1
+        }
+      ],
+      "updated_at": 1463562541,
+      "width": "289.56",
+      "features": {
+        "Wheels Included": "No",
+        "Tank/Bucket Included: YesTank/Bucket Empty Indicator: YesTank/Bucket Capacity: 1.2 GallonsRemovable Tank/Bucket: YesPower Source": "Plug-in",
+        "Remote Control": "No",
+        "Noise Level": "37 Decibel",
+        "Automatic Shut-Off": "Yes",
+        "Number of Items Included": "1",
+        "Cord Length": "36\"",
+        "Room Size": "500 Square Feet",
+        "Wattage": "45 Watts (W)",
+        "Mildew Resistant": "Yes",
+        "Filter Required": "No",
+        "Control Type": "Electronic",
+        "Portable": "Yes",
+        "Overall": "15\" H x 13.3\" W x 9.6\" D",
+        "Overall Product Weight": "7.48lbs",
+        "Leak-proof": "Yes",
+        "Batteries Required": "No",
+        "Additional Materials": "15% Steel and 5% copper",
+        "Timer": "Yes",
+        "Product Care": "Empty tank daily. Clean with white vinegar and water weekly",
+        "Primary Material: PlasticPrimary Material Details: ABSAdditional Materials": "15% Steel and 5% copper",
+        "Country of Manufacture": "China",
+        "Number of Fan Speeds": "1",
+        "Finish": "White",
+        "Compatible Filter Part Number": "HS-3812",
+        "Commercial Use": "Yes",
+        "Power Source": "Plug-in",
+        "Product Type": "Humidifier"
+      },
+      "length": "342.90",
+      "upc": "854689001786",
+      "sem3_id": "6zmfZCsKu0SKQqASaY2u6Y",
+      "height": "190.50",
+      "manufacturer": "Crane",
+      "category": "Humidifiers",
+      "weight": "3220505.83",
+      "gtins": [
+        "00854689001786"
+      ],
+      "variation_secondaryids": [
+        "1IpOB0MxmISs2iIgKuGMSQ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "HU1 0022 06",
+      "mpn": "HU1-0022-06",
+      "manufacturer": "Vornado",
+      "updated_at": 1463569973,
+      "color": "Black",
+      "upc": "043765005149",
+      "category": "Humidifiers",
+      "weight": "5919380.43",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.target.com/p/vornado-whole-room-ultrasonic-humidifier-black/-/A-12909019",
+          "name": "target.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "target.com",
+              "availability": "Available",
+              "lastrecorded_at": 1463562400,
+              "price": "179.99",
+              "firstrecorded_at": 1431547200,
+              "id": "22ThfkPwOOGyOG8yWeYMiE",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1430573700,
+              "price": "163.99",
+              "availability": "Available",
+              "seller": "target.com",
+              "currency": "USD",
+              "id": "1mfyj5Ptfo6UKkyoyqUomk",
+              "firstrecorded_at": 1429376400,
+              "isactive": 0
+            },
+            {
+              "id": "1B9t1b7dMKsgGCWIcq6A0g",
+              "firstrecorded_at": 1370508800,
+              "price": "179.99",
+              "lastrecorded_at": 1428210400,
+              "availability": "Available",
+              "currency": "USD",
+              "seller": "target.com",
+              "isactive": 0
+            }
+          ],
+          "sku": "12909019"
+        },
+        {
+          "sku": "436233_89970835",
+          "listprice": "259.99",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "url": "http://www.kohls.com/product/prd-436233/vornado-ultrasonic-humidifier.jsp",
+          "latestoffers": [
+            {
+              "id": "7haBRARdxooOkgo8OyA6eK",
+              "firstrecorded_at": 1463146000,
+              "price": "181.99",
+              "lastrecorded_at": 1463436700,
+              "seller": "Kohl's.com",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1462832500,
+              "id": "1g74wccD3Qkm84WMuMSgCG",
+              "currency": "USD",
+              "seller": "Kohl's.com",
+              "availability": "Available",
+              "price": "259.99",
+              "lastrecorded_at": 1462832500,
+              "isactive": 0
+            },
+            {
+              "id": "5l9OhNXl7QW60wuwYCkYQM",
+              "firstrecorded_at": 1460774100,
+              "price": "181.99",
+              "lastrecorded_at": 1462494100,
+              "seller": "Kohl's.com",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "kohls.com"
+        },
+        {
+          "sku": "1015956046",
+          "name": "buybuybaby.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1412407500,
+              "id": "1Aad7GRaaUQ4MGU6Im2uW8",
+              "currency": "USD",
+              "seller": "Buy Buy Baby",
+              "availability": "In Stock",
+              "price": "199.99",
+              "lastrecorded_at": 1463189600,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.buybuybaby.com/store/product/vornado-reg-ultrasonic-humidifier/1015956046"
+        }
+      ],
+      "price": "129.99",
+      "sem3_id": "3Ww4XTnZrsw4UEKoswAKCg",
+      "created_at": 1347587571,
+      "cat_id": "5506",
+      "ean": "0043765005149",
+      "features": {
+        "Assembled Depth (in.)": "9.75 in",
+        "Voltage (volts)": "120 V",
+        "Energy Star Compliant": "No",
+        "Product Height (in.)": "20.5",
+        "Control Type": "Digital",
+        "Air Treatment Product Type": "Tower Humidifier",
+        "Assembled Width (in.)": "10.75 in",
+        "ETL Listed": "Yes",
+        "Returnable": "90-Day",
+        "Assembled Height (in.)": "18.38 in",
+        "Recirculating": "Yes",
+        "Product Weight (lb.)": "12.95",
+        "Manufacturer Warranty": "5 Years",
+        "Product Width (in.)": "12.25",
+        "Water Level Indicator": "Yes",
+        "Automatic moisture control": "Yes",
+        "Timer": "No",
+        "Moisture dispersion type": "Impeller",
+        "Tank Capacity (gallons)": "2 gal (US)",
+        "Tank empty indicator": "Yes",
+        "Automatic shutoff": "Yes",
+        "Product Depth (in.)": "12.75",
+        "Minimum run time (hours/tank)": "14.0",
+        "Water vapor output (gallons/day)": "Yes",
+        "Water Filter Replacement Model#": "MD1-0018"
+      },
+      "brand": "Vornado",
+      "height": "274.32",
+      "length": "248.92",
+      "name": "Vornado Ultra1 Whole Room Ultrasonic Humidifier",
+      "width": "467.36",
+      "gtins": [
+        "00043765005149"
+      ],
+      "variation_secondaryids": [
+        "7jfWTbijWiMWSY4WuMyaIW",
+        "19kVQuRdjeaiMwMOmooeSQ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

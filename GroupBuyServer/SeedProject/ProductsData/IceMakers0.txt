@@ -1,0 +1,1221 @@
+{
+  "total_results_count": 7993,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "name": "Air AI-100R 28-Pound Portable Icemaker, Red [Red]",
+      "weight": "11022294.59",
+      "length": "368.30",
+      "upc": "854001004020",
+      "manufacturer": "NewAir",
+      "price": "169.99",
+      "height": "381.00",
+      "size": "14.5\" L x 11.75\" W x 15\" H",
+      "sitedetails": [
+        {
+          "recentoffers_count": 3,
+          "url": "http://www.walmart.com/ip/22939829",
+          "sku": "22939829",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1457678700,
+              "seller": "Air and Water Inc",
+              "id": "1F0PrekWSIK6mkqqI2CQSI",
+              "lastrecorded_at": 1463533700,
+              "price": "189.95",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1463533700,
+              "price": "189.95",
+              "id": "630YiCb8b2QweaA8G862MM",
+              "seller": "ShopLadder",
+              "availability": "Available",
+              "firstrecorded_at": 1454738900,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1455776000,
+              "seller": "Shoplet",
+              "lastrecorded_at": 1463533700,
+              "price": "232.61",
+              "id": "18HE1Fg6pKCsI4ySOKIkEs",
+              "isactive": 1
+            }
+          ],
+          "name": "walmart.com"
+        },
+        {
+          "sku": "NWAAI100R",
+          "recentoffers_count": 0,
+          "latestoffers": [],
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=NWAAI100R",
+          "name": "beachcamera.com"
+        },
+        {
+          "sku": "NWAAI100ROB",
+          "recentoffers_count": 0,
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=NWAAI100ROB",
+          "name": "beachcamera.com",
+          "latestoffers": []
+        }
+      ],
+      "color": "Red",
+      "ean": "0845578040368",
+      "brand": "NewAir",
+      "mpn": "AI-100R",
+      "cat_id": "3269",
+      "features": {
+        "Material(s)": "Plastic",
+        "Estimated Delivery": "3 to 5 Days",
+        "Display": "LED",
+        "Wattage": "400W",
+        "Warranty": "1 year parts and labor",
+        "Capacity": "28 lbs.",
+        "Cool-to-Touch Exterior": "Yes",
+        "Amperage": "2.7 amps",
+        "Control Panel": "Digital",
+        "Includes": "Portable Ice Maker, Ice Scoop",
+        "Dimensions": "11 3/4\"D x 14 1/2\"W x 15\"H",
+        "Handle": "Yes",
+        "Cord length": "2'",
+        "Voltage": "115V",
+        "Style": "Countertop Portable Ice Maker",
+        "Assembly Required": "No",
+        "Cord Length": "2'",
+        "Automatic": "Yes",
+        "Automatic Shut-Off": "Yes"
+      },
+      "model": "AI 100R",
+      "sem3_id": "5hKwdEsSn22M0Si8IgQCSs",
+      "category": "Ice Makers",
+      "width": "298.45",
+      "updated_at": 1463552717,
+      "created_at": 1347472738,
+      "gtins": [
+        "00854001004020",
+        "00845578040368"
+      ],
+      "variation_secondaryids": [
+        "2im1yNQZAOUEKkYe2YQOig",
+        "6927dcnPJQi6iOKcm0qckW",
+        "0spLO54rnSwSQeoy4YMuAW",
+        "179w7BVVJwEskYKG22Ooi8",
+        "1Rq8ye93DkmwMq4o2gk028",
+        "07eqmfwvfX6q4YuquMgy22",
+        "4PFrSvz67yQ6A0ysCei4mG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Certifications and Listings": "*No Certifications or Listings",
+        "Product Depth (in.)": "14.45",
+        "Assembled Height (in.)": "14.88 in",
+        "Ice Production per Day (lb.)": "27",
+        "MFG Model #": "MCIM22TW",
+        "Product Width (in.)": "11.69",
+        "Manufacturer Warranty": "1 year part and labor, 5 years compressor (part only)",
+        "Control Type": "Electronic",
+        "Included Items": "Drain,Ice Scoop",
+        "Exterior Material": "Plastic",
+        "Ice Storage Capacity (lb.)": "2.4",
+        "Assembled Width (in.)": "11.69 in",
+        "Assembled Depth (in.)": "14.45 in",
+        "MFG Part #": "MCIM22TW",
+        "Specifications": "Reconditioned",
+        "ENERGY STAR Certified": "No",
+        "Ice Maker Type": "Free Standing",
+        "Product Weight (lb.)": "26.46",
+        "Number of Possible Ice Cube Sizes": "3",
+        "Number of Possible Ice Cube Shapes": "1",
+        "Product Height (in.)": "14.88",
+        "Ice Maker Features": "Automatic Ice Level Control/Shutoff,Removable Basket"
+      },
+      "model": "MCIM22TW",
+      "sem3_id": "32k8DutCtsyAMwygsWWsA8",
+      "variation_id": "2NBS6so1SiGsAeaQckSgCwOv",
+      "mpn": "MCIM22TW",
+      "category": "Ice Makers",
+      "price": "156.41",
+      "weight": "12002054.11",
+      "manufacturer": "Ningbo Hicon International Industrial Co., ltd.",
+      "color": "White",
+      "name": "27 lb. Portable Ice Maker in White",
+      "height": "377.95",
+      "brand": "Magic Chef",
+      "sitedetails": [
+        {
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "id": "1WTYwig2z20QM6wKCOUGKU",
+              "availability": "Available",
+              "lastrecorded_at": 1439127500,
+              "price": "182.32",
+              "firstrecorded_at": 1437885400,
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "190.97",
+              "firstrecorded_at": 1409359100,
+              "lastrecorded_at": 1415295900,
+              "id": "1gUvyhGdLAQSg4aMS0seAO",
+              "availability": "94 In Stock",
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "availability": "22 In Stock",
+              "id": "1w5PwnMGhIu008iycoGMEy",
+              "lastrecorded_at": 1409130500,
+              "firstrecorded_at": 1409130500,
+              "price": "183.48",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_MAGIC-CHEF_1045071.htm",
+          "recentoffers_count": 0,
+          "sku": "1045071"
+        }
+      ],
+      "updated_at": 1463525066,
+      "created_at": 1378806449,
+      "ean": "0665679003679",
+      "cat_id": "3269",
+      "width": "296.93",
+      "upc": "665679003679",
+      "gtins": [
+        "00665679003679"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "UIM 155",
+      "price": "337.49",
+      "weight": "23586803.24",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/21441387",
+          "recentoffers_count": 0,
+          "sku": "21441387",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "seller": "ShopLadder",
+              "firstrecorded_at": 1462438500,
+              "currency": "USD",
+              "price": "406.56",
+              "id": "4ue9pVmZz6AwsO2UScWaa6",
+              "availability": "Available",
+              "lastrecorded_at": 1462438500,
+              "isactive": 0
+            },
+            {
+              "id": "52QF2rVIXoaqCea8oUKek2",
+              "availability": "Available",
+              "lastrecorded_at": 1462351000,
+              "firstrecorded_at": 1462264200,
+              "currency": "USD",
+              "price": "406.81",
+              "seller": "ShopLadder",
+              "isactive": 0
+            },
+            {
+              "price": "409.73",
+              "currency": "USD",
+              "firstrecorded_at": 1462025300,
+              "seller": "ShopLadder",
+              "lastrecorded_at": 1462196300,
+              "availability": "Available",
+              "id": "2oHcncJKgaKQsW2gYyCkSm",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.wayfair.com/Whynter-Built-In-Ice-Maker-UIM-155-EJH1008.html",
+          "recentoffers_count": 0,
+          "sku": "EJH1008",
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "id": "7J8Iv7LeXgUY6EEkQ8ASGs",
+              "availability": "Available",
+              "lastrecorded_at": 1461908300,
+              "price": "341.26",
+              "firstrecorded_at": 1461908300,
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "currency": "USD",
+              "firstrecorded_at": 1459592500,
+              "price": "384.95",
+              "availability": "Available",
+              "lastrecorded_at": 1459592500,
+              "id": "1sLESwdGdUoCqy6oIyQOYm",
+              "isactive": 0
+            },
+            {
+              "id": "1qqGYODanQygiUmmgOOGWM",
+              "lastrecorded_at": 1459253500,
+              "availability": "Available",
+              "price": "379.95",
+              "currency": "USD",
+              "firstrecorded_at": 1459253500,
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "name": "Whynter UIM-155 Stainless Steel Built-In Ice Maker",
+      "category": "Ice Makers",
+      "height": "635.00",
+      "color": "Silver",
+      "length": "457.20",
+      "ean": "0891207001651",
+      "updated_at": 1463565096,
+      "features": {
+        "Number Of Units": "1",
+        "Front Venting": "Yes",
+        "Cut-Out Width": "22 inches",
+        "Color Finish": "Stainless steel",
+        "CFC Free": "Yes",
+        "Exterior Material": "Stainless steel",
+        "Labor": "1 year",
+        "Child Lock": "No",
+        "Cut-Out Depth": "25 inches",
+        "Ice Maker Type": "Freestanding",
+        "Water Filter": "No",
+        "Ice Scoop Included": "Yes",
+        "Door Style": "Left to right",
+        "Parts": "1 year",
+        "Clear Ice": "No",
+        "Ice Storage Capacity": "6 pounds",
+        "Clean Cycle": "No",
+        "Auto Shut-Off": "Yes",
+        "Cut-Out Height": "32 inches",
+        "Daily Ice Production": "12 pounds",
+        "Additional Accessories Included": "Whynter 15\" 12-Lb. Built-In Icemaker;Ice scoop, ice bin;9' water line connection",
+        "Power Cord Included": "Yes",
+        "Number Of Unique Cube Sizes": "1",
+        "Color Category": "Silver"
+      },
+      "brand": "Whynter",
+      "width": "381.00",
+      "created_at": 1347501125,
+      "manufacturer": "Whynter",
+      "upc": "891207001651",
+      "cat_id": "3269",
+      "mpn": "UIM-155",
+      "sem3_id": "5CsJ5Za5ceugeksSAiowSs",
+      "gtins": [
+        "00891207001651"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "11929479.33",
+      "name": "Air AI-100SS 28-Pound Portable Ice Maker, Stainless Steel",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/22853134",
+          "recentoffers_count": 2,
+          "name": "walmart.com",
+          "sku": "22853134",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463564900,
+              "availability": "Available",
+              "id": "5j6aZpFqRkykkkw6g4SwMe",
+              "price": "199.95",
+              "firstrecorded_at": 1463496200,
+              "currency": "USD",
+              "seller": "Air and Water Inc",
+              "isactive": 1
+            },
+            {
+              "price": "250.69",
+              "firstrecorded_at": 1455776500,
+              "currency": "USD",
+              "seller": "Shoplet",
+              "availability": "Available",
+              "id": "61da9HEqsCUKAc68eEukqa",
+              "lastrecorded_at": 1463564900,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1457678500,
+              "price": "209.95",
+              "seller": "Air and Water Inc",
+              "lastrecorded_at": 1463413400,
+              "id": "6UD6b3TC9gIKEqaYoKEMcW",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.wayfair.com/NewAir-Portable-28-Pounds-Ice-Maker-AI-100SS-NEWA1002.html",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "firstrecorded_at": 1462071500,
+              "currency": "USD",
+              "price": "208.99",
+              "lastrecorded_at": 1462426800,
+              "availability": "Available",
+              "id": "3vkndkL6MiYqEy8mqmwmwo",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "price": "209.85",
+              "firstrecorded_at": 1461908900,
+              "currency": "USD",
+              "lastrecorded_at": 1462000700,
+              "id": "3V3jy5g10S6S4WGMAMS00k",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "209.95",
+              "currency": "USD",
+              "firstrecorded_at": 1461579000,
+              "seller": "Wayfair",
+              "lastrecorded_at": 1461751900,
+              "id": "1KL4oeODzKSwYEKKcE86O2",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "NEWA1002",
+          "name": "wayfair.com"
+        },
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1446046400,
+              "currency": "USD",
+              "price": "209.99",
+              "seller": "RC Willey",
+              "lastrecorded_at": 1451653700,
+              "id": "0kZVRXrOXEcuGg2ESGwUK6",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "sku": "4617797",
+          "name": "rcwilley.com",
+          "url": "http://www.rcwilley.com/4617797/NewAir-AI-100SS-Portable-Ice-Maker-View.jsp"
+        }
+      ],
+      "model": "AI 100SS",
+      "price": "199.95",
+      "category": "Ice Makers",
+      "height": "381.00",
+      "color": "Stainless steel & bl",
+      "ean": "0854001004044",
+      "updated_at": 1463564970,
+      "features": {
+        "Ice Scoop Included": "Yes",
+        "Includes Ice Scoop 6-15 Minute ice production Automatic shut off Ideal for homes, offices, RVs, boats and more Full basket and add water indicator lights Compact size Provides plenty of ice for your next barbeque or dinner party Ice Shape": "Bullet",
+        "Number of Ice Size Options": "3",
+        "Country of Manufacture": "China",
+        "Installation Type": "Freestanding",
+        "Voltage": "115 Volts (V)",
+        "Certifications": "ETL",
+        "Removable Ice Bin Ice Making Capacity Per Cycle": "9 pieces of ice",
+        "Removable Ice Bin": "Yes",
+        "Finish": "Stainless Steel",
+        "Daily Ice Making Capacity": "28 Pounds",
+        "Ice Cubes Produced": "9",
+        "Product Type": "Portable Ice Maker",
+        "Overall Product Weight": "26.3lbs",
+        "Ice Making Capacity": "28 Pounds",
+        "Frequency": "60 Hertz",
+        "Overall": "15\" H x 14.8\" W x 11\" D",
+        "ETL Certified": "Yes",
+        "Maximum Wattage": "400 Watts (W)",
+        "Ice Shape": "Bullet",
+        "Watts": "400 Watts"
+      },
+      "brand": "NewAir",
+      "width": "298.45",
+      "length": "368.30",
+      "mpn": "AI-100SS",
+      "cat_id": "3269",
+      "sem3_id": "73hfLJGhLEA6GOuW2c8y8I",
+      "created_at": 1347496818,
+      "upc": "854001004044",
+      "manufacturer": "NewAir",
+      "gtins": [
+        "00854001004044"
+      ],
+      "variation_secondaryids": [
+        "6927dcnPJQi6iOKcm0qckW"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "AI-100S",
+      "price": "169.99",
+      "weight": "11022294.59",
+      "created_at": 1347593294,
+      "gtins": [
+        "00854001004037",
+        "00883562345846",
+        "00689076931205"
+      ],
+      "sem3_id": "0BMAKv68bCauG4sUSWoGYc",
+      "brand": "NewAir",
+      "category": "Ice Makers",
+      "length": "368.30",
+      "name": "Air AI-100S 28-Pound Portable Ice Maker, Silver [Silver]",
+      "updated_at": 1463552659,
+      "height": "381.00",
+      "ean": "0883562345846",
+      "width": "298.45",
+      "upc": "854001004037",
+      "manufacturer": "NewAir",
+      "features": {
+        "Style": "Countertop Portable Ice Maker",
+        "Material(s)": "Plastic",
+        "Voltage": "115V",
+        "Display": "LED",
+        "Estimated Delivery": "2 to 4 Days",
+        "Cord length": "2'",
+        "Cord Length": "2'",
+        "Control Panel": "Digital",
+        "Handle": "Yes",
+        "Wattage": "400W",
+        "Assembly Required": "No",
+        "Capacity": "28 lbs.",
+        "Warranty": "1 year parts and labor",
+        "Includes": "Portable Ice Maker, Ice Scoop",
+        "Cool-to-Touch Exterior": "Yes",
+        "Amperage": "2.7 amps",
+        "Automatic Shut-Off": "Yes",
+        "Automatic": "Yes",
+        "Dimensions": "11 3/4\"D x 14 1/2\"W x 15\"H"
+      },
+      "color": "Silver",
+      "sitedetails": [
+        {
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=NWAAI100S",
+          "name": "beachcamera.com",
+          "sku": "NWAAI100S",
+          "recentoffers_count": 0,
+          "latestoffers": []
+        },
+        {
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "id": "1isXwQMMzQIWcyqSsA6GAe",
+              "lastrecorded_at": 1460923100,
+              "firstrecorded_at": 1454837600,
+              "seller": "BJ's Wholesale Club,Inc",
+              "price": "179.99",
+              "isactive": 0
+            },
+            {
+              "seller": "BJ's Wholesale Club,Inc",
+              "price": "149.99",
+              "id": "0dE1InVgyooOsi4UuokQg8",
+              "firstrecorded_at": 1454142900,
+              "lastrecorded_at": 1454142900,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "179.99",
+              "seller": "BJ's Wholesale Club,Inc",
+              "lastrecorded_at": 1420546500,
+              "firstrecorded_at": 1420546500,
+              "id": "2orIIQ1iw4mEMoosgWiUkK",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "bjs.com",
+          "url": "http://www.bjs.com/.product.273624",
+          "sku": "273624"
+        },
+        {
+          "url": "http://www.brookstone.com/newair-portable-ice-maker",
+          "name": "brookstone.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "id": "42lNTQ9JYugwuoWwumAiEW",
+              "lastrecorded_at": 1443637800,
+              "firstrecorded_at": 1431983000,
+              "seller": "Brookstone",
+              "price": "189.95",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "seller": "Brookstone",
+              "price": "161.46",
+              "id": "7FT5MObPnsSyA2EomGiK2C",
+              "lastrecorded_at": 1429703400,
+              "firstrecorded_at": 1429121700,
+              "isactive": 0
+            },
+            {
+              "price": "189.95",
+              "seller": "Brookstone",
+              "lastrecorded_at": 1428495400,
+              "firstrecorded_at": 1424772100,
+              "id": "4u4OaOOr1MMesyIc8oGkUy",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "newair-portable-ice-maker_858741"
+        }
+      ],
+      "cat_id": "3269",
+      "model": "AI 100S",
+      "variation_secondaryids": [
+        "6927dcnPJQi6iOKcm0qckW",
+        "0spLO54rnSwSQeoy4YMuAW",
+        "179w7BVVJwEskYKG22Ooi8",
+        "07eqmfwvfX6q4YuquMgy22",
+        "1dpuHFaf6GiI2GwSu0e0kM",
+        "4PFrSvz67yQ6A0ysCei4mG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "MCIM30SST",
+      "updated_at": 1463506379,
+      "manufacturer": "Jiangsu Baixue Electric Appliance Co. LTD",
+      "brand": "Magic Chef",
+      "upc": "665679002580",
+      "color": "Stainless Steel",
+      "ean": "0665679002580",
+      "model": "MCIM30SST",
+      "sem3_id": "2vND7pXptIoMAY6e6AGEKy",
+      "width": "419.10",
+      "weight": "18143694.80",
+      "sitedetails": [],
+      "height": "414.02",
+      "name": "30 lb. Portable Ice Maker in Stainless Steel",
+      "cat_id": "3269",
+      "price": "228.55",
+      "category": "Ice Makers",
+      "created_at": 1378803203,
+      "features": {
+        "Manufacturer Warranty": "1 year part and labor",
+        "Exterior Material": "Stainless Steel",
+        "Ice Maker Features": "Automatic Ice Level Control/Shutoff",
+        "Included Items": "Drain,Ice Scoop",
+        "Assembled Depth (in.)": "14.3 in",
+        "Control Type": "Electronic",
+        "Returnable": "90-Day",
+        "Certifications and Listings": "1-UL Listed",
+        "Ice Production per Day (lb.)": "30",
+        "Number of Possible Ice Cube Shapes": "1",
+        "Number of Possible Ice Cube Sizes": "3",
+        "Assembled Width (in.)": "16.5 in",
+        "ENERGY STAR Certified": "No",
+        "Assembled Height (in.)": "16.3 in",
+        "Product Depth (in.)": "14.3",
+        "Ice Storage Capacity (lb.)": "4"
+      },
+      "gtins": [
+        "00665679002580"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "NewAir",
+      "name": "air AI-215SS Stainless Steel Portable Ice Maker with 50 Lbs. Daily Capacity",
+      "upc": "854001004068",
+      "sitedetails": [],
+      "height": "425.45",
+      "length": "361.95",
+      "model": "AI 215SS",
+      "width": "428.75",
+      "mpn": "AI-215SS",
+      "weight": "17055073.11",
+      "sem3_id": "6SDpc6NbbEC6isQUm0OwWw",
+      "manufacturer": "NewAir",
+      "updated_at": 1463552614,
+      "ean": "0854001004068",
+      "price": "248.99",
+      "features": {
+        "Child Lock": "No",
+        "Exterior Material": "Stainless steel",
+        "Parts": "1 year",
+        "Control-Lock Option": "No",
+        "Lighted Bin": "No",
+        "Daily Ice Production": "50 pounds",
+        "Hidden Control Panel": "No",
+        "Auto Shut-Off": "No",
+        "Control Type": "Manual",
+        "Clean Cycle": "Yes",
+        "Color Finish": "Stainless steel",
+        "Ice Storage Capacity": "3.15 pounds",
+        "Removable Basket": "Yes",
+        "Ice Scoop Included": "Yes",
+        "Clear Ice": "No",
+        "ADA Compliant": "No",
+        "ETL Listed": "Yes",
+        "Commercial/Residential Use": "Residential",
+        "CSA Listed": "No",
+        "Amperage": "3.2 amperes",
+        "UL Listed": "No",
+        "Color Category": "Silver",
+        "ANSI Certified": "No",
+        "Labor": "1 year",
+        "Number Of Units": "1",
+        "Wattage": "170 watts",
+        "Power Cord Included": "Yes",
+        "Ice Maker Type": "Freestanding",
+        "CEE Qualified": "No",
+        "Number Of Unique Cube Sizes": "3",
+        "NSF Listed": "No",
+        "Front Venting": "No",
+        "Door Style": "Drop-down",
+        "Voltage": "115 volts",
+        "Water Filter": "No"
+      },
+      "color": "Stainless steel & bl",
+      "cat_id": "3269",
+      "category": "Ice Makers",
+      "created_at": 1348680048,
+      "gtins": [
+        "00854001004068"
+      ],
+      "variation_secondaryids": [
+        "6Yi1cSNCkqGOWaeswG0iYI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Red",
+      "upc": "854001004051",
+      "created_at": 1357111061,
+      "updated_at": 1463564181,
+      "width": "428.75",
+      "length": "361.95",
+      "features": {
+        "Ice Maker Type": "Freestanding",
+        "Color Finish": "Red",
+        "Water Filter": "Yes",
+        "Labor": "1 year limited",
+        "Removable Basket": "Yes",
+        "Auto Shut-Off": "Yes",
+        "Clean Cycle": "No",
+        "Number Of Units": "1",
+        "Voltage": "115 volts",
+        "Ice Storage Capacity": "50 pounds",
+        "Number Of Unique Cube Sizes": "3",
+        "Ice Scoop Included": "Yes",
+        "Color Category": "Red",
+        "Clear Ice": "No",
+        "Daily Ice Production": "50 pounds",
+        "Power Cord Included": "Yes",
+        "Parts": "1 year limited",
+        "Door Style": "Drop-down",
+        "Front Venting": "No"
+      },
+      "category": "Ice Makers",
+      "mpn": "AI-215R",
+      "name": "air AI-215R Red Portable Ice Maker with 50-Pound Daily Capacity",
+      "ean": "0854001004051",
+      "model": "AI 215R",
+      "weight": "16510762.27",
+      "cat_id": "3269",
+      "sem3_id": "0cNpQzaqDXE2QuUmY0iyyG",
+      "height": "425.45",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1463498300,
+              "lastrecorded_at": 1463564100,
+              "price": "269.95",
+              "seller": "Air and Water Inc",
+              "id": "1c3nA2qxLsowU0yGCA8M4C",
+              "isactive": 1
+            },
+            {
+              "id": "0s3Zv1pzKsqOgk2o6YmOuC",
+              "price": "259.95",
+              "seller": "Air and Water Inc",
+              "lastrecorded_at": 1463361200,
+              "firstrecorded_at": 1458287100,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1462437100,
+              "firstrecorded_at": 1456639100,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "0XPl1dQc7SCKkQgiGAwymQ",
+              "seller": "Walmart",
+              "price": "259.95",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/22939767",
+          "recentoffers_count": 1,
+          "sku": "22939767"
+        },
+        {
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1460948900,
+              "lastrecorded_at": 1460948900,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "0EM5SfzaH5MAkQSyIACYAG",
+              "price": "0.00",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1459094100,
+              "firstrecorded_at": 1459094100,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "2JDLHSYOvEOaUoCaswUM4m",
+              "price": "259.95",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1457266300,
+              "lastrecorded_at": 1457266300,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "3lssMdV7smea8y2Oiq42oQ",
+              "price": "258.99",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "NEWA1005_9360716",
+          "url": "http://www.wayfair.com/NewAir-Portable-50-Pounds-Ice-Maker-NEWA1005.html"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "259.95",
+              "seller": "Sears Brands, LLC.",
+              "id": "71EnV3BFpIEqIWIsC80i0y",
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1425951500,
+              "lastrecorded_at": 1463429000,
+              "isactive": 1
+            }
+          ],
+          "name": "kmart.com",
+          "listprice_currency": "USD",
+          "url": "http://www.kmart.com/newair-ai-215r-portable-ice-maker/p-022V006374428000P",
+          "listprice": "259.95",
+          "recentoffers_count": 1,
+          "sku": "022V006374428000P"
+        }
+      ],
+      "brand": "NewAir",
+      "manufacturer": "NewAir",
+      "price": "239.99",
+      "gtins": [
+        "00854001004051"
+      ],
+      "variation_secondaryids": [
+        "3pVkviVvJw6gYWsMgg2uqc",
+        "0wKi0YH2Vwu6weEIWeaCS2",
+        "6Yi1cSNCkqGOWaeswG0iYI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Ice Makers",
+      "width": "344.93",
+      "variation_id": "1u9wknrurIUiiCAMeWyymQ",
+      "features": {
+        "Dimensions": "13\" H x 10.5\" W x 13\" D",
+        "Compact Size": "As a small, compact unit, this ice machine can fit anywhere in the home or during travel, making it easy to store and hide away when you need room",
+        "Input voltage": "115 V/60 Hz",
+        "Storage capacity": "1.5 lbs",
+        "Warranty": "1 year",
+        "Power": "140 W/1.8 A",
+        "Production capacity": "26.5 lbs/day",
+        "Water tank capacity": "1L",
+        "Capacity": "Able to produce up to 26.5 lbs of ice per day and store up to 1.5 lbs, this ice maker can assure you that ice will always be on hand",
+        "Modern Design": "The unique, stylish design of this ice maker allows you to place it anywhere in the home or outdoors, including kitchens, boats, and RVs"
+      },
+      "upc": "876840004009",
+      "color": "Black",
+      "cat_id": "3269",
+      "ean": "0876840004009",
+      "length": "260.10",
+      "mpn": "IM-120B",
+      "updated_at": 1463536492,
+      "model": "IM 120B",
+      "price": "140.00",
+      "weight": "10999614.97",
+      "height": "331.98",
+      "sem3_id": "5HiSUzrKS88s0us6MyYqug",
+      "brand": "SPT",
+      "manufacturer": "Sunpentown",
+      "created_at": 1347580148,
+      "name": "Sunpentown Portable Ice Maker, Black [Black]",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/16218990",
+          "sku": "16218990",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "196.90",
+              "firstrecorded_at": 1402825700,
+              "availability": "In Stock",
+              "id": "2bKeJIIJnA62qSA4miSQoE",
+              "currency": "USD",
+              "lastrecorded_at": 1423195200,
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1401766000,
+              "price": "196.90",
+              "id": "2RjeX3MKI0OSUqCOu4yGsM",
+              "availability": "In Stock",
+              "seller": "Wayfair.com",
+              "currency": "USD",
+              "lastrecorded_at": 1402600000,
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair.com",
+              "lastrecorded_at": 1401588700,
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "55tlrOmu8uAGYEuOwkgQkg",
+              "price": "195.64",
+              "firstrecorded_at": 1400871800,
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com"
+        },
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/13008417",
+          "sku": "13008417",
+          "latestoffers": [
+            {
+              "id": "5SNe1WtL5k6qmUAOWsgmWO",
+              "availability": "Available",
+              "price": "189.08",
+              "firstrecorded_at": 1462694200,
+              "seller": "PlumStruck",
+              "lastrecorded_at": 1463536300,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "id": "5p6PzD0PTc0GQsI08w06EE",
+              "price": "195.42",
+              "firstrecorded_at": 1456637900,
+              "seller": "PlumStruck",
+              "lastrecorded_at": 1462606200,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "currency": "USD",
+              "lastrecorded_at": 1462435100,
+              "firstrecorded_at": 1452280700,
+              "price": "142.11",
+              "id": "6TAOAzWXbs4SKUyGk8IG2A",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        },
+        {
+          "listprice": "199.99",
+          "name": "livingdirect.com",
+          "url": "http://www.livingdirect.com/Sunpentown-Black-Portable-Ice-Maker-Black/IM-120B,default,pd.html",
+          "listprice_currency": "USD",
+          "sku": "IM-120B",
+          "latestoffers": [
+            {
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1463495000,
+              "currency": "USD",
+              "id": "4ZbWw1tAiGsmMImI4iKWeo",
+              "price": "189.99",
+              "firstrecorded_at": 1463495000,
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1462946600,
+              "price": "199.99",
+              "id": "6BvoFKEcXQAUykQCA2iAGE",
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "lastrecorded_at": 1462946600,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1462317200,
+              "seller": "Living Direct, Inc",
+              "price": "189.99",
+              "firstrecorded_at": 1462317200,
+              "id": "1j4IBcVKhocWy4qwIWaGu4",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "gtins": [
+        "00876840004009"
+      ],
+      "variation_secondaryids": [
+        "2hpF3RbgE4kG4goGOYYumY",
+        "6Py2EakZwO4SyMC4EyAwqy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1355900097,
+      "updated_at": 1463565254,
+      "color": "Black",
+      "length": "368.30",
+      "model": "AI 100BK",
+      "name": "Air AI-100BK 28-Pound Portable Ice Maker, Black [Black]",
+      "manufacturer": "NewAir",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Air and Water Inc",
+              "price": "189.95",
+              "id": "0ZFOefK3XwcMi84K26Gw40",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1463565200,
+              "firstrecorded_at": 1457678100,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1463565200,
+              "firstrecorded_at": 1455775800,
+              "price": "232.61",
+              "seller": "Shoplet",
+              "id": "7RUGk7seS8cI2icKWKCI0Q",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1455171100,
+              "lastrecorded_at": 1463565200,
+              "seller": "ShopLadder",
+              "price": "189.95",
+              "id": "5LGtrkpx6OywmIm8imAOqu",
+              "isactive": 1
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/22939828",
+          "recentoffers_count": 3,
+          "sku": "22939828"
+        },
+        {
+          "sku": "NWAAI100BK",
+          "name": "beachcamera.com",
+          "recentoffers_count": 0,
+          "latestoffers": [],
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=NWAAI100BK"
+        },
+        {
+          "name": "bjs.com",
+          "latestoffers": [
+            {
+              "id": "44iRb2QOiWe62Ew4YEEMw8",
+              "price": "139.99",
+              "seller": "BJ's Wholesale Club,Inc",
+              "lastrecorded_at": 1460923100,
+              "firstrecorded_at": 1460923100,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "1PMf2PaILYU0MuaqYKm2Ka",
+              "seller": "BJ's Wholesale Club,Inc",
+              "price": "179.99",
+              "lastrecorded_at": 1460314800,
+              "firstrecorded_at": 1454837600,
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1454142800,
+              "firstrecorded_at": 1454142800,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "5J6dt1IziKWG6w6maggqYC",
+              "seller": "BJ's Wholesale Club,Inc",
+              "price": "149.99",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "233712",
+          "url": "http://www.bjs.com/.product.233712"
+        }
+      ],
+      "brand": "NewAir",
+      "cat_id": "3269",
+      "weight": "11022294.59",
+      "height": "381.00",
+      "width": "298.45",
+      "upc": "854001004013",
+      "mpn": "AI-100BK",
+      "category": "Ice Makers",
+      "features": {
+        "Depth (in.)": "11.75",
+        "Adjustable Legs": "No",
+        "Width (in.)": "14.5",
+        "Door Color": "Black",
+        "Ice Maker Type": "Portable",
+        "Height (In.)": "15",
+        "General Warranty": "1 Year Parts and Labor",
+        "Control Type": "Digital",
+        "Commercial Grade": "No",
+        "Ice Storage Capacity (lbs.)": "28",
+        "Ice Scoop Included": "Yes",
+        "Automatic Shut-Off": "Yes",
+        "Freezer Interior Light": "No",
+        "Defrost Water Drain": "Yes",
+        "Power Light Indicator": "Yes",
+        "Defrost System": "Frost-free",
+        "Ice Storage Capacity Range (lbs.)": "10 lbs. - 30 lbs.",
+        "Daily Ice Production Capability (lbs.)": "28",
+        "Power Cord Included": "Yes"
+      },
+      "ean": "0759735047124",
+      "price": "179.99",
+      "sem3_id": "08EPsawDxlQ2icIk2oaWC0",
+      "gtins": [
+        "00854001004013",
+        "00759735047124"
+      ],
+      "variation_secondaryids": [
+        "2im1yNQZAOUEKkYe2YQOig",
+        "6927dcnPJQi6iOKcm0qckW",
+        "0spLO54rnSwSQeoy4YMuAW",
+        "07eqmfwvfX6q4YuquMgy22",
+        "179w7BVVJwEskYKG22Ooi8",
+        "1dpuHFaf6GiI2GwSu0e0kM",
+        "4PFrSvz67yQ6A0ysCei4mG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

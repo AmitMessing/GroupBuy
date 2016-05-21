@@ -1,0 +1,736 @@
+{
+  "total_results_count": 23562,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "category": "Illustration & Design",
+      "weight": "1133.98",
+      "name": "CorelDRAW Suite X5: Home and Student",
+      "mpn": "CDHSX5ENMB",
+      "updated_at": 1458212035,
+      "features": {
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, XGA monitor",
+        "OS Required": "Microsoft Windows XP, Microsoft Windows 7, Microsoft Windows Vista",
+        "Package Type": "Retail",
+        "Platform": "Windows",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Pentium 4 - RAM 1 GB - HD 750 MB",
+        "Software Requirements": "Internet Explorer 7 or later",
+        "License Qty": "1 user",
+        "License Type": "Complete package",
+        "Subcategory": "Creativity - graphics & image editing",
+        "Distribution Media": "DVD-ROM ( mini-box )",
+        "Language(s)": "English"
+      },
+      "upc": "735163130690",
+      "sem3_id": "1qWJjv9xFMOCImaOUSGYwe",
+      "model": "CDHSX5ENMB",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "brand": "Corel",
+      "created_at": 1348683563,
+      "operatingsystem": "Windows",
+      "ean": "0735163130690",
+      "manufacturer": "Corel",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=559763",
+          "sku": "559763",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1389781900,
+              "id": "6C3nv90IREGwqUIgIAgyS4",
+              "availability": "OUT OF STOCK",
+              "firstrecorded_at": 1388758600,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "118.90",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com"
+        }
+      ],
+      "cat_id": "21085",
+      "gtins": [
+        "00735163130690"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0815227007981",
+      "sitedetails": [],
+      "category": "Illustration & Design",
+      "created_at": 1348684234,
+      "weight": "317514.66",
+      "upc": "815227007981",
+      "manufacturer": "Roxio",
+      "operatingsystem": "Windows Vista",
+      "updated_at": 1461701298,
+      "model": "235600",
+      "features": {
+        "Platform": "Windows",
+        "System Requirements Details": "Microsoft Windows XP - 500 MHz - RAM 128 MB - HD 1 GB Microsoft Windows Vista - 1.6 GHz - RAM 512 MB - HD 1 GB",
+        "Subcategory": "Utilities - CD / DVD recording",
+        "OS Required": "Microsoft Windows XP, Microsoft Windows Vista",
+        "Package Type": "Retail",
+        "Software Requirements": "Internet Explorer 6.0 or later, Windows Media Player 10.0 or later",
+        "Distribution Media": "CD-ROM",
+        "Peripheral / Interface Devices": "CD-ROM, XGA monitor, DirectX 9.0 compatible sound card, DirectX 9.0 compatible graphics card",
+        "Version": "10",
+        "License Pricing": "Standard",
+        "License Qty": "1 user",
+        "License Type": "Complete package"
+      },
+      "brand": "Roxio",
+      "mpn": "235500",
+      "name": "Roxio Easy Media Creator Suite 10",
+      "cat_id": "21085",
+      "sem3_id": "5sPBKhydG4W82qoKCwK280",
+      "price": "39.99",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "gtins": [
+        "00815227007981"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "665188748030",
+      "price": "32.99",
+      "manufacturer": "Primera Technology",
+      "operatingsystem": "N/A",
+      "height": "81.28",
+      "color": "Water Resistant",
+      "name": "Primera Technology 74803 Labels, 3\"X2\" High Gloss Labels for",
+      "length": "149.86",
+      "updated_at": 1463448748,
+      "weight": "911720.66",
+      "cat_id": "21085",
+      "mpn": "74803",
+      "width": "152.40",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/26009744",
+          "recentoffers_count": 4,
+          "sku": "26009744",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "id": "4qKoWgxgxkMwIUa22ouWyu",
+              "price": "38.86",
+              "seller": "Pcrush",
+              "firstrecorded_at": 1463191000,
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1463448700,
+              "isactive": 1
+            },
+            {
+              "price": "41.30",
+              "id": "7fHqCi8cHuIiamIqSeocqq",
+              "lastrecorded_at": 1463448700,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1458379400,
+              "seller": "Limited Goods LLC",
+              "isactive": 1
+            },
+            {
+              "seller": "Quality Photo",
+              "firstrecorded_at": 1455577100,
+              "currency": "USD",
+              "lastrecorded_at": 1463448700,
+              "availability": "Available",
+              "id": "0ORwFihBeqkAuq6IIc6eKq",
+              "price": "44.22",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=587197",
+          "recentoffers_count": 1,
+          "name": "datavis.com",
+          "sku": "587197",
+          "latestoffers": [
+            {
+              "price": "34.32",
+              "id": "2GCe4IaCou8KSS8cosW4oi",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "lastrecorded_at": 1458226800,
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1457677600,
+              "isactive": 1
+            },
+            {
+              "id": "15X0IjlpdsOoCSUOuuUaOo",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "30.16",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1437431300,
+              "lastrecorded_at": 1456979100,
+              "availability": "In Stock",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1436776800,
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1432987900,
+              "price": "28.73",
+              "id": "1bg79u1MIu88aikSUeUUKu",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.antonline.com/p_Primera_171689.htm",
+          "name": "antonline.com",
+          "sku": "171689",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "1KRsxiM1uEaYSsU0aKgCw0",
+              "price": "50.59",
+              "firstrecorded_at": 1457586000,
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "lastrecorded_at": 1460948700,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "46.18",
+              "id": "4Vzt7VXyiW0ICUuQIAIGM6",
+              "lastrecorded_at": 1456807500,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1453982600,
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "price": "44.06",
+              "id": "1sqNRTZEeiQkiM6GCyyc8C",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1453286600,
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1453286600,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "sem3_id": "4wgh9edVxIwMqs62oqQ6ai",
+      "brand": "Primera Technology",
+      "features": {
+        "8255": "$16.71",
+        "74710": "$46.81",
+        "74800": "$37.41",
+        "74801": "$37.43",
+        "74804": "$44.05",
+        "74805": "$52.88",
+        "74806": "$60.59",
+        "74807": "$59.48",
+        "74808": "$66.58",
+        "74810": "$73.27",
+        "74811": "$78.39",
+        "74812": "$98.24",
+        "74813": "$99.90",
+        "74814": "$100.99",
+        "74834": "$54.53",
+        "74839": "$63.35",
+        "74851": "$57.27",
+        "74853": "$43.57",
+        "74855": "$50.12",
+        "74874": "$64.46",
+        "74893": "$42.94",
+        "74973": "$36.32",
+        "75891": "$73.83",
+        "75994": "$98.01",
+        "Product Information": "Media Size",
+        "074828": "$59.49",
+        "Packaged Quantity": "1250 Label",
+        "Print Technology": "Inkjet",
+        "Manufacturer Website Address": "http://www.primera.com",
+        "Product Line": "TuffCoat",
+        "Product Type": "Multipurpose Label",
+        "074860": "$46.40",
+        "Physical Characteristics": "Color"
+      },
+      "ean": "0665188748030",
+      "model": "74803",
+      "created_at": 1347699991,
+      "category": "Illustration & Design",
+      "gtins": [
+        "00665188748030"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "77110.70",
+      "length": "134.62",
+      "created_at": 1348683634,
+      "sitedetails": [
+        {
+          "sku": "6668414",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "price": "69.98",
+              "id": "5EfVwI0LcmiicQqm0qCsmA",
+              "firstrecorded_at": 1348654800,
+              "availability": "Shipping: Available In-Store Only",
+              "currency": "USD",
+              "lastrecorded_at": 1348654800,
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6668414",
+          "recentoffers_count": 0
+        },
+        {
+          "url": "http://www.restockit.com/sony-acid-music-studio-8new-num-snycd62788wi.html",
+          "name": "restockit.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "condition": "New",
+              "lastrecorded_at": 1463586300,
+              "currency": "USD",
+              "availability": "Not Available",
+              "firstrecorded_at": 1460563300,
+              "id": "2BC7FHURImk6UkKE40ik6g",
+              "seller": "ReStockIt",
+              "price": "54.04",
+              "isactive": 0
+            }
+          ],
+          "sku": "restockit_sony-acid-music-studio-8new-num-snycd62788wi"
+        }
+      ],
+      "category": "Illustration & Design",
+      "brand": "Sony",
+      "mpn": "MSAMST8000",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "price": "26.66",
+      "width": "27.94",
+      "updated_at": 1463658396,
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "upc": "855309627881",
+      "sem3_id": "4Apike3P5ES08G6iGQQAoA",
+      "manufacturer": "Sony Creative Software",
+      "height": "190.50",
+      "operatingsystem": "Windows 7",
+      "cat_id": "21085",
+      "ean": "0855309627881",
+      "name": "Sony Creative Software ACID Music Studio 8.0 - 2011",
+      "model": "MSAMST8000",
+      "gtins": [
+        "00855309627881"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348685060,
+      "name": "Sonivox Playa Producer Pack",
+      "sitedetails": [
+        {
+          "name": "jr.com",
+          "latestoffers": [
+            {
+              "id": "36Z8WvWJAWE6WWUsOyKqM6",
+              "price": "79.97",
+              "seller": "JR",
+              "currency": "USD",
+              "lastrecorded_at": 1396477400,
+              "firstrecorded_at": 1388156100,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/sonivox/pe/SN1_SPLPRODPK",
+          "sku": "SN1_SPLPRODPK"
+        }
+      ],
+      "mpn": "SVX_SPLPRODPK",
+      "upc": "824834351011",
+      "updated_at": 1463443137,
+      "brand": "Sonivox",
+      "features": {
+        "Playa Over 400 SONiVOX instruments": "Fat synths, basses, drums, leads, ethnic instruments, guitars, strings, brass, and much more 16 user programmable and assignable pads for quick and easy MPC-style beat construction Over 50 pad layouts get you going right away with its construction kit layouts, diatonic chord layouts, drum kits, and even lets you build your own if you like MIDI Learn Function makes it instantly compatible with any MIDI controller Independent Zone Tempo-Synched Variable Resoluti",
+        "Item Weight": "12 ounces"
+      },
+      "weight": "340194.28",
+      "manufacturer": "Sonivox",
+      "cat_id": "21085",
+      "ean": "0824834351011",
+      "category": "Illustration & Design",
+      "sem3_id": "6bsiLkpO648IOYYMwsGUOg",
+      "model": "SVX_SPLPRODPK",
+      "price": "55.00",
+      "gtins": [
+        "00824834351011"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "933.94",
+      "brand": "Corel",
+      "sitedetails": [],
+      "ean": "0735163141375",
+      "height": "190.50",
+      "cat_id": "21085",
+      "weight": "90718.47",
+      "name": "CorelDRAW Technical Suite X6",
+      "created_at": 1413452467,
+      "length": "134.87",
+      "category": "Illustration & Design",
+      "width": "16.00",
+      "mpn": "CDTSX6ENDVD",
+      "model": "CDTSX6ENDVD",
+      "manufacturer": "Corel",
+      "features": {
+        "License Type": "Complete Product",
+        "License Quantity": "1 User",
+        "Software Name": "CorelDRAW Technical Suite v.X6",
+        "Language Supported": "English",
+        "Software Main Type": "Design & Engineering",
+        "License Pricing": "Standard",
+        "Model Number NR": "CDTSX6ENDVD",
+        "Platform": "Windows",
+        "Platform Supported": "PC",
+        "Features: Access and repurpose technical design assets": ". Corel CONNECT X6 Corel PowerTRACE X6 XVL Studio 3D CAD Add-On (optional) Insert 3D models with XVL Player",
+        "Software Sub Type": "CAD",
+        "Suite Contents": "Corel DESIGNER X6 CorelDRAW X6 Corel PHOTO-PAINT X6 Corel PowerTRACE X6 Corel CAPTURE X6 Corel CONNECT Corel Website Creator X6 XVL Studio 3D Corel Edition"
+      },
+      "operatingsystem": "Windows 7",
+      "sem3_id": "2FHYt8omtcCqAC04SW6Uiu",
+      "upc": "735163141375",
+      "updated_at": 1463457839,
+      "gtins": [
+        "00735163141375"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348665360,
+      "manufacturer": "Microsoft Software",
+      "updated_at": 1460825581,
+      "name": "WinCE ToolKit for VB 6.0 English NA CD",
+      "category": "Illustration & Design",
+      "sitedetails": [
+        {
+          "url": "http://www.antonline.com/p_Microsoft--799-00038--WinCE-ToolKit-for-VB-6.0-English-NA-CD-[Old-Version]_866829.htm",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1392107200,
+              "lastrecorded_at": 1401339700,
+              "id": "0mKCchDjrm42oaOGGgSuGW",
+              "price": "212.12",
+              "availability": "4 In Stock",
+              "isactive": 1
+            }
+          ],
+          "sku": "866829",
+          "listprice": "318.18",
+          "listprice_currency": "USD",
+          "recentoffers_count": 1,
+          "name": "antonline.com"
+        }
+      ],
+      "upc": "093007487653",
+      "length": "241.30",
+      "features": {
+        "License Qty": "1 user",
+        "System Requirements Details": "Microsoft Windows 95/98 - RAM 16 MB - HD 60 MB Microsoft Windows NT 4.0 - RAM 24 MB - HD 60 MB",
+        "OS Required": "Microsoft Windows 95, Microsoft Windows 98, Microsoft Windows NT 4.0",
+        "Language(s)": "English",
+        "License Pricing": "Standard",
+        "Min RAM Size": "24 MB",
+        "Min Hard Drive Space": "60 MB",
+        "Distribution Media": "CD-ROM",
+        "Platform": "Windows",
+        "Min Processor Type": "Intel Pentium",
+        "Service & Support Details": "Phone consulting - 2 incidents",
+        "Version": "6.0",
+        "Package Type": "Retail",
+        "Peripheral / Interface Devices": "Mouse or compatible device, CD-ROM",
+        "License Type": "Complete package",
+        "Subcategory": "Development tools - programming languages",
+        "Service & Support": "Technical support"
+      },
+      "weight": "136077.71",
+      "height": "38.10",
+      "mpn": "799-00038",
+      "ean": "0093007487653",
+      "brand": "Microsoft",
+      "price": "75.00",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows XP"
+      ],
+      "model": "799 00038",
+      "cat_id": "21085",
+      "sem3_id": "3fWIcsdaymYe4MMooEcya6",
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "width": "203.20",
+      "gtins": [
+        "00093007487653"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "145.03",
+      "width": "46.48",
+      "ean": "0802240150527",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "weight": "290299.12",
+      "category": "Illustration & Design",
+      "price": "399.99",
+      "model": "502015052",
+      "updated_at": 1462912005,
+      "brand": "Steinberg",
+      "cat_id": "21085",
+      "sem3_id": "7D4oFo9chMeC6GaQkO2Mi6",
+      "sitedetails": [],
+      "created_at": 1348703632,
+      "height": "198.88",
+      "name": "Steinberg RND Portico 5033 EQ/ 5043 Compressor Bundle Audio Plug-in",
+      "upc": "802240150527",
+      "manufacturer": "Steinberg",
+      "gtins": [
+        "00802240150527"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "192.79",
+      "weight": "317514.66",
+      "name": "Corel Painter 12 Upgrade",
+      "manufacturer": "Corel",
+      "price": "55.00",
+      "ean": "0735163132304",
+      "model": "PTR12ENPCMUG",
+      "length": "21.34",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP",
+        "Mac OS X 10.6 Snow Leopard"
+      ],
+      "features": {
+        "Software Name": "Painter v.12.0",
+        "Product Type": "Software",
+        "Distribution Media/Method": "DVD-ROM",
+        "Language Supported": "English",
+        "License Type": "Upgrade Package",
+        "Compatibility": "Supports a variety of industry-standard file formats: Portable Network Graphics (PNG)Adobe Photoshop (PSD)TIFF (CMYK & RGB)Windows Bitmap (BMP)PC Paintbrush (PCX)TARGA (TGA)GIFJEGQuickTime (MOV)Video for Windows (AVI)Corel Painter Frame stacks (FRM)Encapsulated PostScript (EPS)",
+        "Software Main Type": "Graphics/Multimedia",
+        "Package Contents": "Painter v.12.0 Getting Started Guide",
+        "Operating System Supported": "Mac OS",
+        "Software Sub Type": "Image Editing",
+        "Features": "Progressive Digital Art Capabilities: Kaleidoscope Painting Mirror Painting RealBristle Dry Media Real Watercolor Real Wet Oil Clone Source Palette Smart Photo-Painting Tools Customizable Surface Texturing Smart Blur Effect Breakthrough Brush Developments: Agile Brush Control Streamlined Brush Categories Dynamic Brush Settings Digital Airbrushes Computed Cir ular Brush Controls Gel Brushes and Merge Modes Multicore Support for Brushes Customize to your Liking: Interface Brush Tracking Workspaces Navigator Panel Image Dialog Box Panel and Palette Behavior Color Changer Palette Custom Palettes Transformation Capabilities Designed for Unlimited Experimentation: High-value, Built-in Content High-Quality Display World-famous Art Styles Match Palette Effect Speed - Painter 12 is 5x Faster! Perfect Complement to Other Popular Software & Hardware: Adobe Photoshop Support Wacom Pen Ta let Compatibility Extensive File Support Microsoft Windows 7 and Windows Vista support Windows 64-bit support Mac OS support Multi-platform support",
+        "Platform Supported": "Intel-based Mac",
+        "License Quantity": "1 User",
+        "System Requirements": "For PC: Processor: 1 GHz or higher Operating System: Microsoft Windows 7 / Vista with the latest Service Packs installed (32/64-bit) Microsoft Windows XP with the latest Service Packs insalled (32-bit) Hard Disk: 600 MB for application files* Memory: 1 GB RAM Optical Drive: DVD-ROM Others: 1280 x 800 screen resolution Mous or tablet Microsoft Internet Explorer 7 or higher For Mac: Processor: Intel Core Duo Operating System: Mac OS X v.10.5 or v.10.6 (with latest revision) Hard Disk: /li> 300 MB space for application files Memory: 1 GB RAM Others: 1280 x 800 screen resolution Mouse or tablet *Additional space may be required for Microsoft .NET Framewo k 4.0",
+        "License Pricing": "Standard",
+        "Package Type": "Retail"
+      },
+      "upc": "735163132304",
+      "sem3_id": "4coqzrTbHkAamAsME6goEa",
+      "mpn": "PTR12ENPCMUG",
+      "brand": "Corel",
+      "width": "145.29",
+      "sitedetails": [
+        {
+          "sku": "6709775",
+          "url": "http://www.frys.com/product/6709775",
+          "recentoffers_count": 0,
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1363835400,
+              "price": "229.00",
+              "firstrecorded_at": 1348655400,
+              "seller": "Frys",
+              "currency": "USD",
+              "availability": "Shipping: In stock, ships same Business Day",
+              "id": "2WC83d1YTk4mye2sOiuuKE",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832106243",
+          "sku": "N82E16832106243",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1351693169,
+              "seller": "Newegg",
+              "currency": "USD",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "id": "2K6pTUG2iiqcgss88SACYm",
+              "lastrecorded_at": 1382838300,
+              "price": "229.99",
+              "isactive": 0
+            },
+            {
+              "availability": "Now: $229.99 [BBX: Buy Box]",
+              "id": "4R7phX4oNcaSiYSiaYYk62",
+              "seller": "newegg.com",
+              "firstrecorded_at": 1360573500,
+              "currency": "USD",
+              "lastrecorded_at": 1362344300,
+              "price": "229.99",
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "254.80",
+              "lastrecorded_at": 1390469100,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1388759700,
+              "id": "1h9aJCOpxICiKeuE2G0iAc",
+              "availability": "OUT OF STOCK",
+              "isactive": 0
+            }
+          ],
+          "sku": "600968",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=600968"
+        }
+      ],
+      "category": "Illustration",
+      "cat_id": "20611",
+      "operatingsystem": "Mac OS X 10.6 Snow Leopard",
+      "created_at": 1348688227,
+      "updated_at": 1463651191,
+      "gtins": [
+        "00735163132304"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "63.50",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "created_at": 1348666733,
+      "name": "Studio One Pro",
+      "cat_id": "21085",
+      "sem3_id": "1HxoQqEuNaAEqmwCc6mI6C",
+      "price": "347.87",
+      "length": "254.00",
+      "sitedetails": [],
+      "width": "203.20",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP",
+        "Mac OS X"
+      ],
+      "updated_at": 1461779804,
+      "weight": "907184.74",
+      "mpn": "STUDIO-ONE-PRO",
+      "category": "Illustration & Design",
+      "upc": "673454001017",
+      "manufacturer": "PreSonus",
+      "ean": "0673454001017",
+      "brand": "PreSonus",
+      "gtins": [
+        "00673454001017"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

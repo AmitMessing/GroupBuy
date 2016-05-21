@@ -1,0 +1,203 @@
+{
+  "total_results_count": 3,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 3,
+  "results": [
+    {
+      "upc": "099143017341",
+      "cat_id": "19985",
+      "updated_at": 1463637365,
+      "brand": "Char-Broil",
+      "name": "CB Grill2Go X200 TRU Infared",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=801702",
+          "name": "datavis.com",
+          "sku": "801702",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1428535000,
+              "lastrecorded_at": 1458317100,
+              "price": "151.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "id": "7R2OXFDAzuaK68gkWKKC84",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "url": "http://www.frys.com/product/8546189",
+          "sku": "8546189",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1456313100,
+              "lastrecorded_at": 1460351100,
+              "price": "49.90",
+              "availability": "Available for In-Store Pickup Only",
+              "id": "4Cevfc26C8sSSio4u0mI2o",
+              "currency": "USD",
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "price": "53.10",
+              "lastrecorded_at": 1456047800,
+              "firstrecorded_at": 1455376600,
+              "seller": "Frys",
+              "currency": "USD",
+              "id": "77je0g2Mfgs6Au8keCMKKm",
+              "availability": "Available for In-Store Pickup Only",
+              "isactive": 0
+            },
+            {
+              "id": "17QD316z0G8wI4ysacsimA",
+              "currency": "USD",
+              "seller": "Frys",
+              "availability": "Available for In-Store Pickup Only",
+              "price": "65.55",
+              "firstrecorded_at": 1454241900,
+              "lastrecorded_at": 1454241900,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "frys.com"
+        }
+      ],
+      "ean": "0099143017341",
+      "model": "12401734",
+      "category": "Appliance Warranties",
+      "sem3_id": "3MkYENyK00uooEuwOUoQIa",
+      "created_at": 1428535026,
+      "gtins": [
+        "00099143017341"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "583FW9DrxYAk2W006WWw6W",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "3DhL0G4YvoIKY4Yiq2ay8e",
+              "firstrecorded_at": 1451100500,
+              "price": "4559.96",
+              "currency": "USD",
+              "lastrecorded_at": 1451653700,
+              "availability": "Available",
+              "seller": "RC Willey",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "RC Willey",
+              "lastrecorded_at": 1449650700,
+              "currency": "USD",
+              "price": "5559.96",
+              "firstrecorded_at": 1449650700,
+              "id": "7ieVghzAdU0ScMEQ4K0o2S",
+              "isactive": 0
+            },
+            {
+              "price": "5009.96",
+              "currency": "USD",
+              "id": "0XUgX9ReGJMscMEgGkGAKK",
+              "firstrecorded_at": 1447865700,
+              "lastrecorded_at": 1448485800,
+              "seller": "RC Willey",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "rcwilley.com",
+          "sku": "4636007",
+          "recentoffers_count": 1,
+          "url": "http://www.rcwilley.com/4636007/Frigidaire-Professional-Kitchen-Appliance-Package-View.jsp"
+        }
+      ],
+      "updated_at": 1451653774,
+      "cat_id": "19985",
+      "created_at": 1446046583,
+      "category": "Appliance Warranties",
+      "price": "4559.96",
+      "brand": "Frigidaire",
+      "mpn": "4636007",
+      "features": {
+        "Collection": "Frg-pro Packages",
+        "Requires Assembly": "Yes",
+        "Finish": "Smudge-Proof Stainless Steel"
+      },
+      "name": "Frigidaire Professional Kitchen Appliance Package",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "19985",
+      "updated_at": 1458288580,
+      "upc": "888997400078",
+      "sitedetails": [
+        {
+          "name": "datavis.com",
+          "sku": "830578",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "119.00",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1458288500,
+              "id": "5tghc03V0iemuAS4oyM2QI",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1453794900,
+              "currency": "USD",
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "availability": "In Stock",
+              "currency": "USD",
+              "firstrecorded_at": 1438901900,
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1451915900,
+              "id": "4730F1tVSiM2QaCewyQIsM",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "118.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=830578"
+        }
+      ],
+      "created_at": 1438901939,
+      "brand": "AEE Technology",
+      "ean": "0888997400078",
+      "model": "DW12",
+      "name": "Wi FI Rge Ext Repeatr for AP10",
+      "category": "Appliance Warranties",
+      "sem3_id": "3CyYYgpaG8wOSsu6i8C2AK",
+      "gtins": [
+        "00888997400078"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    }
+  ]
+}

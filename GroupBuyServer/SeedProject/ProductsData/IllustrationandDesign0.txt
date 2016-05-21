@@ -1,0 +1,869 @@
+{
+  "total_results_count": 23562,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "21085",
+      "brand": "Roxio",
+      "sem3_id": "7gj1q64WmGQU8QWq4CKgMm",
+      "manufacturer": "Roxio",
+      "category": "Illustration & Design",
+      "length": "196.85",
+      "name": "Easy LP to MP3",
+      "operatingsystem": "Windows 7",
+      "weight": "340194.28",
+      "sitedetails": [
+        {
+          "sku": "6061288",
+          "recentoffers_count": 1,
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6061288",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463639500,
+              "seller": "Frys",
+              "firstrecorded_at": 1461169100,
+              "id": "7gi1mNtTQeE6EOgswQaeiW",
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "59.99",
+              "isactive": 1
+            },
+            {
+              "id": "42TqgBYYAqGcAM8UA2qCgs",
+              "firstrecorded_at": 1460370200,
+              "seller": "Frys",
+              "lastrecorded_at": 1460370200,
+              "price": "39.99",
+              "availability": "In Stock",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "59.99",
+              "seller": "Frys",
+              "lastrecorded_at": 1459749400,
+              "firstrecorded_at": 1456659100,
+              "id": "1EOOyxPkrKKaMk8qg4QqsU",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "N82E16832252039",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832252039",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "price": "61.95",
+              "seller": "Newegg",
+              "lastrecorded_at": 1448783800,
+              "firstrecorded_at": 1350600063,
+              "id": "0BoOHzXMz8wUA0WAYqSwyY",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1362344300,
+              "seller": "newegg.com",
+              "id": "4X0tJv2Meu2yAWYGYsAWom",
+              "firstrecorded_at": 1360573900,
+              "availability": "Was: $69.95 [BBX: Buy Box]",
+              "currency": "USD",
+              "price": "61.95",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "newegg.com"
+        },
+        {
+          "sku": "12103191",
+          "recentoffers_count": 0,
+          "name": "target.com",
+          "url": "http://www.target.com/p/roxio-easy-lp-to-mp3-pc/-/A-12103191",
+          "latestoffers": [
+            {
+              "price": "69.98",
+              "currency": "USD",
+              "availability": "Available Online",
+              "firstrecorded_at": 1378493400,
+              "id": "5FLOZV8ltQk6SKOWKCqEAQ",
+              "lastrecorded_at": 1381549700,
+              "seller": "target.com",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "upc": "687967131338",
+      "features": {
+        "License Qty": "1 user",
+        "Software Requirements": "Windows Media Player 11, Internet Explorer 8.0, Windows Media Player 10, Internet Explorer 7, Windows Media Player 12",
+        "License Pricing": "Standard",
+        "Bundled with": "Roxio Audio Capture USB and Complete Cable Kit",
+        "Subcategory": "Utilities - encoders / format converters",
+        "Distribution Media": "CD-ROM",
+        "Language(s)": "English",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "OS Required": "Microsoft Windows XP Home Edition, Microsoft Windows XP Professional, Microsoft Windows XP Media Center Edition, Microsoft Windows 7 Professional, Microsoft Windows 7 Ultimate, Microsoft Windows 7 Ultimate 64-bit Edition, Microsoft Windows 7 Home Premium (32/64 bits), Microsoft Windows Vista Business (32/64 bits), Microsoft Windows Vista Home Basic",
+        "Peripheral / Interface Devices": "CD-ROM, USB port (compatible with 2.0 specification), 1024 x 768 monitor resolution",
+        "Platform": "Windows",
+        "License Type": "Complete package",
+        "Package Type": "Retail"
+      },
+      "mpn": "243600",
+      "updated_at": 1463697688,
+      "ean": "0687967131338",
+      "created_at": 1348679785,
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "width": "139.70",
+      "model": "243600",
+      "price": "37.04",
+      "height": "63.50",
+      "gtins": [
+        "00687967131338"
+      ],
+      "variation_secondaryids": [
+        "2FHm4CLRuaoci0KIGAom46"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Symantec",
+      "mpn": "21197446",
+      "gtins": [
+        "00037648324410",
+        "00037648325257",
+        "00999996669134"
+      ],
+      "height": "190.50",
+      "updated_at": 1463583915,
+      "sem3_id": "0zq12lfkb0ik464Ie2ciyy",
+      "ean": "0037648325257",
+      "width": "133.35",
+      "price": "55.49",
+      "features": {
+        "Language(s)": "English",
+        "Distribution Media": "CD-ROM",
+        "System Requirements Details": "Microsoft Windows XP SP2 or later - 300 MHz - RAM 256 MB - HD 300 MB Microsoft Windows 7 - 1 GHz - RAM 256 MB - HD 300 MB Microsoft Windows Vista SP1 or later - 1 GHz - RAM 256 MB - HD 300 MB",
+        "OS Required": "Microsoft Windows XP Professional SP2 or later, Microsoft Windows XP Home Edition SP2 or later, Microsoft Windows 7 Starter, Microsoft Windows 7 Home Premium (32/64 bits), Microsoft Windows Vista Business SP1 or later, Microsoft Windows Vista Home Basic SP1 or later, Microsoft Windows Vista Home Premium SP1 or later, Microsoft Windows Vista Ultimate SP1 or later, Microsoft Windows XP Media Center Edition SP2 or later, Microsoft Windows 7 Professional (32/64 bits), Microsoft Windows 7 Ultimate (32/64 bits), Microsoft Windows 7 Home Basic (32/64 bits), Microsoft Windows Vista Business 64-bit Edition SP1 or later, Microsoft Windows Vista Ultimate 64-bit Edition SP1 or later, Microsoft Windows Vista Home Premium 64-bit Edition SP1 or later, Microsoft Windows Vista Starter SP1 or later, Microsoft Windows Vista Home Basic 64-bit Edition SP1 or later",
+        "License Pricing": "Standard",
+        "Subcategory": "Security - security suite",
+        "License Type": "Subscription package",
+        "Package Type": "Retail",
+        "Platform": "Windows",
+        "License Validation Period": "1 year",
+        "Software Requirements": "Internet Explorer 6.0 or later, Mozilla Firefox 3.0 or later",
+        "License Qty": "3 PC in one household",
+        "Peripheral / Interface Devices": "CD-ROM"
+      },
+      "weight": "68038.86",
+      "created_at": 1348665562,
+      "operatingsystem": "Windows",
+      "name": "Norton Internet Security 2012 - 1 User / 3 PC [Old Version] [PC Disc]",
+      "sitedetails": [
+        {
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832408373",
+          "sku": "N82E16832408373",
+          "latestoffers": [
+            {
+              "seller": "Newegg",
+              "id": "780lD1C05QmE2aSm4e6o40",
+              "firstrecorded_at": 1359886600,
+              "lastrecorded_at": 1382837000,
+              "price": "44.99",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1362350400,
+              "price": "44.99",
+              "currency": "USD",
+              "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]",
+              "seller": "newegg.com",
+              "id": "2G2sfTorh2y0ukYsQsEsco",
+              "firstrecorded_at": 1360818400,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1351689531,
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "49.99",
+              "id": "7jYFSC5pPyQKokiG2A28O8",
+              "seller": "Newegg",
+              "firstrecorded_at": 1351689531,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "77.05",
+              "availability": "OUT OF STOCK",
+              "currency": "USD",
+              "lastrecorded_at": 1390254100,
+              "firstrecorded_at": 1388759400,
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "1gOeQtsce8SUqwA2gYykgg",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=621550",
+          "recentoffers_count": 0,
+          "sku": "621550"
+        }
+      ],
+      "manufacturer": "Symantec",
+      "platform": "Windows",
+      "length": "31.75",
+      "cat_id": "21085",
+      "model": "21197367",
+      "category": "Illustration & Design",
+      "upc": "037648324410",
+      "variation_id": "2YZFzn0VVAoM6W0QoiKkOy",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0855309775711",
+      "category": "Illustration & Design",
+      "features": {
+        "OS Required": "Apple MacOS X 10.6, Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows 7 (32/64 bits) SP1, Apple MacOS X 10.7 Lion, Windows 8 (32/64 bits), Apple MacOS X 10.8",
+        "Platform": "Windows, MacOS",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Microsoft Windows Vista / 7 / 8 - dual core processor - RAM 2 GB - HD 2 GB Apple MacOS X 10.6 - 10.8 - dual core processor - RAM 2 GB - HD 2 GB",
+        "License Qty": "1 user",
+        "License Type": "Complete package",
+        "Software Requirements": "Internet Explorer 8.0 or later, Google Chrome 13.0 or later, Mozilla Firefox 10.0 or later",
+        "Subcategory": "Creativity - music or sound creation",
+        "Package Type": "Retail"
+      },
+      "updated_at": 1463697114,
+      "operatingsystem": "Mac OS X 10.6 Snow Leopard",
+      "weight": "31751.47",
+      "cat_id": "21085",
+      "variation_id": "3yLwZXKa7MMsAcqokqieOO",
+      "created_at": 1374670948,
+      "sitedetails": [
+        {
+          "sku": "7233123",
+          "url": "http://www.frys.com/product/7233123",
+          "latestoffers": [
+            {
+              "price": "399.99",
+              "seller": "Frys",
+              "firstrecorded_at": 1377685600,
+              "currency": "USD",
+              "id": "7WvZInFbiCyu2ociwaywoS",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1388237600,
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "price": "267.63",
+      "brand": "Sony",
+      "width": "31.75",
+      "sem3_id": "1pwe5Ek3UeCeU4IWUkQAue",
+      "length": "133.35",
+      "upc": "855309775711",
+      "manufacturer": "Sony Creative Software",
+      "name": "Sony Spectra Layers Pro [PC/Mac Disc]",
+      "mpn": "SPL1000",
+      "height": "133.35",
+      "model": "SPL1000",
+      "gtins": [
+        "00855309775711"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "21085",
+      "operatingsystem": "Windows 7",
+      "ean": "0687967132472",
+      "length": "196.85",
+      "weight": "190508.80",
+      "width": "139.70",
+      "updated_at": 1463483706,
+      "sem3_id": "3VE6wxGXqigg2UkUyOGGUu",
+      "brand": "Roxio",
+      "mpn": "250100",
+      "height": "63.50",
+      "sitedetails": [
+        {
+          "sku": "624919",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "118.91",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1390709800,
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1388760200,
+              "id": "26PS6XWMdsSOSKqMEkK0Ys",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=624919",
+          "recentoffers_count": 0,
+          "name": "datavis.com"
+        }
+      ],
+      "name": "Roxio Creator Pro 2012 [Old Version] [PC Disc]",
+      "model": "250100",
+      "features": {
+        "Package Type": "Retail",
+        "Subcategory": "Creativity - graphics & image editing, creativity - video editing & production",
+        "Language(s)": "English",
+        "Platform": "Windows",
+        "Distribution Media": "DVD-ROM",
+        "OS Required": "Microsoft Windows 7 Home Premium (32/64 bits), Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows XP SP3, Microsoft Windows 7 Professional (32/64 bits), Microsoft Windows 7 Ultimate (32/64 bits), Microsoft Windows XP 64-bit Edition SP2",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Microsoft Windows XP - Pentium 4 - 1.6 GHz - RAM 512 MB - HD 3 GB Microsoft Windows Vista / 7 - Pentium 4 - 1.6 GHz - RAM 1 GB - HD 3 GB",
+        "License Qty": "1 user",
+        "Software Requirements": "Windows Media Player 11, Internet Explorer 8.0, Windows Media Player 10, QuickTime 7.0 or later, Internet Explorer 7, iTunes 8 or later, Windows Media Player 12, Internet Explorer 9",
+        "License Type": "Complete package",
+        "Peripheral / Interface Devices": "Sound card, DVD-ROM, Internet connection, DirectX 9.0c compatible graphics card, 1024 x 768 monitor resolution"
+      },
+      "created_at": 1365154580,
+      "upc": "687967132472",
+      "category": "Illustration & Design",
+      "price": "80.98",
+      "gtins": [
+        "00687967132472"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "Reason 7",
+      "created_at": 1374238367,
+      "category": "Illustration & Design",
+      "length": "63.50",
+      "price": "398.99",
+      "sitedetails": [],
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "weight": "272155.42",
+      "name": "Propellerhead Reason 7 (Music Recording & Production Studio)",
+      "sem3_id": "1DhpGLQ5mUaK6eMWoakaos",
+      "updated_at": 1460252088,
+      "ean": "7350002925010",
+      "mpn": "Reason 7 Retail",
+      "operatingsystem": "Mac OS X 10.7 or later",
+      "cat_id": "21085",
+      "width": "147.32",
+      "manufacturer": "Line 6",
+      "brand": "Propellerhead",
+      "height": "200.66",
+      "gtins": [
+        "07350002925010"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "914.40",
+      "operatingsystem": "Windows 98",
+      "sem3_id": "0DD3RWIjAkw4QasoWSk8Yy",
+      "cat_id": "21085",
+      "model": "VTS 4840 100F",
+      "mpn": "1465012",
+      "features": {
+        "Connector(s)": "1 x RJ-45 - male",
+        "Connector(s) (Other Side)": "1 x RJ-45 - male",
+        "Other Features": "Molded, booted",
+        "Service & Support": "Limited lifetime warranty",
+        "Network Cable Type": "Network cable - CAT 6",
+        "Compliant Standards": "- up to 500 MHz",
+        "Technology": "Unshielded twisted pair (UTP)"
+      },
+      "category": "Illustration & Design",
+      "updated_at": 1460806300,
+      "price": "24.19",
+      "name": "Turtle Beach Mouse Pad",
+      "ean": "9781888743135",
+      "weight": "136077.71",
+      "sitedetails": [],
+      "upc": "731855048403",
+      "platform": [
+        "Windows 98",
+        "Windows Me",
+        "Windows 95"
+      ],
+      "brand": "Turtle Beach",
+      "created_at": 1348671961,
+      "manufacturer": "VOYETRA",
+      "gtins": [
+        "00731855048403",
+        "09781888743135"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347617515,
+      "model": "242500",
+      "sem3_id": "3Y12xFwLv6EyAcCeOa88aI",
+      "features": {
+        "Package Contents": "Roxio Easy VHS to DVD A Getting Started Guide Roxio Video Capture USB Device Multi Cable External USB Cable",
+        "Software Main Type": "Graphics/Multimedia",
+        "Software Sub Type": "CD/DVD Authoring",
+        "Product Type": "Software",
+        "Platform Supported": "PC",
+        "Compatibility": "Supported Input Formats: Video: AVI, DV-AVI, MPEG-1/2/4, IFO/VOB, DVR-MS, ASF, MOV, WMV, QuickTime, MPEG2 Transport Stream Audio: MP3, WAV, WMA, Dolby Digital AC-3, AAC, Ogg Vorbis, FLAC, M4A, MP4 Image: JPG, PNG, TIFF BMP, GIF Supported Output Formats: Video: AVI, DV-AVI, MPEG-1/2/4, WMV, MP4 Audio: MP3, WAV, WMA, Dolby Digital AC-3, Ogg Vorbis, FLAC, MPEG-1/2, M4A, AAC Video disc formats: DVD, Video CD (VCD), Super Video CD SVCD), Mini DVD",
+        "Distribution Media/Method": "CD-ROM",
+        "System Requirements": "Processor: 1 GHz Operating System: Windows Vista/XP Hard Drive: 2 GB free space for installation Memory: 512 MB RAM Optical Drive: DVD-ROM/li>CD Writer for VCD, SVCD and DVD Writer for DVD Others: DirectX 9 compatible graphics card or higher & sound card Windows Media Player 10 or higher Internet Explorer 7 One available USB 2.0 po t",
+        "Features": "Video: Go from VCR to DVD in a few clicks the fastest way to create a DVD from your VCR home video Burn DVD, SVCD and VCD discs from your VCR or camcorder videos Add titles and scrolling credits to your video producton Trim and cut video clips Automatically fix video color, contrast and brightness Quickly and easily upload video to YouTube DVD Creation: Turn your home videos into striking DVDs complete with a imated menus and fully orchestrated music Produce Hollywood-style DVDs with motion menus and resizable buttons Exercise full creative control over DVD menu options Music: Digitize your analog LPs and cassette Auto-Level adjusts recording audio volume for the best sound quality Automatically trim annoying gaps between tracks Create music playlists with cross-fades and export to portable devices Convert multiple audi for payback on a broad variety of devices Automatically add title, artist and genre information to your music tracks Burn Audio or MP3 CDs from your audio recordings Sharing: Create and share online photo tories with fun effects and music directly from Roxio Easy VHS to DVD Share with family and friends on your private, secure Roxio web page Post video to YouTube or other popular online destinations Disc Label Creation:Create personalized disc labels, DVD case inserts and booklets Choose from professional-quality templates or create your own Mobile: Convert audio and video files to play on most popular mobile devices includi g Sony PSP, iPod and iPhone",
+        "Software Name": "Roxio Easy VHS To DVD"
+      },
+      "manufacturer": "Roxio",
+      "operatingsystem": "Windows 7",
+      "category": "Illustration & Design",
+      "name": "Roxio Easy VHS to DVD",
+      "height": "43.18",
+      "sitedetails": [
+        {
+          "sku": "14691251",
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "price": "46.40",
+              "firstrecorded_at": 1410597600,
+              "currency": "USD",
+              "availability": "Out of Stock",
+              "id": "6OAtv96AvA00wOWgYU0eiw",
+              "lastrecorded_at": 1424759800,
+              "isactive": 0
+            },
+            {
+              "price": "49.67",
+              "seller": "Walmart",
+              "firstrecorded_at": 1409142000,
+              "currency": "USD",
+              "availability": "Out of Stock",
+              "id": "5XH1bOQxbUSUWCe26yq24I",
+              "lastrecorded_at": 1409875300,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1404474100,
+              "price": "45.95",
+              "seller": "Walmart",
+              "lastrecorded_at": 1408485000,
+              "id": "26cIP8PsBMYeWWYCMm2I24",
+              "availability": "Out of Stock",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/14691251"
+        },
+        {
+          "sku": "581378",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "price": "52.76",
+              "firstrecorded_at": 1388757900,
+              "currency": "USD",
+              "availability": "OUT OF STOCK",
+              "id": "09GILvwIKjuqoUoqOokWsW",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390689800,
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=581378"
+        }
+      ],
+      "weight": "136077.71",
+      "price": "56.95",
+      "updated_at": 1463726795,
+      "brand": "Roxio",
+      "mpn": "242500",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "width": "25.40",
+      "cat_id": "21085",
+      "upc": "815227009695",
+      "length": "25.40",
+      "ean": "0815227009695",
+      "gtins": [
+        "00815227009695"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "613570225836",
+      "sem3_id": "7iUZvANn9cucumG6ESMSuI",
+      "features": {
+        "Platform Supported": "PC",
+        "Product Type": "Software",
+        "Software Sub Type": "Video Editing",
+        "License Quantity": "1 User",
+        "System Requirements": "Processor: Intel Pentium or AMD Athlon 1.8 GHz Intel Core 2 or i7 2.4 GHz required for AVCHD* (2.66 GHz for AVCHD* 1920) Operating System: Windows 7 Windows XP with Service Pack 3 Winows Vista with Service Pack 2 Hard Disk: 3.6 GB of disk space Memory: 1 GB system memory 2 GB required for AVCHD* Optical Drive: DVD-ROM to install software C burner for creating Video CDs or Super Video CDs (S-VCDs) DVD burner for creating DVD and AVCHD* discs Blu-ray burner for creating Blu-ray discs* Others: DirectX 9 or higher compatible sound card Dire tX 9 or 10 compatible graphics card with 64 MB - 128 MB required for Red Giant Magic Bullet Looks Plug-in: Pixelshader 2 required, Intel GMA integrated graphics not supported. - 256 MB required for HD and AVCHD* Sound card with surround sound ou put required for preview of surround sound mixes* * Requires free product activation via the Internet.",
+        "License Pricing": "Standard",
+        "Features": "Motion titling, plus exciting new title designs, DVD menus, effects and over 80 Montage templates Stop-motion capture for amazing animations and fast-motion effects Fluid image stabilization technology from Avid used in major motionpictures Dolby Digital 5.1 sound Share straight to Blu-ray, HD DVD, DVD, YouTube (with wide-screen export), the web, MP3 sound files and more Export movies for Flash, QuickTime, improved AVCHD, PS3, Nintendo Wii, Xbox and more< li> Add Hollywood-style animations, transitions and effects with Pinnacle Studio Ultimate and a complete set of Red Giant plug-ins",
+        "Compatibility": "Input Options: Capture from DV, HDV and Digital8 camcorders or VCRs (requires a FireWire port)Capture from analog camcorders, 8 mm, HI 8, VHS, SVHS, VHS-C, SVHS-C, or VCRs (NTSC/PAL/SECAM). (requires Pinnacle or Dazzle video hardware) Import from AVCHD* and other file based Camcorders, Digital Still Cameras, Mobile Devices and Webcams via USB Output Options: Output to DV, HDV or Digital8 tape (requires camcorder with FireWire Input port and a PC with a DV/FireWire port) Output to analog videotape (requires DirectShow compatible device with video output) Import Formats: Video: AVCHD*, BD Blu-ray*, DV, HDV, AVI, MPEG-1, MPEG-2, DivX*, MPEG-4*, 3GP(MPEG-4)*, WMV, Non-enc ypted DVD titles (incl. DVD-VR/+VR), QuickTime (DV, MPEG-4*, H.264*) Audio: MP3, MPA, WAV, AC3*, WMA Graphic: BMP, GIF, JPG, PCX, PSD, TGA, TIF, WMF, PNG, J2K Export Formats: AVCHD*, BD Blu-ray*, HD-DVD, DVD (D D-R, DVD-RW, DVD+R or DVD+RW, dual layer), S-VCD, Video CD (VCD) Apple iPod, Sony PSP/PS3, Nintendo Wii, Microsoft Xbox compatible formats* DV, HDV, AVI, DivX*, RealVideo 8, WMV, MPEG-1, MPEG-2, MPEG-4*, Flash, 3GP*, WAV, MP3*, QuickTim (SD format) files Dolby Digital 2 channel and 5.1 channel audio* * Requires free product activation via the Internet.",
+        "License Type": "Complete Product",
+        "Package Type": "Retail",
+        "Operating System Supported": "Windows",
+        "Software Main Type": "Graphics/Multimedia",
+        "Software Name": "Pinnacle Studio v.14.0 Ultimate Collection"
+      },
+      "height": "73.15",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "131.36",
+              "currency": "USD",
+              "firstrecorded_at": 1388756800,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390668900,
+              "id": "1df8r5taei6AMO0uGgUI2C",
+              "availability": "OUT OF STOCK",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=513242",
+          "sku": "513242",
+          "name": "datavis.com"
+        }
+      ],
+      "category": "Illustration & Design",
+      "weight": "1065942.07",
+      "width": "203.20",
+      "operatingsystem": "Windows Vista",
+      "created_at": 1348684468,
+      "brand": "Pinnacle Systems",
+      "price": "120.00",
+      "length": "241.30",
+      "cat_id": "21085",
+      "updated_at": 1462204631,
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "model": "82101006371",
+      "ean": "0613570225836",
+      "manufacturer": "Pinnacle Systems",
+      "name": "Pinnacle Studio Ultimate Collection V14",
+      "mpn": "82101006371",
+      "gtins": [
+        "00613570225836"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "226796.18",
+      "price": "49.06",
+      "cat_id": "21085",
+      "features": {
+        "Release Date": "November 6, 2009",
+        "Media": "Software",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "eMedia",
+      "updated_at": 1462616290,
+      "sitedetails": [
+        {
+          "url": "http://www.adorama.com/EMEG10091DLM.html",
+          "name": "adorama.com",
+          "latestoffers": [
+            {
+              "id": "6YNQ6LYCsww0s0Km0IUyiy",
+              "firstrecorded_at": 1462616200,
+              "lastrecorded_at": 1462616200,
+              "seller": "Adorama",
+              "availability": "available",
+              "currency": "USD",
+              "condition": "Download Version",
+              "price": "49.95",
+              "isactive": 1
+            },
+            {
+              "id": "5DIrdQ37eCwCEQiGigciwE",
+              "lastrecorded_at": 1454816600,
+              "firstrecorded_at": 1449964600,
+              "seller": "Adorama",
+              "availability": "available",
+              "currency": "USD",
+              "price": "49.95",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "EMEG10091DLM"
+        },
+        {
+          "recentoffers_count": 1,
+          "sku": "EG10091",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "59.99",
+              "id": "4Pnce9zmu80cImcEMQCySG",
+              "firstrecorded_at": 1450909300,
+              "lastrecorded_at": 1461426500,
+              "seller": "Gregg Appliances, Inc.",
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "name": "hhgregg.com",
+          "url": "http://www.hhgregg.com/emedia-guitar-method-v5/item/EG10091"
+        }
+      ],
+      "ean": "0746290100913",
+      "created_at": 1357631138,
+      "manufacturer": "eMedia",
+      "name": "eMedia Guitar Method v5 [PC/Mac Disc]",
+      "model": "PEEMUEG10091",
+      "mpn": "EG10091",
+      "sem3_id": "0KtU1y6T7oG8ycGaSeMGiw",
+      "upc": "746290100913",
+      "category": "Illustration & Design",
+      "gtins": [
+        "00746290100913"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "21085",
+      "price": "40.03",
+      "length": "137.92",
+      "created_at": 1381542699,
+      "name": "Cyberlink PowerDirector 12 Ultimate Suite [PC Disc]",
+      "category": "Illustration & Design",
+      "variation_id": "174N4A9HNK4s6meOkaowsI",
+      "operatingsystem": "Windows 7",
+      "sitedetails": [
+        {
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=710746",
+          "recentoffers_count": 0,
+          "sku": "710746",
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1418522800,
+              "seller": "DataVision Computer Video",
+              "price": "221.67",
+              "id": "5wXibjWzxYWg4CqYeyiYq2",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1430561500,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "221.03",
+              "id": "6MvxJDz1ZQqGe6ug2oSEKy",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1418012600,
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1418012600,
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1417767200,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1413836600,
+              "seller": "DataVision Computer Video",
+              "id": "1WXq2lI0poQMg4yK2sK2qa",
+              "price": "221.67",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.antonline.com/p_Cyberlink_1074161.htm",
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "availability": "45 In Stock",
+              "lastrecorded_at": 1415255500,
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1415048900,
+              "price": "216.35",
+              "id": "6DlWyGuCxsUe4wUE4aOE0q",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "10 In Stock",
+              "lastrecorded_at": 1414529600,
+              "price": "215.50",
+              "id": "2Igq8HndGqouigU4K68g0Y",
+              "firstrecorded_at": 1391196300,
+              "seller": "ANTOnline",
+              "isactive": 0
+            }
+          ],
+          "sku": "1074161",
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1421052300,
+              "seller": "Walmart",
+              "id": "6aZVz8p2Bcq8yuucU4oKSM",
+              "price": "188.25",
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1423282600,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1413852000,
+              "price": "216.90",
+              "id": "6aUg5GtbGaCiau4OWuMIww",
+              "firstrecorded_at": 1413852000,
+              "seller": "Limited Goods",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1413852000,
+              "availability": "In Stock",
+              "price": "180.41",
+              "id": "7FazdLhsu0CI0c2eKikk4q",
+              "seller": "Walmart",
+              "firstrecorded_at": 1411720800,
+              "isactive": 0
+            }
+          ],
+          "sku": "34953855",
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/34953855"
+        }
+      ],
+      "manufacturer": "Cyberlink",
+      "width": "30.99",
+      "brand": "Cyberlink",
+      "height": "189.99",
+      "ean": "0884799001390",
+      "features": {
+        "License Quantity": "1 User",
+        "Software Sub Type": "Video Editing",
+        "Product Type": "Software Suite",
+        "Features": "Take Video Creation to a Whole New Level: Powerful Video Editing - PowerDirector Advanced Color Grading - ColorDirector Professional Audio Production - AudioDirector Amazing Production Quality <>Stunning Effects, Splendid Color & Pristine Audio: Stunning Video Effects Splendid Colors for Your Videos Pristine Audio for Your Video Creation Unlimited Free Resources Productive Video Ed ting Environment: Round-trip Editing Powerful Editing Tools Experience the World's Fastest Post-production: Unbeatable Video Editing Speed. Again. 40% Faster H.264 encoding Up to 3x Faster with Intel AVX2 More Ways to Share and Publish Your Creation: Vast Output Formats Pro Quality Surround Sound Share Directly to Social Sites Burn Audio projects to CD PowerD rector Mobile AudioClipper",
+        "System Requirements": "Processor: Pentium 4 3.0 Ghz or AMD Athlon 64 X2 for AVI Capture/Produce Pentium 4 3.0 Ghz or AMD Athlon 64 X2 for DVD Quality (MPEG-2) Profiles Pentium 4 3.0 Ghz or AMD Athlon 64 X2 for High Quality MPEG-4nd Streaming WMV, QuickTime) Profiles Intel Corei5/7 or AMD Phenom II X4 for Full-HD quality H.264 and MPEG2 Profiles Pentium Core 2 Duo E6400, or AMD Phenom II X4 for AVCHD and BD burning Profiles Intel Corei7 or AMD FX Series (64-bit) for 2K/4K/3D video editing profile Operating System: Microsoft Windows 8/8.1, 7, Vista(32/64-bit) Microsoft Windows XP with Service Pack 3 (32-bit) Hard Disk: 6.5 GB free Space (note: 400 MB is for Magic Music Library) 10 GB free Space (20 GB Rrecommended) for DVD production 60 GB free Space (100 GB Recommended) for Blu-ray Disc/AVCHD production Memory: 2 G of RAM required 3 GB of RAM or above recommended (32-bit) 6 GB of RAM or above recommended (3D editing, 64-bit) Optical Drive: A CD or DVD burner (CD-R/RW, DVD+R/RW or DVD-R/RW) is required to b rn VCD/DVD/SVCD/AVCHD titles A Blu-ray disc recordable is required to burn Blu-ray Discs Others: Screen Resolution: 1024 x 768, 16-bit color or above 128 MB VGA VRAM or higher (1 GB or higher VRAM and OpenCL capable are recommended) Internet connection is required for activating some import/export formats, including AVCHD, Blu-ray Disc, DVD, H.264, & MPEG-2. The activation is quick and easy Windows Media Player 9 or above is equired",
+        "Compatibility": "Multi-Tech Systems, Inc",
+        "Software Main Type": "Graphics/Multimedia",
+        "Operating System Supported": "Windows",
+        "Platform Supported": "PC",
+        "Suite Contents": "PowerDirector 12 AudioDirector 4 ColorDirector 2",
+        "Software Name": "PowerDirector v.12.0 Ultimate Suite",
+        "Package Type": "Retail",
+        "Packing": "Box",
+        "License Type": "Complete Product"
+      },
+      "weight": "240403.96",
+      "updated_at": 1463648263,
+      "upc": "884799001390",
+      "mpn": "PUSEC00RPM000",
+      "model": "PUS EC00 RPM0 00",
+      "sem3_id": "4ozv6tnHP64KgC8MU6A0Wi",
+      "gtins": [
+        "00884799001390"
+      ],
+      "variation_secondaryids": [
+        "5Lq21csvxY6EomoOUOqSaE",
+        "7LsC5JWZF2wgQ86oQGMgai"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

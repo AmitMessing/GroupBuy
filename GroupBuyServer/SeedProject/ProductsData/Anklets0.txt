@@ -1,0 +1,678 @@
+{
+  "total_results_count": 11263,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "Amazon Curated Collection",
+      "width": "0.06",
+      "upc": "729881649008",
+      "cat_id": "11034",
+      "features": {
+        "Cut": "Diamond-cut",
+        "Clasp": "Spring ring",
+        "Age Segment": "Adult",
+        "Metal weight": "2.8 grams",
+        "Metal": "Sterling silver",
+        "Synthetic": "No",
+        "Anklet dimensions": "4.85 mm wide x 9 inches long",
+        "Finish": "Polished",
+        "Chain": "Singapore",
+        "Gift Occasion": "Anniversary / Birthday / Bridal Shower / Christmas / Just Because / Mother's Day / Thank You",
+        "Jewelry Material": "Silver"
+      },
+      "updated_at": 1463543004,
+      "created_at": 1347551126,
+      "model": "YA2652 9",
+      "sitedetails": [],
+      "weight": "204116.57",
+      "name": "Sterling Silver Singapore-Chain Anklet []",
+      "ean": "0729881649008",
+      "sem3_id": "7CP0S0M5PUemICQQMeOqaY",
+      "price": "19.93",
+      "length": "2.29",
+      "brand": "Amazon Curated Collection",
+      "category": "Anklets",
+      "height": "0.05",
+      "gtins": [
+        "00729881649008"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "JewelryWeb",
+      "features": {
+        "Brand, Seller, or Collection Name": "JewelryWeb",
+        "Metal stamp": "14k",
+        "Chain": "Figaro",
+        "Metal": "Yellow gold",
+        "Product Dimensions": "11.5 x 9.1 x 1.1 inches; 1.6 ounces",
+        "Clasp": "Spring ring"
+      },
+      "length": "2.29",
+      "sem3_id": "0WbblRApvjESQkeImE24Ue",
+      "sitedetails": [
+        {
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Jewelryweb-14k-Polished-Figaro-Link-Dangling-Heart-Anklet-Spring-Ring-JRY14117.html",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "price": "162.00",
+              "firstrecorded_at": 1411928900,
+              "currency": "USD",
+              "id": "3mL0JTpRnyusS2cEq8wuOU",
+              "lastrecorded_at": 1411928900,
+              "isactive": 0
+            },
+            {
+              "price": "155.00",
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "id": "73oyBccqIKW80SYq62kmQW",
+              "lastrecorded_at": 1410581000,
+              "firstrecorded_at": 1410581000,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1406689300,
+              "currency": "USD",
+              "id": "2NUDTfcw5c4S8SMAYywq2m",
+              "lastrecorded_at": 1406689300,
+              "availability": "In Stock",
+              "price": "152.00",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "sku": "JRY14117_7452145"
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.kmart.com/14k-polished-figaro-link-with-dangling-heart-anklet/p-026V006916225000P",
+          "name": "kmart.com",
+          "sku": "026V006916225000P",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1420308000,
+              "id": "7JeRKuEv6Oww20sMucUMyo",
+              "firstrecorded_at": 1420308000,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Sears Brands, LLC.",
+              "price": "229.99",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/21715578",
+          "latestoffers": [
+            {
+              "seller": "Wayfair.com",
+              "availability": "Available",
+              "price": "179.95",
+              "id": "2Or4ovMFqOOAyWa2ocmUec",
+              "lastrecorded_at": 1436224200,
+              "currency": "USD",
+              "firstrecorded_at": 1436224200,
+              "isactive": 0
+            },
+            {
+              "price": "169.99",
+              "seller": "Wayfair.com",
+              "availability": "Available",
+              "lastrecorded_at": 1434878800,
+              "id": "3mOv3eNVZIQSwai4WQ0QSk",
+              "firstrecorded_at": 1434878800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1429438900,
+              "currency": "USD",
+              "lastrecorded_at": 1429438900,
+              "id": "7LmLWO7mzo4m24ESmM4G6u",
+              "price": "164.99",
+              "seller": "Wayfair",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "21715578"
+        }
+      ],
+      "category": "Anklets",
+      "weight": "45359.24",
+      "model": "QTA44754Y",
+      "updated_at": 1463430973,
+      "created_at": 1347808644,
+      "cat_id": "11034",
+      "price": "129.00",
+      "name": "14k Yellow Gold Polished Figaro Link With Dangling Heart Anklet - 9 Inch - Spring Ring - JewelryWeb",
+      "variation_secondaryids": [
+        "7OjXi6XYX2mYGgU8oEAWiY",
+        "63bR4adYNEkA400k6eiyWU",
+        "2W2UXLr7bAAeoEewIWs8Ui"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Signature",
+      "upc": "729881738313",
+      "category": "Anklets",
+      "features": {
+        "Web ID": "503242"
+      },
+      "color": "No",
+      "manufacturer": "Signature",
+      "name": "Signature Sterling Silver Singapore Anklet One Size",
+      "model": "SA3446-10",
+      "sitedetails": [],
+      "cat_id": "11034",
+      "ean": "0729881738313",
+      "created_at": 1347596002,
+      "updated_at": 1463342059,
+      "sem3_id": "5PFvw1tpNA4IU6kScGMQ42",
+      "price": "20.00",
+      "mpn": "SA3446-10",
+      "gtins": [
+        "00729881738313"
+      ],
+      "variation_secondaryids": [
+        "6mbqsR2meWUoqYmiIACWyO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Anklets",
+      "brand": "JewelryWeb",
+      "weight": "90718.47",
+      "length": "2.54",
+      "sitedetails": [
+        {
+          "name": "kmart.com",
+          "listprice_currency": "USD",
+          "listprice": "919.96",
+          "sku": "026V006915408000P",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "Sears Brands, LLC.",
+              "price": "229.99",
+              "id": "4rOjRRYbMW8wgWqGcGCimq",
+              "firstrecorded_at": 1420308000,
+              "lastrecorded_at": 1420308000,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.kmart.com/14k-white-gold-rope-with-heart-anklet-10/p-026V006915408000P",
+          "recentoffers_count": 1
+        }
+      ],
+      "model": "QTA69686W",
+      "name": "14k White Gold Rope with Heart Anklet - 10 Inch - Lobster Claw - JewelryWeb",
+      "cat_id": "11034",
+      "price": "157.50",
+      "updated_at": 1460545089,
+      "created_at": 1347699292,
+      "features": {
+        "Chain Length:10 in Chain Width": "7 mm",
+        "Clasp /Connector": "Lobster",
+        "Product Dimensions": "5 x 4.2 x 0.4 inches; 3.2 ounces",
+        "Average Weight": "1.48 GM",
+        "Country Of Origin": "DOMINICAN REPUBLIC"
+      },
+      "sem3_id": "5oQ417vJPyEO2mQ8ImgwsY",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "QTA49883Y",
+      "sem3_id": "1HSVOcw5V6MEegOAe8sEck",
+      "length": "2.29",
+      "created_at": 1347659829,
+      "name": "14k Gold 1.0mm Box Chain Anklet - 9 Inch - Lobster Claw - JewelryWeb",
+      "category": "Anklets",
+      "price": "157.40",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "189.00",
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1407220100,
+              "firstrecorded_at": 1407220100,
+              "seller": "Wayfair",
+              "id": "01fsBEXliiG068agOQ4cyG",
+              "isactive": 0
+            },
+            {
+              "price": "150.60",
+              "availability": "In Stock",
+              "currency": "USD",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1400316600,
+              "id": "3rl5Je8AD2UsuEOiSeE2g8",
+              "lastrecorded_at": 1403647400,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1389793400,
+              "seller": "Wayfair",
+              "id": "1UE0bp2ZMiOOAwICOUwK0E",
+              "lastrecorded_at": 1389793400,
+              "price": "184.60",
+              "availability": "In Stock",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "JRY14021",
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/Jewelryweb-14k-1.0mm-Box-Chain-Anklet-Lobster-Claw-QTA49883Y-JRY14021.html",
+          "name": "wayfair.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "026V006913142000P",
+          "name": "kmart.com",
+          "url": "http://www.kmart.com/14k-1.0mm-box-chain-anklet-9-inch-lobster/p-026V006913142000P",
+          "latestoffers": [
+            {
+              "id": "6g9qAbIfgGEyAKEYuUwO6E",
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1420307900,
+              "lastrecorded_at": 1420307900,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "209.99",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "updated_at": 1462777821,
+      "brand": "JewelryWeb",
+      "cat_id": "11034",
+      "features": {
+        "Bracelet Material": "Yellow Gold",
+        "Gender": "Unisex",
+        "Clasp Type": "Lobster Claw",
+        "Stone Type": "No Stone",
+        "Lifestage": "Adults",
+        "Style": "Ankle Bracelets",
+        "Material": "Gold"
+      },
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347751682,
+      "category": "Anklets",
+      "weight": "158757.33",
+      "sem3_id": "03RvwM5bkKe2u2goOm4owW",
+      "ean": "0729881907863",
+      "updated_at": 1460766669,
+      "name": "Sterling Silver Singapore-Chain Anklet []",
+      "upc": "729881907863",
+      "cat_id": "11034",
+      "manufacturer": "Amazon Curated Collection",
+      "length": "2.29",
+      "width": "0.66",
+      "features": {
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Chain": "Singapore-Chain",
+        "Total metal weight": "2.9 Grams",
+        "Metal": "Sterling silver",
+        "Product Dimensions": "5 x 2.8 x 1.9 inches; 5.6 ounces",
+        "Package": "Classic Medium Box",
+        "Clasp": "Spring ring",
+        "Metal stamp": "925 Sterling"
+      },
+      "brand": "Amazon Curated Collection",
+      "sitedetails": [],
+      "model": "SA2652 9",
+      "gtins": [
+        "00729881907863"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "0.64",
+      "mpn": "MJSCURB060-10",
+      "name": "Jewelstop 14k Solid Yellow Gold 2.5 mm Curb Link Anklet, Lobster Claw Clasp - 10\"",
+      "manufacturer": "JewelStop",
+      "sem3_id": "3FsLWAJc64qcowCEMIUmko",
+      "model": "MJSCURB060 10",
+      "category": "Anklets",
+      "updated_at": 1463257916,
+      "brand": "14K Yellow Gold Anklets",
+      "created_at": 1347763639,
+      "sitedetails": [],
+      "price": "135.41",
+      "features": {
+        "Metal": "Yellow gold",
+        "Clasp": "lobster-claw-clasps",
+        "Total metal weight": "2.35 Grams",
+        "Chain": "Link",
+        "Brand, Seller, or Collection Name": "JewelStop - 14K Yellow Gold Anklets",
+        "Metal stamp": "14k"
+      },
+      "cat_id": "11034",
+      "weight": "8504.86",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "RCA124867Y",
+      "cat_id": "11034",
+      "features": {
+        "Product Dimensions": "3.2 x 2.1 x 0.9 inches; 1.6 ounces",
+        "Bracelet dimensions": "12 mm wide x 10 inches long",
+        "Metal": "10k yellow gold",
+        "Metal weight": "2.5 grams",
+        "Chain": "Rolo",
+        "Clasp": "Lobster claw"
+      },
+      "length": "2.54",
+      "name": "Solid 10k Gold 10-Inch Freeform Heart Ankle Bracelet- - JewelryWeb",
+      "sem3_id": "4ufkG3VL96wWqy2o0yyCue",
+      "price": "129.00",
+      "updated_at": 1463355366,
+      "brand": "JewelryWeb",
+      "sitedetails": [
+        {
+          "sku": "21710948",
+          "latestoffers": [
+            {
+              "seller": "Wayfair.com",
+              "firstrecorded_at": 1437128000,
+              "id": "3QMCkNqViqMkAEGwoQ02e8",
+              "lastrecorded_at": 1437128000,
+              "price": "149.99",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "144.99",
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Wayfair.com",
+              "firstrecorded_at": 1434363800,
+              "id": "3br30AdaJMEmiES2OGQOkk",
+              "lastrecorded_at": 1434363800,
+              "isactive": 0
+            },
+            {
+              "price": "139.99",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1432651700,
+              "id": "1afttp9cUaCGIeUwoQEU0M",
+              "lastrecorded_at": 1432651700,
+              "seller": "Wayfair.com",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/21710948",
+          "name": "walmart.com",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "026V006910973000P",
+          "latestoffers": [
+            {
+              "id": "4tq0yVP4JE6umqmOy2Gwis",
+              "lastrecorded_at": 1420342900,
+              "firstrecorded_at": 1420342900,
+              "seller": "Sears Brands, LLC.",
+              "currency": "USD",
+              "availability": "Available",
+              "price": "199.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.kmart.com/solid-10k-10-inch-freeform-heart-ankle-bracelet/p-026V006910973000P",
+          "name": "kmart.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "created_at": 1347727133,
+      "category": "Anklets",
+      "weight": "45359.24",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "GB-ANK1204",
+      "width": "0.06",
+      "sem3_id": "3TlmqwIAIagEqwCuEswCQG",
+      "manufacturer": "Bling Jewelry",
+      "weight": "45359.24",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1377729700,
+              "price": "39.99",
+              "seller": "Bling Jewelry",
+              "id": "20bMwmW60C6GiKCa2sK8UE",
+              "currency": "USD",
+              "firstrecorded_at": 1377729700,
+              "availability": "In stock. [BBX: Buy Box]",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1370262800,
+              "availability": "Was: $91.99 [BBX: Buy Box]",
+              "currency": "USD",
+              "seller": "Bling Jewelry",
+              "id": "04sHpW0SVjUyyYmGwqOamO",
+              "price": "44.99",
+              "lastrecorded_at": 1370262800,
+              "isactive": 0
+            }
+          ],
+          "sku": "9SIA1WW0RT6657",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT6657"
+        }
+      ],
+      "category": "Anklets",
+      "cat_id": "11034",
+      "updated_at": 1463079132,
+      "length": "2.54",
+      "features": {
+        "Clasp": "Spring ring",
+        "Product Dimensions": "3.9 x 2.9 x 0.2 inches; 0.8 ounces",
+        "Metal": "Sterling silver",
+        "Brand, Seller, or Collection Name": "Bling Jewelry",
+        "Metal stamp": "925 Sterling",
+        "Chain": "Rolo"
+      },
+      "created_at": 1348669599,
+      "brand": "Bling Jewelry",
+      "model": "GB ANK1204",
+      "name": "Mothers Day Jewelry Heart Jingle Bell Charms 925 Silver Anklet 9.5 Inches",
+      "price": "22.99",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463406785,
+      "length": "2.29",
+      "sem3_id": "30uJS7QRgeuUcWscIIkkYs",
+      "category": "Anklets",
+      "brand": "JewelryWeb",
+      "cat_id": "11034",
+      "model": "QTA50221Y",
+      "sitedetails": [
+        {
+          "name": "wayfair.com",
+          "sku": "JRY17178",
+          "url": "http://www.wayfair.com/Jewelryweb-Singapore-Chain-Ankle-Bracelet-QTA50221Y-JRY17178.html",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1407956300,
+              "currency": "USD",
+              "id": "3l6jTMizDcykeoa8uYwqGi",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1407956300,
+              "price": "78.09",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "id": "082ClsueGq82oAKsywiqMG",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1404141600,
+              "availability": "In Stock",
+              "price": "69.50",
+              "lastrecorded_at": 1404141600,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1400779800,
+              "firstrecorded_at": 1400779800,
+              "price": "73.20",
+              "availability": "In Stock",
+              "id": "0j3GKFLpJI0eCa4MEus0Ik",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463406700,
+              "currency": "USD",
+              "id": "0yNhJNjHzwMgqWGGSKYyqE",
+              "seller": "Jewelry Pot",
+              "firstrecorded_at": 1460832600,
+              "price": "62.99",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1459086200,
+              "price": "48.99",
+              "availability": "Available",
+              "firstrecorded_at": 1451778500,
+              "seller": "Jewelry Pot",
+              "id": "1aclnclyF2uKkIOO4W4EoA",
+              "isactive": 0
+            },
+            {
+              "id": "5K0iZY9xRuEcmQ2SwwQGWm",
+              "seller": "Jewelry Pot",
+              "firstrecorded_at": 1448519000,
+              "price": "61.99",
+              "availability": "Available",
+              "lastrecorded_at": 1448519000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "31313678",
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/31313678"
+        },
+        {
+          "url": "http://www.kmart.com/14k-1.6mm-singapore-chain-anklet-9-inch-spring/p-026V006911826000P",
+          "name": "kmart.com",
+          "sku": "026V006911826000P",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "Sears Brands, LLC.",
+              "id": "1puG3p83dUQssSc6ycauM2",
+              "availability": "Available",
+              "price": "109.99",
+              "firstrecorded_at": 1420307900,
+              "lastrecorded_at": 1420307900,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "features": {
+        "Color: 1": "Gold",
+        "Clasp Type": "Spring Clasp",
+        "Gender": "Women",
+        "Color: 2": "Yellow",
+        "Material": "Gold",
+        "Lifestage": "Adults",
+        "Stone Type": "No Stone",
+        "Bracelet Material": "Yellow Gold",
+        "Style": "Ankle Bracelets"
+      },
+      "created_at": 1347490977,
+      "name": "14k Gold 1.6mm Singapore Chain Anklet - 9 Inch - Spring Ring - JewelryWeb",
+      "price": "62.99",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

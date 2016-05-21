@@ -23,13 +23,13 @@ namespace SeedProject
         public int SeddUsers()
         {
             int success = 0;
-            foreach (var category in UsersHelper.Users)
+            foreach (var user in UsersHelper.Users)
             {
                 using (var session = NHibernateHandler.CurrSession)
                 {
                     try
                     {
-                        session.Save(category);
+                        session.Save(user);
                         session.Flush();
                         success++;
                     }
@@ -78,6 +78,10 @@ namespace SeedProject
                     try
                     {
                         session.Save(product);
+                        foreach (var discount in product.Discounts)
+                        {
+                            session.Save(discount);
+                        }
                         session.Flush();
                         success++;
                     }
@@ -161,7 +165,14 @@ namespace SeedProject
                                 PublishDate = RandomPastDate(random),
                                 EndDate = RandomFutureDate(random),
                                 Seller = UsersHelper.Users[random.Next(0, UsersHelper.Users.Count)],
-                                Buyers = new List<User>()
+                                Buyers = new List<User>(),
+                            };
+
+                            newProduct.Discounts = new List<Discount>
+                            {
+                                new Discount {Product = newProduct, UsersAmount = 20, Present = 10},
+                                new Discount {Product = newProduct, UsersAmount = 50, Present = 12},
+                                new Discount {Product = newProduct, UsersAmount = 130, Present = 23},
                             };
 
                             if (product["description"] != null)

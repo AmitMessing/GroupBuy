@@ -1,0 +1,1550 @@
+{
+  "total_results_count": 1835,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "width": "31.75",
+      "sem3_id": "7dboqgWrcOo4EKioWEukaK",
+      "updated_at": 1463820863,
+      "price": "49.99",
+      "upc": "735163146851",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "B&H",
+              "price": "49.99",
+              "availability": "Available",
+              "firstrecorded_at": 1462488500,
+              "lastrecorded_at": 1463753800,
+              "id": "2oGefPX97ocQekKIKkykm6",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1462189600,
+              "availability": "Available",
+              "seller": "B&H",
+              "price": "75.00",
+              "lastrecorded_at": 1462189600,
+              "id": "1iJuqncpUiuAuQAUAMEiC6",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1461887100,
+              "currency": "USD",
+              "id": "7SoiRFgdxgaoK6SyMEcQ8U",
+              "seller": "B&H",
+              "price": "44.95",
+              "availability": "Available",
+              "firstrecorded_at": 1460677600,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "1177566",
+          "name": "bhphotovideo.com",
+          "url": "http://www.bhphotovideo.com/c/product/1177566-REG/corel_pspx8ulenmbam_paintshop_pro_x8_ultimate.html"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "1a7WtJ6v9ciukoU2iKIAus",
+              "lastrecorded_at": 1463374200,
+              "seller": "TigerDirect",
+              "price": "88.99",
+              "firstrecorded_at": 1460527800,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1459696900,
+              "id": "7BF1bgSeNyG8SaSuMeEmki",
+              "seller": "TigerDirect",
+              "price": "91.99",
+              "firstrecorded_at": 1459696900,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1459078100,
+              "id": "1wEQ1bQfj6U88iCqWEiAyQ",
+              "currency": "USD",
+              "firstrecorded_at": 1455359900,
+              "price": "88.99",
+              "seller": "TigerDirect",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9833907",
+          "sku": "9833907",
+          "name": "tigerdirect.com",
+          "recentoffers_count": 1
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "7lKfHksF2O2g8om04oGYWI",
+              "lastrecorded_at": 1463638000,
+              "currency": "USD",
+              "firstrecorded_at": 1463638000,
+              "availability": "Accepting Back Orders",
+              "seller": "Frys",
+              "price": "99.99",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "id": "3LBMqCIzMmIiyKYQo0qAC4",
+              "lastrecorded_at": 1462903500,
+              "firstrecorded_at": 1462903500,
+              "price": "49.99",
+              "seller": "Frys",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "seller": "Frys",
+              "price": "99.99",
+              "firstrecorded_at": 1460355800,
+              "lastrecorded_at": 1461158900,
+              "id": "51kkDoLc2S8qmae0oUeiEw",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/8571729",
+          "recentoffers_count": 1,
+          "name": "frys.com",
+          "sku": "8571729"
+        }
+      ],
+      "length": "133.35",
+      "created_at": 1440559226,
+      "features": {
+        "Language Supported": "English",
+        "Operating System Supported": "Windows",
+        "Manufacturer Website Address": "http://www.corel.com",
+        "Additional Product Specifications": "Full Product Specifications",
+        "Platform Supported": "PC",
+        "License Information": "License Type",
+        "Product Information": "Software Main Type",
+        "Software Name": "PaintShop Pro X8 Ultimate",
+        "Product Type": "Software",
+        "Software Sub Type": "Image Editing",
+        "Packing": "Mini Box",
+        "License Quantity": "1 User"
+      },
+      "name": "PaintShop Pro X8 Ultimate (DVD)",
+      "ean": "0735163146851",
+      "height": "190.50",
+      "cat_id": "14624",
+      "operatingsystem": "Windows 8",
+      "model": "COPSPX8U",
+      "brand": "Corel",
+      "mpn": "PSPX8ULENMBAM",
+      "weight": "104326.25",
+      "category": "Video & Music",
+      "gtins": [
+        "00735163146851"
+      ],
+      "variation_secondaryids": [
+        "232soTDLpYkeSMoY044MEK",
+        "4SaBHxdxFoiQqWeiAIIKaS"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "PDR-EB00-RPM0-00",
+      "cat_id": "14715",
+      "height": "137.92",
+      "model": "PDR EB00 RPM0 00",
+      "width": "30.99",
+      "length": "189.99",
+      "price": "55.00",
+      "platform": "PC",
+      "manufacturer": "Cyberlink",
+      "name": "Cyberlink PowerDirector 11 Ultimate [Ultimate, PC Disc]",
+      "updated_at": 1463753096,
+      "upc": "884799001086",
+      "weight": "240403.96",
+      "operatingsystem": "Windows 7",
+      "sem3_id": "0FfrwsZJKs44CiA2oqkscy",
+      "created_at": 1355897529,
+      "category": "Video Editing",
+      "ean": "0884799001086",
+      "brand": "Cyberlink",
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "sku": "7338334",
+          "url": "http://www.frys.com/product/7338334",
+          "latestoffers": [
+            {
+              "id": "3wIqhOsqDAcEye2cqgQkoE",
+              "seller": "Frys",
+              "price": "119.99",
+              "currency": "USD",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1386701000,
+              "firstrecorded_at": 1372167000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832117028",
+          "name": "newegg.com",
+          "sku": "N82E16832117028",
+          "latestoffers": [
+            {
+              "price": "109.95",
+              "currency": "USD",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "lastrecorded_at": 1382985200,
+              "firstrecorded_at": 1381033400,
+              "id": "3Mhv1qkY8WGs82Um0emK20",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "seller": "Newegg",
+              "id": "3Y3kSj8ku86MUACkIoIgqU",
+              "currency": "USD",
+              "price": "135.94",
+              "lastrecorded_at": 1374191900,
+              "firstrecorded_at": 1374102900,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1364202500,
+              "firstrecorded_at": 1362817800,
+              "availability": "Was: $129.95 [BBX: Buy Box]",
+              "currency": "USD",
+              "price": "119.95",
+              "seller": "Newegg",
+              "id": "2PLBNklJOy2we4IkI2sGcA",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "walmart.com",
+          "sku": "22401121",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "94.06",
+              "firstrecorded_at": 1376300500,
+              "lastrecorded_at": 1412454100,
+              "availability": "Out of Stock",
+              "id": "6d319nObBYKCy0KoESuSu8",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "id": "3uasFbpGC88o6QeGSgEqCm",
+              "firstrecorded_at": 1366370100,
+              "lastrecorded_at": 1366370100,
+              "availability": "In stock",
+              "currency": "USD",
+              "price": "104.00",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/22401121"
+        }
+      ],
+      "features": {
+        "Product Type": "Software",
+        "Features": "Content-Aware Editing:Analyze entire footage using Content-Aware EditingIntelligently identify the best and imperfect shotsEnhance imperfect shots with TrueTheaterEdit Analyzed Footages All at OnceQuality Beyond HD - 4K Video Support:Full HD PreviewRipple EditingCustomizable Hotkey100-Track TimelineDesign Studio:Title DesignerParticle DesignerPiP De ignerMenu DesignerBonus Pro Video Effects:22 NewBlueFX EffectsTravel Pack 2Holiday MagicStyleRomance Pack 3Enrich Your Video Production with 400+ Editing Tools and Effect :recise Keyframe ControlsPrecise Trim ToolPiP Transformation ToolChroma-Key ToolTime-lapse & Slideshow CreatorHand-Paint Animation3D From Start to FinishEffects from Direc orZoneEnhance Your Videos with TrueTheater:TrueTheater HDTrueTheater StabilizerTrueTheater LightingTrueTheater De-noiseMulti-GPGPU Acceleration:Native 64-bit Suppo tSVRT 3OpenCL SupportHardware OptimizationAVCHD 2.0 and Enhanced De-interlace:Vast Output FormatsPro Quality Surround Sound4K, HD and 3D MoviesShare Directly to Social ites",
+        "Operating System Supported": "Windows",
+        "Distribution Media/Method": "DVD-ROM",
+        "License Quantity": "1 User",
+        "Software Sub Type": "Video Editing",
+        "License Pricing": "Standard",
+        "License Type": "Complete Product",
+        "Software Name": "PowerDirector v.11.0 Ultimate",
+        "Platform Supported": "PC",
+        "Package Type": "Retail",
+        "Software Main Type": "Graphics/Multimedia"
+      },
+      "gtins": [
+        "00884799001086"
+      ],
+      "variation_secondaryids": [
+        "1PyNoBdyyiuYU8omaeqUCi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0884799001062",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/7338464",
+          "latestoffers": [
+            {
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1386325800,
+              "currency": "USD",
+              "seller": "Frys",
+              "id": "5xoL7hEYV6gYGaICQseea4",
+              "price": "219.99",
+              "firstrecorded_at": 1372167000,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1356074700,
+              "currency": "USD",
+              "availability": "Shipping: Available for Special Order",
+              "firstrecorded_at": 1356074700,
+              "price": "249.99",
+              "seller": "Frys",
+              "id": "5W8WkZ4Z84S8KY48gYUGUi",
+              "isactive": 0
+            }
+          ],
+          "sku": "7338464",
+          "name": "frys.com",
+          "recentoffers_count": 0
+        },
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832117029",
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "Newegg",
+              "id": "2AteRsSEvcKq6s6QQoQSSe",
+              "price": "249.99",
+              "firstrecorded_at": 1379607800,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "lastrecorded_at": 1382787800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1377204200,
+              "currency": "USD",
+              "availability": "In stock. [BBX: Buy Box]",
+              "firstrecorded_at": 1377204200,
+              "price": "181.99",
+              "seller": "Newegg",
+              "id": "0RA0UhOqXTq6cYq0Aacyq2",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1376671200,
+              "availability": "In stock. [BBX: Buy Box]",
+              "firstrecorded_at": 1376671200,
+              "price": "234.99",
+              "id": "2pTtt2gai8cMWYmAKsAYMe",
+              "seller": "Newegg",
+              "isactive": 0
+            }
+          ],
+          "sku": "N82E16832117029"
+        },
+        {
+          "url": "http://www.walmart.com/ip/22401115",
+          "sku": "22401115",
+          "latestoffers": [
+            {
+              "id": "4OU001tu2iyqE0Ogcwmgkk",
+              "seller": "Walmart",
+              "price": "196.10",
+              "firstrecorded_at": 1399716400,
+              "availability": "Out of Stock",
+              "currency": "USD",
+              "lastrecorded_at": 1423866700,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1399541100,
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "191.99",
+              "firstrecorded_at": 1398588900,
+              "seller": "Walmart",
+              "id": "3LrEcMHFwGc08GUmckieIC",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1398399400,
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "196.10",
+              "firstrecorded_at": 1397453000,
+              "seller": "Walmart",
+              "id": "3OUr0x54SmSwU4ek4CmIY2",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "cat_id": "14715",
+      "manufacturer": "Cyberlink",
+      "weight": "240403.96",
+      "length": "189.99",
+      "mpn": "PUS-EB00-RPI0-00",
+      "platform": "PC",
+      "category": "Video Editing",
+      "features": {
+        "PC Additional Requirements": "Internet connection, Windows XP Service Pack 2 required for HDV capture, 10GB hard disk space for DVD, 60GB hard disk space for BD/AVCHD/HD, NVIDIA GeForce/GeForce Mobile, Quadro/Quadro Mobile, Tesla or ATI Stream for video effects, microphone, burner",
+        "PC Video": "16-bit color 1025 x 768 video card",
+        "PC Processor Type": "IntelÂ® PentiumÂ® II processor, AMD Athlonâ¢ processor",
+        "PC System Memory": "512MB RAM",
+        "Genre": "Educational",
+        "Platform": "Windows",
+        "PC Optional Requirements": "2.2GHz Pentium 4 or Athlon XP 2200+ processor for MPEG-2, 3GHz Pentium 4 or Athlon 64 X2 for MPEG-4/WMV/QuickTime, Core i5/7 or Phenom II X4 for full HD, Pentium Core 2 Duo E6400 or Phenom II X2 for AVCHD/BD, Core i7 or Phenom II X4 for 3D",
+        "PC Processor Speed": "450MHz"
+      },
+      "price": "200.00",
+      "height": "137.92",
+      "width": "30.99",
+      "name": "Cyberlink PowerDirector 11 Ultimate Suite [Ultimate Suite, PC Disc]",
+      "brand": "Cyberlink",
+      "updated_at": 1463758202,
+      "operatingsystem": "Windows 7",
+      "created_at": 1356053802,
+      "upc": "884799001062",
+      "sem3_id": "2SNBK2Gw2GaM0gAiWyAGiQ",
+      "model": "PUS EB00 RPI0 00",
+      "gtins": [
+        "00884799001062"
+      ],
+      "variation_secondaryids": [
+        "1PyNoBdyyiuYU8omaeqUCi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "1814369.48",
+      "cat_id": "14624",
+      "height": "50.80",
+      "length": "276.86",
+      "name": "RADEON R9 390X 8GB 208W GAMING",
+      "mpn": "R9 390X GAMING 8G",
+      "manufacturer": "Micro-Star International Co., Ltd",
+      "price": "433.26",
+      "width": "129.54",
+      "created_at": 1437173849,
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=829514",
+          "recentoffers_count": 1,
+          "sku": "829514",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1457579300,
+              "price": "486.86",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "2EY6rv3pMqQ6SoOSEUUKgY",
+              "availability": "In Stock",
+              "lastrecorded_at": 1458171700,
+              "seller": "DataVision Computer Video",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1456956400,
+              "id": "6Dp7fLd6TA6auGA2u82I0s",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1455766400,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "451.17",
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "482.76",
+              "firstrecorded_at": 1449237100,
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1454866600,
+              "availability": "In Stock",
+              "id": "3DrKwem8USwaSeqawOU2oK",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.antonline.com/p_MSI--R9-390X-GAMING-8G--MSI-R9-390X-GAMING-8G-Graphics-Card_1195191.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461601900,
+              "currency": "USD",
+              "price": "463.59",
+              "lastrecorded_at": 1461601900,
+              "availability": "Available",
+              "id": "0urtD68Aj2WgIiCQmuqY6S",
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1460805300,
+              "price": "478.17",
+              "availability": "Available",
+              "id": "0nguywlm5SooucOMgqAMC4",
+              "lastrecorded_at": 1460805300,
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1458784100,
+              "price": "478.22",
+              "availability": "Available",
+              "id": "5QnvLPwcPus2WKIwWgkcOa",
+              "lastrecorded_at": 1458784100,
+              "seller": "ANTOnline",
+              "isactive": 0
+            }
+          ],
+          "sku": "1195191"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "439.99",
+              "firstrecorded_at": 1446693500,
+              "currency": "USD",
+              "seller": "Frys",
+              "lastrecorded_at": 1463637800,
+              "id": "2uLeNmhgBEACGOM2aqo40S",
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "price": "419.99",
+              "currency": "USD",
+              "firstrecorded_at": 1445892800,
+              "seller": "Frys",
+              "availability": "In Stock",
+              "id": "6Izsn5jq2i4eauYqKKmmKK",
+              "lastrecorded_at": 1446027100,
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1444626700,
+              "id": "5JjVPa35U0ugcgOwgu2IIu",
+              "availability": "In Stock",
+              "price": "439.99",
+              "firstrecorded_at": 1441899900,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "8524699",
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "url": "http://www.frys.com/product/8524699"
+        }
+      ],
+      "features": {
+        "900809": "$489.70",
+        "DVI": "Yes",
+        "Dual Link DVI Supported": "Yes",
+        "Warranty": "Limited Warranty",
+        "Manufacturer Website Address": "http://www.msicomputer.com",
+        "Chipset Model": "R9 390X",
+        "Physical Characteristics": "Slot Space Required",
+        "GV-R939G1 GAMING-8GD": "$361.46",
+        "Number of Monitors Supported": "3",
+        "DisplayPort": "Yes",
+        "Memory": "Standard Memory",
+        "Form Factor": "Plug-in Card",
+        "90YV08F0-M0NA00": "$372.07",
+        "11241-00-20G": "$476.97",
+        "Chipset Series": "R9 300",
+        "R9390X-DC2-8GD5": "$486.98",
+        "Technical Information": "API Supported",
+        "Bus Width": "512 bit",
+        "R9390P8DF6": "$364.42",
+        "Processor & Chipset": "Chipset Manufacturer",
+        "R9-390P-8DB6": "$378.81",
+        "GPU Clock": "1.10 GHz",
+        "R9390X8DF6": "$472.11",
+        "Miscellaneous": "Package Contents",
+        "Number of DVI Outputs": "2",
+        "100-505738": "$1,097.04",
+        "Multi-GPU Technology": "CrossFire",
+        "System Requirements": "Power Consumption: 208W",
+        "90YV08G0-M0NA00": "$482.20",
+        "R9 390 GAMING 8G": "$373.22",
+        "Memory Technology": "GDDR5",
+        "HDMI": "Yes",
+        "100-505725": "$3,274.90",
+        "GV-R939XG1GAMING-8GD": "$467.25",
+        "Number of HDMI Outputs": "1",
+        "Number of DisplayPort Outputs": "1",
+        "Chipset Line": "Radeon",
+        "Product Model": "R9 390X GAMING 8G",
+        "Platform Supported": "PC",
+        "Cooler Type": "Fan Cooler",
+        "Product Type": "Graphic Card",
+        "Additional Product Specifications": "Full Product Specifications",
+        "Interfaces/Ports": "Host Interface"
+      },
+      "brand": "Msi",
+      "category": "Video & Music",
+      "model": "R9 390X GAMING 8G",
+      "upc": "824142117859",
+      "sem3_id": "1ETZgGarIK6csoqo6YIOoQ",
+      "ean": "0824142117859",
+      "updated_at": 1463637897,
+      "gtins": [
+        "00824142117859"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "124.46",
+      "height": "35.56",
+      "brand": "Msi",
+      "name": "MSI GTX 970 4GD5T OC GeForce GTX 970 Graphic Card - 1102 MHz Core - 4 GB GDDR5 SDRAM - PCI Express 3.0 x16",
+      "ean": "0824142028049",
+      "category": "Video & Music",
+      "weight": "1088621.69",
+      "features": {
+        "Number of HDMI Outputs": "1",
+        "Product Model": "GTX 970 4GD5T OC",
+        "GTX 970 GAMING 4G": "$355.24",
+        "Chipset Model": "GTX 970",
+        "STRIX-GTX980-DC2OC-4GD5": "$558.65",
+        "Cooler Type": "Fan Cooler",
+        "Interfaces/Ports": "Host Interface",
+        "DVI": "Yes",
+        "Features": "Propeller Blade Technology",
+        "GTX970-DCMOC-4GD5": "$393.26",
+        "Physical Characteristics": "Form Factor",
+        "Multi-GPU Technology": "SLI",
+        "GTX 970 4GD5 OC": "$336.01",
+        "04G-P4-2978-KR": "$393.85",
+        "Memory": "Standard Memory",
+        "Processor & Chipset": "Chipset Manufacturer",
+        "VCGGTX9704XPB": "$387.83",
+        "04G-P4-2983-KR": "$578.78",
+        "Digital Signal": "Yes",
+        "Number of Monitors Supported": "4",
+        "04G-P4-1980-KR": "$553.35",
+        "Memory Speed": "7010 MHz",
+        "Technical Information": "RAMDAC Speed",
+        "GTX 970 GAMING 100ME": "$353.26",
+        "DisplayPort": "Yes",
+        "HDCP Supported": "Yes",
+        "Maximum Resolution": "4096 x 2160",
+        "Recommended Power Supply (W)": "500",
+        "Chipset Line": "GeForce",
+        "Miscellaneous": "Package Contents",
+        "Dual Link DVI Supported": "Yes",
+        "GTX 980 GAMING 4G": "$554.77",
+        "Warranty": "Limited Warranty",
+        "Manufacturer Website Address": "http://www.msicomputer.com",
+        "ZT-90204-10P": "$507.32",
+        "04G-P4-2972-KR": "$366.67",
+        "Memory Technology": "GDDR5",
+        "ZT-90101-10P": "$342.66",
+        "04G-P4-3988-KR": "$647.27",
+        "GTX 980 4GD5 OCV1": "$520.23",
+        "Power consumption (W)": "148",
+        "04G-P4-1982-KR": "$577.56",
+        "Software": "Software Included",
+        "Number of DisplayPort Outputs": "1",
+        "ZT-90107-10P": "$418.90",
+        "Analog Signal": "Yes",
+        "Chipset Series": "GTX 900",
+        "HDMI": "Yes",
+        "Platform Supported": "PC",
+        "04G-P4-2986-KR": "$600.79",
+        "04G-P4-1970-KR": "$366.97",
+        "GPU Clock": "1.10 GHz",
+        "Bus Width": "256 bit",
+        "04G-P4-2982-KR": "$624.10",
+        "04G-P4-2974-KR": "$384.68",
+        "STRIX-GTX970-DC2OC-4GD5": "$366.46",
+        "Product Type": "Graphic Card",
+        "04G-P4-2981-KR": "$556.26",
+        "04G-P4-2980-KR": "$590.23",
+        "04G-P4-3975-KR": "$390.03",
+        "04G-P4-1972-KR": "$370.49",
+        "Number of DVI Outputs": "2"
+      },
+      "sitedetails": [
+        {
+          "sku": "793506",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1458194000,
+              "id": "0WuMWpIc84OQGsO6S6c4mW",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "348.26",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1457627900,
+              "currency": "USD",
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1456967500,
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "363.59",
+              "id": "77FKTlrwI4cKoG8Mq686mU",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1456967500,
+              "isactive": 0
+            },
+            {
+              "price": "363.58",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1455827300,
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1456365600,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "4gGSxTHblAE4cYaI426WEk",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=793506"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "3UHNy4S1xwA6aiuaEwWsSk",
+              "lastrecorded_at": 1460876900,
+              "firstrecorded_at": 1460876900,
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "currency": "USD",
+              "price": "352.72",
+              "isactive": 0
+            },
+            {
+              "id": "4i64Z0gBoGAiEQCMaqqKIu",
+              "lastrecorded_at": 1458839200,
+              "firstrecorded_at": 1457531900,
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "currency": "USD",
+              "price": "362.16",
+              "isactive": 0
+            },
+            {
+              "id": "5VumDbIfeiAgaY8qeqIouY",
+              "lastrecorded_at": 1456783300,
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1456783300,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "379.85",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com",
+          "url": "http://www.antonline.com/p_MSI--GTX-970-4GD5T-OC--MSI-GTX-970-4GD5T-OC-Graphics-Cards-GTX-970-4GD5T-OC_1148082.htm",
+          "recentoffers_count": 0,
+          "sku": "1148082"
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1454667300,
+              "seller": "Adorama",
+              "availability": "available",
+              "currency": "USD",
+              "price": "319.95",
+              "id": "6meXvK0jom6aosQEi6oQum",
+              "lastrecorded_at": 1462625300,
+              "isactive": 1
+            },
+            {
+              "price": "339.99",
+              "availability": "available",
+              "currency": "USD",
+              "firstrecorded_at": 1449931600,
+              "seller": "Adorama",
+              "lastrecorded_at": 1449931600,
+              "id": "2dFIRxictyiw8GA2Ec6YGO",
+              "isactive": 0
+            }
+          ],
+          "name": "adorama.com",
+          "recentoffers_count": 1,
+          "sku": "MSIGTX9704GD",
+          "url": "http://www.adorama.com/MSIGTX9704GD.html"
+        }
+      ],
+      "sem3_id": "2iat1YuRfEMyIqEK4OGyiC",
+      "price": "318.91",
+      "updated_at": 1463723519,
+      "cat_id": "14624",
+      "upc": "824142028049",
+      "mpn": "GTX 970 4GD5T/OC",
+      "length": "274.32",
+      "created_at": 1428534634,
+      "model": "GTX 970 4GD5T/OC",
+      "manufacturer": "Micro-Star International Co., Ltd",
+      "gtins": [
+        "00824142028049"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows XP Home Edition",
+      "sem3_id": "7mPijjSYcagIi0uOYEEoiw",
+      "features": {
+        "Shipping Weight (in pounds)": "1.0",
+        "Product in Inches (L x W x H)": "7.5 x 5.5 x 2.0",
+        "Origin of Components": "USA or Imported",
+        "Age Start": "12 Years",
+        "Assembled in Country of Origin": "USA or Imported",
+        "Age End": "and up"
+      },
+      "height": "190.50",
+      "model": "EK05097",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5IPQURMFoOQMoAceuCmEKK",
+              "lastrecorded_at": 1463721700,
+              "seller": "Music123",
+              "price": "25.46",
+              "firstrecorded_at": 1458320300,
+              "isactive": 1
+            },
+            {
+              "seller": "Walmart",
+              "firstrecorded_at": 1462463700,
+              "price": "25.46",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1462463700,
+              "id": "4ShF3SI8C82oCU0qYqiGmk",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1461561800,
+              "id": "3AcWceZ97YuoMwYsUqQuU0",
+              "seller": "Walmart",
+              "firstrecorded_at": 1456681100,
+              "price": "26.49",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/13726888",
+          "sku": "13726888"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "1cS5qRTl52swuwemYicQsM",
+              "lastrecorded_at": 1463645200,
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "29.99",
+              "firstrecorded_at": 1402703400,
+              "seller": "Frys",
+              "isactive": 1
+            },
+            {
+              "availability": "In stock, ships same Business Day.",
+              "currency": "USD",
+              "lastrecorded_at": 1402636300,
+              "id": "74VNCiUZaCEkEa444QwMS2",
+              "seller": "Frys",
+              "firstrecorded_at": 1402126700,
+              "price": "24.99",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "firstrecorded_at": 1397349200,
+              "price": "29.99",
+              "availability": "In stock, ships same Business Day.",
+              "currency": "USD",
+              "lastrecorded_at": 1402035300,
+              "id": "5dJvOYD6C88Ss2mieCguW2",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6092648",
+          "sku": "6092648",
+          "recentoffers_count": 1
+        },
+        {
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=662190",
+          "sku": "662190",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1391003600,
+              "price": "36.93",
+              "availability": "In Stock",
+              "currency": "USD",
+              "lastrecorded_at": 1418857200,
+              "id": "6ezS7fXgyesigmkyiUgcGi",
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "price": "35.43",
+              "firstrecorded_at": 1388755700,
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "3zz11R40sCaQ208AoKWkCG",
+              "lastrecorded_at": 1390906900,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "ean": "0746290050973",
+      "platform": [
+        "Windows 2000",
+        "Windows XP Home Edition",
+        "Windows XP Professional"
+      ],
+      "upc": "746290050973",
+      "price": "25.46",
+      "manufacturer": "eMedia Musical Instruments",
+      "created_at": 1347640170,
+      "category": "Instrument Instruction",
+      "width": "50.80",
+      "updated_at": 1463818835,
+      "name": "eMedia Keyboard USB MIDI Interface Kit",
+      "brand": "eMedia",
+      "cat_id": "10667",
+      "mpn": "EK05097",
+      "length": "139.70",
+      "weight": "136077.71",
+      "gtins": [
+        "00746290050973"
+      ],
+      "variation_secondaryids": [
+        "5MBwNRw5qaiUMig0KOOAaa",
+        "6FdckfB0NM28w4O8uKSmOk",
+        "3q3zO2vVDcyKOgYKI84k8s",
+        "76K9VjTqVMQcGsMQykSam2",
+        "5oRSAHNoFU2wgIogACqkg8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "137.92",
+      "ean": "0884799001079",
+      "cat_id": "14715",
+      "brand": "Cyberlink",
+      "features": {
+        "Package Type": "Retail",
+        "License Pricing": "Standard",
+        "Software Sub Type": "Video Editing",
+        "Platform Supported": "PC",
+        "Software Main Type": "Graphics/Multimedia",
+        "Features": "Premium CyberLink Software:PowerDirectorPowerDirector MobileWave Editor 2 ExpressNewBlueFX Effects - professional quality effects:10 Built-in NewBlueFX Art EffectsCybrLink Content Packs - various built-in effects in PowerDirector:Content Pack PremiumContent Pack EssentialBlazing Speed:Native 64-bit Support TrueVelocity 3 EngineOpenCL SupportIn elligence SVRT 3Multi-GPGPU AccelerationMulti-Core CPU optimizationAMD FUSION and VISION OptimizationIntel 3rd Gen Core Technology OptimizationMovie Creation Tools:Content-aware Editing< li>3D Editing - 3D Title/ PiP Object/ 3D transition/ 3D Menu/ 3D ParticleDesign Studio with full screen editor4 color gradient title & title text reflectionFull HD reviewUndockable preview window100 tr cks timelineMagic Movie ToolsTrueTheater enhancement technologyHand paint animationTime-lapse slideshow creatorChroma keyInput/Output Format Support:4K Resolution support (16:9 atio 4096 x 2304/ 4:3 ratio 4096 x 3072)2K Resolution support (16:9 ratio 2048 x 1152/ 4:3 ratio 2048 x 1536)Full HD 1080p (1920 x 1080)Import Video FormatsImport Multi-channel digital surround sound in video clipsImport Photo FormatsImport Audio FormatsDisc burning (BD, BDXL, AVCHD)DVD Disc burningSocial Network:Social network service support - YouTube, Facebook, DailyMotion, Vimeo, Niconico Douga (Ja anese version only)300,000+ Free Effects, Particles, Tutorials & Menus on DirectorZoneUpload 3D video to YouTube 3D",
+        "License Quantity": "1 User",
+        "License Type": "Complete Product",
+        "Product Type": "Software",
+        "Software Name": "PowerDirector v.11.0 Ultra",
+        "Operating System Supported": "Windows"
+      },
+      "weight": "240403.96",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1387742700,
+              "firstrecorded_at": 1372167000,
+              "seller": "Frys",
+              "currency": "USD",
+              "id": "08mA2a77yNskkYSm28Gqyc",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "price": "89.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/7338284",
+          "recentoffers_count": 0,
+          "name": "frys.com",
+          "sku": "7338284"
+        },
+        {
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "id": "7W9vWn4RxgeGeqMwESemyk",
+              "price": "99.95",
+              "availability": "In stock. [BBX: Buy Box]",
+              "lastrecorded_at": 1382844500,
+              "firstrecorded_at": 1382844500,
+              "currency": "USD",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "id": "3SwKGGPzAGAMgOyEkMuWcs",
+              "price": "98.95",
+              "firstrecorded_at": 1373740800,
+              "lastrecorded_at": 1373799700,
+              "seller": "Newegg",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1373121400,
+              "lastrecorded_at": 1373424600,
+              "currency": "USD",
+              "seller": "Newegg",
+              "id": "12XjPddSOmGK0UQK2sqqeW",
+              "price": "79.95",
+              "isactive": 0
+            }
+          ],
+          "sku": "N82E16832117027",
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832117027"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "CYK_00107",
+          "url": "http://www.jr.com/cyberlink/pe/CYK_00107",
+          "latestoffers": [
+            {
+              "seller": "JR",
+              "currency": "USD",
+              "lastrecorded_at": 1388157400,
+              "firstrecorded_at": 1388157400,
+              "price": "49.97",
+              "id": "4fphf2GJw82soGm6YSsoAK",
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com"
+        }
+      ],
+      "sem3_id": "2oxUpd6Tdw0eEq4K6EIaQE",
+      "updated_at": 1463715638,
+      "name": "Cyberlink PowerDirector 11 Ultra [Ultra, PC Disc]",
+      "category": "Video Editing",
+      "mpn": "PDR-EB00-RPU0-00",
+      "upc": "884799001079",
+      "model": "PDR EB00 RPU0 00",
+      "operatingsystem": "Windows 7",
+      "width": "30.99",
+      "length": "189.99",
+      "created_at": 1355897535,
+      "price": "33.88",
+      "manufacturer": "Cyberlink",
+      "gtins": [
+        "00884799001079"
+      ],
+      "variation_secondaryids": [
+        "1PyNoBdyyiuYU8omaeqUCi"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Corel",
+      "operatingsystem": "Windows 8",
+      "name": "Corel VideoStudio Ultimate X8",
+      "sitedetails": [
+        {
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9676251",
+          "latestoffers": [
+            {
+              "price": "94.99",
+              "firstrecorded_at": 1463309900,
+              "id": "1dHWVqF6xQ6sUWWOqIIMgK",
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1463309900,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "5mN5140ZWqqa8kqaiww0mc",
+              "seller": "TigerDirect",
+              "price": "93.99",
+              "firstrecorded_at": 1459628500,
+              "currency": "USD",
+              "lastrecorded_at": 1462392100,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1458992900,
+              "currency": "USD",
+              "price": "92.99",
+              "id": "6vhKc3gXHkcMO8SycE4Oey",
+              "seller": "TigerDirect",
+              "firstrecorded_at": 1456530100,
+              "isactive": 0
+            }
+          ],
+          "sku": "9676251",
+          "recentoffers_count": 1,
+          "name": "tigerdirect.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "price": "93.91",
+              "firstrecorded_at": 1454947100,
+              "id": "69dU1be1mwemGq2GCqQUks",
+              "lastrecorded_at": 1458187800,
+              "availability": "In Stock",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1454093400,
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1454093400,
+              "price": "96.75",
+              "id": "0BidAblSjyKCqMgSOOGISa",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1453389200,
+              "currency": "USD",
+              "availability": "In Stock",
+              "price": "93.91",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1452752400,
+              "id": "1g8cS6s1dcK6AMsmwyMoKu",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=815600",
+          "sku": "815600",
+          "recentoffers_count": 1,
+          "name": "datavis.com"
+        },
+        {
+          "url": "http://www.frys.com/product/8460028",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "id": "2zXvf6ttr600gqUO0AmoWI",
+              "firstrecorded_at": 1456660600,
+              "price": "99.99",
+              "lastrecorded_at": 1459750600,
+              "availability": "Available for In-Store Pickup Only",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1456059400,
+              "seller": "Frys",
+              "id": "6YEIbGnMtUmaaWW4OugEIe",
+              "price": "34.99",
+              "lastrecorded_at": 1456059400,
+              "availability": "In Stock",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "3JQ3kce4hEA2AuO8OAqA0A",
+              "firstrecorded_at": 1448329500,
+              "seller": "Frys",
+              "price": "99.99",
+              "availability": "In Stock",
+              "currency": "USD",
+              "lastrecorded_at": 1455399200,
+              "isactive": 0
+            }
+          ],
+          "sku": "8460028",
+          "recentoffers_count": 0,
+          "name": "frys.com"
+        }
+      ],
+      "mpn": "VSPRX8ULMLMBAM",
+      "sem3_id": "5w5S4RWjjss4ciMEG8Kumi",
+      "weight": "68038.86",
+      "variation_id": "239EcDLsCaKY0EMWemywyk",
+      "category": "Video Editing",
+      "created_at": 1428547443,
+      "brand": "Corel",
+      "features": {
+        "Platform Supported": "PC",
+        "Software Sub Type": "Video Editing",
+        "Product Type": "Software",
+        "System Requirements": "Processor: 2 GHz 1.83 GHz Operating System: Windows 8 (32/64 bits) Microsoft Windows 7 (32/64 bits) Microsoft Windows Vista (32/64 bits) SP2 Microsoft Windows XP (2/64 bits) SP3 Hard Disk: 500 MB of available space 1.2 GB of available space for full installation Memory: 2GB for PC Optical Drive: DVD-ROM Others: 1024 x 768 monitor resolution sound card",
+        "License Type": "Box Pack",
+        "Software Name": "VideoStudio X8 Ultimate",
+        "Compatibility": "iPhone, iPad, iPod Classic with video, iPod touch, Sony PSP, Windows and Android smartphones Cameras and camcorders that record to internal memory, memory card, DVD disc or hard drive USB capture devices, PC cameras, webcams IEEE 1394/FireWire cards for use with DV, D8, or HDV camcorders USB Video Class (UVC) DV Support for OHCI-Compliant IEEE-1394 Analog capture cards for analog camcorders (VFW and WDM support for Windows XP and Broadcast Driver Architecture support for Windows Vista and Windows 7 Analog and digital TV capture device (Broadcast Driver Architecture support) Windows-compatible Blu-ray Disc, DVD-R/RW, DVD+R/RW, DVD-RAM and CD-R/RW drives Digi al Single-Lens Reflex (SLR) cameras for stop motion: EOS-1D Mark III, EOS-1D Mark IV, EOS-1Ds Mark III, EOS 1D X, EOS-1D C, EOS 5D Mark II, EOS 5D Mark III, EOS 6D, EOS 7D, EOS 40D, EOS 50D, EOS 60D, EOS 60Da, EOS 450D/Rebel XSi, EOS 500D/Rebel T1i, EOS 50D/Rebel T2i, EOS 600D/Rebel T3i, EOS 650D/Rebel T4i, EOS 1000D/Rebel XS, EOS 1100D/Rebel T3, EOS M",
+        "Packing": "Mini Box",
+        "Operating System Supported": "Windows",
+        "Features": "English",
+        "Distribution Media/Method": "DVD-ROM",
+        "Language Supported": "Italian",
+        "Software Main Type": "Graphics/Multimedia",
+        "License Quantity": "1 User"
+      },
+      "updated_at": 1463779932,
+      "ean": "0735163146417",
+      "width": "31.75",
+      "cat_id": "14715",
+      "length": "133.35",
+      "upc": "735163146417",
+      "price": "35.70",
+      "height": "190.50",
+      "model": "VSPRX8ULMLMBAM",
+      "gtins": [
+        "00735163146417"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "35.81",
+      "width": "31.75",
+      "ean": "0735163146868",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "16QOpgknr6Uo2a6Ag8I028",
+              "price": "38.10",
+              "lastrecorded_at": 1463751600,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1463751600,
+              "seller": "B&H",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1462487500,
+              "seller": "B&H",
+              "id": "0jTnzL7t6YICM4i2oiwAkI",
+              "price": "39.99",
+              "lastrecorded_at": 1463410100,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1462188500,
+              "availability": "Available",
+              "id": "6nDojXkaeW6ea88k82i2MW",
+              "price": "67.48",
+              "seller": "B&H",
+              "currency": "USD",
+              "firstrecorded_at": 1462188500,
+              "isactive": 0
+            }
+          ],
+          "name": "bhphotovideo.com",
+          "sku": "1177567",
+          "recentoffers_count": 1,
+          "url": "http://www.bhphotovideo.com/c/product/1177567-REG/corel_pspx8enmbam_paintshop_pro_x8.html"
+        },
+        {
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9833908",
+          "recentoffers_count": 1,
+          "sku": "9833908",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect",
+              "firstrecorded_at": 1455360700,
+              "currency": "USD",
+              "lastrecorded_at": 1463374200,
+              "price": "69.98",
+              "id": "2GPJ0B2CC806eq2kAKe6US",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1448294000,
+              "availability": "Available,",
+              "price": "67.48",
+              "id": "5yGm81Nem8uUgq84Ka2GCU",
+              "seller": "TigerDirect",
+              "firstrecorded_at": 1440709700,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "tigerdirect.com"
+        },
+        {
+          "url": "http://www.frys.com/product/8571719",
+          "recentoffers_count": 1,
+          "sku": "8571719",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1463637800,
+              "seller": "Frys",
+              "id": "2mzx57FxDMwucGkEWEqKKG",
+              "price": "79.98",
+              "lastrecorded_at": 1463637800,
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1462902200,
+              "availability": "In Stock",
+              "id": "2pzKGuEukCukuMoQ2GOI6E",
+              "price": "39.99",
+              "seller": "Frys",
+              "currency": "USD",
+              "firstrecorded_at": 1462902200,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1460355000,
+              "currency": "USD",
+              "seller": "Frys",
+              "price": "79.98",
+              "id": "6FLkOZkzQGW400MuAAgGSc",
+              "availability": "In Stock",
+              "lastrecorded_at": 1461158100,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "model": "COPSPX8",
+      "length": "133.35",
+      "weight": "104326.25",
+      "operatingsystem": "Windows 8",
+      "upc": "735163146868",
+      "sem3_id": "4E84bk4qUqMsIwEQkwo4Sy",
+      "created_at": 1440559203,
+      "category": "Video & Music",
+      "brand": "Corel",
+      "mpn": "PSPX8ENMBAM",
+      "updated_at": 1463782903,
+      "height": "190.50",
+      "cat_id": "14624",
+      "features": {
+        "Operating system compatibility": "Windows 8 Enterprise; Windows 8 Professional; Windows 8; Windows 8 Enterprise x64; Windows 8 Professional x64; Windows 8 x64; Windows 7 Starter; Windows 7 Home Basic; Windows 7 Home Premium; Windows 7 Professional; Windows 7 Ultimate; Windows 7 Enterprise; Windows 7 Home Basic x64; Windows 7 Home Premium x64; Windows 7 Professional x64; Windows 7 Ultimate x64; Windows 7 Enterprise x64",
+        "Blob": "Everything you need for pro-quality photo editing and design; Powerful tools let you realize your creative ideas faster; New Text Wrapping lets you instantly wrap text inside any vector shape or selection; New content-aware Magic Move accelerates editing by automatically replacing the background when you move an object; Professional-level photo editing at an affordable price",
+        "Software type": "download",
+        "Download size": "303598 KB",
+        "Version": "8",
+        "Memory requirements": "2 GB RAM (4 GB or higher recommended)",
+        "Minimum hard disk space": "1GB of available hard-disk space required (2GB recommended)",
+        "Additional requirements": "Internet connection required for online features and tutorial videos; 1024 x 768 resolution with 16-bit color display (1366 x 768 resolution with 24-bit or higher color display recommended)",
+        "Minimum processor compatibility": "Intel or AMD 1.5 GHz processor with SSE2 supported (multi-core processor recommended)",
+        "Distributor": "Arvato digital services Canada, Inc."
+      },
+      "name": "PaintShop Pro X8 (DVD)",
+      "gtins": [
+        "00735163146868"
+      ],
+      "variation_secondaryids": [
+        "0yDrqTMnpUu024gKCuCKsI",
+        "6MVeSuG5xYsWEeYGGAkgo6"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows 10",
+      "features": {
+        "Software Sub Type": "Video Editing",
+        "Product Type": "Software",
+        "Product Information": "Software Main Type",
+        "Packing": "Box",
+        "Additional Product Specifications": "Full Product Specifications",
+        "License Information": "License Quantity",
+        "Operating System Supported": "Windows",
+        "Platform Supported": "PC",
+        "Manufacturer Website Address": "http://www.corel.com",
+        "Software Name": "Studio v.19.0 Ultimate"
+      },
+      "category": "Video & Music",
+      "brand": "Pinnacle",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "2tgZAX8cKGSgeA4u424isQ",
+              "lastrecorded_at": 1463690100,
+              "seller": "B&H",
+              "firstrecorded_at": 1459870400,
+              "currency": "USD",
+              "price": "114.99",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1459517500,
+              "seller": "B&H",
+              "firstrecorded_at": 1458050500,
+              "price": "99.00",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "0e5rYwFEfWSQY8IOeWiSqC",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "126.99",
+              "firstrecorded_at": 1456997300,
+              "seller": "B&H",
+              "lastrecorded_at": 1457353400,
+              "id": "0bniQ21Yw7aAosE2A44uY6",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com",
+          "sku": "1183525",
+          "url": "http://www.bhphotovideo.com/c/product/1183525-REG/pinnacle_pnst19ulenam_studio_19_ultimate_box.html"
+        },
+        {
+          "url": "http://www.antonline.com/p_Pinnacle-Systems--PNST19ULENAM--Pinnacle-Studio-v.19.0-Ultimate---Video-Editing-Box---PC_1210938.htm",
+          "sku": "1210938",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "119.45",
+              "firstrecorded_at": 1456148700,
+              "lastrecorded_at": 1461544100,
+              "seller": "ANTOnline",
+              "id": "57aymxf05AAu2oW4ImoCg2",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "117.87",
+              "firstrecorded_at": 1455545300,
+              "lastrecorded_at": 1455545300,
+              "seller": "ANTOnline",
+              "id": "43Qj65dCw4iC08WUCCiGI4",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1454391100,
+              "firstrecorded_at": 1454391100,
+              "currency": "USD",
+              "price": "117.39",
+              "availability": "Available",
+              "id": "6cVFybQ1aKWCQksEqYI2uU",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com"
+        }
+      ],
+      "weight": "104326.25",
+      "upc": "735163147179",
+      "updated_at": 1463690178,
+      "length": "133.35",
+      "ean": "0735163147179",
+      "sem3_id": "2jZ5lOuGOWSSsGoqmSgocM",
+      "model": "PIS19UB",
+      "height": "190.50",
+      "cat_id": "14624",
+      "price": "114.99",
+      "created_at": 1444017456,
+      "mpn": "PNST19ULENAM",
+      "name": "Studio 19 Ultimate for Windows (Box)",
+      "width": "31.75",
+      "gtins": [
+        "00735163147179"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

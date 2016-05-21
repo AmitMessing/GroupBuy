@@ -1,0 +1,406 @@
+{
+  "total_results_count": 18797,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "features": {
+        "Age": "Adult",
+        "Material": "Silver",
+        "Gender": "Female",
+        "Occasion": "Holiday",
+        "Metal Stamp": ".925 Sterling Silver"
+      },
+      "weight": "45359.24",
+      "mpn": "PBX-HS-631-D",
+      "manufacturer": "Bling Jewelry",
+      "sem3_id": "67ORxVLUqOS8E4OIK4YwYK",
+      "updated_at": 1462940975,
+      "length": "2.79",
+      "created_at": 1357373772,
+      "cat_id": "8504",
+      "name": "Bling Jewelry Antique Styled 925 Sterling Silver Casino Slot Machine Charm Bead Fits Pandora",
+      "sitedetails": [
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT6769",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1370264200,
+              "lastrecorded_at": 1377653300,
+              "price": "24.99",
+              "seller": "Bling Jewelry",
+              "availability": "In stock. [BBX: Buy Box]",
+              "id": "7VYlsSOqieua8iMwq0uSkw",
+              "isactive": 0
+            }
+          ],
+          "sku": "9SIA1WW0RT6769",
+          "name": "newegg.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "model": "PBX HS 631 D",
+      "price": "20.99",
+      "brand": "Bling Jewelry",
+      "category": "Charms",
+      "width": "2.03",
+      "height": "2.79",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "12.70",
+      "category": "Charms",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1370260100,
+              "price": "12.99",
+              "id": "2pA5h6DcNkYSoWGgAwcCUK",
+              "lastrecorded_at": 1378722000,
+              "seller": "Bling Jewelry",
+              "currency": "USD",
+              "availability": "In stock. [BBX: Buy Box]",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT5609",
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "sku": "9SIA1WW0RT5609"
+        }
+      ],
+      "weight": "22679.62",
+      "manufacturer": "Bling Jewelry",
+      "price": "12.99",
+      "created_at": 1347703932,
+      "model": "PBX HZ 04 coffee",
+      "width": "6.35",
+      "updated_at": 1463049049,
+      "cat_id": "8504",
+      "sem3_id": "4fRiPM4ca8kUuK02usaCGY",
+      "name": "Bling Jewelry Sterling Silver Gold Tone Crystal Bead Pandora Compatible",
+      "mpn": "PBX-HZ-04-coffee",
+      "length": "12.70",
+      "brand": "Bling Jewelry",
+      "features": {
+        "Product Dimensions": "0.5 x 0.2 x 0.5 inches; 0.8 ounces",
+        "Metal stamp": "925 Sterling",
+        "Material": "Crystal",
+        "Brand, Seller, or Collection Name": "Bling Jewelry",
+        "Item Length": "0.50 inches",
+        "Metal": "Sterling silver"
+      },
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347724263,
+      "sem3_id": "17qgzLFLi4keUoWOgA8eiw",
+      "manufacturer": "Bling Jewelry",
+      "weight": "45359.24",
+      "width": "0.06",
+      "price": "15.99",
+      "category": "Charms",
+      "length": "0.13",
+      "features": {
+        "Gender": "Female",
+        "Material": "Silver",
+        "Metal Stamp": ".925 Sterling Silver",
+        "Age": "Adult"
+      },
+      "updated_at": 1463059026,
+      "cat_id": "8504",
+      "sitedetails": [
+        {
+          "sku": "9SIA1WW0RT4472",
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT4472",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "shipping": "2.99",
+              "price": "16.98",
+              "currency": "USD",
+              "id": "4Npj5jT0fQWY6Ue0aOCG42",
+              "seller": "Bling Jewelry",
+              "lastrecorded_at": 1370260000,
+              "firstrecorded_at": 1370260000,
+              "availability": "Was: $35.99 [BBX: Buy Box]",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "brand": "Bling Jewelry",
+      "model": "PBX HS 301 DARKEN",
+      "height": "0.13",
+      "name": "Bling Jewelry 925 Sterling Silver Sea Turtle Nautical Animal Bead Charm Fits Pandora",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8504",
+      "name": "Sterling Silver Orange Pandora Compatible",
+      "model": "PBX HZ 04 ORANGE",
+      "manufacturer": "Bling Jewelry",
+      "updated_at": 1463027360,
+      "mpn": "PBX-HZ-04-ORANGE",
+      "brand": "Bling Jewelry",
+      "sitedetails": [],
+      "color": "Orange",
+      "weight": "4535.92",
+      "upc": "640626677271",
+      "features": {
+        "Product Dimensions": "0.5 x 0.2 x 0.5 inches; 0.2 ounces"
+      },
+      "category": "Charms",
+      "height": "12.70",
+      "sem3_id": "49lryRQ9RYUuSAU0GuCMOe",
+      "ean": "0640626677271",
+      "length": "12.70",
+      "price": "12.99",
+      "width": "6.35",
+      "created_at": 1347793063,
+      "gtins": [
+        "00640626677271"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8504",
+      "updated_at": 1462980047,
+      "sitedetails": [
+        {
+          "sku": "026V006916560000P",
+          "url": "http://www.kmart.com/sterling-silver-heart-charm-holder/p-026V006916560000P",
+          "name": "kmart.com",
+          "latestoffers": [
+            {
+              "id": "5iKWXcYV3uqm0Acq8m4e2w",
+              "firstrecorded_at": 1420344000,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "19.98",
+              "seller": "Sears Brands, LLC.",
+              "lastrecorded_at": 1420344000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        }
+      ],
+      "category": "Charms",
+      "weight": "22679.62",
+      "features": {
+        "Product Dimensions": "3.1 x 3.1 x 1.5 inches; 0.8 ounces"
+      },
+      "price": "14.30",
+      "sem3_id": "0H7cZxNSNXMMkoMICY2ieq",
+      "created_at": 1347731930,
+      "name": "Sterling Silver Heart Charm Holder - JewelryWeb",
+      "brand": "JewelryWeb",
+      "model": "QTC36910NC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "IMD Trading Company, Inc.",
+      "brand": "Amazon Curated Collection",
+      "color": "Rose Gold",
+      "length": "0.25",
+      "category": "Charms",
+      "updated_at": 1459909242,
+      "mpn": "IMD-355-48-PG",
+      "cat_id": "8504",
+      "features": {
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Origin": "Italy",
+        "Metal": "Rose gold",
+        "Total metal weight": "0.6 Grams",
+        "California residents": "Click here for Proposition 65 warning",
+        "Package": "Regal Blue Sueded-Cloth Pouch",
+        "Metal stamp": "14k",
+        "Product Dimensions": "3.6 x 2 x 0.1 inches; 0.2 ounces"
+      },
+      "weight": "17009.71",
+      "sem3_id": "0rnXmBNqfuQYWEm8QMa8Qg",
+      "model": "IMD 355 48 PG",
+      "name": "14k Gold Italian Horn Charm [rose-g",
+      "created_at": 1374855817,
+      "sitedetails": [],
+      "width": "1.14",
+      "height": "0.01",
+      "price": "42.38",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347665014,
+      "weight": "22679.62",
+      "color": "silver",
+      "manufacturer": "Amazon Curated Collection",
+      "name": "Sterling Silver and 14k Yellow Gold Diamond Accent Monkey Charm",
+      "category": "Charms",
+      "price": "89.65",
+      "features": {
+        "Metal": "Yellow gold and sterling silver",
+        "Product Dimensions": "4.4 x 4 x 0.1 inches; 0.8 ounces",
+        "Gem Type": "Diamond",
+        "Package": "Deluxe Small Box",
+        "Stone shape": "Round",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Setting": "Prongs",
+        "Stone Treatment Method": "Not treated",
+        "Metal stamp": "925 14k",
+        "Cut": "Good cut",
+        "Minimum Total Carat Weight": "0.09 carats",
+        "Origin": "China",
+        "Clasp": "Other clasp type",
+        "Total metal weight": "3.82 Grams",
+        "Minimum clarity": "I2-I3",
+        "Stone Creation Method": "Natural",
+        "Minimum color": "I-J"
+      },
+      "cat_id": "8504",
+      "updated_at": 1461929969,
+      "width": "0.14",
+      "brand": "Amazon Curated Collection",
+      "sitedetails": [],
+      "height": "0.34",
+      "mpn": "ESW40422-AM",
+      "sem3_id": "1AzmyuHli0ugSGQ2Wu06CO",
+      "model": "ESW40422 AM",
+      "ean": "0694104026327",
+      "upc": "694104026327",
+      "gtins": [
+        "00694104026327"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462535761,
+      "features": {
+        "Product Dimensions": "4.1 x 3.1 x 0.1 inches; 0.8 ounces",
+        "Brand, Seller, or Collection Name": "THIN LINE JEWELRYÂ®",
+        "Material": "Fine Italian Glass and Sterling Silver",
+        "Metal stamp": ".925",
+        "Diameter": "14 millimeters",
+        "Metal": "Sterling Silver"
+      },
+      "model": "TBL charm",
+      "brand": "Thin Line Jewelry",
+      "cat_id": "8504",
+      "sem3_id": "6TBVajXSdcO8GuOSKUWAm0",
+      "category": "Charms",
+      "created_at": 1347462435,
+      "price": "45.00",
+      "name": "Thin Blue Line POLICE Charm: Midnight Black and Cobalt Blue Glass with Sterling Silver Core",
+      "width": "1.78",
+      "manufacturer": "Thin Line Jewelry",
+      "sitedetails": [],
+      "weight": "22679.62",
+      "height": "3.56",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Silver Tone",
+      "weight": "8504.86",
+      "category": "Charms",
+      "upc": "608702017380",
+      "sitedetails": [],
+      "updated_at": 1461333080,
+      "ean": "0608702017380",
+      "sem3_id": "0Tc6ypQPfSS0cEqigiiu0o",
+      "created_at": 1347616134,
+      "manufacturer": "Pugster",
+      "mpn": "OP_GBD277_XML",
+      "features": {
+        "Material": "Base Metal - Silver Plated",
+        "Brand, Seller, or Collection Name": "Pugster",
+        "Product Dimensions": "7.1 x 4.1 x 0.6 inches; 0.3 ounces",
+        "Metal stamp": "Not stamped",
+        "Metal": "Base Metal - Silver Plated"
+      },
+      "artist": "Pugster",
+      "height": "5.07",
+      "model": "OP_GBD277_XML",
+      "name": "Pugster Heart Mother & Daughter Beads Fit Pandora Chamilia Biagi Charm Bracelet",
+      "width": "6.94",
+      "brand": "Pugster",
+      "cat_id": "8504",
+      "gtins": [
+        "00608702017380"
+      ],
+      "variation_secondaryids": [
+        "6yrDgiyFkWE0CsssC2gkw8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8504",
+      "brand": "Rembrandt",
+      "sem3_id": "5Unn5FUgeOO4ay42iGS2Wq",
+      "created_at": 1379675843,
+      "color": "No",
+      "category": "Charms",
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "mpn": "20-0103-SS",
+      "sitedetails": [],
+      "updated_at": 1409390320,
+      "price": "14.50",
+      "variation_secondaryids": [
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

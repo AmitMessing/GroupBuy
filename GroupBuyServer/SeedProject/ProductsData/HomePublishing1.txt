@@ -1,0 +1,883 @@
+{
+  "total_results_count": 3235,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "length": "25.40",
+      "height": "25.40",
+      "model": "32960",
+      "operatingsystem": "Mac OS X 10.6 Snow Leopard",
+      "manufacturer": "Encore Software",
+      "cat_id": "23869",
+      "name": "Printmaster Platinum",
+      "width": "25.40",
+      "sem3_id": "62Xmw9zRYGuaGeEuuYYIIk",
+      "updated_at": 1463773942,
+      "features": {
+        "PC Video": "16MB 1024 x 768 video card",
+        "PC Drive Type and Speed": "DVD",
+        "Mac Processor Speed": "867MHz",
+        "PC Processor Type": "IntelÂ® PentiumÂ® 4 processor or equivalent",
+        "Mac Video": "8MB 1024 x 768 video card",
+        "PC Processor Speed": "1.6GHz",
+        "PC Operating System": "Windows XP Home/Professional with Service Pack 3, Windows Vista with Service Pack 2, Windows 7",
+        "Mac Operating System": "Macintosh System 10.5 â 10.7.3",
+        "Platform": "Mac/Windows",
+        "PC System Memory": "1GB RAM",
+        "Mac Drive Type and Speed": "DVD",
+        "Mac Processor Type": "PowerPC, G4",
+        "Mac Optional Requirements": "QuickTime version 7.5 or higher, latest Java update, printer, digital camera, Internet connection required to access online features",
+        "PC Additional Requirements": "Java version 6 or higher",
+        "Mac System Memory": "1GB RAM",
+        "PC Optional Requirements": "QuickTime version 7.5 or higher, printer, digital camera, Internet required to access online features",
+        "PC Hard Drive Space": "2.7GB",
+        "Genre": "Educational",
+        "Mac Hard Drive Space": "22GB"
+      },
+      "price": "26.74",
+      "ean": "0705381329602",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP",
+        "Mac OS X 10.6 Snow Leopard"
+      ],
+      "upc": "705381329602",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/7398834",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "price": "39.99",
+              "seller": "Frys",
+              "id": "6GVO28Q3IOMweYKiQ0awOu",
+              "firstrecorded_at": 1379622700,
+              "currency": "USD",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1390438100,
+              "isactive": 0
+            }
+          ],
+          "sku": "7398834",
+          "recentoffers_count": 0
+        }
+      ],
+      "brand": "Encore",
+      "created_at": 1348669956,
+      "weight": "90718.47",
+      "category": "Clip Art",
+      "gtins": [
+        "00705381329602"
+      ],
+      "variation_secondaryids": [
+        "2M9JMGm4JcS2ouCGGoWE8U"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "50.80",
+      "variation_id": "0gkZDyIEMc4a6O2sU4uUEO",
+      "platform": "Mac OS 9 and below",
+      "created_at": 1375345683,
+      "cat_id": "16736",
+      "model": "17530379",
+      "price": "1991.00",
+      "name": "Adobe Pagemaker 7.0 for Mac [Mac Disc]",
+      "operatingsystem": "Macintosh",
+      "mpn": "17530379",
+      "features": {
+        "Version": "7.0.2",
+        "Platform": "MacOS",
+        "License Type": "Complete package",
+        "Distribution Media": "CD-ROM",
+        "Min Supported Color Depth": "8-bit (256 colors)",
+        "Subcategory": "Creativity - desktop publishing",
+        "System Requirements Details": "Apple MacOS 9.1 - RAM 30 MB - HD 150 MB Apple MacOS X - RAM 30 MB - HD 150 MB",
+        "License Qty": "1 user",
+        "Peripheral / Interface Devices": "CD-ROM",
+        "Package Type": "Retail",
+        "License Pricing": "Standard",
+        "OS Required": "Apple MacOS 9.1, Apple MacOS X"
+      },
+      "sitedetails": [],
+      "width": "195.58",
+      "upc": "718659347956",
+      "sem3_id": "1U1tH8c2Ge0ma0O0emu8qG",
+      "category": "Home Publishing",
+      "ean": "0718659347956",
+      "brand": "Adobe",
+      "updated_at": 1463801010,
+      "manufacturer": "Adobe",
+      "weight": "975223.60",
+      "length": "241.30",
+      "gtins": [
+        "00718659347956"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1356175674,
+      "cat_id": "16736",
+      "operatingsystem": "Windows",
+      "brand": "Encore",
+      "width": "152.40",
+      "mpn": "23411",
+      "color": "metallic",
+      "length": "127.00",
+      "height": "6.35",
+      "model": "21380",
+      "category": "Home Publishing",
+      "manufacturer": "Encore Software",
+      "upc": "705381234111",
+      "features": {
+        "Platform": "PC",
+        "Software Sub Type": "Graphics/Designing",
+        "Software Name": "The Print Shop Photo Project",
+        "Model Number NR": "8010365",
+        "Software Main Type": "Graphics/Multimedia",
+        "Platform Supported": "PC"
+      },
+      "name": "The Print Shop v.23",
+      "updated_at": 1463729304,
+      "sem3_id": "6bbz96xBq4UYqM48GumQa8",
+      "weight": "90718.47",
+      "price": "5.00",
+      "ean": "0705381234111",
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6374071",
+          "latestoffers": [
+            {
+              "id": "3QLSpWx5eaYAqK6kmQmKqO",
+              "availability": "In Stock",
+              "firstrecorded_at": 1432042200,
+              "currency": "USD",
+              "price": "5.00",
+              "lastrecorded_at": 1463642300,
+              "seller": "Frys",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1405923400,
+              "id": "1uzgSGLm8GmIayiiUEYeuu",
+              "availability": "In stock, ships same Business Day.",
+              "price": "9.99",
+              "currency": "USD",
+              "lastrecorded_at": 1430338700,
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1405525400,
+              "price": "5.00",
+              "currency": "USD",
+              "firstrecorded_at": 1405093900,
+              "availability": "Unavailable Notify me when available",
+              "id": "1ENVd63JUKO4KMUO0uYEs4",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "6374071"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "660894",
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=660894",
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK",
+              "id": "3PUFQRDR44YYQQQ2gaCiCS",
+              "firstrecorded_at": 1388754700,
+              "currency": "USD",
+              "price": "8.99",
+              "lastrecorded_at": 1390051200,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "gtins": [
+        "00705381234111"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Microsoft",
+      "height": "38.10",
+      "model": "164 04130",
+      "name": "Microsoft Publisher 2007",
+      "cat_id": "16736",
+      "mpn": "164-04130",
+      "operatingsystem": "Windows",
+      "length": "203.20",
+      "width": "139.70",
+      "sem3_id": "0COKgwap8dcAMgsoG8G8cY",
+      "manufacturer": "Microsoft Software",
+      "weight": "99790.32",
+      "sitedetails": [],
+      "ean": "0882224157100",
+      "price": "127.77",
+      "category": "Home Publishing",
+      "created_at": 1348673394,
+      "upc": "882224157100",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "updated_at": 1463787331,
+      "features": {
+        "Peripheral / Interface Devices": "CD-ROM, SVGA monitor",
+        "License Type": "Complete package",
+        "License Pricing": "Standard",
+        "License Qty": "1 PC",
+        "Package Type": "Retail",
+        "Platform": "Windows",
+        "Subcategory": "Creativity - desktop publishing, creativity - web design / publishing",
+        "Language(s)": "English",
+        "Software Requirements": "Internet Explorer 6.0",
+        "OS Required": "Microsoft Windows Server 2003, Microsoft Windows XP SP2 or later",
+        "Distribution Media": "CD-ROM"
+      },
+      "gtins": [
+        "00882224157100"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "7I5MxxI2XgkgCC0igAm6kg",
+      "features": {
+        "License Type": "Complete package",
+        "License Pricing": "Standard",
+        "OS Required": "Microsoft Windows XP, Microsoft Windows 7, Microsoft Windows Vista",
+        "Package Type": "Retail",
+        "Subcategory": "Creativity - desktop publishing",
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, printer, scanner, digital camera, 1024 x 768 monitor resolution",
+        "System Requirements Details": "Pentium - RAM 512 MB - HD 566 MB",
+        "Platform": "Windows",
+        "License Qty": "1 user"
+      },
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "2TB3JYh9NEMWCaOIgkSQq2",
+              "seller": "Frys",
+              "lastrecorded_at": 1348657700,
+              "currency": "USD",
+              "price": "99.99",
+              "availability": "Shipping: In stock, ships same Business Day",
+              "firstrecorded_at": 1348657700,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "6973337",
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6973337"
+        },
+        {
+          "sku": "7548326",
+          "url": "http://www.frys.com/product/7548326",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463658600,
+              "currency": "USD",
+              "id": "0CfabA7r5aCAS6wqOe0KQE",
+              "seller": "Frys",
+              "firstrecorded_at": 1443306900,
+              "price": "14.99",
+              "availability": "Available for In-Store Pickup Only",
+              "isactive": 1
+            },
+            {
+              "availability": "Unavailable Notify me when available While supplies last",
+              "price": "24.90",
+              "firstrecorded_at": 1437116400,
+              "id": "2pejZlJbo0E4IMke6ky86Q",
+              "seller": "Frys",
+              "lastrecorded_at": 1441860800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "0n4pMPSEDEuGYkGiUuQyY4",
+              "seller": "Frys",
+              "lastrecorded_at": 1435522700,
+              "currency": "USD",
+              "price": "29.99",
+              "availability": "Ships by Monday, July 13",
+              "firstrecorded_at": 1405211400,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "operatingsystem": "Windows 7",
+      "cat_id": "16736",
+      "width": "38.10",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "updated_at": 1463658626,
+      "mpn": "PPX6USMBRT",
+      "name": "Serif PagePlus X6",
+      "brand": "Serif",
+      "weight": "381017.59",
+      "created_at": 1348673407,
+      "length": "139.70",
+      "upc": "703115687059",
+      "price": "14.99",
+      "manufacturer": "Serif",
+      "ean": "0703115687059",
+      "category": "Home Publishing",
+      "model": "PPX6USMBRT",
+      "height": "190.50",
+      "gtins": [
+        "00703115687059"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "18708",
+      "updated_at": 1463648685,
+      "name": "Greeting Card Factory 8.0 Deluxe",
+      "model": "RMWT",
+      "category": "Greeting Cards",
+      "created_at": 1348711029,
+      "upc": "727298408744",
+      "manufacturer": "Nova Development US",
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "sku": "6086478",
+          "latestoffers": [
+            {
+              "id": "41IIcX8BVAKYKmScsW8OY8",
+              "lastrecorded_at": 1463648600,
+              "firstrecorded_at": 1399761600,
+              "currency": "USD",
+              "seller": "Frys",
+              "availability": "In Stock",
+              "price": "39.99",
+              "isactive": 1
+            },
+            {
+              "availability": "Ships by Friday, May 16",
+              "seller": "Frys",
+              "price": "34.99",
+              "id": "3jgBGMho5gUugSGg2WY8q4",
+              "currency": "USD",
+              "firstrecorded_at": 1388416400,
+              "lastrecorded_at": 1399585000,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/6086478"
+        },
+        {
+          "sku": "485379",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1382956400,
+              "lastrecorded_at": 1403118900,
+              "currency": "USD",
+              "id": "2UaxdkshcWW2GISuIkSmui",
+              "price": "49.99",
+              "seller": "Office Depot",
+              "availability": "Estimated delivery 3-5 business days",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1381763200,
+              "lastrecorded_at": 1382557500,
+              "id": "1YaSENPAWacmSMk06qOkym",
+              "price": "34.99",
+              "availability": "In Stock",
+              "seller": "Office Depot",
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock Estimated delivery 3-5 business days",
+              "seller": "Office Depot",
+              "price": "49.99",
+              "id": "6qeymLGeDAumGuawWIiKGw",
+              "currency": "USD",
+              "lastrecorded_at": 1381585600,
+              "firstrecorded_at": 1377605800,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.officedepot.com/a/products/485379",
+          "name": "officedepot.com"
+        },
+        {
+          "recentoffers_count": 1,
+          "sku": "6077698",
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=6077698",
+          "latestoffers": [
+            {
+              "id": "0TQmsTyTaJUGmCww6S0M2o",
+              "firstrecorded_at": 1456407800,
+              "lastrecorded_at": 1463248200,
+              "currency": "USD",
+              "seller": "TigerDirect",
+              "price": "47.99",
+              "isactive": 1
+            }
+          ],
+          "name": "tigerdirect.com"
+        }
+      ],
+      "weight": "86182.55",
+      "sem3_id": "26iBuCfu9EaSkqKmKUYkQo",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "brand": "Nova Development US",
+      "price": "14.99",
+      "features": {
+        "Software type": "DVD",
+        "Total recycled content": "0 %",
+        "Memory requirements": "256 MB",
+        "6215--Quantity": "EA",
+        "Version": "8.0",
+        "6240--Features": "â¢ 0 â¢ 0",
+        "Minimum hard disk space": "6 GB",
+        "Operating system compatibility": "Windows XP; Windows Vista; Windows 7",
+        "Postconsumer recycled content": "0 %",
+        "Minimum processor compatibility": "Pentium III",
+        "Minimum resolution required": "1024 x 768"
+      },
+      "ean": "0727298408744",
+      "operatingsystem": "Windows 7",
+      "gtins": [
+        "00727298408744"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "12.70",
+      "length": "196.85",
+      "width": "139.70",
+      "weight": "45359.24",
+      "category": "Home Publishing",
+      "sem3_id": "0jCwGGPX9O4smw2sGiwSoU",
+      "sitedetails": [
+        {
+          "sku": "16671337",
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/16671337",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "328.81",
+              "currency": "USD",
+              "firstrecorded_at": 1418494300,
+              "availability": "Out of Stock",
+              "id": "0bWnOpKeekSEwm06MuIwQO",
+              "seller": "Walmart",
+              "lastrecorded_at": 1424128900,
+              "isactive": 0
+            },
+            {
+              "id": "0rHlf80J82ySAUyCKIY0E6",
+              "seller": "Walmart",
+              "currency": "USD",
+              "price": "338.83",
+              "firstrecorded_at": 1415443900,
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1415443900,
+              "isactive": 0
+            },
+            {
+              "id": "1NytLAGKGyQckkMoOwGkuq",
+              "seller": "Walmart",
+              "price": "342.51",
+              "currency": "USD",
+              "firstrecorded_at": 1413729100,
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1413729100,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=600042",
+          "recentoffers_count": 0,
+          "sku": "600042",
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1414231800,
+              "id": "3PslYdWt5sogGSAIKceISq",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "price": "378.14",
+              "firstrecorded_at": 1398026000,
+              "availability": "Low Stock. Order Now!",
+              "isactive": 0
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "id": "6eF3N1SwZUG8W42gkIMwIq",
+              "firstrecorded_at": 1395766800,
+              "availability": "In Stock",
+              "price": "371.01",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1397833400,
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390674300,
+              "id": "5qqmXZaenYOC4eQG0kmIqk",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "price": "374.99",
+              "firstrecorded_at": 1389161600,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "antonline.com",
+          "url": "http://www.antonline.com/p_Quark_892415.htm",
+          "recentoffers_count": 0,
+          "sku": "892415",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1413635000,
+              "price": "395.22",
+              "currency": "USD",
+              "availability": "2 In Stock",
+              "firstrecorded_at": 1397124900,
+              "id": "06u3DReODgGOoYei46MoeQ",
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "id": "4gBfAEt0uucUe0qWGWWosq",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "price": "397.77",
+              "availability": "6 In Stock",
+              "firstrecorded_at": 1396612200,
+              "lastrecorded_at": 1396612200,
+              "isactive": 0
+            },
+            {
+              "id": "3QI58hJiGeWgC0AiOmGiye",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "price": "395.22",
+              "availability": "9 In Stock",
+              "firstrecorded_at": 1391196400,
+              "lastrecorded_at": 1394767700,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "model": "130005",
+      "features": {
+        "License Pricing": "Standard",
+        "Package Type": "Retail",
+        "Software Name": "QuarkXPress v.9.0",
+        "Operating System Supported": "Windows",
+        "Features": "Easy to Use Powerful Design Tools Integration with other Applications Web, SWF (Flash), e-books, and more (Digital Publishing) Precision Typography Layout Automation Reliale Print Output Collaboration",
+        "License Quantity": "1 User",
+        "Software Sub Type": "Desktop Publishing",
+        "Product Type": "Software",
+        "Distribution Media/Method": "DVD-ROM",
+        "Software Main Type": "Productivity Application",
+        "License Type": "Version Upgrade Package",
+        "Platform Supported": "Intel-based Mac"
+      },
+      "mpn": "130005",
+      "brand": "Quark, Inc",
+      "updated_at": 1463803630,
+      "operatingsystem": "Mac OS X 10.6 Snow Leopard",
+      "ean": "0040821000421",
+      "name": "Quarkxpress 9 UPG For Macintosh/Windows Single User DVD Media V.9 9(Upgrade from any previous version of QuarkXPress)",
+      "price": "670.19",
+      "manufacturer": "Quark",
+      "upc": "040821000421",
+      "platform": "Mac",
+      "created_at": 1357709594,
+      "cat_id": "16736",
+      "gtins": [
+        "00040821000421"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "6uxr7NmZQ8gY8UC2MIWk6q",
+      "created_at": 1374233077,
+      "operatingsystem": "Windows 7",
+      "mpn": "NV8069291",
+      "category": "Fonts",
+      "variation_id": "01WbiraV7wGyIA0IiSgiSw",
+      "manufacturer": "Summitsoft",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "upc": "831666002295",
+      "name": "Creative Fonts [Box, PC Disc]",
+      "weight": "127005.86",
+      "cat_id": "9072",
+      "brand": "Summitsoft",
+      "sitedetails": [
+        {
+          "sku": "6479332",
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6479332",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1463417100,
+              "id": "5r2OaTM4Cew2WguqSQaOaq",
+              "firstrecorded_at": 1443991700,
+              "seller": "Frys",
+              "availability": "In Stock",
+              "price": "19.98",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1443315700,
+              "seller": "Frys",
+              "firstrecorded_at": 1443315700,
+              "id": "0LhwszAAo08muIgyM4am8Q",
+              "availability": "Accepting Back Orders",
+              "price": "7.99",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1420506000,
+              "id": "57vKmbFIe8qSicsuMsU4yO",
+              "seller": "Frys",
+              "price": "19.98",
+              "availability": "In stock, ships same Business Day.",
+              "currency": "USD",
+              "lastrecorded_at": 1441862300,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "661040",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK",
+              "price": "19.61",
+              "id": "5CNPHpI6FykmoEq2kwc6AQ",
+              "firstrecorded_at": 1391504900,
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1428275400,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1388755700,
+              "id": "4juvO1o7cm4ag8MEKUcUoA",
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "price": "19.98",
+              "currency": "USD",
+              "lastrecorded_at": 1390214200,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=661040"
+        }
+      ],
+      "ean": "0831666002295",
+      "model": "00229 5",
+      "price": "19.98",
+      "updated_at": 1463452983,
+      "gtins": [
+        "00831666002295"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "18472",
+      "brand": "Encore",
+      "weight": "54431.08",
+      "created_at": 1357836834,
+      "updated_at": 1463810282,
+      "operatingsystem": "Windows Vista",
+      "name": "The Print Shop 2.0 Deluxe",
+      "cat_id": "16736",
+      "manufacturer": "Encore Software",
+      "price": "4.00",
+      "category": "Home Publishing",
+      "features": {
+        "System Requirements Details": "Microsoft Windows XP SP3 - Pentium 4 - 2.2 GHz - RAM 1 GB - HD 3.5 GB Microsoft Windows Vista / XP - Pentium 4 - 2.2 GHz - RAM 1 GB - HD 3.5 GB",
+        "Distribution Media": "DVD-ROM",
+        "License Qty": "1 user",
+        "License Pricing": "Standard",
+        "Version": "2.0",
+        "Platform": "Windows",
+        "Peripheral / Interface Devices": "Sound card, mouse or compatible device, DVD-ROM, speakers, XGA monitor, DirectX 9.0c compatible graphics card, 32 MB video memory",
+        "License Type": "Complete package",
+        "Min Supported Color Depth": "32-bit color",
+        "Subcategory": "Creativity - graphics & image editing",
+        "OS Required": "Microsoft Windows 7, Microsoft Windows Vista SP1, Microsoft Windows XP SP3",
+        "Package Type": "Retail",
+        "Software Requirements": "Internet Explorer 6.0 or later"
+      },
+      "sitedetails": [],
+      "upc": "705381184713",
+      "mpn": "18471",
+      "sem3_id": "5JeS3ONw5YAkK0IgkY8G4O",
+      "ean": "0705381184720",
+      "gtins": [
+        "00705381184713",
+        "00705381184720"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "21610",
+      "brand": "Encore",
+      "ean": "0705381216100",
+      "weight": "90718.47",
+      "cat_id": "16736",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "features": {
+        "Computer Platform Compatibility": "Mac OS X 10.4+, Windows 7, Windows Vista, Windows XP",
+        "Software Publisher": "Encore",
+        "Physical Media Format": "DVD",
+        "Min RAM Required": "1.0GB",
+        "Genre": "Display Creation Software",
+        "Min Drive Space Required": "1.5GB",
+        "Min Processor Speed Required": "1.6 GHz",
+        "Release Date": "August 31, 2010"
+      },
+      "name": "PrintMaster 2011 Platinum SB -",
+      "sem3_id": "4E8gflltGiw8I2uo8cAce6",
+      "price": "19.95",
+      "upc": "705381216100",
+      "created_at": 1348673396,
+      "sitedetails": [
+        {
+          "name": "target.com",
+          "sku": "13054631",
+          "recentoffers_count": 0,
+          "url": "http://www.target.com/p/printmaster-2011-platinum-pc/-/A-13054631",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1394192800,
+              "price": "29.99",
+              "seller": "target.com",
+              "firstrecorded_at": 1378491700,
+              "availability": "Available",
+              "id": "3WsGmS9f8K2WmWa0WK28UC",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "manufacturer": "Encore Software",
+      "updated_at": 1463664953,
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "mpn": "21610",
+      "category": "Home Publishing",
+      "gtins": [
+        "00705381216100"
+      ],
+      "variation_secondaryids": [
+        "2LOhmt90GGicgww0iKwWWS"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

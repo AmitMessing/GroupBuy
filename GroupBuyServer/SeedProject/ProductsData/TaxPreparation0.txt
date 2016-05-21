@@ -1,0 +1,360 @@
+{
+  "total_results_count": 85,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "3Qf6eCQl6W4gMKqUEEwCCw",
+      "name": "TurboTax Deluxe 2014 Fed + State + Fed Efile Tax Software + Refund Bonus Offer - Win [Download] [PC Download]",
+      "updated_at": 1459083171,
+      "variation_id": "4OKU1QvDkegCwkS4O64QWg",
+      "cat_id": "7687",
+      "weight": "104326.25",
+      "created_at": 1428606045,
+      "length": "137.16",
+      "height": "190.50",
+      "operatingsystem": "Windows 8",
+      "category": "Tax Preparation",
+      "model": "424554",
+      "upc": "028287049628",
+      "ean": "0028287049628",
+      "width": "508.00",
+      "sitedetails": [],
+      "features": {
+        "Note": "Gifting is not available for this item.",
+        "Release Date": "November 14, 2014",
+        "Downloading": "Currently, this item is available only to customers located in the United States."
+      },
+      "brand": "Intuit",
+      "manufacturer": "Intuit",
+      "mpn": "424531",
+      "gtins": [
+        "00028287049628"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows XP",
+      "weight": "104326.25",
+      "features": {
+        "Release Date": "November 14, 2014",
+        "Note": "Gifting is not available for this item.",
+        "Downloading": "Currently, this item is available only to customers located in the United States."
+      },
+      "width": "254.00",
+      "variation_id": "0R2ykXGE3eKiGogecYUgUy",
+      "name": "TurboTax Deluxe 2014 Fed + Fed Efile Tax Software + Refund Bonus Offer [Download] [PC Download]",
+      "model": "424555",
+      "upc": "028287049635",
+      "created_at": 1428605164,
+      "category": "Tax Preparation",
+      "sitedetails": [],
+      "length": "137.16",
+      "sem3_id": "7UlnmpC4bgCakkOMO6SMKy",
+      "manufacturer": "Intuit",
+      "ean": "0028287049635",
+      "updated_at": 1459084402,
+      "brand": "Intuit",
+      "cat_id": "7687",
+      "height": "190.50",
+      "gtins": [
+        "00028287049635"
+      ],
+      "variation_secondaryids": [
+        "4OKU1QvDkegCwkS4O64QWg",
+        "26n8bZ8W08iiAA4ScSMyqk",
+        "6xxXyIfUHoy8yuIisSYOQi"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "228.60",
+      "updated_at": 1459095536,
+      "cat_id": "7687",
+      "features": {
+        "Media": "CD-ROM",
+        "Release Date": "November 14, 2014",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "ean": "0735290104991",
+      "manufacturer": "Block Financial",
+      "length": "152.40",
+      "operatingsystem": "Windows 8",
+      "variation_id": "5xYSxg71rkG2qukcuOmcS4",
+      "category": "Tax Preparation",
+      "sem3_id": "2GdkxZjmnImyOue02IsYWI",
+      "sitedetails": [],
+      "name": "H&R Block Tax Software Deluxe + State 2014 [Standard Packaging, PC/Mac Disc]",
+      "created_at": 1428581182,
+      "model": "1336608-14",
+      "price": "14.39",
+      "width": "0.51",
+      "upc": "735290104991",
+      "brand": "H&R Block",
+      "gtins": [
+        "00735290104991"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7687",
+      "mpn": "1516800-14",
+      "created_at": 1428581846,
+      "variation_id": "7SR2Hro4Y4kcMigysMYASe",
+      "updated_at": 1463609573,
+      "ean": "0886389091958",
+      "name": "H&R Block Tax Software Premium + State 2014 Win [Download] [Digital Download, PC Download]",
+      "upc": "886389091958",
+      "features": {
+        "Downloading": "Currently, this item is available only to customers located in the United States.",
+        "Note": "Gifting is not available for this item.",
+        "Release Date": "November 19, 2014"
+      },
+      "category": "Tax Preparation",
+      "brand": "H&R Block",
+      "manufacturer": "H&R Block",
+      "sem3_id": "0miufjs45ss0yCcG4ouaOc",
+      "model": "1516800-14",
+      "operatingsystem": "Windows 8",
+      "sitedetails": [],
+      "gtins": [
+        "00886389091958"
+      ],
+      "platform": "PC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Tax Preparation",
+      "cat_id": "7687",
+      "sem3_id": "1RjD7pfWP6qUakKQ6AWO0g",
+      "width": "137.16",
+      "variation_id": "0R2ykXGE3eKiGogecYUgUy",
+      "platform": "Windows 7",
+      "model": "424495",
+      "height": "17.78",
+      "sitedetails": [],
+      "brand": "Intuit",
+      "manufacturer": "Intuit",
+      "operatingsystem": "Mac OS X 10.8 Mountain Lion",
+      "price": "37.99",
+      "length": "190.50",
+      "features": {
+        "Release Date": "November 19, 2014",
+        "Downloading": "Currently, this item is available only to customers located in the United States.",
+        "Note": "Gifting is not available for this item."
+      },
+      "name": "TurboTax Deluxe Mac 2014 Fed + Fed Efile Tax Software + Refund Bonus Offer [Download] [Mac Download]",
+      "updated_at": 1459098786,
+      "weight": "86182.55",
+      "created_at": 1428605164,
+      "variation_secondaryids": [
+        "26n8bZ8W08iiAA4ScSMyqk",
+        "4OKU1QvDkegCwkS4O64QWg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Intuit",
+      "manufacturer": "Intuit",
+      "model": "424556",
+      "created_at": 1428607360,
+      "mpn": "424529",
+      "operatingsystem": "Windows XP",
+      "sem3_id": "2E1no2kynEOGckmGku0kOW",
+      "width": "254.00",
+      "name": "TurboTax Premier 2014 Fed + State + Fed Efile Tax Software - Win [Old Version] [PC Download]",
+      "ean": "0028287049642",
+      "length": "137.16",
+      "cat_id": "7687",
+      "updated_at": 1459084955,
+      "variation_id": "26n8bZ8W08iiAA4ScSMyqk",
+      "height": "190.50",
+      "upc": "028287049642",
+      "features": {
+        "Downloading": "Currently, this item is available only to customers located in the United States.",
+        "Note": "Gifting is not available for this item.",
+        "Release Date": "November 19, 2014"
+      },
+      "sitedetails": [],
+      "weight": "104326.25",
+      "category": "Tax Preparation",
+      "gtins": [
+        "00028287049642"
+      ],
+      "variation_secondaryids": [
+        "3hqJZxnwZUGSm0YAsYKI4S"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "name": "H&R Block Tax Software Deluxe + State 2014 Win [Download] [Digital Download, PC Download]",
+      "features": {
+        "Release Date": "November 19, 2014",
+        "Downloading": "Currently, this item is available only to customers located in the United States.",
+        "Note": "Gifting is not available for this item."
+      },
+      "brand": "H&R Block",
+      "manufacturer": "H&R Block",
+      "category": "Tax Preparation",
+      "created_at": 1428581182,
+      "model": "1316800-14",
+      "sem3_id": "7goEOokZ6WaSOC2cM8Ieqg",
+      "updated_at": 1455687116,
+      "upc": "886389091934",
+      "variation_id": "5xYSxg71rkG2qukcuOmcS4",
+      "operatingsystem": "Windows 8",
+      "ean": "0886389091934",
+      "cat_id": "7687",
+      "mpn": "1316800-14",
+      "gtins": [
+        "00886389091934"
+      ],
+      "platform": "PC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7687",
+      "mpn": "1413800-14",
+      "variation_id": "7KIilD45EOqemcYY6uoqME",
+      "updated_at": 1459110232,
+      "category": "Tax Preparation",
+      "sem3_id": "2AjKplfZnQKWg6YGAU04QS",
+      "name": "H&R Block Tax Software Deluxe 2014 Win [Download] [Digital Download, PC Download]",
+      "ean": "0886389091910",
+      "manufacturer": "H&R Block",
+      "upc": "886389091910",
+      "brand": "H&R Block",
+      "features": {
+        "Note": "Gifting is not available for this item.",
+        "Downloading": "Currently, this item is available only to customers located in the United States.",
+        "Release Date": "November 19, 2014"
+      },
+      "created_at": 1428582068,
+      "model": "1413800-14",
+      "operatingsystem": "Windows 8",
+      "sitedetails": [],
+      "gtins": [
+        "00886389091910"
+      ],
+      "platform": "PC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "424552",
+      "created_at": 1428599024,
+      "updated_at": 1459084258,
+      "height": "190.50",
+      "category": "Tax Preparation",
+      "length": "137.16",
+      "ean": "0028287049604",
+      "operatingsystem": "Windows XP",
+      "sem3_id": "2eLsSG78wWeYSO2QQ2ai4U",
+      "width": "254.00",
+      "mpn": "424528",
+      "features": {
+        "Release Date": "November 14, 2014",
+        "Downloading": "Currently, this item is available only to customers located in the United States.",
+        "Note": "Gifting is not available for this item."
+      },
+      "brand": "Intuit",
+      "manufacturer": "Intuit",
+      "weight": "104326.25",
+      "upc": "028287049604",
+      "sitedetails": [],
+      "cat_id": "7687",
+      "variation_id": "3hqJZxnwZUGSm0YAsYKI4S",
+      "name": "TurboTax Home & Business 2014 Fed + State + Fed Efile Tax Software + Refund Bonus Offer - Win [Download] [PC Download]",
+      "gtins": [
+        "00028287049604"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459155829,
+      "name": "H&R Block Tax Software Premium + State 2014 [Standard Packaging, PC/Mac Disc]",
+      "price": "29.00",
+      "model": "1536608-14",
+      "upc": "735290105073",
+      "brand": "H&R Block",
+      "cat_id": "7687",
+      "created_at": 1428582163,
+      "manufacturer": "Block Financial",
+      "operatingsystem": "Windows 8",
+      "height": "228.60",
+      "sem3_id": "4mkxiXFMToMQ0ua04QIMWq",
+      "sitedetails": [],
+      "category": "Tax Preparation",
+      "features": {
+        "Media": "CD-ROM",
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "November 14, 2014"
+      },
+      "width": "0.51",
+      "ean": "0735290105073",
+      "variation_id": "7SR2Hro4Y4kcMigysMYASe",
+      "length": "152.40",
+      "gtins": [
+        "00735290105073"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

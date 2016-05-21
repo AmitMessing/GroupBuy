@@ -1,0 +1,340 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "720.00",
+      "color": "No",
+      "upc": "761789023177",
+      "length": "1.78",
+      "model": "DF41003",
+      "manufacturer": "Four Seasons Jewelers",
+      "mpn": "DF41003",
+      "category": "Bangle",
+      "created_at": 1347502657,
+      "name": "Diamond Fascination 14K White Gold Diamond Accent 7 Inch Bangle",
+      "features": {
+        "Metal": "White gold",
+        "Number of stones": "1",
+        "Brand, Seller, or Collection Name": "Four Seasons Jewelers",
+        "Stone Weight": "0.005 carats",
+        "Stone shape": "Round",
+        "Gem Type": "Diamond",
+        "Material": "14-karat-gold, Diamond, White gold",
+        "Minimum color": "White diamond",
+        "Cut": "Good cut",
+        "Metal stamp": "14k",
+        "Minimum clarity": "I2-I3"
+      },
+      "weight": "453592.37",
+      "brand": "Four Seasons Jewelers",
+      "sitedetails": [],
+      "sem3_id": "2tIBjpyleKUuQ0O0kkE0oo",
+      "ean": "0761789023177",
+      "updated_at": 1462717631,
+      "cat_id": "1847",
+      "variation_id": "4WQRcDNviCQWGSc2OeAAaq",
+      "gtins": [
+        "00761789023177"
+      ],
+      "variation_secondaryids": [
+        "5ccJedpuk4A6sqg0oOcsOEM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "sem3_id": "04b1Js6gwCe8ciWWIEIAOo",
+      "cat_id": "23576",
+      "category": "Bracelets & Bangles",
+      "color": "No ",
+      "price": "5000.00",
+      "name": "Diamond Tennis Bracelets in 10k Gold (5 to 6 ct. t.w.)",
+      "created_at": 1441203641,
+      "brand": "all white",
+      "updated_at": 1441203641,
+      "upc": "883954013933",
+      "ean": "0883954013933",
+      "features": {
+        "Web ID": "2422128"
+      },
+      "variation_id": "0gOklzXm9SaySO6I6ymISSM+",
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "5v0xCGPxPkukACCWEyiqmM",
+      "features": {
+        "Web ID": "1523421",
+        "Diamond Cut": "Full",
+        "Diamond Clarity Rating Code": "I2-I3",
+        "Diamond Color Rating Code": "IJ"
+      },
+      "name": "Balissima by EFFY Diamond Cuff Bracelet (3/5 ct.t.w.) in Sterling Silver",
+      "variation_id": "6idazXey242gMOOuiWqm8kM+",
+      "brand": "bracelets",
+      "upc": "850679004263",
+      "updated_at": 1448564952,
+      "sitedetails": [],
+      "ean": "0850679004263",
+      "created_at": 1448564952,
+      "category": "Bracelets & Bangles",
+      "cat_id": "23576",
+      "color": "Yellow Gold",
+      "price": "600.00",
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "5o4LLVlFtAgMkG0owcykSwM+",
+        "1VJLtEiwNMU04I8YuweogmM+",
+        "4vrWr60eISqmAkmkC00QM8M+",
+        "6RrqeGvh1kiyeeY6CsU20YM+",
+        "5zwp64ZGaWoSWwugKuKyqSM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1364128445,
+      "brand": "Brazlet",
+      "name": "Natural Genuine Semi-Precious Gemstones Healing Power Crystal Elastic Stretch Beaded Bracelet, Unisex [10mm Red Rhodochrosite]",
+      "price": "100.99",
+      "manufacturer": "Brazlet",
+      "length": "5.08",
+      "features": {
+        "Product Dimensions": "4.7 x 3.5 x 0.6 inches; 0.3 ounces"
+      },
+      "weight": "31184.48",
+      "updated_at": 1459142617,
+      "sitedetails": [],
+      "category": "Strand",
+      "model": "1256 10 014",
+      "cat_id": "7140",
+      "sem3_id": "6AVpYgUrx2i6q88woE2m8m",
+      "color": "10mm Red Rhodochrosite",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "1TqmUfvKXk8cSMQMA68iUmM+",
+      "sem3_id": "6Ubz3jxvQOA2888ykiAgO6",
+      "ean": "0850158006252",
+      "name": "EFFY Diamond Bangle Bracelet in 14k White Gold (2-1/4 ct. t.w.)",
+      "price": "1123.99",
+      "category": "Bracelets & Bangles",
+      "created_at": 1444660066,
+      "features": {
+        "Diamond Clarity Rating Code": "1-2",
+        "Web ID": "996716",
+        "Diamond Cut": "Full",
+        "Diamond Color Rating Code": "H-I"
+      },
+      "updated_at": 1444660066,
+      "upc": "850158006252",
+      "color": "Blush",
+      "sitedetails": [],
+      "brand": "14k bracelets",
+      "cat_id": "23576",
+      "gtins": [
+        "00850158006252"
+      ],
+      "variation_secondaryids": [
+        "4Mu1UbG24u8GMsWMwyUqygM+",
+        "1zgZzoBe400sQKCce64m44M+",
+        "6Qlqf1gQpU0qyYWIcOEcG8M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "400.00",
+      "updated_at": 1444660297,
+      "brand": "18k",
+      "features": {
+        "Web ID": "697165"
+      },
+      "variation_id": "0ZQovyNQS0kAuCiiYEyIoWM+",
+      "upc": "850158006252",
+      "ean": "0850158006252",
+      "category": "Bracelets & Bangles",
+      "cat_id": "23576",
+      "color": "Blush",
+      "sitedetails": [],
+      "name": "18k Gold Bracelet, Mesh",
+      "sem3_id": "5Br4lBAQYCQYMMaqcM6a6I",
+      "created_at": 1444660297,
+      "gtins": [
+        "00850158006252"
+      ],
+      "variation_secondaryids": [
+        "5jvonPLn0KAgEEEcWamWqkM+",
+        "46rL3Ifm5o6g0cg0mgm6M6M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Russian-Gold",
+      "length": "1.84",
+      "name": "Alex and Ani \"Bangle Bar\" Initials Bangle Bracelet []",
+      "weight": "62368.95",
+      "mpn": "A08EB91FG",
+      "sitedetails": [],
+      "variation_id": "6iNIKIMEOOG0EekSQoMQg8",
+      "created_at": 1347802588,
+      "sem3_id": "2xCfLt6IamWWek02Q6WWyQ",
+      "height": "0.19",
+      "price": "33.63",
+      "model": "A08EB91FG",
+      "width": "0.19",
+      "features": {
+        "Metal stamp": "Not stamped",
+        "Chain": "No chain",
+        "Metal": "Brass",
+        "Product Dimensions": "11.4 x 8.7 x 0.8 inches; 1.6 ounces",
+        "Total metal weight": "8.16 Grams",
+        "Clasp": "No clasp",
+        "Brand, Seller, or Collection Name": "Alex and Ani",
+        "Diameter": "7.25 inches",
+        "Package": "Oversized Medium box"
+      },
+      "brand": "Alex and Ani",
+      "ean": "0886787003119",
+      "updated_at": 1460970157,
+      "cat_id": "1847",
+      "category": "Bangle",
+      "upc": "886787003119",
+      "manufacturer": "Alex and Ani",
+      "gtins": [
+        "00886787003119"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "883954011212",
+      "color": "No",
+      "sem3_id": "0t1ijNrb22oCiqoi2kCwQA",
+      "sitedetails": [],
+      "cat_id": "1847",
+      "name": "Sterling Silver Rings Set, White, Champagne and Black Diamond Set of 3 Stackable Rings (1/4 ct. t.w.)",
+      "created_at": 1392625882,
+      "updated_at": 1432852988,
+      "category": "Bangle",
+      "brand": "asscher diamond ring",
+      "features": {
+        "Web ID": "460544"
+      },
+      "ean": "0883954011212",
+      "variation_id": "68SNHQHYSeIaMYUikACsWgM+",
+      "size": "9",
+      "price": "300.00",
+      "gtins": [
+        "00883954011212"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "ean": "0807995076610",
+      "upc": "807995076610",
+      "cat_id": "23576",
+      "color": "Sterling Sivler",
+      "variation_id": "53aFd4Kj4aa82a0Mkwu4CqM+",
+      "brand": "bracelets",
+      "name": "Giani Bernini Heart Tag Chain Bracelet in Sterling Silver",
+      "price": "112.50",
+      "sem3_id": "5FEckaBHo0GOiM6ms4CkKu",
+      "created_at": 1435678092,
+      "updated_at": 1437000461,
+      "category": "Bracelets & Bangles",
+      "features": {
+        "Web ID": "18353"
+      },
+      "gtins": [
+        "00807995076610"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "14k bracelets",
+      "cat_id": "23576",
+      "sitedetails": [],
+      "color": "Black",
+      "features": {
+        "Diamond Color Rating Code": "H-I",
+        "Diamond Cut": "Full",
+        "Web ID": "996716",
+        "Diamond Clarity Rating Code": "1-2"
+      },
+      "updated_at": 1444660066,
+      "upc": "850158006276",
+      "created_at": 1444660066,
+      "name": "EFFY Diamond Bangle Bracelet in 14k White Gold (2-1/4 ct. t.w.)",
+      "ean": "0850158006276",
+      "sem3_id": "1uRXVtGldQm4EAaGqa6eGU",
+      "variation_id": "1TqmUfvKXk8cSMQMA68iUmM+",
+      "category": "Bracelets & Bangles",
+      "price": "1123.99",
+      "gtins": [
+        "00850158006276"
+      ],
+      "variation_secondaryids": [
+        "4Mu1UbG24u8GMsWMwyUqygM+",
+        "1zgZzoBe400sQKCce64m44M+",
+        "6Qlqf1gQpU0qyYWIcOEcG8M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

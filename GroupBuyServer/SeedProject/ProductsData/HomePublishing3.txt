@@ -1,0 +1,670 @@
+{
+  "total_results_count": 3235,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "115.00",
+      "created_at": 1365753136,
+      "sitedetails": [],
+      "mpn": "cgs12engpc",
+      "updated_at": 1461068057,
+      "operatingsystem": "Windows 2000",
+      "features": {
+        "Platform": "Windows",
+        "Peripheral / Interface Devices": "Mouse or compatible device, CD-ROM, XGA monitor",
+        "License Pricing": "Standard",
+        "Package Type": "Retail",
+        "Subcategory": "Creativity - graphics & image editing",
+        "License Qty": "1 user",
+        "System Requirements Details": "Microsoft Windows 2000 / XP - Pentium II - 200 MHz - RAM 128 MB - HD 250 MB Microsoft Windows XP Tablet PC Edition - Pentium II - 200 MHz - RAM 128 MB - HD 250 MB",
+        "License Type": "Complete package",
+        "Distribution Media": "CD-ROM",
+        "Version": "12",
+        "Language(s)": "English",
+        "OS Required": "Microsoft Windows 2000, Microsoft Windows XP, Microsoft Windows XP Tablet PC Edition"
+      },
+      "category": "Home Publishing",
+      "name": "CorelDraw Graphics Suite 12",
+      "cat_id": "16736",
+      "manufacturer": "Corel",
+      "upc": "735163100372",
+      "sem3_id": "7g8LZnFFNgMQ6yOkiykWQe",
+      "ean": "4260167920221",
+      "brand": "Corel",
+      "weight": "1818905.40",
+      "gtins": [
+        "00735163100372",
+        "04260167920221"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "190.50",
+      "sem3_id": "1cEscY2JZoCSy62ICW2G42",
+      "length": "54.10",
+      "cat_id": "23869",
+      "operatingsystem": "Windows 7",
+      "brand": "Nova Development US",
+      "weight": "498951.61",
+      "name": "Art Explosion 800,000",
+      "model": "ARW",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "updated_at": 1463663881,
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "19.98",
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1435562300,
+              "seller": "Frys",
+              "lastrecorded_at": 1463663800,
+              "id": "5OfyhIPRqaA8gEoMkE0ciU",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1428170200,
+              "price": "29.99",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "id": "5bscVFzOBECyUkWMgkqsGi",
+              "lastrecorded_at": 1432043900,
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Frys",
+              "id": "0hw21HJ8xuoK0YkWoO6sa0",
+              "lastrecorded_at": 1427448500,
+              "firstrecorded_at": 1387844800,
+              "price": "84.99",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/6138669",
+          "sku": "6138669"
+        }
+      ],
+      "price": "19.98",
+      "mpn": "ARWT",
+      "manufacturer": "Nova Development US",
+      "upc": "020356484880",
+      "platform": [
+        "Windows NT",
+        "Windows 98",
+        "Windows 2000",
+        "Windows Me",
+        "Windows XP",
+        "Windows 95"
+      ],
+      "width": "133.35",
+      "created_at": 1348673387,
+      "category": "Clip Art",
+      "ean": "0727298401776",
+      "gtins": [
+        "00020356484880",
+        "00727298401776"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/6508083",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1348656100,
+              "seller": "Frys",
+              "availability": "Shipping: In stock, ships same Business Day",
+              "id": "6ilZe1eyhM8asOme0YqkWG",
+              "firstrecorded_at": 1348656100,
+              "currency": "USD",
+              "price": "59.99",
+              "isactive": 0
+            }
+          ],
+          "sku": "6508083",
+          "recentoffers_count": 0
+        }
+      ],
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "cat_id": "18708",
+      "length": "143.51",
+      "category": "Greeting Cards",
+      "brand": "Serif",
+      "sem3_id": "5Af0wzYDXUa2EqyGsESs4c",
+      "model": "CAPUSDPDI",
+      "upc": "703115684447",
+      "name": "Serif CraftArtist Platinum Edition",
+      "ean": "0703115684386",
+      "weight": "90718.47",
+      "height": "190.50",
+      "price": "65.98",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "mpn": "CAPUSMBRT",
+      "created_at": 1348669683,
+      "width": "57.15",
+      "updated_at": 1463657563,
+      "operatingsystem": "Windows 7",
+      "manufacturer": "Serif",
+      "gtins": [
+        "00703115684447",
+        "00703115684386"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0705381216506",
+      "mpn": "21650",
+      "price": "4.99",
+      "features": {
+        "License Type": "Complete Product",
+        "Software Main Type": "Graphics-Multimedia",
+        "Package Type": "Retail",
+        "Distribution Media/Method": "DVD-ROM",
+        "Software Name": "PrintMaster 2011 Gold",
+        "Operating System Supported": "Windows",
+        "Software Sub Type": "Image Editing",
+        "Platform Supported": "PC",
+        "Product Type": "Software"
+      },
+      "manufacturer": "Encore Software",
+      "weight": "90718.47",
+      "color": "metallic",
+      "sem3_id": "2bzXMk4aHgmossCS8I0M6a",
+      "sitedetails": [
+        {
+          "name": "target.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1378491600,
+              "id": "21fESDd8AGgcoeo2AuIGYC",
+              "availability": "Available Online",
+              "lastrecorded_at": 1386675300,
+              "seller": "target.com",
+              "price": "19.98",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.target.com/p/printmaster-2011-gold-pc/-/A-13054151",
+          "sku": "13054151",
+          "recentoffers_count": 0
+        }
+      ],
+      "cat_id": "16736",
+      "upc": "705381216506",
+      "name": "PrintMaster 2011 Gold SB -",
+      "category": "Home Publishing",
+      "model": "21650",
+      "brand": "Encore",
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "created_at": 1357787163,
+      "updated_at": 1463667570,
+      "gtins": [
+        "00705381216506"
+      ],
+      "variation_secondaryids": [
+        "01nldenV4SWSoqegi0yoAM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "36440",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Media": "DVD-ROM",
+        "Release Date": "September 6, 2013"
+      },
+      "height": "137.16",
+      "weight": "362873.90",
+      "operatingsystem": "Windows 7",
+      "category": "Home Publishing",
+      "brand": "Encore Software",
+      "upc": "705381364405",
+      "name": "The Print Shop Deluxe 3.5 [PC Disc]",
+      "length": "190.50",
+      "cat_id": "16736",
+      "sem3_id": "2Qmaij2vku0AOkkKQW2UmS",
+      "price": "44.99",
+      "width": "33.02",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "7896639",
+          "url": "http://www.frys.com/product/7896639",
+          "latestoffers": [
+            {
+              "id": "5EvVr6txk0qAymASMYmawE",
+              "seller": "Frys",
+              "lastrecorded_at": 1451808100,
+              "currency": "USD",
+              "firstrecorded_at": 1447768300,
+              "availability": "Available for In-Store Pickup Only",
+              "price": "24.99",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "4hzOHV5ika2U2G0gMeASsm",
+              "lastrecorded_at": 1447116000,
+              "seller": "Frys",
+              "firstrecorded_at": 1446551500,
+              "availability": "Sold Out",
+              "price": "49.99",
+              "isactive": 0
+            },
+            {
+              "price": "29.99",
+              "availability": "Sold Out",
+              "firstrecorded_at": 1445484400,
+              "seller": "Frys",
+              "lastrecorded_at": 1445930300,
+              "id": "68Tt5nVCuOOu0kesaEAYCg",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com"
+        }
+      ],
+      "ean": "0705381364405",
+      "manufacturer": "Encore Software",
+      "mpn": "36440",
+      "created_at": 1381492400,
+      "updated_at": 1463648308,
+      "gtins": [
+        "00705381364405"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "3N73nR5UNMCwuwMIckCGuy",
+      "model": "18490",
+      "upc": "705381184904",
+      "cat_id": "16736",
+      "price": "8.89",
+      "operatingsystem": "Windows Vista",
+      "manufacturer": "Encore Software",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1416537600,
+              "id": "3x52uGE2VMYua2csQeGS8G",
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Quill",
+              "firstrecorded_at": 1416537600,
+              "price": "28.49",
+              "isactive": 0
+            }
+          ],
+          "sku": "248672",
+          "recentoffers_count": 0,
+          "name": "quill.com",
+          "url": "http://www.quill.com/printing-software/cbs/248672.html"
+        }
+      ],
+      "name": "The Print Shop 2.0 -",
+      "weight": "113398.09",
+      "brand": "Encore",
+      "features": {
+        "PC Operating System": "WIN XP,VISTA, WIN 7",
+        "License Upgrade Version": "No",
+        "PC Minimum System Memory": "16 MB",
+        "Platform Support": "Windows",
+        "License Quantity": "1",
+        "Country of Origin": "USA",
+        "Mac Minimum System Memory": "1 GB",
+        "Upgrade Version": "No"
+      },
+      "created_at": 1357836851,
+      "ean": "0705381184911",
+      "category": "Home Publishing",
+      "updated_at": 1463751989,
+      "mpn": "18490",
+      "gtins": [
+        "00705381184904",
+        "00705381184911"
+      ],
+      "variation_secondaryids": [
+        "0fbQRBJB3IWi8m8sa2IoUU"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "34.95",
+      "height": "190.50",
+      "width": "133.35",
+      "brand": "Nova Development US",
+      "category": "Greeting Cards",
+      "features": {
+        "Distribution Media": "DVD-ROM",
+        "System Requirements: Operating System Required: Microsoft Windows XP, Windows 7, Vista; Peripheral/Interface Devices: DVD-ROM; System Requirements Details": "Pentium 4, 512 MB RAM",
+        "Platform": "Windows",
+        "Shipping Weight (in pounds)": "3.0",
+        "License Type": "Complete package",
+        "License Quantity": "1 user"
+      },
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/47311872",
+          "sku": "47311872",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Tech For Less Inc",
+              "availability": "Available",
+              "price": "37.97",
+              "firstrecorded_at": 1462775800,
+              "id": "3vZuSp3RpwmWYy8mEkKmEE",
+              "lastrecorded_at": 1462775800,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Tech For Less Inc",
+              "availability": "Available",
+              "price": "37.49",
+              "id": "5FKOpojNCKQAwWsQaMOCOu",
+              "firstrecorded_at": 1456870500,
+              "lastrecorded_at": 1460804400,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1455958200,
+              "id": "022L7hBnf1YOomoWw4g2C8",
+              "firstrecorded_at": 1455958200,
+              "availability": "Available",
+              "price": "38.97",
+              "currency": "USD",
+              "seller": "Tech For Less Inc",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "restockit.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463579700,
+              "id": "5mhmAUOcJyOaioEA0CeiQ2",
+              "firstrecorded_at": 1460563500,
+              "availability": "Not Available",
+              "price": "61.70",
+              "condition": "New",
+              "currency": "USD",
+              "seller": "ReStockIt",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.restockit.com/nova-development-hallmark-card-studio-deluxe-2012-complete-package-num-1244am.html",
+          "sku": "restockit_nova-development-hallmark-card-studio-deluxe-2012-complete-package-num-1244am",
+          "recentoffers_count": 1
+        }
+      ],
+      "upc": "727298413144",
+      "cat_id": "18708",
+      "length": "53.09",
+      "weight": "226796.18",
+      "model": "41314",
+      "mpn": "41314",
+      "created_at": 1356049045,
+      "sem3_id": "0LMqQvptN2GSC8OSsOuMQO",
+      "manufacturer": "Nova Development US",
+      "updated_at": 1463723141,
+      "name": "Hallmark Card Studio Deluxe 2012",
+      "ean": "0727298413144",
+      "operatingsystem": "Windows 7",
+      "gtins": [
+        "00727298413144"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Home Publishing",
+      "mpn": "FD7",
+      "platform": [
+        "Mac",
+        "Windows 2000",
+        "Windows NT 4",
+        "Windows Me",
+        "Windows XP",
+        "Mac OS X"
+      ],
+      "upc": "603121840021",
+      "brand": "Final Draft, Inc.",
+      "manufacturer": "Final Draft",
+      "weight": "204116.57",
+      "operatingsystem": "Windows Me",
+      "price": "170.00",
+      "sem3_id": "2z2vKSrSDge8SO2MMSc4yk",
+      "sitedetails": [],
+      "name": "Final Draft 7 Professional Scriptwriting",
+      "ean": "0603121840021",
+      "created_at": 1348665932,
+      "cat_id": "16736",
+      "updated_at": 1461887152,
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "gtins": [
+        "00603121840021"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Greeting Cards",
+      "sem3_id": "4uVaN319zMCKs420uMWuMw",
+      "ean": "0727298407877",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "weight": "226796.18",
+      "name": "Hallmark Card Studio 2010",
+      "upc": "727298408720",
+      "brand": "Nova Development US",
+      "features": {
+        "OS Compatibility": "PC"
+      },
+      "cat_id": "18708",
+      "mpn": "HAWT",
+      "operatingsystem": "Windows_Vista",
+      "updated_at": 1463248225,
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=6077708",
+          "name": "tigerdirect.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1456407800,
+              "seller": "TigerDirect",
+              "price": "29.99",
+              "id": "1HFrNVny34gsmm66wKMQSw",
+              "lastrecorded_at": 1463248200,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "sku": "6077708"
+        }
+      ],
+      "model": "HAWT",
+      "created_at": 1348673402,
+      "manufacturer": "Nova Development US",
+      "price": "24.79",
+      "gtins": [
+        "00727298408720",
+        "00727298407877"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16736",
+      "platform": "Windows",
+      "price": "36.95",
+      "ean": "0846829000612",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.vanns.com/shop/product-590991030",
+          "name": "vanns.com",
+          "sku": "590991030",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1406782500,
+              "firstrecorded_at": 1388056300,
+              "availability": "In Stock",
+              "seller": "Vanns.com",
+              "price": "79.98",
+              "currency": "USD",
+              "id": "4dcWfT8GjQQ6aES4sAiQcw",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "url": "http://www.adorama.com/PADM7OEM.html",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "54UA1YQn8CcC2c4GMWWUky",
+              "availability": "available",
+              "seller": "Adorama",
+              "price": "80.00",
+              "firstrecorded_at": 1449922800,
+              "lastrecorded_at": 1462715100,
+              "isactive": 1
+            }
+          ],
+          "name": "adorama.com",
+          "sku": "PADM7OEM"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "83.55",
+              "availability": "Not Available",
+              "seller": "ReStockIt",
+              "id": "1N5MdM4Hfk0AEukQGk4Euo",
+              "condition": "New",
+              "currency": "USD",
+              "lastrecorded_at": 1463580700,
+              "firstrecorded_at": 1460563700,
+              "isactive": 0
+            }
+          ],
+          "sku": "restockit_parallels-desktop-for-mac-v-7-license-and-media-num-0387a9",
+          "name": "restockit.com",
+          "recentoffers_count": 1,
+          "url": "http://www.restockit.com/parallels-desktop-for-mac-v-7-license-and-media-num-0387a9.html"
+        }
+      ],
+      "manufacturer": "Parallels",
+      "length": "139.70",
+      "height": "6.35",
+      "updated_at": 1463682974,
+      "category": "Home Publishing",
+      "created_at": 1357651923,
+      "width": "127.00",
+      "sem3_id": "2umxcQUxdI2CUgosceUCki",
+      "mpn": "PDFM7XL-OEM1DVD-EN",
+      "weight": "36287.39",
+      "brand": "Parallels",
+      "name": "Parallels Desktop for Mac - ( v. 7 ) - license and",
+      "upc": "846829000612",
+      "features": {
+        "Subcategory": "Utilities - desktop virtualization",
+        "License Pricing": "OEM",
+        "Distribution Media": "DVD-ROM",
+        "License Qty": "1 user",
+        "License Type": "License and media",
+        "Platform": "MacOS",
+        "Version": "7",
+        "Language(s)": "English"
+      },
+      "operatingsystem": "Windows",
+      "model": "PDFM7XL OEM1DVD EN",
+      "gtins": [
+        "00846829000612"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

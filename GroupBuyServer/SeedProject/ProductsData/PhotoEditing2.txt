@@ -1,0 +1,1144 @@
+{
+  "total_results_count": 813,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "price": "142.99",
+      "model": "65237578",
+      "width": "17.27",
+      "created_at": 1430271267,
+      "variation_id": "5TLtvtU9Q0GCGcYEgWwKwy",
+      "category": "Photo Editing",
+      "ean": "0883919263083",
+      "sem3_id": "3fKJjF1mrIQ06q6oUmWIC6",
+      "cat_id": "1493",
+      "manufacturer": "Adobe",
+      "mpn": "65237578",
+      "updated_at": 1463483076,
+      "operatingsystem": "Windows 8",
+      "features": {
+        "Software Main Type": "Graphics/Multimedia",
+        "License Type": "Box Pack",
+        "License Quantity": "1 User",
+        "Features": "Easily create HDR images Create superwide scenes with stunning panoramas Get faster performance Easily find photos of specific people with facial recognition Create video slide shows that include still images,music and effects Make HTML5-based web galleries Get better control of filters with the Filter Brush Easily share photos online via social networks like Facebook, Twitter and Flickr Remove unwanted scene elements with he Advanced Healing Brush Straighten tilted images with the Upright tool Create off-center vignettes and more with the Radial Gradient tool Get smaller stand-in versions of your full-size images with Smart Previews Sha e your work in elegant video slide shows Convert to black-and-white with precise control Bring out detail in highlights and shadows Organize photos by location or plot a photo journey Do more with video files, includin capturing and editing frames from clips Publish videos right from Lightroom Soft-proof your images to see how they'll look in print Easily share photos online Get natural-looking results from high ISO images with supe ior noise reduction Easily fix common lens problems like distortion and chromatic aberration Easily add watermarks to your images Directly import photos from a tethered camera Easily correct perspective Easily add grain to images to simulate the look of film Adjust specific areas of a photo with the local adjustment brush Get faster performance with 64-bit support Automatically adjust multiple images at one time with batch processing /li> Experiment freely in a nondestructive editing environment View, evaluate and compare images efficiently",
+        "Operating System Supported": "Mac OS",
+        "Product Type": "Software",
+        "Software Sub Type": "Image Editing",
+        "Distribution Media/Method": "DVD-ROM",
+        "Software Name": "Photoshop Lightroom v.6.0",
+        "Platform Supported": "PC",
+        "Language Supported": "English",
+        "License Details": "Installation Type: Locally installed",
+        "System Requirements": "Processor: Multicore Intel processor with 64-bit support (dual-core processor recommended for HD or AVCHD video functionality) for Mac Intel or AMD processor with 64-bit support (dual-core processor recommended for HD or AVHD video functionality) for PC Operating System: Mac OS X 10.8, 10.9, or 10.10 with 64-bit support Windows 7 (SP1), 8, or 8.1 with 64-bit support Hard Disk: 2 GB of available hard disk space Memory: 2 GB RAM (8 GB recommended) 1 GB of VRAM (2 GB recommended for larger, high-resolution monitors such as 4K and 5K screens) Optical Drive: DVD-ROM thers: OpenGL 3.3-capable graphics card for GPU-related functionality Internet connection required for registration, activation, validation of subscriptions, and for access to online services"
+      },
+      "name": "Adobe Photoshop Lightroom 6 [PC/Mac Disc]",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "174.99",
+              "firstrecorded_at": 1457669300,
+              "currency": "USD",
+              "id": "2t09iRiLgWQoQKSG6Isayc",
+              "availability": "In Stock",
+              "lastrecorded_at": 1458220200,
+              "seller": "DataVision Computer Video",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "179.99",
+              "firstrecorded_at": 1452951100,
+              "id": "6CIeuSSk7ssCGegSicaCEQ",
+              "lastrecorded_at": 1456976900,
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1451844400,
+              "id": "1NFvnUk1b6W6wCAygsOKWS",
+              "firstrecorded_at": 1451493500,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "175.99",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "820281",
+          "name": "datavis.com",
+          "recentoffers_count": 1,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=820281"
+        },
+        {
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9733593",
+          "recentoffers_count": 1,
+          "name": "tigerdirect.com",
+          "sku": "9733593",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "149.99",
+              "firstrecorded_at": 1455300900,
+              "lastrecorded_at": 1463351700,
+              "seller": "TigerDirect",
+              "id": "1wDCSJaVtseEWESEGMq4IW",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1442924600,
+              "price": "149.00",
+              "id": "5PhiI2BMswcCwesoYCKQgu",
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1448252200,
+              "availability": "Available,",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1438983200,
+              "price": "147.49",
+              "currency": "USD",
+              "availability": "Available,",
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1442297100,
+              "id": "3N1hPuNNqqW8KWWWcAOcAq",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "height": "190.50",
+      "upc": "883919263083",
+      "length": "136.14",
+      "weight": "81646.63",
+      "brand": "Adobe",
+      "gtins": [
+        "00883919263083"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "883919253459",
+      "variation_id": "1KruUck3ZkAAeIyWqiC2mm",
+      "sem3_id": "4ku9Sp6p4iQG42ga6wMcI6",
+      "model": "65215147",
+      "brand": "Adobe",
+      "name": "Adobe Photoshop Lightroom 5 Student and Teacher Edition [Old Version] [PC/Mac Disc]",
+      "updated_at": 1463785452,
+      "operatingsystem": "Mac OS X",
+      "created_at": 1374252195,
+      "length": "133.35",
+      "weight": "99790.32",
+      "mpn": "65215147",
+      "category": "Photo Editing",
+      "platform": "Mac OS X",
+      "height": "31.75",
+      "width": "190.50",
+      "price": "184.99",
+      "features": {
+        "OS Required": "Microsoft Windows 7 SP1, Apple MacOS X 10.7 Lion, Windows 8, Apple MacOS X 10.8",
+        "Language(s)": "English",
+        "System Requirements Details": "Microsoft Windows - Pentium 4 - RAM 2 GB - HD 2 GB Microsoft Windows - Athlon 64 - RAM 2 GB - HD 2 GB Apple MacOS X - Intel multi-core proccessor - RAM 2 GB - HD 2 GB",
+        "License Type": "Complete package",
+        "Peripheral / Interface Devices": "DVD-ROM, Internet connection, DirectX 10.0 compatible graphics card, 1024 x 768 monitor resolution",
+        "License Qty": "1 user",
+        "Platform": "Windows, MacOS",
+        "Subcategory": "Creativity - graphics & image editing",
+        "Package Type": "Retail",
+        "Version": "5",
+        "Localization": "Asia Pacific",
+        "License Pricing": "Academic",
+        "Distribution Media": "DVD-ROM"
+      },
+      "sitedetails": [
+        {
+          "sku": "ADB_65215147",
+          "latestoffers": [
+            {
+              "seller": "JR",
+              "id": "1gMqEW9QkS2qOEg0YcKA0E",
+              "price": "71.98",
+              "firstrecorded_at": 1398239500,
+              "lastrecorded_at": 1398239500,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "36L00BWw0WoIuM82koWG6a",
+              "seller": "JR",
+              "firstrecorded_at": 1388158200,
+              "price": "79.00",
+              "currency": "USD",
+              "lastrecorded_at": 1398053400,
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com",
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/adobe/pe/ADB_65215147"
+        }
+      ],
+      "ean": "0883919253459",
+      "cat_id": "1493",
+      "manufacturer": "Adobe",
+      "gtins": [
+        "00883919253459"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463802655,
+      "height": "196.85",
+      "width": "36.58",
+      "features": {
+        "Language Supported": "Universal English",
+        "Compatibility": "Supported NVIDIA GPUs: GeForce GTX 285 GeForce GTX 470 GeForce GTX 570 GeForce GTX 580 Quadro CX Quadro FX 3700M Quadro FX 3800 Quadro FX 3800M Quadro FX 4800 Quadro FX 5800 Quadro 2000 Quadro 2000D Quadro 2000M Quadro 3000M Quadro 4000 Quadro 4000M Quadro 5000 Quadro 5000M Quadro 5010M Quadro 6000 Tesla C2075 (Windows)/Maximus configuration",
+        "License Type": "Complete Product",
+        "Software Main Type": "Graphics/Multimedia",
+        "Package Type": "Retail",
+        "Distribution Media/Method": "DVD-ROM",
+        "Platform Supported": "PC",
+        "Software Name": "After Effects CS6 v.11.0 64-bit",
+        "Software Sub Type": "Graphics/Designing",
+        "Operating System Supported": "Windows",
+        "Product Type": "Software",
+        "License Quantity": "1 User",
+        "System Requirements": "Processor (64-bit): Intel Core 2 Duo or AMD Phenom II Operating System: Windows 7 with Service Pack 1 Hard Disk: 3 GB of available space Addtional free space required during installation (cannot install on removable flash storage devices) Additional space for disk cache (10 GB Recommended) Memory: 4 GB of RAM (8 GB Recommended) Optical Drive: DVD-ROM for installation from DVD media Others: 1280x900 display OpenGL 2.0-capable system QuickTime 7.6.6 software required for QuickTime features Optional: Adobe-certified GPU card for GPU-accelerated ray-traced 3D renderer Note: This software will not operate without activation. Broadband Internet connection and registration are required for software act vation, validation of subscriptions, and access to online services. Phone activation is not available",
+        "License Pricing": "Standard"
+      },
+      "upc": "883919238036",
+      "weight": "68038.86",
+      "category": "Photo Editing",
+      "length": "146.05",
+      "manufacturer": "Adobe Systems, Inc",
+      "name": "Adobe After Effects Cs6 V.11.0 64-bit - Complete Product - 1 User - Graphics/designing - Standard Retail - Dvd-rom - Pc - Universal English",
+      "sem3_id": "3drVmydcfw8CIWAA2CW22m",
+      "created_at": 1374508307,
+      "cat_id": "1493",
+      "ean": "0883919238036",
+      "operatingsystem": "Windows 7",
+      "sitedetails": [
+        {
+          "sku": "ADB_65174718",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "3nkzl8E1A0ycoaguacMW8a",
+              "lastrecorded_at": 1388158200,
+              "firstrecorded_at": 1388158200,
+              "price": "1226.99",
+              "seller": "JR",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.jr.com/adobe/pe/ADB_65174718",
+          "recentoffers_count": 0,
+          "name": "jr.com"
+        },
+        {
+          "sku": "657584",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "05biyWevwci0ooGmMuYEOW",
+              "lastrecorded_at": 1390573100,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388760800,
+              "price": "1148.51",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=657584",
+          "recentoffers_count": 0,
+          "name": "datavis.com"
+        }
+      ],
+      "mpn": "65174718",
+      "price": "948.74",
+      "gtins": [
+        "00883919238036"
+      ],
+      "variation_secondaryids": [
+        "2sGOwVGQiW6GQWm0SscgKk"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "sku": "7249563",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Frys",
+              "firstrecorded_at": 1372392700,
+              "availability": "Unavailable Notify me when available While supplies last",
+              "id": "20hjntUypIsuAGcASmmyuO",
+              "lastrecorded_at": 1381064600,
+              "price": "119.99",
+              "isactive": 0
+            },
+            {
+              "availability": "Shipping: In stock, ships same Business Day",
+              "firstrecorded_at": 1348655700,
+              "currency": "USD",
+              "seller": "Frys",
+              "price": "79.98",
+              "lastrecorded_at": 1348655700,
+              "id": "6lO2isBJCqcsiYqKSCo2iC",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/7249563",
+          "recentoffers_count": 0,
+          "name": "frys.com"
+        },
+        {
+          "name": "walmart.com",
+          "sku": "21978154",
+          "url": "http://www.walmart.com/ip/21978154",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1389349700,
+              "lastrecorded_at": 1423427700,
+              "id": "64TVM2FAye0OqgQqAooS44",
+              "price": "98.15",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "availability": "In stock",
+              "firstrecorded_at": 1369482600,
+              "lastrecorded_at": 1370221300,
+              "id": "7B5q14AGlykQ4eoIo6qU8a",
+              "price": "100.60",
+              "isactive": 0
+            },
+            {
+              "price": "99.64",
+              "lastrecorded_at": 1367672400,
+              "id": "737YptGeyeyuiWkcCoi0QO",
+              "availability": "In stock",
+              "firstrecorded_at": 1367672400,
+              "seller": "Walmart",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "685404",
+          "latestoffers": [
+            {
+              "price": "114.95",
+              "lastrecorded_at": 1392025800,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "7HL4LztyK0w4Gis4I2IOCo",
+              "availability": "Low Stock. Order Now!",
+              "firstrecorded_at": 1388758300,
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=685404"
+        }
+      ],
+      "manufacturer": "Cyberlink",
+      "category": "Photo Editing",
+      "operatingsystem": "Windows 7",
+      "length": "189.99",
+      "features": {
+        "Software Main Type": "Graphics/Multimedia",
+        "Product Type": "Software Suite",
+        "License Quantity": "1 User",
+        "Features": "Organize and Play - Movies, Videos, Photos and Music:Play any media, including Blu-ray 3D, Blu-ray and DVD movies, hi-def videos, photos and music,Supports 5.1 channels Dolby TrueHD/ Digital Plus and DTSHD surround audio,Upscale DVD and videos HD quality with TrueTheater HD,Buy over 17 million DRM-free songs from 7digital music store,Stream and play media stored in DLNA network servers on PowerDVD,Easily upload and browse media from popular social media networks,Collect and organize photos by faces with CyberLink FaceMe technology,Organize and browse photos with calendar view,Quickly search for media with powerful management features,Data Backup & Burn:Advanced burning engine allows you to burn any type of files on any disc formats,Burn your disc by dragging and dropping into the desktop gadget without launching the application,Backup data reliably to any disc including BDXL,Protect data with 256-bit data encryption,Schedule automatic backups to protect valuable data,Edit and Convert - Videos, Photos and Audio:Create amazing videos with more than 300 professional tools and effects,The world's fastest consumer video editor, featuring TrueVelocity 2, Intelligence SVRT 3 and OpenCL technology,Magic editing tools provide automatic video and photo enhancements,Transfer video files to playback on 90+ devices, such as iPhone, iPad or PlayStation 3,Easy to use photo editing tools with one-click photo fix,Use editable slideshow styles to combine videos and photos and add animated text effects and a variety of transitions to create masterful productions,Everything 3D:Outstanding end to end 3D video editing support,Experience all your 2D photos and videos in magical 3D with TrueTheater 3D,Play Blu-ray 3D and even turn your 2D Blu-ray discs into a magical 3D experience,Cool 3D photo importing, browsing and management takes your photos to another dimension,Sharing Options:Share videos and slideshows on DirectorZone.com, Facebook, YouTube, DailyMotion, Vimeo & Nico Nico Douga,Download 270,000+ FREE video effects and disc menus for video projects from DirectorZone.com,",
+        "License Pricing": "Standard",
+        "Compatibility": "Additional Hardware Support for Blu-ray 3D and TrueTheater 3D:HDMI 1.4-capable 3DTV,NVIDIA 3D Vision (for Windows 7 only),120Hz Frame-sequential 3D LCD (NVIDIA 3D Vision-Ready),3D Polarizer LCD,3D Ready HDTV (DLP),",
+        "Software Name": "Media Suite v.10.0 Ultra",
+        "Platform Supported": "PC",
+        "Package Type": "Retail",
+        "Software Sub Type": "Multimedia"
+      },
+      "price": "116.04",
+      "weight": "2267.96",
+      "mpn": "MES-E900-RPU0-00",
+      "sem3_id": "3hEKt64djEUagcEeIoMMAW",
+      "brand": "Cyberlink",
+      "cat_id": "1493",
+      "upc": "884799001024",
+      "updated_at": 1463814103,
+      "created_at": 1348689625,
+      "ean": "0884799001024",
+      "width": "37.08",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "name": "Cyberlink Media Suite v10 Ultra [Ultra, PC Disc]",
+      "height": "134.87",
+      "model": "MES EA00 RPU0 00",
+      "gtins": [
+        "00884799001024"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "133.35",
+      "features": {
+        "License Type": "Complete Product",
+        "Language Supported": "English",
+        "Software Main Type": "Graphics/Multimedia",
+        "System Requirements": "Processor:1.6 GHz Intel Pentium 4 or AMD equivalent for data burning and copy, audio capture and editing2 GHz Intel Pentium 4 or AMD equivalent for video or photo editing, conversion and playbackMulti-core highly RcommendedOperating System:Windows 8 Professional (32/64-bit)Windows 7 Home Premium, Professional or Ultimate with Service Pack 1 (32/64-bit)Windows Vista with Service Pack 2 (32/64-bit)Windows XP with Service Pack 3 (32-bit)Hard Disk:3 GB free space for installationDVD and BD copy, video editing and authoring may require large amount of free space, up to 10 GBMemory:1 GB RAM (2 GB Recommended)Optical Drive:DVD-ROMOthers:1024x768 DirectX 9.0c compatible graphics card with at least 16-bit color settingSound cardATI Stream and CUDA acceleration on y available with AMD ATI Stream and NVIDIA CUDA enabled graphics cardsIntel Quick Sync Video acceleration only available on 3rd generation Intel Core processorsWindows Media Player version 10, 11 or 12Internet Explorer 7, 8, 9 r 10QuickTime player version 7 and iTunes version 10 required for some functionalityTiVo requires a TiVo Series2, Series3, TiVo HD DVR or other TiVoToGo compatible DVR connected to your home network and TiVo Desktop. Does not work with irecTV -provided TiVo DVRsBlu-ray authoringInternet connection required for installation, registration, product updates and some features",
+        "Product Type": "Software",
+        "Packing": "Mini Box",
+        "Compatibility": "Input Formats:Video: AVI, DV, HDV, DV-AVI, MPEG-1/2/4, MPEG2-HD, DVD-Video, DVR-MS, TiVo, ASF, MOV, WMV, QuickTime, 3GP, MPE2 Transport Stream, AVC(H.264), AVCHD, 3D over/under full and half-height, side-by-side full and halfwidth, 3D MPOAudio: Audio CD, MP3, WAV, WMA, Dolby Digital AC-3, AAC, Ogg Vorbis, FLAC, M4a, MP4, Playlists (WPL, ASX, M3U, PLS, XSPF)Image: 3D MPO, JPG, PNG, TIFF, BMP, GIF, RAW file support from over 300 camera models wi h PaintShop PROOutput Formats:Video: AVI, DV-AVI, HDV, MpPEG-1/2/4, MPEG-2 HD, WMV, WMV HD, AVC(H.264), AVCHD, 3GP, DivX, DivX Plus, 3D MPO, 3D side-by-side full and half-width, over/under full and half-height, anag yph red/cyanAudio: MP3, WAV, WMA, Dolby Digital AC-3, Ogg Vorbis, FLAC, MPEG-1/2, M4a, M4b AAC, Playlists (M3U, PLS, XSPF, WPL)Image: JPG, PNG, TIFF, BMP, GIF, 3D MPOVideo disc formats: DVD, Video CD (VCD), Super Video CD (SVCD), Mini DVD. Creator NXT PRO also supports BDRecordable Formats:CD-R/RW, DVD+R/RW, DVD-R/RW, DVD-R DL, DVD+R DL, DVD-RAM, BD-R/RE, BD-R/RE DLDisc image formats: read ISO, C2D, BIN/CUE an GI; write ISO and GI",
+        "Software Sub Type": "CD/DVD Authoring",
+        "Platform Supported": "PC",
+        "Distribution Media/Method": "DVD-ROM",
+        "Software Name": "Roxio Creator NXT",
+        "Operating System Supported": "Windows",
+        "License Quantity": "1 User"
+      },
+      "model": "RCRNXTENMBAM",
+      "upc": "735163139969",
+      "height": "190.50",
+      "created_at": 1348689611,
+      "cat_id": "1493",
+      "weight": "113398.09",
+      "sem3_id": "5Q2kheeJg8Eg8yAMqAkEea",
+      "price": "36.89",
+      "ean": "0735163139969",
+      "mpn": "RCRNXTENMBAM",
+      "updated_at": 1463756577,
+      "brand": "Roxio",
+      "category": "Photo Editing",
+      "manufacturer": "Roxio",
+      "name": "Creator NXT (2013)",
+      "length": "31.75",
+      "operatingsystem": "Windows 7",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "currency": "USD",
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1349405600,
+              "price": "99.95",
+              "id": "7NFUzjUYMaou2y4Aes2Owu",
+              "lastrecorded_at": 1412298400,
+              "isactive": 0
+            },
+            {
+              "price": "107.60",
+              "firstrecorded_at": 1389442200,
+              "id": "7mbGuIJq6q8SkEquIAWewY",
+              "lastrecorded_at": 1391104000,
+              "seller": "ToolKing.com",
+              "currency": "USD",
+              "availability": "Out of Stock",
+              "isactive": 0
+            },
+            {
+              "seller": "ToolKing.com",
+              "currency": "USD",
+              "availability": "Out of Stock Online.",
+              "id": "7AhnWDTllAikiMwOwKSsmu",
+              "price": "109.97",
+              "firstrecorded_at": 1374445900,
+              "lastrecorded_at": 1375238800,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/21668937",
+          "sku": "21668937",
+          "name": "walmart.com",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "currency": "USD",
+              "firstrecorded_at": 1378531500,
+              "price": "99.99",
+              "id": "0knY7YqYxWass6ee4k0iUi",
+              "lastrecorded_at": 1389091900,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/7284133",
+          "recentoffers_count": 0,
+          "sku": "7284133"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "2vuGdbjscC2CEYaai8WAQI",
+              "price": "94.99",
+              "firstrecorded_at": 1350721753,
+              "lastrecorded_at": 1382812200,
+              "seller": "Newegg",
+              "availability": "In stock. [BBX: Buy Box]",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "Was: $99.99 [BBX: Buy Box]",
+              "currency": "USD",
+              "seller": "newegg.com",
+              "lastrecorded_at": 1361715200,
+              "price": "94.99",
+              "firstrecorded_at": 1360638400,
+              "id": "1fpPwZTqO4M64EesSCYKSU",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832252056",
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "sku": "N82E16832252056"
+        }
+      ],
+      "gtins": [
+        "00735163139969"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "PVBX5ENMBAM",
+      "sem3_id": "40JJctNsOmWQwKEqWsoeg8",
+      "name": "Photo and Video Pro Suite X5",
+      "width": "134.87",
+      "ean": "0735163140415",
+      "brand": "Corel",
+      "weight": "14061.36",
+      "cat_id": "1493",
+      "features": {
+        "Package Type": "Retail",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Core Duo - 1.83 GHz - RAM 2 GB - HD 4 GB",
+        "Language(s)": "English",
+        "OS Required": "Microsoft Windows Vista (32/64 bits), Microsoft Windows 7 (32/64 bits), Microsoft Windows XP (32/64 bits), Windows 8 (32/64 bits)",
+        "Distribution Media": "DVD-ROM ( mini-box )",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "Subcategory": "Creativity - graphics & image editing, creativity - video editing & production",
+        "License Qty": "1 user",
+        "License Type": "Complete package",
+        "Peripheral / Interface Devices": "DVD-ROM, Internet connection, DirectX 9.0 compatible sound card, 128 MB video memory, 1024 x 768 monitor resolution",
+        "Platform": "Windows"
+      },
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "mpn": "PVBX5ENMBAM",
+      "created_at": 1348689624,
+      "length": "31.75",
+      "operatingsystem": "Windows 7",
+      "price": "24.99",
+      "upc": "735163140415",
+      "manufacturer": "Corel",
+      "height": "190.50",
+      "updated_at": 1463759383,
+      "category": "Photo Editing",
+      "sitedetails": [
+        {
+          "sku": "21668942",
+          "latestoffers": [
+            {
+              "availability": "Out of Stock",
+              "price": "129.99",
+              "firstrecorded_at": 1349410200,
+              "currency": "USD",
+              "id": "1UkHak1QIiGg8gwKQaY8Uw",
+              "seller": "Walmart",
+              "lastrecorded_at": 1412439700,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1389493600,
+              "availability": "Out of Stock",
+              "price": "145.91",
+              "id": "1QVC9meIBo4UGo04AGYmUw",
+              "seller": "ToolKing.com",
+              "lastrecorded_at": 1391554700,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "135.97",
+              "availability": "Out of Stock Online.",
+              "firstrecorded_at": 1381314100,
+              "currency": "USD",
+              "id": "4QFNqwVQLYGCgwmKa2qsqe",
+              "lastrecorded_at": 1384721400,
+              "seller": "ToolKing.com",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/21668942",
+          "name": "walmart.com"
+        },
+        {
+          "sku": "7284113",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1408224600,
+              "seller": "Frys",
+              "id": "4G6QEqw7GSKgKwiiYqGCIg",
+              "currency": "USD",
+              "firstrecorded_at": 1379551500,
+              "price": "104.99",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1372165100,
+              "price": "129.99",
+              "availability": "In stock, ships same Business Day.",
+              "lastrecorded_at": 1378956300,
+              "seller": "Frys",
+              "id": "65mn2tQq0We8um0IIUsum2",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/7284113",
+          "name": "frys.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "110.99",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "firstrecorded_at": 1381312200,
+              "currency": "USD",
+              "id": "4KMuZgX4pUwoyQOMa2mIYA",
+              "seller": "Newegg",
+              "lastrecorded_at": 1382580800,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1359885500,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "price": "109.00",
+              "id": "4RiZbNAt2GAyygkWsgSUgS",
+              "lastrecorded_at": 1381042100,
+              "seller": "Newegg",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1350796869,
+              "seller": "Newegg",
+              "id": "7fqTyo1XV2yigucq46m28Q",
+              "currency": "USD",
+              "firstrecorded_at": 1350796869,
+              "price": "129.99",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832106324",
+          "sku": "N82E16832106324",
+          "recentoffers_count": 0,
+          "name": "newegg.com"
+        }
+      ],
+      "gtins": [
+        "00735163140415"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "MSIS4000",
+      "upc": "855309647742",
+      "brand": "Sony",
+      "operatingsystem": "Windows 7",
+      "mpn": "MSIS4000",
+      "height": "190.50",
+      "features": {
+        "Minimum hard disk space": "500 MB",
+        "Memory requirements": "512 MB",
+        "Postconsumer recycled content": "0%",
+        "Minimum resolution required": "1024 x 768",
+        "Release date": "8/6/2012",
+        "5590--Web Image Workflow": "10/16/2013 at 15:47:03 : Asset Approved.",
+        "Minimum processor compatibility": "2GHz",
+        "Platform": "PC",
+        "Software type": "DVD",
+        "Blob": "Includes four powerful Sony multimedia applications: Movie Studio Platinum 12, ACID Music Studio 9, Sound Forge Audio Studio 10 and DVD Architect Studio 5; Also includes Red Giant Magic Bullet Quick Looks, NewBlueFX 3D titling and video effects, 50 Sony Sound Series: Production Music soundtracks, an iZotope vocal eraser, jump-start video tutorials and anaglyphic 3D glasses; For the first time, publish your movies directly to the new Sony Pixelcast site for collaborating and sharing with family and friends; Create eye-popping stereoscopic 3D and AVCHD movies using ready-made templates from the New Project dialog box in Movie Studio Platinum 12; Stabilize, split and trim your video footage, then enhance it by adding effects, transitions, titles and 5.1 surround; Produce original music using ACID Music Studio 9 to record, edit and mix live vocals, instruments and MIDI on unlimited tracks; Experiment with beat matching, remixing and real-time tempo and pitch alterations; Access ACID Music Studio's collection of 1,000 studio-quality loops, plus included Studio Devil British Valve Custom guitar amp and TruePianos Amber Lite plug-in effects; Fill the airwaves with your finished songs by burning CDs or exporting them as AppleÂ® iPodÂ®- and iPhoneÂ®-compatible MP3s; Digitize and restore your vinyl and cassette collections using Sound Forge Audio Studio's advanced tools to remove unwanted noise; Remove vocals from your favorite songs to create custom karaoke tracks; Professionally master audio from any source â balance sound levels, trim unwanted sections and even synchronize audio with video in Sound Forge; Preserve your home movies, photo albums and music compilations on DVDs and Blu-ray Discs that are complete with menus, titles, special features, music and your choice of 56 beautifully designed themes; Set your projects to the professionally developed, high-fidelity music of 50 included Sony Sound Series: Production Music soundtracks, which encompass a wide variety of musical styles and lengths",
+        "5510--Web Image Sku Description": "SonyÂ® Imagination Studioâ¢ 4",
+        "Operating system compatibility": "Windows Vista; Windows 7; Windows 8",
+        "Total recycled content": "0%",
+        "5500--Web Image Object Name": "219859_p.jpg",
+        "Version": "4 (2012)"
+      },
+      "length": "136.65",
+      "price": "54.00",
+      "cat_id": "1493",
+      "weight": "77110.70",
+      "ean": "0855309647742",
+      "width": "28.70",
+      "sem3_id": "0RvjBzpt9vqkI4U8CcQc2k",
+      "manufacturer": "Sony Creative Software",
+      "category": "Photo Editing",
+      "updated_at": 1463779423,
+      "sitedetails": [
+        {
+          "sku": "7273853",
+          "url": "http://www.frys.com/product/7273853",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1404022200,
+              "price": "149.99",
+              "currency": "USD",
+              "seller": "Frys",
+              "id": "5SIrzzJoqOasa26Mi42iQ4",
+              "firstrecorded_at": 1396535800,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1396512000,
+              "price": "79.98",
+              "currency": "USD",
+              "id": "6qgvhdvhfEIQQkWYiK8UC8",
+              "seller": "Frys",
+              "lastrecorded_at": 1396512000,
+              "availability": "In stock, ships same Business Day.",
+              "isactive": 0
+            },
+            {
+              "id": "6ylfiOg7fcAqYkiKsIMAWy",
+              "seller": "Frys",
+              "currency": "USD",
+              "price": "149.99",
+              "firstrecorded_at": 1358773400,
+              "availability": "Shipping: In stock, ships same Business Day",
+              "lastrecorded_at": 1364190400,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1382866500,
+              "availability": "In stock. [BBX: Buy Box]",
+              "firstrecorded_at": 1350804626,
+              "price": "179.95",
+              "currency": "USD",
+              "id": "2xNoUid3bs0MmQEcGG0wmq",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "179.95",
+              "seller": "newegg.com",
+              "id": "6cNAc19d6e4MQIiioYkKkM",
+              "firstrecorded_at": 1360740900,
+              "availability": "Now: $179.95 [BBX: Buy Box]",
+              "lastrecorded_at": 1362346600,
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832135318",
+          "sku": "N82E16832135318"
+        },
+        {
+          "sku": "23143003",
+          "url": "http://www.walmart.com/ip/23143003",
+          "latestoffers": [
+            {
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1412357200,
+              "currency": "USD",
+              "price": "180.00",
+              "seller": "Walmart",
+              "id": "5BGm6E9xySMW2yUgI8iAwm",
+              "firstrecorded_at": 1370994900,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1402368800,
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1397173600,
+              "seller": "TonZof.com",
+              "id": "0TL6f4yuaRag4isWWSyUi8",
+              "currency": "USD",
+              "price": "148.46",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1382385100,
+              "seller": "ToolKing.com",
+              "id": "5wkWQ30DMeAUQi6Iwsy8EY",
+              "price": "133.97",
+              "currency": "USD",
+              "lastrecorded_at": 1384799100,
+              "availability": "Out of Stock Online.",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "name": "Sony Imagination Studio 4 [PC Disc]",
+      "created_at": 1348689630,
+      "platform": [
+        "Windows 7",
+        "Windows Vista"
+      ],
+      "gtins": [
+        "00855309647742"
+      ],
+      "variation_secondaryids": [
+        "1efSIyj2FMimq8IUGmKkIK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "735163139990",
+      "manufacturer": "Roxio",
+      "mpn": "RCRNXTEFDVAAM",
+      "sem3_id": "5pkVVIJB4aQoOuI6QO2ye4",
+      "cat_id": "1493",
+      "height": "190.50",
+      "operatingsystem": "Windows 7",
+      "ean": "0735163139990",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1405944300,
+              "price": "71.92",
+              "id": "1B1mcDq228syeKgO4EygOO",
+              "firstrecorded_at": 1388758600,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=664717",
+          "sku": "664717",
+          "name": "datavis.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1409248900,
+              "price": "84.78",
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "availability": "2 In Stock",
+              "firstrecorded_at": 1391196400,
+              "id": "0igMj2YReAiwAWgquYUKoe",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_Roxio_1014104.htm",
+          "sku": "1014104",
+          "name": "antonline.com"
+        }
+      ],
+      "category": "Photo Editing",
+      "weight": "90718.47",
+      "brand": "Roxio",
+      "width": "133.35",
+      "price": "163.59",
+      "created_at": 1357078077,
+      "length": "16.00",
+      "model": "RCRNXTEFDVAAM",
+      "name": "Creator NXT (2013) Education Edition Version 13",
+      "updated_at": 1463756956,
+      "features": {
+        "Distribution Media/Method": "DVD-ROM",
+        "Operating System Supported": "Windows",
+        "Software Main Type": "Graphics/Multimedia",
+        "Software Name": "Roxio Creator NXT",
+        "Software Sub Type": "CD/DVD Authoring",
+        "Package Type": "Retail",
+        "Product Type": "Software",
+        "Compatibility": "Input Formats:Video: AVI, DV, HDV, DV-AVI, MPEG-1/2/4, MPEG2-HD, DVD-Video, DVR-MS, TiVo, ASF, MOV, WMV, QuickTime, 3GP, MPE2 Transport Stream, AVC(H.264), AVCHD, 3D over/under full and half-height, side-by-side full and half-width, 3D MPO,Audio: Audio CD, MP3, WAV, WMA, Dolby Digital AC-3, AAC, Ogg Vorbis, FLAC, M4a, MP4, Playlists (WPL, ASX, M3U, PLS, XSPF),Image: 3D MPO, JPG, PNG, TIFF, BMP, GIF, RAW file support from over 300 camera models with PaintShop PRO,Output Formats:Video: AVI, DV-AVI, HDV, MpPEG-1/2/4, MPEG-2 HD, WMV, WMV HD, AVC(H.264), AVCHD, 3GP, DivX, DivX Plus, 3D MPO, 3D side-by-side full and half-width, over/under full and half-height, anaglyph red/cyan,Audio: MP3, WAV, WMA, Dolby Digital AC-3, Ogg Vorbis, FLAC, MPEG-1/2, M4a, M4b AAC, Playlists (M3U, PLS, XSPF, WPL),Image: JPG, PNG, TIFF, BMP, GIF, 3D MPO,Video disc formats: DVD, Video CD (VCD), Super Video CD (SVCD), Mini DVD. Creator NXT PRO also supports BD,Recordable Formats:CD-R/RW, DVD+R/RW, DVD-R/RW, DVD-R DL, DVD+R DL, DVD-RAM, BD-R/RE, BD-R/RE DL,Disc image formats: read ISO, C2D, BIN/CUE and GI; write ISO and GI,",
+        "License Pricing": "Academic",
+        "Platform Supported": "PC",
+        "License Type": "Complete Product",
+        "License Quantity": "1 User",
+        "Language Supported": "English",
+        "Features": "Blu-ray Disc Plug-in:Author High Definition Blu-ray Video Discs,Edit HD video directly on BD-RE discs, saving time and money,Author HD video to standard DVDs for playback on Blu-ray players,Roxio Burn:Burn and copy discs directly from the desktop,BackOnTrack 4:Back up your entire hard disk including the operating system, files, settings and programs,Back up your files,PaintShop Pro:Photo Blend - Combine the best elements from different photos to get the perfect group shot,Fill light and clarity - brighten shadowy areas of a photo while preserving the rest of the image,Management Tools - Catalog, search, rate and tag your photos to find your favorites,Camera Raw Support,Smart Carver - Seamlessly remove objects from an image; expand or contract objects without distortion,Auto-Preserve Originals - Automatically store a copy of your original photo,Create your own designs with art brushes, text and object selection tools,Smart Photo Fix,Fill Flash & Backlight Filters,Vector Drawing Tools,Layer Styles - Add drop shadows, embossing and more,Selective Focus - mimic the effect of expensive tilt-shift lenses and turn a scene into a miniature world,3D:Turn your 2D videos into Hollywood-style 3D,Create 3D DVDs,Create 3D pictures even from standard cameras,Transform your regular photos into 3D works of art,Burn + Copy:Burn and copy discs directly on your desktop with the new Roxio Burn desktop widget,Industry leading burning tools that are easy to use,Create virtual disc drives and load disc images,Burn up to 50GB of data content on to one Blu-ray Disc,Copy discs in a few clicks,Copy Blu-ray Discs,Span large files and projects across multiple CDs or DVDs,Encrypt and compress your data CDs and DVDs,Backup your favorite audio, movies or TV shows from any iPod to your PC,Copy an entire 9GB DVD movie onto a standard 4.7GB DVD,Create video compilations and share them on DVDs or portable devices,Video + Movie:New device profiles for video conversion including iPad, iPhone and Android smartphones,Share and convert high quality DivX video and view on certified devices,Professional background music tracks for slideshows and videos,New digital video effects found in nature and beyond to enhance your videos and movies,Intel Quicksync Video support for better performance with support for Intel Core,Upload photos and videos to Facebook, Google+, Microsoft SkyDrive, Flickr, YouTube and other sharing sites,Stabilize shaky videos shot with cell phones, digital cameras and other handheld devices,Rotate video with one click,Import MKV Internet movies,Edit like a pro with flexible video editing tools,Easily capture standard definition video,Import video from HDV camcorders,Import video from high-def AVCHD camcorders,Accelerated video encoding Â­ with support for ATI Stream, NVIDIA CUDA and Intel QuicSync technology,Save web video for convenient offline playback on DVD, mobile phone or iPod,AVCHD Archive makes it simple to back up an entire camera of HD video directly to disc,Speed up video procesing and preserve quality of original with Smart Encoding,Enjoy your TiVo recordings on DVD, phone, or PC,Pause/resume during video conversion,Schedule a long video conversion project overnight,Preview video quality before committing to large conversion project,Create movies with custom"
+      },
+      "gtins": [
+        "00735163139990"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0735163137040",
+      "name": "Corel VideoStudio Pro X4 Ultimate",
+      "mpn": "VSPRX4ULENMB",
+      "sem3_id": "4MkwBQAiIKOeMmeIUiQs4G",
+      "created_at": 1347572335,
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "operatingsystem": "Windows 7",
+      "weight": "294835.04",
+      "width": "50.80",
+      "length": "134.87",
+      "upc": "735163137040",
+      "features": {
+        "Peripheral / Interface Devices": "Sound card, DVD-ROM, XGA monitor, Internet connection, 128 MB video memory",
+        "OS Required": "Microsoft Windows Vista (32/64 bits), Microsoft Windows 7 (32/64 bits), Microsoft Windows XP (32/64 bits)",
+        "License Qty": "1 user",
+        "Distribution Media": "DVD-ROM ( mini-box )",
+        "Subcategory": "Creativity - video editing & production",
+        "License Type": "Complete package",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Core Duo - 1.83 GHz - RAM 1 GB - HD 3 GB",
+        "Package Type": "Retail",
+        "Language(s)": "English",
+        "Platform": "Windows"
+      },
+      "cat_id": "1493",
+      "sitedetails": [],
+      "model": "VSPRX4ULENMB",
+      "height": "190.50",
+      "category": "Photo Editing",
+      "updated_at": 1460213885,
+      "brand": "Corel",
+      "price": "68.00",
+      "manufacturer": "Corel",
+      "gtins": [
+        "00735163137040"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "65176928",
+      "length": "146.05",
+      "upc": "883919239149",
+      "cat_id": "1493",
+      "height": "196.85",
+      "price": "2246.23",
+      "width": "36.58",
+      "ean": "0883919239170",
+      "updated_at": 1463753306,
+      "brand": "Adobe",
+      "features": {
+        "Operating System Supported": "Windows",
+        "License Pricing": "Standard",
+        "License Information": "License Type",
+        "Product Type": "Software Suite",
+        "Package Type": "Retail",
+        "Product Information": "Software Main Type",
+        "Software Name": "Creative Suite v.6.0 (CS6) Design & Web Premium",
+        "Software Sub Type": "Graphics/Designing",
+        "Platform Supported": "PC",
+        "Manufacturer Website Address": "www.adobe.com",
+        "License Quantity": "1 User",
+        "Language Supported": "Universal English",
+        "Distribution Media/Method": "DVD-ROM",
+        "Miscellaneous": "System Requirements"
+      },
+      "weight": "108862.17",
+      "created_at": 1348683573,
+      "category": "Photo Editing",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "sitedetails": [
+        {
+          "sku": "7102582",
+          "recentoffers_count": 0,
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "id": "5vuyQnCJzEO0a8I4WmAGcw",
+              "seller": "Frys",
+              "price": "1899.00",
+              "firstrecorded_at": 1348655700,
+              "currency": "USD",
+              "availability": "Shipping: In stock, ships same Business Day",
+              "lastrecorded_at": 1364236200,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/7102582"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "36SE0aWpO46mswC8Qo06Ai",
+              "seller": "Newegg",
+              "price": "1798.99",
+              "firstrecorded_at": 1377325600,
+              "lastrecorded_at": 1382801500,
+              "currency": "USD",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1373249100,
+              "currency": "USD",
+              "id": "2aUXqOdWSGyCIiIAq8iMM4",
+              "firstrecorded_at": 1372939500,
+              "price": "1799.00",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1372866100,
+              "currency": "USD",
+              "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]",
+              "price": "1754.10",
+              "firstrecorded_at": 1368799600,
+              "id": "1oq553lczQS2MMqaAOkEum",
+              "seller": "Newegg",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832105981",
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "sku": "N82E16832105981"
+        },
+        {
+          "url": "http://www.jr.com/adobe/pe/ADB_65176928",
+          "latestoffers": [
+            {
+              "id": "0UWbrhgM7BeE4i2EYGi4Cc",
+              "firstrecorded_at": 1394720400,
+              "seller": "JR",
+              "price": "2245.98",
+              "currency": "USD",
+              "lastrecorded_at": 1394720400,
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "firstrecorded_at": 1388158200,
+              "price": "1999.00",
+              "id": "0pwWlpRWPU66I2KGskSgWM",
+              "currency": "USD",
+              "lastrecorded_at": 1388158200,
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com",
+          "recentoffers_count": 0,
+          "sku": "ADB_65176928"
+        }
+      ],
+      "mpn": "65176928",
+      "sem3_id": "5DJI3koiFy4Um8s6gYm6iQ",
+      "name": "Adobe CS6 Design and Web Premium []",
+      "operatingsystem": "Windows 7",
+      "manufacturer": "Adobe",
+      "gtins": [
+        "00883919239149",
+        "00883919239170"
+      ],
+      "variation_secondaryids": [
+        "7S4Q6AxsNyUYiUGWi6Sc0s"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

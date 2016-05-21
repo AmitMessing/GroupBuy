@@ -1,0 +1,374 @@
+{
+  "total_results_count": 33976,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_33002",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1388156300,
+              "id": "58QddThMoaUwycOSiowA8U",
+              "price": "299.00",
+              "seller": "JR",
+              "lastrecorded_at": 1388156300,
+              "isactive": 1
+            }
+          ],
+          "listprice": "404.10",
+          "listprice_currency": "USD",
+          "name": "jr.com",
+          "sku": "FLT_33002"
+        }
+      ],
+      "name": "Rosetta Stone Vietnamese Level 1-2 Set",
+      "price": "299.00",
+      "brand": "Rosetta Stone",
+      "sem3_id": "33wzEh1pAGcgcmQqmWYaoC",
+      "manufacturer": "Rosetta Stone",
+      "model": "27901",
+      "category": "Children's",
+      "ean": "9781617161131",
+      "created_at": 1348680371,
+      "cat_id": "14300",
+      "weight": "680388.55",
+      "upc": "794678330025",
+      "operatingsystem": "Mac OS X 10.6+",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "updated_at": 1459292253,
+      "gtins": [
+        "00794678330025",
+        "09781617161131"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "203.20",
+      "name": "Reader Rabbit Learn to Read With Phonics",
+      "sitedetails": [],
+      "weight": "113398.09",
+      "brand": "The Learning Company",
+      "sem3_id": "6dZNeyn9BgMYQEiWOguM0G",
+      "height": "38.10",
+      "category": "Reading & Language",
+      "features": {
+        "Product Dimensions": "9.5 x 8 x 1.5 inches"
+      },
+      "price": "6.95",
+      "manufacturer": "The Learning Company",
+      "updated_at": 1461003321,
+      "length": "241.30",
+      "mpn": "BIPRRRWPPKBRV1",
+      "cat_id": "15294",
+      "operatingsystem": "Macintosh",
+      "created_at": 1348681209,
+      "ean": "0772040808488",
+      "platform": [
+        "Mac",
+        "Windows"
+      ],
+      "upc": "772040808488",
+      "model": "380848",
+      "gtins": [
+        "00772040808488"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sem3_id": "1THn9S9je0s4UykuQAswKc",
+      "updated_at": 1459198288,
+      "price": "229.00",
+      "created_at": 1381589492,
+      "ean": "9781607178941",
+      "weight": "907184.74",
+      "upc": "794678601965",
+      "category": "Children's",
+      "name": "Rosetta Stone Homeschool Arabic Level 1-3 Set including Audio Companion",
+      "model": "60196",
+      "brand": "Rosetta Stone",
+      "manufacturer": "Rosetta Stone",
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "cat_id": "14300",
+      "sitedetails": [],
+      "gtins": [
+        "00794678601965",
+        "09781607178941"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0014633164169",
+      "operatingsystem": "Windows XP",
+      "platform": "Windows XP",
+      "updated_at": 1459244942,
+      "name": "The World of Harry Potter (Sorcerer's Stone / Chamber Of Secrets / Prisoner Of Azkaban / Quidditch World Cup)",
+      "features": {
+        "Release Date": "July 18, 2005",
+        "Media": "Video Game",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [],
+      "category": "Games",
+      "created_at": 1348696509,
+      "sem3_id": "1acoqSQnrEmI8SAW0GWMCG",
+      "cat_id": "7003",
+      "manufacturer": "Electronic Arts",
+      "brand": "Electronic Arts",
+      "mpn": "16416",
+      "upc": "014633164169",
+      "gtins": [
+        "00014633164169"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Topics Entertainment",
+      "upc": "078073343966",
+      "weight": "181436.95",
+      "category": "Children's",
+      "model": "334396",
+      "operatingsystem": "Macintosh",
+      "sitedetails": [],
+      "ean": "0078073343966",
+      "sem3_id": "3olLOjBMsqiGAUQsMi0e6a",
+      "updated_at": 1461249344,
+      "name": "I Spy Treasure Hunt (Jewel Case)",
+      "created_at": 1381615076,
+      "cat_id": "14300",
+      "mpn": "SCH-34396",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Discontinued by manufacturer": "Yes"
+      },
+      "manufacturer": "Topics Entertainment",
+      "price": "25.99",
+      "gtins": [
+        "00078073343966"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Children's",
+      "platform": "No Operating System",
+      "manufacturer": "V Tech",
+      "cat_id": "14300",
+      "name": "VTech InnoTab Software, Disney's Doc McStuffins [Standard Packaging, Disney's Doc McStuffins]",
+      "height": "12.70",
+      "model": "80 232100",
+      "sitedetails": [],
+      "price": "9.52",
+      "created_at": 1395103986,
+      "ean": "3417762321002",
+      "width": "38.10",
+      "features": {
+        "Manufacturer recommended age": "4 - 7 years",
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Origin": "USA",
+        "Our recommended age": "4 - 7 years"
+      },
+      "sem3_id": "3i2t7vfacSGsESuoCCiIGW",
+      "brand": "VTech",
+      "weight": "68038.86",
+      "length": "53.34",
+      "updated_at": 1461251041,
+      "mpn": "80232100",
+      "gtins": [
+        "03417762321002"
+      ],
+      "variation_secondaryids": [
+        "49nQwuNAm0aW86UIoqqoao"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows 98",
+      "category": "Children's",
+      "upc": "772040778606",
+      "platform": [
+        "Mac",
+        "Windows 98",
+        "Windows Me",
+        "Windows 95"
+      ],
+      "price": "19.25",
+      "cat_id": "14300",
+      "created_at": 1348680135,
+      "features": {
+        "Discontinued by manufacturer": "Yes"
+      },
+      "sem3_id": "34Q6LsFHYO6GIIooMAAcEO",
+      "updated_at": 1461311479,
+      "name": "ClueFinders 3rd Grade",
+      "weight": "45359.24",
+      "brand": "The Learning Company",
+      "ean": "0772040778606",
+      "sitedetails": [],
+      "manufacturer": "The Learning Company",
+      "model": "TGA3744BE",
+      "gtins": [
+        "00772040778606"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Her Interactive",
+      "operatingsystem": "Windows 2000",
+      "price": "9.94",
+      "manufacturer": "Her Interactive",
+      "platform": [
+        "Windows 98",
+        "Windows 2000",
+        "Windows Me",
+        "Windows XP"
+      ],
+      "sem3_id": "3Mltw2rJiCsI22OicE2EyI",
+      "model": "25853",
+      "name": "Nancy Drew: The Secret of Shadow Ranch - PC",
+      "length": "43.18",
+      "height": "243.84",
+      "updated_at": 1461011221,
+      "upc": "767861000562",
+      "sitedetails": [],
+      "weight": "36287.39",
+      "ean": "0767861300563",
+      "cat_id": "7003",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "July 16, 2004",
+        "Media": "Video Game"
+      },
+      "width": "200.66",
+      "created_at": 1348687093,
+      "category": "Games",
+      "mpn": "30056",
+      "gtins": [
+        "00767861000562",
+        "00767861300563"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1374232695,
+      "category": "Children's",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sem3_id": "6sJ0bkDw0W6wsmkocgoEU0",
+      "manufacturer": "Knowledge Adventure",
+      "brand": "Knowledge Adventure",
+      "sitedetails": [],
+      "model": "20163",
+      "operatingsystem": "Windows 98",
+      "weight": "349266.12",
+      "upc": "876930001116",
+      "name": "Jumpstart Advanced 1st Grade V2.0",
+      "ean": "0876930001116",
+      "mpn": "20163",
+      "price": "14.99",
+      "cat_id": "14300",
+      "updated_at": 1461441661,
+      "gtins": [
+        "00876930001116"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "53bNPIvUPgIa26qYueIuw0",
+      "model": "All New Version for '98",
+      "mpn": "0223502",
+      "manufacturer": "Knowledge Adventure",
+      "operatingsystem": "Windows Vista",
+      "updated_at": 1461611320,
+      "category": "Early Learning",
+      "created_at": 1348681209,
+      "platform": "Windows",
+      "cat_id": "15055",
+      "upc": "738981037776",
+      "features": {
+        "Media": "CD-ROM",
+        "Item Weight": "4 ounces"
+      },
+      "price": "14.95",
+      "name": "JumpStart Kindergarten",
+      "brand": "Knowledge Adventure",
+      "sitedetails": [],
+      "weight": "113398.09",
+      "ean": "0738981037776",
+      "gtins": [
+        "00738981037776"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

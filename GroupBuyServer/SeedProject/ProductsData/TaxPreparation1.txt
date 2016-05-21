@@ -1,0 +1,524 @@
+{
+  "total_results_count": 85,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "7687",
+      "mpn": "426780",
+      "sem3_id": "6nHpsHQPgG6AQEEmyWS0Yu",
+      "category": "Tax Preparation",
+      "sitedetails": [
+        {
+          "url": "http://www.bhphotovideo.com/c/product/1190562-REG/intuit_426780_quicken_rental_property_manager.html",
+          "sku": "1190562",
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "id": "7eV7yRkfc8yYe6kQ82Wogu",
+              "availability": "Available",
+              "currency": "USD",
+              "seller": "B&H",
+              "price": "164.99",
+              "firstrecorded_at": 1447471600,
+              "lastrecorded_at": 1463285200,
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=839981",
+          "sku": "839981",
+          "name": "datavis.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "id": "5lCHwwGLyqI4GwYoesYEig",
+              "availability": "In Stock",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "price": "153.11",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1458165200,
+              "lastrecorded_at": 1458165200,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1457564900,
+              "firstrecorded_at": 1457564900,
+              "price": "149.32",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "0Q4zKyFgG7icAwM4E82AiS",
+              "isactive": 0
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "4q3TlobFo8oWkWmW0wsyIA",
+              "firstrecorded_at": 1448645700,
+              "lastrecorded_at": 1456952200,
+              "price": "155.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "9871195",
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9871195",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1462338000,
+              "lastrecorded_at": 1463267600,
+              "price": "148.99",
+              "id": "3wuYAvCzVQ0yYEe8eYyCyS",
+              "seller": "TigerDirect",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "3daujs7k6qEaCSeMSUcWee",
+              "seller": "TigerDirect",
+              "currency": "USD",
+              "firstrecorded_at": 1456400500,
+              "lastrecorded_at": 1461165000,
+              "price": "147.99",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "tigerdirect.com"
+        }
+      ],
+      "brand": "Intuit",
+      "model": "INQRPM2016",
+      "upc": "028287054332",
+      "created_at": 1447471626,
+      "updated_at": 1463285248,
+      "name": "Quicken 2016 Rental Property Manager (Boxed)",
+      "ean": "0028287054332",
+      "price": "148.99",
+      "features": {
+        "Mobile Device Requirements": "Smartphones and tablets running iOS 8, iOS 9, or Android 3.0 and higher",
+        "Hard Disk Space": "Up to 450 MB, up to 1.5 GB if .NET not installed",
+        "Box Dimensions (LxWxH)": "7.6 x 5.4 x 0.7\"",
+        "Printers Supported": "Any printer compatible with Windows Vista/7/8/8.1/10",
+        "Sound": "Sound card and speakers recommended",
+        "Memory": "1 GB or more",
+        "Processor": "1 GHz or higher",
+        "Operating Systems Supported": "32-bit and 64-bit versions of Windows Vista SP1, 7, 8, 8.1, and 10",
+        "Internet": "56 Kbps modem (broadband recommended for online services)"
+      },
+      "gtins": [
+        "00028287054332"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7687",
+      "operatingsystem": "Windows 8",
+      "name": "TurboTax Deluxe 2014 Fed + Fed Efile Tax Software + Refund Bonus Offer [Download] [PC Download]",
+      "category": "Tax Preparation",
+      "features": {
+        "Downloading": "Currently, this item is available only to customers located in the United States.",
+        "Release Date": "November 14, 2014",
+        "Note": "Gifting is not available for this item."
+      },
+      "sem3_id": "2VMGxW4l9cWsw6ce4soO2I",
+      "updated_at": 1460601684,
+      "mpn": "424530",
+      "model": "424488",
+      "sitedetails": [],
+      "variation_id": "0R2ykXGE3eKiGogecYUgUy",
+      "brand": "Intuit",
+      "weight": "113398.09",
+      "created_at": 1428605164,
+      "manufacturer": "Intuit",
+      "platform": "PC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Intuit",
+      "name": "TurboTax Deluxe Federal + E-file + State 2011 for PC [Download] [Old Version] [PC Download]",
+      "operatingsystem": "Windows 7^Windows Vista^Windows XP SP3 (32 bit)",
+      "sitedetails": [],
+      "updated_at": 1461512858,
+      "brand": "Intuit",
+      "sem3_id": "2YLQgGU5dUcYWAwiga2oGu",
+      "cat_id": "7687",
+      "created_at": 1415918088,
+      "category": "Tax Preparation",
+      "variation_id": "5Ar4BhfivAWAA8wEe8oYyW",
+      "model": "417393",
+      "features": {
+        "Note": "Gifting is not available for this item.",
+        "Release Date": "November 10, 2011",
+        "Downloading": "Currently, this item is available only to customers located in the United States."
+      },
+      "platform": "PC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "6uIS1XPbn6uuGaKkG2C8Os",
+      "updated_at": 1463526492,
+      "features": {
+        "Dimensions (L x W x H)": "2.35\" x 0.77\" x 0.37\"",
+        "On-The-Go (OTG)": "No",
+        "USB Standard": "USB 2.0",
+        "Memory Size": "16GB"
+      },
+      "name": "Tax Software Deluxe: Homeowners/Investors Federal and State USB Drive - Windows|Mac",
+      "created_at": 1428494246,
+      "brand": "H&R Block",
+      "category": "Tax Preparation",
+      "sitedetails": [
+        {
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9587126",
+          "recentoffers_count": 0,
+          "name": "tigerdirect.com",
+          "sku": "9587126",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1432065800,
+              "lastrecorded_at": 1432065800,
+              "seller": "TigerDirect",
+              "currency": "USD",
+              "price": "39.99",
+              "id": "4Qetp0rXfM40UmycCkUgYO",
+              "availability": "ADD TO CART",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "7687",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "INQSE2016",
+      "mpn": "426760",
+      "updated_at": 1463619075,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "B&H",
+              "currency": "USD",
+              "availability": "Available",
+              "price": "39.88",
+              "id": "7Mg3yQctkWSamg4UmyqWOm",
+              "lastrecorded_at": 1463369000,
+              "firstrecorded_at": 1463369000,
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1447471300,
+              "lastrecorded_at": 1462869900,
+              "id": "2fpyvyiWnAIQ4g0wCSwwAO",
+              "price": "39.95",
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "B&H",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/c/product/1190560-REG/intuit_426760_quicken_starter_edition_2016.html",
+          "sku": "1190560",
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "39.95",
+              "availability": "In Stock",
+              "currency": "USD",
+              "seller": "Frys",
+              "firstrecorded_at": 1450540800,
+              "id": "2ujJIOVxvU6YUgiaMqWWyg",
+              "lastrecorded_at": 1463619000,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.frys.com/product/8545419",
+          "sku": "8545419",
+          "recentoffers_count": 1,
+          "name": "frys.com"
+        },
+        {
+          "name": "tigerdirect.com",
+          "recentoffers_count": 1,
+          "sku": "9871188",
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9871188",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463267600,
+              "id": "6tSzmjvN8iw2eCIMwEkIQQ",
+              "firstrecorded_at": 1456400500,
+              "seller": "TigerDirect",
+              "price": "39.99",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "features": {
+        "Platform": "Windows",
+        "Additional Requirements": "Sound card, DVD-ROM, speakers, printer, Internet connection 56Kbps, 1024 x 768 monitor resolution , Microsoft .NET Framework 4.0 or later",
+        "Hardware Requirements": "Microsoft Windows - 1 GHz - RAM 1 GB - HD 450 MB",
+        "Product Type": "Box pack",
+        "Supported OS": "Microsoft Windows Vista SP1, Microsoft Windows 7 / 8 / 8.1 / 10 (32/64 bits)",
+        "Distribution Media": "CD-ROM",
+        "License Type": "1 user"
+      },
+      "ean": "0028287054165",
+      "cat_id": "7687",
+      "upc": "028287054165",
+      "price": "39.88",
+      "sem3_id": "6KSqbfXC4G2gKGewAcGuY2",
+      "category": "Tax Preparation",
+      "brand": "Intuit",
+      "created_at": 1447471396,
+      "name": "Quicken Starter Edition 2016 (Boxed)",
+      "gtins": [
+        "00028287054165"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "brand": "H&R Block",
+      "sem3_id": "4a723WMQ8GqQiA2awueWog",
+      "width": "0.51",
+      "manufacturer": "Block Financial",
+      "upc": "735290105035",
+      "model": "1433608-14",
+      "ean": "0735290105035",
+      "sitedetails": [],
+      "category": "Tax Preparation",
+      "variation_id": "7KIilD45EOqemcYY6uoqME",
+      "created_at": 1428582068,
+      "updated_at": 1461716743,
+      "height": "228.60",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "November 14, 2014",
+        "Media": "CD-ROM"
+      },
+      "name": "H&R Block Tax Software Deluxe 2014 [Standard Packaging, PC/Mac Disc]",
+      "operatingsystem": "Windows 8",
+      "cat_id": "7687",
+      "length": "152.40",
+      "gtins": [
+        "00735290105035"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Tax Preparation",
+      "name": "TurboTax Home & Business Federal + E-file + State 2011 for Mac [Download] [Old Version] [Mac Download]",
+      "updated_at": 1456932629,
+      "created_at": 1415916104,
+      "operatingsystem": "Mac OS X 10.4.11+^Mac OS X 10.5.8+^Mac OS X v10.6.8^Mac OS X v10.7+",
+      "brand": "Intuit",
+      "variation_id": "41YnwP6aJcQ4Wc6OSWesU0",
+      "features": {
+        "Operating System": "Mac OS X v10.6.8 (a 64-bit processor is required for v10.6.8) or later / Mac OS X v10.7.5 or later / Mac OS X v10.8.0 or later",
+        "Third Party Software": "Win: Microsoft .NET 4 (included with TurboTax Installer); Adobe Reader 8 or higher",
+        "Internet Connection Required": "56 Kbps (Broadband connection recommended)",
+        "Printer": "Any Macintosh-compatible inkjet or laser printer",
+        "Monitor": "1024Ã768 screen resolution",
+        "Hard Disk Space": "Federal plus State Product: 360 MB",
+        "Processor": "Intel-based Processor 64 -bit",
+        "RAM": "1 GB of memory"
+      },
+      "cat_id": "7687",
+      "manufacturer": "Intuit",
+      "model": "417398",
+      "sitedetails": [],
+      "sem3_id": "1bBWvgld6uSyiUwiQ62UA2",
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Intuit",
+      "price": "429.99",
+      "upc": "028287053434",
+      "updated_at": 1463543730,
+      "name": "QuickBooks Online 2016 Plus Software with 1-Year License (Boxed Version)",
+      "category": "Tax Preparation",
+      "cat_id": "7687",
+      "created_at": 1447471543,
+      "ean": "0028287053434",
+      "sem3_id": "1Y5PPqkCO0Uoqo86uaa44S",
+      "model": "INQBOP2016B",
+      "sitedetails": [
+        {
+          "url": "http://www.bhphotovideo.com/c/product/1191523-REG/intuit_426504_quickbooks_online_2016_plus.html",
+          "recentoffers_count": 1,
+          "sku": "1191523",
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "price": "429.99",
+              "id": "3jNniLzRSSk2Wa60MC2g2q",
+              "seller": "B&H",
+              "lastrecorded_at": 1463543700,
+              "firstrecorded_at": 1447471500,
+              "currency": "USD",
+              "availability": "Available:",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "features": {
+        "Box Dimensions (LxWxH)": "7.5 x 5.4 x 0.7\""
+      },
+      "mpn": "426504",
+      "gtins": [
+        "00028287053434"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "name": "TurboTax Deluxe Federal + E-file + State 2011 for Mac [Download] [Old Version] [Mac Download]",
+      "updated_at": 1462576700,
+      "variation_id": "5Ar4BhfivAWAA8wEe8oYyW",
+      "cat_id": "7687",
+      "sem3_id": "3fmBlEvj2mqeS4qkKu8gGm",
+      "brand": "Intuit",
+      "operatingsystem": "Mac OS X 10.4.11+^Mac OS X 10.5.8+^Mac OS X v10.6.8^Mac OS X v10.7+",
+      "created_at": 1415918088,
+      "features": {
+        "Release Date": "November 10, 2011",
+        "Note": "Gifting is not available for this item.",
+        "Downloading": "Currently, this item is available only to customers located in the United States."
+      },
+      "sitedetails": [],
+      "manufacturer": "Intuit",
+      "model": "417399",
+      "category": "Tax Preparation",
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463543705,
+      "ean": "0028287053533",
+      "created_at": 1445748017,
+      "cat_id": "7687",
+      "category": "Tax Preparation",
+      "name": "QuickBooks Pro 2016 (1-User, Boxed)",
+      "brand": "Intuit",
+      "upc": "028287053533",
+      "price": "189.99",
+      "mpn": "426469",
+      "features": {
+        "Box Dimensions (LxWxH)": "7.48 x 5.354 x 0.709\""
+      },
+      "model": "INQBPRO2016B",
+      "sem3_id": "23Hz2eKKYK00qmEkEay8kk",
+      "sitedetails": [
+        {
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463543700,
+              "seller": "B&H",
+              "id": "6CxweoqQXuyYEKYMYYg2wA",
+              "price": "189.99",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1463543700,
+              "isactive": 1
+            },
+            {
+              "price": "179.00",
+              "id": "5W9pjHJ6CeowwiWyIY6qc4",
+              "lastrecorded_at": 1463099600,
+              "seller": "B&H",
+              "firstrecorded_at": 1460816800,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1459677500,
+              "currency": "USD",
+              "id": "5AZWaJpcPQqssg6Am6CUuk",
+              "price": "299.00",
+              "lastrecorded_at": 1459677500,
+              "seller": "B&H",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.bhphotovideo.com/c/product/1190589-REG/intuit_426469_quickbooks_pro_2016.html",
+          "sku": "1190589"
+        }
+      ],
+      "gtins": [
+        "00028287053533"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    }
+  ]
+}

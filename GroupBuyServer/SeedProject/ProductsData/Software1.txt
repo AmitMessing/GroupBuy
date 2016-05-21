@@ -1,0 +1,587 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0883919236032",
+      "cat_id": "1493",
+      "upc": "883919236148",
+      "weight": "117934.02",
+      "created_at": 1365153734,
+      "length": "146.05",
+      "brand": "Adobe",
+      "updated_at": 1460391679,
+      "height": "196.85",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "ADB_65170137",
+          "name": "jr.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1396705400,
+              "currency": "USD",
+              "seller": "JR",
+              "firstrecorded_at": 1396705400,
+              "price": "999.00",
+              "id": "5l0FTdWCO0eMO2OGiEkGK6",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1388158200,
+              "currency": "USD",
+              "id": "5ZsKt9EKmG46oWgKOQQOgM",
+              "price": "859.00",
+              "firstrecorded_at": 1388158200,
+              "seller": "JR",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.jr.com/adobe/pe/ADB_65170137"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=653184",
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1389390800,
+              "price": "1148.52",
+              "availability": "Low Stock. Order Now!",
+              "id": "3U6hoOJ1J2G2muGkOKgEwU",
+              "currency": "USD",
+              "lastrecorded_at": 1392269100,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1389107200,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388760700,
+              "seller": "DataVision Computer Video",
+              "id": "2IoxxrGxTwqQCgoMu46UMK",
+              "availability": "In Stock",
+              "price": "1148.51",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "sku": "653184"
+        }
+      ],
+      "operatingsystem": "Windows 7",
+      "sem3_id": "3p21JhL01w6iqeG8WcWqUQ",
+      "mpn": "65170137",
+      "features": {
+        "License Pricing": "Standard",
+        "Platform Supported": "PC",
+        "License Quantity": "1 User",
+        "Distribution Media/Method": "DVD-ROM",
+        "Language Supported": "Universal English",
+        "Software Sub Type": "Image Editing",
+        "Operating System Supported": "Windows",
+        "Package Type": "Retail",
+        "Software Name": "Photoshop CS6 v.13.0 Extended",
+        "System Requirements": "Processor: Intel Pentium 4 or AMD Athlon 64 Operating System: Windows XP with Service Pack 3 Windows 7 with Service Pack 1 Hard Disk: 1 GB o available space for installation Additional free space required during installation (cannot install on removable flash storage devices) Memory: 1 GB of RAM Optical Drive: DVD-ROM Others: 1024x768 display (1280x800 recommended) with 16-bit color and 512 MB of VRAM OpenGL 2.0-capable system Note: This software will not operate witho t activation. Broadband Internet connection and registration are required for software activation, validation of subscriptions, and access to online services. Phone activation is not available.",
+        "Product Type": "Software",
+        "License Type": "Complete Product",
+        "Software Main Type": "Graphics/Multimedia"
+      },
+      "name": "Adobe Photoshop Extended CS6 Mac [Old Version] [Mac Disc]",
+      "width": "36.58",
+      "model": "65170137",
+      "manufacturer": "Adobe",
+      "category": "Photo Editing",
+      "gtins": [
+        "00883919236148",
+        "00883919236032"
+      ],
+      "variation_secondaryids": [
+        "11ExxE4HwAouuCCeaawE2q"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "312978.74",
+      "updated_at": 1460723763,
+      "width": "63.50",
+      "price": "219.99",
+      "cat_id": "21085",
+      "category": "Illustration & Design",
+      "model": "IL51380",
+      "ean": "5391502513804",
+      "created_at": 1374253545,
+      "name": "FL Studio Producer, Edition 11",
+      "height": "203.20",
+      "sem3_id": "3s1af973BAsQcEWMo6SIkO",
+      "brand": "Image-Line Software",
+      "length": "241.30",
+      "mpn": "FLSFL11PRODUCEREDIT",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [],
+      "operatingsystem": "Windows 7",
+      "gtins": [
+        "05391502513804"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "1SC0060",
+      "sem3_id": "6R31nwXQJMaE6KuMiAUA6c",
+      "weight": "294835.04",
+      "upc": "705868060066",
+      "created_at": 1348669684,
+      "price": "163.54",
+      "ean": "0705868060066",
+      "platform": [
+        "Windows Vista",
+        "Mac",
+        "Windows 2000",
+        "Windows XP",
+        "Windows 7"
+      ],
+      "sitedetails": [],
+      "brand": "Write Brothers",
+      "manufacturer": "Write Brothers",
+      "model": "1SC0060",
+      "name": "Movie Magic Screenwriter Version 6 [PC/Mac]",
+      "cat_id": "3939",
+      "operatingsystem": "Windows 2000",
+      "updated_at": 1460724813,
+      "category": "Script & Screenwriting",
+      "features": {
+        "Subcategory": "Office applications - word processor",
+        "System Requirements Details": "Microsoft Windows 2000/XP/Vista/7 - Pentium - 300 MHz - HD 60 MB Apple MacOS X 10.3.9 or later - PowerPC G3 - HD 25 MB",
+        "Peripheral / Interface Devices": "Microphone, CD-ROM, speakers, graphics card, Internet connection, 8MB video memory",
+        "License Qty": "1 user",
+        "License Pricing": "Standard",
+        "Platform": "Windows, MacOS",
+        "OS Required": "Microsoft Windows 2000, Microsoft Windows XP, Microsoft Windows 7, Apple MacOS X 10.3.9 or later, Microsoft Windows Vista",
+        "Version": "6",
+        "License Type": "Complete package",
+        "Package Type": "Retail"
+      },
+      "gtins": [
+        "00705868060066"
+      ],
+      "variation_secondaryids": [
+        "1j2sgQgx0mQckq2oq2sCYa"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Corel Painter 12 Education Edition",
+      "ean": "0735163132311",
+      "brand": "Corel",
+      "updated_at": 1460696380,
+      "category": "Illustration",
+      "model": "PTR12ENPCMDVDA",
+      "features": {
+        "Platform": "Windows, MacOS",
+        "System Requirements Details": "Apple MacOS X - Core Duo - RAM 1 GB - HD 300 MB Microsoft Windows Vista / XP / 7 - 1 GHz - RAM 1 GB - HD 600 MB",
+        "Distribution Media": "DVD-ROM",
+        "Subcategory": "Creativity - graphics & image editing",
+        "Software Requirements": "Internet Explorer 7 or later",
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, 1280 x 800 monitor resolution",
+        "License Qty": "1 user",
+        "Language(s)": "English",
+        "Package Type": "Retail",
+        "License Pricing": "Academic",
+        "License Type": "Complete package",
+        "Version": "12",
+        "OS Required": "Microsoft Windows XP, Apple MacOS X 10.6, Apple MacOS X 10.5, Microsoft Windows Vista (32/64 bits), Microsoft Windows 7 (32/64 bits)"
+      },
+      "manufacturer": "Corel",
+      "height": "190.50",
+      "sitedetails": [
+        {
+          "sku": "669203",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "1dpYEIW7tcciI4GkwqWWy4",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390216500,
+              "currency": "USD",
+              "price": "106.88",
+              "firstrecorded_at": 1388758300,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=669203"
+        }
+      ],
+      "upc": "735163132311",
+      "operatingsystem": "Mac OS X 10.6 Snow Leopard",
+      "created_at": 1356058757,
+      "length": "16.00",
+      "sem3_id": "4YFlq69dvy4yYIQwMqKCYa",
+      "weight": "68038.86",
+      "width": "134.87",
+      "cat_id": "20611",
+      "mpn": "PTR12ENPCMDVDA",
+      "gtins": [
+        "00735163132311"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Designed For": "Dell SonicWALL Email Security 300",
+        "Subcategory": "Online & appliance based services - antispam",
+        "License Type": "Subscription license",
+        "License Qty": "250 users",
+        "Service & Support Details": "Replacement - 1 year Phone consulting - 1 year Web support - 1 year New releases update - 1 year E-mail database update - 1 year",
+        "Service & Support": "1 year warranty",
+        "Bundled Support": "Dynamic Support 8X5",
+        "License Validation Period": "1 year",
+        "License Pricing": "Standard"
+      },
+      "brand": "SonicWALL",
+      "updated_at": 1460451766,
+      "ean": "0758479066682",
+      "sem3_id": "4WXrNkU9QeMqaIcsoUS2qg",
+      "weight": "453592.37",
+      "cat_id": "10539",
+      "operatingsystem": "Windows 7",
+      "created_at": 1379835800,
+      "mpn": "01-SSC-6791",
+      "name": "Dell SonicWALL Email Protection Subscription - PC - Subscription license - 2 years",
+      "gtins": [
+        "00758479067917",
+        "00758479066682",
+        "00758479067979"
+      ],
+      "upc": "758479067917",
+      "price": "1620.00",
+      "sitedetails": [],
+      "category": "Software",
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7547",
+      "weight": "163293.25",
+      "sitedetails": [],
+      "width": "139.70",
+      "upc": "040689014677",
+      "operatingsystem": "Windows 7",
+      "category": "Office Suites",
+      "created_at": 1357372884,
+      "model": "PPA2013RT",
+      "length": "193.04",
+      "name": "Sage 50 Premium Accounting (Sage Peachtree) 2013",
+      "manufacturer": "Sage Software",
+      "updated_at": 1460812838,
+      "brand": "Sage",
+      "height": "50.80",
+      "mpn": "PPA2013RT",
+      "price": "357.98",
+      "platform": "No Operating System",
+      "ean": "0040689014677",
+      "sem3_id": "0D7ZLGfvEUw0YIMQMGiIoW",
+      "features": {
+        "Software Requirements": "Internet Explorer 7 or later",
+        "Platform": "Windows",
+        "License Pricing": "Standard",
+        "License Qty": "1 user",
+        "Subcategory": "Business - accounting",
+        "OS Required": "Microsoft Windows 7 Home Premium, Microsoft Windows Vista SP1, Microsoft Windows XP SP3",
+        "License Type": "Complete package",
+        "System Requirements Details": "Microsoft Windows 7 Home Premium - 2 GHz - RAM 1 GB - HD 1 GB Microsoft Windows Vista SP1 - 2 GHz - RAM 1 GB - HD 1 GB Microsoft Windows XP SP3 - 2 GHz - RAM 1 GB - HD 1 GB",
+        "Peripheral / Interface Devices": "DVD-ROM, 1024 x 768 monitor resolution",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "Package Type": "Retail"
+      },
+      "gtins": [
+        "00040689014677"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1380021099,
+      "price": "2599.98",
+      "features": {
+        "License Pricing": "Standard",
+        "Peripheral / Interface Devices": "Sound card, DVD-ROM, Internet connection, 16-bit graphics card, 256 MB video memory, 1024 x 768 monitor resolution, OpenGL 2.0 compatible graphics card",
+        "System Requirements Details": "Microsoft Windows XP SP3 - Pentium 4 - RAM 2 GB - HD 14.5 GB Microsoft Windows Vista / 7 (64-bit versions) - Athlon 64 - RAM 4 GB - HD 14.5 GB Microsoft Windows Vista / 7 (64-bit versions) - Pentium 4 - RAM 4 GB - HD 14.5 GB Microsoft Windows 7 SP1 - Pentium 4 - RAM 2 GB - HD 14.5 GB",
+        "Subcategory": "Creativity - desktop publishing, creativity - graphics & image editing, creativity - multimedia authoring, creativity - music or sound creation, creativity - video editing & production, creativity - web design / publishing",
+        "Package Type": "Retail",
+        "Software Requirements": "Adobe Flash Player 10, Java Runtime Environment 1.6, QuickTime 7.6.6 or later, Eclipse 3.7",
+        "Distribution Media": "DVD-ROM",
+        "Software Suite Components": "Adobe Acrobat X Pro, Adobe Photoshop CS6 Extended, Adobe Illustrator CS6, Adobe InDesign CS6, Adobe Dreamweaver CS6, Adobe Flash Professional CS6, Adobe Fireworks CS6, Adobe Premiere Pro CS6, Adobe After Effects CS6, Adobe Audition CS6, Adobe SpeedGrade CS6, Adobe Prelude CS6, Adobe Encore CS6",
+        "Platform": "Windows",
+        "License Type": "Complete package",
+        "License Qty": "1 user",
+        "Language(s)": "Universal English",
+        "OS Required": "Microsoft Windows XP SP3, Microsoft Windows 7 SP1"
+      },
+      "category": "Software",
+      "ean": "0883919234625",
+      "mpn": "65167109, 65167117, 6 Master Collection",
+      "cat_id": "10539",
+      "sem3_id": "0BZ6YXkrlZIEUIuCWOUUM6",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "4n8FS0MC64ogekc2G0YWkC",
+              "currency": "USD",
+              "seller": "JR",
+              "lastrecorded_at": 1388158200,
+              "price": "2599.98",
+              "firstrecorded_at": 1388158200,
+              "isactive": 1
+            }
+          ],
+          "name": "jr.com",
+          "sku": "ADB_65167117",
+          "listprice_currency": "USD",
+          "url": "http://www.jr.com/adobe/pe/ADB_65167117",
+          "recentoffers_count": 1,
+          "listprice": "2999.99"
+        },
+        {
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "sku": "657580",
+          "latestoffers": [
+            {
+              "id": "1IXOgW5tBMcOKyuEuEMC6a",
+              "currency": "USD",
+              "lastrecorded_at": 1394479600,
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388761000,
+              "price": "2985.96",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=657580"
+        }
+      ],
+      "brand": "Adobe Systems",
+      "updated_at": 1458199472,
+      "gtins": [
+        "00088391923467",
+        "00883919234625",
+        "00883919234670"
+      ],
+      "upc": "088391923467",
+      "name": "Adobe Creative Suite 6 Master Collection - PC - DVD-ROM - Universal English",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "created_at": 1348680749,
+      "sem3_id": "3wbE4A2U4mQMOumUMaYCkS",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Media": "CD-ROM",
+        "Release Date": "September 14, 2010"
+      },
+      "name": "Rosetta Stone V4 TOTALe: Greek Level 1-3 [PC/Mac Disc]",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_31203",
+          "name": "jr.com",
+          "sku": "FLT_31203",
+          "latestoffers": [
+            {
+              "id": "5DWDVK6gI4sIA02EAI04Cc",
+              "price": "259.35",
+              "firstrecorded_at": 1388156200,
+              "currency": "USD",
+              "seller": "JR",
+              "lastrecorded_at": 1388156200,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1396519700,
+              "price": "399.00",
+              "id": "1JnOe4GEasA8Qce0OwMU4c",
+              "lastrecorded_at": 1396519700,
+              "seller": "JR",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "weight": "816466.27",
+      "updated_at": 1458941996,
+      "operatingsystem": "Mac OS X 10.6+",
+      "size": "Level 1, 2, 3 Set",
+      "manufacturer": "Rosetta Stone",
+      "upc": "794678312038",
+      "category": "Education & Reference",
+      "cat_id": "17135",
+      "brand": "Rosetta Stone",
+      "price": "169.00",
+      "model": "27803",
+      "ean": "9781617160158",
+      "gtins": [
+        "00794678312038",
+        "09781617160158"
+      ],
+      "variation_secondaryids": [
+        "6mMRBGQP1UauSU0GmOEWEi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1458967221,
+      "mpn": "66R-00003",
+      "sitedetails": [],
+      "model": "66R 00003",
+      "cat_id": "16749",
+      "length": "203.20",
+      "upc": "882224172387",
+      "platform": [
+        "Windows Vista Home Basic",
+        "Windows Vista Home Premium",
+        "Windows Vista Business",
+        "Windows 2000",
+        "Windows XP"
+      ],
+      "weight": "113398.09",
+      "width": "152.40",
+      "operatingsystem": "Windows 2000",
+      "height": "50.80",
+      "ean": "0882224172387",
+      "category": "Microsoft Windows",
+      "brand": "Microsoft",
+      "price": "94.97",
+      "name": "Microsoft Windows Vista Ultimate UPGRADE DVD",
+      "manufacturer": "Microsoft Software",
+      "created_at": 1348689758,
+      "sem3_id": "1w5xpsyDR22Q2cCaeu6o20",
+      "features": {
+        "Language(s)": "English",
+        "Package Type": "Retail",
+        "Min Hard Drive Space": "40 GB",
+        "Min Processor Type": "Intel x86 - 1 GHz",
+        "Peripheral / Interface Devices": "Sound card, DVD-ROM, Internet connection, DirectX 9.0 compatible graphics card, 128 MB video memory",
+        "Operating System": "Microsoft Windows Vista Ultimate",
+        "License Type": "Upgrade package",
+        "License Pricing": "Standard",
+        "License Qty": "1 PC",
+        "Media": "DVD-ROM",
+        "Min RAM Size": "1 GB"
+      },
+      "gtins": [
+        "00882224172387"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "T72-02383",
+      "manufacturer": "Microsoft Software",
+      "model": "T72 02383",
+      "ean": "0882224697347",
+      "price": "899.95",
+      "upc": "882224697347",
+      "cat_id": "23398",
+      "brand": "Microsoft",
+      "category": "Linux Servers",
+      "created_at": 1348673112,
+      "features": {
+        "Operating System": "Microsoft Windows Small Business Server 2008 Standard Edition",
+        "License Type": "Complete package",
+        "Language(s)": "English",
+        "Min Processor Type": "2 GHz",
+        "Min RAM Size": "4 GB",
+        "Package Type": "Retail",
+        "License Pricing": "Standard",
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, SVGA monitor, Internet connection, keyboard",
+        "Min Hard Drive Space": "60 GB",
+        "Media": "DVD-ROM",
+        "License Qty": "1 server, 5 CALs"
+      },
+      "sem3_id": "32EJTLwV9ksCY2socYQ20k",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "operatingsystem": "Windows Vista",
+      "sitedetails": [],
+      "weight": "140613.63",
+      "name": "Microsoft Windows Small Business Server Standard 2008 - 5 Client",
+      "updated_at": 1458960443,
+      "gtins": [
+        "00882224697347"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

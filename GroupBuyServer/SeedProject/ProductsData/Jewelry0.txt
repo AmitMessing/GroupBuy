@@ -38,206 +38,6 @@
       "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
     },
     {
-      "created_at": 1347731565,
-      "category": "Necklaces & Pendants",
-      "upc": "833975003918",
-      "height": "17.78",
-      "model": "TB82413",
-      "price": "13.98",
-      "color": "Black",
-      "size": "22 inches",
-      "variation_id": "4IYpggLPmC84Iw20WA4Aqg",
-      "updated_at": 1459012918,
-      "ean": "0833975003918",
-      "length": "142.24",
-      "sem3_id": "3iJ3DF3heCyQ6SumgciYOk",
-      "manufacturer": "Phiten",
-      "brand": "Phiten",
-      "width": "68.58",
-      "sitedetails": [
-        {
-          "listprice_currency": "USD",
-          "recentoffers_count": 1,
-          "listprice": "29.99",
-          "latestoffers": [
-            {
-              "price": "13.98",
-              "id": "2dZ8veaOXyuqEYU40mWWk8",
-              "firstrecorded_at": 1389339700,
-              "lastrecorded_at": 1448921000,
-              "seller": "Hockeymonkey",
-              "currency": "USD",
-              "isactive": 1
-            }
-          ],
-          "url": "http://www.hockeymonkey.com/hockey-phiten-titanium-necklace.html",
-          "sku": "hockey-phiten-titanium-necklace_22in_Black",
-          "name": "hockeymonkey.com"
-        }
-      ],
-      "weight": "22679.62",
-      "features": {
-        "Origin": "Japan",
-        "Product Dimensions": "5.6 x 2.7 x 0.7 inches ; 0.8 ounces"
-      },
-      "name": "Phiten, Titanium Star Necklace, Black, 22-Inches [Black, 22 inches]",
-      "cat_id": "24526",
-      "mpn": "TB82413",
-      "gtins": [
-        "00833975003918"
-      ],
-      "variation_secondaryids": [
-        "4xtyNLaXZAiUyGQ8eACEKYx3"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "length": "1.84",
-      "mpn": "A13EB14ZS",
-      "width": "0.41",
-      "weight": "22679.62",
-      "updated_at": 1459056706,
-      "cat_id": "1847",
-      "category": "Bangle",
-      "sem3_id": "2bEx09xQfEqA4GwC4YSo8w",
-      "brand": "Alex and Ani",
-      "features": {
-        "International Shipping": "This item is not eligible for international shipping. Learn More",
-        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
-        "Origin": "Made in USA or Imported",
-        "California residents": "Click here for Proposition 65 warning"
-      },
-      "price": "22.90",
-      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Silver Finish, Z]",
-      "sitedetails": [],
-      "manufacturer": "Alex and Ani",
-      "ean": "0886787073822",
-      "upc": "886787073822",
-      "color": "Russian Silver",
-      "model": "A13EB14ZS",
-      "size": "X",
-      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
-      "created_at": 1381632408,
-      "gtins": [
-        "00886787073822"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "updated_at": 1459051022,
-      "width": "0.41",
-      "length": "1.84",
-      "brand": "Alex and Ani",
-      "category": "Bangle",
-      "features": {
-        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
-        "California residents": "Click here for Proposition 65 warning",
-        "Origin": "Made in USA or Imported",
-        "International Shipping": "This item is not eligible for international shipping. Learn More"
-      },
-      "weight": "22679.62",
-      "created_at": 1381632408,
-      "price": "27.57",
-      "upc": "886787073556",
-      "sem3_id": "0XJt6wRPeoS8imc0m44UMW",
-      "manufacturer": "Alex and Ani",
-      "cat_id": "1847",
-      "size": "X",
-      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Gold Finish, M]",
-      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
-      "ean": "0886787073556",
-      "model": "A13EB14MG",
-      "color": "Russian Gold",
-      "sitedetails": [],
-      "mpn": "A13EB14MG",
-      "gtins": [
-        "00886787073556"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "sitedetails": [],
-      "manufacturer": "Alex and Ani",
-      "length": "1.84",
-      "upc": "886787073600",
-      "cat_id": "1847",
-      "brand": "Alex and Ani",
-      "price": "23.00",
-      "model": "A13EB14OS",
-      "sem3_id": "4kjfVkmIDAg26WsoAkckag",
-      "updated_at": 1459052182,
-      "weight": "8504.86",
-      "created_at": 1381632408,
-      "mpn": "A13EB14OS",
-      "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
-      "category": "Bangle",
-      "name": "Alex and Ani Initial Expandable Wire Bangle Bracelet, 2.5\" [Rafaelian Silver Finish, O]",
-      "ean": "0886787073600",
-      "features": {
-        "Origin": "Made in USA or Imported",
-        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
-        "International Shipping": "This item is not eligible for international shipping. Learn More",
-        "California residents": "Click here for Proposition 65 warning"
-      },
-      "color": "Russian Silver",
-      "size": "X",
-      "width": "0.41",
-      "gtins": [
-        "00886787073600"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "model": "635MR",
-      "manufacturer": "Reed & Barton",
-      "name": "Man Of The Year Mahogany Jewelry Chest with Dior Red Lining",
-      "mpn": "635MR",
-      "color": "multicolor",
-      "brand": "Reed Barton",
-      "sitedetails": [],
-      "created_at": 1347644737,
-      "ean": "0730295635211",
-      "sem3_id": "2ZxoB2GrBAC2sik8uaGakY",
-      "upc": "730295635211",
-      "updated_at": 1459050160,
-      "cat_id": "7505",
-      "length": "346.20",
-      "weight": "1814369.48",
-      "width": "257.30",
-      "category": "Jewelry Boxes",
-      "price": "64.95",
-      "height": "120.65",
-      "gtins": [
-        "00730295635211"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
       "sem3_id": "4QT3igA1qaSU4yMgAKMESm",
       "variation_id": "1JgjJwRHyKGEuk02CQIKQ4",
       "updated_at": 1459050598,
@@ -343,37 +143,212 @@
       "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
     },
     {
-      "sem3_id": "1uoqr1Yh7gEWUOa2AOUWeG",
-      "length": "1.97",
-      "variation_id": "64n9lUBJ0Cw0GQsQagiiUo",
-      "brand": "Alex and Ani",
-      "category": "Bangle",
-      "sitedetails": [],
-      "manufacturer": "Alex and Ani",
-      "model": "A12EB48RS",
-      "upc": "886787063267",
-      "updated_at": 1459021462,
-      "mpn": "A12EB48RS",
-      "cat_id": "1847",
-      "ean": "0886787063267",
-      "color": "Russian-Silver",
-      "features": {
-        "Metal": "Brass",
-        "Diameter": "2.75 inches",
-        "Product Dimensions": "5.2 x 3.6 x 0.4 inches; 0.8 ounces",
-        "Chain": "No chain",
-        "Origin": "USA",
-        "Package": "Oversized Medium box",
-        "Brand, Seller, or Collection Name": "Alex and Ani",
-        "Clasp": "No clasp"
-      },
-      "created_at": 1364128789,
-      "name": "Alex and Ani Because I Love You Expandable Wire Bangle Bracelet, 7.75\" [Rafaelian Silver Finish, Sister]",
-      "price": "28.00",
+      "model": "20480",
+      "manufacturer": "1928 Jewelry",
+      "ean": "0011996204808",
+      "price": "12.00",
       "weight": "22679.62",
+      "mpn": "20480",
+      "cat_id": "17154",
+      "width": "25.40",
+      "category": "Drop & Dangle",
+      "created_at": 1347524713,
+      "updated_at": 1459108444,
+      "name": "1928 Jewelry Vine Earrings [grey]",
+      "length": "38.10",
+      "features": {
+        "Metal stamp": "Not stamped",
+        "Brand, Seller, or Collection Name": "1928 Jewelry",
+        "Package": "Classic Medium Box",
+        "Item Length": "1.50 inches",
+        "Metal": "Base",
+        "Back finding": "French wire",
+        "Origin": "USA",
+        "Material": "Resin",
+        "Product Dimensions": "1.5 x 1 inches; 0.8 ounces"
+      },
+      "brand": "1928 Jewelry",
+      "sitedetails": [],
+      "color": "grey",
+      "sem3_id": "2ZkqiRuxXc0Iiq6Eo4sw4E",
+      "upc": "011996204808",
       "gtins": [
-        "00886787063267"
+        "00011996204808"
       ],
+      "variation_secondaryids": [
+        "5K0BShaYsaOc2cYuECksKk"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "ean": "0729343101938",
+      "price": "24.98",
+      "mpn": "10193",
+      "updated_at": 1462864363,
+      "brand": "Merck Family/Old World Christmas",
+      "created_at": 1347518860,
+      "model": "10193",
+      "name": "World Christmas Ornament Floral Angel",
+      "features": {
+        "Product Dimensions": "6.1 x 3.1 x 3 inches ; 2.4 ounces"
+      },
+      "upc": "729343101938",
+      "weight": "340194.28",
+      "manufacturer": "Old World Christmas",
+      "category": "Charms",
+      "sem3_id": "2C1YOoA7ZEcUgAYECS2OgY",
+      "cat_id": "14655",
+      "gtins": [
+        "00729343101938"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "14k Gold Satin and Polished Crossover Hoop Earrings [white-and-yellow-g",
+      "length": "0.25",
+      "upc": "729367444790",
+      "price": "233.57",
+      "ean": "0729367444790",
+      "manufacturer": "Amazon Curated Collection",
+      "created_at": 1347803107,
+      "sitedetails": [],
+      "brand": "Amazon Curated Collection",
+      "updated_at": 1459006997,
+      "cat_id": "17504",
+      "model": "E14 9092 2C",
+      "width": "2.16",
+      "weight": "104893.24",
+      "sem3_id": "58eDF91AYSMCYAmoMEsaeq",
+      "features": {
+        "Product Dimensions": "3.4 x 3 x 0.6 inches; 0.3 ounces",
+        "Metal stamp": "14k",
+        "Diameter": "0.9 inches",
+        "Origin": "Turkey",
+        "Back finding": "click-top",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Package": "Deluxe Medium Box",
+        "Total metal weight": "4.5 Grams",
+        "Metal": "White and yellow gold"
+      },
+      "variation_id": "6h33jxB0D22sGGC6IoQUYO",
+      "category": "Hoop",
+      "gtins": [
+        "00729367444790"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "58.42",
+      "model": "337_LF BFYBX",
+      "name": "BUTTERFLY Necklace Charm Pendant w/ Crystal Wings in Butterfly Velour Gift Box [Assorted]",
+      "brand": "DM Merchandising",
+      "mpn": "LF-BFYBX",
+      "sem3_id": "1llY0vKkeKMwWK0WuGGGCi",
+      "price": "6.65",
+      "ean": "0722950106655",
+      "sitedetails": [],
+      "created_at": 1347534902,
+      "updated_at": 1459012992,
+      "color": "Red",
+      "category": "Necklaces & Pendants",
+      "upc": "722950106655",
+      "height": "30.48",
+      "length": "58.42",
+      "weight": "2177243.38",
+      "manufacturer": "Abernook",
+      "features": {
+        "Product Dimensions": "2.3 x 2.3 x 1.2 inches",
+        "Manufacturer recommended age": "1 month - 6 years"
+      },
+      "cat_id": "24526",
+      "gtins": [
+        "00722950106655"
+      ],
+      "variation_secondaryids": [
+        "0BIWURgbqBk4AISEaqk2Yg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459093035,
+      "brand": "Blitz USA",
+      "price": "6.99",
+      "ean": "0940895000559",
+      "name": "Blitz Gem & Jewelry Cleaner Concentrate (8 Oz)",
+      "mpn": "651",
+      "sem3_id": "4pmohZTkpkAUEeQSyiIyo2",
+      "sitedetails": [],
+      "created_at": 1348665131,
+      "manufacturer": "Blitz",
+      "variation_id": "4pSA4451VgC4EIyECQYsGE",
+      "category": "Cleaning & Care",
+      "model": "651",
+      "upc": "840895001832",
+      "weight": "4535.92",
+      "size": "8 Oz",
+      "features": {
+        "Brand, Seller, or Collection Name": "Blitz USA",
+        "Product Dimensions": "7 x 2 x 2 inches; 8 ounces"
+      },
+      "cat_id": "9073",
+      "gtins": [
+        "00840895001832",
+        "00940895000559"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Sizing upper range": "15",
+        "Origin": "USA",
+        "Metal": "Yellow gold",
+        "Metal stamp": "14k",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Package": "Regal Blue Sueded-Cloth Pouch",
+        "Sizing lower range": "4",
+        "Product Dimensions": "2.2 x 2.2 x 1 inches; 0.6 ounces",
+        "Resizable": "Yes"
+      },
+      "width": "0.76",
+      "brand": "Amazon Curated Collection",
+      "sitedetails": [],
+      "category": "Wedding Bands",
+      "variation_id": "4UcarSF9vye6sUIQe44E4U",
+      "created_at": 1347722834,
+      "sem3_id": "1co4n7WQyWyq68Ow0kqMcS",
+      "cat_id": "2636",
+      "weight": "17009.71",
+      "model": "LCF13014ky07",
+      "updated_at": 1459134781,
+      "price": "156.94",
+      "name": "Women's 14k Gold Comfort-Fit Plain Wedding Band (3mm)",
+      "manufacturer": "Amazon Curated Collection",
       "geo": [
         "usa"
       ],

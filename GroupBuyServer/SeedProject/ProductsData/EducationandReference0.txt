@@ -1,0 +1,1155 @@
+{
+  "total_results_count": 12440,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "27787",
+      "height": "193.80",
+      "price": "199.99",
+      "upc": "794678311031",
+      "length": "160.27",
+      "cat_id": "17135",
+      "width": "73.15",
+      "ean": "9781608299973",
+      "updated_at": 1463784965,
+      "features": {
+        "Mac System Memory": "1GB RAM",
+        "Mac Video": "1024 x 768 video card",
+        "PC Hard Drive Space": "600MB",
+        "Mac Operating System": "Macintosh System 10.4.11, Macintosh System 10.5.8 Leopard, Macintosh System 10.6.2 Snow Leopard",
+        "PC Processor Speed": "1GHz",
+        "PC Additional Requirements": "Broadband Internet service required to access online features; USB port for headset with microphone",
+        "Mac Hard Drive Space": "600MB",
+        "PC Video": "1024 x 768 video card",
+        "PC System Memory": "1GB RAM",
+        "PC Drive Type and Speed": "CD-ROM, DVD-ROM",
+        "Number of Discs": "1",
+        "PC Operating System": "Windows XP Professional with Service Pack 3, Windows Vista with Service Pack 2, Windows 7",
+        "Mac Drive Type and Speed": "CD-ROM, DVD-ROM",
+        "Mac Processor Speed": "1GHz",
+        "Mac Additional Requirements": "Broadband Internet service required to access online features; USB port for headset with microphone",
+        "Platform": "Mac/Windows"
+      },
+      "brand": "Rosetta Stone",
+      "created_at": 1348668852,
+      "category": "Education & Reference",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "weight": "635029.32",
+      "sem3_id": "1Wn114Ze6e8KYUKo2w8kSq",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "N82E16832249107",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832249107",
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462582100,
+              "availability": "Not Available",
+              "currency": "USD",
+              "seller": "Newegg",
+              "price": "405.98",
+              "id": "05OpPtSuYwSOSk4Ygk2YOS",
+              "firstrecorded_at": 1456809300,
+              "isactive": 0
+            },
+            {
+              "seller": "Newegg",
+              "firstrecorded_at": 1451862800,
+              "price": "399.00",
+              "id": "7597PqbEVUWmKeU42qQA40",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1456502700,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1451566800,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Newegg",
+              "price": "405.98",
+              "firstrecorded_at": 1450293300,
+              "id": "2oHCh1yVp2IEAuQmSQaqS2",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "FLT_31103",
+          "name": "jr.com",
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_31103",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1396418800,
+              "currency": "USD",
+              "id": "7UmQiAuJxuMWM8gIMcu0wY",
+              "firstrecorded_at": 1396418800,
+              "price": "399.00",
+              "seller": "JR",
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "price": "259.35",
+              "firstrecorded_at": 1388156300,
+              "id": "0bLhE4Avi0skMKkGqaGeqi",
+              "currency": "USD",
+              "lastrecorded_at": 1388156300,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "mpn": "27787",
+      "size": "Level 1, 2, 3 Set",
+      "name": "Learn French: Rosetta Stone French - Level 1-3 Set [Disc, Level 1-3 Set, PC/Mac]",
+      "operatingsystem": "Mac OS X 10.6+",
+      "manufacturer": "Rosetta Stone",
+      "gtins": [
+        "00794678311031",
+        "09781608299973"
+      ],
+      "variation_secondaryids": [
+        "75b7ofjUhMmEqGY8qYe0uI",
+        "54jEqPX1o0IE04amUAWim8",
+        "0B7RGaZZ4HuKqYEE6EWWco",
+        "6tJPqeL5ySSikOEyEwawuE",
+        "1WZqv2F6D6KO4wSoIqA0IC",
+        "7UJsDInP9sCq6SmWIiwEU4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "0VZKNcdu1tuGGOWcUWicuE",
+      "weight": "816466.27",
+      "size": "Level 1, 2, 3 Set",
+      "model": "27766",
+      "cat_id": "17135",
+      "features": {
+        "Learning/Education/Training Software": "Language Learning",
+        "Number of Licenses": "4",
+        "Education & Hobbies Software Type": "Languages",
+        "Computer Software Format": "CD/DVD",
+        "Operating System": "Windows"
+      },
+      "manufacturer": "Rosetta Stone",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "width": "73.15",
+      "height": "193.80",
+      "mpn": "27766",
+      "ean": "9781608299768",
+      "category": "Education & Reference",
+      "length": "160.27",
+      "sitedetails": [
+        {
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_30703",
+          "sku": "FLT_30703",
+          "recentoffers_count": 0,
+          "name": "jr.com",
+          "latestoffers": [
+            {
+              "seller": "JR",
+              "id": "0ffI8yg0TE8WyMaAGKSC64",
+              "lastrecorded_at": 1396441100,
+              "price": "399.00",
+              "currency": "USD",
+              "firstrecorded_at": 1396441100,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1388156300,
+              "seller": "JR",
+              "id": "2WdJVo5O7IsyGimeIQu6C6",
+              "lastrecorded_at": 1388156300,
+              "price": "259.35",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "name": "Learn English: Rosetta Stone English (American) - Level 1-3 Set",
+      "operatingsystem": "Mac OS X 10.6+",
+      "brand": "Rosetta Stone",
+      "updated_at": 1463754404,
+      "created_at": 1348680361,
+      "upc": "794678307034",
+      "price": "249.00",
+      "gtins": [
+        "00794678307034",
+        "09781608299768"
+      ],
+      "variation_secondaryids": [
+        "0Bza4dG6mC8uk6cI4GswQS",
+        "6lo5Gt0XHE6KW0q60Ssiiw",
+        "3fle2NK8DwO4EASQMQgSWM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows Vista",
+      "category": "Education & Reference",
+      "manufacturer": "Summitsoft",
+      "ean": "0831666002073",
+      "updated_at": 1463655179,
+      "platform": "No Operating System",
+      "model": "00207 3",
+      "mpn": "00207-3",
+      "cat_id": "17135",
+      "brand": "Summitsoft",
+      "weight": "131541.79",
+      "name": "Logo Design Studio Pro [PC Disc]",
+      "sem3_id": "7LC3kPpHQegSMokM6oSuGS",
+      "features": {
+        "Name": "Logo Design Studio Pro",
+        "System Requirements": "Operating System: Windows XP, Windows Vista, Windows 7Hardware: PC with Pentium 400 MHz or higher processorMemory: 128 MB of RAMHard Disk: 1200 MB of available hard-disk spaceDVD-ROM drive (for boxed shipments)",
+        "Operating Systems Supported": "Windows",
+        "Feature": "Logo Design Studio Pro Vector makes expert design easy!New! 2,000+ logo templates: industry-based templates designed by professional graphic artists.New! 6,000+ full vector graphics: vector graphics are different from regular graphics and images because they don't have pixels.No pixels means you can blow them up to any size without losing image quality or sharpness.New! Complete vector design: since your new design is vector based you can use it on a project smaller than a postage stamp, or blow it up to cover the side of a building, something no other logo design software can do!Import and export capabilities: create your logo in all popular formats, including PDF, SVG, TIFF, PNG, JPEG, EMF, and BMP.Slogan & tagline resource library: take your brand image a step further by better defining what you do.500+ pre-written taglines and slogans make it easier for people to understand what you offer.Total text control: add standard solid or stroked text, wrap text around shapes, place text on a path, or convert your text into an editable shape using Bezier tools.Precise drawing tools: Bezier editing visually shows adjustable nodes you can move to change the look of shapes, text and curves.Easily undo any change you don't like.Seamless effects: add a creative touch using professional effects that get noticed.Lift your logo off the canvas with a shadow, add a 3D bevel technique, and more.Letterhead templates: Logo Design Studio Pro Vector offers templates, allowing you to place your new logo on custom letterhead.New! 750+ commercial use fonts: professional, creative, refined & designer fonts are included.High print resolution: print sharp results with any project by adjusting your export resolution up to 600 dpi.Trademark & copyright logo guidelines: Logo Design Studio Pro Vector takes you through the trademark process so you can secure your identity.",
+        "Packaging": "Retail"
+      },
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1463655100,
+              "seller": "Frys",
+              "id": "1fbiJr9S8O2Em8u6Wmcss4",
+              "firstrecorded_at": 1409254200,
+              "price": "29.99",
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1407212900,
+              "availability": "In stock, ships same Business Day.",
+              "price": "9.99",
+              "lastrecorded_at": 1407212900,
+              "currency": "USD",
+              "id": "35StLazwqWm8IIQoSqGsUa",
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1405334600,
+              "currency": "USD",
+              "id": "0uuKhXy4fM6I4QACgo0O6M",
+              "seller": "Frys",
+              "firstrecorded_at": 1405334600,
+              "price": "6.99",
+              "availability": "Ships by Monday, July 21",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/6233050",
+          "name": "frys.com",
+          "sku": "6233050"
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "57LObDM6XYoY2emcGuAOMU",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1434513300,
+              "currency": "USD",
+              "availability": "OUT OF STOCK",
+              "price": "28.48",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1403048900,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1390067000,
+              "currency": "USD",
+              "id": "1RcmwDdOE42O8USOMoySKs",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1388756500,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "price": "27.99",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=661038",
+          "sku": "661038"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1448314100,
+              "seller": "TigerDirect",
+              "id": "5Gn8HYIqO0O6oKEKSYOmEW",
+              "firstrecorded_at": 1432066000,
+              "price": "26.49",
+              "availability": "Available,",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "tigerdirect.com",
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=7370375",
+          "sku": "7370375"
+        }
+      ],
+      "price": "31.55",
+      "created_at": 1365753117,
+      "upc": "831666002073",
+      "gtins": [
+        "00831666002073"
+      ],
+      "variation_secondaryids": [
+        "2cgXmdmiwq2OQKy4eYCI42"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "17135",
+      "operatingsystem": "Mac OS X 10.6+",
+      "features": {
+        "Computer Software Format": "CD/DVD",
+        "Operating System": "Windows",
+        "Number of Licenses": "4",
+        "Education & Hobbies Software Type": "Languages",
+        "Learning/Education/Training Software": "Language Learning"
+      },
+      "upc": "794678302039",
+      "weight": "816466.27",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "price": "199.00",
+      "mpn": "27752",
+      "sem3_id": "2ncd8Nbq2ScMyU24SiiYcy",
+      "size": "Level 1, 2, 3 Set",
+      "updated_at": 1463690094,
+      "model": "27752",
+      "manufacturer": "Rosetta Stone",
+      "category": "Education & Reference",
+      "created_at": 1348691664,
+      "ean": "9781608299645",
+      "name": "Learn Chinese: Rosetta Stone Chinese (Mandarin) - Level 1-3 Set",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1462946400,
+              "seller": "Frys",
+              "lastrecorded_at": 1463642900,
+              "id": "5ECOwe4WREoiWgYUM2CS0e",
+              "price": "199.00",
+              "availability": "Special Orders",
+              "isactive": 1
+            },
+            {
+              "availability": "Special Orders",
+              "id": "2WWzKHiJmGM0YMGWAUa6EK",
+              "price": "169.00",
+              "firstrecorded_at": 1461189400,
+              "lastrecorded_at": 1461189400,
+              "seller": "Frys",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "Special Orders",
+              "firstrecorded_at": 1459755600,
+              "lastrecorded_at": 1460398100,
+              "seller": "Frys",
+              "price": "199.00",
+              "id": "26HvjsAFiWgoMQiq6yKYSk",
+              "isactive": 0
+            }
+          ],
+          "sku": "6403322",
+          "url": "http://www.frys.com/product/6403322"
+        }
+      ],
+      "brand": "Rosetta Stone",
+      "gtins": [
+        "00794678302039",
+        "09781608299645"
+      ],
+      "variation_secondaryids": [
+        "6sz5Gyy5r6eQe2mguKim6u"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "Level 1, 2, 3 Set",
+      "weight": "612349.70",
+      "sitedetails": [
+        {
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_30503",
+          "name": "jr.com",
+          "sku": "FLT_30503",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1388156300,
+              "price": "259.35",
+              "firstrecorded_at": 1388156300,
+              "seller": "JR",
+              "id": "2YqbZYFXaW6G2Yy8AWWOc0",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "length": "160.27",
+      "features": {
+        "Mac System Memory": "1GB RAM",
+        "Mac Drive Type and Speed": "CD-ROM, DVD-ROM",
+        "Mac Processor Speed": "1GHz",
+        "Mac Hard Drive Space": "600MB",
+        "Platform": "Mac/Windows",
+        "Mac Additional Requirements": "Broadband Internet service required to access online features; USB port for headset with microphone",
+        "PC System Memory": "1GB RAM",
+        "PC Processor Speed": "1GHz",
+        "PC Additional Requirements": "Broadband Internet service required to access online features; USB port for headset with microphone",
+        "PC Video": "1024 x 768 video card",
+        "PC Operating System": "Windows XP Professional with Service Pack 3, Windows Vista with Service Pack 2, Windows 7",
+        "PC Hard Drive Space": "600MB",
+        "Mac Video": "1024 x 768 video card",
+        "Number of Discs": "1",
+        "Mac Operating System": "Macintosh System 10.4.11, Macintosh System 10.5.8 Leopard, Macintosh System 10.6.2 Snow Leopard",
+        "PC Drive Type and Speed": "CD-ROM, DVD-ROM"
+      },
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "created_at": 1348680363,
+      "brand": "Rosetta Stone",
+      "upc": "794678305030",
+      "width": "73.15",
+      "updated_at": 1463684633,
+      "cat_id": "17135",
+      "sem3_id": "5dd27V9c48q6m4EMq6mcCU",
+      "manufacturer": "Rosetta Stone",
+      "ean": "9781617160066",
+      "model": "27796",
+      "height": "193.80",
+      "price": "199.99",
+      "operatingsystem": "Mac OS X 10.6+",
+      "name": "Learn German: Rosetta Stone German - Level 1-3 Set [Disc, Level 1-3 Set, PC/Mac]",
+      "category": "Education & Reference",
+      "mpn": "27796",
+      "gtins": [
+        "00794678305030",
+        "09781617160066"
+      ],
+      "variation_secondaryids": [
+        "0vZkDhOuNgMkiWQic6UYim",
+        "4Hqkdi0eNsCqOgYMScOsYi",
+        "3J6e9BAp56KS4QGygMeIWO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "018527104958",
+      "model": "8037781",
+      "brand": "Individual Software, Inc.",
+      "updated_at": 1463725131,
+      "price": "19.86",
+      "height": "190.50",
+      "width": "27.94",
+      "sem3_id": "5EbOK6LAHIW4kamUq8sOwW",
+      "category": "Typing",
+      "ean": "0018527104958",
+      "manufacturer": "Individual Software",
+      "cat_id": "13246",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "5953084",
+          "url": "http://www.frys.com/product/5953084",
+          "latestoffers": [
+            {
+              "price": "19.98",
+              "availability": "In Stock",
+              "firstrecorded_at": 1457870100,
+              "currency": "USD",
+              "id": "2vyl1sWHRAiwOMoqCI2cEO",
+              "lastrecorded_at": 1463649000,
+              "seller": "Frys",
+              "isactive": 1
+            },
+            {
+              "availability": "Accepting Back Orders",
+              "price": "29.99",
+              "firstrecorded_at": 1449541000,
+              "currency": "USD",
+              "id": "6lXpdG7aXQiuAWWISU0u8G",
+              "lastrecorded_at": 1457263000,
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "price": "14.99",
+              "availability": "In Stock",
+              "firstrecorded_at": 1447109500,
+              "currency": "USD",
+              "id": "2W8NS98ljMCmqYE8KkgCqS",
+              "lastrecorded_at": 1448930600,
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "12259269",
+          "url": "http://www.target.com/p/typing-instructor-platinum-pc-mac-cd/-/A-12259269",
+          "latestoffers": [
+            {
+              "availability": "Available Online",
+              "price": "29.99",
+              "currency": "USD",
+              "firstrecorded_at": 1378502700,
+              "lastrecorded_at": 1381531500,
+              "id": "5iAzIM7aoSkiYYGeAuKwau",
+              "seller": "target.com",
+              "isactive": 0
+            }
+          ],
+          "name": "target.com"
+        },
+        {
+          "name": "samsclub.com",
+          "sku": "typing-instructor-platinum",
+          "latestoffers": [
+            {
+              "id": "7fh2NhEeP2WG40UOYe4qcI",
+              "lastrecorded_at": 1380053900,
+              "seller": "Sam's Club",
+              "availability": "Available",
+              "price": "19.86",
+              "currency": "USD",
+              "firstrecorded_at": 1380053900,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.samsclub.com/sams/typing-instructor-platinum/prod1110491.ip"
+        }
+      ],
+      "name": "Typing Instructor Platinum 21 [PC Disc]",
+      "mpn": "EMM-T21",
+      "operatingsystem": "Windows 7",
+      "length": "135.89",
+      "weight": "127005.86",
+      "features": {
+        "PC Processor Type": "IntelÂ® PentiumÂ® 133 processor",
+        "Genre": "Educational",
+        "Mac Operating System": "Macintosh System 10.4 â 10.5",
+        "PC Sound Card": "16-bit sound card",
+        "PC Operating System": "Windows 2000, Windows XP, Windows Vista",
+        "Mac Drive Type and Speed": "CD",
+        "PC Drive Type and Speed": "CD",
+        "Mac Processor Type": "PowerPC, G4, IntelÂ® Coreâ¢ Duo processor",
+        "Platform": "Mac/Windows",
+        "Mac Processor Speed": "800MHz",
+        "Mac Video": "32MB 1024 x 768 video card",
+        "PC Video": "16-bit 800 x 600 video card"
+      },
+      "platform": [
+        "Mac OS X Intel",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "created_at": 1348673587,
+      "gtins": [
+        "00018527104958"
+      ],
+      "variation_secondaryids": [
+        "5ntEfzRBcOaWMcGeoAQmWS",
+        "7Osj62NVjs8yY4wOw2QS8Y"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Dragon NaturallySpeaking Premium 11, Spanish",
+      "sem3_id": "3sWKtLYBb68u0u0C6u8q8W",
+      "ean": "0780420123571",
+      "manufacturer": "Nuance Communications, Inc.",
+      "brand": "Nuance Communications, Inc.",
+      "category": "Education & Reference",
+      "length": "190.50",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows 2000",
+        "Windows Me",
+        "Windows XP"
+      ],
+      "operatingsystem": "Mac OS X",
+      "updated_at": 1463620984,
+      "cat_id": "17135",
+      "created_at": 1348665369,
+      "height": "66.04",
+      "price": "199.99",
+      "mpn": "K609S-G00-11.0",
+      "width": "128.27",
+      "weight": "181436.95",
+      "model": "K609S G00 11.0",
+      "features": {
+        "Language(s)": "Spanish",
+        "Package Type": "Retail",
+        "License Pricing": "Standard",
+        "Distribution Media": "DVD-ROM",
+        "Platform": "Windows",
+        "System Requirements Details": "Microsoft Windows Vista - Pentium - 1 GHz - RAM 1 GB - HD 2.5 GB Microsoft Windows XP - Pentium - 1 GHz - RAM 1 GB - HD 2.5 GB Microsoft Windows 7 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB Microsoft Windows Server 2008 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB Microsoft Windows Server 2003 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB",
+        "Version": "11",
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows 7, Microsoft Windows Server 2003 SP1, Microsoft Windows Server 2008 R2, Microsoft Windows Server 2008 SP2, Microsoft Windows Server 2008 SP1, Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows Server 2003 R2, Microsoft Windows Server 2003 SP2, Microsoft Windows XP SP3",
+        "License Type": "Complete package",
+        "License Qty": "1 user",
+        "Peripheral / Interface Devices": "Microphone, DVD-ROM, Internet connection, 16 bit sound card",
+        "Software Requirements": "Internet Explorer 6.0 or later",
+        "Subcategory": "Office applications - voice recognition"
+      },
+      "upc": "780420123571",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1424068700,
+              "price": "165.48",
+              "seller": "Walmart",
+              "id": "1kE2HjgO0qccgmWYugYu6m",
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1368428200,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1361974200,
+              "seller": "Walmart",
+              "price": "176.28",
+              "lastrecorded_at": 1361974200,
+              "id": "3Sb0NxcZ0KwGyGwyiK444I",
+              "isactive": 0
+            },
+            {
+              "id": "6dGc1dzbDyAqwGyIuU2eu4",
+              "seller": "Walmart",
+              "price": "168.55",
+              "lastrecorded_at": 1361801700,
+              "currency": "USD",
+              "firstrecorded_at": 1358773400,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "15860296",
+          "url": "http://www.walmart.com/ip/15860296",
+          "name": "walmart.com"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=607473",
+          "sku": "607473",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "id": "2Q82TqLS6mOck4oOQ4MU2G",
+              "seller": "DataVision Computer Video",
+              "price": "195.99",
+              "lastrecorded_at": 1392026500,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1389117400,
+              "availability": "Low Stock. Order Now!",
+              "isactive": 0
+            },
+            {
+              "id": "4IawGcAcvg2cia08SEuO6i",
+              "lastrecorded_at": 1388761000,
+              "price": "194.99",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1388761000,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "availability": "Low Stock. Order Now!",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        }
+      ],
+      "gtins": [
+        "00780420123571"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463716949,
+      "height": "50.80",
+      "mpn": "ACTPRO2013RT",
+      "price": "159.99",
+      "width": "139.70",
+      "manufacturer": "SAGE (PTREE)",
+      "length": "190.50",
+      "created_at": 1357084170,
+      "features": {
+        "Platform": "Windows",
+        "License Qty": "1 user",
+        "License Pricing": "Standard",
+        "Package Type": "Retail",
+        "System Requirements Details": "Microsoft Windows XP - Pentium 4 - 1 GHz - RAM 1 GB - HD 2 GB Microsoft Windows Vista / 7 - Pentium 4 - 1.8 GHz - RAM 1 GB - HD 2 GB",
+        "Software Requirements": "Internet Explorer 8.0, Microsoft Office 2003, Adobe Reader 6.0, Adobe Reader 7.0, Lotus Notes 8, Microsoft Office 2007, Internet Explorer 7, Microsoft Outlook Express 6.0, Microsoft .NET Framework 4.0, Microsoft Office 2010, Citrix XenApp 5.0, Citrix XenApp 6.0, Adobe Reader 10.x, Microsoft Windows Installer 4.5",
+        "License Type": "License",
+        "Peripheral / Interface Devices": "DVD-ROM, SVGA monitor, Internet connection",
+        "OS Required": "Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows XP SP3, Microsoft Windows Server 2008 R2 x64 Edition, Microsoft Windows 7 (32/64 bits) SP1, Microsoft Windows Server 2003 (32/64-bits) SP2, Microsoft Windows Server 2008 (32/64-bits) SP2",
+        "Subcategory": "Office applications - personal information management"
+      },
+      "upc": "040689015407",
+      "weight": "181436.95",
+      "name": "SAGE (PTREE) ACTPRO2013RT SAGE ACT PRO 2013",
+      "sem3_id": "7EQf8lkgroMAAiMiAi6IiC",
+      "model": "8100655",
+      "cat_id": "17135",
+      "operatingsystem": "Windows XP Home Edition",
+      "ean": "0040689015407",
+      "category": "Education & Reference",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "Unavailable Notify me when available While supplies last",
+              "id": "5wnsBg445gOaYacgiOqoau",
+              "price": "239.99",
+              "firstrecorded_at": 1410346000,
+              "currency": "USD",
+              "seller": "Frys",
+              "lastrecorded_at": 1412430300,
+              "isactive": 0
+            },
+            {
+              "availability": "Unavailable Notify me when available",
+              "id": "7g7Fai0ew4Ioqk2qou4iWE",
+              "price": "199.99",
+              "firstrecorded_at": 1379647900,
+              "lastrecorded_at": 1410141900,
+              "seller": "Frys",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "currency": "USD",
+              "lastrecorded_at": 1379547400,
+              "firstrecorded_at": 1372165200,
+              "price": "269.99",
+              "id": "2cWZGSEvDkCekecmyse6IQ",
+              "availability": "In stock, ships same Business Day.",
+              "isactive": 0
+            }
+          ],
+          "sku": "7309284",
+          "url": "http://www.frys.com/product/7309284",
+          "name": "frys.com",
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832185207",
+          "latestoffers": [
+            {
+              "price": "199.99",
+              "firstrecorded_at": 1380944100,
+              "lastrecorded_at": 1382742600,
+              "currency": "USD",
+              "seller": "Newegg",
+              "availability": "In stock. [BBX: Buy Box]",
+              "id": "4Xb2b6BdmiSSEE0QASKOww",
+              "isactive": 0
+            },
+            {
+              "id": "4hIMMByEXQymwS6kgWCywo",
+              "lastrecorded_at": 1373883500,
+              "seller": "Newegg",
+              "currency": "USD",
+              "firstrecorded_at": 1373824800,
+              "price": "201.99",
+              "isactive": 0
+            },
+            {
+              "availability": "Was: $269.99 [BBX: Buy Box]",
+              "id": "0JrUyGy7tI0wq2QEiSQwoe",
+              "price": "221.99",
+              "firstrecorded_at": 1365660000,
+              "lastrecorded_at": 1367363600,
+              "currency": "USD",
+              "seller": "Newegg",
+              "isactive": 0
+            }
+          ],
+          "sku": "N82E16832185207"
+        },
+        {
+          "name": "antonline.com",
+          "recentoffers_count": 0,
+          "url": "http://www.antonline.com/p_Sage--ACTPRO2013RT--Sage-ACT!-Pro-2013---license_1015626.htm",
+          "latestoffers": [
+            {
+              "availability": "5 In Stock",
+              "id": "6Bf1C5ftQGsYCYAkGewOQO",
+              "firstrecorded_at": 1393904000,
+              "price": "285.31",
+              "lastrecorded_at": 1397182800,
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "isactive": 0
+            }
+          ],
+          "sku": "1015626"
+        }
+      ],
+      "brand": "Sage",
+      "gtins": [
+        "00040689015407"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "brand": "Rosetta Stone",
+      "ean": "9781617160837",
+      "cat_id": "17135",
+      "created_at": 1347679998,
+      "manufacturer": "Rosetta Stone",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "N82E16832249115",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832249115",
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1378668700,
+              "id": "72VDwIQmQqWYA20QgGCSI2",
+              "lastrecorded_at": 1382868300,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "seller": "Newegg",
+              "price": "299.00",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "332.00",
+              "currency": "USD",
+              "seller": "Newegg",
+              "availability": "In stock. [BBX: Buy Box]",
+              "lastrecorded_at": 1377827300,
+              "id": "7BOUu1GkdcqMcuMegUSoiU",
+              "firstrecorded_at": 1377827300,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1364072500,
+              "id": "2rT9WyadlweECOQaM86WeM",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "lastrecorded_at": 1377377800,
+              "price": "299.00",
+              "currency": "USD",
+              "seller": "Newegg",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "34456066",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1432874800,
+              "price": "199.00",
+              "currency": "USD",
+              "seller": "Walmart",
+              "firstrecorded_at": 1432874800,
+              "id": "05Z2a6CvpqqiiG6ku0oQKw",
+              "isactive": 0
+            },
+            {
+              "id": "60RFPN7cyOekMCA4ekmSGo",
+              "firstrecorded_at": 1429783100,
+              "availability": "Available",
+              "lastrecorded_at": 1429783100,
+              "price": "200.92",
+              "currency": "USD",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1427666800,
+              "id": "6O1zH9rG1gIIgkASM0MaAA",
+              "lastrecorded_at": 1428427700,
+              "availability": "Available",
+              "seller": "Walmart",
+              "currency": "USD",
+              "price": "190.43",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/34456066"
+        }
+      ],
+      "sem3_id": "5R2aynGDGCImUMYgc8EEmm",
+      "upc": "794678309021",
+      "features": {
+        "Shipping Weight (in pounds)": "1.51",
+        "Multi Pack Indicator": "No",
+        "Platform": "Multi-Platform",
+        "Origin of Components": "USA",
+        "Assembled in Country of Origin": "USA",
+        "Product in Inches (L x W x H)": "3.1 x 6.3 x 7.7",
+        "Battery Type": "Does Not Contain a Battery"
+      },
+      "model": "27873",
+      "updated_at": 1463714500,
+      "weight": "249475.80",
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "price": "199.00",
+      "name": "Learn Spanish: Rosetta Stone Spanish (Latin America) Level 1-2",
+      "category": "Education & Reference",
+      "gtins": [
+        "00794678309021",
+        "09781617160837"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "127005.86",
+      "features": {
+        "Date Published": "October 22, 2009",
+        "Computer Platform Compatibility": "Windows 2000/ME/XP",
+        "Release Date": "October 22, 2009",
+        "Software Publisher": "Individual Software",
+        "Physical Media Format": "CD",
+        "Min Processor Speed Required": "580 MHz",
+        "Min RAM Required": "256MB",
+        "Genre": "Educational Software",
+        "Min Drive Space Required": "580MB"
+      },
+      "created_at": 1374230006,
+      "cat_id": "13246",
+      "sem3_id": "1dMnaLfiWSaOmqg6MWeA6u",
+      "variation_id": "3QWjClarJY20EUc22GMA0m",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/6085048",
+          "sku": "6085048",
+          "latestoffers": [
+            {
+              "id": "5Vl4vP77OwASAQYwICWe0O",
+              "seller": "Frys",
+              "currency": "USD",
+              "availability": "In Stock",
+              "firstrecorded_at": 1449559300,
+              "lastrecorded_at": 1463644900,
+              "price": "19.98",
+              "isactive": 1
+            },
+            {
+              "seller": "Frys",
+              "currency": "USD",
+              "id": "6HQXCEnKQwQWqMwgoWk6Oo",
+              "price": "9.99",
+              "firstrecorded_at": 1447113100,
+              "lastrecorded_at": 1448946300,
+              "availability": "Accepting Back Orders",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "currency": "USD",
+              "id": "0DtdzonP03y8EwImOSYWes",
+              "price": "19.98",
+              "firstrecorded_at": 1377686100,
+              "lastrecorded_at": 1446535100,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "frys.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "target.com",
+          "url": "http://www.target.com/p/individual-software-typing-instructor-for-kids-platinum/-/A-12259419",
+          "latestoffers": [
+            {
+              "id": "2eBZTKv1G88ggYQiimicGg",
+              "seller": "target.com",
+              "currency": "USD",
+              "availability": "Available Online",
+              "firstrecorded_at": 1382091100,
+              "lastrecorded_at": 1382816200,
+              "price": "15.99",
+              "isactive": 0
+            },
+            {
+              "availability": "Available Online",
+              "firstrecorded_at": 1380882500,
+              "lastrecorded_at": 1381705500,
+              "price": "29.99",
+              "id": "3DU8vQImHQEuWoEyGusaA0",
+              "seller": "target.com",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "12259419"
+        },
+        {
+          "name": "datavis.com",
+          "recentoffers_count": 1,
+          "sku": "660757",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "id": "1mPra466RYeq6CKiGOqAEw",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "17.34",
+              "lastrecorded_at": 1458188100,
+              "firstrecorded_at": 1391279000,
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "price": "43.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388754600,
+              "lastrecorded_at": 1390593500,
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "id": "1u3xH8BfCWciSgciKQGIAO",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=660757"
+        }
+      ],
+      "updated_at": 1463644980,
+      "model": "EMM TK5",
+      "operatingsystem": "Windows",
+      "mpn": "EMM-TK5",
+      "width": "27.94",
+      "price": "17.98",
+      "name": "Typing Instructor for Kids Platinum 5 [PC Disc]",
+      "brand": "Individual Software",
+      "ean": "0018527101841",
+      "category": "Typing",
+      "length": "135.89",
+      "upc": "018527101841",
+      "height": "190.50",
+      "manufacturer": "Individual Software",
+      "gtins": [
+        "00018527101841"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

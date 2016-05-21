@@ -10,90 +10,122 @@ namespace SeedProject
             {
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
+                    FirstName = "Noam",
+                    LastName = "Horovitz",
+                    UserName = "noamh",
+                    Password = "Aa123456"
+                },
+                new User
+                {
+                    Id = Guid.NewGuid(),
+                    FirstName = "Amit",
+                    LastName = "Messing",
+                    UserName = "amitm",
+                    Password = "Aa123456"
+                },
+                new User
+                {
+                    Id = Guid.NewGuid(),
+                    FirstName = "Yulia",
+                    LastName = "Teverovsky",
+                    UserName = "yuliat",
+                    Password = "Aa123456"
+                },
+                new User
+                {
+                    Id = Guid.NewGuid(),
+                    FirstName = "Yoni",
+                    LastName = "Yoni Abitbol",
+                    UserName = "yonia",
+                    Password = "Aa123456"
+                },
+                new User
+                {
+                    Id = Guid.NewGuid(),
                     FirstName = "Rachel",
                     LastName = "Horovitz",
-                    Email = "rachel@gmail.com",
+                    UserName = "rachel",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Roy",
                     LastName = "Cohen",
-                    Email = "royc@gmail.com",
+                    UserName = "royc",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Noy",
                     LastName = "Cohen",
-                    Email = "noyc@gmail.com",
+                    UserName = "noyc",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Nadav",
                     LastName = "Mary",
-                    Email = "nadavm@gmail.com",
+                    UserName = "nadavm",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Koby",
                     LastName = "Shimony",
-                    Email = "kobys@gmail.com",
+                    UserName = "kobys",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Bar",
                     LastName = "Ezra",
-                    Email = "bare@gmail.com",
+                    UserName = "bare",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Amit",
                     LastName = "Wolfus",
-                    Email = "amitw@gmail.com",
+                    UserName = "amitw",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Amir",
                     LastName = "Schlezinger",
-                    Email = "amirs@gmail.com",
+                    UserName = "amirs",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Roni",
                     LastName = "Dalomi",
-                    Email = "royc@gmail.com",
+                    UserName = "royc",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Roni",
                     LastName = "Dalomi",
-                    Email = "royc@gmail.com",
+                    UserName = "royc",
                     Password = "Aa123456"
                 },
                 new User
                 {
-                    Id = new Guid(),
+                    Id = Guid.NewGuid(),
                     FirstName = "Ingrid",
                     LastName = "Mickel",
-                    Email = "ingridm@gmail.com",
+                    UserName = "ingridm",
                     Password = "Aa123456"
                 },
             };

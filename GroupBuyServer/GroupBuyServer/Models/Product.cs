@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Drawing;
 using FluentNHibernate.Mapping;
-using NHibernate.Mapping;
 
 namespace GroupBuyServer.Models
 {
@@ -18,6 +17,7 @@ namespace GroupBuyServer.Models
         public virtual Image Image { get; set; }
         public virtual IList<Category> Categories { get; set; }
         public virtual IList<User> Buyers { get; set; }
+        public virtual IList<Discount> Discounts { get; set; }        
     }
 
     public class ProductMap : ClassMap<Product>
@@ -26,7 +26,7 @@ namespace GroupBuyServer.Models
         {
             Table("t_products");
 
-            Id(x => x.Id, "id").GeneratedBy.Assigned(); ;
+            Id(x => x.Id, "id").GeneratedBy.Assigned();
             Map(x => x.Name, "name");
             Map(x => x.Description, "description");
             References(x => x.Seller).Column("seller_id");
@@ -40,11 +40,7 @@ namespace GroupBuyServer.Models
                 .ParentKeyColumn("product_id")
                 .ChildKeyColumn("category_id");
 
-            HasManyToMany(x => x.Buyers)
-                .Table("rel_product_beyer")
-                .ParentKeyColumn("product_id")
-                .ChildKeyColumn("buyer_id");
-
+            HasMany(x => x.Discounts).KeyColumn("product_id").Inverse().Cascade.None();
         }
     }
 }

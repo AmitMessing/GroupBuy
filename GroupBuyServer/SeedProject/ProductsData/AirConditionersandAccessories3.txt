@@ -1,0 +1,743 @@
+{
+  "total_results_count": 23016,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "color": "gray",
+      "mpn": "AJCQ12ACE",
+      "upc": "084691238898",
+      "features": {
+        "Warranty": "1 year",
+        "Compliant Standards": "ADA, AHAM",
+        "Air Flow Control": "4-way air direction control",
+        "Max Dehumidification Capacity": "97.8 pint/24hrs",
+        "Safety Features": "Auto shut-off",
+        "Cooling Capacity": "12000 BTU/h",
+        "Energy Efficiency Ratio (EER)": "9.8",
+        "Included Accessories": "Remote control . wall mounting kit",
+        "Control Type": "Electronic",
+        "Voltage": "115 V / 60 Hz",
+        "Form Factor": "Through-the-wall",
+        "Rated Current": "11.2 A",
+        "Timer Settings Features": "Timer",
+        "Fan Speed Settings Qty": "3",
+        "Cord Length": "75 ft",
+        "Timer": "24 hrs",
+        "Airflow": "290.2 CFM",
+        "Functions": "Cooling, dehumidifying",
+        "Refrigerant": "R410A",
+        "Special Features": "Smart Fan system, washable filter, ventilation only mode",
+        "Weight (Shipping)": "89.9 lbs",
+        "Product Type": "Air conditioner - indoor unit"
+      },
+      "manufacturer": "GE",
+      "model": "AJCQ12ACE",
+      "created_at": 1348667626,
+      "name": "GE AJCQ12ACE",
+      "cat_id": "11509",
+      "sitedetails": [],
+      "price": "814.00",
+      "category": "Wall",
+      "updated_at": 1460763909,
+      "brand": "GE",
+      "height": "396.75",
+      "ean": "0084691238898",
+      "weight": "40823313.30",
+      "sem3_id": "3zfHEGjcqOyGiIQEQsyUqg",
+      "width": "660.40",
+      "length": "553.97",
+      "gtins": [
+        "00084691238898"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Light Grey",
+      "cat_id": "9584",
+      "upc": "842149021207",
+      "name": "PerfectAire 10000BTU Portable Air-Conditioner, 10000PPAC [10,000 BTU]",
+      "mpn": "10000PPAC",
+      "category": "Portable",
+      "sitedetails": [],
+      "manufacturer": "Perfectaire",
+      "length": "347.98",
+      "height": "670.56",
+      "created_at": 1357716257,
+      "size": "10,000 BTU",
+      "updated_at": 1462628308,
+      "price": "517.96",
+      "ean": "0842149021207",
+      "sem3_id": "3vGUbSkIN6WmEAUAMoqS6q",
+      "brand": "PerfectAire",
+      "model": "10000PPAC",
+      "features": {
+        "Product Dimensions": "13.7 x 16.9 x 26.4 inches",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "weight": "33339039.20",
+      "width": "429.26",
+      "gtins": [
+        "00842149021207"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347790573,
+      "sem3_id": "6fsXZ1PhVgsEKUGwE2ug8W",
+      "height": "825.50",
+      "weight": "35833797.23",
+      "ean": "0647568552352",
+      "upc": "647568552352",
+      "updated_at": 1455544449,
+      "length": "450.85",
+      "mpn": "LX-120BL DB",
+      "name": "Soleus Air® 12000 BTU Portable Evaporative Air Conditioner",
+      "model": "LX 120BL DB",
+      "width": "488.95",
+      "price": "389.00",
+      "features": {
+        "Amperage": "10.2 A",
+        "Manufacturer Warranty": "1 year",
+        "Sound Rating": "54 dBa",
+        "Max. Air Flow Capacity": "206 CFM",
+        "Voltage": "115C/ 60Hz",
+        "A/C BTUs": "12000"
+      },
+      "manufacturer": "SOLEUS",
+      "sitedetails": [],
+      "brand": "Soleus",
+      "category": "Portable",
+      "cat_id": "9584",
+      "gtins": [
+        "00647568552352"
+      ],
+      "variation_secondaryids": [
+        "77rVwx817gKEQ2EgE0MIo2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Certifications and Listings": "1-UL Listed",
+        "Built-in carbon filter": "No",
+        "Remote Control": "No",
+        "Air Volume (CFM)": "4000",
+        "Evaporative Cooler Product Type": "Window Cooler",
+        "Returnable": "90-Day",
+        "Product Height (in.)": "34.5",
+        "Manufacturer Warranty": "For 8 years from date of purchase, we will replace the original base assembly if water leakage should occur due to rust out. One year from date of purchase, we will replace any original part provided by Champion Cooler which fails.",
+        "Number of Speed Settings": "2",
+        "Window opening minimum width (in.)": "21.63",
+        "Voltage (volts)": "115",
+        "Cooling zone (sq. ft.)": "1100",
+        "Programmable Timer": "No",
+        "Built-in HEPA filter": "No",
+        "Window opening minimum height (in.)": "14.88",
+        "Commercial / Residential": "Residential",
+        "Amperage (amps)": "7.9",
+        "Product Width (in.)": "34.13",
+        "Window opening maximum width (in.)": "42.38",
+        "Horsepower (hp)": ".33 hp",
+        "Product Depth (in.)": "41.13"
+      },
+      "width": "866.90",
+      "upc": "009009520106",
+      "cat_id": "9584",
+      "sem3_id": "7C1FUs4RvsYEkcIiyWqk0O",
+      "weight": "68946040.24",
+      "model": "N44W",
+      "height": "876.30",
+      "ean": "0009009520106",
+      "brand": "Champion Cooler",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "40724099",
+          "url": "http://www.walmart.com/ip/40724099",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Zoro Tools Inc",
+              "lastrecorded_at": 1463056400,
+              "price": "626.88",
+              "firstrecorded_at": 1463056400,
+              "id": "3VnL74QbFgQ8SUAAIO0KuA",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1455842500,
+              "id": "4Js3lhdeRsgmuA02qGksOi",
+              "seller": "Zoro Tools Inc",
+              "lastrecorded_at": 1461013400,
+              "price": "569.89",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com"
+        }
+      ],
+      "category": "Portable",
+      "mpn": "WC44",
+      "name": "Essick Air Window Evaporative Cooler, N44W [1]",
+      "created_at": 1357769750,
+      "updated_at": 1463653083,
+      "price": "626.88",
+      "gtins": [
+        "00009009520106"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1432586450,
+      "brand": "LG",
+      "name": "LG Electronics LW6014ER Energy Star 115-volt Window-Mounted Air Conditioner with Remote Control, 6000 BTU",
+      "price": "208.99",
+      "weight": "21772433.76",
+      "model": "LW6014ER",
+      "width": "472.44",
+      "features": {
+        "Maximum Coverage Area": "260 Square Feet",
+        "Voltage": "115 Volts (V)",
+        "Uses standard 115V electrical outlet Full-function remote control 3 Cooling speeds and 3 fan speeds for cooling flexibility 24-Hour on/off timer cools on schedule Energy saver function conserves energy and saves money Auto restart saves settings when the power goes out 2-Way air deflection Tilt-out, easy-clean mesh filter with clean filter alert Product Details Product Type": "Window air conditioner",
+        "BTU Cooling": "6000 BTUs",
+        "Number of Items Included": "6",
+        "Cord Length": "4'",
+        "Wattage": "530 Watts (W)",
+        "Product Warranty": "1 Year coverage for parts and labor with in-home service",
+        "Residential or Commercial Use": "Residential",
+        "Remote Included": "Yes",
+        "Phase": "Single phase",
+        "Energy Efficiency Ratio": "11.2",
+        "Material": "Plastic",
+        "Number of Fan Speeds": "3",
+        "Frequency": "60 Hertz",
+        "Moisture Removal": "43.2 Pints",
+        "Window Compatible": "Yes",
+        "Product Type": "Window air conditioner",
+        "Programmable Timer": "No",
+        "Fire Resistant Housing": "Yes",
+        "Powder Coated Finish": "Yes",
+        "Pieces Included": "Air conditioner, remote control, 2 AAA batteries, mesh filter, installation kit",
+        "Country of Manufacture": "China",
+        "BTU Heating": "6000 BTUs",
+        "Digital Display": "Yes",
+        "Energy Saver Mode": "Yes",
+        "Amperage": "5 Amps",
+        "Overall Product Weight": "48lbs",
+        "Auto Restart": "Yes",
+        "Overall": "12.3\" H x 18.6\" W x 15.1\" D",
+        "Operating Modes Available": "Dehumidifier",
+        "Wheeled": "No",
+        "Thermostat Included": "No",
+        "Finish": "White",
+        "Maximum Air Flow": "200 Cubic Feet Per Minute (CFM)",
+        "Refrigerant Type": "R410A",
+        "Number of Cooling Speeds": "3",
+        "Plug Type": "NEMA 5-15P"
+      },
+      "sem3_id": "4twKF6Q6N66Eu4iQECGekO",
+      "manufacturer": "LG",
+      "color": "White",
+      "upc": "048231372404",
+      "sitedetails": [
+        {
+          "sku": "10305424_3419237",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "seller": "Overstock",
+              "currency": "USD",
+              "id": "2DxoQ24fIiM84U8uuSKiKq",
+              "lastrecorded_at": 1463716700,
+              "availability": "Available",
+              "firstrecorded_at": 1463407100,
+              "price": "215.99",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1461956400,
+              "availability": "Available",
+              "seller": "Overstock",
+              "id": "53HlvuHiciI8MmQGG6YiGM",
+              "lastrecorded_at": 1463121000,
+              "currency": "USD",
+              "price": "219.49",
+              "isactive": 0
+            },
+            {
+              "price": "211.99",
+              "seller": "Overstock",
+              "currency": "USD",
+              "id": "6sjfMVfwXowI0yCAygC2oM",
+              "lastrecorded_at": 1461663700,
+              "firstrecorded_at": 1459777700,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.overstock.com/Home-Garden/LG-LW6014ER-6-000-BTU-Window-Air-Conditioner-with-Remote-Refurbished/10305424/product.html",
+          "name": "overstock.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "219.99",
+              "firstrecorded_at": 1455059500,
+              "availability": "Available",
+              "seller": "Wayfair",
+              "currency": "USD",
+              "id": "4DL5wjmx5cm6GUiW6qsaKE",
+              "lastrecorded_at": 1455059500,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "UGS1276",
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/LG-6-000-BTU-Window-Mounted-Air-Conditioner-with-Remote-LW6014ER-UGS1276.html"
+        }
+      ],
+      "cat_id": "17078",
+      "mpn": "LW6014ER",
+      "height": "312.42",
+      "updated_at": 1463716771,
+      "ean": "0048231372404",
+      "category": "Energy Star Qualified",
+      "length": "383.54",
+      "gtins": [
+        "00048231372404"
+      ],
+      "variation_secondaryids": [
+        "7DpJPAmnZogKy6QSasM6Yo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "3rp7v8eqmekg8wMo06YcEy",
+      "color": "White",
+      "price": "639.99",
+      "category": "Window",
+      "model": "FFTA1233Q2",
+      "height": "368.30",
+      "updated_at": 1463697268,
+      "manufacturer": "Frigidaire",
+      "length": "520.70",
+      "features": {
+        "Window Mounting Kit": "Yes",
+        "Unique Accessory Available": "Window Mount Kit EA102T Outside Grill EA109T",
+        "Filter Check": "Yes",
+        "Safety Certification": "UL/CUL (SA11087)",
+        "Air CFM (Med)": "279",
+        "Noise Level dB (Med)": "58.7",
+        "Performance Certification": "AHAM",
+        "Rear Grill": "Yes",
+        "Filter Access": "Slide-Out",
+        "Voltage Rating": "230V / 208V 60Hz",
+        "24-Hour On/Off Timer": "Yes",
+        "ProductLaunch": "NA",
+        "BTU (Cool)": "12000 / 11700",
+        "Cabinet Louvers": "No",
+        "Energy Saver": "Yes",
+        "BrandFamilyFrigidaire": "Yes",
+        "Refrigerant": "R410a",
+        "ETL Listed": "No",
+        "Fan Auto": "Yes",
+        "Shipping Weight (lbs)": "87",
+        "Air CFM (High)": "305",
+        "UL Listed": "Yes",
+        "Cool Area (Sq. Ft.)": "550",
+        "Air Direction Control": "4-Way",
+        "NSF(R) Certified": "No",
+        "Filter Type": "Anti-Bacterial Mesh",
+        "ADA Compliant - All Brands": "No",
+        "Noise Level dB (High)": "60.4",
+        "Energy Efficiency Ratio": "9.8",
+        "Exhaust Vent": "No",
+        "Dehumidification - Pints/Hr": "3.5",
+        "Charge - ozs": "21.87",
+        "Warranty": "1 Year Full/5 Year Sealed System",
+        "Reconditioned": "No",
+        "Collection": "Frigidaire",
+        "Product Weight (lbs)": "76",
+        "Motor RPM (High)": "1466",
+        "Carton Depth": "28-5/16\"",
+        "Low Voltage Start-up": "Yes",
+        "Clean Air Ionizer": "No",
+        "Plug Type": "LCDI 6-15P",
+        "Power Type": "Electric",
+        "Width (Sleeve)": "25-15/16\"",
+        "Sleep Mode": "Yes",
+        "Air CFM (Low)": "255",
+        "Carton Height": "17-5/16\"",
+        "CSA Listed": "No",
+        "Control Type": "Electronic",
+        "Vents Closed": "Yes",
+        "ENERGY STAR(R) Certified": "No",
+        "Motor RPM (Low)": "1257",
+        "Motor RPM (Med)": "1363",
+        "Power Cord Length": "5-1/2' (6')",
+        "Max Wall Thickness": "18\"",
+        "Amps (Cool)": "5.5 / 5.9",
+        "Horsepower (Cool)": "1.7",
+        "Included Accessory": "Universal Trim Kit",
+        "Slide-Out Chassis": "No",
+        "Height (Sleeve)": "15-5/8\"",
+        "Installation Type": "Built-In",
+        "Watts (Cool)": "1220 / 1193",
+        "Carton Width": "27-3/16\"",
+        "Remote Control": "Full Function / Remote Thermostat",
+        "Annual Cost(.12 / kWH)": "110",
+        "Fresh Air": "No",
+        "Noise Level dB (Low)": "56.4",
+        "Control Location": "Top Left Corner"
+      },
+      "created_at": 1398483552,
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "price": "639.99",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "77xfhGeoqWuYcOYqcs6kaW",
+              "lastrecorded_at": 1462915600,
+              "seller": "UnbeatableSale",
+              "firstrecorded_at": 1460901800,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1460901800,
+              "firstrecorded_at": 1460901800,
+              "seller": "Walmart",
+              "price": "693.85",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "6xO6O75L0KYmKWA84ymMco",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1459265100,
+              "firstrecorded_at": 1458739100,
+              "seller": "Walmart",
+              "price": "529.01",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "4FoI7PPpjkKUKKGE0ScyUS",
+              "isactive": 0
+            }
+          ],
+          "sku": "35764377",
+          "url": "http://www.walmart.com/ip/35764377"
+        },
+        {
+          "sku": "FFTA1233Q2",
+          "url": "http://www.pcrichard.com/Frigidaire/Frigidaire-12000-BTU-Wall-Sleeve-Replacement-Air-Conditioner/FFTA1233Q2.pcrp",
+          "latestoffers": [
+            {
+              "price": "639.96",
+              "currency": "USD",
+              "availability": "Available",
+              "id": "6rKmMDRuVMQwEcawWCm8uy",
+              "lastrecorded_at": 1457365200,
+              "seller": "P.C. Richard & Son",
+              "firstrecorded_at": 1449779300,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1438385100,
+              "seller": "P.C. Richard & Son",
+              "lastrecorded_at": 1440766400,
+              "currency": "USD",
+              "price": "639.97",
+              "id": "67P5Im0D9U0W8SYegkYi0S",
+              "isactive": 0
+            },
+            {
+              "id": "5fxWwpephgeEq0KOWUQcO2",
+              "price": "719.97",
+              "currency": "USD",
+              "lastrecorded_at": 1431560300,
+              "seller": "P.C. Richard & Son",
+              "firstrecorded_at": 1427377100,
+              "isactive": 0
+            }
+          ],
+          "name": "pcrichard.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "name": "Frigidaire FFTA1233Q2 Energy Efficient 12,000-BTU 230V Through-The-Wall Air Conditioner with Temperature Sensing Remote Control",
+      "brand": "Frigidaire",
+      "upc": "012505278495",
+      "mpn": "FFTA1233Q2",
+      "cat_id": "13068",
+      "width": "609.60",
+      "weight": "37194574.34",
+      "ean": "0012505278495",
+      "gtins": [
+        "00012505278495"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Condition": "New",
+        "Maximum Room Size": "sq ft sq ft",
+        "Volts": "115 V",
+        "Assembled Product Dimensions (L x W x H)": "20.66 x 24.03 x 14.56 IN",
+        "BTU": "8,000"
+      },
+      "manufacturer": "Haier",
+      "model": "HTWR08XCK",
+      "ean": "0688057401683",
+      "created_at": 1357722888,
+      "sem3_id": "64V2L2RZxIeSqkc4OkicqQ",
+      "mpn": "HTWR08XCK",
+      "category": "Wall",
+      "updated_at": 1462931872,
+      "cat_id": "11509",
+      "name": "Haier 8000 BTU Through-The-Wall Air Conditioner - Haier HTWR08XCK",
+      "sitedetails": [
+        {
+          "sku": "17477205",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1424111700,
+              "currency": "USD",
+              "id": "6qrJdhhmL2OOcQc6YWsEsg",
+              "seller": "Walmart",
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1424111700,
+              "price": "312.11",
+              "isactive": 0
+            },
+            {
+              "price": "312.00",
+              "lastrecorded_at": 1420809000,
+              "availability": "Out of stock",
+              "seller": "Walmart",
+              "id": "77WmbdCSJsQAWYG8mCE0Ik",
+              "currency": "USD",
+              "firstrecorded_at": 1419716800,
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/17477205"
+        }
+      ],
+      "upc": "688057401683",
+      "brand": "Haier",
+      "weight": "34019427.75",
+      "gtins": [
+        "00688057401683"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "R08BD-L04",
+      "brand": "Leviton",
+      "sem3_id": "58E3mEMw4uGaeySGEm846e",
+      "features": {
+        "Item Package Quantity": "1",
+        "Item Weight": "18.6 pounds",
+        "Product Dimensions": "18.1 x 16.3 x 6.5 inches",
+        "Warranty Description": "2 Year Limited"
+      },
+      "name": "Leviton R08BD-L04 EZ-MAX Plus 8 Relay Panel",
+      "upc": "078477480236",
+      "created_at": 1380288633,
+      "sitedetails": [],
+      "price": "909.80",
+      "category": "Parts & Accessories",
+      "cat_id": "6377",
+      "updated_at": 1461486594,
+      "ean": "0078477480236",
+      "gtins": [
+        "00078477480236"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Port A Cool",
+      "name": "Port-A-Cool PAC2K16HPVS 16-Inch Portable Evaporative Cooling Unit, 4000 CFM, 1000 Square Foot Cooling Capacity, Variable Speed, Black",
+      "category": "Portable",
+      "updated_at": 1462359239,
+      "created_at": 1348699380,
+      "sitedetails": [],
+      "length": "558.80",
+      "height": "774.70",
+      "features": {
+        "Product Dimensions": "22 x 37.5 x 30.5 inches",
+        "Item Weight": "74 pounds",
+        "Item Package Quantity": "1",
+        "Power Source": "corded-electric",
+        "Warranty Description": "1-Year parts",
+        "Certification": "No"
+      },
+      "mpn": "PAC2K16HPVS",
+      "price": "795.00",
+      "manufacturer": "Port-A-Cool",
+      "sem3_id": "2C3X3zgqDg0SeGccOcscgg",
+      "cat_id": "9584",
+      "width": "952.50",
+      "upc": "614288162093",
+      "weight": "33565835.38",
+      "ean": "0614288162093",
+      "model": "PAC2K16HPVS",
+      "color": "Black",
+      "gtins": [
+        "00614288162093"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "HPF12XHM-LP",
+      "name": "Haier HPF12XHM-LP 12,000-BTU Room Portable Air Conditioner 10,000 BTU Heater",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "7jXzL3xR0iWqKa2ccKcAw4",
+              "currency": "USD",
+              "lastrecorded_at": 1463149400,
+              "availability": "Available",
+              "firstrecorded_at": 1461111100,
+              "seller": "VMInnovations",
+              "price": "399.99",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1459418200,
+              "availability": "Available",
+              "lastrecorded_at": 1459418200,
+              "id": "3HzLJJSLaqUmu2cKYeQ8Sk",
+              "seller": "VMInnovations",
+              "price": "429.99",
+              "isactive": 0
+            },
+            {
+              "seller": "VMInnovations",
+              "price": "449.99",
+              "id": "6KvjDHwsFMkIigQW2CkesQ",
+              "currency": "USD",
+              "firstrecorded_at": 1457818200,
+              "lastrecorded_at": 1457818200,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/23206509",
+          "sku": "23206509",
+          "recentoffers_count": 1
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Sam's West",
+              "price": "358.00",
+              "currency": "USD",
+              "firstrecorded_at": 1432831700,
+              "lastrecorded_at": 1456478900,
+              "id": "3uLnJtTqXICKUaOmKUG2MW",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.samsclub.com/prod12850347.ip",
+          "name": "samsclub.com",
+          "sku": "12850347",
+          "recentoffers_count": 0
+        }
+      ],
+      "updated_at": 1463149486,
+      "upc": "688057403687",
+      "ean": "0688057403687",
+      "sem3_id": "2htLBC3RoGuSs8GC4c2mcM",
+      "brand": "Haier",
+      "category": "Portable",
+      "cat_id": "9584",
+      "features": {
+        "Number of Speeds": "3.0",
+        "Is Remote Control Included": "Y",
+        "Is Portable": "Y",
+        "Condition": "New",
+        "Features": "24 Hour Timer , Remote Control",
+        "Maximum Room Size": "sq ft",
+        "BTU": "12,000",
+        "Coverage Area": "550 sq ft",
+        "Assembled Product Dimensions (L x W x H)": "15.25 x 17.75 x 29.44 IN",
+        "Volts": "110/120 volts",
+        "Cord Length": "3'"
+      },
+      "color": "Silver",
+      "model": "HPF12XHM LP",
+      "created_at": 1376298563,
+      "manufacturer": "Generic",
+      "price": "399.99",
+      "gtins": [
+        "00688057403687"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    }
+  ]
+}

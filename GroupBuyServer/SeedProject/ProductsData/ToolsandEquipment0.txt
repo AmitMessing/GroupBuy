@@ -120,84 +120,208 @@
       "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
     },
     {
-      "cat_id": "17324",
-      "model": "UV550000",
-      "category": "Tools & Equipment",
-      "height": "91.44",
-      "sem3_id": "6jDc98jzRQOAaQ0mUcU8oG",
-      "price": "129.50",
-      "brand": "UVIEW",
-      "updated_at": 1461055492,
-      "manufacturer": "UVIEW",
-      "width": "228.60",
+      "created_at": 1347599193,
+      "features": {
+        "Item Weight": "7.1 pounds",
+        "Product Dimensions": "16 x 14 x 4.4 inches",
+        "Discontinued by manufacturer": "Yes",
+        "Batteries": "6 AA batteries required."
+      },
+      "sem3_id": "5IF0tIAFywYmcMmcGkqQiw",
+      "manufacturer": "AutoXray",
+      "category": "Code Readers & Scan Tools",
+      "cat_id": "20365",
+      "name": "AutoXray AX7000 Tech Scan Diagnostic Code Scanner with Live, Record and Playback Sensor Data Capability and SD Card Slot for Upgrades",
+      "mpn": "AX7000",
+      "price": "430.04",
+      "model": "AX7000",
+      "ean": "0796992390198",
+      "sitedetails": [],
+      "brand": "AutoXray",
+      "upc": "796992390198",
+      "updated_at": 1460523967,
+      "gtins": [
+        "00796992390198"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "3447302.01",
+      "cat_id": "19891",
+      "mpn": "CPI2575",
+      "updated_at": 1462612913,
       "sitedetails": [
         {
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=575056",
           "latestoffers": [
             {
-              "lastrecorded_at": 1436857200,
-              "availability": "Available",
-              "price": "158.99",
-              "firstrecorded_at": 1436219800,
-              "seller": "Wayfair.com",
+              "lastrecorded_at": 1437444200,
+              "id": "7G30rCdvbkMeQ6M0SYKSoS",
+              "price": "198.00",
               "currency": "USD",
-              "id": "5WPNgVMUXuQEaiweaUco28",
+              "firstrecorded_at": 1418738100,
+              "availability": "OUT OF STOCK",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
               "isactive": 0
             },
             {
-              "id": "0PdaWozbs00K8MaUG6qeyY",
+              "lastrecorded_at": 1416601000,
+              "availability": "Low Stock. Order Now!",
+              "firstrecorded_at": 1409248900,
+              "price": "213.45",
+              "id": "1fNUp2iuoiGGGic24wOkG6",
               "currency": "USD",
-              "seller": "Wayfair.com",
-              "lastrecorded_at": 1434873000,
-              "availability": "Available",
-              "firstrecorded_at": 1434873000,
-              "price": "156.99",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
               "isactive": 0
             },
             {
-              "lastrecorded_at": 1430481800,
-              "availability": "Available",
-              "price": "142.99",
-              "firstrecorded_at": 1430481800,
-              "seller": "Wayfair.com",
-              "id": "1fVXScwKBosqKgy8888YCq",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1407209100,
+              "availability": "In Stock",
+              "id": "5ckI0m06O8c2Q0M4Q4G8e2",
               "currency": "USD",
+              "price": "234.00",
+              "lastrecorded_at": 1407209100,
               "isactive": 0
             }
           ],
-          "recentoffers_count": 0,
-          "sku": "22130615",
-          "name": "walmart.com",
-          "url": "http://www.walmart.com/ip/22130615"
+          "sku": "575056",
+          "recentoffers_count": 0
         },
         {
-          "name": "walmart.com",
-          "url": "http://www.walmart.com/ip/29496255",
-          "sku": "29496255",
+          "sku": "39186209",
           "latestoffers": [
             {
-              "id": "5lJsYPgJUGuScOQ4CYgQYy",
+              "price": "289.95",
               "currency": "USD",
-              "seller": "TonZof.com",
-              "firstrecorded_at": 1398499000,
-              "price": "147.15",
-              "availability": "In Stock",
-              "lastrecorded_at": 1398499000,
+              "id": "23h3ZdLp3kq222oAOAsuqq",
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1418091200,
+              "lastrecorded_at": 1424864000,
+              "seller": "Tonzof",
               "isactive": 0
             }
           ],
-          "recentoffers_count": 0
+          "url": "http://www.walmart.com/ip/39186209",
+          "recentoffers_count": 0,
+          "name": "walmart.com"
         }
       ],
+      "model": "CBRCPI2575 187_7300",
+      "upc": "028377312700",
+      "ean": "0028377312700",
+      "sem3_id": "3UDbVdzhGamMkesIkQso2Y",
+      "price": "230.81",
+      "created_at": 1364235738,
+      "manufacturer": "Cobra",
       "features": {
-        "Product in Inches (L x W x H)": "12.5 x 9.0 x 3.6",
-        "Origin of Components": "USA or Imported",
-        "Shipping Weight (in pounds)": "5.5",
-        "Assembled in Country of Origin": "USA or Imported"
+        "Receptacles": "1 x USB",
+        "Load Capacity": "2.50 kW Continuous Power",
+        "Compatibility": "Apple iPod Portable Media Player RIM Blackberry Smartphone Cell Phones Laptops TV sets Video Games CD Players DVD Players Major Household Appliances",
+        "Protection Type": "Under Voltage Protection",
+        "Status Indicators": "Status Meter Three Digit LEDs: Input(V) Output(kW) Output(W)",
+        "Output Voltage": "5 V DC",
+        "Limited Warranty": "2 Year",
+        "Input Voltage Range": "10.4 to 14.4 V DC",
+        "Alarm": "Over Temperature",
+        "Temperature": "-40F (-40C) to 185F (85C) Storage",
+        "Waveform Type": "Modified Sine Wave",
+        "Package Contents": "2500W AC to DC Power Inverter Instruction Manual",
+        "Frequency": "58 Hz to 62 Hz",
+        "Product Type": "Power Inverter"
       },
-      "name": "UVIEW Air Lift Cooling System Refiller",
-      "length": "317.50",
-      "weight": "2322392.93",
-      "created_at": 1376313246,
+      "name": "Cobra CPI 2575 2500 Watt 12 Volt DC to 120 Volt AC Power Inverter [Standard Packaging]",
+      "brand": "Cobra",
+      "category": "Power Inverters",
+      "gtins": [
+        "00028377312700"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "15875732.95",
+      "model": "UTV 364",
+      "category": "Vehicle Lifts, Hoists & Jacks",
+      "price": "99.99",
+      "mpn": "UTV364PC",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "name": "autopartswarehouse.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "autopartswarehouse.com",
+              "price": "119.08",
+              "lastrecorded_at": 1448813300,
+              "availability": "Available",
+              "firstrecorded_at": 1443460500,
+              "id": "4JGPW4AuzAyG24OSKWGWwQ",
+              "isactive": 1
+            },
+            {
+              "availability": "In Stock. Ships out in 3-5 business days.",
+              "id": "6NnQLDFuNcaga0U2aIWKCA",
+              "firstrecorded_at": 1379895600,
+              "seller": "autopartswarehouse.com",
+              "currency": "USD",
+              "lastrecorded_at": 1379895600,
+              "price": "157.58",
+              "isactive": 0
+            },
+            {
+              "seller": "autopartswarehouse.com",
+              "currency": "USD",
+              "lastrecorded_at": 1375876700,
+              "price": "155.51",
+              "availability": "In Stock. Ships out in 3-5 business days.",
+              "firstrecorded_at": 1370184300,
+              "id": "5Va7G5FN1UKsGioqkqwgK6",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.autopartswarehouse.com/sku/Univ/Hilift/Off_Road_Jack/H12UTV364.html",
+          "recentoffers_count": 1,
+          "listprice": "140.51",
+          "sku": "H12UTV364"
+        }
+      ],
+      "cat_id": "21612",
+      "upc": "052767036402",
+      "features": {
+        "Item Weight": "27.5 pounds",
+        "OEM Part Number": "UTV-364PC",
+        "Product Dimensions": "51.2 x 10 x 5.2 inches"
+      },
+      "ean": "0052767036402",
+      "sem3_id": "3inno7a1seWMCgUwEWweSM",
+      "created_at": 1348695400,
+      "variation_id": "0Xm9IAof97Ieq06SiwsWk2",
+      "brand": "Hi Lift",
+      "manufacturer": "Hi-Lift",
+      "name": "Hi-Lift Jack UTV-364 36\" UTV Jack [36 - Inches]",
+      "updated_at": 1458954831,
+      "size": "36 - Inches",
+      "gtins": [
+        "00052767036402"
+      ],
+      "variation_secondaryids": [
+        "2uCllVDZt2KE2wqI82Oo48"
+      ],
       "geo": [
         "usa"
       ],
@@ -366,69 +490,6 @@
       "manufacturer": "Fluke",
       "gtins": [
         "00095969261470"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "sem3_id": "2RY5Qw7d8SW2QWyEqyYEee",
-      "weight": "159845951.19",
-      "sitedetails": [],
-      "model": "MS4448PAE",
-      "updated_at": 1460698220,
-      "features": {
-        "Item Width": "12.6 inches",
-        "Item Length": "13.8 inches",
-        "Product Dimensions": "13.8 x 12.6 x 8 inches ; 63 pounds",
-        "Item Height": "8 inches",
-        "Item Weight": "63 pounds"
-      },
-      "brand": "Magnum",
-      "ean": "0039517577118",
-      "created_at": 1375806267,
-      "manufacturer": "Magnum",
-      "name": "Magnum Energy MS4448PAE 4400 Watt, 48V, Parrallel Inverter",
-      "cat_id": "19891",
-      "mpn": "MS4448PAE",
-      "upc": "039517577118",
-      "category": "Power Inverters",
-      "price": "2159.19",
-      "gtins": [
-        "00039517577118"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "name": "Kimberly-Clark Scott NTO Hand Cleanser With Grit",
-      "created_at": 1348680253,
-      "manufacturer": "Kimberly Clark Professional",
-      "model": "91045",
-      "mpn": "91045",
-      "upc": "036000910452",
-      "sem3_id": "1Iz2t8ZIp4QomGk8kgG6CG",
-      "updated_at": 1460697461,
-      "brand": "Kimberly Clark Professional",
-      "features": {
-        "Item Weight": "37 pounds",
-        "Product Dimensions": "11 x 7.1 x 18.9 inches"
-      },
-      "cat_id": "15510",
-      "category": "Hand Cleaners",
-      "sitedetails": [],
-      "weight": "9071847.40",
-      "ean": "0036000910452",
-      "price": "97.16",
-      "gtins": [
-        "00036000910452"
       ],
       "geo": [
         "usa"

@@ -1,0 +1,462 @@
+{
+  "total_results_count": 8488,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0034529123650",
+      "weight": "113398.09",
+      "brand": "Maine Coast Sea Vegetables",
+      "name": "Dulse Flakes - Certified Organic- Sea Vegetables, washed, Pure Vegan- Maine COhsawast 4oz.",
+      "manufacturer": "MAINE COAST SEA VEGETABLES",
+      "created_at": 1357649265,
+      "features": {
+        "Vitamin C": "0 %",
+        "Sugars": "0 g",
+        "Vitamin A": "1 %",
+        "Cholesterol": "0 %",
+        "Dietary Fiber": "2 g (7 %)",
+        "Saturated Fat": "0 g (0 %)",
+        "Total Carbohydrate": "2 g (1 %)",
+        "Directions": "Dulse Flakes in Salads: Boost the minerals, trace minerals, and protein of any salad. Flakes are enzyme active too! Sprinkle on as garnish after salad is tossed or toss flakes with salad materials and they will absorb ambient moisture (1tablespoon/serving). Add to your dressing for a colorful, flavorful accent. Reduces extra salt. Red color darkens as flakes absorb moisture. Sea Salad: Combine dulse flakes, our nori granules, marinated alaria and/or soaked kelp with your favorite pasta. Dulse Flakes in Soups: Sprinkle on flakes as a colorful garnish just before serving (1 tablespoon/serving). Add to most any soup while cooking to give sea flavor and added nutrition. Use less salt or let dulse lakes be a salt substitute. When cooked, flakes lose their red color but add their distinctive taste to the broth. Dulse flakes in Stirfries: 1 Tablespoon/serving will bring a delicious seasoning of the sea to almost and stirfry. To retain rich red color, add dulse flakes just before serving. Reduce or eliminate other salt sources. Dulse's complement of minerals salts will give you a salty taste without much sodium.",
+        "Total Fat": "0 g (0 %)",
+        "Serving Size": "1 tbsp",
+        "Iron": "14 %",
+        "Units in Package": "1",
+        "Protein": "1 g (2 %)",
+        "Sodium": "87 mg (4 %)",
+        "Trans Fat": "0 g",
+        "Unit Size": "4 oz",
+        "Calcium": "1 %",
+        "Servings Per Container": "23"
+      },
+      "cat_id": "22384",
+      "sem3_id": "1MuGkRh4VUCiymGsU2IuQe",
+      "price": "102.63",
+      "category": "Vegetables",
+      "sitedetails": [],
+      "updated_at": 1463801284,
+      "upc": "034529123650",
+      "gtins": [
+        "00034529123650"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Frontier",
+      "manufacturer": "Frontier Natural",
+      "updated_at": 1460571918,
+      "sem3_id": "0XuyLI7JYVUW8UO8e6AE0E",
+      "weight": "453592.37",
+      "category": "Vegetables",
+      "cat_id": "22384",
+      "upc": "089836027313",
+      "price": "15.51",
+      "created_at": 1348677762,
+      "features": {
+        "Item Weight": "1.1 pounds"
+      },
+      "name": "Frontier Natural Products Organic Roasted Chicory Root Granules, 16 Ounce",
+      "sitedetails": [],
+      "ean": "0089836027313",
+      "mpn": "2731",
+      "gtins": [
+        "00089836027313"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "upc": "089836025258",
+      "mpn": "2525",
+      "sem3_id": "4P1HaOzYgaQqki8AmaQumQ",
+      "created_at": 1370013022,
+      "weight": "453592.37",
+      "ean": "0089836025258",
+      "updated_at": 1463705334,
+      "brand": "Frontier Natural Products Co op",
+      "features": {
+        "Item Weight": "1 pounds"
+      },
+      "manufacturer": "Frontier Natural Products Co-op",
+      "price": "21.17",
+      "cat_id": "22384",
+      "name": "Frontier Bulk Beet Powder ORGANIC 1 lb. package 2525",
+      "category": "Vegetables",
+      "gtins": [
+        "00089836025258"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "8853841613944",
+      "features": {
+        "Sales Rank": "18220",
+        "Gender": "Men",
+        "Vitamin": "vitamin c",
+        "Supplement Purpose": "Sports",
+        "Age Segment": "Adult"
+      },
+      "width": "152.40",
+      "gtins": [
+        "00658010115933",
+        "08853841613944",
+        "00885114763481"
+      ],
+      "model": "GOO15933",
+      "weight": "1224699.40",
+      "sitedetails": [],
+      "name": "Garden of Life RAW Organic Meal Chocolate , 34.8 oz (Packaging May Vary)",
+      "length": "228.60",
+      "sem3_id": "1HX4JKp0ZGa00kWkQYASE2",
+      "created_at": 1348672324,
+      "brand": "Garden of Life",
+      "size": "1212 g",
+      "updated_at": 1463756278,
+      "manufacturer": "Garden of Life",
+      "cat_id": "9196",
+      "upc": "658010115933",
+      "price": "44.98",
+      "height": "152.40",
+      "color": "default",
+      "category": "Shiitake Mushrooms",
+      "mpn": "101816",
+      "variation_secondaryids": [
+        "4hcZjVyGS0oigGWKOKKykE",
+        "4GmAKYof9MsUuSciC88kOG",
+        "1HMOCmSxx8yWkOyU6uisYs"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16358",
+      "sitedetails": [],
+      "created_at": 1357784530,
+      "ean": "0034529123629",
+      "name": "ORGANIC WILD ATLANTIC DULSE 2 OZ",
+      "category": "Sea Vegetables",
+      "updated_at": 1461030917,
+      "price": "9.43",
+      "model": "20588 BA",
+      "weight": "68038.86",
+      "sem3_id": "41nkPPxaNcy4ACOA4mm2KQ",
+      "color": "default",
+      "features": {
+        "Cholesterol": "0 %",
+        "Serving Size": "0.333 cup",
+        "Trans Fat": "0 g",
+        "Saturated Fat": "0 g (0 %)",
+        "Vitamin C": "0 %",
+        "Directions": "Basic Prep: Our Dulse comes directly to you without processing or washing out any of its mineral richness. Store your Dulse in this bag out of extreme light, heat or moisture. If uncooked Dulse is too chewy for you, allow it to absorb some ambient moisture (steam kettle, damp towel, humid room) and in a few days it will be tenderized by its own enzymes. Rinsing the Dulse briefly will tenderize more quickly and make the taste less strong. Cooking with Dulse is a treat. It is fast and flavorful. Try pan-frying some leaves in a well-oiled skillet until they turn brownish and crisp. Kids love these chips . You can dry roast Dulse pieces in a medium hot skillet or low oven until the leaves turn greenish-no black (burned!) Crumble them on grains, soups, pasta, pizza or popcorn.",
+        "Vitamin A": "2 %",
+        "Warnings": "Please check for occasional tiny hidden pebbles or shells in the fronds.",
+        "Protein": "2 g (3 %)",
+        "Unit Size": "2 oz",
+        "Dietary Fiber": "2 g (9 %)",
+        "Total Carbohydrate": "3 g (1 %)",
+        "Sugars": "0 g",
+        "Units in Package": "1",
+        "Total Fat": "0 g (0 %)",
+        "Servings Per Container": "8",
+        "Calcium": "2 %",
+        "Sodium": "122 mg (5 %)",
+        "Iron": "19 %"
+      },
+      "manufacturer": "MAINE COAST SEA VEGETABLES",
+      "upc": "034529123629",
+      "brand": "Maine Coast Sea Vegetables",
+      "size": "2 oz.",
+      "gtins": [
+        "00034529123629"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "40.20",
+      "cat_id": "16358",
+      "length": "0.51",
+      "category": "Sea Vegetables",
+      "mpn": "ATLSVGSB",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Item Weight": "0.3 ounces"
+      },
+      "manufacturer": "TopDawg Pet Supply",
+      "updated_at": 1461427067,
+      "created_at": 1364095564,
+      "model": "ATLSVGSB",
+      "brand": "Two Little Fishies",
+      "upc": "748172501221",
+      "height": "0.51",
+      "name": "Two Little Fishies ATLSVGSB Sea Veg-Green Seaweed Bulk 100 Sheets",
+      "sitedetails": [],
+      "weight": "9071.85",
+      "sem3_id": "4C5DdGLYTokEqW6wciCcAc",
+      "ean": "0748172501221",
+      "width": "0.51",
+      "gtins": [
+        "00748172501221"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "35.06",
+      "updated_at": 1463791338,
+      "sitedetails": [],
+      "brand": "Home Naturals",
+      "category": "Sea Vegetables",
+      "sem3_id": "5VuNc30Xp2WSu6w6gSYAI4",
+      "name": "Dulse Flakes - Certified Organic- Sea Vegetables, washed, Pure Vegan- Maine COhsawast 4oz.",
+      "created_at": 1348676571,
+      "ean": "0034529123650",
+      "upc": "034529123650",
+      "color": "default",
+      "features": {
+        "Product Dimensions": "14 x 7 x 10.5 inches ; 4.3 ounces"
+      },
+      "weight": "113398.09",
+      "manufacturer": "Home Naturals",
+      "cat_id": "16358",
+      "gtins": [
+        "00034529123650"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "95254.40",
+      "created_at": 1364089087,
+      "category": "Sea Vegetables",
+      "brand": "Eden",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/38266404",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1463604400,
+              "price": "36.96",
+              "seller": "Direct Home Supplies",
+              "lastrecorded_at": 1463604400,
+              "id": "7LeVoSBKtsCk6S6SU2o0Ck",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1440769600,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "CB Select",
+              "price": "5.80",
+              "id": "4avIuXEjuiW0Ck6i0akIOc",
+              "lastrecorded_at": 1444678000,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1418093500,
+              "availability": "Out of Stock",
+              "currency": "USD",
+              "seller": "UnbeatableSale.com",
+              "price": "12.85",
+              "id": "2MJ1fb14U840GEIEYCw0WY",
+              "lastrecorded_at": 1424086600,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "38266404"
+        }
+      ],
+      "cat_id": "16358",
+      "sem3_id": "7c4WJWZvbEcCmqsUsm8EiO",
+      "updated_at": 1463604401,
+      "upc": "024182002096",
+      "price": "6.41",
+      "manufacturer": "GOLD MINE NATURAL FOOD CO.",
+      "color": "default",
+      "ean": "0024182002096",
+      "features": {
+        "Vitamin C": "0 %",
+        "Trans Fat": "0 g (0 %)",
+        "Saturated Fat": "0 g (0 %)",
+        "Sodium": "80 mg (3 %)",
+        "Total Carbohydrate": "<1 g (0 %)",
+        "Warnings": "May contain trace amounts of crustacean shellfish in the dulse.",
+        "Total Fat": "1.5 g (2 %)",
+        "Unit Size": "3.5 oz",
+        "Vitamin A": "0 %",
+        "Iron": "2 %",
+        "Ingredients": "Organic Sesame Seeds, Sea Salt, Sea Vegetables: Organic Dulse, Nori, and Kombu.",
+        "Sugars": "0 g",
+        "Dietary Fiber": "0 g (0 %)",
+        "Cholesterol": "0 mg (0 %)",
+        "Units in Package": "1",
+        "Calcium": "2 %",
+        "Servings Per Container": "33",
+        "Protein": "<1 g (0 %)",
+        "Serving Size": "1 tsp"
+      },
+      "mpn": "19234",
+      "name": "Eden: Organic Seaweed Gomasio, 3.5 oz",
+      "gtins": [
+        "00024182002096"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "106.68",
+      "features": {
+        "Vitamin C": "4 %",
+        "Servings Per Container": "3.5",
+        "Unit Size": "14 oz",
+        "Saturated Fat": "0 g (0 %)",
+        "Cholesterol": "0 mg (0 %)",
+        "Vitamin A": "4 %",
+        "Units in Package": "1",
+        "Serving Size": "4 oz",
+        "Protein": "2 g",
+        "Calcium": "4 %",
+        "Total Carbohydrate": "6 g (2 %)",
+        "Sodium": "390 mg (18 %)",
+        "Total Fat": "0 g (0 %)",
+        "Dietary Fiber": "4 g (16 %)",
+        "Ingredients": "Artichoke Hearts, Water, Salt, and Citric Acid.",
+        "Iron": "0 %",
+        "Sugars": "1 g"
+      },
+      "created_at": 1380151251,
+      "category": "Vegetables",
+      "sitedetails": [],
+      "width": "73.66",
+      "mpn": "V891",
+      "length": "73.66",
+      "sem3_id": "4G3mJYD1KqEo8Gs0SSYGIk",
+      "ean": "0043182008914",
+      "upc": "043182008914",
+      "name": "Native Forest Natural Artichoke Hearts, Quartered - 14 oz",
+      "cat_id": "22384",
+      "weight": "396893.32",
+      "updated_at": 1459050805,
+      "gtins": [
+        "00043182008914"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Cento",
+      "category": "Tomatoes",
+      "upc": "070796400063",
+      "features": {
+        "Shipping Weight (in pounds)": "3.99",
+        "Assembled in Country of Origin": "USA and/or Imported",
+        "Origin of Components": "USA and/or Imported"
+      },
+      "sem3_id": "0MqRQHHQXksyuGSiGWMCOa",
+      "cat_id": "21080",
+      "weight": "1905087.95",
+      "brand": "Cento",
+      "model": "70796 40006",
+      "created_at": 1348677763,
+      "updated_at": 1463428855,
+      "price": "33.38",
+      "size": "35 Ounce (Pack of 12)",
+      "ean": "0070796400063",
+      "name": "Cento Imported Italian Tomatoes, 35-Ounce Cans (Pack of 12)",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "UnbeatableSale",
+              "availability": "Available",
+              "id": "6bdopTTAB66gqYoESS8eGw",
+              "lastrecorded_at": 1463085200,
+              "price": "47.80",
+              "firstrecorded_at": 1463085200,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1461047100,
+              "price": "47.70",
+              "currency": "USD",
+              "seller": "UnbeatableSale",
+              "availability": "Available",
+              "id": "5gLxoKQLvkwQIgweyESwgy",
+              "firstrecorded_at": 1457805700,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1456925600,
+              "price": "47.80",
+              "lastrecorded_at": 1456925600,
+              "seller": "UnbeatableSale",
+              "availability": "Available",
+              "id": "2GCGI0OoO0msUu4oaEyuoQ",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "33026333",
+          "url": "http://www.walmart.com/ip/33026333",
+          "name": "walmart.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "gtins": [
+        "00070796400063"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

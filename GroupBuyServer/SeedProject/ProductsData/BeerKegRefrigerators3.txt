@@ -1,0 +1,996 @@
+{
+  "total_results_count": 819,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "4r93s16G2KYG6ACEMOqSws",
+      "brand": "Summit",
+      "ean": "0761101002279",
+      "mpn": "SBC490",
+      "price": "730.00",
+      "model": "SBC490",
+      "sitedetails": [
+        {
+          "url": "http://www.all4achef.com/beer-dispenser-sbc490",
+          "name": "all4achef.com",
+          "sku": "beer-dispenser-sbc490",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1382437500,
+              "price": "730.00",
+              "currency": "USD",
+              "seller": "All 4 a Chef",
+              "lastrecorded_at": 1420261900,
+              "id": "5Quos3Cii8k2yEwyOsGgi6",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "url": "http://www.therdstore.com/page/IFSES/PROD/SBC490",
+          "listprice": "1565.00",
+          "latestoffers": [
+            {
+              "id": "67R6PkcYS0E4ou0AuoG8SA",
+              "seller": "The RD Store",
+              "lastrecorded_at": 1406418400,
+              "availability": "In Stock",
+              "price": "899.00",
+              "currency": "USD",
+              "firstrecorded_at": 1389772500,
+              "isactive": 1
+            }
+          ],
+          "listprice_currency": "USD",
+          "name": "therdstore.com",
+          "recentoffers_count": 1,
+          "sku": "SBC490"
+        }
+      ],
+      "cat_id": "3024",
+      "upc": "761101002279",
+      "name": "Summit Appliance SBC490 Series Kegerator With Black Door",
+      "color": "other",
+      "category": "Beer Keg Refrigerators",
+      "manufacturer": "Summit",
+      "created_at": 1347680199,
+      "updated_at": 1458942820,
+      "features": {
+        "Model Info": "SBC490",
+        "Item Weight": "150 pounds",
+        "Product Dimensions": "24 x 23.8 x 34.5 inches"
+      },
+      "gtins": [
+        "00761101002279"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "3024",
+      "features": {
+        "NSF Listed": "Yes",
+        "Exterior Finish": "Stainless Steel",
+        "Style": "1/2 Barrel",
+        "Voltage": "115 Volts",
+        "Compressor Location": "Side Mounted",
+        "Number of Doors": "2",
+        "Horsepower": "1/3 HP",
+        "Temperature Range": "33 - 38 Degrees F",
+        "Number of Shelves": "1",
+        "Door Type": "Solid",
+        "Phase": "1",
+        "Number of Kegs": "3",
+        "Number of Taps": "2",
+        "Amps": "9.1 Amps",
+        "Door Style": "Swing",
+        "Made in America": "Yes",
+        "Hertz": "60"
+      },
+      "created_at": 1375094547,
+      "category": "Beer Keg Refrigerators",
+      "length": "1755.90",
+      "brand": "True Refrigeration",
+      "updated_at": 1463118114,
+      "price": "3329.66",
+      "mpn": "TDD-3CT-S",
+      "width": "689.10",
+      "weight": "174633062.45",
+      "name": "True TDD-3CT-S Beer Cooler 69\" 2 Solid Doors",
+      "manufacturer": "True Refrigeration",
+      "height": "977.90",
+      "color": "silver",
+      "model": "TDD-3CT-S",
+      "sitedetails": [
+        {
+          "listprice": "3329.66",
+          "sku": "200TDD3CTS",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD",
+          "url": "http://www.webstaurantstore.com/true-tdd-3ct-s-stainless-steel-club-top-beer-dispenser-70-3-keg-kegerator-with-2-taps/200TDD3CTS.html",
+          "name": "webstaurantstore.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "3329.66",
+              "firstrecorded_at": 1449655500,
+              "seller": "WebstaurantStore",
+              "currency": "USD",
+              "lastrecorded_at": 1449655500,
+              "id": "4fJqIlbQnQM8QW808goQKO",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1406035800,
+              "price": "3232.51",
+              "availability": "Available",
+              "lastrecorded_at": 1406035800,
+              "currency": "USD",
+              "id": "3LNoJdTedEKi4iwGyiQeu8",
+              "seller": "WebstaurantStore",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1388998800,
+              "price": "3232.51",
+              "seller": "WEBstaurantStore.com",
+              "shipping": "160.34",
+              "id": "30AwbEuTaK4mOmIuuW88uI",
+              "lastrecorded_at": 1392676000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.restaurantequipmentsolutions.com/TRUE-TDD-3CT-S.html",
+          "name": "restaurantequipmentsolutions.com",
+          "latestoffers": [
+            {
+              "seller": "Restaurant Equipment Solutions",
+              "id": "1FNcusjBKkIyWO8IEiOGoK",
+              "currency": "USD",
+              "lastrecorded_at": 1420820500,
+              "availability": "Available",
+              "price": "3329.66",
+              "firstrecorded_at": 1420820500,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1419728900,
+              "currency": "USD",
+              "id": "7Y3qLzkA5IgAI8k8EIC0k0",
+              "seller": "Restaurant Equipment Solutions",
+              "price": "3232.51",
+              "firstrecorded_at": 1389135200,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "3078.36",
+              "firstrecorded_at": 1387380400,
+              "availability": "Available",
+              "id": "3ZQRj7iyC8WASwyyCQesKM",
+              "currency": "USD",
+              "lastrecorded_at": 1388481400,
+              "seller": "Restaurant Equipment Solutions",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "TRUE-TDD-3CT-S"
+        },
+        {
+          "sku": "truetdd-3ct-s",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1461384100,
+              "currency": "USD",
+              "id": "7HP5mskOXo4AkkyaUEymac",
+              "seller": "Chefsfirst",
+              "firstrecorded_at": 1452306700,
+              "price": "3463.16",
+              "availability": "available",
+              "isactive": 0
+            },
+            {
+              "price": "3329.66",
+              "firstrecorded_at": 1424440700,
+              "availability": "available",
+              "id": "0Wxesy68hd22GeeiEcOs8a",
+              "currency": "USD",
+              "lastrecorded_at": 1451655400,
+              "seller": "Chefsfirst",
+              "isactive": 0
+            }
+          ],
+          "name": "chefsfirst.com",
+          "url": "http://www.chefsfirst.com/Refrig-Draft-Beer-Cooler-2-Door-2-Tower-w-Club-To-p/truetdd-3ct-s.htm"
+        }
+      ],
+      "sem3_id": "1ZEtdC6yMKCSq8GYAseIqK",
+      "variation_secondaryids": [
+        "76Wda9opiCCMCEmakqgQ8c",
+        "3IxNucKvR2cKEksU2CSgIe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Capacity": "7.8 cu. ft.",
+        "Amps": "4 Amps",
+        "Style": "1/2 Barrel",
+        "Voltage": "115 Volts",
+        "Number of Kegs": "1",
+        "Horsepower": "1/5 HP",
+        "Energy Star Qualified": "Yes",
+        "Made in America": "Yes",
+        "Number of Taps": "1",
+        "Exterior Finish": "Black",
+        "Hertz": "60",
+        "Temperature Range": "33 - 38 Degrees F",
+        "Number of Doors": "1",
+        "NSF Listed": "Yes",
+        "Compressor Location": "Rear Mounted",
+        "Phase": "1",
+        "Door Style": "Swing",
+        "Door Type": "Solid"
+      },
+      "created_at": 1357625325,
+      "height": "990.60",
+      "price": "1639.40",
+      "sem3_id": "4xSjiZBc3s2IYqKmEsEa4M",
+      "updated_at": 1461139034,
+      "model": "BM23C-B",
+      "weight": "81646626.60",
+      "manufacturer": "Beverage Air",
+      "name": "Draft Beer Cooler, Portable, C",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "7f2fhkASv2Qc2MmEQC22Oo",
+              "currency": "USD",
+              "lastrecorded_at": 1449694000,
+              "price": "1688.74",
+              "firstrecorded_at": 1449694000,
+              "availability": "Available",
+              "seller": "WebstaurantStore",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "WebstaurantStore",
+              "price": "1581.53",
+              "firstrecorded_at": 1406033100,
+              "lastrecorded_at": 1406033100,
+              "currency": "USD",
+              "id": "7fTJxtRqK0mGYkC8wAMCiA",
+              "isactive": 0
+            },
+            {
+              "seller": "WEBstaurantStore.com",
+              "availability": "Available",
+              "firstrecorded_at": 1391957200,
+              "price": "1581.53",
+              "shipping": "141.97",
+              "lastrecorded_at": 1392548800,
+              "currency": "USD",
+              "id": "0cSgpvPwsxyuGeM6SIkGIq",
+              "isactive": 0
+            }
+          ],
+          "sku": "185BM23CB",
+          "listprice": "1688.74",
+          "recentoffers_count": 1,
+          "url": "http://www.webstaurantstore.com/beverage-air-bev-air-bm23c-b-black-club-top-beer-dispenser-1-keg-kegerator/185BM23CB.html",
+          "listprice_currency": "USD",
+          "name": "webstaurantstore.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "1713.00",
+              "firstrecorded_at": 1380248600,
+              "seller": "FoodServiceWarehouse.com",
+              "availability": "Available",
+              "id": "23JGHO9JCyGOayIYQWMg2i",
+              "lastrecorded_at": 1388257700,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.foodservicewarehouse.com/beverage-air/bm23c-b/p1714.aspx",
+          "recentoffers_count": 1,
+          "sku": "bm23c-b",
+          "name": "foodservicewarehouse.com"
+        },
+        {
+          "url": "http://www.restaurantequipmentsolutions.com/BVAR-BM23C-B.html",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1420209700,
+              "currency": "USD",
+              "id": "15zuOjL2m6iGA8e8wiOUAk",
+              "availability": "Available",
+              "seller": "Restaurant Equipment Solutions",
+              "price": "1639.40",
+              "firstrecorded_at": 1415015700,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "Restaurant Equipment Solutions",
+              "firstrecorded_at": 1391371700,
+              "price": "1581.53",
+              "currency": "USD",
+              "lastrecorded_at": 1414300500,
+              "id": "1mt9S5VNB6AYsYQiGyOKyc",
+              "isactive": 0
+            },
+            {
+              "price": "1535.41",
+              "firstrecorded_at": 1387369600,
+              "availability": "Available",
+              "seller": "Restaurant Equipment Solutions",
+              "id": "5kpPXKj6Bc6cqCmemi4cAi",
+              "currency": "USD",
+              "lastrecorded_at": 1391121500,
+              "isactive": 0
+            }
+          ],
+          "name": "restaurantequipmentsolutions.com",
+          "sku": "BVAR-BM23C-B"
+        }
+      ],
+      "category": "Beer Keg Refrigerators",
+      "mpn": "BM23C-B-111",
+      "cat_id": "3024",
+      "width": "609.60",
+      "brand": "Beverage Air",
+      "variation_secondaryids": [
+        "3lgOU5pKMKQ6iuqo6oYO80",
+        "4EhQTOb6zgwsqcwEUQWs0C",
+        "1VocdFONtoYAA2uocKqw2g"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "3024",
+      "sem3_id": "0ogQ9sTWUKU6im8UEOAQ0C",
+      "width": "254.00",
+      "color": "stainless look",
+      "model": "EWC801 IS",
+      "created_at": 1356926966,
+      "category": "Beer Keg Refrigerators",
+      "brand": "Avanti",
+      "ean": "0079841880119",
+      "updated_at": 1463476860,
+      "manufacturer": "AVANTI",
+      "weight": "11362488.87",
+      "length": "514.35",
+      "price": "109.01",
+      "mpn": "EWC801-IS",
+      "sitedetails": [
+        {
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "107.99",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "4kVrxP0vXk0EGiaUYE22o8",
+              "availability": "OUT OF STOCK",
+              "firstrecorded_at": 1388754500,
+              "lastrecorded_at": 1390904100,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=681372",
+          "sku": "681372"
+        }
+      ],
+      "features": {
+        "Style": "Wine & Beverage Cooler",
+        "Door Swing": "Left hinge only",
+        "Color Category": "Black",
+        "Number of Temperature Controlled Zones": "1",
+        "Bottle Capacity": "8",
+        "Temperature Control Type": "Electric",
+        "Cabinet Side Color": "Black",
+        "Product Depth": "20-1/4\"",
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Warranty Terms - Parts": "1 year",
+        "Refrigerator Shelf Construction": "Wire"
+      },
+      "name": "Avanti 8 BOTTLE DELUXE WINE CHILLER EWC801",
+      "upc": "079841880119",
+      "gtins": [
+        "00079841880119"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1380026935,
+      "cat_id": "3024",
+      "features": {
+        "What's Included": "Ships complete with all components needed to tap one keg or two sixth barrels: CO2 tank, regulator, coupler, beer lines, air lines, tap, tower, drip tray, faucets and faucet handles (keg not included)",
+        "Temperatures": "Low 30s to mid 40s degrees F",
+        "External Dimensions (with draft tower)": "48 1/2\" H x 20 1/10\" W x 24 13/16\" D",
+        "Input voltage": "115 V/60 Hz",
+        "Warranty": "1 year parts; 90 days labor",
+        "Easy and Quick Assembly": "With the owner's guide and an easy-to-navigate system, this full size unit is one of the easiest kegerators on the market in terms of installation",
+        "Internal Dimensions": "28\" H x 16 3/4\" W x 15 1/2\" D",
+        "Ultra Low Temperature": "EdgeStar full size kegerators are capable of reaching temperatures in the low 30s making them the coldest kegerators on the market",
+        "Insulated Tower": "Foam insulation lines the inner wall of the tower which helps maintain an even temperature to the beer lines",
+        "Compact Size": "The KC2000TWIN is 4â less in external width than standard full size kegerators while retaining the ability to hold a full size keg",
+        "USA made, Commercial Grade Components": "All the components are made here in the USA and the tower, faucets, handles, and hoses are commercial grade",
+        "Power": "105 W/1.5 A",
+        "Capacity": "This keg refrigerator can fit most full size half barrel kegs, pony kegs or slim quarter kegs and up to two sixth barrel kegs",
+        "Portable": "The casters that ship with this EdgeStar beer keg cooler allow for easy movement"
+      },
+      "mpn": "KC2000TWIN",
+      "ean": "0846844010429",
+      "category": "Beer Keg Refrigerators",
+      "upc": "846844010429",
+      "price": "569.00",
+      "sem3_id": "28RSEzCA0i8cQogeAQEi8A",
+      "weight": "37013137.39",
+      "brand": "EdgeStar",
+      "name": "EdgeStar Full Size Dual Tap Kegerator & Draft Beer Dispenser - Black",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "569.00",
+              "id": "1dkBVggtxYkEoiEOIOe8Mc",
+              "lastrecorded_at": 1463491300,
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "firstrecorded_at": 1462312200,
+              "isactive": 1
+            },
+            {
+              "price": "619.00",
+              "id": "4XP5hCeG0OoQKEko4KSM2O",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1435481600,
+              "firstrecorded_at": 1434298900,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1419672100,
+              "currency": "USD",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1420780900,
+              "availability": "Available",
+              "id": "7W0XBQvA3cC2Uic60UoYUO",
+              "price": "579.00",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.livingdirect.com/KC2000TWIN-EdgeStar-Full-Size-Dual-Tap-Kegerator-And-Keg-Beer-Cooler/KC2000TWIN,default,pd.html",
+          "listprice_currency": "USD",
+          "listprice": "569.00",
+          "recentoffers_count": 1,
+          "sku": "KC2000TWIN",
+          "name": "livingdirect.com"
+        },
+        {
+          "url": "http://www.overstock.com/Home-Garden/EdgeStar-Full-Size-Dual-Tap-Kegerator-Draft-Beer-Dispenser/6368385/product.html",
+          "latestoffers": [
+            {
+              "availability": "Availabe",
+              "seller": "Overstock",
+              "lastrecorded_at": 1428674400,
+              "currency": "USD",
+              "firstrecorded_at": 1428674400,
+              "price": "599.99",
+              "id": "6EXDCYJQQKeOQ6s4uaCsYk",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "6368385",
+          "name": "overstock.com"
+        },
+        {
+          "name": "overstock.com",
+          "sku": "6368385_8604960",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "631.49",
+              "id": "3S9LwqyWwCsoUka4uAEAII",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1463401300,
+              "lastrecorded_at": 1463401300,
+              "seller": "Overstock",
+              "isactive": 1
+            },
+            {
+              "id": "7IrHc64hdY846yqY0086ge",
+              "price": "632.99",
+              "firstrecorded_at": 1461951200,
+              "currency": "USD",
+              "lastrecorded_at": 1463110700,
+              "seller": "Overstock",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1461657500,
+              "seller": "Overstock",
+              "firstrecorded_at": 1459775700,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "6BzX6hyCUicM2GCuqW0yaw",
+              "price": "619.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.overstock.com/Home-Garden/EdgeStar-Full-Size-Dual-Tap-Kegerator-Draft-Beer-Dispenser/6368385/product.html"
+        }
+      ],
+      "updated_at": 1463491312,
+      "gtins": [
+        "00846844010429"
+      ],
+      "variation_secondaryids": [
+        "4kcAuAAhxokEOSkw2WIsi8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "currency": "USD",
+              "lastrecorded_at": 1423255800,
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1387543900,
+              "id": "7Yty8Cx9M0EeCEme60EiO8",
+              "price": "199.99",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/29283001",
+          "sku": "29283001",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "MI9_HS185C",
+          "url": "http://www.jr.com/midea/pe/MI9_HS185C",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1394707000,
+              "firstrecorded_at": 1394707000,
+              "id": "5jm1sq0mLuOg4SA2gAEwOy",
+              "price": "188.99",
+              "seller": "JR",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "currency": "USD",
+              "id": "17e54P3zx2kGesIK6Oo0mk",
+              "firstrecorded_at": 1388156600,
+              "price": "195.99",
+              "lastrecorded_at": 1388156600,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "jr.com"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=632724",
+          "sku": "632724",
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "price": "199.50",
+              "firstrecorded_at": 1406969800,
+              "id": "5QlxKKcGYaMESqECakAGuM",
+              "lastrecorded_at": 1410962500,
+              "availability": "In Stock",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "198.99",
+              "firstrecorded_at": 1388757800,
+              "id": "6c4Ws5uNUmAY2QyKQi4woQ",
+              "lastrecorded_at": 1406773300,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "sem3_id": "7TXEvhzWUK8eI8ssASm8gQ",
+      "height": "571.50",
+      "upc": "814982012667",
+      "length": "876.30",
+      "mpn": "DHHS185C",
+      "brand": "MIDEA",
+      "model": "HS 185C",
+      "features": {
+        "Color Category": "White",
+        "Estimated Yearly Electricity Use (kWh)": "240 [An estimate of how much electricity the product uses in a year based on typical use. Multiply this by your local electricity rate on your utility bill to better judge what your actual operating cost might be. ]",
+        "Warranty Terms - Parts": "1 year",
+        "Freezer Type": "Chest",
+        "Lock": "No",
+        "Baskets (Number of)": "1",
+        "Frost-Free": "No",
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Estimated Yearly Operating Cost": "$26 [What you might pay to run the product for a year, based on its electricity use and the national average cost of energy. The cost appears on labels for all models and brands, so you can compare energy just like you would price or other features. ]"
+      },
+      "cat_id": "3024",
+      "created_at": 1347591577,
+      "category": "Beer Keg Refrigerators",
+      "width": "762.00",
+      "ean": "0814982012667",
+      "weight": "32205058.27",
+      "name": "HS-185C 5.0 cu. ft. Chest Freezer",
+      "updated_at": 1463402701,
+      "gtins": [
+        "00814982012667"
+      ],
+      "variation_secondaryids": [
+        "31lb1AHVGKIC2CiQgkgU6i"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.livingdirect.com/EdgeStar-Black-Refrigerator-for-Kegerator-Conversion-BR2001BL/BR2001BL,default,pd.html",
+          "listprice_currency": "USD",
+          "recentoffers_count": 1,
+          "name": "livingdirect.com",
+          "sku": "BR2001BL",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Living Direct, Inc",
+              "price": "319.00",
+              "firstrecorded_at": 1463480700,
+              "lastrecorded_at": 1463480700,
+              "id": "72tExcstlYgyCCGeGUE0Qs",
+              "isactive": 1
+            },
+            {
+              "id": "1y4kQetPZcOoAeisGYAoUy",
+              "lastrecorded_at": 1462924400,
+              "seller": "Living Direct, Inc",
+              "firstrecorded_at": 1462924400,
+              "price": "303.05",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "3WSgg0kl28Wyw4OMsGkGi0",
+              "firstrecorded_at": 1462298400,
+              "seller": "Living Direct, Inc",
+              "price": "319.00",
+              "lastrecorded_at": 1462298400,
+              "isactive": 0
+            }
+          ],
+          "listprice": "319.00"
+        }
+      ],
+      "upc": "846844011303",
+      "price": "319.00",
+      "mpn": "BR2001BL",
+      "created_at": 1435765226,
+      "color": "black",
+      "manufacturer": "EdgeStar",
+      "model": "BR2001BL",
+      "brand": "EdgeStar",
+      "cat_id": "3024",
+      "height": "8.89",
+      "category": "Beer Keg Refrigerators",
+      "width": "5.08",
+      "ean": "0846844011303",
+      "updated_at": 1463480751,
+      "features": {
+        "Warranty": "90 days labor, 1 year parts",
+        "Dimensions": "35\" H x 20\" W x 26 1/2\" D",
+        "Temp Range": "Low 30's to Mid 40's",
+        "Approval": "UL"
+      },
+      "name": "EdgeStar Ultra Low Temp Refrigerator for Kegerator Conversion",
+      "weight": "370131.37",
+      "sem3_id": "2CtNzoFZkuYU0GKCu2wKWi",
+      "gtins": [
+        "00846844011303"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "id": "6muDVC4P4qeewCOY0Qqg0M",
+              "lastrecorded_at": 1412384400,
+              "seller": "Walmart",
+              "availability": "In Stock",
+              "price": "159.54",
+              "firstrecorded_at": 1382444100,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1368821600,
+              "price": "226.03",
+              "availability": "Out of Stock Online.",
+              "seller": "ToolKing.com",
+              "lastrecorded_at": 1373756600,
+              "id": "2ilIdmsxgWIqkwEw4kGGsE",
+              "isactive": 0
+            },
+            {
+              "price": "179.99",
+              "availability": "In Stock",
+              "lastrecorded_at": 1363522900,
+              "seller": "PlumStruck",
+              "id": "5e4usYQLrcEQQkusq4kMUS",
+              "currency": "USD",
+              "firstrecorded_at": 1360664100,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/15042551",
+          "sku": "15042551",
+          "recentoffers_count": 0
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=614747",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "id": "2z2wl0aBs0wEAqeWqaeUGw",
+              "lastrecorded_at": 1390703900,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "price": "154.37",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388756600,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "614747",
+          "recentoffers_count": 0
+        }
+      ],
+      "manufacturer": "Haier America",
+      "sem3_id": "2NvVIAgGCSeye2y0iqai4K",
+      "height": "388.62",
+      "color": "Black",
+      "cat_id": "3024",
+      "upc": "688057396934",
+      "weight": "11203731.54",
+      "width": "289.56",
+      "created_at": 1348680381,
+      "updated_at": 1462344825,
+      "features": {
+        "Refrigerant": "R 134 A",
+        "Dispenser": "Ice dispenser",
+        "Control Features": "Electronic controls",
+        "Ice": "Cubed",
+        "Product Type": "Ice cube maker - table top",
+        "Warranty": "1 year",
+        "Voltage": "115 V / 60 Hz",
+        "Special Features": "Ice cube container full indicator, water tank empty indicator, 2 ice cube sizes, makes 25 lb of ice in 24 hours",
+        "Rated Current": "2.5 A",
+        "Image Color Disclaimer": "The image of the product displayed may be of a different color"
+      },
+      "brand": "Haier",
+      "model": "HPIMD25B",
+      "category": "Beer Keg Refrigerators",
+      "name": "Countertop Icemaker - Black",
+      "ean": "0688057396934",
+      "length": "340.36",
+      "gtins": [
+        "00688057396934"
+      ],
+      "variation_secondaryids": [
+        "4Z00BC1ZyaOw2CyK8ycSgm"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1357682015,
+      "name": "Party Dimensions 12 Count Plastic Bowls, 12-Ounce, Hunter Green [Hunter Green]",
+      "features": {
+        "Installation Type": "Free-Standing",
+        "Product Dimensions": "22.5 x 21 x 34.5 inches",
+        "Item Weight": "68 pounds",
+        "Model Info": "HD-114FW",
+        "Capacity": "1.40 cubic centimeters",
+        "Material Type": "Stainless Steel",
+        "Special Features": "Reversible Door"
+      },
+      "brand": "MIDEA",
+      "upc": "814982012056",
+      "sem3_id": "686maQaUgCQSIec8sUw6eS",
+      "sitedetails": [
+        {
+          "sku": "9SIA0FU0AZ4890",
+          "recentoffers_count": 0,
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA0FU0AZ4890",
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "id": "1sZQKkpHAKOU0OUmoMcS4E",
+              "lastrecorded_at": 1382859400,
+              "price": "175.30",
+              "firstrecorded_at": 1382859400,
+              "currency": "USD",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1380229400,
+              "price": "175.30",
+              "firstrecorded_at": 1375092200,
+              "id": "5cQrPBrI2aWG8W2ukQ4wO6",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "currency": "USD",
+              "seller": "HPP ENTERPRISES",
+              "isactive": 0
+            },
+            {
+              "seller": "Sale Axis",
+              "currency": "USD",
+              "id": "3J5IQO13ImS0cG688WUYae",
+              "firstrecorded_at": 1373430700,
+              "lastrecorded_at": 1373430700,
+              "price": "270.58",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "length": "558.80",
+      "model": "HD 114FW",
+      "updated_at": 1463249998,
+      "cat_id": "3024",
+      "color": "White",
+      "weight": "30844281.16",
+      "category": "Beer Keg Refrigerators",
+      "manufacturer": "Midea",
+      "ean": "0814982012056",
+      "price": "139.00",
+      "width": "520.70",
+      "mpn": "HD-114FW",
+      "height": "878.84",
+      "gtins": [
+        "00814982012056"
+      ],
+      "variation_secondaryids": [
+        "0iTlZ133u8sYQooMomG0IG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "3024",
+      "weight": "37194574.34",
+      "created_at": 1376304491,
+      "features": {
+        "Product Dimensions": "20.3 x 26 x 32 inches",
+        "Model Info": "KRS-2100",
+        "Item Weight": "96 pounds",
+        "Material Type": "Metal",
+        "Capacity Name": "Los Angeles"
+      },
+      "sem3_id": "0gceacO632cmeqImi4IIOi",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "sku": "21501588",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1376304400,
+              "seller": "PlumStruck",
+              "lastrecorded_at": 1425528000,
+              "currency": "USD",
+              "price": "579.99",
+              "availability": "Out of Stock",
+              "id": "2P3Gk4o0KicQ2UUGWg44GY",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/21501588"
+        }
+      ],
+      "category": "Beer Keg Refrigerators",
+      "manufacturer": "American Furn Alliance (Elite)",
+      "updated_at": 1462392731,
+      "model": "KRS 2100",
+      "name": "Nostalgia Electrics™ KRS-2100 Keg-O-Rator Refrigerated Beverage Keg Dispenser",
+      "color": "multicolor",
+      "brand": "Nostalgia Electrics",
+      "price": "470.89",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

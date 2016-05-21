@@ -1,0 +1,468 @@
+{
+  "total_results_count": 23562,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "updated_at": 1459020153,
+      "model": "1499 GPC 00001",
+      "height": "254.00",
+      "length": "863.60",
+      "ean": "0181826000587",
+      "created_at": 1347648728,
+      "cat_id": "21085",
+      "sem3_id": "1CPZEreplMeQsgsAGEykqm",
+      "operatingsystem": "Mac OS X",
+      "sitedetails": [],
+      "platform": [
+        "Windows Vista",
+        "Windows XP",
+        "Mac OS X"
+      ],
+      "mpn": "1499-GPC-00001",
+      "manufacturer": "Digital Praise",
+      "name": "Guitar Praise By Digital Praise - PC/Mac",
+      "features": {
+        "Release Date": "September 25, 2008",
+        "Genre": "Simulation",
+        "Platform": "Hybrid PC/Mac",
+        "Controls": "Keyboard, Mouse, Other",
+        "Mac Minimum Requirements": "Mac OS X 10.31GHz Processor650MB Hard Disk SpaceCD-ROM Drive",
+        "Manufacturer/Publisher": "Digital Praise",
+        "PC Minimum Requirements": "Windows XP/Vista1GHz Processor650MB Hard Disk Space32MB 3D Video CardCD-ROM Drive",
+        "Game Theme": "Audiophile",
+        "ESRB Rating": "Not Rated by ESRB",
+        "Style": "Musical Instrument/Band Sim",
+        "Developer": "Digital Praise"
+      },
+      "width": "152.40",
+      "weight": "8500321.01",
+      "upc": "181826000587",
+      "brand": "Digital Praise",
+      "price": "99.95",
+      "category": "Illustration & Design",
+      "gtins": [
+        "00181826000587"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0606776002127",
+      "operatingsystem": "Mac OS X",
+      "height": "241.30",
+      "platform": [
+        "Windows 7",
+        "Mac OS X",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "category": "Illustration & Design",
+      "manufacturer": "MakeMusic!",
+      "cat_id": "21085",
+      "mpn": "MAKFHA12",
+      "features": {
+        "License Pricing": "Academic",
+        "Subcategory": "Creativity - music or sound creation",
+        "Package Type": "Retail",
+        "License Type": "Complete package",
+        "License Qty": "1 user",
+        "Platform": "Windows, MacOS"
+      },
+      "name": "Finale 2012 Academic",
+      "sem3_id": "5Sv7QyNIjQaiCkioKuwcoU",
+      "upc": "606776002127",
+      "model": "MM00212",
+      "created_at": 1347509699,
+      "length": "190.50",
+      "width": "50.80",
+      "weight": "226796.18",
+      "updated_at": 1461540388,
+      "brand": "MakeMusic",
+      "sitedetails": [],
+      "gtins": [
+        "00606776002127"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "9900 65033 00",
+      "sitedetails": [],
+      "category": "Illustration & Design",
+      "sem3_id": "7UnasiOcN6UmsCOkOWgG86",
+      "brand": "Pace",
+      "price": "38.89",
+      "cat_id": "21085",
+      "features": {
+        "Power Source": "DC",
+        "Item Dimensions L x W x H": "8 x 5 x 1 inches"
+      },
+      "manufacturer": "Pace",
+      "name": "iLok Software Authorization Device (holds hundreds of software licenses)",
+      "upc": "724643113667",
+      "created_at": 1357416903,
+      "updated_at": 1462050454,
+      "ean": "0724643113667",
+      "weight": "22679.62",
+      "mpn": "9900-65033-00",
+      "gtins": [
+        "00724643113667"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1357761598,
+      "manufacturer": "Nova Development US",
+      "cat_id": "21085",
+      "length": "127.00",
+      "height": "12.70",
+      "name": "Greeting Card Factory Silver (Jewel Case)",
+      "width": "146.05",
+      "model": "40939",
+      "price": "9.99",
+      "updated_at": 1463424952,
+      "sem3_id": "2s8sznU8AaQk84Yk46aAYe",
+      "brand": "Nova Development US",
+      "upc": "727298409390",
+      "operatingsystem": "Windows 7",
+      "weight": "108862.17",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1463424900,
+              "id": "1VwhBYVYIO8ueEKYIU6c8g",
+              "currency": "USD",
+              "price": "9.99",
+              "seller": "Frys",
+              "firstrecorded_at": 1377687300,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "6262590",
+          "url": "http://www.frys.com/product/6262590",
+          "name": "frys.com"
+        },
+        {
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=662186",
+          "sku": "662186",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388754700,
+              "price": "8.99",
+              "seller": "DataVision Computer Video",
+              "id": "4ZD9VJtOGmCWGCYSuWA2si",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1390331400,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "mpn": "40939",
+      "category": "Illustration & Design",
+      "ean": "0727298409390",
+      "gtins": [
+        "00727298409390"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Lexicon",
+      "sem3_id": "46j6UFfI8uqgq40Yc24IMM",
+      "mpn": "PLPCMFX",
+      "ean": "0691991500442",
+      "category": "Illustration & Design",
+      "model": "PLPCMFX",
+      "features": {
+        "Software Compatibility": "Windows XP 32-bit",
+        "System Requirements for MAC": "Macintosh Hardware",
+        "iLok2 Requirements": "Requires 2nd Generation iLok USB smart key (not included)",
+        "System Requirements for Windows": "Windows Hardware",
+        "Mfr #": "PLPCMFX"
+      },
+      "price": "499.95",
+      "updated_at": 1463458730,
+      "cat_id": "21085",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462677400,
+              "id": "6nyWVQIWBMMgki24A6YyCY",
+              "availability": "available",
+              "currency": "USD",
+              "seller": "Adorama",
+              "firstrecorded_at": 1412614400,
+              "price": "499.95",
+              "isactive": 1
+            }
+          ],
+          "name": "adorama.com",
+          "sku": "LXCPLPCMFX",
+          "recentoffers_count": 1,
+          "url": "http://www.adorama.com/LXCPLPCMFX.html"
+        }
+      ],
+      "upc": "691991500442",
+      "name": "Lexicon PCM Native Effects Plug-in Bundle (boxed)",
+      "manufacturer": "Lexicon",
+      "weight": "544310.84",
+      "created_at": 1348703629,
+      "gtins": [
+        "00691991500442"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.antonline.com/p_Adobe_996350.htm",
+          "name": "antonline.com",
+          "sku": "996350",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1391196300,
+              "availability": "8 In Stock",
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1394770700,
+              "currency": "USD",
+              "id": "69eFq6HmIwYcgaqSQCYg4O",
+              "price": "945.85",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        }
+      ],
+      "sem3_id": "6Xk87ukTpoIiieAUkiauSK",
+      "width": "36.58",
+      "ean": "0883919236759",
+      "operatingsystem": "Windows 7",
+      "manufacturer": "Adobe",
+      "price": "999.90",
+      "model": "65172001",
+      "weight": "68038.86",
+      "created_at": 1374231417,
+      "variation_id": "1S0fT93jk4ceaqKo8AuQUS",
+      "features": {
+        "Software Sub Type": "Video Editing",
+        "License Quantity": "1 User",
+        "Language Supported": "Universal English",
+        "Software Name": "Premiere Pro CS6 v.6.0 64-bit",
+        "Manufacturer Website Address": "www.adobe.com",
+        "Distribution Media/Method": "DVD-ROM",
+        "Product Type": "Software",
+        "Product Information": "Software Main Type",
+        "License Information": "License Type",
+        "Package Type": "Retail",
+        "Platform Supported": "PC",
+        "Miscellaneous": "System Requirements",
+        "License Pricing": "Standard",
+        "Operating System Supported": "Windows",
+        "Optional": "Adobe-certified GPU card for GPU-accelerated performance"
+      },
+      "mpn": "65172001",
+      "cat_id": "21085",
+      "upc": "883919236643",
+      "brand": "Adobe",
+      "name": "Adobe Premiere Pro CS6 Mac [Old Version] [Mac Disc]",
+      "updated_at": 1463461859,
+      "length": "146.05",
+      "category": "Illustration & Design",
+      "height": "196.85",
+      "gtins": [
+        "00883919236643",
+        "00883919236759"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "cat_id": "21085",
+      "updated_at": 1463454239,
+      "weight": "2267961.85",
+      "price": "1995.00",
+      "name": "Adobe Premiere 6.5 [PC Disc]",
+      "brand": "Adobe",
+      "ean": "0718659270322",
+      "platform": [
+        "Windows 98",
+        "Windows Me",
+        "Windows 2000",
+        "Windows XP"
+      ],
+      "model": "25500410",
+      "category": "Illustration & Design",
+      "mpn": "25500410",
+      "sem3_id": "3zQM4eJXpokewUsWC2SmG8",
+      "upc": "718659270322",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Discontinued by manufacturer": "Yes"
+      },
+      "operatingsystem": "Windows Me",
+      "created_at": 1348668069,
+      "manufacturer": "Adobe",
+      "gtins": [
+        "00718659270322"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0884088412920",
+      "width": "12.70",
+      "brand": "Ik Multimedia",
+      "manufacturer": "IK Multimedia",
+      "created_at": 1348669370,
+      "operatingsystem": "Linux",
+      "name": "CSR CLASSIK STUDIO REVERB A HIGH END SUITE FOR ANY STUDIO SOFTWARE",
+      "category": "Illustration & Design",
+      "platform": [
+        "Windows Vista",
+        "Mac",
+        "Windows XP",
+        "Mac OS X",
+        "Windows XP Professional",
+        "Windows XP Home Edition",
+        "Windows"
+      ],
+      "updated_at": 1463490624,
+      "upc": "884088412920",
+      "sitedetails": [],
+      "cat_id": "21085",
+      "features": {
+        "Compatibility": "PC and Mac",
+        "Product Height": "10\"",
+        "Product Depth": "1/2\"",
+        "System Requirements": "PC: Windows XP or Vista; Mac: OS X",
+        "Product Width": "7\""
+      },
+      "price": "199.99",
+      "model": "BOX CS 0002",
+      "weight": "90718.47",
+      "mpn": "631497",
+      "sem3_id": "4zKGNjwyf20mS2K6US6oS0",
+      "gtins": [
+        "00884088412920"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "22363",
+      "created_at": 1365756593,
+      "ean": "4042477223632",
+      "updated_at": 1458993692,
+      "model": "22363",
+      "features": {
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "manufacturer": "Native Instruments",
+      "sem3_id": "1pHW0bGF2KuswmYeCkoaWi",
+      "cat_id": "21085",
+      "brand": "Native Instruments",
+      "sitedetails": [],
+      "category": "Illustration & Design",
+      "name": "Native Instruments Komplete 9",
+      "weight": "952543.98",
+      "gtins": [
+        "04042477223632"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "997903.21",
+      "name": "iLok Software Authorization Device (holds hundreds of software licenses)",
+      "cat_id": "21085",
+      "sem3_id": "15pmIchMecgaEAIM8A0IgQ",
+      "upc": "858823002004",
+      "height": "3999.99",
+      "category": "Illustration & Design",
+      "width": "11999.98",
+      "ean": "0858823002004",
+      "updated_at": 1463056367,
+      "sitedetails": [],
+      "price": "38.99",
+      "created_at": 1348684220,
+      "brand": "Pace",
+      "length": "19999.96",
+      "features": {
+        "Item Display dimensions L x W x H": "8 x 5 x 1 inches",
+        "Product Dimensions": "787.4 x 472.4 x 157.5 inches",
+        "Power Source Type": "DC",
+        "Free 30-Day Tech Support": "This item is eligible for free tech support for 30 days from the date of delivery. Over the phone, our trained technicians can help you set up, configure, connect, and troubleshoot so you can start enjoying your new purchase. Owners of qualifying products can reach Tech Support by calling 1-800-362-5703. Learn more",
+        "Item Weight": "0.8 ounces",
+        "Number of Items": "1"
+      },
+      "manufacturer": "Pace",
+      "mpn": "9900-65033-00",
+      "model": "9900 65033 00",
+      "gtins": [
+        "00858823002004"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

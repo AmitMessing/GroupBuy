@@ -1,0 +1,428 @@
+{
+  "total_results_count": 3235,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0040821000445",
+      "model": "130007",
+      "operatingsystem": "Mac OS X",
+      "name": "QuarkXPress 9.0 Student and Teacher Edition 9",
+      "features": {
+        "Mac Processor Type": "IntelÂ® processor",
+        "PC Additional Requirements": "Internet connection required for activation, Microsoft .NET Framework 3.5 SP1",
+        "Mac Drive Type and Speed": "DVD",
+        "PC System Memory": "2GB RAM",
+        "Mac Hard Drive Space": "2GB",
+        "Mac Additional Requirements": "Internet connection required for activation",
+        "Mac System Memory": "1GB RAM",
+        "Genre": "Educational",
+        "PC Drive Type and Speed": "DVD",
+        "Platform": "Mac/Windows",
+        "Mac Operating System": "Macintosh System 10.5.8 Leopard, Macintosh System 10.6.8 Snow Leopard, Macintosh System 10.7 Lion",
+        "PC Hard Drive Space": "1GB",
+        "PC Operating System": "Windows XP Service Pack 2, Windows XP with Service Pack 3, Windows Vista, Windows 7"
+      },
+      "upc": "040821000445",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "199.99",
+              "lastrecorded_at": 1375150900,
+              "availability": "Unavailable Notify me when available While supplies last",
+              "firstrecorded_at": 1372167300,
+              "id": "6FGbxrrvhuSMsS0aC0GEGU",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/6696274",
+          "sku": "6696274",
+          "name": "frys.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "created_at": 1348673404,
+      "weight": "68038.86",
+      "length": "130.81",
+      "brand": "Quark, Inc",
+      "sem3_id": "5r2HjOQRCwukem6UG6mw4c",
+      "updated_at": 1463650751,
+      "width": "139.70",
+      "category": "Home Publishing",
+      "platform": [
+        "Windows 7",
+        "Mac OS X",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "cat_id": "16736",
+      "manufacturer": "Quark",
+      "height": "134.87",
+      "gtins": [
+        "00040821000445"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "705381234319",
+      "features": {
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, keyboard, 16 MB video memory, 1024 x 768 monitor resolution",
+        "Software Requirements": "QuickTime 7.5 or later, Java SE 6",
+        "Version": "2.0",
+        "Package Type": "Retail",
+        "Platform": "Windows, MacOS",
+        "OS Required": "Microsoft Windows 7, Microsoft Windows Vista SP2, Microsoft Windows XP Professional SP3, Microsoft Windows XP Home Edition SP3, Apple MacOS X 10.4.10 - 10.6",
+        "License Qty": "1 user",
+        "Subcategory": "Creativity - graphics & image editing",
+        "License Type": "Complete package",
+        "System Requirements Details": "Microsoft Windows XP Home Edition SP3 - Pentium 4 - 1 GHz - RAM 512 MB - HD 22 GB Microsoft Windows XP Professional SP3 - Pentium 4 - 1 GHz - RAM 512 MB - HD 22 GB Microsoft Windows Vista SP2 - Pentium 4 - 1 GHz - RAM 1 GB - HD 22 GB Microsoft Windows 7 - Pentium 4 - 1 GHz - RAM 512 MB - HD 22 GB Apple MacOS X 10.4.10 - 10.6 - PowerPC G5 - 500 MHz - RAM 512 MB - HD 22 GB",
+        "License Pricing": "Standard"
+      },
+      "name": "PrintMaster 2.0 (JC)",
+      "brand": "Encore",
+      "weight": "68038.86",
+      "mpn": "23431",
+      "sem3_id": "1ZTS2GNPSuM80qqckAuK48",
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "sitedetails": [],
+      "manufacturer": "Encore Software",
+      "updated_at": 1463707650,
+      "created_at": 1357774553,
+      "price": "4.59",
+      "cat_id": "16736",
+      "model": "21380",
+      "category": "Home Publishing",
+      "color": "metallic",
+      "ean": "0705381234319",
+      "gtins": [
+        "00705381234319"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "platform": "Mac OS X",
+      "width": "139.70",
+      "operatingsystem": "Mac OS X 10.2 Jaguar",
+      "height": "25.40",
+      "price": "100.99",
+      "manufacturer": "Extensis Corp",
+      "brand": "Extensis Corp",
+      "sitedetails": [],
+      "upc": "795965400018",
+      "updated_at": 1463819887,
+      "created_at": 1365753079,
+      "ean": "0795965400018",
+      "model": "ZME 40001",
+      "sem3_id": "2Dx3o3B8Nw4oayY6E0qY4K",
+      "features": {
+        "Distribution Media/Method": "Electronic",
+        "Package Type": "Retail",
+        "Platform Supported": "Mac",
+        "Product Type": "Software",
+        "Software Name": "Suitcase Fusion v.4.0 Font Manager",
+        "Packing": "Box",
+        "Features": "Font auto-activation in creative applications.,Powerful search for finding the right choice- and similar options- FAST.,Font panels inside Adobe CS for in-application font experimentation.,Organize fonts into sets; flag your 'favorites'.,Font corruption detection and repair.,Continuing support for Adobe CS (Photoshop, InDesign, Illustrator, InCopy).,",
+        "Operating System Supported": "Mac OS",
+        "Compatibility": "Adobe CS Compatible.,QuarkXPress Compatible.,Mac OS and Windows OS compatible. (Server version is available, please inquire),",
+        "Language Supported": "English",
+        "Software Main Type": "Graphics/Multimedia",
+        "Software Sub Type": "Desktop Publishing"
+      },
+      "weight": "1133.98",
+      "name": "Extensis Suitcase Fusion 4 - Mac",
+      "category": "Fonts",
+      "cat_id": "9072",
+      "length": "190.50",
+      "mpn": "ZME-40001",
+      "gtins": [
+        "00795965400018"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Nova Development US",
+      "weight": "10886.22",
+      "model": "AEJ",
+      "ean": "0046014300026",
+      "operatingsystem": "Unix",
+      "length": "317.50",
+      "name": "Art Explosion 10,000 (Jewel Case)",
+      "price": "4.53",
+      "manufacturer": "Nova Development US",
+      "height": "101.60",
+      "updated_at": 1462634263,
+      "mpn": "40006",
+      "upc": "727298400069",
+      "sitedetails": [],
+      "features": {
+        "Provider Product ID": "10043087",
+        "Platform": "PC",
+        "Genre": "Image Collection/Management"
+      },
+      "width": "228.60",
+      "sem3_id": "760ePMDV1kCw6okK4q4oW0",
+      "category": "Clip Art",
+      "cat_id": "23869",
+      "created_at": 1376471348,
+      "gtins": [
+        "00727298400069",
+        "00046014300026"
+      ],
+      "platform": "Unix",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "190.50",
+      "brand": "Nova Development US",
+      "cat_id": "18708",
+      "length": "41.40",
+      "name": "Hallmark Card Studio 2012",
+      "upc": "727298413120",
+      "price": "26.80",
+      "mpn": "41312",
+      "created_at": 1356049055,
+      "weight": "217724.34",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "ean": "0727298413120",
+      "operatingsystem": "Windows 7",
+      "category": "Greeting Cards",
+      "sem3_id": "7E2zGm5CHQ8eKAk4GW4e4G",
+      "sitedetails": [],
+      "updated_at": 1463757031,
+      "width": "133.35",
+      "manufacturer": "Nova Development US",
+      "model": "41312",
+      "gtins": [
+        "00727298413120"
+      ],
+      "variation_secondaryids": [
+        "5T1ln8fSjoy66iwci0AcE4"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "COSMI",
+      "updated_at": 1459138487,
+      "name": "Cosmi Print Perfect Clip Art 50,000",
+      "upc": "022787815103",
+      "price": "11.99",
+      "sitedetails": [],
+      "weight": "349266.12",
+      "brand": "Cosmi",
+      "category": "Clip Art",
+      "features": {
+        "Item Weight": "12.3 ounces"
+      },
+      "ean": "0022787815103",
+      "platform": [
+        "Windows 2000",
+        "Windows XP",
+        "Windows 98",
+        "Windows Me"
+      ],
+      "operatingsystem": "Windows 2000",
+      "mpn": "DVDS510",
+      "created_at": 1348669947,
+      "sem3_id": "2d9NfGchf2OSwCckO2QuqI",
+      "cat_id": "23869",
+      "gtins": [
+        "00022787815103"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Productivity": "Graphics",
+        "Photo, Multimedia & Design": "Printing - Graphics",
+        "Operating Systems": "Windows XP",
+        "Entertainment": "Hobbies - Interests"
+      },
+      "mpn": "40989",
+      "cat_id": "16736",
+      "updated_at": 1463634571,
+      "created_at": 1357745774,
+      "manufacturer": "Nova Development US",
+      "sitedetails": [],
+      "ean": "0727298409895",
+      "model": "40989",
+      "price": "16.89",
+      "weight": "226796.18",
+      "sem3_id": "3A3r12dzSS6AQKiesk2qIu",
+      "operatingsystem": "Windows 7",
+      "upc": "727298409895",
+      "brand": "Nova Development US",
+      "name": "Nova Development US Hallmark Card Studio 2011",
+      "category": "Home Publishing",
+      "gtins": [
+        "00727298409895"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "PPX8INTDVDRT",
+      "ean": "0703115691599",
+      "upc": "703115691087",
+      "height": "190.50",
+      "length": "139.70",
+      "price": "119.10",
+      "updated_at": 1463638104,
+      "manufacturer": "US Serif Software",
+      "width": "17.78",
+      "brand": "US Serif Software",
+      "category": "Home Publishing",
+      "sitedetails": [],
+      "created_at": 1428602202,
+      "operatingsystem": "Windows 8",
+      "name": "US Serif Software PagePlus X8 [PC Disc]",
+      "sem3_id": "0D7hPIZz33IA4A4mUIquAA",
+      "weight": "58967.01",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "model": "PPX8INTDVDRT",
+      "cat_id": "16736",
+      "gtins": [
+        "00703115691087",
+        "00703115691599"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "HZWT",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "manufacturer": "Nova Development US",
+      "features": {
+        "Discontinued by manufacturer": "Yes",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "ean": "0727298407747",
+      "cat_id": "18708",
+      "upc": "727298407648",
+      "created_at": 1348673398,
+      "weight": "249475.80",
+      "category": "Greeting Cards",
+      "sem3_id": "0ccQPdQTv04WuWk0sM2mKK",
+      "model": "HZWT",
+      "updated_at": 1459118656,
+      "price": "18.00",
+      "name": "Hallmark Card Studio 2009 Deluxe",
+      "brand": "Creative Home",
+      "operatingsystem": "Windows Vista",
+      "sitedetails": [],
+      "gtins": [
+        "00727298407648",
+        "00727298407747"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0727298403060",
+      "model": "2050XF",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "1.6 pounds",
+        "Origin": "Andorra"
+      },
+      "category": "Greeting Cards",
+      "cat_id": "18708",
+      "manufacturer": "Nova Development US",
+      "brand": "Nova Development US",
+      "name": "Hallmark Blank Greeting Cards Half-fold Matte Premium 20 Count",
+      "mpn": "2050XF",
+      "price": "30.95",
+      "platform": "Windows XP",
+      "upc": "727298403060",
+      "operatingsystem": "Windows XP",
+      "weight": "453592.37",
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "sku": "4704489",
+          "latestoffers": [
+            {
+              "id": "3Fk63Hx45oSawcaGyyY824",
+              "currency": "USD",
+              "seller": "Frys",
+              "availability": "Accepting Back Orders",
+              "lastrecorded_at": 1463550600,
+              "price": "9.99",
+              "firstrecorded_at": 1372167000,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.frys.com/product/4704489"
+        }
+      ],
+      "sem3_id": "34IJmN8KNEyaQAgoK8SiE4",
+      "updated_at": 1463550617,
+      "created_at": 1347520590,
+      "gtins": [
+        "00727298403060"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

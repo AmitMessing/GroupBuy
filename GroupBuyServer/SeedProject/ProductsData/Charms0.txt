@@ -1,0 +1,405 @@
+{
+  "total_results_count": 18797,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "width": "4.83",
+      "length": "9.65",
+      "sem3_id": "5YQ4EyPhomY4EUySMg4MWA",
+      "brand": "LogoArt",
+      "manufacturer": "LogoArt",
+      "model": "COW070CHM-SS",
+      "created_at": 1364196720,
+      "category": "Charms",
+      "color": "Black",
+      "name": "NFL Premier Bead [Dallas Cowboys]",
+      "ean": "0634401991355",
+      "mpn": "COW070CHM-SS",
+      "weight": "45359.24",
+      "height": "9.65",
+      "sitedetails": [
+        {
+          "sku": "LOA2156_9505811",
+          "listprice": "86.00",
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "price": "75.50",
+              "lastrecorded_at": 1413433600,
+              "currency": "USD",
+              "id": "62KlFMgLjcaY6wOW4QCgwY",
+              "firstrecorded_at": 1413433600,
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1408193600,
+              "availability": "In Stock",
+              "id": "73ReR53PzEOGwoEOYQmI62",
+              "currency": "USD",
+              "price": "56.90",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1408193600,
+              "isactive": 0
+            },
+            {
+              "id": "3s20BoXy0GgIcwicyiE8Is",
+              "currency": "USD",
+              "firstrecorded_at": 1404402800,
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "price": "84.50",
+              "lastrecorded_at": 1404402800,
+              "isactive": 0
+            }
+          ],
+          "listprice_currency": "USD",
+          "name": "wayfair.com",
+          "recentoffers_count": 1,
+          "url": "http://www.wayfair.com/LogoArt"
+        }
+      ],
+      "upc": "634401991355",
+      "updated_at": 1462670120,
+      "features": {
+        "Color: 3": "Green",
+        "Color: 2": "Blue",
+        "Product Type": "Sports",
+        "Color: 5": "Yellow",
+        "Color: 1": "Black",
+        "Color: 4": "Red",
+        "Material": "Silver"
+      },
+      "cat_id": "8504",
+      "price": "59.99",
+      "gtins": [
+        "00634401991355"
+      ],
+      "variation_secondaryids": [
+        "25acFxF8yCO0SaagoU2iWA"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "50oLOxp1lYykccGMo0aGw0",
+      "brand": "Rembrandt",
+      "color": "No",
+      "updated_at": 1430045629,
+      "cat_id": "8504",
+      "created_at": 1379681950,
+      "price": "81.50",
+      "sitedetails": [],
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "mpn": "20-0029-SS",
+      "category": "Charms",
+      "variation_secondaryids": [
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "price": "49.50",
+      "mpn": "20-0117-SS",
+      "features": {
+        "Web ID": "355616"
+      },
+      "category": "Charms",
+      "updated_at": 1463481431,
+      "color": "No",
+      "sem3_id": "360x9s7hNQ2UGq0ywkqAkA",
+      "cat_id": "8504",
+      "brand": "Rembrandt",
+      "created_at": 1379681807,
+      "variation_secondaryids": [
+        "3Is4PAUmLAcC6wmkYweQAo",
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "20-0022-SS",
+      "sem3_id": "7a1EJrUPPE8wMiiWe0uYwM",
+      "brand": "Rembrandt",
+      "price": "82.00",
+      "updated_at": 1435677440,
+      "category": "Charms",
+      "sitedetails": [],
+      "cat_id": "8504",
+      "features": {
+        "Web ID": "355616"
+      },
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "created_at": 1379675305,
+      "variation_secondaryids": [
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Charms",
+      "price": "17.98",
+      "mpn": "PA00185SIL",
+      "sem3_id": "79oVY6KvbMYwseEm8OOuqC",
+      "name": "925 Sterling Silver Dragon Bead Charm Fits Pandora Bracelet",
+      "model": "PA00185SIL",
+      "created_at": 1357414306,
+      "weight": "28349.52",
+      "manufacturer": "Chuvora",
+      "brand": "Chuvora",
+      "updated_at": 1463390506,
+      "cat_id": "8504",
+      "features": {
+        "Metal stamp": "925 Sterling",
+        "Metal": "Sterling silver",
+        "Product Dimensions": "3.1 x 3 x 0.4 inches; 0.8 ounces"
+      },
+      "sitedetails": [],
+      "variation_secondaryids": [
+        "6YiLD3jk6wOO88uqMSGII6"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Bling Jewelry",
+      "price": "16.98",
+      "weight": "4535.92",
+      "updated_at": 1463454012,
+      "manufacturer": "Bling Jewelry",
+      "upc": "640626675673",
+      "sem3_id": "7kIoPP0LhIwYoeAC2m2Oyk",
+      "width": "2.79",
+      "features": {
+        "Age": "Adult",
+        "Material": "Silver",
+        "Occasion": "Christmas & Hanukkah",
+        "Gender": "Female",
+        "Metal Stamp": ".925 Sterling Silver"
+      },
+      "model": "PBX HS 636 DRK",
+      "cat_id": "8504",
+      "created_at": 1356319253,
+      "mpn": "PBX-HS-636-DRK",
+      "length": "2.79",
+      "ean": "0640626675673",
+      "name": "Bling Jewelry 925 Sterling Silver Round Musical Notes Charm Bead Fits Pandora",
+      "color": "Grey",
+      "sitedetails": [
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT7405",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1377801700,
+              "firstrecorded_at": 1370264400,
+              "currency": "USD",
+              "price": "19.98",
+              "availability": "In stock. [BBX: Buy Box]",
+              "seller": "Bling Jewelry",
+              "id": "4PPZKSMCP2WAIAeycKy2go",
+              "isactive": 0
+            }
+          ],
+          "sku": "9SIA1WW0RT7405",
+          "name": "newegg.com"
+        }
+      ],
+      "category": "Charms",
+      "gtins": [
+        "00640626675673"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "4x5TYWMsLgEEgskskk8yA2",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT6665",
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1378485300,
+              "id": "3MBC3roTiiIyimuQkM84So",
+              "price": "14.99",
+              "seller": "Bling Jewelry",
+              "availability": "In stock. [BBX: Buy Box]",
+              "currency": "USD",
+              "firstrecorded_at": 1370266100,
+              "isactive": 0
+            }
+          ],
+          "sku": "9SIA1WW0RT6665"
+        }
+      ],
+      "weight": "45359.24",
+      "category": "Charms",
+      "color": "Red",
+      "height": "12.70",
+      "ean": "0640626668927",
+      "upc": "640626668927",
+      "updated_at": 1462907744,
+      "created_at": 1347735905,
+      "manufacturer": "Bling Jewelry",
+      "features": {
+        "Metal": "Sterling silver",
+        "Metal stamp": "925 Sterling",
+        "Product Dimensions": "0.5 x 0.2 x 0.5 inches; 1.6 ounces",
+        "Brand, Seller, or Collection Name": "Bling Jewelry",
+        "Material": "Resin",
+        "Item Length": "0.50 inches",
+        "Total metal weight": "2 Grams",
+        "Setting": "Sterling silver"
+      },
+      "mpn": "PBX-DF-SB-1082",
+      "price": "12.99",
+      "width": "6.35",
+      "model": "PBX DF SB 1082 BJ",
+      "length": "12.70",
+      "brand": "Bling Jewelry",
+      "cat_id": "8504",
+      "name": "Bling Jewelry Patriotic Nurses Hat 925 Sterling Silver Bead Pandora Compatible",
+      "gtins": [
+        "00640626668927"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "82.00",
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "sitedetails": [],
+      "created_at": 1379672894,
+      "color": "No",
+      "cat_id": "8504",
+      "mpn": "20-0383-SS",
+      "sem3_id": "0IafdtIAnwWmAwe8OiCGaM",
+      "updated_at": 1429226466,
+      "category": "Charms",
+      "brand": "Rembrandt",
+      "variation_secondaryids": [
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8504",
+      "category": "Charms",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Item Weight": "1 ounces"
+      },
+      "created_at": 1347694838,
+      "updated_at": 1461896058,
+      "color": "Multi",
+      "price": "3.39",
+      "upc": "661799768313",
+      "manufacturer": "Buckets of Beads",
+      "sitedetails": [],
+      "brand": "Buckets of Beads",
+      "name": "Ten (10) Assorted European Style Crystal Rhinestone Charm Beads. Compatible With Troll, Baigi, Chamilia, Zable, And Many Other Charm Bracelets.",
+      "ean": "0661799768313",
+      "weight": "59534.00",
+      "sem3_id": "4JLNwMsxbEuwImYiQYyYio",
+      "model": "c87263489773987",
+      "gtins": [
+        "00661799768313"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "4RIlyjRxOi2kUaAe62gSSG",
+              "lastrecorded_at": 1420308000,
+              "price": "89.99",
+              "currency": "USD",
+              "firstrecorded_at": 1420308000,
+              "seller": "Sears Brands, LLC.",
+              "isactive": 0
+            }
+          ],
+          "name": "kmart.com",
+          "url": "http://www.kmart.com/14k-white-gold-solid-polished-rn-charm-measures/p-026V006911107000P",
+          "recentoffers_count": 0,
+          "sku": "026V006911107000P"
+        }
+      ],
+      "model": "QTC41167NC",
+      "height": "0.22",
+      "cat_id": "8504",
+      "sem3_id": "3vC2WSdIQCAWG4M2qckkAg",
+      "length": "0.22",
+      "created_at": 1347594125,
+      "updated_at": 1462883141,
+      "width": "0.13",
+      "price": "62.50",
+      "brand": "JewelryWeb",
+      "features": {
+        "Brand, Seller, or Collection Name": "JewelryWeb",
+        "Metal stamp": "14k",
+        "Product Dimensions": "4.4 x 3 x 1 inches; 0.8 ounces",
+        "Metal": "White gold"
+      },
+      "weight": "22679.62",
+      "name": "14k White Gold Solid Polished RN Charm - Measures 22.2x12.8mm - JewelryWeb",
+      "category": "Charms",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

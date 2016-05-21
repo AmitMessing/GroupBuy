@@ -1,0 +1,450 @@
+{
+  "total_results_count": 18797,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "8504",
+      "brand": "PriceRock",
+      "features": {
+        "Gem Type": "metal only",
+        "Metal": "Yellow gold",
+        "Brand, Seller, or Collection Name": "PriceRock",
+        "Metal stamp": "14k",
+        "Material": "14-karat-gold"
+      },
+      "sem3_id": "1hIxIAFeA8wQ0cQQ8KqSo8",
+      "created_at": 1364146790,
+      "category": "Charms",
+      "updated_at": 1463444253,
+      "sitedetails": [
+        {
+          "sku": "9SIA21T0RC8771",
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "availability": "In stock. [BBX: Buy Box]",
+              "seller": "Hazrati.com",
+              "currency": "USD",
+              "firstrecorded_at": 1370258900,
+              "price": "123.58",
+              "lastrecorded_at": 1381582400,
+              "id": "0rHt4BIiNW4yqIyw8sG8K0",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA21T0RC8771"
+        },
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463123400,
+              "id": "3tlB798MuGAaK4iiMI6Gws",
+              "firstrecorded_at": 1417001900,
+              "price": "123.00",
+              "currency": "USD",
+              "seller": "QVC",
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "qvc.com",
+          "url": "http://www.qvc.com/qvc.product.J108160.html",
+          "sku": "J108160"
+        },
+        {
+          "sku": "026V064163404000P",
+          "url": "http://www.kmart.com/goldia-14k-yellow-gold-praying-hands-charm/p-026V064163404000P",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1420328300,
+              "id": "4B6uBirYFMko80m2c8sIWE",
+              "price": "159.99",
+              "firstrecorded_at": 1420328300,
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "kmart.com"
+        }
+      ],
+      "mpn": "XR323",
+      "price": "111.81",
+      "name": "14k Gold Praying Hands Charm",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Metal Stamp": ".925 Sterling Silver",
+        "Occasion": "Holiday",
+        "Gender": "Female",
+        "Age": "Adult",
+        "Material": "Silver"
+      },
+      "weight": "4535.92",
+      "upc": "640626676076",
+      "price": "22.99",
+      "sem3_id": "2sdUpLZ6GGyGY4gA0msk6q",
+      "width": "4.57",
+      "updated_at": 1463212637,
+      "manufacturer": "Bling Jewelry",
+      "name": "Bling Jewelry Best Friends Sterling Silver Heart Dangle Charm Bead Fits Pandora",
+      "model": "PBX HSD 112 LR",
+      "category": "Charms",
+      "length": "8.13",
+      "cat_id": "8504",
+      "ean": "0640626676076",
+      "color": "Grey",
+      "mpn": "PBX-HSD-112-LR",
+      "brand": "Bling Jewelry",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "9SIA1WW0RT7259",
+          "latestoffers": [
+            {
+              "id": "0rZzAjDgROYycaIS4s6AI2",
+              "lastrecorded_at": 1377934300,
+              "currency": "USD",
+              "firstrecorded_at": 1370264700,
+              "seller": "Bling Jewelry",
+              "price": "24.99",
+              "availability": "In stock. [BBX: Buy Box]",
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT7259"
+        }
+      ],
+      "created_at": 1356312754,
+      "gtins": [
+        "00640626676076"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "10.00",
+      "width": "8.00",
+      "length": "10.00",
+      "features": {
+        "Country of Origin - Components": "USA and/or Imported",
+        "Fine or Fashion": "Fashion",
+        "Age Group": "Adult",
+        "Gender": "Women",
+        "Country of Origin - Assembly": "USA and/or Imported",
+        "Metal Type": "Sterling Silver",
+        "Condition": "New",
+        "Occasion": "Birthday"
+      },
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/47339719",
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463358100,
+              "id": "0R8uFGlitkkaCsMMkIi66U",
+              "seller": "Bling Jewelry Inc",
+              "firstrecorded_at": 1451511700,
+              "availability": "Available",
+              "price": "15.99",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "sku": "47339719"
+        }
+      ],
+      "model": "PBX HS 592 D",
+      "updated_at": 1463358106,
+      "sem3_id": "5KoEUJMHrc8GyguyS2y26O",
+      "name": "Mothers Day Gifts Sterling Silver Oval Brother Sister Family Charm Bead Fits Pandora",
+      "price": "15.99",
+      "mpn": "PBX-HS-592-D",
+      "brand": "Bling Jewelry",
+      "category": "Charms",
+      "weight": "45359.24",
+      "created_at": 1347523605,
+      "cat_id": "8504",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Metal": "Sterling silver",
+        "Theme": "No theme"
+      },
+      "updated_at": 1463352504,
+      "price": "119.99",
+      "mpn": "SIM936",
+      "cat_id": "8504",
+      "name": "Sterling Silver Marcasite Flower Pin",
+      "manufacturer": "Eziba",
+      "upc": "729881779972",
+      "ean": "0729881779972",
+      "created_at": 1370204902,
+      "category": "Charms",
+      "sem3_id": "7RVvB0TEjQQSIwYSiemSwc",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.kmart.com/goldia-sterling-silver-marcasite-rose-pin/p-026V006830265000P",
+          "listprice": "479.96",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "3MP4cN7P7wKA0iAGK6a4yO",
+              "firstrecorded_at": 1420328600,
+              "price": "119.99",
+              "seller": "Sears Brands, LLC.",
+              "lastrecorded_at": 1420328600,
+              "isactive": 1
+            }
+          ],
+          "name": "kmart.com",
+          "sku": "026V006830265000P",
+          "listprice_currency": "USD"
+        }
+      ],
+      "brand": "Eziba",
+      "gtins": [
+        "00729881779972"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "1AZFzCwx4amGosuSQQIAYK",
+      "cat_id": "8504",
+      "brand": "Rembrandt",
+      "created_at": 1379669288,
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "sitedetails": [],
+      "mpn": "20-0107-SS",
+      "price": "81.50",
+      "color": "No",
+      "category": "Charms",
+      "updated_at": 1463481431,
+      "variation_secondaryids": [
+        "3Is4PAUmLAcC6wmkYweQAo",
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "color": "No",
+      "updated_at": 1463481431,
+      "category": "Charms",
+      "price": "82.00",
+      "mpn": "20-0111-SS",
+      "brand": "Rembrandt",
+      "sem3_id": "4GlLXgTewqomKCMeAwQwMC",
+      "cat_id": "8504",
+      "created_at": 1379675733,
+      "variation_secondaryids": [
+        "3Is4PAUmLAcC6wmkYweQAo",
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Gender": "Female",
+        "Charm Theme": "Sports",
+        "Metal Color": "Yellow",
+        "Metal": "Gold",
+        "Soccer charm is a fun addition to any jewelry collection 14-karat yellow gold pendant is ideal for your charm bracelet Unique charm is the perfect gift Rhodium-plated soccer ball Secures with a spring ring clasp Charm measures 0.5 inch long x 1.25 inches wide Theme": "Sports",
+        "Gold Karat": "14k",
+        "Stone": "No Stone"
+      },
+      "created_at": 1347618708,
+      "updated_at": 1463525525,
+      "mpn": "FK0.5912211",
+      "manufacturer": "FindingKing",
+      "name": "14K Yellow Gold Soccer Ball Charm Sports Pendant",
+      "sitedetails": [
+        {
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA21T0RD0230",
+          "latestoffers": [
+            {
+              "seller": "Newegg",
+              "firstrecorded_at": 1382033700,
+              "currency": "USD",
+              "id": "4YSIc1IN2e4SMQEocMyoG6",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "price": "109.62",
+              "lastrecorded_at": 1382033700,
+              "isactive": 0
+            },
+            {
+              "seller": "Hazrati.com",
+              "firstrecorded_at": 1370474500,
+              "currency": "USD",
+              "id": "5nDsdRacDouSuksKGQI2eq",
+              "availability": "In stock. [BBX: Buy Box]",
+              "price": "109.62",
+              "lastrecorded_at": 1380809300,
+              "isactive": 0
+            }
+          ],
+          "sku": "9SIA21T0RD0230",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "overstock.com",
+          "url": "http://www.overstock.com/Jewelry-Watches/14k-Yellow-Gold-Soccer-Charm/3084104/product.html",
+          "latestoffers": [
+            {
+              "price": "85.49",
+              "availability": "Availabe",
+              "lastrecorded_at": 1429471200,
+              "id": "7EXicipLJuS2uogCwK82ui",
+              "firstrecorded_at": 1428124300,
+              "currency": "USD",
+              "seller": "Overstock",
+              "isactive": 0
+            },
+            {
+              "seller": "Overstock",
+              "price": "94.99",
+              "availability": "Available",
+              "lastrecorded_at": 1426480500,
+              "id": "22qtDuGKbw2sk2S4kMGGao",
+              "currency": "USD",
+              "firstrecorded_at": 1425161900,
+              "isactive": 0
+            }
+          ],
+          "sku": "3084104",
+          "recentoffers_count": 0
+        }
+      ],
+      "weight": "14174.76",
+      "sem3_id": "3fA8t4DoxkoyCmUo6qWcqS",
+      "brand": "FindingKing",
+      "category": "Charms",
+      "cat_id": "8504",
+      "price": "250.00",
+      "variation_secondaryids": [
+        "1zcundIVloSO0AkUWCYwSw"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8504",
+      "brand": "Rembrandt",
+      "sem3_id": "4aOKMUZhweEamuWYak6gaM",
+      "created_at": 1379666567,
+      "color": "No",
+      "category": "Charms",
+      "name": "Rembrandt Charm Bracelet, Sterling Silver",
+      "mpn": "20-0035-SS",
+      "sitedetails": [],
+      "updated_at": 1409390320,
+      "price": "81.50",
+      "variation_secondaryids": [
+        "3hm7T0GIJ68kgQCGeeIQmi"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Shipping Information": "View shipping rates and policies"
+      },
+      "updated_at": 1462677755,
+      "sitedetails": [],
+      "category": "Charms",
+      "sem3_id": "2JXgA3OeF6koUeWg2SmysI",
+      "price": "12.52",
+      "created_at": 1375909114,
+      "brand": "Ganz",
+      "weight": "22679.62",
+      "model": "EK2988",
+      "cat_id": "8504",
+      "manufacturer": "Ganz, Inc.",
+      "mpn": "EK2988",
+      "name": "1 X Hummingbird Color Car Charm",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Dimensions": "4.5 x 3.8 x 0.7 inches; 0.3 ounces"
+      },
+      "model": "F 137",
+      "artist": "Cole Collection",
+      "category": "Charms",
+      "sem3_id": "6wdBgzkM0eEEEIUcOcugau",
+      "brand": "Bella Fascini Beads",
+      "width": "2.54",
+      "height": "3.30",
+      "sitedetails": [],
+      "cat_id": "8504",
+      "manufacturer": "Bella Fascini",
+      "weight": "8504.86",
+      "updated_at": 1462839598,
+      "name": "Bella Fascini Dia de los Muertos Skull Bead Charm 925 Sterling Silver Fits Compatible Bracelet and Bangle",
+      "created_at": 1381497748,
+      "price": "24.99",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

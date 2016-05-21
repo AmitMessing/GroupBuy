@@ -1,0 +1,775 @@
+{
+  "total_results_count": 3235,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "IMSI",
+      "name": "Clipart&more 3.5 Million Clipart Fonts Photos & More",
+      "created_at": 1348673389,
+      "mpn": "CAM3.5MBX01",
+      "updated_at": 1463650337,
+      "price": "29.99",
+      "features": {
+        "Category Description": "IMSI ClipArt&More 3.5 Million - PC, Mac",
+        "Platform": "PC",
+        "Operating System Supported": "Mac OS, Windows",
+        "Software Name": "ClipArt&More 3.5 Million",
+        "Provider Product ID": "1011138801",
+        "Platform Supported": "Mac, PC"
+      },
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1350897417,
+              "id": "5fqp6CVpD6C2QKQuQuMEio",
+              "price": "39.99",
+              "currency": "USD",
+              "availability": "In stock. [BBX: Buy Box]",
+              "seller": "Newegg",
+              "lastrecorded_at": 1382837400,
+              "isactive": 0
+            },
+            {
+              "price": "42.14",
+              "id": "6pPzYMVbCCMYaQmimO4Ea2",
+              "firstrecorded_at": 1379970000,
+              "currency": "USD",
+              "shipping": "5.95",
+              "lastrecorded_at": 1382837400,
+              "seller": "UnbeatableSale",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832309041",
+          "sku": "N82E16832309041",
+          "name": "newegg.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1423791800,
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1400137500,
+              "price": "35.35",
+              "id": "25WuwD99bcGimScwMy4sOk",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1399767500,
+              "id": "2cmFYlQ2kq0SquakGiSaS8",
+              "price": "35.78",
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1399950100,
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "36.67",
+              "id": "3Jpn80wH9kOaOy0mMU6UcQ",
+              "firstrecorded_at": 1397723400,
+              "availability": "In Stock",
+              "lastrecorded_at": 1399590900,
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/13969253",
+          "name": "walmart.com",
+          "sku": "13969253"
+        },
+        {
+          "url": "http://www.frys.com/product/5449539",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463650300,
+              "seller": "Frys",
+              "availability": "Available for In-Store Pickup Only",
+              "currency": "USD",
+              "firstrecorded_at": 1448377000,
+              "id": "7U5ABcU7GKmGEYkwcqaEei",
+              "price": "29.99",
+              "isactive": 1
+            },
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1447791300,
+              "currency": "USD",
+              "firstrecorded_at": 1400917500,
+              "price": "34.99",
+              "id": "3CT2HKnv8aOgimYqYO0O2e",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1400738300,
+              "availability": "Ships by Monday, June 2",
+              "price": "4.99",
+              "id": "7Z1XNvxaACuYSwAYY2QUSi",
+              "firstrecorded_at": 1400331000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com",
+          "sku": "5449539"
+        }
+      ],
+      "brand": "IMSI",
+      "operatingsystem": "mac,windows",
+      "category": "Clip Art",
+      "platform": "No Operating System",
+      "cat_id": "23869",
+      "sem3_id": "3uGVIoecIq80usmKIwCAes",
+      "weight": "181436.95",
+      "upc": "730526358711",
+      "model": "CAM3.5MBX01",
+      "ean": "0730526358315",
+      "gtins": [
+        "00730526358711",
+        "00730526358315"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "190.50",
+      "upc": "727298407891",
+      "operatingsystem": "Mac OS X 10.5 Leopard",
+      "brand": "Nova Development US",
+      "sem3_id": "1sgGFWKfzkm24KW4w8qu20",
+      "platform": "Mac OS X 10.5 Leopard",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1392490000,
+              "id": "1T2JOFmMYCS4o2KIKw60SW",
+              "firstrecorded_at": 1372165200,
+              "availability": "Unavailable Notify me when available While supplies last",
+              "price": "39.99",
+              "seller": "Frys",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6262660",
+          "sku": "6262660"
+        }
+      ],
+      "features": {
+        "Number of Licenses": "7",
+        "Operating System": "Mac OS X",
+        "Computer Software Format": "CD/DVD"
+      },
+      "length": "41.40",
+      "updated_at": 1463668653,
+      "name": "Hallmark Card Studio for Mac",
+      "width": "133.35",
+      "manufacturer": "Nova Development US",
+      "model": "40789",
+      "weight": "226796.18",
+      "cat_id": "18708",
+      "created_at": 1348673391,
+      "ean": "0727298407891",
+      "mpn": "40789",
+      "category": "Greeting Cards",
+      "price": "33.34",
+      "gtins": [
+        "00727298407891"
+      ],
+      "variation_secondaryids": [
+        "1U1zavSZ9YKKiGCO0eAkUc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0705381184409",
+      "created_at": 1348673388,
+      "name": "PrintMaster Platinum 2.0",
+      "price": "5.00",
+      "model": "18440",
+      "cat_id": "16736",
+      "category": "Home Publishing",
+      "sem3_id": "7ByORhYNdI2KYW4mee4Qe0",
+      "operatingsystem": "Mac OS X",
+      "upc": "705381184409",
+      "weight": "249475.80",
+      "updated_at": 1463817840,
+      "mpn": "18440",
+      "manufacturer": "Encore Software",
+      "brand": "Encore",
+      "features": {
+        "License Pricing": "Standard",
+        "License Quantity": "1 User",
+        "Platform Supported": "Intel-based Mac, Mac, PC",
+        "Software Sub Type": "Creativity Application",
+        "Provider Product ID": "1020092771",
+        "Software Name": "PrintMaster v.2.0 Platinum",
+        "License Type": "Complete Product",
+        "Software Main Type": "Graphics/Multimedia",
+        "Features": "NEW! Easy to Use Software - Drag-and-drop photos, text and design elements with incredible ease and quickness. PC and Mac Compatible - Use the program on a PC or Mac and create, edit and share files seamlessly.",
+        "Operating System Supported": "Mac OS, Windows"
+      },
+      "platform": [
+        "Windows Vista",
+        "Mac OS X Intel",
+        "Windows 7",
+        "Mac OS X",
+        "Windows XP"
+      ],
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "price": "39.95",
+              "lastrecorded_at": 1386795500,
+              "seller": "Frys",
+              "availability": "In stock, ships same Business Day. While supplies last",
+              "id": "6pvb9yFvySMGS4S6sisY2u",
+              "firstrecorded_at": 1372167200,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "6026998",
+          "recentoffers_count": 0,
+          "url": "http://www.frys.com/product/6026998"
+        },
+        {
+          "url": "http://www.target.com/p/printmaster-platinum-2-0-software-dvd/-/A-11697535",
+          "name": "target.com",
+          "latestoffers": [
+            {
+              "availability": "Available Online",
+              "price": "39.99",
+              "lastrecorded_at": 1384550800,
+              "seller": "target.com",
+              "currency": "USD",
+              "id": "55hjYvp35ECYKyCcwsGSIq",
+              "firstrecorded_at": 1378491900,
+              "isactive": 0
+            }
+          ],
+          "sku": "11697535",
+          "recentoffers_count": 0
+        }
+      ],
+      "gtins": [
+        "00705381184409"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "430912.75",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "manufacturer": "Nova Development Corp.",
+      "cat_id": "18708",
+      "created_at": 1348711029,
+      "category": "Greeting Cards",
+      "ean": "0727298410051",
+      "mpn": "41005",
+      "sitedetails": [
+        {
+          "sku": "N82E16832310189",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Newegg",
+              "id": "2UQ3FVUGg8aa2gMiEIkU0U",
+              "firstrecorded_at": 1363263100,
+              "price": "44.99",
+              "availability": "Available",
+              "lastrecorded_at": 1427558600,
+              "isactive": 0
+            },
+            {
+              "price": "44.99",
+              "seller": "newegg.com",
+              "firstrecorded_at": 1361264200,
+              "id": "0fQR4Y2Uf2k8k0KKGK0aO6",
+              "currency": "USD",
+              "lastrecorded_at": 1361643500,
+              "availability": "Was: $49.99 [BBX: Buy Box]",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "04MNciTv74KQ2O4KMCIO8C",
+              "firstrecorded_at": 1350667590,
+              "seller": "Newegg",
+              "price": "49.99",
+              "availability": "In Stock",
+              "lastrecorded_at": 1350667590,
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832310189"
+        },
+        {
+          "url": "http://www.restockit.com/nova-development-print-artist-platinum-v-24-complete-package-num-1978a0.html",
+          "name": "restockit.com",
+          "sku": "restockit_nova-development-print-artist-platinum-v-24-complete-package-num-1978a0",
+          "latestoffers": [
+            {
+              "availability": "Not Available",
+              "lastrecorded_at": 1463589500,
+              "currency": "USD",
+              "firstrecorded_at": 1460563100,
+              "seller": "ReStockIt",
+              "id": "0ocvfGQbEQ2Qgqs40oWC4Y",
+              "price": "61.70",
+              "condition": "New",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "price": "61.70",
+      "brand": "Nova Development",
+      "features": {
+        "PC Additional Requirements": "Color printer",
+        "PC Processor Type": "IntelÂ® PentiumÂ® 4 processor",
+        "PC Processor Speed": "300MHz",
+        "PC Drive Type and Speed": "DVD-ROM",
+        "PC Operating System": "Windows XP, Windows Vista, Windows 7",
+        "PC System Memory": "512MB RAM",
+        "Platform": "Windows",
+        "PC Hard Drive Space": "8GB"
+      },
+      "name": "Print Artist Platinum 24",
+      "updated_at": 1463668217,
+      "upc": "727298410051",
+      "sem3_id": "0je5m4DHbSQAcioMK28SWS",
+      "model": "41005",
+      "operatingsystem": "Windows Vista",
+      "gtins": [
+        "00727298410051"
+      ],
+      "variation_secondaryids": [
+        "6q6l17wZoeGyYy0egCuIcy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "16736",
+      "model": "18480",
+      "price": "12.15",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Newegg",
+              "id": "1wyNIqtI4icYmYgwKGqSMs",
+              "firstrecorded_at": 1356218200,
+              "price": "89.99",
+              "lastrecorded_at": 1383007800,
+              "availability": "In stock. [BBX: Buy Box]",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832196498",
+          "name": "newegg.com",
+          "sku": "N82E16832196498"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "25tENxJfvAgQw2wMA8yKuO",
+              "seller": "JR",
+              "price": "76.98",
+              "firstrecorded_at": 1388157300,
+              "lastrecorded_at": 1394714900,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.jr.com/encore/pe/ENI_18480",
+          "sku": "ENI_18480",
+          "recentoffers_count": 0,
+          "name": "jr.com"
+        }
+      ],
+      "name": "The Print Shop 2.0 Professional -",
+      "brand": "Encore",
+      "manufacturer": "Encore Software",
+      "mpn": "18480",
+      "updated_at": 1463271339,
+      "category": "Home Publishing",
+      "operatingsystem": "Windows Vista",
+      "ean": "0705381184805",
+      "created_at": 1357836860,
+      "sem3_id": "6TfEsu6ui82Qsq8E6s2qaG",
+      "upc": "705381184805",
+      "weight": "136077.71",
+      "features": {
+        "System Requirements Details": "Microsoft Windows XP SP3 - Pentium 4 - 2.2 GHz - RAM 1 GB - HD 3.5 GB Microsoft Windows Vista / XP - Pentium 4 - 2.2 GHz - RAM 1 GB - HD 3.5 GB",
+        "Peripheral / Interface Devices": "Sound card, mouse or compatible device, DVD-ROM, speakers, XGA monitor, DirectX 9.0c compatible graphics card, 32 MB video memory",
+        "License Pricing": "Standard",
+        "Package Type": "Retail",
+        "License Qty": "1 user",
+        "Min Supported Color Depth": "32-bit color",
+        "Distribution Media": "DVD-ROM",
+        "Platform": "Windows",
+        "Software Requirements": "Internet Explorer 6.0 or later",
+        "OS Required": "Microsoft Windows 7, Microsoft Windows Vista SP1, Microsoft Windows XP SP3",
+        "Version": "2.0",
+        "Subcategory": "Creativity - graphics & image editing",
+        "License Type": "Complete package"
+      },
+      "gtins": [
+        "00705381184805"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Avid Software",
+      "category": "Home Publishing",
+      "manufacturer": "Sibelius Software Ltd.",
+      "model": "9910 65078 00",
+      "height": "134.62",
+      "sem3_id": "6VNzzPrr4CEM8Cmq4YeSwC",
+      "width": "71.12",
+      "platform": [
+        "Windows 7",
+        "Mac OS X"
+      ],
+      "sitedetails": [],
+      "upc": "724643113872",
+      "mpn": "9910-65078-00",
+      "name": "Avid Software Sibelius 7 Academic Student",
+      "price": "226.61",
+      "operatingsystem": "Mac OS X",
+      "length": "137.16",
+      "weight": "204116.57",
+      "features": {
+        "PC System Memory": "1GB RAM",
+        "PC Hard Drive Space": "750MB",
+        "Mac Hard Drive Space": "750MB",
+        "PC Operating System": "Windows Vista with Service Pack 2, Windows 7 with Service Pack 1",
+        "Mac Drive Type and Speed": "DVD",
+        "Platform": "Mac/Windows",
+        "Mac System Memory": "1GB RAM",
+        "PC Optional Requirements": "Intel Core 2 Duo or equivalent processor, 4GB RAM, 40GB hard drive space, 7200 rpm or faster drive, SSD and ASIO-compatible sound card recommended for Sounds sample library",
+        "Mac Optional Requirements": "Intel Core 2 Duo or equivalent processor, 4GB RAM, 40GB hard drive space, 7200 rpm or faster drive and SSD recommended for Sounds sample library",
+        "Mac Operating System": "Macintosh System 10.7, Macintosh System 10.6.7",
+        "PC Additional Requirements": "Platform Update Pack required for Windows Vista SP2 operating system",
+        "PC Drive Type and Speed": "DVD"
+      },
+      "ean": "0724643113872",
+      "created_at": 1348673386,
+      "updated_at": 1463804635,
+      "cat_id": "16736",
+      "gtins": [
+        "00724643113872"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Hallmark Card Studio 2011 Deluxe",
+      "price": "14.95",
+      "mpn": "40988",
+      "upc": "727298409888",
+      "weight": "45359.24",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "sem3_id": "4GJz23zmvYsywMquCEoGck",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "24.99",
+              "seller": "Frys",
+              "availability": "Shipping: Available In-Store Only",
+              "firstrecorded_at": 1348654900,
+              "id": "7IPD09ZCnQqkmu2CuIqIeC",
+              "lastrecorded_at": 1348654900,
+              "isactive": 0
+            }
+          ],
+          "sku": "6434422",
+          "url": "http://www.frys.com/product/6434422",
+          "name": "frys.com",
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "44.99",
+              "seller": "Office Depot",
+              "availability": "Estimated delivery 1-3 business days",
+              "firstrecorded_at": 1372411100,
+              "id": "0lN81JrZNKq8I4Ou6gUweS",
+              "lastrecorded_at": 1406080700,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.officedepot.com/a/products/413394",
+          "sku": "413394",
+          "name": "officedepot.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "updated_at": 1463653635,
+      "ean": "0727298409888",
+      "features": {
+        "Software type": "DVD",
+        "Minimum hard disk space": "3.9 GB",
+        "Postconsumer recycled content": "0%",
+        "Total recycled content": "0%",
+        "Operating system compatibility": "Windows XP; Windows Vista; Windows 7",
+        "Memory requirements": "512 MB",
+        "Version": "2011",
+        "Minimum resolution required": "1024 x 768",
+        "Minimum processor compatibility": "Pentium III",
+        "015--OMAX SAP Number": "TBD"
+      },
+      "created_at": 1348673385,
+      "operatingsystem": "Windows 7",
+      "category": "Home Publishing",
+      "brand": "Nova Development US",
+      "manufacturer": "Nova Development US",
+      "cat_id": "16736",
+      "model": "40988",
+      "gtins": [
+        "00727298409888"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "411.04",
+      "features": {
+        "License Qty": "5 device CALs",
+        "License Type": "License",
+        "Service & Support Details": "New releases update - full-term",
+        "System Requirements Details": "- RAM 4 GB - HD 1.88 GB",
+        "Subcategory": "Office applications - groupware",
+        "Software Requirements": "Microsoft Windows PowerShell 2, Microsoft Windows Remote Management, Microsoft .NET Framework 3.5",
+        "Platform": "Windows",
+        "Language(s)": "English",
+        "License Pricing": "Standard",
+        "Peripheral / Interface Devices": "DVD-ROM, SVGA monitor, Internet connection",
+        "Service & Support": "New releases update"
+      },
+      "name": "Exchange Standard CAL 2010 English MLP 5 Device CAL",
+      "weight": "18143.69",
+      "platform": "Windows Vista",
+      "upc": "882224933308",
+      "category": "Calendars",
+      "model": "381 04124",
+      "sem3_id": "0fHBMBJI4Qaim0O4mcCGUw",
+      "mpn": "381-04124",
+      "updated_at": 1463498833,
+      "ean": "0882224933308",
+      "manufacturer": "Microsoft Software",
+      "operatingsystem": "Windows Vista",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=565530",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "id": "5P5abatmzomOocuusWOKOq",
+              "firstrecorded_at": 1388756000,
+              "lastrecorded_at": 1390190100,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "price": "410.21",
+              "availability": "OUT OF STOCK",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "565530"
+        }
+      ],
+      "brand": "Microsoft",
+      "cat_id": "1203",
+      "created_at": 1357831814,
+      "gtins": [
+        "00882224933308"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463663054,
+      "created_at": 1348673393,
+      "model": "4010PC",
+      "length": "130.30",
+      "price": "12.98",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1372167000,
+              "price": "12.99",
+              "seller": "Frys",
+              "lastrecorded_at": 1463663000,
+              "availability": "In Stock",
+              "currency": "USD",
+              "id": "44dh8YscbY64QUEgIS8aE4",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.frys.com/product/5579400",
+          "name": "frys.com",
+          "sku": "5579400"
+        }
+      ],
+      "ean": "0727298405552",
+      "manufacturer": "Nova Development US",
+      "features": {
+        "Service & Support": "30 days money back guarantee",
+        "Media Weight": "215 g/m2",
+        "Media Included": "Envelopes - 40",
+        "Media Color": "White",
+        "Media Sizes": "4 in x 8 in",
+        "Included Qty": "40 card(s)",
+        "Media Type": "Glossy photo cards"
+      },
+      "sem3_id": "4bSxP0StBYMUaaaSKIWo80",
+      "brand": "Nova Development US",
+      "mpn": "4010PC",
+      "weight": "453592.37",
+      "width": "39.62",
+      "height": "238.25",
+      "category": "Greeting Cards",
+      "cat_id": "18708",
+      "upc": "727298405552",
+      "operatingsystem": "Windows 7",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "name": "Nova Development US Hallmark Premium Blank 4x8 Photo Cards",
+      "gtins": [
+        "00727298405552"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "134.62",
+      "name": "Avid Software Sibelius v. 7",
+      "category": "Home Publishing",
+      "operatingsystem": "Mac OS X",
+      "manufacturer": "Avid Software",
+      "features": {
+        "Platform": "Mac/Windows",
+        "Mac Operating System": "Macintosh System 10.7, Macintosh System 10.6.7",
+        "PC Hard Drive Space": "750MB",
+        "PC Drive Type and Speed": "DVD",
+        "Mac Drive Type and Speed": "DVD",
+        "PC Operating System": "Windows XP with Service Pack 3, Windows Vista with Service Pack 2, Windows 7 with Service Pack 1",
+        "Mac Hard Drive Space": "750MB",
+        "PC System Memory": "1GB RAM",
+        "Mac System Memory": "1GB RAM",
+        "Genre": "Educational",
+        "PC Optional Requirements": "Additional 60GB hard disk space required for Sibelius 7 Sounds installer",
+        "Mac Optional Requirements": "Additional 60GB hard disk space required for Sibelius 7 Sounds installer",
+        "PC Additional Requirements": "Platform Update Pack required for Windows Vista with Service Pack 2"
+      },
+      "sem3_id": "5Dhsd0bfqSaq2KI2yUE4EE",
+      "model": "9910 65064 00",
+      "created_at": 1348673392,
+      "length": "137.16",
+      "ean": "0724643113063",
+      "upc": "724643113063",
+      "cat_id": "16736",
+      "width": "71.12",
+      "platform": [
+        "Windows 7",
+        "Mac OS X",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "mpn": "9910-65064-00",
+      "updated_at": 1463773525,
+      "brand": "Avid Software",
+      "weight": "272155.42",
+      "sitedetails": [],
+      "gtins": [
+        "00724643113063"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

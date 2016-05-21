@@ -1,0 +1,402 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "weight": "45359.24",
+      "cat_id": "18564",
+      "manufacturer": "Dogeared",
+      "ean": "0845918062173",
+      "category": "Chains",
+      "width": "0.08",
+      "color": "Silver",
+      "mpn": "MRSS200603904",
+      "price": "52.00",
+      "variation_id": "0Pgu8FT5aG8Ksiq0OyyqCK",
+      "sitedetails": [],
+      "upc": "845918062173",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Origin": "USA",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S."
+      },
+      "sem3_id": "3AX9BBp9D6CyiKgKosE2wm",
+      "height": "0.08",
+      "brand": "Dogeared",
+      "name": "Dogeared Reminders Sand Dollar Charm Necklace, 18\" []",
+      "model": "MRSS200603904",
+      "updated_at": 1460837938,
+      "created_at": 1381751552,
+      "length": "4.57",
+      "gtins": [
+        "00845918062173"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460852830,
+      "price": "62.00",
+      "length": "4.57",
+      "cat_id": "18564",
+      "height": "0.08",
+      "color": "Gold",
+      "name": "Dogeared Reminders Sand Dollar Charm Necklace, 18\" []",
+      "weight": "22679.62",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "Origin": "USA"
+      },
+      "upc": "845918062180",
+      "ean": "0845918062180",
+      "variation_id": "0Pgu8FT5aG8Ksiq0OyyqCK",
+      "width": "0.08",
+      "brand": "Dogeared",
+      "manufacturer": "Dogeared",
+      "mpn": "MRGG200603904",
+      "sem3_id": "4TJkvdhkVUamggE4O8oKeG",
+      "model": "MRGG200603904",
+      "sitedetails": [],
+      "created_at": 1381751552,
+      "category": "Chains",
+      "gtins": [
+        "00845918062180"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348664366,
+      "ean": "0729881363577",
+      "brand": "Amazon Curated Collection",
+      "updated_at": 1460821078,
+      "upc": "729881363577",
+      "name": "Sterling Silver Popcorn-Chain Necklace []",
+      "width": "0.41",
+      "length": "6.10",
+      "cat_id": "18564",
+      "category": "Chains",
+      "manufacturer": "Amazon Curated Collection",
+      "model": "PA6119 24",
+      "features": {
+        "Product Dimensions": "3.6 x 2 x 0 inches; 4 ounces",
+        "Total metal weight": "3.4 Grams",
+        "Metal stamp": "925 Sterling",
+        "Package": "Classic Medium Box",
+        "Metal": "Sterling silver",
+        "Chain": "Popcorn-Chain",
+        "Clasp": "Spring ring",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection"
+      },
+      "sem3_id": "2gGQOoz8GmEce0sCESEm6E",
+      "sitedetails": [],
+      "weight": "113398.09",
+      "price": "20.23",
+      "gtins": [
+        "00729881363577"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "608701569484",
+      "category": "Pendants",
+      "manufacturer": "Dahlia",
+      "features": {
+        "Setting": "bead-set",
+        "Clasp": "lobster-claw-clasps",
+        "Brand, Seller, or Collection Name": "Dahlia",
+        "Gem Type": "Swarovski Elements Crystal",
+        "Minimum color": "Green",
+        "Stone Creation Method": "Synthetic",
+        "Product Dimensions": "3.2 x 2.9 x 1.3 inches; 0.8 ounces",
+        "Stone shape": "Heart",
+        "Metal stamp": "Not stamped",
+        "Material": "Crystal, Alloy",
+        "Chain": "Other",
+        "Metal": "Alloy",
+        "Cut": "Very good cut"
+      },
+      "created_at": 1347464243,
+      "ean": "0608701569484",
+      "length": "4.57",
+      "updated_at": 1460975887,
+      "name": "Four Leaf Clover Heart Shaped Swarovski Elements Crystal Rhodium Plated Pendant Necklace []",
+      "cat_id": "14201",
+      "color": "Green",
+      "sem3_id": "21FLWi37Aiuq8I2KiYIUWO",
+      "weight": "22679.62",
+      "sitedetails": [],
+      "price": "20.45",
+      "model": "1223 PD_QS41_X03",
+      "brand": "Pugster",
+      "gtins": [
+        "00608701569484"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0882773228443",
+      "length": "4.57",
+      "color": "white",
+      "weight": "22679.62",
+      "manufacturer": "Amazon Curated Collection",
+      "cat_id": "14201",
+      "features": {
+        "Stone Creation Method": "Natural",
+        "Pearl type": "Freshwater cultured",
+        "Minimum clarity": "I2-I3",
+        "Minimum total gem weight": "2.6 carats",
+        "Minimum color": "IJ",
+        "Material": "Pearl",
+        "Uniformity": "Good",
+        "Setting": "Prongs",
+        "Clasp": "Spring ring",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Stone Treatment Method": "Not treated",
+        "Stone shape": "Round",
+        "Metal stamp": "925 14K",
+        "Size per pearl": "7.0-7.5mm",
+        "Minimum Total Carat Weight": "0.03 carats",
+        "Luster": "medium-luster",
+        "Package": "Deluxe Medium Box",
+        "Metal": "Yellow gold and sterling silver",
+        "Surface markings and blemishes": "moderately-blemished",
+        "Cut": "Good cut",
+        "Shape": "Button",
+        "Gem Type": "Diamond",
+        "Chain": "Box",
+        "Stringing Method": "unknotted-on-wire",
+        "Product Dimensions": "4.4 x 3.9 x 0.7 inches; 0.8 ounces",
+        "Total metal weight": "3.96 Grams",
+        "Origin": "China"
+      },
+      "created_at": 1347757599,
+      "name": "Sterling Silver and 14k Yellow Gold Birthstone Pendant Necklace, 18\" []",
+      "variation_id": "2sZiw1BLHkeyWoCUO4cCWA",
+      "sem3_id": "2KYZMPWl3EeAQiiEWCseK2",
+      "price": "78.89",
+      "model": "ESB4539PF2CA",
+      "height": "0.16",
+      "brand": "Amazon Curated Collection",
+      "updated_at": 1460970168,
+      "upc": "882773228443",
+      "category": "Pendants",
+      "sitedetails": [],
+      "mpn": "ESB4539PF2CA",
+      "width": "0.12",
+      "gtins": [
+        "00882773228443"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Pendants",
+      "manufacturer": "Amazon Curated Collection",
+      "mpn": "ESN59003WTCA",
+      "sitedetails": [],
+      "upc": "882773983700",
+      "model": "ESN59003WTCA",
+      "cat_id": "14201",
+      "price": "77.92",
+      "brand": "Amazon Curated Collection",
+      "width": "0.12",
+      "weight": "22679.62",
+      "updated_at": 1460974182,
+      "ean": "0882773983700",
+      "height": "0.16",
+      "variation_id": "2sZiw1BLHkeyWoCUO4cCWA",
+      "sem3_id": "14NYLOS0QCmsoe8EASGYyi",
+      "features": {
+        "Metal stamp": "925 14K",
+        "Package": "Deluxe Medium Box",
+        "Minimum Total Carat Weight": "0.03 carats",
+        "Setting": "Prongs",
+        "Origin": "China",
+        "Clasp": "Spring ring",
+        "Stone Treatment Method": "Not treated",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Metal": "Yellow gold and sterling silver",
+        "Minimum total gem weight": "1.7 carats",
+        "Minimum color": "IJ",
+        "Total metal weight": "3.96 Grams",
+        "Cut": "Good cut",
+        "Stone Creation Method": "Natural",
+        "Gem Type": "Diamond, White topaz",
+        "Chain": "Box",
+        "Product Dimensions": "11.5 x 9.4 x 1 inches; 0.8 ounces",
+        "Minimum clarity": "I2-I3",
+        "Stone shape": "Round"
+      },
+      "color": "white",
+      "created_at": 1347757599,
+      "length": "4.57",
+      "name": "Sterling Silver and 14k Yellow Gold Birthstone Pendant Necklace, 18\" []",
+      "gtins": [
+        "00882773983700"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Package": "Deluxe Small Box",
+        "Origin": "Bolivia",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Chain": "Cable",
+        "Clasp": "Spring ring",
+        "Metal": "Yellow gold",
+        "Total metal weight": "1.45 Grams",
+        "Product Dimensions": "3.2 x 2.2 x 0.2 inches; 0.3 ounces",
+        "Metal stamp": "14k"
+      },
+      "sem3_id": "3Pec8oUGGm0s4sGACE2Isq",
+      "mpn": "G5-1800-Y-18",
+      "updated_at": 1459162845,
+      "length": "4.57",
+      "created_at": 1347683689,
+      "price": "85.76",
+      "weight": "8504.86",
+      "category": "Pendants",
+      "brand": "Amazon Curated Collection",
+      "color": "yellow",
+      "manufacturer": "Richline Group",
+      "model": "G5 1800 Y 18",
+      "width": "0.13",
+      "name": "14k Yellow Gold Initial Pendant Necklace, 18\" [Y]",
+      "cat_id": "14201",
+      "sitedetails": [],
+      "variation_id": "6EcqIJ0kQC0SuSO6aM0M0C",
+      "height": "0.16",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "05pbIWlug9QmImg0CmUeMK",
+      "cat_id": "8468",
+      "variation_id": "7HCDdbOkjoCWa2AgUceQooM+",
+      "created_at": 1447700701,
+      "category": "Necklaces & Pendants",
+      "features": {
+        "Web ID": "1931258"
+      },
+      "ean": "0850679004263",
+      "price": "175.00",
+      "sitedetails": [],
+      "color": "Yellow Gold",
+      "brand": "14k gold necklace",
+      "name": "14k Rose Gold Necklace, Ruby (1-1/3 ct. t.w.) and Diamond (1/3 ct. t.w.) Pear Drop Pendant",
+      "updated_at": 1448564689,
+      "upc": "850679004263",
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "4mvjqEtkO0UGa0cwOUEGYkM+",
+        "7LXF0nD864sQQ22gKyeQoEM+",
+        "1YmZKri6rgCqyCw02WsGIsM+",
+        "4XPyxjl8Mq206eGaIG8GY0M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0850679004263",
+      "upc": "850679004263",
+      "created_at": 1447700709,
+      "color": "Yellow Gold",
+      "features": {
+        "Web ID": "1057511"
+      },
+      "sem3_id": "1USCH1aACCMEOWcesmKYag",
+      "category": "Necklaces & Pendants",
+      "variation_id": "6NVwqHgKLQCi60ssge4WeWM+",
+      "cat_id": "8468",
+      "brand": "arrow necklace",
+      "price": "42.50",
+      "name": "100\" Cultured Freshwater Pearl Endless Strand Necklace (7-8mm)",
+      "sitedetails": [],
+      "updated_at": 1448565472,
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "419rI8gb2OiA4euMOgO06SM+",
+        "6vjVIb96gqsIkWUUckqwkaM+",
+        "6eAqrvqtG4GgYu4so4aKoUM+",
+        "3hdgdsyjn6oU24iMSSsGK6M+",
+        "5Gx1GMCnGCckyWK0G4cyEEM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2dYdE563vA8ekAEW8CqoGg",
+      "category": "Necklaces & Pendants",
+      "variation_id": "1WgjUCsO8W0w0WSsUaGmwwM+",
+      "name": "14k Gold and Sterling Silver Necklace, Two-Tone Reversible Omega",
+      "sitedetails": [],
+      "created_at": 1448005706,
+      "brand": "14k gold",
+      "color": "Yellow Gold",
+      "ean": "0850679004263",
+      "features": {
+        "Web ID": "404451"
+      },
+      "updated_at": 1448005706,
+      "price": "350.00",
+      "upc": "850679004263",
+      "cat_id": "8468",
+      "gtins": [
+        "00850679004263"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0850158006276",
+      "variation_id": "5uaAIWDv7oAEKcgeY6gwk2M+",
+      "sitedetails": [],
+      "brand": "10k rings",
+      "updated_at": 1444660200,
+      "created_at": 1444660200,
+      "name": "10k Gold Ring, Smokey Quartz (1-1/3 ct. t.w.) and Diamond (1/5 ct. t.w.) Cushion Cut Ring",
+      "upc": "850158006276",
+      "price": "137.99",
+      "cat_id": "8765",
+      "color": "Black",
+      "features": {
+        "Web ID": "301517"
+      },
+      "category": "Rings",
+      "sem3_id": "6zu0DklZj64QoUm0AcwYgI",
+      "gtins": [
+        "00850158006276"
+      ],
+      "variation_secondaryids": [
+        "6iYBoBKQYi6MwAoWsgaWmYM+",
+        "6MQ1OPO2QwqwI2QQAsUAGgM+",
+        "3FL4mqcl4qskIAacwYq0GCM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "499.00",
+      "features": {
+        "Diamond Color Rating Code": "I-J",
+        "Web ID": "587493",
+        "Diamond Cut": "Round",
+        "Diamond Clarity Rating Code": "I2"
+      },
+      "color": "Yellow Gold",
+      "cat_id": "8765",
+      "ean": "0850679004263",
+      "sem3_id": "2V5P84cUBAsgs2YsO2ugMo",
+      "brand": "14k",
+      "variation_id": "5D8aKAobM0s4aoAU8Cqi2wM+",
+      "sitedetails": [],
+      "upc": "850679004263",
+      "created_at": 1447700311,
+      "category": "Rings",
+      "name": "Le Vian Diamond Three-Stone Ring in 14k Rose Gold (1/2 ct. t.w.)",
+      "updated_at": 1448567109,
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "4FguWOMzQ8mAM6y8qEwWEgM+",
+        "0RpANYh46UKOaCG2Ekcm6kM+",
+        "3sPwc5T47yMC6Iu2AWYiiUM+",
+        "1l0NwC9zrkUy64gAwMG8QaM+",
+        "7UjIVWmAJkOGO2EwI2IUqmM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Rings",
+      "cat_id": "8765",
+      "upc": "850679004263",
+      "sem3_id": "77Xo8xdtWSI0MywSk4Wi2a",
+      "sitedetails": [],
+      "color": "Yellow Gold",
+      "brand": "14k",
+      "variation_id": "0PrN8WlElywa2OqyeqeiwKM+",
+      "price": "540.00",
+      "updated_at": 1448233606,
+      "ean": "0850679004263",
+      "features": {
+        "Web ID": "875711"
+      },
+      "created_at": 1448233606,
+      "name": "Emerald (3/4 ct. t.w.) and Diamond (1/3 ct. t.w.) Ring in 14k White G",
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "0ds1WpE1UHmsUqk6GmaeGiM+",
+        "2uz70rxb28SCq4K4Cc860aM+",
+        "2GI8yEIvJQECcO8iywYgYqM+",
+        "3tjNmAwE1wwEGOUcckqQMmM+",
+        "0RMg45RMcz2ys0M4UayekyM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "ESW1551FCR7A",
+      "sitedetails": [],
+      "features": {
+        "Cut": "Good cut",
+        "Minimum color": "IJ",
+        "Product Dimensions": "2 x 2 x 1.9 inches; 3.2 ounces",
+        "Metal": "Yellow gold and sterling silver",
+        "Minimum clarity": "I2-I3",
+        "Stone Treatment Method": "Heat treated",
+        "Minimum Total Carat Weight": "0.14 carats",
+        "Resizable": "No",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Metal stamp": "925 14k",
+        "Package": "Deluxe Small Box",
+        "Setting": "Prongs",
+        "Minimum total gem weight": "2.05 carats",
+        "Stone Creation Method": "Synthetic",
+        "Gem Type": "Created ruby, Diamond",
+        "Total metal weight": "4.17 Grams",
+        "Stone shape": "Round",
+        "Ring size": "7"
+      },
+      "color": "red",
+      "variation_id": "5y3qjKRTWKeuEwgMIWc2WK",
+      "price": "149.43",
+      "manufacturer": "Andin International",
+      "sem3_id": "2zdqnClFRQ8CYq4cwWQqsw",
+      "brand": "Amazon Curated Collection",
+      "weight": "90718.47",
+      "created_at": 1375276272,
+      "name": "Sterling Silver and 14k Yellow Gold Diamond Ring [created-ruby]",
+      "updated_at": 1459120657,
+      "mpn": "ESW1551FCR7A",
+      "length": "0.15",
+      "width": "0.60",
+      "ean": "0694104287063",
+      "category": "Rings",
+      "upc": "694104287063",
+      "cat_id": "8765",
+      "gtins": [
+        "00694104287063"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "850158006252",
+      "created_at": 1444660083,
+      "ean": "0850158006252",
+      "price": "345.00",
+      "updated_at": 1444660095,
+      "features": {
+        "Web ID": "755063"
+      },
+      "sem3_id": "2iew9htkjoI4o8CEaiS08E",
+      "name": "14k Two-Tone Gold Diamond Twist Ring (1/3 ct. t.w.)",
+      "variation_id": "3nXAXcyeFkSw2om8s0YmkUM+",
+      "sitedetails": [],
+      "cat_id": "8765",
+      "color": "Blush",
+      "brand": "14k gold",
+      "category": "Rings",
+      "gtins": [
+        "00850158006252"
+      ],
+      "variation_secondaryids": [
+        "7UatKkCstcWAeaeEkWKGsKM+",
+        "1U2UhgVawCUgQauGa0c0UUM+",
+        "13ndhCDSUwAGCCeMI6MckmM+",
+        "3oH8Ol2j3QEKokSOoCUOGiM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0032964895415",
+      "manufacturer": "Amazon Curated Collection",
+      "category": "Rings",
+      "variation_id": "2eunH1sTnk02KMYeMWY8uI",
+      "weight": "90718.47",
+      "color": "green",
+      "name": "10k Yellow Gold, Created Emerald, and Diamond Oval Ring []",
+      "updated_at": 1460553488,
+      "cat_id": "8765",
+      "model": "65365V8L2AI0",
+      "price": "129.31",
+      "sitedetails": [],
+      "upc": "032964895415",
+      "created_at": 1381665002,
+      "length": "0.10",
+      "sem3_id": "5i79E8yYVsyg2ocyYYEcEs",
+      "mpn": "65365V8L2AI0",
+      "width": "0.41",
+      "features": {
+        "International Shipping": "This item is not eligible for international shipping. Learn More",
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S."
+      },
+      "brand": "Amazon Curated Collection",
+      "gtins": [
+        "00032964895415"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "0.10",
+      "created_at": 1381665002,
+      "sitedetails": [],
+      "upc": "032964895408",
+      "price": "131.11",
+      "model": "65365V8L2AE0",
+      "cat_id": "8765",
+      "name": "10k Yellow Gold, Created Emerald, and Diamond Oval Ring []",
+      "updated_at": 1460553754,
+      "weight": "90718.47",
+      "color": "green",
+      "variation_id": "2eunH1sTnk02KMYeMWY8uI",
+      "category": "Rings",
+      "manufacturer": "Amazon Curated Collection",
+      "ean": "0032964895408",
+      "brand": "Amazon Curated Collection",
+      "features": {
+        "Domestic Shipping": "This item is also available for shipping to select countries outside the U.S.",
+        "International Shipping": "This item is not eligible for international shipping. Learn More"
+      },
+      "width": "0.41",
+      "mpn": "65365V8L2AE0",
+      "sem3_id": "7Tkn3PrcHoQGksC2iIeU4y",
+      "gtins": [
+        "00032964895408"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "54zJn8dlOi2uaMSooWiAW2",
+      "category": "Rings",
+      "cat_id": "8765",
+      "price": "14.87",
+      "created_at": 1347517613,
+      "updated_at": 1460912292,
+      "ean": "0651263021518",
+      "sem3_id": "6QF5DlQTjcCOcMWAiA2cKM",
+      "upc": "651263021518",
+      "name": "Phil 4:13 I Can Do All Things through Christ Spinner Ring []",
+      "model": "RSS7",
+      "manufacturer": "Forgiven Jewelry",
+      "sitedetails": [],
+      "features": {
+        "Metal": "Stainless steel",
+        "Metal stamp": "Stainless steel",
+        "Material": "Stainless steel",
+        "Brand, Seller, or Collection Name": "Forgiven Jewelry"
+      },
+      "brand": "Forgiven Jewelry",
+      "mpn": "RSS713",
+      "gtins": [
+        "00651263021518"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0651263017207",
+      "cat_id": "8765",
+      "features": {
+        "Metal stamp": "Stainless steel",
+        "Metal": "Stainless steel",
+        "Material": "Stainless steel",
+        "Brand, Seller, or Collection Name": "Forgiven Jewelry"
+      },
+      "sitedetails": [],
+      "brand": "Forgiven Jewelry",
+      "sem3_id": "3xSfljnEWeCgGUoYwIewaE",
+      "variation_id": "54zJn8dlOi2uaMSooWiAW2",
+      "model": "RSS7",
+      "mpn": "RSS77",
+      "created_at": 1347517613,
+      "category": "Rings",
+      "updated_at": 1460833966,
+      "upc": "651263017207",
+      "manufacturer": "Forgiven Jewelry",
+      "price": "14.83",
+      "name": "Phil 4:13 I Can Do All Things through Christ Spinner Ring []",
+      "gtins": [
+        "00651263017207"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Brasilica by EFFY Emerald (1-3/8 ct. t.w.) and Diamond (3/8 ct. t.w.) Ring in 14k G",
+      "color": "Yellow Gold",
+      "upc": "850679004263",
+      "created_at": 1448262143,
+      "category": "Rings",
+      "variation_id": "69r2i5Dum8kE4mOEAO6CewM+",
+      "ean": "0850679004263",
+      "sitedetails": [],
+      "price": "1300.00",
+      "sem3_id": "4xEhqtGnyKOsk2MAaAAuyg",
+      "features": {
+        "Web ID": "597564"
+      },
+      "brand": "14k gold",
+      "cat_id": "8765",
+      "updated_at": 1448262143,
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "21sZwB8IlIQ0uCQi6oi02IM+",
+        "5AqmHw96Gm6wkcQeM8qUieM+",
+        "72WUSYK3AemE4meE6Ke8y0M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

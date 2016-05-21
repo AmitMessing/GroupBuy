@@ -1,0 +1,470 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "updated_at": 1460300820,
+      "category": "Voice Recognition",
+      "brand": "Nuance Communications, Inc.",
+      "upc": "780420122369",
+      "created_at": 1357774922,
+      "manufacturer": "Nuance Communications, Inc.",
+      "cat_id": "17052",
+      "weight": "90718.47",
+      "width": "137.16",
+      "features": {
+        "License Qty": "1 user",
+        "License Type": "Complete package",
+        "Platform": "Windows",
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows 7, Microsoft Windows Server 2003 SP1, Microsoft Windows Server 2008 R2, Microsoft Windows Server 2008 SP2, Microsoft Windows Server 2008 SP1, Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows Server 2003 R2, Microsoft Windows Server 2003 SP2, Microsoft Windows XP SP3",
+        "Package Type": "Retail",
+        "Distribution Media": "DVD-ROM",
+        "License Pricing": "Standard",
+        "Software Requirements": "Internet Explorer 6.0 or later",
+        "Localization": "United States",
+        "Bundled with": "Headset",
+        "Peripheral / Interface Devices": "Microphone, DVD-ROM, Internet connection, 16 bit sound card",
+        "Subcategory": "Office applications - voice recognition",
+        "Language(s)": "English",
+        "Version": "11",
+        "System Requirements Details": "Microsoft Windows Vista - Pentium - 1 GHz - RAM 1 GB - HD 2.5 GB Microsoft Windows XP - Pentium - 1 GHz - RAM 1 GB - HD 2.5 GB Microsoft Windows 7 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB Microsoft Windows Server 2008 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB Microsoft Windows Server 2003 - Pentium - 1 GHz - RAM 2 GB - HD 2.5 GB"
+      },
+      "ean": "0780420122369",
+      "model": "K609A L00 11.0",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "192.99",
+              "currency": "USD",
+              "firstrecorded_at": 1388998900,
+              "lastrecorded_at": 1390268300,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "id": "3m6t9DP6Zc6kA6mYwYoe0k",
+              "isactive": 0
+            },
+            {
+              "id": "4SxDEhVYeWWYiGWc4GGmem",
+              "availability": "OUT OF STOCK",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1388760900,
+              "currency": "USD",
+              "firstrecorded_at": 1388760900,
+              "price": "191.32",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "567569",
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=567569"
+        }
+      ],
+      "sem3_id": "3z0HKZWLCK48M6qyEwEOsc",
+      "height": "60.96",
+      "operatingsystem": "N/A",
+      "mpn": "K609A-L00-11.0",
+      "name": "Dragon Naturallyspeaking Premium 11.0 Us Mailer with Headset",
+      "length": "205.74",
+      "gtins": [
+        "00780420122369"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Learn Polish: Rosetta Stone Polish - Level 1 [Polish, PC/Mac Disc]",
+      "features": {
+        "Release Date": "September 14, 2010",
+        "Media": "CD-ROM",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "brand": "Rosetta Stone",
+      "category": "Education & Reference",
+      "size": "Level 1",
+      "manufacturer": "Rosetta Stone",
+      "upc": "794678323010",
+      "updated_at": 1461219830,
+      "created_at": 1348680356,
+      "sem3_id": "3KBXoGRwZM2GIyU4sKYaSg",
+      "price": "99.00",
+      "ean": "9781617160646",
+      "cat_id": "17135",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "model": "27850",
+      "sitedetails": [
+        {
+          "sku": "FLT_32301",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1396530500,
+              "id": "5BDqvYWvsWesk4sqWCcomo",
+              "price": "179.00",
+              "lastrecorded_at": 1396530500,
+              "currency": "USD",
+              "seller": "JR",
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "currency": "USD",
+              "id": "2DFVhHqM4a4ea8o4UsaEQA",
+              "price": "125.30",
+              "firstrecorded_at": 1388156300,
+              "lastrecorded_at": 1388156300,
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com",
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_32301"
+        }
+      ],
+      "operatingsystem": "Mac OS X 10.6+",
+      "gtins": [
+        "00794678323010",
+        "09781617160646"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Intuit",
+      "platform": "Windows",
+      "weight": "848217.73",
+      "operatingsystem": "Windows",
+      "brand": "QuickBooks",
+      "created_at": 1348679849,
+      "category": "Business & Office",
+      "ean": "0028287036598",
+      "features": {
+        "Language(s)": "English",
+        "License Qty": "1 user",
+        "Platform": "Windows",
+        "License Pricing": "Standard",
+        "Subcategory": "Business - accounting, business - commercial finance / tax preparation, business - inventory systems",
+        "Peripheral / Interface Devices": "1024 x 768 monitor resolution",
+        "Package Type": "Retail",
+        "Distribution Media": "CD-ROM",
+        "License Type": "Complete package",
+        "OS Required": "Microsoft Windows Server 2003, Microsoft Windows 7, Microsoft Windows Vista SP2, Microsoft Windows Server 2008 SP1, Microsoft Windows XP SP3",
+        "Version": "11",
+        "System Requirements Details": "Microsoft Windows Vista / XP / 7 Microsoft Windows XP SP3 - RAM 2 GB - HD 1 GB"
+      },
+      "sem3_id": "7kHSDkeNDUmgmkCCug8ie4",
+      "cat_id": "5007",
+      "name": "Intuit Quickbooks Point of Sale Basic V11 2013 New User",
+      "sitedetails": [],
+      "updated_at": 1461094742,
+      "upc": "028287036598",
+      "gtins": [
+        "00028287036598"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1461086036,
+      "manufacturer": "Microsoft Software",
+      "brand": "Microsoft",
+      "operatingsystem": "Windows Vista",
+      "name": "Microsoft Expression Studio 3.0",
+      "weight": "90718.47",
+      "width": "139.70",
+      "mpn": "PJS-00940",
+      "upc": "882224861885",
+      "price": "89.95",
+      "height": "30.48",
+      "cat_id": "1747",
+      "sem3_id": "04l84hqvTRA2YiwksO04uy",
+      "length": "190.50",
+      "model": "PJS 00940",
+      "sitedetails": [],
+      "ean": "0882224861885",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "category": "Development Utilities",
+      "created_at": 1348694022,
+      "features": {
+        "License Qty": "1 workstation",
+        "Peripheral / Interface Devices": "DVD-ROM",
+        "Platform": "Windows",
+        "Subcategory": "Creativity - desktop publishing, creativity - graphics & image editing, creativity - music or sound creation, creativity - video editing & production, creativity - web design / publishing",
+        "License Pricing": "Volume",
+        "Language(s)": "English",
+        "Distribution Media": "DVD-ROM",
+        "License Type": "Complete package",
+        "Version": "3.0"
+      },
+      "gtins": [
+        "00882224861885"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "65021566",
+      "sitedetails": [],
+      "width": "152.40",
+      "cat_id": "21085",
+      "updated_at": 1461302907,
+      "ean": "0883919164328",
+      "sem3_id": "6z4rSzl3Bo0GeeuO0I060G",
+      "category": "Illustration & Design",
+      "upc": "788831531701",
+      "height": "50.80",
+      "length": "203.20",
+      "mpn": "65021566",
+      "manufacturer": "Adobe",
+      "created_at": 1355970834,
+      "weight": "272155.42",
+      "features": {
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows Vista Business, Microsoft Windows Vista Home Premium, Microsoft Windows Vista Ultimate, Microsoft Windows Vista Enterprise SP1",
+        "Software Suite Components": "Adobe Acrobat 9 Pro, Adobe Bridge CS4, Adobe Device Central CS4, Adobe Fireworks CS4, Adobe Flash CS4 Professional, Adobe Illustrator CS4, Adobe Photoshop CS4 Extended, Adobe Version Cue CS4, Adobe Dreamweaver CS4, Adobe InDesign CS4",
+        "Package Type": "Retail",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "License Type": "Complete package",
+        "Subcategory": "Creativity - desktop publishing, creativity - graphics & image editing, creativity - web design / publishing",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Microsoft Windows Vista Business - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows Vista Enterprise SP1 - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows Vista Home Premium - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows Vista Ultimate - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows XP SP2 - 2 GHz - RAM 1 GB - HD 9.3 GB",
+        "Language(s)": "Universal English",
+        "Peripheral / Interface Devices": "DVD-ROM, XGA monitor, Internet connection",
+        "License Qty": "1 user",
+        "Platform": "Windows",
+        "Distribution Media": "DVD-ROM"
+      },
+      "operatingsystem": "Windows Vista",
+      "name": "Adobe Creative Suite 4 Design Premium [Mac] [OLD VERSION] [Mac Disc]",
+      "brand": "Adobe",
+      "gtins": [
+        "00788831531701",
+        "00883919164328"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "platform": "Mac OS X",
+      "manufacturer": "Apple",
+      "category": "Word Processing",
+      "price": "126.99",
+      "operatingsystem": "Mac OS X",
+      "weight": "113398.09",
+      "brand": "Apple",
+      "upc": "885370222555",
+      "created_at": 1357722792,
+      "cat_id": "18383",
+      "ean": "0885370222555",
+      "sem3_id": "431Y762Xw00EoOEE0SsYW8",
+      "updated_at": 1461013134,
+      "sitedetails": [],
+      "name": "Office Mac Home & Student 2011 Key Card (1PC/1User)",
+      "features": {
+        "Release Date": "January 28, 2013",
+        "Media": "Software",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "gtins": [
+        "00885370222555"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "5669.90",
+      "mpn": "6UA-03222, Small Business Server 2011 CAL Suite",
+      "price": "1949.00",
+      "operatingsystem": "Windows 7",
+      "sitedetails": [],
+      "cat_id": "10539",
+      "sem3_id": "6RTXoyBSS02Ay26gc0Ykgy",
+      "category": "Software",
+      "brand": "Microsoft",
+      "ean": "0885370205145",
+      "updated_at": 1461032743,
+      "platform": "No Operating System",
+      "upc": "885370205145",
+      "created_at": 1379763325,
+      "features": {
+        "License Qty": "20 device CALs",
+        "License Type": "License",
+        "Language(s)": "Single Language",
+        "Operating System": "Microsoft Windows Small Business Server 2011 CAL Suite",
+        "License Pricing": "Volume",
+        "Licensing Program": "MOLP: Open Business"
+      },
+      "name": "Microsoft Windows Small Business Server 2011 CAL Suite - 20 device CALs - License",
+      "gtins": [
+        "00885370205145"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "System Requirements Details": "Microsoft Windows XP SP3 - Pentium III - 500 MHz - RAM 128 MB - HD 2 GB Microsoft Windows Vista SP1 - Pentium III - 800 MHz - RAM 1 GB - HD 2 GB",
+        "License Pricing": "Standard",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "License Qty": "1 user",
+        "Platform": "Windows",
+        "License Type": "Complete package",
+        "Peripheral / Interface Devices": "Sound card, mouse or compatible device, DVD-ROM, speakers, printer, SVGA monitor, Internet connection 56Kbps, keyboard, DirectX 9.0 compatible graphics card, 32 MB video memory",
+        "Software Requirements": "Internet Explorer 6.0 or later, Microsoft .NET Framework 1.1, Adobe Flash Player 9.0 or later, Adobe Shockwave Player 11.0 or later",
+        "Subcategory": "Creativity - graphics & image editing",
+        "Package Type": "Retail",
+        "OS Required": "Microsoft Windows Vista SP1, Microsoft Windows XP SP3"
+      },
+      "operatingsystem": "Windows Vista",
+      "name": "The Print Shop 23 Deluxe",
+      "brand": "Broderbund",
+      "category": "Document Management",
+      "color": "Stainless Steel",
+      "cat_id": "19652",
+      "mpn": "16410",
+      "upc": "705381164104",
+      "manufacturer": "Encore Software",
+      "ean": "0705381164142",
+      "sitedetails": [],
+      "updated_at": 1461315878,
+      "created_at": 1348672677,
+      "model": "8021930",
+      "sem3_id": "5ETNxqd2aeSC64W4imGU4W",
+      "platform": [
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "weight": "113398.09",
+      "gtins": [
+        "00705381164104",
+        "00705381164142"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "442weiOHeaeQOsymg8QmYY",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Media": "CD-ROM",
+        "Release Date": "April 8, 2014"
+      },
+      "category": "Word Processing",
+      "sitedetails": [],
+      "variation_id": "3J4KsBTxRIOK2WioUWQGA0",
+      "cat_id": "18383",
+      "operatingsystem": "Windows 8",
+      "height": "190.50",
+      "brand": "Corel",
+      "model": "WPOX7STDENMB",
+      "upc": "735163144086",
+      "created_at": 1432586332,
+      "name": "WordPerfect Office X7 Standard [Standard, PC Disc]",
+      "length": "133.35",
+      "mpn": "WPOX7STDENMB",
+      "weight": "104326.25",
+      "manufacturer": "Corel",
+      "width": "31.75",
+      "price": "143.58",
+      "ean": "0735163144086",
+      "updated_at": 1461197976,
+      "gtins": [
+        "00735163144086"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "798936824554",
+      "operatingsystem": "Windows",
+      "mpn": "3284",
+      "weight": "199580.64",
+      "sem3_id": "4VBsVAV7GKiAoGoEQKeMaG",
+      "updated_at": 1461169622,
+      "cat_id": "7547",
+      "price": "8.93",
+      "ean": "0798936824554",
+      "created_at": 1348698733,
+      "features": {
+        "Platform": "Windows",
+        "License Pricing": "Standard",
+        "Peripheral / Interface Devices": "CD-ROM",
+        "OS Required": "Microsoft Windows 95, Microsoft Windows 98, Microsoft Windows NT 4.0, Microsoft Windows 2000, Microsoft Windows Millennium Edition, Microsoft Windows XP",
+        "Subcategory": "Business - databases / database tools",
+        "License Qty": "1 user",
+        "Package Type": "Retail",
+        "License Type": "License and media",
+        "Distribution Media": "CD-ROM"
+      },
+      "manufacturer": "MySoftware Company",
+      "platform": "Windows",
+      "brand": "MySoftWare",
+      "sitedetails": [],
+      "name": "Mysoftware MYSOFT-DATABASE My Software - Database",
+      "category": "Office Suites",
+      "model": "3284",
+      "gtins": [
+        "00798936824554"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0883954013933",
+      "name": "Ruby (1-5/8 ct. t.w.) and Diamond (1/5 ct. t.w.) Ring in 14k Rose G",
+      "upc": "883954013933",
+      "updated_at": 1443348398,
+      "variation_id": "4fFamIxaTIcyc2iwSCAMKWM+",
+      "price": "1000.00",
+      "brand": "14k rings",
+      "sem3_id": "5tZErfZWUqi4qKgg6kskA0",
+      "cat_id": "8765",
+      "created_at": 1442931944,
+      "category": "Rings",
+      "sitedetails": [],
+      "features": {
+        "Web ID": "681589"
+      },
+      "color": "No",
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "features": {
+        "Diamond Cut": "Round and Square",
+        "Web ID": "1745998",
+        "Diamond Color Rating Code": "H-I",
+        "Diamond Clarity Rating Code": "I2"
+      },
+      "category": "Rings",
+      "sem3_id": "5rceJuTkIacWm0swC8kO4a",
+      "name": "Gento by EFFY Men's Diamond Two-Tone Ring in 14k White and Yellow Gold (1/3 ct. t.w.)",
+      "cat_id": "8765",
+      "price": "499.00",
+      "ean": "0807995076610",
+      "color": "Sterling Sivler",
+      "created_at": 1435678161,
+      "upc": "807995076610",
+      "updated_at": 1437172749,
+      "variation_id": "0Ix2HIgReZU0CmOoc8uQQuM+",
+      "gtins": [
+        "00807995076610"
+      ],
+      "variation_secondaryids": [
+        "44JSsI9semakISImMIwuIQM+",
+        "5hBDpHCC8WKWKyMsEqgmimM+",
+        "1dXYIQd7Vw0cGCSK2gYUOEM+",
+        "2XougxNj5cCUSgekWUqouuM+",
+        "57ST0ov5u44iMOGg8sUM6qM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Rings",
+      "brand": "14k",
+      "updated_at": 1435677310,
+      "name": "London Blue Topaz (2-3/4 ct. t.w.), Blue and White Diamond (1/3 ct. t.w.) Oval Ring in 14k White G",
+      "variation_id": "0RMg45RMcz2ys0M4UayekyM+",
+      "sitedetails": [],
+      "sem3_id": "4wnU4r0CiWCyY0qE4GqcO8",
+      "cat_id": "8765",
+      "ean": "0657274029987",
+      "color": "No ",
+      "upc": "657274029987",
+      "created_at": 1435677310,
+      "features": {
+        "Web ID": "875711"
+      },
+      "price": "755.10",
+      "size": "9",
+      "gtins": [
+        "00657274029987"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "137.50",
+      "category": "Rings",
+      "ean": "0831299013361",
+      "name": "Sterling Silver Ring, Tanzanite (1-5/8 ct. t.w.) and Diamond (1/6 ct. t.w.) 5-Stone Ring",
+      "variation_id": "4D1gXjsY0WACmIo0KIqaGCM+",
+      "sem3_id": "1dj2XlNlyWsW0Ue4ccGa06",
+      "created_at": 1444659943,
+      "upc": "831299013361",
+      "updated_at": 1444659943,
+      "features": {
+        "Web ID": "680586"
+      },
+      "sitedetails": [],
+      "cat_id": "8765",
+      "brand": "class rings",
+      "color": "No",
+      "gtins": [
+        "00831299013361"
+      ],
+      "variation_secondaryids": [
+        "6IQpKcEXc8UaaoiuSQwCckM+",
+        "35WP5tEoSWaM88aQ6kOS8EM+",
+        "1QZ2F3lznYKKaCo6AsYKyoM+",
+        "4bin8IWdDcKA4IgYOEKIomM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Rings",
+      "features": {
+        "Diamond Color Rating Code": "I-J",
+        "Diamond Clarity Rating Code": "I2-I3",
+        "Web ID": "706362"
+      },
+      "sitedetails": [],
+      "ean": "0850158006252",
+      "cat_id": "8765",
+      "upc": "850158006252",
+      "sem3_id": "3UtLFsHwICG4OAeqwGOkeS",
+      "color": "Blush",
+      "updated_at": 1444659765,
+      "price": "225.00",
+      "brand": "band",
+      "created_at": 1444659765,
+      "variation_id": "7D2p14FRXyiWK4qCg2qEoGM+",
+      "name": "Sterling Silver Ring, White Diamond Stackable Ring (1/2 ct. t.w.)",
+      "gtins": [
+        "00850158006252"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8765",
+      "upc": "831299027757",
+      "variation_id": "43JOH9wOsagYuWgKQIMq2mM+",
+      "brand": "14k rings",
+      "color": "Sterling Silver",
+      "price": "540.00",
+      "name": "Sapphire (1 ct. t.w.) and Diamond (1/5 ct. t.w.) Ring in 14k White G",
+      "ean": "0831299027757",
+      "created_at": 1447311399,
+      "updated_at": 1447656035,
+      "sem3_id": "4F9zQzPGLY0EAUKgUA8U4s",
+      "category": "Rings",
+      "features": {
+        "Web ID": "525466"
+      },
+      "sitedetails": [],
+      "gtins": [
+        "00831299027757"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "features": {
+        "Diamond Cut": "Round",
+        "Web ID": "613006",
+        "Diamond Color Rating Code": "H-I",
+        "Diamond Clarity Rating Code": "I1-I2"
+      },
+      "brand": "14k rings",
+      "price": "3960.00",
+      "sem3_id": "0fCLXXewyfIIUWSEokE0Wi",
+      "category": "Rings",
+      "ean": "0831299013361",
+      "color": "No",
+      "variation_id": "54y61USQsCEIUOukY0mSG2M+",
+      "cat_id": "8765",
+      "upc": "831299013361",
+      "created_at": 1444659989,
+      "name": "Rosa by EFFY Ruby (3-3/4 ct. t.w.) and Diamond (1-3/4 ct. t.w.) Oval Ring in 14k Rose G",
+      "updated_at": 1450682012,
+      "gtins": [
+        "00831299013361"
+      ],
+      "variation_secondaryids": [
+        "0cXA5741ovI2qQIu686IUiM+",
+        "3cmNqPr9ZQyEAGksmoA08CM+",
+        "6brevuYY2CEGU62Ic8giGgM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "831299013361",
+      "brand": "14k rings",
+      "cat_id": "8765",
+      "updated_at": 1450731754,
+      "price": "1547.00",
+      "features": {
+        "Web ID": "597299"
+      },
+      "name": "Le Vian Chocolate and White Diamond Ring in 14k White Gold (3/4 ct. t.w.)",
+      "variation_id": "5RHFidpHiigoKmik4AywkSM+",
+      "ean": "0831299013361",
+      "color": "No",
+      "created_at": 1444659848,
+      "sitedetails": [],
+      "category": "Rings",
+      "sem3_id": "0mThDkzhBkuCMaw8Aakkq6",
+      "gtins": [
+        "00831299013361"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "6nSAKRAeMi8YwUqAkUiSaO",
+      "features": {
+        "Web ID": "597299"
+      },
+      "ean": "0850158006252",
+      "upc": "850158006252",
+      "name": "Le Vian Chocolate and White Diamond Ring in 14k White Gold (3/4 ct. t.w.)",
+      "brand": "14k rings",
+      "cat_id": "8765",
+      "sitedetails": [],
+      "color": "Blush",
+      "created_at": 1444659848,
+      "price": "1365.00",
+      "category": "Rings",
+      "variation_id": "5RHFidpHiigoKmik4AywkSM+",
+      "updated_at": 1444659848,
+      "gtins": [
+        "00850158006252"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Rings",
+      "created_at": 1444660023,
+      "price": "450.00",
+      "sem3_id": "5WuCIiefEOq4GygYCSsoQc",
+      "ean": "0850158006252",
+      "name": "Sapphire (1 ct. t.w.) and Diamond (1/5 ct. t.w.) Ring in 14k White G",
+      "color": "Blush",
+      "updated_at": 1444660023,
+      "cat_id": "8765",
+      "brand": "14k rings",
+      "upc": "850158006252",
+      "variation_id": "43JOH9wOsagYuWgKQIMq2mM+",
+      "features": {
+        "Web ID": "693435"
+      },
+      "sitedetails": [],
+      "gtins": [
+        "00850158006252"
+      ],
+      "variation_secondaryids": [
+        "27CW3uO4Z6UyOqQW4eI2SwM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

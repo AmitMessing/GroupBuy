@@ -1,0 +1,357 @@
+{
+  "total_results_count": 60504,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "created_at": 1364133858,
+      "manufacturer": "San Francisco Bay",
+      "height": "152.40",
+      "brand": "San Francisco Bay",
+      "length": "203.20",
+      "price": "15.88",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Country of Origin": "USA"
+      },
+      "ean": "0077324470291",
+      "width": "101.60",
+      "category": "Coffee",
+      "sitedetails": [],
+      "cat_id": "13454",
+      "updated_at": 1461141752,
+      "mpn": "47029",
+      "name": "San Francisco Bay Coffee Pumpkin Spice - 12 Count Cups One Cup",
+      "weight": "453592.37",
+      "sem3_id": "4Ed4d8rpm4Eg0ygkUUq2UA",
+      "upc": "077324470291",
+      "gtins": [
+        "00077324470291"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Grove Square Hot Cocoa",
+      "mpn": "34826664652?",
+      "upc": "070893028818",
+      "size": "24 Count",
+      "model": "34826664652",
+      "price": "11.99",
+      "category": "Coffee",
+      "sitedetails": [],
+      "name": "Grove Square Hot Cocoa, Dark Chocolate, 24 Single Serve Cups []",
+      "cat_id": "13454",
+      "created_at": 1348670776,
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "variation_id": "5xr3aeqGYKYi2oMMSQwUAs",
+      "ean": "0639713543292",
+      "manufacturer": "Sturm Foods, Inc.",
+      "weight": "453592.37",
+      "sem3_id": "6hCvvuUGUi6KssMcmSQ8Ag",
+      "updated_at": 1461517535,
+      "gtins": [
+        "00070893028818",
+        "00639713543292"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "53ozNfNO4uC8AyskmI8S8Q",
+      "sem3_id": "7ZpCSclx2WMyE4M2m4IEca",
+      "model": "4057",
+      "size": "24 Count",
+      "width": "107.95",
+      "weight": "4445.21",
+      "price": "14.99",
+      "length": "196.85",
+      "brand": "Green Mountain Coffee",
+      "sitedetails": [
+        {
+          "name": "reliable.com",
+          "latestoffers": [
+            {
+              "id": "4131NAPAbg0a64sMKeUgio",
+              "lastrecorded_at": 1434625900,
+              "currency": "USD",
+              "price": "14.99",
+              "availability": "Available,",
+              "firstrecorded_at": 1426734700,
+              "seller": "Reliable",
+              "isactive": 1
+            },
+            {
+              "price": "13.99",
+              "lastrecorded_at": 1425214500,
+              "currency": "USD",
+              "id": "6bjLK7GTeSc42KquUm2EmO",
+              "availability": "Available,",
+              "seller": "Reliable",
+              "firstrecorded_at": 1407166800,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "sku": "relprd3580086_GM40579",
+          "url": "http://www.reliable.com/brands/product-relprd3580086"
+        }
+      ],
+      "created_at": 1348687485,
+      "upc": "099555040579",
+      "updated_at": 1462524115,
+      "mpn": "B001EO6BEU",
+      "name": "Green Mountain Coffee Kenyan AA, K-Cup Portion Pack for Keurig Brewers 24-Count (Packaging May Vary)",
+      "category": "Coffee",
+      "height": "157.48",
+      "manufacturer": "Green Mountain Coffee",
+      "ean": "0099555040579",
+      "cat_id": "13454",
+      "features": {
+        "Product Dimensions": "6.5 x 4.5 x 4.5 inches ; 7.8 ounces"
+      },
+      "gtins": [
+        "00099555040579"
+      ],
+      "variation_secondaryids": [
+        "5BYO73odPU8YquuCy6QIKK8A"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "13454",
+      "weight": "2041165.67",
+      "created_at": 1379804115,
+      "mpn": "br",
+      "upc": "744539015998",
+      "brand": "Illy",
+      "name": "Illy Roasted Whole Coffee beans. Box of Six 8.8oz Coffee Cans",
+      "category": "Coffee",
+      "ean": "0744539015998",
+      "price": "74.95",
+      "sitedetails": [],
+      "updated_at": 1461145702,
+      "features": {
+        "Item Weight": "4.5 pounds"
+      },
+      "sem3_id": "3OynAS01dg6Q0GEey2u0ay",
+      "gtins": [
+        "00744539015998"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "13454",
+      "upc": "859940002779",
+      "name": "Marley Coffee 162768 One Love Ethiopia Yirgacheffe Whole Bean Coffee B",
+      "created_at": 1380232216,
+      "sem3_id": "58G7ITMpHswio00sKUkec2",
+      "weight": "226796.18",
+      "updated_at": 1461199078,
+      "mpn": "162768, 435-500-88W, 435-500-88WX2",
+      "price": "8.98",
+      "ean": "0859940002779",
+      "category": "Coffee",
+      "sitedetails": [],
+      "features": {
+        "Product Dimensions": "1 x 1 x 1 inches ; 8 ounces"
+      },
+      "gtins": [
+        "00859940002779"
+      ],
+      "variation_secondaryids": [
+        "1YH1lG3yJAqu44wikgGGae"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "521631.23",
+      "sem3_id": "6UYTXJfvWqEmiYMAIEq8mg",
+      "upc": "089836028723",
+      "features": {
+        "Country of Origin": "USA",
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "brand": "Frontier",
+      "category": "Chai Tea",
+      "price": "23.04",
+      "updated_at": 1462016494,
+      "created_at": 1375188237,
+      "cat_id": "14011",
+      "manufacturer": "Frontier Natural Products",
+      "name": "Frontier Chai Tea Certified Organic, Fair Trade Certified, 16 Ounce Bag []",
+      "ean": "0089836028723",
+      "sitedetails": [],
+      "gtins": [
+        "00089836028723"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "299.97",
+      "height": "199.90",
+      "name": "Nespresso Variety Pack for OriginalLine, 50 Capsules, 1.76 oz []",
+      "manufacturer": "CAJ International",
+      "weight": "680388.55",
+      "ean": "7640140337593",
+      "sitedetails": [],
+      "category": "Coffee",
+      "upc": "111115511319",
+      "features": {
+        "Country of Origin": "Switzerland",
+        "Product Dimensions": "11.8 x 7.9 x 1.6 inches ; 12.3 ounces"
+      },
+      "size": "50 Capsules",
+      "mpn": "TooFair-22GC6XZ",
+      "width": "39.88",
+      "brand": "Nespresso",
+      "cat_id": "13454",
+      "model": "3610-DI/2",
+      "created_at": 1348699028,
+      "updated_at": 1462163311,
+      "sem3_id": "74PnvXpIem4Smak2M0icAG",
+      "price": "42.45",
+      "gtins": [
+        "00111115511319",
+        "07640140337593"
+      ],
+      "variation_secondaryids": [
+        "0w5VVO8auMi0YmMM4yIGme"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "33.36",
+      "features": {
+        "Product Dimensions": "9.5 x 6 x 3.5 inches ; 2.3 pounds"
+      },
+      "manufacturer": "Lavazza",
+      "updated_at": 1458952733,
+      "model": "4320",
+      "name": "Lavazza Gold Selection - Whole Bean Coffee, 2.2-Pound Bag [Gold Selection]",
+      "mpn": "4320",
+      "sem3_id": "1v9boMTndcawwYoAOmC6AG",
+      "created_at": 1348706722,
+      "brand": "Lavazza",
+      "weight": "159664.51",
+      "gtins": [
+        "00800007002850",
+        "08000070043206",
+        "00887675226733"
+      ],
+      "upc": "800007002850",
+      "category": "Coffee",
+      "width": "152.40",
+      "size": "2.2 lb",
+      "length": "241.30",
+      "sitedetails": [],
+      "ean": "8000070043206",
+      "cat_id": "13454",
+      "height": "88.90",
+      "variation_secondaryids": [
+        "2KkwW6NdguIOAIQUsqwSeQ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460974108,
+      "sitedetails": [],
+      "ean": "0041953011088",
+      "category": "Ground",
+      "cat_id": "2205",
+      "created_at": 1375916318,
+      "sem3_id": "1Md0Eqf74O6E6oSYm0Goek",
+      "upc": "041953011088",
+      "weight": "340194.28",
+      "manufacturer": "Lavazza",
+      "features": {
+        "Unit Size": "8 oz",
+        "Directions": "Make your espresso by filter, drip or with any kind of espresso machine. You'll make excellent coffee every time. To use a filter or drip method, measure 1 tablespoon per 6 ounces (3/4 cup) of water. Adjust the amount of coffee to suit your taste. When using a three-part moka espresso maker, add water to the boiler portion which is the bottom unit of the moka coffee maker, add filter basket, fill with coffee and then follow the manufacturer's directions. With all methods, always use cold water and clean coffee maker. Never allow coffee to boil. To preserve the freshness of Lavazza Espresso Decaffeinated, always refrigerate after opening.",
+        "Units in Package": "1",
+        "Ingredients": "100% Arabica."
+      },
+      "name": "Lavazza Decaf Ground Coffee - Espresso - 8 oz []",
+      "brand": "Lavazza",
+      "size": "8 OZ",
+      "price": "9.24",
+      "model": "1108",
+      "mpn": "1108",
+      "gtins": [
+        "00041953011088"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "48.99",
+      "sitedetails": [],
+      "updated_at": 1462835609,
+      "variation_id": "3PwvVwkB7ouocgmsiI84gqK6",
+      "cat_id": "13454",
+      "name": "San Francisco Bay French Roast Decaf",
+      "weight": "2177243.38",
+      "created_at": 1389284488,
+      "model": "722005",
+      "category": "Coffee",
+      "sem3_id": "4hkmw152PACKQos6AQEgIg",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues."
+      },
+      "brand": "San Francisco Bay",
+      "variation_secondaryids": [
+        "650bBaQyju2Omm0iskAiMG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

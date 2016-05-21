@@ -17,6 +17,7 @@ namespace SeedProject.Models
         public virtual Image Image { get; set; }
         public virtual IList<Category> Categories { get; set; }
         public virtual IList<User> Buyers { get; set; }
+        public virtual IList<Discount> Discounts { get; set; }        
     }
 
     public class ProductMap : ClassMap<Product>
@@ -30,20 +31,16 @@ namespace SeedProject.Models
             Map(x => x.Description, "description");
             References(x => x.Seller).Column("seller_id");
             Map(x => x.PublishDate, "publish_date");
+            Map(x => x.BasicPrice, "basic_price");
             Map(x => x.EndDate, "end_date");
             Map(x => x.Image, "picture");
-            Map(x => x.BasicPrice, "basic_price");
 
             HasManyToMany(x => x.Categories)
                 .Table("rel_product_category")
                 .ParentKeyColumn("product_id")
                 .ChildKeyColumn("category_id");
 
-            HasManyToMany(x => x.Buyers)
-                .Table("rel_product_buyer")
-                .ParentKeyColumn("product_id")
-                .ChildKeyColumn("buyer_id");
-
+            HasMany(x => x.Discounts).KeyColumn("product_id").Inverse().Cascade.None();
         }
     }
 }

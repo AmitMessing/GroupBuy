@@ -1,0 +1,293 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 40,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "8765",
+      "ean": "0807995076610",
+      "brand": "10k rings",
+      "color": "Sterling Sivler",
+      "variation_id": "12ng1buL4Sm8wOsmuAukqUM+",
+      "name": "Diamond Three-Stone Ring in 10k Gold (1/5 ct. t.w.)",
+      "updated_at": 1437003187,
+      "sem3_id": "6oLBTyts5gyeIAYEGmUa4W",
+      "upc": "807995076610",
+      "price": "315.00",
+      "created_at": 1435678445,
+      "category": "Rings",
+      "features": {
+        "Diamond Clarity Rating Code": "I2-I3",
+        "Diamond Cut": "Full and Baguette",
+        "Web ID": "1195370",
+        "Diamond Color Rating Code": "I-J"
+      },
+      "sitedetails": [],
+      "gtins": [
+        "00807995076610"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1435677481,
+      "ean": "0807995076610",
+      "variation_id": "7eD69tADqakEQgisGmgQy8M+",
+      "price": "331.60",
+      "features": {
+        "Web ID": "475612"
+      },
+      "brand": "14k",
+      "color": "Sterling Sivler",
+      "updated_at": 1437020578,
+      "name": "14k Gold Ring, Open Link",
+      "sitedetails": [],
+      "category": "Rings",
+      "cat_id": "8765",
+      "sem3_id": "6a1WTbmcqGUyaqYaI0w2S8",
+      "upc": "807995076610",
+      "gtins": [
+        "00807995076610"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Sterling Sivler",
+      "price": "198.40",
+      "created_at": 1435678469,
+      "features": {
+        "Web ID": "1032338"
+      },
+      "updated_at": 1437007297,
+      "variation_id": "1fauJko9F2o846QKMqCOowM+",
+      "sem3_id": "1xh80Gwjj6S8gamcsw42oC",
+      "ean": "0807995076610",
+      "upc": "807995076610",
+      "category": "Rings",
+      "cat_id": "8765",
+      "brand": "citrine",
+      "name": "Sterling Silver Citrine (9-3/8 ct. t.w.) and White Topaz (1/2 ct. t.w.) Ring",
+      "sitedetails": [],
+      "gtins": [
+        "00807995076610"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Web ID": "1348600"
+      },
+      "upc": "883954013933",
+      "sem3_id": "5lfEuMGt4iEYkiCm4qYM8Y",
+      "brand": "14k rings",
+      "sitedetails": [],
+      "color": "No",
+      "ean": "0883954013933",
+      "variation_id": "0ziW4GB7SCmYWOaU6omQYOM+",
+      "price": "425.00",
+      "updated_at": 1442515764,
+      "created_at": 1441105955,
+      "name": "Bleu Rosé by EFFY Blue Topaz (12-1/6 ct. t.w.) and Brown Diamond (1/3 ct. t.w.) Orbit Ring in 14k Rose G",
+      "category": "Rings",
+      "cat_id": "8765",
+      "gtins": [
+        "00883954013933"
+      ],
+      "variation_secondaryids": [
+        "0yviunycdqQO2ueueoieI8M+",
+        "2YCtLEWWU4CuMowkI0SWsKM+",
+        "5qrLjquM52YUaIWQgCu2IGM+",
+        "4bEiefiU9YkWsgU8wyc2gwM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "900.00",
+      "variation_id": "3VG9JisfcOygMUMoc8M6SkM+",
+      "upc": "883954013933",
+      "color": "No",
+      "sitedetails": [],
+      "name": "14k Gold Ring, Mystic Topaz (11 ct. t.w.) and Diamond Accent",
+      "brand": "14k",
+      "created_at": 1441104718,
+      "sem3_id": "10YdaLIjZyIsisEUAG0IUK",
+      "category": "Rings",
+      "features": {
+        "Web ID": "538806"
+      },
+      "updated_at": 1442761032,
+      "cat_id": "8765",
+      "ean": "0883954013933",
+      "gtins": [
+        "00883954013933"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1444659987,
+      "name": "Balissima by EFFY Multistone Three Row Band in Sterling Silver and 18k G",
+      "category": "Rings",
+      "created_at": 1444659987,
+      "cat_id": "8765",
+      "ean": "0831299013361",
+      "upc": "831299013361",
+      "brand": "blue topaz",
+      "price": "129.99",
+      "variation_id": "1KsTOv9j1UiaqqEkIkmiCwM+",
+      "color": "No ",
+      "features": {
+        "Web ID": "539484"
+      },
+      "sem3_id": "0pVeO0JJrSAkA2smMsICmc",
+      "sitedetails": [],
+      "gtins": [
+        "00831299013361"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "8765",
+      "upc": "850158006276",
+      "created_at": 1444659987,
+      "features": {
+        "Web ID": "539484"
+      },
+      "variation_id": "1KsTOv9j1UiaqqEkIkmiCwM+",
+      "sitedetails": [],
+      "brand": "blue topaz",
+      "price": "129.99",
+      "sem3_id": "7KlcrWLRp2scKOmKwqIIcU",
+      "updated_at": 1444659987,
+      "color": "Black",
+      "ean": "0850158006276",
+      "name": "Balissima by EFFY Multistone Three Row Band in Sterling Silver and 18k G",
+      "category": "Rings",
+      "gtins": [
+        "00850158006276"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "variation_id": "3CRxGIbFkGA42seo6qCqwuM+",
+      "updated_at": 1448273517,
+      "cat_id": "8765",
+      "brand": "10k rings",
+      "created_at": 1448273517,
+      "category": "Rings",
+      "sitedetails": [],
+      "features": {
+        "Web ID": "1619111",
+        "Diamond Color Rating Code": "I-J",
+        "Diamond Cut": "Single",
+        "Diamond Clarity Rating Code": "I2-I3"
+      },
+      "price": "350.00",
+      "color": "Yellow Gold",
+      "ean": "0850679004263",
+      "sem3_id": "0Rwwv3rgSMSiw88ig8O0wi",
+      "upc": "850679004263",
+      "name": "wrapped Diamond V-Shaped Ring in 10k White Gold (1/6 ct. t.w.)",
+      "gtins": [
+        "00850679004263"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Ruby (9/10 ct. t.w.) and Diamond Accent Oval Ring in 14k G",
+      "category": "Rings",
+      "updated_at": 1448283893,
+      "color": "Yellow Gold",
+      "ean": "0850679004263",
+      "sitedetails": [],
+      "brand": "14k",
+      "created_at": 1448283893,
+      "sem3_id": "4Eh93WiiEqKyYCOWocekcC",
+      "variation_id": "7OQIufnG7MeQSGaoAmAyUsM+",
+      "features": {
+        "Web ID": "655182"
+      },
+      "price": "420.00",
+      "upc": "850679004263",
+      "cat_id": "8765",
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "0JIV49MWiVkIu0CI88IOM6M+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "850679004263",
+      "category": "Rings",
+      "color": "Yellow Gold",
+      "variation_id": "0k4Li9iXPY6s0gGKkQyGOwM+",
+      "sitedetails": [],
+      "created_at": 1447979280,
+      "brand": "black diamond rings",
+      "updated_at": 1447979280,
+      "name": "Sterling Silver Ring, Black Diamond Stackable Ring (1/2 ct. t.w.)",
+      "ean": "0850679004263",
+      "price": "300.00",
+      "cat_id": "8765",
+      "features": {
+        "Web ID": "706363"
+      },
+      "sem3_id": "6HOR5d2DZYKuGGkSg26W0E",
+      "gtins": [
+        "00850679004263"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

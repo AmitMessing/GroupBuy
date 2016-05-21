@@ -5,218 +5,30 @@
   "results_count": 10,
   "results": [
     {
-      "upc": "609408477720",
-      "weight": "2585476.51",
-      "ean": "0609408477720",
-      "cat_id": "12128",
-      "price": "46.95",
-      "category": "Electrical",
-      "sitedetails": [],
-      "sem3_id": "3sjbXcTeA4IkkocgKMu8Y0",
-      "model": "GTX7A-BS",
-      "height": "95.25",
-      "created_at": 1357720040,
-      "width": "87.12",
-      "updated_at": 1459015180,
-      "length": "150.88",
-      "mpn": "GTX7A-BS",
-      "features": {
-        "Vehicle Service Type": "All Vehicles",
-        "Item Weight": "5.7 pounds",
-        "Product Dimensions": "6.4 x 6.3 x 5.9 inches"
-      },
-      "brand": "Power Max",
-      "name": "GS GTX7A-BS Maintenance Free Battery",
-      "manufacturer": "Power Max",
-      "gtins": [
-        "00609408477720"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "category": "Controls",
-      "width": "165.10",
-      "sem3_id": "6RDl2JVa9QWWu40K6G4yQk",
-      "cat_id": "5342",
-      "model": "24894",
-      "color": "Black",
-      "sitedetails": [],
-      "height": "45.72",
-      "weight": "90718.47",
-      "features": {
-        "Product Dimensions": "9.3 x 6.5 x 1.8 inches",
-        "Item Weight": "3.2 ounces"
-      },
-      "brand": "Pro Taper",
-      "manufacturer": "Pro-Taper",
-      "length": "236.22",
-      "updated_at": 1459017450,
-      "name": "Pro-Taper Rockstar MX Grips Black",
-      "created_at": 1357804649,
-      "mpn": "024894",
-      "variation_secondaryids": [
-        "4ZAu38iwS0cyW6Q0mS64Am"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "weight": "272155.42",
-      "manufacturer": "ProTaper",
-      "sem3_id": "22aYdMvfrAwSY2GeIEWCwc",
-      "brand": "Protaper",
-      "created_at": 1374713850,
-      "height": "63.50",
-      "mpn": "02-4884",
-      "name": "ProTaper Pillow Top Lite Grip - MX Black/Gray/Red , Color: Black 02-4884",
-      "ean": "0887337106083",
-      "width": "160.02",
-      "model": "Pro Taper Pillow Top Lite Grip   Twist Throttle",
-      "sitedetails": [],
-      "features": {
-        "Item Weight": "4.8 ounces",
-        "Product Dimensions": "9.3 x 6.3 x 2.5 inches"
-      },
-      "length": "236.22",
-      "cat_id": "5342",
-      "variation_id": "1tUXg9V9zMmsgUQ2ciwyQi",
-      "category": "Controls",
-      "upc": "887337106083",
-      "updated_at": 1459017276,
-      "color": "Black/Grey/Red",
-      "gtins": [
-        "00887337106083"
-      ],
-      "variation_secondaryids": [
-        "3etT4Tw6eO2Sqmu8CM8ocm"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "category": "Body Parts",
-      "cat_id": "8654",
-      "brand": "Saddlemen",
-      "created_at": 1374920536,
-      "sem3_id": "4MWQTjJX9kkKUQS4a0wsQg",
-      "updated_at": 1458996158,
-      "features": {
-        "Item Weight": "12.9 pounds",
-        "Product Dimensions": "32 x 11 x 15 inches"
-      },
-      "sitedetails": [],
-      "price": "437.00",
-      "weight": "5733407.56",
-      "name": "Saddlemen Adventure Track Seat - Standard 0810-S031",
-      "manufacturer": "Saddlemen",
-      "mpn": "0810-S031",
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "color": "Orange",
-      "created_at": 1374713909,
-      "name": "Cycra Full Coverage Skid Plate with Hard Mounts - Orange 6202-22 [Orange, One Size]",
-      "sitedetails": [],
-      "manufacturer": "Cycra",
-      "features": {
-        "Item Weight": "2 pounds",
-        "Product Dimensions": "16.5 x 11 x 6.5 inches",
-        "Cycra 1CYC-6202-22 Orange Full Coverage Skid Plate for Honda / KTM $80.96Prime Cycra Full Coverage Skid Plate with Hard Mounts for Honda 2009-14 CRF450R/X - One Size $87.39 Acerbis Skid Plate - Black , Color": "Black 2160230001 5.0 out of 5 stars (1) $61.57",
-        "Acerbis Skid Plate - Orange , Color": "Orange 2160230237 $61.90"
-      },
-      "price": "68.68",
-      "sem3_id": "5cLlcQYx4i2ayYAiOwEeQk",
-      "brand": "Cycra",
-      "cat_id": "8654",
-      "category": "Body Parts",
-      "mpn": "6202-22",
-      "length": "419.10",
       "weight": "453592.37",
-      "width": "279.40",
-      "updated_at": 1459049952,
-      "height": "165.10",
-      "variation_secondaryids": [
-        "2z8V2IrOESiCEak4g24sE4"
-      ],
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "model": "K99995 869",
-      "sem3_id": "5Ez7lEzlFAwU2CyoA4qmqK",
-      "updated_at": 1459051609,
-      "mpn": "K99995-869",
-      "price": "126.93",
-      "cat_id": "2015",
+      "cat_id": "6859",
+      "name": "River Road Handlebar/windshield Bag Classic Black One Size",
+      "width": "114.30",
+      "category": "Bags",
+      "color": "Black",
+      "mpn": "108933",
       "sitedetails": [],
-      "category": "Vehicle Covers",
-      "name": "Kawasaki K99995-869 Premium Cover",
-      "brand": "Kawasaki",
-      "manufacturer": "Kawasaki",
+      "updated_at": 1459075087,
+      "upc": "887337040905",
+      "price": "15.53",
+      "length": "228.60",
+      "created_at": 1374831370,
+      "manufacturer": "River Road",
+      "height": "88.90",
+      "sem3_id": "19EyPPiR9SCSeO2Keo0okS",
+      "brand": "River Road",
       "features": {
-        "Product Dimensions": "15 x 11.8 x 5.8 inches",
-        "Vehicle Service Type": "street-sport-motorcycles",
-        "Item Weight": "4.2 pounds"
+        "Item Weight": "8 ounces",
+        "Product Dimensions": "9 x 3.5 x 3.5 inches"
       },
-      "created_at": 1347750070,
-      "geo": [
-        "usa"
-      ],
-      "price_currency": "USD",
-      "images_total": 0,
-      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
-    },
-    {
-      "sitedetails": [],
-      "sem3_id": "0pBFG9RXt4aiEAkscEoo8O",
-      "width": "241.30",
-      "manufacturer": "J&M",
-      "features": {
-        "Item Weight": "2.2 pounds",
-        "Safety Rating": "DOT Certified",
-        "CAPA Certified": "DOT Certified",
-        "Product Dimensions": "12.5 x 9.5 x 2.2 inches"
-      },
-      "length": "317.50",
-      "category": "Helmet Accessories",
-      "model": "HS 8154B OF",
-      "brand": "J M",
-      "upc": "642529119742",
-      "created_at": 1355861697,
-      "weight": "498951.61",
-      "ean": "0642529119742",
-      "name": "J&M HS-8154 Helmet Headset - Open Face HS-8154B-OF",
-      "mpn": "HS-8154B-OF",
-      "updated_at": 1459060415,
-      "height": "55.88",
-      "cat_id": "4742",
+      "ean": "0887337040905",
       "gtins": [
-        "00642529119742"
-      ],
-      "variation_secondaryids": [
-        "24koTDsobc6qCyUsIgcScC"
+        "00887337040905"
       ],
       "geo": [
         "usa"
@@ -226,28 +38,98 @@
       "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
     },
     {
-      "name": "Kuryakyn 7743 Super Deluxe Wolo Bad Boy Horn Kit",
-      "upc": "182682083868",
-      "price": "115.04",
+      "height": "38.10",
+      "created_at": 1347593045,
+      "updated_at": 1459096965,
+      "brand": "All Balls",
+      "features": {
+        "Product Dimensions": "5 x 4.8 x 1.5 inches",
+        "Item Weight": "9.6 ounces"
+      },
+      "width": "120.65",
+      "ean": "0785547980328",
+      "weight": "544310.84",
+      "upc": "785547980328",
+      "mpn": "25-1248",
+      "price": "18.87",
+      "sem3_id": "6bHs1VNGrIouAs8c4Ck0ME",
+      "length": "127.00",
+      "cat_id": "23411",
+      "manufacturer": "All Balls",
       "sitedetails": [],
-      "brand": "Kuryakyn",
-      "category": "Electrical",
-      "sem3_id": "2juXwegl5MoU88g46IK2KA",
-      "cat_id": "12128",
-      "mpn": "7743",
+      "category": "Drive Train",
+      "model": "25 1248",
+      "name": "All Balls Wheel Bearing and Seal Kit 25-1248",
+      "gtins": [
+        "00785547980328"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459085607,
+      "sem3_id": "2SkwuwvOwSy0AEk8Ky0SwM",
+      "price": "149.94",
+      "sitedetails": [],
+      "size": "XX-Large",
+      "weight": "1587573.29",
+      "model": "10050-SJ-24",
+      "manufacturer": "Fox",
+      "created_at": 1347630646,
+      "length": "711.20",
+      "ean": "0884065055621",
+      "name": "Fox Racing Titan Sport Protective MTB Jacket [White, XX-Large]",
+      "height": "101.60",
+      "mpn": "10050-008-2X",
+      "width": "381.00",
+      "cat_id": "6530",
+      "upc": "884065055621",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "color": "White",
+      "brand": "Fox",
+      "variation_id": "4u3SCJuOvAAQMKY4KmuM4A",
+      "category": "Jackets & Vests",
+      "gtins": [
+        "00884065055621"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "mpn": "6331",
+      "weight": "1070477.99",
+      "height": "50.80",
+      "sem3_id": "3ZLLPZJXcWWyC6KYGAUwg6",
+      "cat_id": "5342",
       "manufacturer": "Kuryakyn",
-      "weight": "3175146.59",
-      "created_at": 1374246823,
       "features": {
-        "Product Dimensions": "11.2 x 9.2 x 3.8 inches",
-        "Item Weight": "2.9 pounds",
-        "OEM Part Number": "7743"
+        "Kuryakyn 6320 ISO Gloss Black Grips 4.8 out of 5 stars (12) $67.00 Kuryakyn 6212 Premium ISO Grips with Throttle Boss 4.6 out of 5 stars (40) $66.14 Kuryakyn 6345 ISO Black Universal Grips 4.8 out of 5 stars (19) $63.17Prime Kuryakyn 6332 Black / Blue Braided Grips with Dual Cable Throttle Control $60.33Prime Arlen Ness Soft-Touch Smooth Grips - Black - Dimpled Rubber , Color": "Black 07-092 3.6 out of 5 stars (5) $52.63",
+        "Product Dimensions": "11.8 x 7.8 x 2 inches",
+        "Item Weight": "1.2 pounds"
       },
-      "model": "7743",
-      "updated_at": 1459101894,
-      "ean": "0182682083868",
-      "gtins": [
-        "00182682083868"
+      "price": "55.95",
+      "color": "Black",
+      "width": "198.12",
+      "updated_at": 1459097550,
+      "model": "6331",
+      "brand": "Kuryakyn",
+      "name": "Kuryakyn 6331 Black/Red Braided Grips with Dual Cable Throttle Control [Black/Red, --]",
+      "category": "Controls",
+      "created_at": 1357736411,
+      "length": "299.72",
+      "variation_secondaryids": [
+        "5ZpQ8HPjPs46MSC0suAwcM"
       ],
       "geo": [
         "usa"
@@ -257,31 +139,35 @@
       "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
     },
     {
-      "width": "182.88",
-      "category": "Ignition",
-      "mpn": "5043K",
-      "height": "228.60",
-      "model": "5043K",
-      "upc": "743047664087",
-      "updated_at": 1458976682,
-      "created_at": 1374239689,
+      "weight": "435448.68",
+      "cat_id": "6478",
+      "created_at": 1380026520,
+      "mpn": "FVM1CFKS13",
+      "color": "Black, Silver Static Frame/Clear Lens",
+      "width": "127.00",
       "features": {
-        "OEM Part Number": "BDDP5043K",
-        "Product Dimensions": "3.6 x 7.5 x 9.1 inches",
-        "Item Weight": "2.2 pounds"
+        "Product Dimensions": "8 x 4 x 3 inches",
+        "Discontinued by manufacturer": "Yes",
+        "ABPA Partslink Number": "13",
+        "Item Weight": "5.6 ounces"
       },
-      "sem3_id": "5PXV3Io3Ru0aE22akuy20a",
+      "ean": "0715757413361",
+      "category": "Eyewear",
       "sitedetails": [],
-      "name": "ACCEL 5043K 8mm Super Stock Black Spiral Spark Plug Wire",
-      "manufacturer": "ACCEL",
-      "brand": "Accel",
-      "ean": "0743047664087",
-      "price": "53.01",
-      "weight": "988831.37",
-      "cat_id": "7438",
-      "length": "152.40",
+      "height": "101.60",
+      "sem3_id": "1kNiyhupREaWQKeEUqG6gq",
+      "variation_id": "27iknRMLi0q4Mg4SCcOWCw",
+      "name": "Smith Fuel V1 Max Goggles 2013 Black/Silver Static",
+      "price": "29.95",
+      "updated_at": 1459080089,
+      "brand": "Smith",
+      "length": "203.20",
+      "upc": "715757413361",
       "gtins": [
-        "00743047664087"
+        "00715757413361"
+      ],
+      "variation_secondaryids": [
+        "25voPqPsfkKaew6wKKuEMS"
       ],
       "geo": [
         "usa"
@@ -291,26 +177,204 @@
       "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
     },
     {
-      "manufacturer": "Yuasa",
-      "name": "Yuasa 12V Standard Battery 12N7D-3B YUAM227DB",
-      "sem3_id": "76nuD8S8UCkgyqwyUIaGCw",
-      "price": "38.97",
-      "created_at": 1347682241,
-      "sitedetails": [],
-      "category": "Electrical",
-      "updated_at": 1459013969,
-      "upc": "785547997319",
+      "width": "279.40",
+      "variation_id": "3YpXMrhzY8YkccMOAo0o4K",
+      "cat_id": "12539",
+      "ean": "4512048322458",
+      "model": "Qwest Helmet",
+      "brand": "Shoei",
+      "size": "X-Large",
+      "sem3_id": "4GwvkTyaVUu8gIcw8OUWaW",
+      "color": "Matte Black",
+      "created_at": 1347779547,
+      "weight": "2494758.04",
+      "category": "Helmets",
       "features": {
-        "Item Weight": "8.7 pounds",
-        "OEM Part Number": "YUAM227DB"
+        "Safety Rating": "DOT Certified",
+        "Item Weight": "5.5 pounds",
+        "CAPA Certified": "DOT Certified",
+        "Product Dimensions": "12 x 12 x 16 inches"
       },
-      "brand": "Yuasa",
-      "cat_id": "12128",
-      "mpn": "YUAM227DB",
-      "ean": "0785547997319",
+      "name": "Shoei Qwest Matte Black Helmet X-Large",
+      "mpn": "0115-0135-07",
+      "height": "304.80",
+      "length": "406.40",
+      "sitedetails": [],
+      "manufacturer": "Shoei",
+      "updated_at": 1419243922,
+      "price": "349.19",
       "gtins": [
-        "00785547997319"
+        "04512048322458"
       ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Load Index Rating": "94",
+        "Aspect Ratio": "45",
+        "Product Dimensions": "25.4 x 25.4 x 9.3 inches",
+        "Warranty": "55,000 Miles",
+        "Load Index": "94",
+        "Sidewall": "Blackwall",
+        "Section Width": "235 millimeters",
+        "UTQG": "500-A-A",
+        "Rim Diameter": "17 inches",
+        "Construction": "Radial",
+        "Item Weight": "21.6 pounds",
+        "Speed Rating": "H"
+      },
+      "size": "235/45R17 94H",
+      "created_at": 1356305751,
+      "brand": "Michelin",
+      "manufacturer": "MICHELIN",
+      "mpn": "94018",
+      "model": "CPJ",
+      "price": "195.90",
+      "updated_at": 1460727210,
+      "sem3_id": "7XHZYU0HoGaMAMMCccGcOs",
+      "category": "Vehicles",
+      "sitedetails": [
+        {
+          "sku": "1741357",
+          "name": "samsclub.com",
+          "url": "http://www.samsclub.com/prod1741357.ip",
+          "recentoffers_count": 0,
+          "latestoffers": []
+        }
+      ],
+      "name": "Michelin Primacy MXM4 Touring Radial Tire - 235/45R17 94H",
+      "cat_id": "19033",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1356312387,
+      "manufacturer": "MICHELIN",
+      "mpn": "36995",
+      "brand": "Michelin",
+      "features": {
+        "Tread Depth (32nds)": "9.5",
+        "Material Number or MSPN": "36995",
+        "Treadwear": "500",
+        "Tire Size": "255/35R18/XL",
+        "Sidewall": "Black Sidewall",
+        "Rim Width (min. to max.)": "8.5-10",
+        "Overall Diameter": "25",
+        "Section Width": "10.24",
+        "RPM": "832",
+        "Max Load (lbs.)": "1477 lbs @ 50 psi",
+        "Temperature": "A",
+        "Service Description": "94H"
+      },
+      "sitedetails": [
+        {
+          "name": "samsclub.com",
+          "recentoffers_count": 0,
+          "url": "http://www.samsclub.com/prod1790022.ip",
+          "sku": "1790022",
+          "latestoffers": []
+        }
+      ],
+      "sem3_id": "46LcoCcIjwgS44MCyi4Wks",
+      "category": "Vehicles",
+      "cat_id": "19033",
+      "name": "Michelin Primacy MXM4 Touring Radial Tire - 255/35R18/XL 94H",
+      "model": "CPJ",
+      "price": "250.35",
+      "updated_at": 1460727258,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Michelin Pilot Sport PS2 Radial Tire - 205/50R17 89Z",
+      "updated_at": 1460727381,
+      "model": "Pilot Sport PS2",
+      "created_at": 1356309068,
+      "price": "198.12",
+      "features": {
+        "Section Width": "8.43",
+        "Tread Depth (32nds)": "8.5",
+        "Sidewall": "Black Side Wall",
+        "Rim Width (min. to max.)": "5.5-7.5",
+        "Max Load (lbs.)": "1276@51psi",
+        "Overall Diameter": "25.12",
+        "Service Description": "89(Y)",
+        "RPM": "828",
+        "Material Number or MSPN": "18655",
+        "Tire Size": "205/50ZR17",
+        "Treadwear": "220",
+        "Temperature": "A"
+      },
+      "manufacturer": "MICHELIN",
+      "category": "Vehicles",
+      "mpn": "18655",
+      "sem3_id": "1TzzACIqaGCA0CQYaQWqu8",
+      "brand": "Michelin",
+      "cat_id": "19033",
+      "sitedetails": [
+        {
+          "url": "http://www.samsclub.com/198719.ip",
+          "name": "samsclub.com",
+          "sku": "198719",
+          "recentoffers_count": 0,
+          "latestoffers": []
+        }
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "24905",
+      "cat_id": "19033",
+      "name": "Michelin Latitude Tour HP All-Season Radial Tire - 315/35ZR20 106W",
+      "price": "419.60",
+      "sem3_id": "626orcZgcSmgWO64QCwMKA",
+      "sitedetails": [
+        {
+          "url": "http://www.samsclub.com/106440.ip",
+          "name": "samsclub.com",
+          "sku": "106440",
+          "latestoffers": [],
+          "recentoffers_count": 0
+        }
+      ],
+      "category": "Vehicles",
+      "features": {
+        "Tire Size": "315/35ZR20",
+        "Temperature": "A",
+        "RPM": "721",
+        "Sidewall": "Black Sidewall",
+        "Max Load (lbs)": "1904 lbs @ 51 psi",
+        "Service Description": "106W",
+        "Material Number or MSPN": "24905",
+        "Overall Diameter": "28.6",
+        "Tread Depth (32nds)": "10",
+        "Rim Width (min. to max.)": "10.5-12.5",
+        "Section Width": "12.6",
+        "Treadwear": "440"
+      },
+      "brand": "Michelin",
+      "created_at": 1356303496,
+      "updated_at": 1460727484,
+      "manufacturer": "MICHELIN",
+      "model": "HP",
       "geo": [
         "usa"
       ],

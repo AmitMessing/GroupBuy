@@ -1,0 +1,1144 @@
+{
+  "total_results_count": 8854,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "created_at": 1348694023,
+      "updated_at": 1463576357,
+      "brand": "Microsoft",
+      "mpn": "228-09842",
+      "sem3_id": "1pMriuIjdQUug8CWEg2Qiq",
+      "platform": [
+        "Windows 7",
+        "Windows Vista"
+      ],
+      "name": "Microsoft SQL Server Standard Edition 2012",
+      "length": "30.23",
+      "sitedetails": [
+        {
+          "sku": "N82E16832416456",
+          "latestoffers": [
+            {
+              "seller": "Newegg",
+              "firstrecorded_at": 1351115931,
+              "price": "2969.00",
+              "currency": "USD",
+              "id": "5nfwdRWqlEG8eOmQYsGCgC",
+              "availability": "In stock. [BBX: Buy Box]",
+              "lastrecorded_at": 1382740500,
+              "isactive": 0
+            },
+            {
+              "seller": "newegg.com",
+              "firstrecorded_at": 1360583400,
+              "price": "2969.00",
+              "currency": "USD",
+              "id": "42IqA3111s6iS8e2okMEwY",
+              "availability": "Was: $3,189.00 [BBX: Buy Box]",
+              "lastrecorded_at": 1361606800,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832416456",
+          "name": "newegg.com"
+        },
+        {
+          "name": "jr.com",
+          "sku": "MSI_MSCD37911WI",
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/microsoft/pe/MSI_MSCD37911WI",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1395555300,
+              "id": "6UEJpvuDM8wsokQCuGMQSs",
+              "firstrecorded_at": 1395555300,
+              "seller": "JR",
+              "currency": "USD",
+              "price": "3298.99",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1394435600,
+              "seller": "JR",
+              "price": "3226.99",
+              "currency": "USD",
+              "id": "2g7BrMnx16IeM2YIgyaQma",
+              "lastrecorded_at": 1395236700,
+              "isactive": 0
+            },
+            {
+              "id": "2Fl9VBkt7kqG2cI2yEoskE",
+              "currency": "USD",
+              "price": "3150.99",
+              "seller": "JR",
+              "firstrecorded_at": 1388156600,
+              "lastrecorded_at": 1393148400,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "649202",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1398256500,
+              "currency": "USD",
+              "price": "3268.22",
+              "id": "4nFFhVL6auYU8uskg8a4EU",
+              "availability": "OUT OF STOCK",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1437336300,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1398070200,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "id": "0lOoDD1ono0kEYcMWYkc2G",
+              "price": "3246.77",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1398070200,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "3255.15",
+              "firstrecorded_at": 1397121800,
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "id": "2zKlJAa1EO6uSWm4q6iygS",
+              "lastrecorded_at": 1397494700,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=649202",
+          "recentoffers_count": 0,
+          "name": "datavis.com"
+        }
+      ],
+      "weight": "113398.09",
+      "model": "228 09842",
+      "ean": "0885370379112",
+      "manufacturer": "Microsoft Software",
+      "operatingsystem": "Windows 7",
+      "upc": "885370379112",
+      "width": "192.28",
+      "features": {
+        "License Quantity": "1 Server",
+        "Distribution Media/Method": "DVD-ROM",
+        "System Requirements": "Processor: 1.0 GHz AMD Opteron, AMD Athlon 64, Intel Xeon with Intel EM64T support, Intel Pentium IV with EM64T support (x64) 1.4 GHz Pentium III-compatible or faster (x86) 2.0 GHz or faster Recommended Operating System: Windows Server 2008 R2 Datacenter/Enterprise/Standard/Foundation/Web with Service Pack 1 (64-bit) Windows 7 Ultimate/Enterprise/Professional with Service Pack 1(32/64-bit) Wind ws Server 2008 Datacenter/Enterprise/Standard/Foundation/Web with Service Pack 2 (32/64-bit) Windows Vista Ultimate/Enterprise/Business with Service Pack 2 (32/64-bit) Hard Disk*: 6 GB of available space< li> Memory: 1 GB RAM 4 GB Recommended and should be increased as database size increases to ensure optimal performance Optical Drive: DVD-ROM Others: /p> Internet Explorer 7 or a later version is required for Microsoft Management Console (MMC), SQL Server Data Tools (SSDT), the Report Designer component of Reporting Services, and HTML Help Internet functionality requires Intern t access Super-VGA (800x600) or higher resolution monitor .NET 3.5 with Service Pack 1 is a requirement for SQL Server 2012 when you select Database Engine, Reporting Services, Replication, Master Data Services, Data Quality Servi es, or SQL Server Management Studio, and it is no longer installed by SQL Server Setup .NET 4.0, .NET Framework 4, SQL Server Native Client, SQL Server Setup support files Windows PowerShell 2.0 * Disk space require ents will vary with the SQL Server 2012 components you install",
+        "License Pricing": "Standard",
+        "Platform Supported": "PC",
+        "Software Sub Type": "DBMS",
+        "Language Supported": "English",
+        "License Type": "Complete Product",
+        "Package Type": "Retail",
+        "Operating System Supported": "Windows",
+        "Software Main Type": "Database",
+        "Product Type": "Software",
+        "Software Name": "SQL Server 2012 Standard Edition",
+        "Features": "Windows Server Core Support: Reduce OS patching by as much as 50-60% with new support for Windows Server Core User-Defined Server Roles: Easily manage permissions around data access to supprt separation of duties and enable compliance around strict data access policies Distributed Replay: Simplify application testing and help minimize errors with production-like application testing and configuration ch nges, and upgrades SQL Server Data Tools: Take database development to the next level with SQL Server Data Tools an integrated development experience for database and BI Run Non-Critical Application : Greater Uptime and Recovery Support for Better Compliance Improved Manageability Integrate Data and Enable Basic BI: More Easily Integrate Data Enable Reporti g and Analytics Develop Innovative Applications: Enable More Innovative Development Rich Support for Content Extend Any Data, Anywhere"
+      },
+      "price": "5899.99",
+      "cat_id": "1747",
+      "height": "138.18",
+      "category": "Development Utilities",
+      "gtins": [
+        "00885370379112"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "1747",
+      "category": "Development Utilities",
+      "ean": "0885370385090",
+      "upc": "885370385090",
+      "features": {
+        "Subcategory": "Development tools - RAD suites",
+        "Language(s)": "English",
+        "Peripheral / Interface Devices": "DirectX 9.0 compatible graphics card, 5400 RPM or faster hard drive, 1024 x 768 monitor resolution",
+        "License Pricing": "Standard",
+        "License Type": "Subscription (renewal)",
+        "OS Required": "Microsoft Windows Server 2008 R2 x64 Edition, Microsoft Windows 7 (32/64 bits), Microsoft Windows Server 2012, Windows 8 (32/64 bits)",
+        "Package Type": "Retail",
+        "System Requirements Details": "Microsoft Windows - 1.6 GHz - RAM 1 GB - HD 10 GB",
+        "Platform": "Windows",
+        "License Qty": "1 user"
+      },
+      "mpn": "79D-00277",
+      "sem3_id": "4bXeKnSfS4uYIWWKS2cGqw",
+      "width": "111.00",
+      "name": "Visual Studio Professional with MSDN 2012 Product Key Card",
+      "brand": "Microsoft",
+      "weight": "63502.93",
+      "created_at": 1357108018,
+      "price": "858.95",
+      "sitedetails": [
+        {
+          "name": "datavis.com",
+          "sku": "680879",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=680879",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "2oq7xwfpBAoUCUM4wiIAEg",
+              "lastrecorded_at": 1390232700,
+              "price": "860.14",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1388758200,
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "restockit_microsoft-visual-studio-professional-2012-with-msdn-subscription-renewal-num-mscd38509wi",
+          "url": "http://www.restockit.com/microsoft-visual-studio-professional-2012-with-msdn-subscription-renewal-num-mscd38509wi.html",
+          "name": "restockit.com",
+          "latestoffers": [
+            {
+              "condition": "New",
+              "id": "0FMXCIR5ksCAye6QOau8i4",
+              "price": "858.95",
+              "lastrecorded_at": 1463577400,
+              "seller": "ReStockIt",
+              "firstrecorded_at": 1460561800,
+              "currency": "USD",
+              "availability": "Not Available",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "platform": "Windows 7",
+      "length": "20.07",
+      "manufacturer": "Microsoft Software",
+      "operatingsystem": "Windows 7",
+      "updated_at": 1463577464,
+      "height": "147.07",
+      "model": "79D 00277",
+      "gtins": [
+        "00885370385090"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "1747",
+      "operatingsystem": "Windows",
+      "weight": "58967.01",
+      "updated_at": 1463696611,
+      "features": {
+        "Software Sub Type": "Programming Tool",
+        "Features": "Integrated Development Environment Development Platform Suppor Testing Tools",
+        "Platform": "Windows",
+        "Platform Supported": "PC",
+        "Language Supported": "English",
+        "Operating System Supported": "Windows",
+        "License Quantity": "1 User",
+        "License Type": "Upgrade Package",
+        "Genre": "Programming Tool",
+        "Software Main Type": "Development",
+        "Model Number NR": "C5E-00523",
+        "Number of Discs": "DVD-ROM",
+        "Software Name": "Visual Studio 2010 Professional Edition"
+      },
+      "category": "Development Utilities",
+      "ean": "0885370018455",
+      "sem3_id": "3WDSs71OLwi6GIIS6o282e",
+      "length": "203.20",
+      "width": "152.40",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1423465500,
+              "availability": "Out of Stock",
+              "id": "7SAUZ0baC0MsIYKqcUa8qS",
+              "currency": "USD",
+              "seller": "Walmart",
+              "firstrecorded_at": 1349392200,
+              "price": "447.64",
+              "isactive": 0
+            },
+            {
+              "seller": "TonZof.com",
+              "firstrecorded_at": 1397164300,
+              "price": "573.95",
+              "currency": "USD",
+              "lastrecorded_at": 1402348600,
+              "availability": "Out of Stock",
+              "id": "74QoxrUDyqcygcsMSECKAK",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "573.95",
+              "firstrecorded_at": 1397064000,
+              "seller": "Tonzof Inc.",
+              "availability": "Out of Stock",
+              "id": "3jBiBO4HTkkoYQK88ua6Gs",
+              "lastrecorded_at": 1397064000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "16386371",
+          "url": "http://www.walmart.com/ip/16386371"
+        },
+        {
+          "url": "http://www.frys.com/product/6234590",
+          "sku": "6234590",
+          "recentoffers_count": 0,
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "price": "449.99",
+              "seller": "Frys",
+              "firstrecorded_at": 1372165200,
+              "currency": "USD",
+              "id": "3hYPDgphGC48wIWm8UK20A",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1372594500,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832116866",
+          "sku": "N82E16832116866",
+          "recentoffers_count": 0,
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "474.00",
+              "seller": "Newegg",
+              "firstrecorded_at": 1351090604,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "id": "2f5v9YJq8eOKko6wqKQO6W",
+              "lastrecorded_at": 1382108500,
+              "isactive": 0
+            },
+            {
+              "price": "474.00",
+              "seller": "newegg.com",
+              "firstrecorded_at": 1360772200,
+              "currency": "USD",
+              "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]",
+              "id": "5PUWQpzSdcG6KgMgUSuooQ",
+              "lastrecorded_at": 1362349100,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "price": "805.24",
+      "brand": "Microsoft",
+      "created_at": 1348694023,
+      "mpn": "C5E-00523",
+      "name": "Visual Studio 2010 Professional Upgrade",
+      "platform": [
+        "Windows 2003 Server",
+        "Windows XP",
+        "Windows Vista",
+        "Windows 7"
+      ],
+      "manufacturer": "Microsoft Software",
+      "upc": "885370018455",
+      "model": "C5E 00523",
+      "height": "25.40",
+      "gtins": [
+        "00885370018455"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "146.05",
+      "ean": "0885370385120",
+      "height": "146.81",
+      "model": "C5E 00833",
+      "name": "Microsoft Visual Studio Pro 2012",
+      "platform": "Windows 7",
+      "cat_id": "1747",
+      "brand": "Microsoft",
+      "sem3_id": "3bCxeBeffcEOiqm2Sigi86",
+      "created_at": 1355832851,
+      "updated_at": 1463768052,
+      "upc": "885370385120",
+      "weight": "68038.86",
+      "mpn": "C5E-00833",
+      "length": "19.81",
+      "features": {
+        "Operating System Supported": "Windows",
+        "Software Main Type": "Development",
+        "Product Type": "Software",
+        "License Quantity": "1 User",
+        "License Type": "Complete Product",
+        "Features": "Debugging and Diagnostics:Code MetricsGraphics DebuggingAdvanced Web Debugging (Page Inspector)Static Code AnalysisDebuggerWindows 8 SimulatorProfilingWindows Phone EmultorTesting Tools:Extensible Testing FrameworkUnit TestingIntegrated Development Environment:RefactoringBusiness Application Development (LightSwitch)One-Click Web eploymentExtensible WPF-Based EnvironmentModel Resource ViewerMulti-TargetingBlendJavaScript and jQuery SupportProject & Solution Compatibility with Visual Studio 2010 SP1Multiple Monitor SupportDevelopment Platform Support:Windows Desktop DevelopmentWindows Store Application (including ARM) DevelopmentWeb DevelopmentWindows Phone DevelopmentOffice and SharePoint Developm ntCloud DevelopmentCustomizable Development ExperienceArchitecture and Modeling:Visualize Code with Dependency Graphs (By Assembly, By Namespace, and By Class)Code MapsTeam Founda ion Server:Agile Task boardsException Analytics (PreEmptive Analytics for TFS CE)SharePoint Integration (Team Project Portal) 4Reporting & BIProject & Project Server integration 5System Center Integration6Version ControlWork Item TrackingBuild AutomationCollaboration:Team ExplorerTeam Explorer Everywhere for TFS (3rd-Party Development Tools Support)Softw re and Services for Production Use:Visual Studio Updates",
+        "System Requirements": "Processor:1.6 GHz or fasterOperating System:Windows 7 with Service Pack 1 (x86/x64)Windows 8 (x86/x64)Windows Server 2008 R.2 with Service Pack 1 (x64)Windows Server 2012 (x4)Hard Disk:10 GB of available space600 MB of available space (language pack)5400 RPMMemory:1 GB of RAM (1.5 GB if running on a virtual machine)Others:< p>DirectX 9-capable video card running at 1024 x 768 or higher display resolution",
+        "License Pricing": "Standard",
+        "Distribution Media/Method": "DVD-ROM",
+        "Software Name": "Visual Studio 2012 Professional",
+        "Platform Supported": "PC",
+        "Language Supported": "English",
+        "Software Sub Type": "Development Tool",
+        "Package Type": "Retail"
+      },
+      "operatingsystem": "Windows 7",
+      "sitedetails": [
+        {
+          "sku": "7398654",
+          "url": "http://www.frys.com/product/7398654",
+          "name": "frys.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "currency": "USD",
+              "firstrecorded_at": 1431918300,
+              "availability": "Sold Out",
+              "id": "7h6z4vdNJI2iIIskoqe6w0",
+              "lastrecorded_at": 1447107500,
+              "price": "399.90",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1429854700,
+              "id": "3oadMoo9AW4E66Omgikyqs",
+              "price": "499.99",
+              "currency": "USD",
+              "seller": "Frys",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "firstrecorded_at": 1372167200,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "23497691",
+          "latestoffers": [
+            {
+              "price": "479.62",
+              "id": "46enTAzWCWyCOqq6IkosUs",
+              "lastrecorded_at": 1423870700,
+              "firstrecorded_at": 1386077800,
+              "availability": "Out of Stock",
+              "seller": "Walmart",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "469.07",
+              "lastrecorded_at": 1379857700,
+              "id": "4Gkv8mAb5ECSoiuo8AkQqW",
+              "availability": "In stock",
+              "firstrecorded_at": 1379857700,
+              "currency": "USD",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "currency": "USD",
+              "firstrecorded_at": 1378387000,
+              "availability": "In stock",
+              "id": "3Cr1Dtfmmmigi0W6ii0KeW",
+              "lastrecorded_at": 1378387000,
+              "price": "479.37",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/23497691"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "3PPd8cLC5QsuccYIsQ2eGE",
+              "lastrecorded_at": 1393148400,
+              "price": "539.99",
+              "seller": "JR",
+              "currency": "USD",
+              "firstrecorded_at": 1388156600,
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com",
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/microsoft/pe/MSI_MSCD38512WI",
+          "sku": "MSI_MSCD38512WI"
+        }
+      ],
+      "category": "Development Utilities",
+      "manufacturer": "Microsoft Software",
+      "gtins": [
+        "00885370385120"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "1747",
+      "sem3_id": "2YyyaCouzUccmsgMy0WcGA",
+      "width": "146.05",
+      "brand": "Microsoft",
+      "manufacturer": "Microsoft Software",
+      "mpn": "79D-00276",
+      "features": {
+        "Platform": "Windows",
+        "Service & Support": "New releases update",
+        "Language(s)": "English",
+        "License Pricing": "Standard",
+        "Distribution Media": "DVD-ROM",
+        "License Qty": "1 user",
+        "Package Type": "Retail",
+        "Peripheral / Interface Devices": "DirectX 9.0 compatible graphics card, 5400 RPM or faster hard drive, 1024 x 768 monitor resolution",
+        "License Type": "Complete package",
+        "System Requirements Details": "Microsoft Windows - 1.6 GHz - RAM 1 GB - HD 10 GB",
+        "Subcategory": "Development tools - RAD suites",
+        "OS Required": "Microsoft Windows Server 2008 R2 x64 Edition, Microsoft Windows 7 (32/64 bits), Microsoft Windows Server 2012, Windows 8 (32/64 bits)",
+        "Service & Support Details": "New releases update - full-term Web support - full-term - response time: 2 business days E-mail consulting - full-term - response time: 2 business days Web knowledge base access - full-term Phone consulting - full-term"
+      },
+      "price": "1622.49",
+      "operatingsystem": "Windows 7",
+      "length": "19.81",
+      "updated_at": 1463415165,
+      "category": "Development Utilities",
+      "height": "146.81",
+      "weight": "141747.62",
+      "model": "79D 00276",
+      "ean": "0885370385083",
+      "upc": "885370385083",
+      "created_at": 1355862778,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "price": "1290.75",
+              "id": "53GbjruyCWIIi2sWwOCEUK",
+              "firstrecorded_at": 1388757700,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1389391200,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=673198",
+          "sku": "673198",
+          "name": "datavis.com"
+        }
+      ],
+      "name": "Visual Studio Professional with MSDN 2012",
+      "platform": "Windows 7",
+      "gtins": [
+        "00885370385083"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/16386375",
+          "latestoffers": [
+            {
+              "price": "135.30",
+              "currency": "USD",
+              "firstrecorded_at": 1375256600,
+              "id": "1Fjxkqzazeik6iKMeKMu2A",
+              "availability": "Out of Stock",
+              "seller": "Walmart",
+              "lastrecorded_at": 1423248500,
+              "isactive": 0
+            },
+            {
+              "price": "174.97",
+              "currency": "USD",
+              "id": "3EEKyGGk1oII44wU2U6KMA",
+              "seller": "ToolKing.com",
+              "availability": "Out of Stock Online.",
+              "lastrecorded_at": 1375169500,
+              "firstrecorded_at": 1366591800,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1361416200,
+              "seller": "Walmart",
+              "id": "08fLRo8NvQe2egqwAaUUO6",
+              "firstrecorded_at": 1360661500,
+              "currency": "USD",
+              "price": "134.35",
+              "isactive": 0
+            }
+          ],
+          "sku": "16386375",
+          "name": "walmart.com"
+        },
+        {
+          "name": "frys.com",
+          "sku": "6491562",
+          "url": "http://www.frys.com/product/6491562",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1348654700,
+              "availability": "Shipping: In stock, ships same Business Day",
+              "seller": "Frys",
+              "id": "27j5VfsFxYECu84q6WmyOa",
+              "lastrecorded_at": 1364198100,
+              "price": "149.94",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "134.99",
+              "currency": "USD",
+              "lastrecorded_at": 1382992900,
+              "seller": "Newegg",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "id": "6CCNPPWRl20a6cCYGCOGsq",
+              "firstrecorded_at": 1350714852,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1360539100,
+              "id": "2tlbFOx2y0mMwmmAyeEKAE",
+              "seller": "newegg.com",
+              "availability": "Was: $149.99 [BBX: Buy Box]",
+              "lastrecorded_at": 1362343600,
+              "price": "134.99",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "N82E16832116919",
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832116919"
+        }
+      ],
+      "features": {
+        "Language(s)": "English",
+        "License Qty": "1 workstation",
+        "Package Type": "Retail",
+        "OS Required": "Microsoft Windows 7, Microsoft Windows Vista, Microsoft Windows Server 2008, Microsoft Windows XP SP3",
+        "System Requirements Details": "Microsoft Windows Vista / XP / 7 - 1 GHz - RAM 1 GB - HD 2 GB Microsoft Windows Server 2008 - 1 GHz - RAM 1 GB - HD 2 GB",
+        "Subcategory": "Creativity - video editing & production, creativity - web design / publishing",
+        "License Pricing": "Standard",
+        "Platform": "Windows",
+        "Software Requirements": "Internet Explorer 8.0, Firefox 3.0 or later, Microsoft .NET Framework 4.0, Microsoft Silverlight 4.0",
+        "Version": "4.0",
+        "Distribution Media": "DVD-ROM",
+        "Peripheral / Interface Devices": "DVD-ROM, DirectX 9.0 compatible graphics card, 128 MB video memory, 1024 x 768 monitor resolution",
+        "License Type": "Complete package"
+      },
+      "mpn": "NHF-00006",
+      "ean": "0885370126853",
+      "width": "25.40",
+      "upc": "885370126853",
+      "model": "NHF 00006",
+      "operatingsystem": "Windows",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "price": "183.85",
+      "length": "149.61",
+      "category": "Development Utilities",
+      "sem3_id": "2EUR8wynGiSkm6i8my4kE8",
+      "brand": "Microsoft",
+      "updated_at": 1463676233,
+      "cat_id": "1747",
+      "manufacturer": "Microsoft Software",
+      "created_at": 1348694021,
+      "weight": "1133.98",
+      "height": "200.41",
+      "name": "Expression Studio 4 Web Professional",
+      "gtins": [
+        "00885370126853"
+      ],
+      "variation_secondaryids": [
+        "4WJISApysqwE82Ke44Ycea"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "6aeaH7mJySwMIW6oCUWywS",
+      "mpn": "65185764",
+      "length": "146.05",
+      "width": "36.58",
+      "updated_at": 1463780861,
+      "weight": "117934.02",
+      "cat_id": "1747",
+      "name": "Adobe Captivate 6",
+      "upc": "883919243757",
+      "ean": "0883919243757",
+      "height": "196.85",
+      "category": "Development Utilities",
+      "brand": "Adobe",
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "operatingsystem": "Windows 7",
+      "created_at": 1348694023,
+      "features": {
+        "Package Type": "Retail",
+        "License Pricing": "Standard",
+        "Peripheral / Interface Devices": "DVD-ROM, Internet connection, 16-bit graphics card, 1024 x 768 monitor resolution",
+        "Subcategory": "Office applications - presentation",
+        "License Qty": "1 user",
+        "System Requirements Details": "Pentium 4 - 1 GHz - RAM 2 GB - HD 3 GB",
+        "Distribution Media": "DVD-ROM",
+        "License Type": "Complete package",
+        "OS Required": "Microsoft Windows XP SP3, Microsoft Windows 7 SP1",
+        "Platform": "Windows",
+        "Language(s)": "Universal English",
+        "Version": "6"
+      },
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "sku": "21310311",
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "price": "938.00",
+              "lastrecorded_at": 1412507400,
+              "id": "7Noic4i9MOQsGQuYyAQQyi",
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1349381900,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/21310311"
+        },
+        {
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832505191",
+          "latestoffers": [
+            {
+              "id": "10pPePtI2c4MqwSeyiWgqi",
+              "lastrecorded_at": 1382594000,
+              "seller": "Newegg",
+              "price": "838.99",
+              "firstrecorded_at": 1362707500,
+              "currency": "USD",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "isactive": 0
+            },
+            {
+              "availability": "Was: $899.00 [BBX: Buy Box]",
+              "currency": "USD",
+              "firstrecorded_at": 1360688500,
+              "price": "838.99",
+              "seller": "newegg.com",
+              "id": "5yfFQh2aki8m8G4IYo0eWM",
+              "lastrecorded_at": 1362346000,
+              "isactive": 0
+            },
+            {
+              "id": "1LCPuJ32cKEcMoCYIUKGgg",
+              "lastrecorded_at": 1351186025,
+              "price": "848.99",
+              "seller": "Newegg",
+              "currency": "USD",
+              "firstrecorded_at": 1351186025,
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "N82E16832505191",
+          "name": "newegg.com"
+        },
+        {
+          "url": "http://www.jr.com/adobe/pe/ADB_65185764",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1388158200,
+              "lastrecorded_at": 1396433900,
+              "id": "6NsiNXLNiagqM8WaeMs4m8",
+              "price": "699.00",
+              "seller": "JR",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "ADB_65185764",
+          "name": "jr.com"
+        }
+      ],
+      "price": "349.95",
+      "manufacturer": "Adobe",
+      "model": "65185764",
+      "gtins": [
+        "00883919243757"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1387841703,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "price": "342.99",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1398801200,
+              "firstrecorded_at": 1389924200,
+              "id": "44buQLXRcmqaGMGEiOIKgy",
+              "currency": "USD",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1388760200,
+              "lastrecorded_at": 1388760200,
+              "availability": "In Stock",
+              "currency": "USD",
+              "id": "4HL4SKkOv204w0mMcyoO2O",
+              "price": "341.10",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ],
+          "sku": "719761",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=719761",
+          "name": "datavis.com"
+        },
+        {
+          "name": "antonline.com",
+          "url": "http://www.antonline.com/p_FileMaker_1084203.htm",
+          "sku": "1084203",
+          "latestoffers": [
+            {
+              "id": "4Bb8gd7dTc4IAKeYo2622g",
+              "availability": "113 In Stock",
+              "currency": "USD",
+              "lastrecorded_at": 1398790500,
+              "firstrecorded_at": 1391196300,
+              "seller": "ANTOnline",
+              "price": "351.70",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "37Oa9tE5iqSysMCAi6w4Ko",
+              "currency": "USD",
+              "lastrecorded_at": 1396448700,
+              "firstrecorded_at": 1396448700,
+              "seller": "JR",
+              "price": "354.99",
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "price": "346.99",
+              "id": "0qgPRtqVpgU40EWyoWSy6Q",
+              "currency": "USD",
+              "lastrecorded_at": 1394713800,
+              "firstrecorded_at": 1393915900,
+              "isactive": 0
+            }
+          ],
+          "sku": "FMI_11253610",
+          "url": "http://www.jr.com/filemaker/pe/FMI_11253610",
+          "name": "jr.com"
+        }
+      ],
+      "brand": "Filemaker Inc.",
+      "height": "25.40",
+      "width": "133.35",
+      "weight": "99790.32",
+      "price": "249.99",
+      "operatingsystem": "Mac OS X",
+      "upc": "044866050007",
+      "model": "TH5869",
+      "length": "190.50",
+      "cat_id": "9168",
+      "category": "Database",
+      "sem3_id": "3Dj67S0n9ySeEEI4G8qqII",
+      "mpn": "HB788LL/A",
+      "ean": "0044866050007",
+      "name": "FileMaker Pro 13 - English [PC/Mac Disc]",
+      "updated_at": 1463764050,
+      "features": {
+        "Features": "Get Started Quickly: Use the Quick Start Screen, one of many Starter Solutions, or the Resource Center to help you easily create databases in minutes, even if you've never used a database before. Multi-Platform: Use FileMaker Pro to create databases for iPad, iPhone, Windows, Mac and the web. The same solution can also be shared with team members across these platforms. Easy Data Import: Bring your existing data into ileMaker Pro, including .CSV, Tab, XML, ODBC, and Microsoft Excel files. Reporting Tools: Create quick reports in a spreadsheet-like format or build custom reports with the Layout/Report Assistant. Even use FileMaker Char s to better visualize your data. Data Sharing: Share your database with up to five other FileMaker Pro users simultaneously through a network. Plus save your FileMaker data as a Microsoft Excel spreadsheet or AdobeÂ® A robat PDF and email it in a couple of clicks. Connect to External SQL Data Sources: Create live, 2-way connections with data in Microsoft SQL Server, Oracle and MySQL.",
+        "Package Type": "Retail",
+        "Software Main Type": "Database",
+        "Platform Supported": "PC",
+        "Software Sub Type": "DBMS",
+        "License Pricing": "Standard",
+        "Product Type": "Software",
+        "Operating System Supported": "Windows",
+        "License Quantity": "1 User",
+        "Compatibility": "Supported Services: Citrix XenApp 6.5 Windows Server 2012 Terminal Services Windows 2008 R2 Terminal Services",
+        "Software Name": "FileMaker Pro v.13.0",
+        "License Type": "Complete Product",
+        "System Requirements": "Processor: Intel Pentium 4 / AMD Athlon 64 or newer for PC Intel-based Mac (64-bit) Operating System: Windows 8.1, Pro Windows 8, Pro Windows 7 Ultimate, Professional, Hoe Premium Mac OS X Mavericks v.10.9 Mac OS X Mountain Lion v.10.8 Mac OS X Lion v.10.7 Memory: 1 GB RAM (2 GB Recommended) for PC 2 GB RAM (4 GB Recommended) for Mac N te: TCP/IP: limited to five simultaneous FileMaker client connections; each client requires a licensed copy of the software; see FileMaker Server 13 for increased capacity. FileMaker Pro 13 supports Internet Protocol Version 6 (IPv6) addresses, as well as IPv4 addresses Any computer accessing FileMaker Pro files over a network will need to have a licensed installation of versions 13 of FileMaker Pro or FileMaker Pro Advanced",
+        "Language Supported": "English"
+      },
+      "manufacturer": "Filemaker Inc.",
+      "gtins": [
+        "00044866050007"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Adobe Captivate 6 Mac",
+      "length": "146.05",
+      "sem3_id": "23uxs6prdkwscEeA8gkk6m",
+      "manufacturer": "Adobe",
+      "brand": "Adobe",
+      "features": {
+        "Software Name": "Captivate v.6.0",
+        "Software Main Type": "Productivity Application",
+        "Model Number NR": "65185765",
+        "License Quantity": "1 User",
+        "Genre": "CD/DVD Authoring",
+        "Features: Improved roundtrip with Microsoft PowerPoint": "Import your PowerPoint 2010 slides in eLearning projects. Bring in objects, animations and multimedia, easily update the content",
+        "Platform": "Mac",
+        "Software Sub Type": "e-learning Authoring",
+        "License Type": "Complete Product",
+        "License Pricing": "Standard",
+        "Platform Supported": "Intel-based Mac",
+        "Language Supported": "Universal English",
+        "Operating System Supported": "Mac OS"
+      },
+      "operatingsystem": "Mac OS X",
+      "platform": [
+        "Mac OS X Intel",
+        "Mac OS X"
+      ],
+      "height": "196.85",
+      "category": "Development Utilities",
+      "upc": "883919243764",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "firstrecorded_at": 1362673300,
+              "id": "1D3VS2Gv72k0eAGO6GOEiC",
+              "currency": "USD",
+              "seller": "Newegg",
+              "lastrecorded_at": 1382889400,
+              "price": "899.00",
+              "isactive": 0
+            },
+            {
+              "price": "848.99",
+              "lastrecorded_at": 1360631000,
+              "seller": "newegg.com",
+              "currency": "USD",
+              "id": "3KW6PbfvW4WyAGwmqacEu8",
+              "firstrecorded_at": 1360631000,
+              "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "5AkqjShBSqUwsa886YogWa",
+              "firstrecorded_at": 1350858642,
+              "price": "848.99",
+              "lastrecorded_at": 1360105300,
+              "seller": "Newegg",
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832505190",
+          "recentoffers_count": 0,
+          "sku": "N82E16832505190"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "659033",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=659033",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "availability": "OUT OF STOCK",
+              "firstrecorded_at": 1388757700,
+              "id": "6jGLXyCXhYOm4KaWMC2s6M",
+              "price": "1033.67",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1390781600,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "model": "65185765",
+      "cat_id": "1747",
+      "weight": "113398.09",
+      "ean": "0883919243764",
+      "mpn": "65185765",
+      "created_at": 1348694037,
+      "updated_at": 1463724506,
+      "price": "515.44",
+      "width": "36.58",
+      "gtins": [
+        "00883919243764"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Language(s)": "English",
+        "Version": "12",
+        "Localization": "United States",
+        "Package Type": "Retail",
+        "Peripheral / Interface Devices": "DVD-ROM, 1024 x 768 monitor resolution",
+        "System Requirements Details": "Microsoft Windows Vista / 7 / 8 - 1 GHz - RAM 1 GB Microsoft Windows XP - 700 MHz - RAM 256 MB Apple OS X 10.8 Mountain Lion - Core 2 Duo - RAM 2 GB Apple MacOS X 10.7 Lion - Intel x86-64 - RAM 2 GB Apple MacOS X 10.6 - Intel x86-64 - RAM 1 GB",
+        "Platform": "Windows, MacOS",
+        "License Type": "Complete package",
+        "Subcategory": "Business - databases / database tools",
+        "License Qty": "1 user",
+        "Distribution Media": "DVD-ROM",
+        "License Pricing": "Standard",
+        "OS Required": "Microsoft Windows 7 Professional, Microsoft Windows 7 Home Premium, Microsoft Windows 7 Ultimate, Microsoft Windows Vista Home Premium SP2, Microsoft Windows Vista Business SP2, Microsoft Windows Vista Ultimate SP2, Apple MacOS X 10.6, Microsoft Windows XP Professional SP3, Microsoft Windows XP Home Edition SP3, Apple MacOS X 10.7 Lion, Windows 8, Apple OS X 10.8 Mountain Lion, Windows 8 Pro"
+      },
+      "price": "329.95",
+      "sem3_id": "3nyiPFnaZya2amqMSyQ4uM",
+      "updated_at": 1463718510,
+      "platform": [
+        "Windows 7",
+        "Mac OS X",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "width": "133.35",
+      "weight": "99790.32",
+      "cat_id": "9168",
+      "name": "Filemaker Pro 12 Advanced",
+      "brand": "Filemaker Inc.",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "7Bjh789bVYiG4kAsGWACUw",
+              "lastrecorded_at": 1385851900,
+              "availability": "Available",
+              "price": "499.95",
+              "seller": "Apple Store",
+              "firstrecorded_at": 1380965600,
+              "isactive": 1
+            },
+            {
+              "price": "499.95",
+              "lastrecorded_at": 1378176700,
+              "id": "137z8Ws0EuMwoSo2CU8OY0",
+              "currency": "USD",
+              "firstrecorded_at": 1378176700,
+              "seller": "apple.com",
+              "isactive": 0
+            }
+          ],
+          "sku": "H6320LL/A",
+          "recentoffers_count": 1,
+          "url": "http://store.apple.com/us/go/product/H6320LL/A",
+          "name": "apple.com"
+        }
+      ],
+      "ean": "0044866048479",
+      "category": "Database",
+      "length": "190.50",
+      "mpn": "H6320LL/A",
+      "operatingsystem": "Mac OS X",
+      "model": "H6320LL/A",
+      "upc": "044866048479",
+      "height": "25.40",
+      "manufacturer": "Filemaker Inc.",
+      "created_at": 1348698725,
+      "gtins": [
+        "00044866048479"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

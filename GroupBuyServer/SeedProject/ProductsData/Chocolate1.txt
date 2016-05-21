@@ -1,0 +1,537 @@
+{
+  "total_results_count": 17111,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "M M's",
+      "ean": "0040000032373",
+      "category": "Chocolate Assortments",
+      "features": {
+        "Ingredients": "Milk Chocolate (Sugar, Chocolate, Cocoa Butter, Lactose, Milkfat, Soy Lecithin, Salt, Artificial Flavors), Sugar, Less than 2% - Cornstarch, Corn Syrup, Coloring (Includes Yellow 5 Lake, Red 40 Lake, Blue 1 Lake, Yellow 6 Lake, Blue 2 Lake, Yellow 5, Red 40, Blue 1, Yellow 6, Blue 2), Dextrin.",
+        "Calcium": "4 %",
+        "Unit Size": "1.08 oz tubes",
+        "Warnings": "M&M's Candies may contain peanuts.",
+        "Total Fat": "6 g (9 %)",
+        "Dietary Fiber": "1 g (4 %)",
+        "Iron": "2 %",
+        "Saturated Fat": "4 g (20 %)",
+        "Vitamin C": "0 %",
+        "Serving Size": "1 tube",
+        "Trans Fat": "0 g",
+        "Sodium": "25 mg (1 %)",
+        "Cholesterol": "5 mg (2 %)",
+        "Total Carbohydrate": "21 g (7 %)",
+        "Protein": "2 g",
+        "Sugars": "20 g",
+        "Units in Package": "24",
+        "Servings Per Container": "24",
+        "Vitamin A": "0 %"
+      },
+      "manufacturer": "M&Ms",
+      "weight": "117571.14",
+      "sitedetails": [],
+      "price": "21.71",
+      "size": "Singles (24 Count)",
+      "updated_at": 1460900962,
+      "created_at": 1348702476,
+      "upc": "040000032373",
+      "cat_id": "5378",
+      "sem3_id": "3aKfJcfRgegYUsACSSaQeQ",
+      "mpn": "03237",
+      "name": "M&M's Minis Milk Chocolate Candy Tube, Singles (24 Count)",
+      "gtins": [
+        "00040000032373"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "034000114245",
+      "height": "152.40",
+      "width": "50.80",
+      "created_at": 1348686389,
+      "updated_at": 1463628180,
+      "model": "Almond Joy Pieces",
+      "size": "10oz Pouch",
+      "price": "19.44",
+      "features": {
+        "Cholesterol": "-5mg",
+        "Calories": "200",
+        "Calories from Fat": "90",
+        "Total Fat": "10g",
+        "Serving Size": "46pieces",
+        "Sugars": "25g",
+        "Total Carbohydrate": "27g",
+        "Saturated Fat": "6g",
+        "Trans Fat": "0g",
+        "Dietary Fiber": "1g",
+        "Protein": "2g",
+        "ServingSize-InGrams": "40g",
+        "Servings Per Container": "7",
+        "Sodium": "10mg"
+      },
+      "manufacturer": "Almond Joy",
+      "name": "Almond Joy Pieces, 10-Ounce Pouches (Pack of 4)",
+      "weight": "1133980.93",
+      "cat_id": "2190",
+      "length": "304.80",
+      "brand": "Almond Joy",
+      "sem3_id": "5hIv6o2vrss4YyQm2G48m8",
+      "category": "Chocolate Covered Nuts",
+      "ean": "0034000114245",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/22101548",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1456845700,
+              "availability": "Not Available",
+              "firstrecorded_at": 1456845700,
+              "id": "74fNRInYbQWswCCGguIGmW",
+              "seller": "Walmart",
+              "currency": "USD",
+              "price": "2.62",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1442703800,
+              "id": "4NZlc4TF3Iycksi4g0koKA",
+              "firstrecorded_at": 1442703800,
+              "seller": "Walmart",
+              "price": "2.68",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "2.98",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1440841300,
+              "id": "6q41vqx0iG4cMgo6OqiaIm",
+              "firstrecorded_at": 1440841300,
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ],
+          "sku": "22101548",
+          "name": "walmart.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "shopfoodex.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "5.49",
+              "lastrecorded_at": 1460601800,
+              "availability": "In Stock",
+              "firstrecorded_at": 1403626800,
+              "id": "7CWWiX9WHgW80yMkKc2YMI",
+              "seller": "ShopFoodEx",
+              "isactive": 0
+            }
+          ],
+          "sku": "43259",
+          "url": "http://www.shopfoodex.com/almond-pieces-pouch-p-43259.html"
+        },
+        {
+          "name": "cvs.com",
+          "sku": "725196",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1404440900,
+              "id": "7VrEZZcIkq4IqQgk6y4I6E",
+              "lastrecorded_at": 1425530000,
+              "availability": "Available",
+              "seller": "CVS pharmacy",
+              "currency": "USD",
+              "price": "4.38",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.cvs.com/shop/product-detail/Almond-Joy-Pieces?skuId=725196"
+        }
+      ],
+      "gtins": [
+        "00034000114245"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1348683217,
+      "manufacturer": "Chocolove",
+      "features": {
+        "Vitamin A": "0 %",
+        "Trans Fat": "0 g",
+        "Warnings": "May contain traces of milk and nuts.",
+        "Total Carbohydrate": "15 g (5 %)",
+        "Vitamin C": "1 %",
+        "Dietary Fiber": "4 g (15 %)",
+        "Sugars": "8 g",
+        "Servings Per Container": "3",
+        "Iron": "10 %",
+        "Unit Size": "3.2 oz",
+        "Cholesterol": "0 mg (0 %)",
+        "Ingredients": "Cocoa Liquor, Sugar, Cocoa Butter, Soy Lecithin.",
+        "Units in Package": "1",
+        "Calcium": "2 %",
+        "Saturated Fat": "7 g (34 %)",
+        "Protein": "3 g",
+        "Total Fat": "12 g (18 %)",
+        "Serving Size": "0.333 bar",
+        "Sodium": "23 mg (1 %)"
+      },
+      "name": "Chocolove Premium Chocolate Bars, Belgian Chocolate, Strong Dark (70%), 3.2-Ounce Bars (Pack of 12)",
+      "category": "Chocolate Bars",
+      "price": "28.95",
+      "model": "270082",
+      "brand": "Chocolove",
+      "cat_id": "15051",
+      "sem3_id": "1zjeXwdJvEUSEsKkQw2YWg",
+      "sitedetails": [],
+      "ean": "0716270001707",
+      "weight": "1102229.46",
+      "upc": "716270001707",
+      "updated_at": 1455365596,
+      "gtins": [
+        "00716270001707"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "90 Ounce",
+      "cat_id": "15051",
+      "name": "Hershey's All Chocolate Pieces, 150 Pcs, 90 Ounce Bag [90 Ounce]",
+      "price": "26.35",
+      "category": "Chocolate Bars",
+      "weight": "2630835.75",
+      "sem3_id": "75UUgytQy84QCYIomOqyqG",
+      "sitedetails": [],
+      "updated_at": 1458968522,
+      "upc": "096619107971",
+      "features": {
+        "Domestic Shipping": "Currently, item can be shipped only within the U.S. and to APO/FPO addresses. For APO/FPO shipments, please check with the manufacturer regarding warranty and support issues.",
+        "Item Weight": "5.6 pounds"
+      },
+      "brand": "Unknown",
+      "ean": "0096619107971",
+      "created_at": 1348702435,
+      "gtins": [
+        "00096619107971"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.reliable.com/office-supplies/product-relprd3650012",
+          "latestoffers": [],
+          "recentoffers_count": 0,
+          "sku": "relprd3650012",
+          "name": "reliable.com"
+        }
+      ],
+      "weight": "1183876.09",
+      "upc": "040000324379",
+      "category": "Chocolate",
+      "sem3_id": "2e5glSI7qmgsw8G0QQQEYo",
+      "width": "181.10",
+      "created_at": 1387882134,
+      "updated_at": 1461293396,
+      "mpn": "SN32437",
+      "features": {
+        "Product Dimensions": "7.5 x 7.1 x 2 inches ; 2.6 pounds"
+      },
+      "manufacturer": "Advantus",
+      "size": "42 Ounce",
+      "length": "190.50",
+      "brand": "Advantus",
+      "cat_id": "6741",
+      "name": "M&M'S Peanut Chocolate Candy Party Size 42-Ounce Bag []",
+      "height": "50.80",
+      "price": "8.17",
+      "ean": "0040000324379",
+      "model": "AVTSN32437",
+      "gtins": [
+        "00040000324379"
+      ],
+      "variation_secondaryids": [
+        "5l3pXJSetU8iaIC06YmY62"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Equal Exchange",
+      "weight": "99223.33",
+      "sitedetails": [],
+      "brand": "Equal Exchange",
+      "name": "Equal Exchange Organic Very Dark Chocolate, 2.8-Ounce (Pack of 6)",
+      "updated_at": 1461831966,
+      "model": "18600",
+      "ean": "0745998903024",
+      "category": "Chocolate Bars",
+      "sem3_id": "5q4Vofofs8oWYe6AsgsKSE",
+      "cat_id": "15051",
+      "features": {
+        "Vitamin A": "0 %",
+        "Vitamin C": "0 %",
+        "Total Carbohydrate": "18 g (6 %)",
+        "Trans Fat": "0 g",
+        "Cholesterol": "0 mg (0 %)",
+        "Saturated Fat": "10 g (50 %)",
+        "Sugars": "11 g",
+        "Calcium": "2 %",
+        "Unit Size": "3.5 oz",
+        "Servings Per Container": "2.5",
+        "Warnings": "May contain traces of milk, peanuts, hazelnuts, almonds, cashews, pistachios & pecans.",
+        "Ingredients": "Organic Chocolate Liquor (Fair Trade Ingredient), Organic Raw Cane Sugar (Fair Trade Ingredient), Organic Cocoa Butter (Fair Trade Ingredient), Organic Unrefined Whole Cane Sugar (Fair Trade Ingredient), Organic Ground Vanilla Beans (Fair Trade Ingredient).",
+        "Sodium": "5 mg (0 %)",
+        "Total Fat": "17 g (26 %)",
+        "Units in Package": "1",
+        "Serving Size": "40 g",
+        "Protein": "3 g",
+        "Iron": "35 %",
+        "Dietary Fiber": "5 g (20 %)"
+      },
+      "upc": "745998903024",
+      "created_at": 1357701857,
+      "price": "29.47",
+      "gtins": [
+        "00745998903024"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "30.23",
+      "size": "Pack of 1 - 48CT Box",
+      "upc": "040000012023",
+      "manufacturer": "Snickers",
+      "ean": "0040000424314",
+      "cat_id": "15051",
+      "weight": "30163.89",
+      "category": "Chocolate Bars",
+      "mpn": "108229",
+      "brand": "Snickers",
+      "updated_at": 1461296052,
+      "name": "SNICKERS Singles Size Chocolate Candy Bars 1.86-Ounce Bar 48-Count Box []",
+      "sem3_id": "67sWrg8yQamcmi8i0QaiIE",
+      "features": {
+        "Origin": "USA",
+        "Product Dimensions": "6 x 4 x 4 inches ; 6.8 pounds"
+      },
+      "created_at": 1348702444,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "59rLJtJkGekWUysAiS2I2i",
+              "seller": "Office Max",
+              "price": "39.99",
+              "availability": "Available",
+              "firstrecorded_at": 1407042800,
+              "lastrecorded_at": 1407042800,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.officemax.com/office-supplies/breakroom-cleaning/candy-snacks/chocolate-candy/product-prod3560052",
+          "sku": "prod3560052",
+          "name": "officemax.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "length": "145.29",
+      "price": "39.97",
+      "gtins": [
+        "00040000012023",
+        "00040000424314"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "23.09",
+      "brand": "Candy Crate",
+      "manufacturer": "Tootsie",
+      "width": "157.48",
+      "category": "Chocolate Covered Fruit",
+      "name": "Cella's Milk Chocolate Covered Cherries, 72-Count Box",
+      "height": "91.44",
+      "sem3_id": "0RBl6BSgwxyI4AKwEEgSWw",
+      "created_at": 1348698780,
+      "updated_at": 1463726469,
+      "sitedetails": [],
+      "length": "218.44",
+      "weight": "907184.74",
+      "ean": "0011228372121",
+      "cat_id": "13460",
+      "upc": "011228372121",
+      "features": {
+        "Serving Size": "3 pieces",
+        "Iron": "2 %",
+        "Trans Fat": "0 g",
+        "Servings Per Container": "24",
+        "Total Size": "36 oz",
+        "Total Carbohydrate": "27 g (9 %)",
+        "Units in Package": "72",
+        "Warnings": "Real cherries may contain pits.",
+        "Vitamin C": "0 %",
+        "Ingredients": "Milk Chocolate (Sugar, Cocoa Butter, Milk, Chocolate, Soya Lecithin an Emulsifier, and Vanillin, an Artificial Flavoring), Cherries Treated with Sulfur Dioxide, a Preservative, Sugar, Corn Syrup, Citric Acid, Sodium Benzoate a Preservative, Artificial Flavor, Calcium Chloride and Artificial Color (FD&C Red 40).",
+        "Calcium": "4 %",
+        "Total Fat": "6 g (9 %)",
+        "Saturated Fat": "3.5 g (18 %)",
+        "Protein": "1 g",
+        "Sugars": "23 g",
+        "Sodium": "15 mg (1 %)",
+        "Dietary Fiber": "1 g (4 %)",
+        "Vitamin A": "0 %",
+        "Cholesterol": "0 mg (0 %)"
+      },
+      "gtins": [
+        "00011228372121"
+      ],
+      "variation_secondaryids": [
+        "228xI4cFguYQawqkC0SUso"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "1.5 Ounce (Pack of 24)",
+      "brand": "Reese's",
+      "length": "11.43",
+      "name": "Reese's Dark Chocolate Peanut Butter Cup Miniatures, 1.5 Ounce (Pack of 24)",
+      "manufacturer": "Reese's",
+      "upc": "034000480937",
+      "features": {
+        "Directions": "Important: Keep in a cool, dry place. This product should not be exposed to dampness, heat or placed near drugs, oils, tobacco, or anything from which the product could absorb odors. Store and display in a clean, sanitary, pest-free environment separated from goods which may harbor pests, such as pet food and bird seed. Do not sell any of our goods which do not satisfy these conditions. Please notify us with complete information of such circumstances.",
+        "Protein": "4 g",
+        "Sugars": "19 g",
+        "Vitamin C": "0 %",
+        "Serving Size": "1 package",
+        "Cholesterol": "<5 mg (1 %)",
+        "Vitamin A": "0 %",
+        "Total Carbohydrate": "23 g (8 %)",
+        "Total Fat": "14 g (22 %)",
+        "Iron": "6 %",
+        "Dietary Fiber": "2 g (8 %)",
+        "Trans Fat": "0 g",
+        "Calcium": "0 %",
+        "Ingredients": "Semi-Sweet Chocolate (Sugar; Chocolate; Cocoa Butter; Milk Fat; Soy Lecithin; Vanillin, Artificial Flavor; PGPR, Emulsifier; Milk); Peanuts; Sugar; Dextrose; Salt; TBHQ (Preservative).",
+        "Units in Package": "24",
+        "Saturated Fat": "6 g (30 %)",
+        "Unit Size": "42 g pkgs",
+        "Servings Per Container": "24",
+        "Sodium": "130 mg (5 %)"
+      },
+      "cat_id": "6741",
+      "updated_at": 1463561388,
+      "category": "Chocolate",
+      "sem3_id": "0VGBWtTuLCK0MICmQCc2cE",
+      "height": "53.34",
+      "created_at": 1357843607,
+      "width": "137.16",
+      "sitedetails": [
+        {
+          "latestoffers": [],
+          "name": "walgreens.com",
+          "recentoffers_count": 0,
+          "sku": "6007222",
+          "url": "http://www.walgreens.com/store/c/reese's-peanut-butter-cups/ID=prod6007222-product"
+        }
+      ],
+      "price": "29.90",
+      "weight": "163293.25",
+      "ean": "0034000480937",
+      "gtins": [
+        "00034000480937"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1461290776,
+      "cat_id": "5378",
+      "category": "Chocolate Assortments",
+      "name": "Universal Nutrition Milk and Egg Enriched Protein Blend for Muscle Growth, Chocolate, 48-Ounce Tub []",
+      "features": {
+        "Product Dimensions": "5.9 x 5.9 x 10.6 inches ; 4 pounds"
+      },
+      "sem3_id": "0lWJ9W5Y8Aoc6gS6eIme0o",
+      "size": "3 lbs",
+      "mpn": "U130",
+      "brand": "Universal",
+      "price": "35.61",
+      "variation_id": "19ACKSx6iYKW2CMgycOWmW",
+      "length": "150.11",
+      "manufacturer": "Universal",
+      "ean": "0039442010339",
+      "width": "150.11",
+      "model": "U130",
+      "upc": "039442010339",
+      "sitedetails": [],
+      "color": "3 lbs",
+      "weight": "1360777.11",
+      "created_at": 1347673764,
+      "height": "268.99",
+      "gtins": [
+        "00039442010339"
+      ],
+      "variation_secondaryids": [
+        "0DXBP6IV4aGGEmMWgoocSA"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

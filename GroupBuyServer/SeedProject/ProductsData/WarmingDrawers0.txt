@@ -1,0 +1,757 @@
+{
+  "total_results_count": 321,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "sitedetails": [
+        {
+          "name": "overstock.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1457048800,
+              "availability": "Available",
+              "id": "3lEA6fSIzA8A4YIC6A4KqK",
+              "seller": "Overstock",
+              "price": "129.94",
+              "firstrecorded_at": 1437880200,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.overstock.com/Home-Garden/Versonel-VSLAF130-Smart-Health-Oil-Free-Air-Fryer-with-Rapid-Air-Technology-Black/10155911/product.html",
+          "sku": "10155911_3419234"
+        },
+        {
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9814715",
+          "sku": "9814715",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect",
+              "firstrecorded_at": 1445898900,
+              "price": "129.99",
+              "currency": "USD",
+              "lastrecorded_at": 1448168000,
+              "id": "6V4w3OcRryQacCEaw6qQqy",
+              "availability": "ADD TO CART",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "tigerdirect.com"
+        }
+      ],
+      "price": "319.83",
+      "sem3_id": "2gzkji9CLYwk2GyIQkmS2c",
+      "ean": "0616641654597",
+      "features": {
+        "See-Through Lid": "No",
+        "Green Compliant": "Yes",
+        "Dishwasher-Safe Parts": "Yes",
+        "Maximum Temperature": "390 degrees fahrenheit",
+        "Deep Fryer Type": "Basket",
+        "Features": "Adjustable Thermostat, Auto Shutoff, Dishwasher Safe Component, Easy Clean, LCD Display, Removable Basket",
+        "Auto Shut-Off": "Yes",
+        "Green Compliance Certificate/Authority": "ENERGY STAR",
+        "Heat Thermometer": "No",
+        "Removable Basket": "Yes",
+        "Keep Warm Setting": "No",
+        "Voltage": "120 volts",
+        "Limited Warranty": "1 Year",
+        "Input Voltage": "120 V AC",
+        "Digital Display": "No",
+        "ENERGY STAR Certified": "Yes [Devices carrying the Energy Star service mark, such as computer products and peripherals, kitchen appliances, buildings and other products, generally use 20% to 30% less energy than required by federal standards. ]",
+        "Color Category": "Multi",
+        "Warranty Terms - Parts": "1 years",
+        "Cooking Method": "Electric",
+        "Control Type": "Digital",
+        "Maximum Timer Duration": "30 Minute",
+        "Integrated Timer": "Yes",
+        "Weight (Approximate)": "11 lb",
+        "Cool-Touch Exterior": "No",
+        "Non-Stick Interior": "No",
+        "Material": "Plastic",
+        "BPA-Free": "No",
+        "Programmable": "No"
+      },
+      "mpn": "VSLAF130",
+      "created_at": 1430273454,
+      "model": "VSLAF130",
+      "category": "Warming Drawers",
+      "width": "342.90",
+      "updated_at": 1463762863,
+      "brand": "Versonel",
+      "upc": "616641654597",
+      "cat_id": "12478",
+      "manufacturer": "Smart Surplus Inc.",
+      "length": "406.40",
+      "color": "Black",
+      "name": "Versonel VSLAF130 Smart Health Oil Free Air Fryer with Rapid Air Technology, Black",
+      "height": "355.60",
+      "weight": "4989516.07",
+      "gtins": [
+        "00616641654597"
+      ],
+      "variation_secondaryids": [
+        "4cGGGISyRECGK6aCkU8wWW"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "755.65",
+      "sitedetails": [],
+      "category": "Warming Drawers",
+      "updated_at": 1461017629,
+      "variation_id": "76GxKCsybQKU2uyAwA06SW",
+      "color": "Black",
+      "upc": "074000617599",
+      "weight": "28122726.94",
+      "price": "748.75",
+      "ean": "0074000617599",
+      "model": "KB 6100NK",
+      "mpn": "KB6100NK",
+      "name": "Sharp KB-6100NK 30-Inch Warming Drawer, Black [Black]",
+      "brand": "Sharp",
+      "cat_id": "12478",
+      "created_at": 1347781080,
+      "features": {
+        "Image Color Disclaimer": "The image of the product displayed may be of a different color",
+        "Minimum Height": "9.1 in",
+        "Form Factor": "Built-in - 30\"",
+        "Product Type": "Warming drawer - electric",
+        "Interior Coating": "Stainless steel",
+        "Voltage": "120 V / 60 Hz",
+        "Temperature Range": "90 - 230Â° F",
+        "Maximum Load": "1.8 cu. ft",
+        "Control Type": "Electronic",
+        "Timer Settings Features": "Timer, Auto-Touch controls",
+        "Max Power Consumption": "450 W",
+        "Other Features": "Humidity control, keep warm",
+        "Rated Current": "15 A",
+        "Included Accessories": "1 x half-width rack",
+        "Compliant Standards": "UL",
+        "Minimum Width": "28.5 in",
+        "Minimum Depth": "23.6 in"
+      },
+      "width": "266.70",
+      "sem3_id": "2bQIvtQXGmeW4SoQQ4AWqM",
+      "height": "665.23",
+      "manufacturer": "Sharp Electronics",
+      "gtins": [
+        "00074000617599"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463491188,
+      "category": "Warming Drawers",
+      "sem3_id": "3HxOL0Z0i0cMEm8YEI2qoq",
+      "cat_id": "12478",
+      "color": "White",
+      "upc": "074000617605",
+      "height": "665.23",
+      "ean": "0074000617605",
+      "mpn": "KB6100NW",
+      "price": "883.40",
+      "features": {
+        "Included Accessories": "1 x half-width rack",
+        "Interior Coating": "Stainless steel",
+        "Compliant Standards": "UL",
+        "Minimum Depth": "23.6 in",
+        "Product Type": "Warming drawer - electric",
+        "Minimum Width": "28.5 in",
+        "Max Power Consumption": "450 W",
+        "Maximum Load": "1.8 cu. ft",
+        "Temperature Range": "90 - 230Â° F",
+        "Control Type": "Electronic",
+        "Rated Current": "15 A",
+        "Other Features": "Humidity control, keep warm",
+        "Timer Settings Features": "Timer, Auto-Touch controls",
+        "Form Factor": "Built-in - 30\"",
+        "Image Color Disclaimer": "The image of the product displayed may be of a different color",
+        "Voltage": "120 V / 60 Hz",
+        "Minimum Height": "9.1 in"
+      },
+      "created_at": 1347781080,
+      "manufacturer": "Sharp",
+      "model": "KB 6100NW",
+      "width": "266.70",
+      "length": "755.65",
+      "variation_id": "76GxKCsybQKU2uyAwA06SW",
+      "name": "Sharp KB-6100NW 30-Inch Warming Drawer, White [White]",
+      "weight": "29483504.05",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "KB6100NW_White",
+          "listprice": "929.90",
+          "latestoffers": [
+            {
+              "seller": "Living Direct, Inc",
+              "price": "883.40",
+              "lastrecorded_at": 1463491100,
+              "firstrecorded_at": 1462312000,
+              "currency": "USD",
+              "id": "0z7PtMqFnSiS2AqwQeQAew",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "id": "3QQO2k7LTUySySu6oM8K2o",
+              "price": "929.90",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1435481100,
+              "firstrecorded_at": 1415703400,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "6vhzQjjbTy8IuYSiQIu6Mi",
+              "price": "883.40",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1414693000,
+              "firstrecorded_at": 1414693000,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.livingdirect.com/sharp-30-inch-insight-pro-warming-drawer-white-kb6100nw/KB6100NW,default,pd.html",
+          "listprice_currency": "USD",
+          "name": "livingdirect.com"
+        }
+      ],
+      "brand": "Sharp",
+      "gtins": [
+        "00074000617605"
+      ],
+      "variation_secondaryids": [
+        "2KTe9Ki3LgOSWoEaUsqWKCTZ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "847364002734",
+      "brand": "Dacor",
+      "sem3_id": "6RBTqy8Nt2cm4UguGo0YE4",
+      "mpn": "MWDV30S",
+      "weight": "34473020.12",
+      "updated_at": 1463581956,
+      "model": "MWDV30S",
+      "ean": "0847364002734",
+      "cat_id": "12478",
+      "features": {
+        "Manufacturer's Warranty (Labor)": "Full 1 Year",
+        "Indicator Light": "Yes",
+        "Actual Depth (Inches)": "23.375",
+        "Warming Drawer Capacity (Cu. Feet)": "1.7",
+        "Color/Finish Family": "Black",
+        "Actual Width (Inches)": "30",
+        "Common Warming Drawer Size": "30 inch",
+        "Convection Oven": "No",
+        "Rack Size": "No Racks",
+        "Manufacturer Color/Finish": "Black Glass with Vertical Stainless Steel Trim",
+        "Manufacturer's Warranty (Parts)": "Full 1 Year",
+        "CSA Safety Listing": "No",
+        "Humidity Control": "Yes",
+        "UL Safety Listing": "Yes",
+        "Actual Height (Inches)": "10",
+        "ETL Safety Listing": "No",
+        "Removable Pan(s)": "No",
+        "Temperature Control": "Yes"
+      },
+      "color": "stainless-steel",
+      "manufacturer": "Dacor",
+      "category": "Warming Drawers",
+      "sitedetails": [
+        {
+          "sku": "MWDV30S",
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/MWDV30S.html",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1415286100,
+              "currency": "USD",
+              "id": "6d7xQrQ4COe0024a0g20cs",
+              "seller": "Ajmadison",
+              "price": "1699.00",
+              "availability": "available",
+              "firstrecorded_at": 1415286100,
+              "isactive": 0
+            }
+          ],
+          "name": "ajmadison.com"
+        }
+      ],
+      "name": "Dacor Millennia 29 In. Stainless Steel Warming Drawer - MWDV30S",
+      "created_at": 1347666190,
+      "price": "1699.00",
+      "gtins": [
+        "00847364002734"
+      ],
+      "variation_secondaryids": [
+        "6h1bGjDbkmW4im0C8U4Mmm",
+        "0SN2T1JDf0o8GEEKeWMSqM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "KEWS105BPA",
+      "cat_id": "12478",
+      "width": "755.65",
+      "created_at": 1357019622,
+      "length": "660.40",
+      "features": {
+        "Parts": "1 year limited",
+        "Voltage": "120 volts",
+        "ETL Listed": "No",
+        "Wattage": "600 watts",
+        "Capacity": "1.5 cubic feet",
+        "Interior Width": "23.38 inches",
+        "Amperage": "15 amperes",
+        "UL Listed": "Yes",
+        "See-Through Door": "No",
+        "Interior Height": "5.63 inches",
+        "Number Of Units": "1",
+        "Rack Size": "Full",
+        "Interior Depth": "20.13 inches",
+        "Custom Door Kit Compatible": "Yes",
+        "Heating Element Wattage": "600 watts",
+        "Hidden Control Panel": "Yes",
+        "Cut-Out Depth": "24 inches",
+        "Humidity Control": "Yes",
+        "Color Finish": "Custom",
+        "Labor": "1 year limited",
+        "Color Category": "Brown",
+        "Power-On Indicator Light(s)": "Yes",
+        "Cut-Out Width": "28.5 inches",
+        "Removable Pan(s)": "No",
+        "CSA Listed": "No",
+        "Cut-Out Height": "9.13 inches",
+        "Flush Appearance Installation": "Yes",
+        "Temperature Control Type": "Electronic"
+      },
+      "weight": "29937096.42",
+      "updated_at": 1463786094,
+      "name": "KitchenAid KEWS105BPA",
+      "price": "1124.09",
+      "ean": "0883049271217",
+      "category": "Warming Drawers",
+      "brand": "KitchenAid",
+      "height": "260.35",
+      "upc": "883049271217",
+      "mpn": "KEWS105BPA",
+      "sitedetails": [],
+      "sem3_id": "2bD6TLATiWu2cUyCgyiwG2",
+      "manufacturer": "KitchenAid",
+      "gtins": [
+        "00883049271217"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "Black",
+      "length": "406.40",
+      "created_at": 1430272207,
+      "name": "Versonel VSLAF15TS Smart Health Digital LCD Touch Screen Air Fryer with Smart Air Technology, Black",
+      "model": "VSLAF15TS",
+      "weight": "4989516.07",
+      "mpn": "VSLAF15TS",
+      "brand": "Versonel",
+      "updated_at": 1463794624,
+      "sem3_id": "1kXOlZn69s480WmWqeiiQu",
+      "cat_id": "12478",
+      "sitedetails": [
+        {
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9814718",
+          "sku": "9814718",
+          "recentoffers_count": 0,
+          "name": "tigerdirect.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1445899000,
+              "price": "179.99",
+              "id": "1LoP2AwbEKusyuEcewo2SW",
+              "currency": "USD",
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1448167900,
+              "availability": "ADD TO CART",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "ean": "0616641654603",
+      "manufacturer": "Smart Surplus Inc.",
+      "price": "119.99",
+      "height": "355.60",
+      "upc": "616641654603",
+      "category": "Warming Drawers",
+      "width": "342.90",
+      "features": {
+        "Control Type": "Digital",
+        "Limited Warranty": "1 Year",
+        "Green Compliance Certificate/Authority": "ENERGY STAR",
+        "Programmable": "No",
+        "Maximum Temperature": "390 degrees fahrenheit",
+        "Auto Shut-Off": "Yes",
+        "See-Through Lid": "No",
+        "Voltage": "120 volts",
+        "Heat Thermometer": "No",
+        "Features": "Adjustable Thermostat, Auto Shutoff, Dishwasher Safe Component, Easy Clean, LCD Display, Removable Basket",
+        "Integrated Timer": "Yes",
+        "Material": "Plastic",
+        "Maximum Timer Duration": "30 Minute",
+        "BPA-Free": "No",
+        "Warranty Terms - Parts": "1 years",
+        "Keep Warm Setting": "No",
+        "Cooking Method": "Electric",
+        "Cool-Touch Exterior": "No",
+        "Non-Stick Interior": "No",
+        "Color Category": "Multi",
+        "ENERGY STAR Certified": "Yes [Devices carrying the Energy Star service mark, such as computer products and peripherals, kitchen appliances, buildings and other products, generally use 20% to 30% less energy than required by federal standards. ]",
+        "Digital Display": "Yes",
+        "Green Compliant": "Yes",
+        "Deep Fryer Type": "Basket",
+        "Input Voltage": "120 V AC",
+        "Weight (Approximate)": "11 lb",
+        "Removable Basket": "Yes",
+        "Dishwasher-Safe Parts": "Yes"
+      },
+      "gtins": [
+        "00616641654603"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462248280,
+      "width": "7.62",
+      "name": "Renaissance Epicure Warming Drawer With Blue LED Light Indicator 4 Timer Settings Plus Infinite Mode 500 Watt Heating Element & 30-in. with SS Handle and Chrome [Stainless Steel]",
+      "manufacturer": "Dacor",
+      "ean": "0847364002680",
+      "upc": "847364002680",
+      "sem3_id": "7CVNOLzJzsUI6oM0omwmW8",
+      "brand": "Dacor",
+      "sitedetails": [],
+      "created_at": 1347612829,
+      "color": "stainless steel",
+      "mpn": "EWD30SCH",
+      "category": "Warming Drawers",
+      "features": {
+        "Assembled Weight (lbs)": "0 lbs",
+        "Warming Drawer Capacity Cu. Ft": "1.7 ftÂ³",
+        "Humidity Control": "Yes",
+        "Net Package Quantity UOM": "EA",
+        "Assembled Depth (In)": "27.166 in",
+        "Warranty (Labor)": "One full year",
+        "Gas or Electric": "Electric",
+        "Indicator Light": "No",
+        "Previous UPC": "705105485799",
+        "Custom Door Kit Compatible": "Yes",
+        "ETL Listed": "No",
+        "Product Weight (In the box)": "70",
+        "Product Width (In the box)": "32",
+        "Color / Finish": "Stainless Steel",
+        "Product Weight UOM": "LB",
+        "Temperature Control": "Yes",
+        "Product Data Last Certified": "2011-11-09",
+        "Removable Pan(s)": "No",
+        "Product Height (In the box)": "16",
+        "Product Depth (In the box)": "33",
+        "Appliance Color Category": "Stainless",
+        "Internet Product Code (IPC)": "A16B665640C",
+        "Product Width UOM": "IN",
+        "Warranty (Parts)": "One full year",
+        "Product Depth UOM": "IN",
+        "Assembled Height (In)": "10.0 in",
+        "Net Package Quantity": "1",
+        "Product Height UOM": "IN",
+        "Rack Size": "Half",
+        "CSA Certified": "No",
+        "Assembled Width (in)": "30.0 in",
+        "UL Listed": "Yes"
+      },
+      "cat_id": "12478",
+      "price": "1699.00",
+      "model": "EWD30SCH",
+      "weight": "34473020.12",
+      "gtins": [
+        "00847364002680"
+      ],
+      "variation_secondaryids": [
+        "7XZt8GxtmCUus4GskuE4Yy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Star",
+      "length": "635.00",
+      "cat_id": "12478",
+      "weight": "63049339.43",
+      "manufacturer": "Star",
+      "name": "Star Mfg 2-Drawer Standard Food Warmer w/ Individual Controls",
+      "features": {
+        "Hertz": "60",
+        "Power Type": "Electric",
+        "Number of Drawers": "2",
+        "Amps": "7.71 Amps",
+        "Phase": "1",
+        "Humidity Control": "Yes",
+        "Style": "Standard Drawer",
+        "Voltage": "230 Volts",
+        "Control Type": "Electronic",
+        "Wattage": "925 Watts"
+      },
+      "sitedetails": [
+        {
+          "url": "http://www.restaurantequipmentsolutions.com/STAR-SDW2C.html",
+          "sku": "STAR-SDW2C",
+          "name": "restaurantequipmentsolutions.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1394809800,
+              "id": "7ITdsdOnMOqYo44gIaegqy",
+              "lastrecorded_at": 1421014700,
+              "availability": "Available",
+              "seller": "Restaurant Equipment Solutions",
+              "currency": "USD",
+              "price": "2116.00",
+              "isactive": 1
+            },
+            {
+              "seller": "Restaurant Equipment Solutions",
+              "lastrecorded_at": 1387378800,
+              "availability": "Available",
+              "firstrecorded_at": 1387378800,
+              "id": "6PZEN5zGaWAqEkSkuAkYYm",
+              "currency": "USD",
+              "price": "2054.00",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "1994.00",
+              "seller": "Kitchen Restaurant Supply",
+              "firstrecorded_at": 1389772000,
+              "id": "6KZLcq2oq0OygAQssOQuSS",
+              "lastrecorded_at": 1389772000,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "kitchenrestaurantsupply.com",
+          "recentoffers_count": 0,
+          "url": "http://www.kitchenrestaurantsupply.com/store/productdetails.cfm/store/productID=32386",
+          "sku": "32386"
+        },
+        {
+          "name": "culinarydepotinc.com",
+          "latestoffers": [
+            {
+              "id": "7mfAByteue0sYyK2cM6Ksw",
+              "firstrecorded_at": 1389882800,
+              "availability": "Available",
+              "lastrecorded_at": 1403355300,
+              "seller": "Culinary Depot Inc",
+              "price": "2116.00",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.culinarydepotinc.com/p-70018-star-sdw2c-warming-drawer.aspx",
+          "sku": "70018"
+        }
+      ],
+      "ean": "0663118123179",
+      "category": "Warming Drawers",
+      "sem3_id": "2ZYZ2HgNdgo0oOmcGgAm4K",
+      "upc": "663118123179",
+      "mpn": "SDW2C",
+      "price": "1760.00",
+      "model": "SDW2C",
+      "updated_at": 1463633111,
+      "created_at": 1347621701,
+      "width": "838.20",
+      "height": "635.00",
+      "gtins": [
+        "00663118123179"
+      ],
+      "variation_secondaryids": [
+        "4IAxmK3SBsos2imwYu4YWO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0847364002901",
+      "mpn": "IWD24",
+      "sitedetails": [],
+      "created_at": 1347494101,
+      "upc": "847364002901",
+      "updated_at": 1461028415,
+      "width": "6.10",
+      "model": "IWD24",
+      "cat_id": "12478",
+      "features": {
+        "Product Weight UOM": "LB",
+        "Warming Drawer Capacity Cu. Ft": "1.3 ftÂ³",
+        "Previous UPC": "705105490496",
+        "Assembled Width (in)": "24 in",
+        "Custom Door Kit Compatible": "Yes",
+        "Rack Size": "Full",
+        "ETL Listed": "No",
+        "Assembled Depth (In)": "23.625 in",
+        "CSA Certified": "No",
+        "Warranty (Parts)": "One full year",
+        "Assembled Height (In)": "8.3125 in",
+        "Humidity Control": "Yes",
+        "Net Package Quantity": "1",
+        "Product Width (In the box)": "32",
+        "Internet Product Code (IPC)": "C3197FC1D41",
+        "Product Height (In the box)": "16",
+        "Product Width UOM": "IN",
+        "Appliance Color Category": "Stainless",
+        "Product Depth UOM": "IN",
+        "Product Weight (In the box)": "69",
+        "Wattage": "500 W",
+        "Net Package Quantity UOM": "EA",
+        "Product Height UOM": "IN",
+        "Color / Finish": "Stainless Steel or Black or Integrated",
+        "Removable Pan(s)": "No",
+        "UL Listed": "Yes",
+        "Product Data Last Certified": "2011-11-09",
+        "Indicator Light": "Yes",
+        "Warranty (Labor)": "One full year",
+        "Assembled Weight (lbs)": "0 lbs",
+        "Product Depth (In the box)": "33",
+        "Gas or Electric": "Electric",
+        "Temperature Control": "Yes"
+      },
+      "name": "Dacor 24\" Custom Panel Warming Drawer [Other]",
+      "weight": "31751465.90",
+      "color": "panel ready",
+      "manufacturer": "Dacor",
+      "price": "1299.00",
+      "category": "Warming Drawers",
+      "sem3_id": "7SMJNqx6sSeOC0kGKO6aim",
+      "brand": "Dacor",
+      "gtins": [
+        "00847364002901"
+      ],
+      "variation_secondaryids": [
+        "4f3F0gbiUKwssO2aIagIO8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Dacor",
+      "features": {
+        "Height (In.)": "10.125",
+        "Hidden Control Panel": "Yes",
+        "Interior Dimensions (HxWxD)": "26 \"W x 5 \"H x 22.75 \"D",
+        "Temperature Range": "100 - 200 degrees",
+        "Weight (lbs.)": "76",
+        "Heating Element Wattage": "500",
+        "Removable Pan": "No",
+        "ADA Compliant": "No",
+        "Minimum Circuit Rating": "15 amps",
+        "UL Safety Listing": "Yes",
+        "Total Connected Load": "4.0",
+        "Gas or Electric": "Electric",
+        "Installable Under Oven": "Yes",
+        "Depth (In.)": "24.875",
+        "Adjustable Legs": "No",
+        "Cutout Dimensions": "See Installation Guide below product description",
+        "Voltage": "110/120V",
+        "Width (in.)": "29.75",
+        "Depth with Drawer Open (In)": "47.25",
+        "Installation Instructions": "click here",
+        "Power Cord Included": "Yes",
+        "Rack Size": "N/A",
+        "On Indicator Light": "Yes",
+        "General Warranty": "1 year parts and labor",
+        "Humidity Control": "Yes",
+        "Sabbath Mode": "Yes"
+      },
+      "width": "7.62",
+      "mpn": "MRWD30B",
+      "ean": "0847364002789",
+      "model": "MRWD30B",
+      "name": "Dacor MRWD30B: Renaissance 30\" Warming Drawer, in Black Glass",
+      "upc": "847364002789",
+      "color": "Black",
+      "weight": "33112243.01",
+      "category": "Warming Drawers",
+      "updated_at": 1461724735,
+      "price": "1419.00",
+      "cat_id": "12478",
+      "brand": "Dacor",
+      "created_at": 1347625060,
+      "sitedetails": [],
+      "sem3_id": "68wcbgnwpsMECeuSCCYO6I",
+      "gtins": [
+        "00847364002789"
+      ],
+      "variation_secondaryids": [
+        "6AX5w0G27MiSeMqGC4GmY4",
+        "7KBryeCh16a8UYSIO8M24y"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

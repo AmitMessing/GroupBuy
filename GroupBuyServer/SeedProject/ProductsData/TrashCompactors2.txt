@@ -1,0 +1,677 @@
+{
+  "total_results_count": 189,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "height": "215.90",
+      "upc": "013700206252",
+      "category": "Trash Compactors",
+      "created_at": 1347703487,
+      "ean": "0013700206252",
+      "mpn": "E2-0625",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "price": "20.25",
+              "id": "3uClZzewSWwsQeoeUuaaUs",
+              "firstrecorded_at": 1391196300,
+              "availability": "5 In Stock",
+              "lastrecorded_at": 1394759800,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_Hefty_551774.htm",
+          "sku": "551774",
+          "name": "antonline.com",
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.shopfoodex.com/hefty-ultra-flex-gallon-large-drawstring-bags-count-p-35802.html",
+          "sku": "35802",
+          "name": "shopfoodex.com",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1463004800,
+              "currency": "USD",
+              "seller": "ShopFoodEx",
+              "price": "10.99",
+              "firstrecorded_at": 1457549400,
+              "id": "6oMbqudqHA0ukskgu0m2GE",
+              "isactive": 1
+            },
+            {
+              "price": "9.98",
+              "firstrecorded_at": 1418118700,
+              "id": "1blCGK1gxIw2UiKMKsImag",
+              "seller": "ShopFoodEx",
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1456933300,
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1416215300,
+              "firstrecorded_at": 1403626900,
+              "id": "4YFK04y7yKeWa0kscygMKo",
+              "price": "9.99",
+              "currency": "USD",
+              "seller": "ShopFoodEx",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Office Max",
+              "currency": "USD",
+              "price": "22.99",
+              "id": "38JSuaFBcWCIUsykMskGiA",
+              "firstrecorded_at": 1407043800,
+              "lastrecorded_at": 1407043800,
+              "availability": "Available",
+              "isactive": 1
+            }
+          ],
+          "sku": "prod3861165",
+          "name": "officemax.com",
+          "url": "http://www.officemax.com/office-supplies/breakroom-cleaning/trash-bags-liners/product-prod3861165",
+          "recentoffers_count": 1
+        }
+      ],
+      "size": "25 Count Box (Pack of 1)",
+      "cat_id": "19497",
+      "length": "241.30",
+      "color": "Black",
+      "sem3_id": "4lzj7YH33Y6Q0ay2aku6gc",
+      "manufacturer": "Hefty",
+      "weight": "1202019.78",
+      "brand": "Hefty",
+      "model": "E8 0625",
+      "name": "PCTE80625 - Hefty Ultra Flex Waste Bags [30 Gal]",
+      "price": "9.49",
+      "updated_at": 1463127771,
+      "features": {
+        "Closure": "Drawstring",
+        "Thickness": "1.30 mil",
+        "Application": "Can Liner",
+        "Color(s)": "Black",
+        "Capacity": "30 Gal.",
+        "Material(s)": "Plastic"
+      },
+      "width": "95.25",
+      "gtins": [
+        "00013700206252"
+      ],
+      "variation_secondaryids": [
+        "5nYiEMGPewICeis8ogawiK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "883049279534",
+      "sem3_id": "2L9qj54TmCYQyYcIg82gG8",
+      "name": "3/4 HP Continuous Feed Garbage Disposal",
+      "height": "320.80",
+      "cat_id": "19497",
+      "created_at": 1440709249,
+      "features": {
+        "Grinding Speed (RPM)": "1725",
+        "Safe for Septic System": "Yes",
+        "Voltage (Volts)": "120",
+        "Disposal Horsepower": "3/4-HP",
+        "Disposal Feed": "Continuous feed",
+        "Color/Finish Family": "Red",
+        "UL Safety Listing": "Yes",
+        "CSA Safety Listing": "No",
+        "Grind Chamber Material": "Plastic",
+        "Warranty": "5-year limited",
+        "Length (Inches)": "7",
+        "Series Name": "N/A",
+        "Auto-Reverse": "No",
+        "ETL Safety Listing": "No",
+        "Grind Stage": "1-stage",
+        "Amperage (Amps)": "20",
+        "Height (Inches)": "12",
+        "Noise Insulation": "Yes",
+        "Grind Chamber Capacity (oz.)": "26",
+        "Width (Inches)": "7"
+      },
+      "width": "184.15",
+      "category": "Trash Compactors",
+      "sitedetails": [],
+      "updated_at": 1462936293,
+      "model": "KCDI075B",
+      "length": "184.15",
+      "brand": "KitchenAid",
+      "mpn": "KCDI075B",
+      "manufacturer": "KitchenAid",
+      "ean": "0883049279534",
+      "price": "209.00",
+      "gtins": [
+        "00883049279534"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0883049044194",
+      "color": "White",
+      "category": "Trash Compactors",
+      "created_at": 1348702051,
+      "cat_id": "19497",
+      "manufacturer": "KitchenAid",
+      "sem3_id": "4NkZXB1zGKY2KqqgMUGMu2",
+      "model": "KUCS03CTWH",
+      "height": "866.77",
+      "brand": "KitchenAid",
+      "sitedetails": [],
+      "upc": "883049044194",
+      "mpn": "KUCS03CTWH",
+      "features": {
+        "RPM Grinding Action": "Doesn't apply",
+        "PVC Coated Grind Chamber": "Doesn't apply",
+        "RPM Grinding Speed": "Doesn't apply",
+        "Continuous Feed Operation": "No",
+        "Color Category": "White",
+        "Power Connection": "15 or 20 amps, 115V, 60Hz",
+        "Warranty Terms - Parts": "1 year limited; 30 days limited: filter/air freshener",
+        "Overload Protector with Manual Reset": "Doesn't apply",
+        "Galvanized Steel Grinder": "Doesn't apply",
+        "Plug and Cord Accessory Included": "Yes",
+        "PVC Hopper": "Doesn't apply",
+        "Horsepower Motor": "1/3 HP Motor",
+        "Assembly Required": "false",
+        "Centrifugal Switch Control": "Yes",
+        "Stainless Steel Swivel Impellers": "Doesn't apply"
+      },
+      "updated_at": 1463106535,
+      "name": "Kitchenaid KUCS03CTWH Fully Visible Console Built-In Architect Series II",
+      "weight": "65770893.65",
+      "gtins": [
+        "00883049044194"
+      ],
+      "variation_secondaryids": [
+        "3I4gxvv5IWsm2sK6c4SU6k"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "012505559365",
+      "mpn": "E15TC75HPS",
+      "features": {
+        "Warranty (Parts)": "12",
+        "Capacity (Cu. Feet)": "1.55",
+        "Actual Height (Inches)": "34.38",
+        "Sub-Brand": "ICON",
+        "Weight (lbs.)": "161",
+        "Horsepower (HP)": "0.75",
+        "Compactor Type": "Undercounter",
+        "Color/Finish Family": "Stainless steel",
+        "Manufacturer Color/Finish": "Stainless Steel",
+        "Actual Depth (Inches)": "21.5",
+        "Common Trash Compactor Size": "15 inch",
+        "Width (Inches)": "14.875"
+      },
+      "ean": "0012505559365",
+      "color": "stainless steel",
+      "sitedetails": [],
+      "category": "Trash Compactors",
+      "sem3_id": "6REHeyG1TcgMCCwCgukeca",
+      "model": "E15TC75HPS",
+      "manufacturer": "Electrolux",
+      "updated_at": 1457463989,
+      "cat_id": "19497",
+      "brand": "Electrolux",
+      "created_at": 1347616269,
+      "price": "1092.00",
+      "name": "Electrolux E15TC75HPS 15\" Trash Compactor with Extra-Large Capacity and High-Performance Power, Stainless Steel",
+      "gtins": [
+        "00012505559365"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Batteries Required?": "No",
+        "Product Dimensions": "10 x 10 x 8 inches",
+        "Item Weight": "14.1 ounces",
+        "Item Package Quantity": "1",
+        "Number Of Pieces": "12",
+        "Finish": "NA"
+      },
+      "upc": "026715032761",
+      "name": "Broan S93620008 Trash Compactor Bags",
+      "mpn": "93620008",
+      "model": "93620008",
+      "sem3_id": "61UgKmT1NIwgImUuiSIQoi",
+      "manufacturer": "Broan",
+      "color": "Other",
+      "cat_id": "19497",
+      "category": "Trash Compactors",
+      "created_at": 1348702041,
+      "brand": "Broan",
+      "weight": "453592.37",
+      "updated_at": 1460284607,
+      "sitedetails": [],
+      "ean": "0026715032761",
+      "price": "12.99",
+      "gtins": [
+        "00026715032761"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "KitchenAid",
+      "category": "Trash Compactors",
+      "sem3_id": "36XDKVc0Xwo4myiouCEUWK",
+      "features": {
+        "RPM Grinding Action": "Doesn't apply",
+        "Continuous Feed Operation": "No",
+        "Power Connection": "15 or 20 amp; 115V; 60Hz",
+        "Horsepower Motor": "1/3 HP Motor",
+        "RPM Grinding Speed": "Doesn't apply",
+        "Stainless Steel Swivel Impellers": "Doesn't apply",
+        "Color Category": "Wood/Custom Panel Ready",
+        "Galvanized Steel Grinder": "Doesn't apply",
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Plug and Cord Accessory Included": "Yes",
+        "PVC Coated Grind Chamber": "Doesn't apply",
+        "PVC Hopper": "Doesn't apply",
+        "Centrifugal Switch Control": "Yes",
+        "Warranty Terms - Parts": "1 year limited",
+        "Overload Protector with Manual Reset": "Doesn't apply"
+      },
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "10060707",
+          "url": "http://www.overstock.com/Home-Garden/KitchenAid-15-inch-1.4-cu.-ft.-Fully-Integrated-Panel-Ready-Trash-Compactor/10060707/product.html",
+          "name": "overstock.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1442112600,
+              "availability": "Not available",
+              "price": "1412.99",
+              "currency": "USD",
+              "id": "4JnKgFvhw02ooeicsE6IQk",
+              "seller": "Overstock",
+              "lastrecorded_at": 1444268900,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1428674900,
+              "availability": "Availabe",
+              "currency": "USD",
+              "price": "1299.99",
+              "seller": "Overstock",
+              "id": "3GtTWVAchc8mq20qySgemU",
+              "lastrecorded_at": 1428674900,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "upc": "883049044149",
+      "brand": "KitchenAid",
+      "name": "Kitchenaid KUCS03FTPA Fully Integrated Console Built-In Architect Series II",
+      "color": "Panel Ready",
+      "mpn": "KUCS03FTPA",
+      "height": "866.90",
+      "cat_id": "19497",
+      "model": "KUCS03FTPA",
+      "width": "381.00",
+      "created_at": 1347530515,
+      "updated_at": 1463498356,
+      "ean": "0883049044149",
+      "weight": "65770893.65",
+      "length": "609.60",
+      "gtins": [
+        "00883049044149"
+      ],
+      "variation_secondaryids": [
+        "1b3AdtEGxQ4eEwSyIQoQeQ"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "19497",
+      "created_at": 1357804864,
+      "brand": "General Electric",
+      "manufacturer": "GE",
+      "height": "889.00",
+      "weight": "58059823.36",
+      "color": "black",
+      "ean": "0084691206958",
+      "features": {
+        "Centrifugal Switch Control": "No",
+        "Color Category": "Black",
+        "Ram Force": "2300 pounds",
+        "Amperage": "15 amperes",
+        "Removable Drawer": "Yes",
+        "Capacity": "1.4 cubic feet",
+        "Labor": "1 year limited",
+        "Color Finish": "Black",
+        "Automatic Anti-Jam": "Yes",
+        "Bag Retainer Clips": "Yes",
+        "Voltage": "120 volts",
+        "Power Cord Included": "No",
+        "Maximum Cycle Time": "30 seconds",
+        "Number Of Units": "1",
+        "Cut-Out Depth": "24 inches",
+        "Compactor Type": "Built-In",
+        "Removable Key Lock": "Yes",
+        "Cut-Out Height": "35 inches",
+        "Cut-Out Width": "14.88 inches",
+        "Parts": "1 year limited",
+        "Horsepower": "0.33 horsepower",
+        "Compression Ratio": "0.75",
+        "Child Lock": "Yes"
+      },
+      "category": "Trash Compactors",
+      "sem3_id": "0DqkA5UjYH2kyWaM2cksWO",
+      "length": "609.60",
+      "price": "764.99",
+      "name": "GE GCG1500RBB Profile 15\" Black Built-In Fully Integrated Trash Compactor",
+      "width": "377.95",
+      "sitedetails": [],
+      "updated_at": 1462635628,
+      "mpn": "GCG1500RBB",
+      "upc": "084691206958",
+      "gtins": [
+        "00084691206958"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462670494,
+      "weight": "65770893.65",
+      "ean": "0050946974521",
+      "features": {
+        "Automatic Anti-Jam": "Yes",
+        "Release Bin": "Side",
+        "Labor": "1 year limited",
+        "Color Finish": "Black",
+        "Removable Drawer": "Yes",
+        "Removable Key Lock": "Yes",
+        "Centrifugal Switch Control": "No",
+        "Color Category": "Black",
+        "Number Of Units": "1",
+        "Sound-Reduction System": "Yes",
+        "Amperage": "15 amperes",
+        "Capacity": "1.4 cubic feet",
+        "Cut-Out Height": "34.13 inches",
+        "Bag Retainer Clips": "Yes",
+        "Tilt Switch": "Yes",
+        "Parts": "1 year limited",
+        "Power Cord Included": "No",
+        "Horsepower": "0.33 horsepower",
+        "Voltage": "115 volts",
+        "Compactor Type": "Built-In",
+        "Cut-Out Width": "15 inches",
+        "Cut-Out Depth": "24 inches"
+      },
+      "name": "Whirlpool GC900QPPB 15\" Black Built-In Full Console Trash Compactor",
+      "sitedetails": [],
+      "color": "Black",
+      "mpn": "GC900QPPB",
+      "sem3_id": "6T0yTZjMGGcGI8kckggkQs",
+      "model": "GC900QPPB",
+      "upc": "050946974521",
+      "category": "Trash Compactors",
+      "cat_id": "19497",
+      "manufacturer": "WHIRLPOOL",
+      "brand": "Whirlpool",
+      "price": "674.99",
+      "created_at": 1347798525,
+      "height": "866.77",
+      "gtins": [
+        "00050946974521"
+      ],
+      "variation_secondaryids": [
+        "5icZ3shC5Iyk68IcuOE40K"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347523417,
+      "weight": "1088621.69",
+      "features": {
+        "Appliance Accessory Type": "Trash compactor",
+        "Color/Finish Family": "Black",
+        "Material": "Metal",
+        "Package Contents": "Toe kick unit",
+        "Height (Inches)": "3.6",
+        "Width (Inches)": "3.96"
+      },
+      "manufacturer": "Broan-NuTone",
+      "sitedetails": [
+        {
+          "url": "http://www.wayfair.com/Broan-Nutone-Free-Standing-15-Model-Trash-Compactor-Toe-Kick-Kit-15TCTK-BRN1642.html",
+          "recentoffers_count": 0,
+          "name": "wayfair.com",
+          "sku": "BRN1642",
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "price": "52.99",
+              "id": "21BNni6JD2AKUGsewqGqQg",
+              "availability": "Available",
+              "firstrecorded_at": 1462195600,
+              "currency": "USD",
+              "lastrecorded_at": 1462195600,
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "id": "7chnh578IimKiEo8oIkCW8",
+              "price": "51.99",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1458924600,
+              "lastrecorded_at": 1458924600,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "price": "39.99",
+              "availability": "Available",
+              "id": "1reyoUE73AWSUaEgk6WaUg",
+              "firstrecorded_at": 1456999900,
+              "lastrecorded_at": 1457232000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "15TCTK",
+          "name": "ajmadison.com",
+          "recentoffers_count": 1,
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/15TCTK.html",
+          "latestoffers": [
+            {
+              "availability": "available",
+              "id": "01vp2j9jCySqysIUU6Wk8q",
+              "seller": "Ajmadison",
+              "price": "19.00",
+              "lastrecorded_at": 1415285600,
+              "currency": "USD",
+              "firstrecorded_at": 1415285600,
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/46342472",
+          "sku": "46342472",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "price": "12.77",
+              "seller": "Beach Audio Inc",
+              "availability": "Available",
+              "id": "6iEMUmJVuSKwImUeYiIS68",
+              "currency": "USD",
+              "lastrecorded_at": 1442869700,
+              "firstrecorded_at": 1440407800,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "name": "Broan-NuTone 15TCTK Free Standing Toe Kick Kit for 15-Inch Model Trash Compactor [N/A]",
+      "price": "15.00",
+      "color": "n/a",
+      "height": "100.58",
+      "length": "399.29",
+      "width": "91.44",
+      "updated_at": 1463539234,
+      "mpn": "15TCTK",
+      "category": "Trash Compactors",
+      "upc": "026715182589",
+      "cat_id": "19497",
+      "brand": "Broan NuTone",
+      "sem3_id": "1stY03o9smGU8G2iSComwE",
+      "ean": "0026715182589",
+      "model": "15TCTK",
+      "gtins": [
+        "00026715182589"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Kenmore Trash Compactors",
+      "price": "549.00",
+      "model": "02214729000P",
+      "ean": "0883049256795",
+      "category": "Trash Compactors",
+      "created_at": 1425955454,
+      "brand": "Kenmore",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.kmart.com/kenmore-1.4-cu-ft-trash-compactor-black/p-02214729000P",
+          "sku": "02214729000P",
+          "listprice": "549.00",
+          "latestoffers": [
+            {
+              "price": "549.00",
+              "lastrecorded_at": 1462326500,
+              "availability": "Available",
+              "id": "79gk1HJk8GOaM6AWQ8igww",
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1425955400,
+              "isactive": 1
+            }
+          ],
+          "listprice_currency": "USD",
+          "name": "kmart.com"
+        },
+        {
+          "latestoffers": [],
+          "recentoffers_count": 0,
+          "name": "kenmore.com",
+          "url": "http://www.kenmore.com/p/p-02214729000P",
+          "sku": "kenmore_02214729000P"
+        },
+        {
+          "sku": "kenmore_02214739000P",
+          "recentoffers_count": 0,
+          "url": "http://www.kenmore.com/p/p-02214739000P",
+          "name": "kenmore.com",
+          "latestoffers": []
+        }
+      ],
+      "features": {
+        "Compactor Type": "Under Counter",
+        "Drawer Opener Type": "Foot pedal",
+        "Compacting Force": "2300",
+        "Tilt Sensor": "Yes",
+        "Power Cord Included": "Yes",
+        "Cycle Time (sec.)": "27",
+        "Odor Control System": "No",
+        "Adjustable Legs": "Yes",
+        "Drawer Handle": "Black",
+        "Bin Release": "Side Release",
+        "Compaction Ratio": "4:1 - 75% volume reduction",
+        "Number of Bags Included": "2",
+        "Motor Power": "1/3 hp",
+        "Security Lock": "Yes",
+        "Sound Insulation": "Yes",
+        "General Warranty": "1 Year Limited",
+        "Compactor Capacity": "1.4"
+      },
+      "updated_at": 1462326545,
+      "sem3_id": "0RthBZ5MK0kyEcCiqMK8m4",
+      "cat_id": "19497",
+      "length": "628.65",
+      "width": "381.00",
+      "color": "Black",
+      "upc": "883049256795",
+      "gtins": [
+        "00883049256795"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links for this product, please upgrade your plan"
+    }
+  ]
+}

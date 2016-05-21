@@ -1,0 +1,402 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "model": "20480",
+      "manufacturer": "1928 Jewelry",
+      "ean": "0011996204808",
+      "price": "12.00",
+      "weight": "22679.62",
+      "mpn": "20480",
+      "cat_id": "17154",
+      "width": "25.40",
+      "category": "Drop & Dangle",
+      "created_at": 1347524713,
+      "updated_at": 1459108444,
+      "name": "1928 Jewelry Vine Earrings [grey]",
+      "length": "38.10",
+      "features": {
+        "Metal stamp": "Not stamped",
+        "Brand, Seller, or Collection Name": "1928 Jewelry",
+        "Package": "Classic Medium Box",
+        "Item Length": "1.50 inches",
+        "Metal": "Base",
+        "Back finding": "French wire",
+        "Origin": "USA",
+        "Material": "Resin",
+        "Product Dimensions": "1.5 x 1 inches; 0.8 ounces"
+      },
+      "brand": "1928 Jewelry",
+      "sitedetails": [],
+      "color": "grey",
+      "sem3_id": "2ZkqiRuxXc0Iiq6Eo4sw4E",
+      "upc": "011996204808",
+      "gtins": [
+        "00011996204808"
+      ],
+      "variation_secondaryids": [
+        "5K0BShaYsaOc2cYuECksKk"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "14k Gold Satin and Polished Crossover Hoop Earrings [white-and-yellow-g",
+      "length": "0.25",
+      "upc": "729367444790",
+      "price": "233.57",
+      "ean": "0729367444790",
+      "manufacturer": "Amazon Curated Collection",
+      "created_at": 1347803107,
+      "sitedetails": [],
+      "brand": "Amazon Curated Collection",
+      "updated_at": 1459006997,
+      "cat_id": "17504",
+      "model": "E14 9092 2C",
+      "width": "2.16",
+      "weight": "104893.24",
+      "sem3_id": "58eDF91AYSMCYAmoMEsaeq",
+      "features": {
+        "Product Dimensions": "3.4 x 3 x 0.6 inches; 0.3 ounces",
+        "Metal stamp": "14k",
+        "Diameter": "0.9 inches",
+        "Origin": "Turkey",
+        "Back finding": "click-top",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Package": "Deluxe Medium Box",
+        "Total metal weight": "4.5 Grams",
+        "Metal": "White and yellow gold"
+      },
+      "variation_id": "6h33jxB0D22sGGC6IoQUYO",
+      "category": "Hoop",
+      "gtins": [
+        "00729367444790"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "0.43",
+      "name": "Sterling Silver Linear Swirl French Wire Earrings [sterling-silver]",
+      "category": "Drop & Dangle",
+      "width": "0.08",
+      "upc": "729881800669",
+      "weight": "22679.62",
+      "cat_id": "17154",
+      "manufacturer": "Amazon Curated Collection",
+      "color": "silver",
+      "sem3_id": "1qabJlyu9gIuG4W2eoEYew",
+      "brand": "Amazon Curated Collection",
+      "features": {
+        "Metal": "Sterling silver",
+        "Package": "Classic Medium Box",
+        "Product Dimensions": "1.7 x 1.7 x 0.4 inches; 0.8 ounces",
+        "Back finding": "fish hook",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Metal stamp": "925",
+        "Total metal weight": "1.9 Grams"
+      },
+      "mpn": "SE16346",
+      "sitedetails": [],
+      "price": "19.85",
+      "ean": "0729881800669",
+      "created_at": 1364128449,
+      "updated_at": 1459129480,
+      "model": "SE16346",
+      "gtins": [
+        "00729881800669"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0729881407387",
+      "upc": "729881407387",
+      "cat_id": "17154",
+      "name": "Celtic-Knot Round Drop Earrings [sterling-silver]",
+      "sitedetails": [],
+      "features": {
+        "Metal": "Sterling silver",
+        "Product Dimensions": "3.4 x 2.1 x 0.1 inches; 0.8 ounces",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Metal stamp": "925 Sterling",
+        "Package": "Classic Medium Box",
+        "Origin": "China",
+        "Back finding": "Euro wire",
+        "Total metal weight": "3.9 Grams"
+      },
+      "height": "0.31",
+      "price": "18.53",
+      "model": "62AAMYA029 0Y1B900",
+      "manufacturer": "Amazon Curated Collection",
+      "brand": "Amazon Curated Collection",
+      "weight": "22679.62",
+      "created_at": 1347795938,
+      "width": "0.16",
+      "sem3_id": "4Or65ES7v6aaKqEAe62GcS",
+      "category": "Drop & Dangle",
+      "mpn": "62AAMYA029-0Y1B900",
+      "updated_at": 1459130254,
+      "gtins": [
+        "00729881407387"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0729881260593",
+      "upc": "729881260593",
+      "cat_id": "17504",
+      "features": {
+        "Package": "Regal Blue Sueded-Cloth Pouch",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Metal": "Sterling silver",
+        "Total metal weight": "2 Grams",
+        "Diameter": "1 inches",
+        "Metal stamp": "925 Sterling",
+        "Product Dimensions": "3.8 x 3.7 x 0.7 inches; 0.8 ounces",
+        "Back finding": "click-top"
+      },
+      "updated_at": 1460778447,
+      "created_at": 1347464623,
+      "model": "SE6941",
+      "sitedetails": [],
+      "name": "Sterling Silver 2mm Round Tube Hoop Earrings []",
+      "category": "Hoop",
+      "size": "1.0 inches",
+      "brand": "Amazon Curated Collection",
+      "weight": "17009.71",
+      "price": "18.64",
+      "manufacturer": "Amazon Curated Collection",
+      "sem3_id": "0d2n4HyvjqSy0m66waIOiy",
+      "gtins": [
+        "00729881260593"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "135.00",
+      "sitedetails": [],
+      "upc": "850679004263",
+      "created_at": 1447700355,
+      "category": "Earrings",
+      "sem3_id": "6EzY1AuVgeeGCgWusaqcw4",
+      "variation_id": "4OWau5KjRo24yU8cy8WmcYM+",
+      "color": "Yellow Gold",
+      "name": "Pave Diamond Stud Earrings in 14k White Gold (1/2 ct. t.w.)",
+      "updated_at": 1448565805,
+      "ean": "0850679004263",
+      "brand": "14k earrings",
+      "cat_id": "7987",
+      "features": {
+        "Diamond Color Rating Code": "G-J",
+        "Diamond Cut": "Round",
+        "Diamond Clarity Rating Code": "I2-I3",
+        "Web ID": "1368261"
+      },
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "0AlmS9t7gK8AS48UuMs6W2M+",
+        "2TIejsptXso226KikSImCmM+",
+        "1w4gHyj0BsmKooOa8AOWWIM+",
+        "3wyRswwstc2Eu0qawcqQKIM+",
+        "38zs5eRlIuqE8oMC6KE62SM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Amethyst (3 ct. t.w.) and Diamond Accent Stud Earrings in 14k G",
+      "updated_at": 1443370386,
+      "upc": "883954013933",
+      "features": {
+        "Web ID": "636460"
+      },
+      "sem3_id": "69L3OiEm9IOWeoMYYI84aU",
+      "price": "120.00",
+      "brand": "14k",
+      "category": "Earrings",
+      "cat_id": "7987",
+      "sitedetails": [],
+      "ean": "0883954013933",
+      "created_at": 1441105411,
+      "variation_id": "3ShgpnOaHwiccWOK44aAggM+",
+      "color": "No",
+      "gtins": [
+        "00883954013933"
+      ],
+      "variation_secondaryids": [
+        "3uykBYCFlA8oSQI6aWGcuEM+",
+        "2l1lIeSAnIgIiCgMWQWSYYM+",
+        "6DtxmwNBPkO0uoaeuaW4egM+",
+        "41f1ZbwfsWgUk6CmqGGqEwM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0850679004263",
+      "variation_id": "7BZ8W6LQLuQ2sK0OIi2SA0M+",
+      "name": "14k White Gold Ring, Blue Topaz (7-3/4 ct. t.w.) and Diamond Accent Ring",
+      "updated_at": 1448569499,
+      "sitedetails": [],
+      "cat_id": "7987",
+      "color": "Yellow Gold",
+      "brand": "14k gold ring",
+      "sem3_id": "0EqJls5YZv62WG066umiEM",
+      "category": "Earrings",
+      "features": {
+        "Web ID": "1740499"
+      },
+      "created_at": 1448317012,
+      "upc": "850679004263",
+      "price": "210.00",
+      "gtins": [
+        "00850679004263"
+      ],
+      "variation_secondaryids": [
+        "5DiEsDDI2q2oiaiOsqW6qSM+",
+        "33ZfKKOZ7Qm8Y8Uu84esuaM+",
+        "6tWnEdyuMicq0qyi88WIUUM+"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "FineDiamonds9",
+      "mpn": "FD9S0.25BUW",
+      "upc": "848558029032",
+      "created_at": 1347731831,
+      "width": "0.76",
+      "cat_id": "10114",
+      "weight": "90718.47",
+      "category": "Stud",
+      "features": {
+        "Total metal weight": "0.50 Grams",
+        "Back finding": "Post with friction back",
+        "Cut": "Very good cut",
+        "Stone Treatment Method": "Irradiated",
+        "Product Dimensions": "11.2 x 9 x 1.1 inches; 3.2 ounces",
+        "Stone shape": "Round",
+        "Minimum color": "Blue",
+        "Number of stones": "2",
+        "Metal stamp": "14k",
+        "Setting": "Prongs",
+        "Gem Type": "Blue-Diamond",
+        "Stone Weight": "0.25 carats",
+        "Brand, Seller, or Collection Name": "FineDiamonds9",
+        "Lab Created": "No",
+        "Stone Creation Method": "Natural",
+        "Material": "Blue-Diamond, Diamond, White Gold",
+        "Minimum clarity": "I1-I2",
+        "Metal": "White gold"
+      },
+      "price": "179.99",
+      "ean": "0848558029032",
+      "manufacturer": "FineDiamonds9",
+      "updated_at": 1459097776,
+      "sitedetails": [],
+      "variation_id": "0hGEbUh7ys4S8Omk4EEsOw",
+      "sem3_id": "0LMzb2bczB24cCqsKWaYG8",
+      "length": "0.76",
+      "model": "FD9S0.25BUW",
+      "name": "1/4 CT to 2 CT Round Cut Blue Diamond Stud Earrings 14k White or Yellow Gold [white-gold, 0.25 carats]",
+      "gtins": [
+        "00848558029032"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0848558029698",
+      "features": {
+        "Brand, Seller, or Collection Name": "FineDiamonds9",
+        "Stone Creation Method": "Natural",
+        "Metal stamp": "14k",
+        "Minimum color": "Blue",
+        "Product Dimensions": "3.9 x 2.2 x 1.3 inches; 0.8 ounces",
+        "Stone Weight": "1 carats",
+        "Metal": "White gold",
+        "Gem Type": "Blue-Diamond",
+        "Setting": "Prongs",
+        "Number of stones": "2",
+        "Back finding": "Post with friction back",
+        "Minimum clarity": "I1-I2",
+        "Stone shape": "Round",
+        "Total metal weight": "0.50 Grams",
+        "Material": "Blue-Diamond, Diamond, White Gold",
+        "Lab Created": "No",
+        "Cut": "Very good cut",
+        "Stone Treatment Method": "Irradiated"
+      },
+      "category": "Stud",
+      "length": "1.17",
+      "updated_at": 1459126500,
+      "manufacturer": "FineDiamonds9",
+      "variation_id": "2r6aiuoBgu0MsmyA8EACgM",
+      "created_at": 1347685182,
+      "upc": "848558029698",
+      "brand": "FineDiamonds9",
+      "sem3_id": "6rL61wafx2amOuOscGeeaQ",
+      "cat_id": "10114",
+      "name": "1/4 CT to 2 CT Round Cut Blue Diamond Stud Earrings 14k White or Yellow Gold [white-gold, 1.0 carats]",
+      "price": "799.99",
+      "model": "FD9S1.00BUW",
+      "mpn": "FD9S1.00BUW",
+      "width": "1.17",
+      "sitedetails": [],
+      "weight": "22679.62",
+      "gtins": [
+        "00848558029698"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

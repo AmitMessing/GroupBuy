@@ -1,0 +1,791 @@
+{
+  "total_results_count": 321,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "weight": "31751465.90",
+      "sem3_id": "7irfv8sdKCUKsmM4q8kE2A",
+      "manufacturer": "Dacor",
+      "model": "EWD24SCH",
+      "category": "Warming Drawers",
+      "cat_id": "12478",
+      "upc": "847364002727",
+      "price": "1469.00",
+      "color": "stainless steel",
+      "mpn": "EWD24SCH",
+      "brand": "Dacor",
+      "ean": "0847364002727",
+      "width": "6.10",
+      "created_at": 1347595525,
+      "features": {
+        "Assembled Height (In)": "10.0 in",
+        "Removable Pan(s)": "No",
+        "CSA Certified": "No",
+        "Warming Drawer Capacity Cu. Ft": "1.3 ftÂ³",
+        "Rack Size": "Half",
+        "Color / Finish": "Stainless Steel or Black or Integrated",
+        "Assembled Depth (In)": "27.0625 in",
+        "Warranty (Parts)": "One full year",
+        "Product Width (In the box)": "32",
+        "Custom Door Kit Compatible": "Yes",
+        "Product Width UOM": "IN",
+        "Assembled Width (in)": "24.0 in",
+        "Temperature Control": "Yes",
+        "Internet Product Code (IPC)": "62AC5308623",
+        "Assembled Weight (lbs)": "0 lbs",
+        "UL Listed": "Yes",
+        "Product Height UOM": "IN",
+        "Gas or Electric": "Electric",
+        "Product Height (In the box)": "16",
+        "Humidity Control": "Yes",
+        "Product Data Last Certified": "2011-11-09",
+        "Product Depth (In the box)": "33",
+        "Product Weight UOM": "LB",
+        "Previous UPC": "705105485591",
+        "Appliance Color Category": "Stainless",
+        "Warranty (Labor)": "One full year",
+        "Net Package Quantity UOM": "EA",
+        "Indicator Light": "Yes",
+        "ETL Listed": "No",
+        "Net Package Quantity": "1",
+        "Product Depth UOM": "IN",
+        "Product Weight (In the box)": "69"
+      },
+      "sitedetails": [],
+      "name": "EWD24SCH Renaissance Epicure Warming Drawer With Blue LED Light Indicator 4 Timer Settings Plus Infinite Mode 500 Watt Heating Element & 24-in. with SS Handle and Chrome",
+      "updated_at": 1460546872,
+      "gtins": [
+        "00847364002727"
+      ],
+      "variation_secondaryids": [
+        "7XZt8GxtmCUus4GskuE4Yy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Data Last Certified": "2011-11-09",
+        "Product Width (In the box)": "32",
+        "Product Width UOM": "IN",
+        "Rack Size": "Half",
+        "Gas or Electric": "Electric",
+        "Previous UPC": "705105490694",
+        "Net Package Quantity": "1",
+        "Temperature Control": "Yes",
+        "Product Depth (In the box)": "33",
+        "Indicator Light": "Yes",
+        "Warranty (Labor)": "One full year",
+        "Product Weight UOM": "LB",
+        "Product Depth UOM": "IN",
+        "Assembled Depth (In)": "23.625 in",
+        "Assembled Height (In)": "10 in",
+        "CSA Certified": "No",
+        "UL Listed": "Yes",
+        "Warming Drawer Capacity Cu. Ft": "1.7 ftÂ³",
+        "Warranty (Parts)": "One full year",
+        "Color / Finish": "Integrated",
+        "Removable Pan(s)": "No",
+        "Net Package Quantity UOM": "EA",
+        "Humidity Control": "Yes",
+        "ETL Listed": "No",
+        "Assembled Weight (lbs)": "0 lbs",
+        "Product Weight (In the box)": "70",
+        "Custom Door Kit Compatible": "Yes",
+        "Internet Product Code (IPC)": "59354CC7D12",
+        "Assembled Width (in)": "30 in",
+        "Product Height (In the box)": "16",
+        "Product Height UOM": "IN",
+        "Appliance Color Category": "Stainless"
+      },
+      "weight": "31751465.90",
+      "model": "IWD30",
+      "category": "Warming Drawers",
+      "mpn": "IWD30",
+      "updated_at": 1463581845,
+      "manufacturer": "Dacor",
+      "ean": "0847364002888",
+      "upc": "847364002888",
+      "cat_id": "12478",
+      "sitedetails": [
+        {
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/IWD30.html",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1415286200,
+              "seller": "Ajmadison",
+              "currency": "USD",
+              "firstrecorded_at": 1415286200,
+              "price": "1389.00",
+              "availability": "available",
+              "id": "2ZlRgrSq6eqi0YawcWMSo4",
+              "isactive": 0
+            }
+          ],
+          "sku": "IWD30",
+          "name": "ajmadison.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "color": "panel ready",
+      "brand": "Dacor",
+      "created_at": 1347727187,
+      "sem3_id": "0IHzLaMNeBE4MG8YSugwwi",
+      "price": "1599.00",
+      "name": "Dacor 30 In. Panel Ready Warming Drawer - IWD30 [Custom Panel Ready]",
+      "gtins": [
+        "00847364002888"
+      ],
+      "variation_secondaryids": [
+        "4f3F0gbiUKwssO2aIagIO8",
+        "0SN2T1JDf0o8GEEKeWMSqM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347486652,
+      "height": "257.30",
+      "color": "Stainless Steel",
+      "name": "Renaissance Millennia Warming Drawer With Blue LED Light Indicator 4 Timer Settings Plus Infinite Mode 500 Watt Heating Element & 27-in. with Vertical Stainless Steel",
+      "cat_id": "12478",
+      "weight": "33112243.01",
+      "width": "685.80",
+      "brand": "Dacor",
+      "price": "1639.00",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "MWDV27S",
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/MWDV27S.html",
+          "name": "ajmadison.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1415286100,
+              "availability": "available",
+              "price": "1639.00",
+              "seller": "Ajmadison",
+              "id": "0Tk0GRp0fmgkmCquwkKu42",
+              "currency": "USD",
+              "lastrecorded_at": 1415286100,
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "manufacturer": "Dacor",
+      "category": "Warming Drawers",
+      "features": {
+        "ETL Safety Listing": "No",
+        "Temperature Control": "Yes",
+        "Removable Pan(s)": "No",
+        "UL Safety Listing": "Yes",
+        "Humidity Control": "Yes",
+        "Actual Height (Inches)": "10",
+        "CSA Safety Listing": "No",
+        "Rack Size": "No Racks",
+        "Manufacturer Color/Finish": "Black Glass with Vertical Stainless Steel Trim",
+        "Manufacturer's Warranty (Parts)": "Full 1 Year",
+        "Common Warming Drawer Size": "27 inch",
+        "Convection Oven": "No",
+        "Warming Drawer Capacity (Cu. Feet)": "1.5",
+        "Color/Finish Family": "Black",
+        "Actual Width (Inches)": "27",
+        "Indicator Light": "Yes",
+        "Actual Depth (Inches)": "23.375",
+        "Manufacturer's Warranty (Labor)": "Full 1 Year"
+      },
+      "ean": "0847364002758",
+      "length": "589.03",
+      "updated_at": 1463581990,
+      "model": "MWDV27S",
+      "mpn": "MWDV27S",
+      "upc": "847364002758",
+      "sem3_id": "0nlymqDmmg2gGYgk6MSMIi",
+      "gtins": [
+        "00847364002758"
+      ],
+      "variation_secondaryids": [
+        "6h1bGjDbkmW4im0C8U4Mmm",
+        "5r7VA1SX3YO08Ey0OeemWe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Warming Drawers",
+      "upc": "663118123254",
+      "price": "3119.83",
+      "height": "889.00",
+      "width": "838.20",
+      "length": "635.00",
+      "created_at": 1347496285,
+      "cat_id": "12478",
+      "ean": "0663118123254",
+      "name": "Star Manufacturing SDW3 Free Standing Warming Drawer w/Three Drawers",
+      "model": "SDW3",
+      "features": {
+        "Hertz": "60",
+        "Humidity Control": "Yes",
+        "Wattage": "1,375 Watts",
+        "Style": "Standard Drawer",
+        "Voltage": "230 Volts",
+        "Phase": "1",
+        "Control Type": "Electronic",
+        "Amps": "11.46 Amps",
+        "Power Type": "Electric",
+        "Number of Drawers": "3"
+      },
+      "sitedetails": [
+        {
+          "name": "kitchenrestaurantsupply.com",
+          "sku": "32392",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1389772000,
+              "price": "2277.00",
+              "seller": "Kitchen Restaurant Supply",
+              "availability": "Available",
+              "lastrecorded_at": 1389772000,
+              "id": "2yXVJJyZFIcOq02IoasSUe",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.kitchenrestaurantsupply.com/store/productdetails.cfm/store/productID=32392",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "foodservicewarehouse.com",
+          "sku": "2657",
+          "latestoffers": [],
+          "url": "http://www.foodservicewarehouse.com/star/sdw3/p2657.aspx",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "webstaurantstore.com",
+          "sku": "793SDW3",
+          "recentoffers_count": 0,
+          "url": "http://www.webstaurantstore.com/star-sdw3-three-drawer-warmer-1375w/793SDW3.html",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "2416.00",
+              "firstrecorded_at": 1406035800,
+              "availability": "Available",
+              "seller": "WebstaurantStore",
+              "lastrecorded_at": 1406035800,
+              "id": "2JTVPKvcKaQIIy0UWwWSYg",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "weight": "77564295.27",
+      "mpn": "SDW3",
+      "manufacturer": "Star",
+      "updated_at": 1461062491,
+      "sem3_id": "6APUCqG89IAGY4E26iwM0w",
+      "brand": "Star",
+      "gtins": [
+        "00663118123254"
+      ],
+      "variation_secondaryids": [
+        "07lVQtBdNOwCkmog2Ooymy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "254.00",
+      "weight": "34473020.12",
+      "updated_at": 1463581039,
+      "created_at": 1347686306,
+      "length": "604.77",
+      "upc": "847364009665",
+      "manufacturer": "Dacor",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "ajmadison.com",
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/DWD30S.html",
+          "latestoffers": [
+            {
+              "price": "1019.00",
+              "seller": "Ajmadison",
+              "currency": "USD",
+              "id": "4Shz6P5lsucm46skc2ieAu",
+              "firstrecorded_at": 1415286200,
+              "lastrecorded_at": 1415286200,
+              "availability": "available",
+              "isactive": 0
+            }
+          ],
+          "sku": "DWD30S"
+        }
+      ],
+      "width": "752.60",
+      "sem3_id": "041OXJDNdnM8U8u4qKugSu",
+      "ean": "0847364009665",
+      "color": "Stainless Steel",
+      "features": {
+        "Specifications Capacity": "1.7 Cu. Ft.",
+        "Heating Element": "500 Watts",
+        "Cutout Depth": "24\" Min.",
+        "Cutout Height": "9 1/8\"",
+        "Sabbath Mode": "Yes",
+        "Warranty": "One Year Parts and Labor",
+        "Overall Height": "10\"",
+        "Moist Crisp Slide": "Yes",
+        "Overall Depth": "23 13/16\"",
+        "Interior Width": "26\"",
+        "Dimensions and Weights Overall Width": "29 5/8\"",
+        "Timer Settings": "4",
+        "Features Electronic Control Panel": "Illuminated",
+        "Temperature Levels": "4",
+        "Interior Depth": "22 3/4\"",
+        "Cutout Width": "28 1/2\"",
+        "Electrical": "120V, 15A",
+        "Star-K Certified": "Yes",
+        "Interior Height": "5\""
+      },
+      "price": "1239.59",
+      "category": "Warming Drawers",
+      "name": "Dacor DWD30S: Distinctive 30\" Warming Drawer, in Stainless Steel",
+      "mpn": "DWD30S",
+      "brand": "Dacor",
+      "model": "DWD30S",
+      "cat_id": "12478",
+      "gtins": [
+        "00847364009665"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "520.70",
+      "name": "Bull Outdoor Products 25876 Stainless Steel Door Drawer Combo",
+      "upc": "635835258762",
+      "cat_id": "12478",
+      "weight": "25401172.72",
+      "mpn": "25876",
+      "created_at": 1347800332,
+      "manufacturer": "Bull Outdoor Products",
+      "length": "838.20",
+      "sitedetails": [
+        {
+          "name": "wayfair.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1459840900,
+              "price": "699.95",
+              "availability": "Available",
+              "firstrecorded_at": 1459840900,
+              "id": "1e8G0hl1C8Qs4iQWumqeEY",
+              "isactive": 0
+            },
+            {
+              "id": "0dgWaMDZ4WsgaYscGOcwqs",
+              "firstrecorded_at": 1459559900,
+              "availability": "Available",
+              "price": "709.95",
+              "lastrecorded_at": 1459559900,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "1teMr3uDvUUAu8Eoo28KsA",
+              "firstrecorded_at": 1458800300,
+              "availability": "Available",
+              "price": "689.95",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1459236000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.wayfair.com/Bull-Outdoor-Products-Stainless-Steel-Door-Drawer-Combo-25876-BLOP1081.html",
+          "recentoffers_count": 0,
+          "sku": "BLOP1081"
+        }
+      ],
+      "ean": "0635835258762",
+      "height": "558.80",
+      "price": "603.21",
+      "category": "Warming Drawers",
+      "features": {
+        "Handles Included: YesDetachable Handles: YesHandle Material: MetalNumber of Handles: 3Lighted": "No",
+        "Material: MetalMaterial Details: Stainless SteelDishwasher Safe": "No",
+        "Weather Resistant": "Yes",
+        "Material": "Metal",
+        "Shelving Included": "No",
+        "Product Type": "Access door",
+        "Heat Resistant": "Yes",
+        "Wheels Included": "No",
+        "Lighted": "No",
+        "Country of Manufacture": "China",
+        "Dishwasher Safe": "No",
+        "Overall Product Weight": "63.18lbs",
+        "Hardware Material": "Steel",
+        "Overall": "22\" H x 33\" W x 20.5\" D",
+        "Silver finish Made of metal Weather resistant Product Details Product Type": "Access door",
+        "Finish": "Silver",
+        "Grill Type Compatibility": "Charcoal grill; Gas grill"
+      },
+      "brand": "Bull Outdoor Products",
+      "color": "Metallic",
+      "updated_at": 1463633298,
+      "sem3_id": "2MAsDPg8h6YGYOq0UykCUY",
+      "model": "25876",
+      "gtins": [
+        "00635835258762"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "DCS",
+      "price": "1349.00",
+      "length": "752.60",
+      "updated_at": 1463581472,
+      "sem3_id": "4SGOUaz45Qk40K06qogaWs",
+      "width": "722.12",
+      "brand": "DCS",
+      "mpn": "WD27SSOD",
+      "model": "WD 27 SS OD",
+      "weight": "43544867.52",
+      "created_at": 1347631686,
+      "upc": "780405002020",
+      "color": "Stainless",
+      "cat_id": "12478",
+      "name": "DCS WD-27-SSOD 27-Inch Warming Drawer, Brushed Stainless Steel (Discontinued by Manufacturer)",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "price": "1429.00",
+              "firstrecorded_at": 1414691000,
+              "id": "3xiS6QVWh6iameCYquwOsa",
+              "lastrecorded_at": 1435479200,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.livingdirect.com/DCS-Outdoor-Warming-Drawer-WD-27-SSOD/WD-27-SSOD,default,pd.html",
+          "recentoffers_count": 0,
+          "name": "livingdirect.com",
+          "sku": "WD-27-SSOD"
+        },
+        {
+          "latestoffers": [
+            {
+              "availability": "available",
+              "lastrecorded_at": 1415286300,
+              "id": "3yiI7Yk1i40we28AO2KQ4W",
+              "firstrecorded_at": 1415286300,
+              "currency": "USD",
+              "price": "1429.00",
+              "seller": "Ajmadison",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/WD27SSOD.html",
+          "recentoffers_count": 0,
+          "name": "ajmadison.com",
+          "sku": "WD27SSOD"
+        }
+      ],
+      "category": "Warming Drawers",
+      "ean": "0780405002020",
+      "height": "336.55",
+      "features": {
+        "3 wire": "Yes",
+        "Power Usage Power Input": "500 Watts",
+        "Dimensions & Weight(See Specs Sheet under Info. & Guides.) Depth w/o Handle & Shelf Front": "23 11/16\"",
+        "Removable Shelf/Serving Tray": "Yes",
+        "Height w/Shelf Front": "13 1/4\"",
+        "15 amp circuit": "Yes",
+        "304 Stainless Steel": "Yes",
+        "Power Requirements 120V 60Hz": "Yes",
+        "Specifications Drawer Space": "1.6 cu. ft.",
+        "Depth w/o Handle": "25 1/4\""
+      },
+      "gtins": [
+        "00780405002020"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "SDW3NC",
+      "manufacturer": "Star",
+      "cat_id": "12478",
+      "width": "635.00",
+      "category": "Warming Drawers",
+      "features": {
+        "Style": "Narrow Drawer",
+        "Humidity Control": "Yes",
+        "Amps": "11.46 Amps",
+        "Hertz": "60",
+        "Control Type": "Electronic",
+        "Power Type": "Electric",
+        "Voltage": "230 Volts",
+        "Number of Drawers": "3",
+        "Wattage": "1,375 Watts",
+        "Phase": "1"
+      },
+      "sem3_id": "6DyWvbDu8OQmimoU46q4cE",
+      "upc": "663118123322",
+      "brand": "Star",
+      "mpn": "SDW3NC",
+      "sitedetails": [
+        {
+          "name": "culinarysuperstore.com",
+          "latestoffers": [
+            {
+              "price": "3830.40",
+              "firstrecorded_at": 1387457500,
+              "lastrecorded_at": 1400125900,
+              "id": "1y4YxErrISAWOE8mK8cukK",
+              "currency": "USD",
+              "availability": "In stock",
+              "seller": "Culinary Superstore",
+              "isactive": 0
+            }
+          ],
+          "url": "http://culinarysuperstore.com/star-mfg-sdw3nc.html",
+          "recentoffers_count": 0,
+          "sku": "star-mfg-sdw3nc"
+        },
+        {
+          "sku": "STAR-SDW3NC",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "Restaurant Equipment Solutions",
+              "currency": "USD",
+              "id": "2nvYiPWdqqsi6aqkSi68ia",
+              "lastrecorded_at": 1421170900,
+              "firstrecorded_at": 1394809800,
+              "price": "2819.00",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1387378800,
+              "price": "2736.00",
+              "seller": "Restaurant Equipment Solutions",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "0GmDqRnGVt28cGo0ec6SgQ",
+              "lastrecorded_at": 1387378800,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.restaurantequipmentsolutions.com/STAR-SDW3NC.html",
+          "name": "restaurantequipmentsolutions.com"
+        },
+        {
+          "name": "kitchenrestaurantsupply.com",
+          "url": "http://www.kitchenrestaurantsupply.com/store/productdetails.cfm/store/productID=32396",
+          "latestoffers": [
+            {
+              "price": "2656.00",
+              "firstrecorded_at": 1389772000,
+              "id": "7WvmkOPf8qoEemw2scYEgS",
+              "lastrecorded_at": 1389772000,
+              "availability": "Available",
+              "seller": "Kitchen Restaurant Supply",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "32396"
+        }
+      ],
+      "length": "838.20",
+      "created_at": 1347634809,
+      "height": "889.00",
+      "ean": "0663118123322",
+      "updated_at": 1463800948,
+      "weight": "83914588.45",
+      "price": "2819.00",
+      "name": "Star Manufacturing SDW3 Free Standing Warming Drawer w/Three Drawers",
+      "gtins": [
+        "00663118123322"
+      ],
+      "variation_secondaryids": [
+        "65DQtUjN2muKYm0ays6qcK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "FPWD2785KF",
+      "created_at": 1347689302,
+      "width": "685.80",
+      "category": "Warming Drawers",
+      "ean": "0057112101316",
+      "sem3_id": "7GMLUWROcKaauu0qasYcMo",
+      "mpn": "FPWD2785KF",
+      "cat_id": "12478",
+      "manufacturer": "Frigidaire",
+      "updated_at": 1463490391,
+      "features": {
+        "Total Connected Load": ".45 kW @ 120V",
+        "Cutout Dimensions": "See Installation Guide below product description",
+        "Heating Element Wattage": "450",
+        "Minimum Circuit Rating": "15 amps",
+        "Weight (lbs.)": "55",
+        "Approximate Width": "27 in.",
+        "Rack Size": "half rack",
+        "Interior Dimensions (HxWxD)": "12.25 in. W x 5.25 in. H x 17.0 n. D",
+        "Temperature Range": "80 - 210 degrees F",
+        "Width (in.)": "27",
+        "Depth with Drawer Open (In)": "42.0",
+        "Flush Design": "Yes",
+        "Voltage": "110/120V",
+        "Removable Pan": "Yes",
+        "Installable Under Oven": "Yes",
+        "General Warranty": "1 year parts and labor",
+        "UL Safety Listing": "Yes",
+        "Depth (In.)": "23.375",
+        "On Indicator Light": "Yes",
+        "ADA Compliant": "Yes",
+        "Power Cord Included": "No",
+        "Hidden Control Panel": "Yes",
+        "Adjustable Legs": "No",
+        "Height (In.)": "10.0",
+        "Gas or Electric": "Electric",
+        "Humidity Control": "No"
+      },
+      "sitedetails": [],
+      "name": "Frigidaire FPWD2785KF: Frigidaire Professional 27\" Warmer Drawer",
+      "height": "285.75",
+      "upc": "057112101316",
+      "weight": "24947580.35",
+      "brand": "Frigidaire",
+      "length": "593.85",
+      "color": "Stainless Steel",
+      "gtins": [
+        "00057112101316"
+      ],
+      "variation_secondaryids": [
+        "5iO8qDzXuKe6eGUGWWCGSW",
+        "4nSB2W64pcyAQumWAkKA6o"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Dacor",
+      "mpn": "OWD24",
+      "sem3_id": "0yWcbUGbDwceEASY68MA8A",
+      "updated_at": 1463581998,
+      "color": "panel ready",
+      "created_at": 1348713147,
+      "upc": "705105487496",
+      "ean": "0705105487496",
+      "category": "Warming Drawers",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1415286100,
+              "lastrecorded_at": 1415286100,
+              "price": "1329.00",
+              "id": "63qBbli0PIiOQigcceKGoA",
+              "currency": "USD",
+              "seller": "Ajmadison",
+              "availability": "available",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "OWD24",
+          "name": "ajmadison.com",
+          "url": "http://www.ajmadison.com/cgi-bin/ajmadison/OWD24.html"
+        }
+      ],
+      "name": "Dacor 24 In. Stainless Steel Warming Drawer - OWD24",
+      "features": {
+        "Overall Depth": "20\"",
+        "Temperature Levels": "4 (Proof, Low, Medium, High)",
+        "Control Panel": "Electronic",
+        "Timer Settings": "4 (1, 2, 3, 4 Hours, Plus Infinite Mode)",
+        "Overall Height": "11 7/8\"",
+        "Others Electrical Requirements": "120V, 15A",
+        "Dimensions Overall Width": "22 1/2\"",
+        "Specifications Approved for Indoor Usage": "Yes",
+        "Blue LED Light Indicators": "Yes",
+        "Accepts Optional Epicure Stainless Steel Panel": "Yes",
+        "Accepts Custom Drawer Panel": "Yes",
+        "Total Connected Load": "0.5 kW (4.0 Amp)",
+        "Cutout Width": "22 5/8\"",
+        "Cutout Height": "11 15/16\"",
+        "Warranty": "One Year Parts and Labor",
+        "Approved for Outdoor Usage": "Yes",
+        "Cutout Depth": "20 1/8\" Min."
+      },
+      "model": "OWD24",
+      "cat_id": "12478",
+      "brand": "Dacor",
+      "gtins": [
+        "00705105487496"
+      ],
+      "variation_secondaryids": [
+        "5aQ4cEgfxIiqCmsMGkcyuE",
+        "3WNG0ERglMAkaAq8KysOGM"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "total_results_count": 1811,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "ean": "0024182201550",
+      "sitedetails": [],
+      "name": "Eden Foods - Buckwheat Soba Pasta - 8 oz.",
+      "weight": "226796.18",
+      "created_at": 1348674314,
+      "price": "13.17",
+      "cat_id": "23182",
+      "mpn": "08639",
+      "color": "default",
+      "manufacturer": "Home Naturals",
+      "updated_at": 1462983944,
+      "sem3_id": "5rpiErziU4mK6E6IeqKI2S",
+      "upc": "024182201550",
+      "features": {
+        "Total Fat": "1 g (2 %)",
+        "Saturated Fat": "0 g (0 %)",
+        "Protein": "6 g (12 %)",
+        "Units in Package": "1",
+        "Total Carbohydrate": "43 g (14 %)",
+        "Sugars": "2 g",
+        "Trans Fat": "0 g",
+        "Directions": "Add to boiling water, simmer 8 minutes or until tender. Rinse with cold water. Please do not overcook.",
+        "Sodium": "5 mg (0 %)",
+        "Iron": "6 %",
+        "Serving Size": "2 oz",
+        "Servings Per Container": "4",
+        "Warnings": "Made on equipment that also handles wheat.",
+        "Dietary Fiber": "3 g (11 %)",
+        "Unit Size": "8 oz",
+        "Calcium": "2 %",
+        "Ingredients": "Whole Buckwheat Flour."
+      },
+      "brand": "Home Naturals",
+      "category": "Soba",
+      "gtins": [
+        "00024182201550"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "90718.47",
+      "category": "Noodles",
+      "cat_id": "8166",
+      "created_at": 1357649379,
+      "brand": "Thai Kitchen",
+      "manufacturer": "Thai Kitchen",
+      "upc": "737628047000",
+      "model": "358291",
+      "price": "16.05",
+      "name": "Thai Kitchen Bangkok Curry Instant Noodle, 1.6000-Ounce (Pack of 12)",
+      "sem3_id": "6NyqyokPKaesOaSM6eW4oA",
+      "ean": "0737628047000",
+      "updated_at": 1461995981,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "21.79",
+              "availability": "Available",
+              "lastrecorded_at": 1455348100,
+              "firstrecorded_at": 1441354100,
+              "seller": "CVS pharmacy",
+              "currency": "USD",
+              "id": "3zB6ez6oh6iqKc4cSMOSqe",
+              "isactive": 0
+            }
+          ],
+          "name": "cvs.com",
+          "recentoffers_count": 0,
+          "url": "http://www.cvs.com/shop/household-grocery/food-snacks/soup/thai-kitchen-instant-rice-noodle-soup-bangkok-curry-1-6-oz-12-packs-skuid-824251",
+          "sku": "824251"
+        }
+      ],
+      "features": {
+        "Vitamin C": "2 %",
+        "Calcium": "0 %",
+        "Directions": "Cooking Time: Just 3 minutes. Step 1: In a medium saucepan, boil 1 cup of water. Add noodles, contents of seasoning packet and oil packet. Step 2: Cook for approximately 3 minutes, stirring often, until noodles are tender. Enjoy. Microwave: In a microwave-safe cup or bowl, immerse noodles, powder seasoning, and oil seasoning in 1 cup of water. Cook on High temperature for approximately 3 minutes or until noodles are tender. Stir well and enjoy. For a more flavorful soup, use less water when preparing noodles. Due to variations in saucepans, stoves and microwave, cooking times may vary.",
+        "Total Carbohydrate": "37 g (12 %)",
+        "Sugars": "2 g",
+        "Dietary Fiber": "1 g (5 %)",
+        "Vitamin A": "10 %",
+        "Units in Package": "1",
+        "Serving Size": "1 package",
+        "Total Fat": "3.5 g (5 %)",
+        "Protein": "3 g",
+        "Unit Size": "1.6 oz",
+        "Saturated Fat": "0.5 g (4 %)",
+        "Ingredients": "Rice Noodles (Rice, Water, Tapioca). Seasoning Packet (Salt, Pure Cane Sugar, Maltodextrin, Coconut Milk, Sodium Caseinate, Yeast Extract, Soybean Oil, Coriander, Cumin, Turmeric, Cardamom, Chili, Pepper, Sunflower Oil, Hydrolyzed Corn Protein, Disodium Inosinate, Disodium Guanylate. Oil Packet (Soybean Oil, Chili, Garlic, Shallot, Tocopherol [Vitamin E]).",
+        "Iron": "2 %",
+        "Trans Fat": "0 g",
+        "Cholesterol": "0 mg (0 %)",
+        "Servings Per Container": "1",
+        "Warnings": "Contains: Milk, soybeans. Manufactured in a facility that process peanuts.",
+        "Sodium": "870 mg (36 %)"
+      },
+      "gtins": [
+        "00737628047000"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Additional Specifications Multi Pack Indicator": "No",
+        "Battery Type": "Does Not Contain a Battery",
+        "Shipping Weight (in pounds)": "5.75",
+        "More Information Model No": "101001800",
+        "Product in Inches (L x W x H)": "15.8 x 11.5 x 5.6"
+      },
+      "cat_id": "8166",
+      "model": "101002379",
+      "category": "Noodles",
+      "sem3_id": "2zjKQ2OezYIA2scAoUsKus",
+      "upc": "031146952380",
+      "updated_at": 1463685414,
+      "manufacturer": "Nong Shim",
+      "ean": "0031146016839",
+      "brand": "Nong Shim",
+      "created_at": 1348687257,
+      "weight": "119068.00",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "21.60",
+              "seller": "Walmart",
+              "currency": "USD",
+              "id": "4Dc0M2AsbIUK4MkmMqwg4E",
+              "firstrecorded_at": 1420636700,
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1426254000,
+              "isactive": 0
+            },
+            {
+              "price": "19.01",
+              "currency": "USD",
+              "seller": "Walmart",
+              "availability": "Out of Stock",
+              "id": "1T2rYCMiy0C8o64gCOEquw",
+              "firstrecorded_at": 1410980000,
+              "lastrecorded_at": 1410980000,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "availability": "Out of Stock",
+              "id": "6ItBn2se2qEsqAgsoIA4og",
+              "firstrecorded_at": 1384600800,
+              "lastrecorded_at": 1402997200,
+              "price": "21.60",
+              "isactive": 0
+            }
+          ],
+          "sku": "29096528",
+          "url": "http://www.walmart.com/ip/29096528",
+          "recentoffers_count": 0,
+          "name": "walmart.com"
+        }
+      ],
+      "name": "Nongshim Shin Ramyun Noodle Soup, Gourmet Spicy, 4.2 Ounce (Pack of 20)",
+      "price": "23.90",
+      "gtins": [
+        "00031146952380",
+        "00031146016839"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Product Dimensions": "12 x 6 x 10 inches ; 4.8 pounds"
+      },
+      "weight": "326586.51",
+      "price": "18.05",
+      "model": "4178990251",
+      "upc": "041789002519",
+      "name": "Maruchan Ramen, Creamy Chicken, 3-Ounce Packages (Pack of 24)",
+      "height": "1.22",
+      "created_at": 1348680492,
+      "cat_id": "15627",
+      "updated_at": 1463581656,
+      "sem3_id": "3K5QV3KBxw6geiAc4macaM",
+      "brand": "Maruchan",
+      "manufacturer": "Maruchan",
+      "sitedetails": [
+        {
+          "sku": "10448075",
+          "url": "http://www.walmart.com/ip/10448075",
+          "latestoffers": [
+            {
+              "id": "0jngT85n4MKuG4Aow2GQKS",
+              "price": "0.25",
+              "availability": "Not Available",
+              "currency": "USD",
+              "firstrecorded_at": 1456333900,
+              "seller": "Walmart",
+              "lastrecorded_at": 1459776200,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "walmart.com"
+        }
+      ],
+      "category": "Ramen",
+      "ean": "0041789002519",
+      "gtins": [
+        "00041789002519"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Maruchan Ramen Noodle Soup, Chicken Flavor, 3 oz, 36 Packs",
+      "sitedetails": [],
+      "cat_id": "15627",
+      "ean": "0041789502118",
+      "width": "203.20",
+      "category": "Ramen",
+      "updated_at": 1461627212,
+      "weight": "3175146.59",
+      "length": "254.00",
+      "price": "15.27",
+      "created_at": 1348680491,
+      "brand": "Maruchan",
+      "manufacturer": "Maruchan",
+      "features": {
+        "Product Dimensions": "11.5 x 8 x 10.5 inches ; 7.2 pounds"
+      },
+      "sem3_id": "0uwBhPdfRomY2mA2EgaA88",
+      "upc": "041789502118",
+      "mpn": "608529",
+      "height": "355.60",
+      "gtins": [
+        "00041789502118"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "15627",
+      "name": "Maruchan Instant Lunch, Cheddar Cheese, 2.25-Ounce Packages (Pack of 12)",
+      "price": "12.97",
+      "category": "Ramen",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/10450903",
+          "name": "walmart.com",
+          "sku": "10450903",
+          "latestoffers": [
+            {
+              "availability": "Not Available",
+              "lastrecorded_at": 1461927100,
+              "price": "0.28",
+              "firstrecorded_at": 1456458800,
+              "seller": "Walmart",
+              "currency": "USD",
+              "id": "1wEz8Z6IYy0yA8wSYysCau",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "model": "90166",
+      "features": {
+        "Product in Inches (L x W x H)": "1.23 x 1.23 x 1.23",
+        "Shipping Weight (in pounds)": "1.23"
+      },
+      "updated_at": 1463268505,
+      "created_at": 1348680497,
+      "upc": "041789001666",
+      "brand": "Maruchan",
+      "ean": "0041789001666",
+      "sem3_id": "0gc0IcLw7m42YWmqgkssGm",
+      "weight": "7620.35",
+      "manufacturer": "Maruchan",
+      "gtins": [
+        "00041789001666"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "0.28",
+              "lastrecorded_at": 1460299100,
+              "id": "0xzjHwBPcIawmGwOciM00a",
+              "seller": "Walmart",
+              "availability": "Not Available",
+              "firstrecorded_at": 1456451400,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "10450902",
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/10450902"
+        }
+      ],
+      "updated_at": 1463271613,
+      "category": "Ramen",
+      "model": "00157",
+      "sem3_id": "6kFujo7R8w2EwKkeoiQee8",
+      "upc": "041789001574",
+      "weight": "7620.35",
+      "price": "14.13",
+      "manufacturer": "Maruchan",
+      "brand": "Maruchan",
+      "cat_id": "15627",
+      "features": {
+        "Product in Inches (L x W x H)": "1.23 x 1.23 x 1.23",
+        "Shipping Weight (in pounds)": "1.23"
+      },
+      "created_at": 1348665769,
+      "name": "Maruchan Instant Lunch, Roast Chicken, 2.25-Ounce Packages (Pack of 12)",
+      "ean": "0041789001574",
+      "gtins": [
+        "00041789001574"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0041789002120",
+      "updated_at": 1463589223,
+      "height": "120.65",
+      "category": "Ramen",
+      "name": "Maruchan Ramen Noodle Soup Beef Flavor, 3 oz, 12 ct",
+      "brand": "Maruchan",
+      "upc": "041789002328",
+      "created_at": 1348680529,
+      "mpn": "426448934674",
+      "length": "273.05",
+      "width": "209.55",
+      "cat_id": "15627",
+      "sem3_id": "7lisZ85L728oSSAoEOUy2m",
+      "weight": "1129445.00",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "shopfoodex.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1419083800,
+              "seller": "ShopFoodEx",
+              "id": "2zwFl9UHjEgaQyWwk0Wig2",
+              "price": "1.09",
+              "availability": "In Stock",
+              "lastrecorded_at": 1463589200,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "seller": "ShopFoodEx",
+              "firstrecorded_at": 1416890500,
+              "availability": "In Stock",
+              "lastrecorded_at": 1416890500,
+              "price": "0.90",
+              "id": "0FVTJ2QacHgakiGqms2YSa",
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "lastrecorded_at": 1414809500,
+              "price": "0.89",
+              "id": "2DrYWFiXMeWE2cO82awSwO",
+              "seller": "ShopFoodEx",
+              "firstrecorded_at": 1412427600,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "49018",
+          "url": "http://www.shopfoodex.com/maruchan-ramen-noodles-beef-flavor-count-box36-p-49018.html"
+        }
+      ],
+      "price": "23.59",
+      "features": {
+        "Total Fat": "7 g (11 %)",
+        "Serving Size": "0.5 block",
+        "Total Carbohydrate": "26 g (9 %)",
+        "Warnings": "Contains wheat, soy and milk ingredients. Manufactured in a facility that also processes shellfish and fish products.",
+        "Saturated Fat": "3.5 g (18 %)",
+        "Sugars": "1 g",
+        "Servings Per Container": "24",
+        "Ingredients": "Ramen Noodle: Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Vegetable Oil (Contains One or More of the Following: Canola, Cottonseed, Palm) Preserved by TBHQ, Contains Less than 1% of: Salt, Soy Sauce (Water, Wheat, Soybeans, Salt), Potassium Carbonate, Sodium (Mono, Hexameta, and/or Tripoly) Phosphate, Sodium Carbonate, Turmeric. Soup Base: Salt, Sugar, Contains Less than 1% of: Maltodextrin, Monosodium Glutamate, Lactose, Dehydrated Soy Sauce (Wheat, Soybeans, Salt), Caramel Color, Spices, Beef Fat, Yeast Extract, Hydrolyzed Corn, Wheat and Soy Protein, Dehydrated Vegetables (Onion, Garlic, Chive), Natural Flavor, Disodium Inosinate, Disodium Guanylate.",
+        "Cholesterol": "0 mg (0 %)",
+        "Protein": "4 g",
+        "Vitamin A": "<2 %",
+        "Iron": "8 %",
+        "Dietary Fiber": "<1 g (3 %)",
+        "Sodium": "790 mg (33 %)",
+        "Unit Size": "3 oz packages",
+        "Vitamin C": "0 %",
+        "Calcium": "<2 %",
+        "Trans Fat": "0 g",
+        "Units in Package": "12"
+      },
+      "manufacturer": "C&S Wholesale",
+      "gtins": [
+        "00041789002328",
+        "00041789002120"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459108401,
+      "name": "Maruchan Instant Lunch, Chicken, 2.25 Ounce (Pack of 12)",
+      "upc": "041789901218",
+      "sem3_id": "2JryZRH6C4KamuQsiEWOGo",
+      "created_at": 1375231191,
+      "features": {
+        "Ingredients": "Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Vegetable Oil (Contains One or More of the Following: Canola, Cottonseed, Palm) Preserved by TBHQ, Dehydrated Vegetables (Carrot, Corn, Green Peas, Onion, Garlic, Celery Stalk), Salt, Powdered Cooked Chicken, Chicken Fat, Monosodium Glutamate, Hydrolyzed Corn, Wheat and Soy Protein, Maltodextrin, Sugar, Dehydrated Soy Sauce (Wheat, Soybeans, Salt), Spices, Yeast Extract, Chicken Broth, Soya Lecithin, Potassium Carbonate, Sodium (Mono, Hexameta, and/or Tripoly) Phosphate, Sodium Carbonate, Turmeric, Silicon Dioxide (Anticaking Agent), Disodium Inosinate, Disodium Guanylate, Lactose.",
+        "Iron": "15 %",
+        "Vitamin A": "2 %",
+        "Total Fat": "12 g (18 %)",
+        "Protein": "7 g",
+        "Sugars": "1 g",
+        "Cholesterol": "<5 mg (1 %)",
+        "Total Carbohydrate": "38 g (13 %)",
+        "Saturated Fat": "6 g (30 %)",
+        "Units in Package": "12",
+        "Directions": "1. Fold back lid half way. Fill to inside line with boiling water. 2. Close lid securely and let stand for 3 minutes. 3. Remove lid, stir thoroughly and enjoy from cup. Microwave: see lid for details.",
+        "Servings Per Container": "12",
+        "Dietary Fiber": "2 g (8 %)",
+        "Serving Size": "1 container",
+        "Warnings": "Contains wheat, soy and milk ingredients. Manufactured in a facility that also processes shellfish and fish products. Hot! Handle with care especially when serving children.",
+        "Unit Size": "2.25 oz lunches",
+        "Sodium": "1180 mg (49 %)"
+      },
+      "ean": "0041789901218",
+      "manufacturer": "Maruchan",
+      "cat_id": "15627",
+      "weight": "63786.43",
+      "price": "11.20",
+      "category": "Ramen",
+      "brand": "Maruchan",
+      "sitedetails": [],
+      "mpn": "90121",
+      "gtins": [
+        "00041789901218"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Assembled in Country of Origin": "USA",
+        "Shipping Weight (in pounds)": "1.32",
+        "Product in Inches (L x W x H)": "11.7 x 8.1 x 4.6",
+        "Multi Pack Indicator": "No",
+        "Battery Type": "Does Not Contain a Battery",
+        "Origin of Components": "USA"
+      },
+      "created_at": 1348680492,
+      "ean": "0767335011179",
+      "updated_at": 1463444425,
+      "weight": "48987.98",
+      "upc": "767335011179",
+      "sem3_id": "2UdjEuYV4Kkw2W2WckC4ua",
+      "brand": "Dr. McDougall's Right Foods",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/21090287",
+          "name": "walmart.com",
+          "sku": "21090287",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463444400,
+              "id": "0JeHAhYf4O86SMSEisycse",
+              "availability": "Available",
+              "firstrecorded_at": 1461660700,
+              "seller": "Walmart",
+              "currency": "USD",
+              "price": "10.31",
+              "isactive": 1
+            },
+            {
+              "id": "5DOOUOIszYUwwkUYm4ooO6",
+              "availability": "Available",
+              "lastrecorded_at": 1459790500,
+              "firstrecorded_at": 1459790500,
+              "seller": "Walmart",
+              "price": "12.26",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1457026100,
+              "availability": "Available",
+              "id": "5OKROCbP0aEUuKmacG0Me2",
+              "lastrecorded_at": 1457026100,
+              "price": "12.51",
+              "currency": "USD",
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "manufacturer": "Dr. McDougall's Right Foods",
+      "category": "Ramen",
+      "name": "Dr. McDougall's Right Foods Ramen Chicken Soup with Noodles, 1.8-Ounce (Pack of 6)",
+      "cat_id": "15627",
+      "price": "10.31",
+      "gtins": [
+        "00767335011179"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

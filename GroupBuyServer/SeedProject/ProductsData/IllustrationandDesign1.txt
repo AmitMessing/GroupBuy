@@ -1,0 +1,660 @@
+{
+  "total_results_count": 23562,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "category": "Illustration & Design",
+      "sitedetails": [],
+      "ean": "4260074434002",
+      "mpn": "10-11100",
+      "weight": "816466.27",
+      "model": "10 11100",
+      "brand": "Celemony",
+      "price": "343.49",
+      "sem3_id": "1LaosycseqOmecE0YgkuY2",
+      "updated_at": 1460980019,
+      "name": "Celemony Melodyne Editor 2",
+      "features": {
+        "Item Weight": "1 pounds"
+      },
+      "created_at": 1356171275,
+      "operatingsystem": "Mac OSX, Windows XP, Vista, Win 7",
+      "manufacturer": "Celemony",
+      "cat_id": "21085",
+      "gtins": [
+        "04260074434002"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/15054322",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1423507300,
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1423507300,
+              "seller": "Walmart",
+              "id": "7CYQNpnrUmeMWCQiSkwyi2",
+              "price": "451.27",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "sku": "15054322"
+        }
+      ],
+      "cat_id": "20611",
+      "mpn": "CDGSX5ENHBB",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "created_at": 1348683563,
+      "updated_at": 1463456718,
+      "operatingsystem": "Windows 7",
+      "category": "Illustration",
+      "brand": "Corel",
+      "name": "CorelDRAW Graphics Suite X5",
+      "sem3_id": "3RB73CWghyQ8qasGkQemoE",
+      "ean": "0735163128185",
+      "model": "CDGSX5ENHBBAZ",
+      "weight": "929864.36",
+      "upc": "735163128185",
+      "manufacturer": "Corel",
+      "features": {
+        "Product in Inches (L x W x H)": "2.1 x 5.4 x 7.7",
+        "Platform": "PC",
+        "Shipping Weight (in pounds)": "0.2",
+        "Origin of Components": "USA or Imported",
+        "Genre": "Design",
+        "Assembled in Country of Origin": "USA"
+      },
+      "price": "699.00",
+      "gtins": [
+        "00735163128185"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Spectrasonics Stylus RMX Xpanded Realtime Groove Module Virtual Instrument Software",
+      "model": "2XRMX",
+      "sem3_id": "4veo3y1QW006a2yCMGgSaK",
+      "brand": "Spectrasonics",
+      "price": "379.00",
+      "mpn": "2XRMX",
+      "created_at": 1347698882,
+      "manufacturer": "Spectrasonics",
+      "ean": "0835948000108",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1460647400,
+              "price": "379.00",
+              "availability": "Available",
+              "seller": "B&H",
+              "id": "0BnOd4MRGDIKQQoU4UYu8C",
+              "currency": "USD",
+              "firstrecorded_at": 1412615700,
+              "isactive": 0
+            }
+          ],
+          "sku": "560158",
+          "name": "bhphotovideo.com",
+          "url": "http://www.bhphotovideo.com/c/product/560158-REG/Spectrasonics_2XRMX_Stylus_RMX_Xpanded.html"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1424286500,
+              "id": "68W5KPKwNcaUa6oSIWqkU6",
+              "availability": "In Stock",
+              "seller": "Woodwind & Brasswind",
+              "lastrecorded_at": 1463567600,
+              "price": "379.00",
+              "isactive": 1
+            }
+          ],
+          "listprice": "399.00",
+          "name": "wwbw.com",
+          "url": "http://www.wwbw.com/Spectrasonics-Stylus-RMX-Xpanded-Realtime-Groove-Module-Virtual-Instrument-Software-703184-i1389959.wwbw",
+          "sku": "Spectrasonics-Stylus-RMX-Xpanded-Realtime-Groove-Module-Virtual-Instrument-Software-703184-i1389959_1389959",
+          "listprice_currency": "USD",
+          "recentoffers_count": 1
+        }
+      ],
+      "upc": "835948000108",
+      "updated_at": 1463682131,
+      "weight": "544310.84",
+      "features": {
+        "Box Dimensions (WxHxD)": "7.9 x 2.7 x 10.0",
+        "Specialties": "Operates as a virtual instrument software plug-in for Macintosh and Windows in all major hosts including Apple Logic, MOTU Digital Performer, Digidesign Pro Tools, Ableton Live, Steinberg Cubase SX, Nuendo, V-Stack, Apple Garage Band, Fruity Loops, Sony Acid Pro, Cakewalk Sonar, Project 5 and many other VST and Audio Unit host applications."
+      },
+      "cat_id": "21085",
+      "category": "Illustration & Design",
+      "gtins": [
+        "00835948000108"
+      ],
+      "variation_secondaryids": [
+        "160S7BJnU242oicwA6yyks"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "312978.74",
+      "updated_at": 1460723763,
+      "width": "63.50",
+      "price": "219.99",
+      "cat_id": "21085",
+      "category": "Illustration & Design",
+      "model": "IL51380",
+      "ean": "5391502513804",
+      "created_at": 1374253545,
+      "name": "FL Studio Producer, Edition 11",
+      "height": "203.20",
+      "sem3_id": "3s1af973BAsQcEWMo6SIkO",
+      "brand": "Image-Line Software",
+      "length": "241.30",
+      "mpn": "FLSFL11PRODUCEREDIT",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "sitedetails": [],
+      "operatingsystem": "Windows 7",
+      "gtins": [
+        "05391502513804"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Corel Painter 12 Education Edition",
+      "ean": "0735163132311",
+      "brand": "Corel",
+      "updated_at": 1460696380,
+      "category": "Illustration",
+      "model": "PTR12ENPCMDVDA",
+      "features": {
+        "Platform": "Windows, MacOS",
+        "System Requirements Details": "Apple MacOS X - Core Duo - RAM 1 GB - HD 300 MB Microsoft Windows Vista / XP / 7 - 1 GHz - RAM 1 GB - HD 600 MB",
+        "Distribution Media": "DVD-ROM",
+        "Subcategory": "Creativity - graphics & image editing",
+        "Software Requirements": "Internet Explorer 7 or later",
+        "Peripheral / Interface Devices": "Mouse or compatible device, DVD-ROM, 1280 x 800 monitor resolution",
+        "License Qty": "1 user",
+        "Language(s)": "English",
+        "Package Type": "Retail",
+        "License Pricing": "Academic",
+        "License Type": "Complete package",
+        "Version": "12",
+        "OS Required": "Microsoft Windows XP, Apple MacOS X 10.6, Apple MacOS X 10.5, Microsoft Windows Vista (32/64 bits), Microsoft Windows 7 (32/64 bits)"
+      },
+      "manufacturer": "Corel",
+      "height": "190.50",
+      "sitedetails": [
+        {
+          "sku": "669203",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "1dpYEIW7tcciI4GkwqWWy4",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "lastrecorded_at": 1390216500,
+              "currency": "USD",
+              "price": "106.88",
+              "firstrecorded_at": 1388758300,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=669203"
+        }
+      ],
+      "upc": "735163132311",
+      "operatingsystem": "Mac OS X 10.6 Snow Leopard",
+      "created_at": 1356058757,
+      "length": "16.00",
+      "sem3_id": "4YFlq69dvy4yYIQwMqKCYa",
+      "weight": "68038.86",
+      "width": "134.87",
+      "cat_id": "20611",
+      "mpn": "PTR12ENPCMDVDA",
+      "gtins": [
+        "00735163132311"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Pinnacle Systems",
+      "cat_id": "21085",
+      "operatingsystem": "Windows",
+      "features": {
+        "Limited Warranty": "1 Year",
+        "Functions": "Video Capturing",
+        "Video Formats": "VCD",
+        "Platform Supported": "PC",
+        "Host Interface": "USB",
+        "Form Factor": "External",
+        "Product Line": "Dazzle",
+        "Number of S-Video Inputs": "1",
+        "S-Video": "Yes",
+        "System Requirements": "Intel Pentium or AMD Athlon 1.8 GHz (2.4 GHz or higher recommended) Intel Pentium HT or AMD Athlon 2.4 GHz or 1.6 GHz Dual core required for Windows Vista 1 GB system memory recommended DirectX 9 or 10 compatible graphics crd with 64 MB (128 MB or higher recommended) 128 MB required on Windows Vista (256 MB or higher recommended) DirectX 9 or higher compatible sound card 2 GB of disk space DVD-ROM drive to install software Ope ating System(s): Windows 7 Windows Vista Service Pack 2 Windows XP Service Pack 3",
+        "Composite Video": "Yes",
+        "Software Included": "Pinnacle Studio version 12",
+        "Audio Line In": "Yes",
+        "Product Type": "Video Grabber",
+        "Number of Composite Video Inputs": "1"
+      },
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "upc": "613570226659",
+      "price": "54.20",
+      "model": "82303000101",
+      "updated_at": 1463657854,
+      "sem3_id": "35RoqHIZ6mYG2C6cOsy2wU",
+      "weight": "190508.80",
+      "mpn": "8230-30001-01",
+      "ean": "0613570226659",
+      "manufacturer": "Pinnacle Systems",
+      "name": "Pinnacle Systems Dazzle DVD Recorder Plus",
+      "category": "Illustration & Design",
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "recentoffers_count": 0,
+          "sku": "6217380",
+          "url": "http://www.frys.com/product/6217380",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1459193000,
+              "price": "9.99",
+              "id": "3OwTxoKJRIKqiEgMGkWqwc",
+              "lastrecorded_at": 1459193000,
+              "seller": "Frys",
+              "availability": "Available for In-Store Pickup Only",
+              "isactive": 0
+            },
+            {
+              "price": "49.99",
+              "firstrecorded_at": 1454333900,
+              "currency": "USD",
+              "lastrecorded_at": 1458837200,
+              "id": "3sQbjbg5QmYYYQkkWmAYGc",
+              "availability": "Available for In-Store Pickup Only",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=525710",
+          "latestoffers": [
+            {
+              "id": "78e5zSY3IOSE4ACiIcUu8M",
+              "lastrecorded_at": 1390831700,
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "firstrecorded_at": 1388755100,
+              "currency": "USD",
+              "price": "46.50",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "sku": "525710",
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "54.20",
+              "currency": "USD",
+              "firstrecorded_at": 1460560400,
+              "condition": "New",
+              "lastrecorded_at": 1463588100,
+              "id": "0qgqOas96w2sycoEy2yssk",
+              "availability": "Not Available",
+              "seller": "ReStockIt",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.restockit.com/pinnacle-dazzle-dvd-recorder-plus-video-input-adapter-hi-speed-usb-num-ce7472.html",
+          "recentoffers_count": 1,
+          "name": "restockit.com",
+          "sku": "restockit_pinnacle-dazzle-dvd-recorder-plus-video-input-adapter-hi-speed-usb-num-ce7472"
+        }
+      ],
+      "created_at": 1348686568,
+      "gtins": [
+        "00613570226659"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "WPX7INTDVDRT",
+      "sem3_id": "5TfYmf5yxUwAmyKGc8gUgQ",
+      "height": "190.50",
+      "cat_id": "21085",
+      "price": "48.00",
+      "created_at": 1387824266,
+      "manufacturer": "US Serif Software",
+      "name": "US Serif Software WebPlus X7",
+      "width": "17.78",
+      "operatingsystem": "Windows 7",
+      "features": {
+        "Operating System": "Windows",
+        "Country of Origin": "USA",
+        "Computer Software Format": "Download",
+        "Number of Licenses": "1",
+        "Photo Editing Software Type": "Web Design"
+      },
+      "category": "Illustration & Design",
+      "brand": "US Serif Software",
+      "weight": "82213.62",
+      "sitedetails": [
+        {
+          "sku": "1022363",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "6Qi5gei59U8msui086Igcg",
+              "availability": "addToCart",
+              "currency": "USD",
+              "price": "109.99",
+              "firstrecorded_at": 1440098700,
+              "lastrecorded_at": 1449514900,
+              "seller": "B&H",
+              "isactive": 0
+            }
+          ],
+          "name": "bhphotovideo.com",
+          "url": "http://www.bhphotovideo.com/c/product/1022363-REG/serif_wpx6usesd_webplus_x6_software.html"
+        },
+        {
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "46pbUvAr68OOicg6eeiqea",
+              "price": "119.99",
+              "currency": "USD",
+              "lastrecorded_at": 1463681200,
+              "seller": "B&H",
+              "firstrecorded_at": 1453717900,
+              "isactive": 1
+            },
+            {
+              "price": "109.99",
+              "currency": "USD",
+              "lastrecorded_at": 1450727900,
+              "seller": "B&H",
+              "firstrecorded_at": 1434584200,
+              "availability": "Available",
+              "id": "5PA4MMMPtQCWAmEIGkc4Eu",
+              "isactive": 0
+            },
+            {
+              "id": "5p3BrbATq4QqGg4cgEoMW2",
+              "availability": "Available",
+              "firstrecorded_at": 1412610800,
+              "lastrecorded_at": 1412610800,
+              "seller": "B&H",
+              "currency": "USD",
+              "price": "99.95",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "bhphotovideo.com",
+          "sku": "1059706",
+          "url": "http://www.bhphotovideo.com/c/product/1059706-REG/serif_wpx7usesd_webplus_x8.html"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "6V62vidCoC4KM0meQwAY0y",
+              "availability": "Available",
+              "firstrecorded_at": 1463705400,
+              "lastrecorded_at": 1463705400,
+              "seller": "Quill",
+              "currency": "USD",
+              "price": "107.99",
+              "isactive": 1
+            },
+            {
+              "id": "2eC9QJsLuqmgoAUuqWcWIg",
+              "availability": "Available",
+              "firstrecorded_at": 1463397500,
+              "lastrecorded_at": 1463397500,
+              "seller": "Quill",
+              "currency": "USD",
+              "price": "101.99",
+              "isactive": 0
+            },
+            {
+              "id": "3fVnabovrMSQIsM0AS6esW",
+              "currency": "USD",
+              "price": "107.99",
+              "firstrecorded_at": 1463105900,
+              "seller": "Quill",
+              "lastrecorded_at": 1463105900,
+              "isactive": 0
+            }
+          ],
+          "name": "quill.com",
+          "sku": "50232878",
+          "url": "http://www.quill.com/design-software/cbs/50232878.html",
+          "listprice_currency": "USD",
+          "recentoffers_count": 1,
+          "listprice": "119.99"
+        }
+      ],
+      "upc": "703115690462",
+      "updated_at": 1463705482,
+      "length": "139.70",
+      "ean": "0703115690462",
+      "gtins": [
+        "00703115690462"
+      ],
+      "variation_secondaryids": [
+        "2R1C7XWqFAQscUM2ou0oEw"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Kurzweil",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply."
+      },
+      "category": "Illustration & Design",
+      "height": "160.02",
+      "sitedetails": [
+        {
+          "url": "http://www.bhphotovideo.com/c/product/898188-REG/Kurzweil_kore64_rom_Kore_64_ROM_Option.html",
+          "recentoffers_count": 1,
+          "sku": "898188",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1412624400,
+              "availability": "Available",
+              "id": "5pu100Hqd60ukeqA6AMuSK",
+              "currency": "USD",
+              "seller": "B&H",
+              "lastrecorded_at": 1463710900,
+              "price": "299.00",
+              "isactive": 1
+            }
+          ],
+          "name": "bhphotovideo.com"
+        }
+      ],
+      "width": "39.88",
+      "upc": "883793009401",
+      "cat_id": "21085",
+      "weight": "453592.37",
+      "model": "AMS KORE64ROM",
+      "mpn": "KORE64-ROM",
+      "ean": "0883793009401",
+      "updated_at": 1463710916,
+      "name": "Kurzweil Kore 64 ROM Expansion for Kurzweil PC3 and PC3K",
+      "color": "Black",
+      "created_at": 1364885787,
+      "price": "299.00",
+      "sem3_id": "10N3ACFSPeQwOIiy4qmsQU",
+      "length": "240.03",
+      "gtins": [
+        "00883793009401"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "65021566",
+      "sitedetails": [],
+      "width": "152.40",
+      "cat_id": "21085",
+      "updated_at": 1461302907,
+      "ean": "0883919164328",
+      "sem3_id": "6z4rSzl3Bo0GeeuO0I060G",
+      "category": "Illustration & Design",
+      "upc": "788831531701",
+      "height": "50.80",
+      "length": "203.20",
+      "mpn": "65021566",
+      "manufacturer": "Adobe",
+      "created_at": 1355970834,
+      "weight": "272155.42",
+      "features": {
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows Vista Business, Microsoft Windows Vista Home Premium, Microsoft Windows Vista Ultimate, Microsoft Windows Vista Enterprise SP1",
+        "Software Suite Components": "Adobe Acrobat 9 Pro, Adobe Bridge CS4, Adobe Device Central CS4, Adobe Fireworks CS4, Adobe Flash CS4 Professional, Adobe Illustrator CS4, Adobe Photoshop CS4 Extended, Adobe Version Cue CS4, Adobe Dreamweaver CS4, Adobe InDesign CS4",
+        "Package Type": "Retail",
+        "Min Supported Color Depth": "16-bit (64K colors)",
+        "License Type": "Complete package",
+        "Subcategory": "Creativity - desktop publishing, creativity - graphics & image editing, creativity - web design / publishing",
+        "License Pricing": "Standard",
+        "System Requirements Details": "Microsoft Windows Vista Business - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows Vista Enterprise SP1 - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows Vista Home Premium - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows Vista Ultimate - 2 GHz - RAM 1 GB - HD 9.3 GB Microsoft Windows XP SP2 - 2 GHz - RAM 1 GB - HD 9.3 GB",
+        "Language(s)": "Universal English",
+        "Peripheral / Interface Devices": "DVD-ROM, XGA monitor, Internet connection",
+        "License Qty": "1 user",
+        "Platform": "Windows",
+        "Distribution Media": "DVD-ROM"
+      },
+      "operatingsystem": "Windows Vista",
+      "name": "Adobe Creative Suite 4 Design Premium [Mac] [OLD VERSION] [Mac Disc]",
+      "brand": "Adobe",
+      "gtins": [
+        "00788831531701",
+        "00883919164328"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1460872130,
+      "name": "Microsoft FrontPage 2003 Upgrade",
+      "weight": "199580.64",
+      "ean": "0805529345980",
+      "price": "109.25",
+      "created_at": 1348698733,
+      "model": "392 02323",
+      "mpn": "392-02323",
+      "category": "Illustration & Design",
+      "manufacturer": "Microsoft Software",
+      "features": {
+        "Min Processor Type": "Intel Pentium - 233 MHz",
+        "License Pricing": "Standard",
+        "License Qty": "1 user",
+        "Min Hard Drive Space": "180 MB",
+        "OS Required": "Microsoft Windows XP or later, Microsoft Windows 2000 SP3 or later",
+        "License Type": "Version upgrade package",
+        "Platform": "Windows",
+        "Language(s)": "English",
+        "Subcategory": "Creativity - web design / publishing",
+        "Min RAM Size": "128 MB",
+        "Distribution Media": "CD-ROM",
+        "Peripheral / Interface Devices": "CD-ROM, SVGA monitor"
+      },
+      "operatingsystem": "Windows 2000",
+      "upc": "805529345980",
+      "cat_id": "21085",
+      "sitedetails": [],
+      "platform": [
+        "Windows 2000",
+        "Windows XP"
+      ],
+      "sem3_id": "3GFRAiYr1cEe2AaU6gOm4E",
+      "brand": "Microsoft",
+      "gtins": [
+        "00805529345980"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

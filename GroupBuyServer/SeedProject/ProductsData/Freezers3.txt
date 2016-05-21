@@ -1,0 +1,1057 @@
+{
+  "total_results_count": 8667,
+  "code": "OK",
+  "offset": 30,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "3993",
+      "brand": "Haier",
+      "price": "219.99",
+      "ean": "0688057310527",
+      "updated_at": 1463530743,
+      "mpn": "HCM050EC",
+      "features": {
+        "Locking": "Yes",
+        "Product Care": "Do not use harsh chemicals. Rinse with clean, warm water and dry with a soft cloth.",
+        "Maximum Temperature": "90 Fahrenheit",
+        "Overall Product Weight": "77.2lbs",
+        "Minimum Temperature": "50 Fahrenheit",
+        "Interior Light": "Yes",
+        "Material": "Metal",
+        "Defrost Type": "Manual",
+        "Voltage": "115 Volts (V)",
+        "Overall": "33.21\" H x 28.34\" W x 22.03\" D",
+        "Estimated Yearly Electricity Use (kWh)": "240",
+        "Interior Finish": "Textured aluminum",
+        "Adjustable thermostat to change the internal temperature Flat back design and recessed door handle to fit your space Ideal to stock up on meat, cheese, fish, and other perishable items Defrost using the easy access drain to remove melted ice Room for up to 175 lbs of frozen food UL / CUL Listed Running Amps 1.69A Annual Energy Usage 240KW / Year Electrical Requirements 115V/60HZ Product Details Voltage": "115 Volts (V)",
+        "Shelving Included": "No",
+        "Estimated Yearly Operating Cost ($USD)": "28",
+        "Finish": "White",
+        "Amperage": "1.69 Amps",
+        "Adjustable Temperature Control": "Yes",
+        "Product Warranty": "1 Year on labor and parts, 5 years on the compressor",
+        "Country of Manufacture": "China",
+        "Power-on Indicator Light": "Yes",
+        "Frequency": "60 Hertz",
+        "Product Type": "Chest Freezer",
+        "Capacity": "5 Cubic Feet",
+        "Commercial Use": "No",
+        "Door Swing Orientation": "Lift-Up",
+        "Number of Items Included": "1",
+        "Defrost Drain Included": "Yes",
+        "Energy Star Compliant": "No",
+        "Adjustable Legs Included": "No"
+      },
+      "sem3_id": "1Qyl6wOJea0WG6Q4eqyskq",
+      "weight": "34473020.12",
+      "upc": "688057310527",
+      "color": "White",
+      "height": "844.55",
+      "manufacturer": "Haier",
+      "category": "Chest Freezers",
+      "width": "720.85",
+      "created_at": 1347644812,
+      "length": "560.32",
+      "model": "HCM050EC",
+      "name": "HCM050EC Freezer",
+      "sitedetails": [
+        {
+          "sku": "N82E16896741232",
+          "latestoffers": [
+            {
+              "price": "354.00",
+              "currency": "USD",
+              "firstrecorded_at": 1365231100,
+              "availability": "Available",
+              "id": "0DU0WyDygxy66WaqSoQuky",
+              "lastrecorded_at": 1430495600,
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "price": "365.00",
+              "currency": "USD",
+              "firstrecorded_at": 1429683400,
+              "lastrecorded_at": 1430495600,
+              "id": "7iur8kj6QKIE6Mya2QmOWW",
+              "seller": "Beach Audio",
+              "isactive": 0
+            },
+            {
+              "availability": "Was: $387.99 [BBX: Buy Box]",
+              "seller": "Newegg",
+              "id": "41Y7fRFC8GGCcmea6igIIc",
+              "lastrecorded_at": 1364132300,
+              "currency": "USD",
+              "price": "334.99",
+              "firstrecorded_at": 1362853100,
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "recentoffers_count": 0,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16896741232"
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1440883800,
+              "price": "319.99",
+              "currency": "USD",
+              "id": "4zhni93O3UUSoSMCwMqWqQ",
+              "lastrecorded_at": 1441186200,
+              "seller": "Wayfair",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1420425900,
+              "price": "274.89",
+              "currency": "USD",
+              "lastrecorded_at": 1421133800,
+              "id": "7gWRENBPbEsCoqmOY88wuk",
+              "seller": "Wayfair",
+              "availability": "available",
+              "isactive": 0
+            },
+            {
+              "id": "7DrY7M2BlY2oSqSe4u6OiO",
+              "lastrecorded_at": 1420088900,
+              "seller": "Wayfair",
+              "availability": "available",
+              "firstrecorded_at": 1418603600,
+              "price": "270.89",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.wayfair.com/Haier-5.0-Cu.-Ft.-Chest-Freezer-HCM050EC-HER1214.html",
+          "name": "wayfair.com",
+          "recentoffers_count": 0,
+          "sku": "HER1214"
+        },
+        {
+          "sku": "hcm050ec",
+          "url": "http://www.haier.com/us/products/kitchen/freezers/chest-freezers/hcm050ec.shtml",
+          "recentoffers_count": 0,
+          "name": "haier.com",
+          "latestoffers": []
+        }
+      ],
+      "gtins": [
+        "00688057310527"
+      ],
+      "variation_secondaryids": [
+        "6SDSiHqTrcEUoawQoW4MqK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Upright Freezers",
+      "sitedetails": [
+        {
+          "url": "http://www.target.com/p/sunpentown-upright-freezer-2-8-cu-ft/-/A-11217219",
+          "name": "target.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1400647800,
+              "id": "2QQisekQTEKgIMcYwaeyeQ",
+              "availability": "Not Available out of stock online",
+              "price": "269.99",
+              "seller": "target.com",
+              "lastrecorded_at": 1408260300,
+              "isactive": 0
+            },
+            {
+              "price": "246.99",
+              "lastrecorded_at": 1399492800,
+              "seller": "target.com",
+              "availability": "Available in stock",
+              "firstrecorded_at": 1386946200,
+              "id": "5dNRGc6cCG08s2AqmSSkMK",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1381880800,
+              "id": "7GxkqlyJtYKOYSciGaIqmW",
+              "availability": "Available Online",
+              "price": "298.99",
+              "lastrecorded_at": 1384148000,
+              "seller": "target.com",
+              "isactive": 0
+            }
+          ],
+          "sku": "11217219"
+        },
+        {
+          "url": "http://www.walmart.com/ip/26377438",
+          "recentoffers_count": 0,
+          "sku": "26377438",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "7DkaNg6kM4AyWuim2sQ8O6",
+              "firstrecorded_at": 1407382200,
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1423362500,
+              "seller": "Build.com",
+              "price": "345.00",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.livingdirect.com/Sunpentown-3.1-Cu-Ft-Upright-Freezer-White-UF-311WOB/UF-311WOB,default,pd.html",
+          "listprice_currency": "USD",
+          "name": "livingdirect.com",
+          "listprice": "332.00",
+          "recentoffers_count": 1,
+          "sku": "UF-311WOB",
+          "latestoffers": [
+            {
+              "price": "249.00",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1463493700,
+              "currency": "USD",
+              "firstrecorded_at": 1462315500,
+              "id": "71rBZ1W4DQoUqs0awcwMge",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1435488300,
+              "seller": "Living Direct, Inc",
+              "price": "315.39",
+              "id": "5Aa7o8PrryyceGcY0WGEO0",
+              "firstrecorded_at": 1434310100,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "298.80",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1420744600,
+              "firstrecorded_at": 1420744600,
+              "id": "6F3RMX7IcCyskEwKwysoMi",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "11543",
+      "mpn": "UF-311W",
+      "length": "533.40",
+      "color": "White",
+      "model": "UF 311W",
+      "height": "863.60",
+      "updated_at": 1463574403,
+      "features": {
+        "Provider Product ID": "1014350516",
+        "ENERGY STAR Certified": "Yes [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Sound Emission": "40 dB(A)",
+        "Features": "Leveling Legs",
+        "Number of Doors/Drawers": "1",
+        "Estimated Yearly Electricity Use (kWh)": "299kWh [An estimate of how much electricity the product uses in a year based on typical use. Multiply this by your local electricity rate on your utility bill to better judge what your actual operating cost might be. ]",
+        "Weight (Approximate)": "66.00 lb",
+        "Input Voltage": "110 V AC",
+        "Refrigerant": "HFC",
+        "Freezer Capacity": "3 ftÂ³",
+        "Energy Star Compliant": "Yes",
+        "Cooling Type": "Manual Defrost",
+        "Freezer Compartment Type": "Basket",
+        "Energy Consumption per Year": "1076400 kJ",
+        "Capacity (cu. ft.)": "3",
+        "Door Type": "Reversible",
+        "Green Compliant": "Yes",
+        "Design": "Upright",
+        "Green Compliance Certificate/Authority": "ENERGY STAR",
+        "Total Capacity": "3 ftÂ³"
+      },
+      "name": "Sunpentown UF-311W Energy Star 2.8 Cubic-Foot Upright Freezer, White",
+      "upc": "876840003309",
+      "size": "3.1 cu.ft.",
+      "price": "193.04",
+      "variation_id": "4nkbxIae7cqKMeU8S0UM4U",
+      "ean": "0876840003309",
+      "sem3_id": "6TtBxYk57g8wOQoIGMSayu",
+      "created_at": 1355996896,
+      "brand": "Sunpentown",
+      "manufacturer": "Sunpentown",
+      "width": "508.00",
+      "weight": "29937096.42",
+      "gtins": [
+        "00876840003309"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "color": "White",
+      "ean": "0814982019444",
+      "model": "WHS-258C1",
+      "manufacturer": "Midea America Corperation",
+      "created_at": 1430309026,
+      "features": {
+        "Material Type": "Iron",
+        "Product Dimensions": "37.2 x 20.6 x 33.5 inches",
+        "Voltage": "120 volts",
+        "Door Material Type": "Stainless Steel",
+        "Item Weight": "72.8 pounds",
+        "Batteries Included?": "No",
+        "Freezer Capacity": "7 cubicfeet",
+        "Batteries Required?": "No",
+        "Capacity": "7 cubicfeet",
+        "Installation Type": "Free Standing",
+        "Form Factor": "Stand Alone",
+        "Certification": "No",
+        "Model Info": "WHS-258C1",
+        "Door Hinges": "Reversible",
+        "Defrost": "None"
+      },
+      "upc": "814982019444",
+      "mpn": "WHS-258C1",
+      "sem3_id": "1Kp8vRjfQKMOgU20cyOg6Y",
+      "category": "Chest Freezers",
+      "cat_id": "3993",
+      "width": "522.99",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "302.56",
+              "lastrecorded_at": 1461604400,
+              "firstrecorded_at": 1460209600,
+              "availability": "Available",
+              "seller": "Walmart",
+              "id": "6nO1O5HB20g0i0oIAa0c0m",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Walmart",
+              "availability": "Available",
+              "firstrecorded_at": 1458342700,
+              "lastrecorded_at": 1459111600,
+              "price": "199.00",
+              "currency": "USD",
+              "id": "2Y4JXC8mMSSAaYqOGgciiU",
+              "isactive": 0
+            },
+            {
+              "price": "249.00",
+              "firstrecorded_at": 1455859400,
+              "lastrecorded_at": 1455859400,
+              "availability": "Available",
+              "seller": "Walmart",
+              "id": "0WkrAcI8yIKuAg8CeqYyk0",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "sku": "38413032",
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/38413032"
+        }
+      ],
+      "height": "849.88",
+      "size": "7.0 Cubic Feet",
+      "price": "302.56",
+      "length": "944.88",
+      "name": "Midea WHS-258C1 Single Door Chest Freezer, 7.0 Cubic Feet, White [7.0 Cubic Feet]",
+      "weight": "32998844.92",
+      "updated_at": 1463417231,
+      "brand": "MIDEA",
+      "gtins": [
+        "00814982019444"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "407.55",
+      "sem3_id": "0PZQUuYSz9U0YKAysUCmWM",
+      "width": "504.95",
+      "height": "844.55",
+      "cat_id": "18225",
+      "name": "2.8 cu. ft. Upright Freezer with Lock in White",
+      "mpn": "FS407L",
+      "weight": "25854765.09",
+      "created_at": 1378810211,
+      "updated_at": 1463492597,
+      "color": "White",
+      "manufacturer": "Summit Appliance",
+      "model": "FS407L",
+      "category": "Freezers",
+      "sitedetails": [
+        {
+          "listprice": "429.00",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "id": "6JaftMfl5ceGAoG0kckiwy",
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "firstrecorded_at": 1462314000,
+              "price": "407.55",
+              "lastrecorded_at": 1463492500,
+              "isactive": 1
+            },
+            {
+              "id": "5EH3szlEoK4KisigSqEy2u",
+              "seller": "Living Direct, Inc",
+              "currency": "USD",
+              "firstrecorded_at": 1435485500,
+              "price": "379.00",
+              "lastrecorded_at": 1435485500,
+              "isactive": 0
+            },
+            {
+              "price": "360.05",
+              "firstrecorded_at": 1434305800,
+              "currency": "USD",
+              "seller": "Living Direct, Inc",
+              "id": "41WgfQMIDwksussaKy4oKY",
+              "lastrecorded_at": 1434699800,
+              "isactive": 0
+            }
+          ],
+          "sku": "FS407L",
+          "name": "livingdirect.com",
+          "url": "http://www.livingdirect.com/Summit-2-8-Cu-Ft-Freestanding-All-Freezer-White/FS407L,default,pd.html",
+          "recentoffers_count": 1
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Summit-Appliance-2.8-Cu.Ft.-Upright-Freezer-FS407L-SUI1104.html",
+          "sku": "SUI1104_12020058",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1462162900,
+              "seller": "Wayfair",
+              "currency": "USD",
+              "id": "59PmeEft3giCUS8W0WE6C0",
+              "price": "432.99",
+              "firstrecorded_at": 1462162900,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1460534400,
+              "availability": "Available",
+              "firstrecorded_at": 1460154100,
+              "price": "0.00",
+              "id": "7QXFB48UHgASu6uEMqUUcg",
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1459823400,
+              "firstrecorded_at": 1459528800,
+              "availability": "Available",
+              "price": "589.99",
+              "id": "4QjqdUcQ3UO8e4WwKsoi4q",
+              "currency": "USD",
+              "seller": "Wayfair",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "features": {
+        "Estimated Yearly Operating Cost ($)": "32",
+        "Control Type": "Analog",
+        "Capacity (cu. Ft.) - Freezer": "2.8",
+        "Assembled Height (in.)": "33.25 in",
+        "Depth (Excluding Handles)": "23.25 in",
+        "Minimum Side Air Clearance (In)": "1",
+        "Freezer Features": "Adjustable Temperature Control,Safety Lock,Sliding-Bulk Storage Baskets",
+        "Interior Light": "No",
+        "Returnable": "90-Day",
+        "Bulk Storage Baskets (number)": "4",
+        "Depth (Including Handles)": "24.25 in",
+        "Minimum Back Air Clearance (In)": "1",
+        "Height to Top of Door Hinge": "33.25 in",
+        "Energy Consumption (kWh/year)": "298",
+        "ENERGY STAR Certified": "No",
+        "Assembled Width (in.)": "19.88 in",
+        "Depth With Door Open 90 Degrees (In)": "41.38",
+        "Freezer Type": "Upright",
+        "Warranty Information": "1 year parts and labor/5 years compressor",
+        "Product Depth (in.)": "23.25",
+        "Defrost Type": "Manual",
+        "Reversible Door(s)": "Yes",
+        "Certifications and Listings": "ETL Listed",
+        "Appliance Type": "Upright Freezer",
+        "Assembled Depth (in.)": "23.25 in",
+        "Color/Finish Family": "White"
+      },
+      "brand": "Summit Appliance",
+      "upc": "761101022123",
+      "ean": "0761101022123",
+      "gtins": [
+        "00761101022123"
+      ],
+      "variation_secondaryids": [
+        "2gPhE3NgOuAWSM8IGOMyq4"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Certifications and Listings": "1-UL Listed",
+        "Freezer Features": "Adjustable Leveling Legs,Adjustable Temperature Control,No Additional Features",
+        "Height to Top of Door Hinge": "33.86",
+        "Number of Shelves": "2",
+        "Control Type": "Mechanical",
+        "Defrost Type": "Manual",
+        "Bulk Storage Baskets (number)": "1",
+        "Depth (Including Handles)": "21.3",
+        "Product Height (in.)": "33.86",
+        "Capacity (cu. Ft.) - Freezer": "3",
+        "Warranty Information": "1 Year Residential/90 days Commercial",
+        "Depth (Excluding Handles)": "21.3",
+        "Reversible Door(s)": "Yes",
+        "Product Width (in.)": "19.72",
+        "Height to Top of Case (in.)": "33.9",
+        "Appliance Type": "Upright Freezer",
+        "Energy Consumption (kWh/year)": "240",
+        "Freezer Type": "Upright",
+        "Temperature Range": "6",
+        "ENERGY STAR Certified": "Yes",
+        "Depth With Door Open 90 Degrees (In)": "41",
+        "Product Depth (in.)": "21.26",
+        "Returnable": "90-Day"
+      },
+      "sem3_id": "0iRg0h3BLA6iIKMKiscygC",
+      "price": "269.99",
+      "height": "860.04",
+      "cat_id": "11543",
+      "model": "WHS-109FSS1",
+      "created_at": 1416247599,
+      "ean": "0814982019352",
+      "upc": "814982019352",
+      "weight": "25999914.65",
+      "manufacturer": "Midea America Corperation",
+      "size": "3.0 cubic feet",
+      "brand": "MIDEA",
+      "color": "Stainless Steel",
+      "category": "Upright Freezers",
+      "sitedetails": [],
+      "name": "Midea WHS-109F Compact Single Reversible Door Upright Freezer, 3.0 Cubic Feet, Stainless Steel [Stainless Steel, 3.0 cubic feet]",
+      "mpn": "WHS-109FSS1",
+      "width": "540.00",
+      "length": "500.89",
+      "updated_at": 1463486998,
+      "gtins": [
+        "00814982019352"
+      ],
+      "variation_secondaryids": [
+        "1k1jBWI7nYMkc6qkQyUwEU",
+        "2mGPYoUo7UCy8gKSqu6KSY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "012505226007",
+      "created_at": 1347781105,
+      "features": {
+        "Temperature Alarm": "No",
+        "ENERGY STAR Qualified": "No",
+        "Depth (Less Door) (Inches)": "31.25",
+        "Width (Inches)": "35.04",
+        "Door Texture": "Textured",
+        "Color/Finish Family": "White",
+        "Cabinet Color": "White",
+        "Manufacturer Color/Finish": "White",
+        "ETL Safety Listing": "No",
+        "Freezer Capacity (Cu. Feet)": "20.7",
+        "Ice Maker": "None",
+        "Height to Top of Door Hinge (Inches)": "71.25",
+        "Slide-Out Baskets": "1.0",
+        "Appliance Color/Finish": "White",
+        "Manufacturer's Warranty (Labor)": "1-year limited",
+        "Manufacturer's Warranty (Parts)": "1-year limited",
+        "Electronic Temperature Control": "No",
+        "Door Handle(s) Color": "White",
+        "Defrost Type": "Manual",
+        "UL Safety Listing": "No",
+        "Height to Top of Case (Inches)": "70.59",
+        "CSA Safety Listing": "Yes",
+        "Handle Type": "Standard",
+        "CEE Tier Qualified": "N/A",
+        "Type of Ice": "None",
+        "Interior Lighting": "Incandescent",
+        "Depth (Excluding Handles) (Inches)": "30.48",
+        "Power On Indicator Light": "Yes",
+        "Reversible Door": "No",
+        "Lowe's Exclusive": "No",
+        "Door Style": "Flat",
+        "Door Shelves": "8.0",
+        "Depth (Including Handles) (Inches)": "33.48",
+        "Freezer Shelves": "4",
+        "Security Lock": "Yes",
+        "Depth with Door Open (Inches)": "66.29"
+      },
+      "category": "Upright Freezers",
+      "mpn": "FFU21M7HW",
+      "name": "Frigidaire 21 CF Upright Freezer White",
+      "cat_id": "11543",
+      "manufacturer": "Frigidaire",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1380720700,
+              "seller": "Newegg",
+              "lastrecorded_at": 1382940400,
+              "price": "579.00",
+              "currency": "USD",
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "id": "41gN6h45aCMmYisw88g066",
+              "isactive": 0
+            },
+            {
+              "id": "0bnPFEKaZfa0A8mkeS42Ew",
+              "availability": "In stock. [BBX: Buy Box]",
+              "currency": "USD",
+              "price": "659.70",
+              "lastrecorded_at": 1380982100,
+              "seller": "Gerhards Appliances",
+              "firstrecorded_at": 1376905800,
+              "isactive": 0
+            },
+            {
+              "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]",
+              "currency": "USD",
+              "price": "579.00",
+              "id": "7Undi9o1Meoum0EwCWocQK",
+              "seller": "Newegg",
+              "shipping": "238.72",
+              "firstrecorded_at": 1363782600,
+              "lastrecorded_at": 1363782600,
+              "isactive": 0
+            }
+          ],
+          "sku": "9SIA0BE0GH6023",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA0BE0GH6023",
+          "name": "newegg.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "6tfhA47gWWOMuWMoUwgMkM",
+              "availability": "available",
+              "currency": "USD",
+              "price": "769.00",
+              "lastrecorded_at": 1420992600,
+              "seller": "Wayfair",
+              "firstrecorded_at": 1399468600,
+              "isactive": 0
+            },
+            {
+              "price": "739.00",
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "2CVHsKzuOKuG400o8CGoY6",
+              "firstrecorded_at": 1394486400,
+              "seller": "Wayfair",
+              "lastrecorded_at": 1396169000,
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "firstrecorded_at": 1390281900,
+              "lastrecorded_at": 1390281900,
+              "availability": "In Stock",
+              "currency": "USD",
+              "price": "802.90",
+              "id": "4goeveSZVowiyOq2ycECw6",
+              "isactive": 0
+            }
+          ],
+          "sku": "FRI1376",
+          "name": "wayfair.com",
+          "url": "http://www.wayfair.com/Frigidaire-Manual-Defrost-21-Cu.-Ft.-Upright-Freezer-FFU21M7HW-FRI1376.html"
+        }
+      ],
+      "length": "790.45",
+      "color": "White",
+      "width": "812.80",
+      "brand": "Frigidaire",
+      "sem3_id": "4XtrMXA3JwuA0GSmsQ8q2c",
+      "model": "FFU21M7HW",
+      "updated_at": 1463485861,
+      "ean": "0012505226007",
+      "weight": "117026831.46",
+      "height": "1809.75",
+      "gtins": [
+        "00012505226007"
+      ],
+      "variation_secondaryids": [
+        "1TI0nZvryCY8Ice2gYasog"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347714558,
+      "color": "White",
+      "updated_at": 1463499045,
+      "width": "609.60",
+      "height": "863.60",
+      "category": "Upright Freezers",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "1259.00",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1463493800,
+              "firstrecorded_at": 1462315700,
+              "id": "04CRKesZ3MGoICsuMOGKU2",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "2spAjhfsHgE0M46wqmwE0E",
+              "currency": "USD",
+              "firstrecorded_at": 1434307200,
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1435489000,
+              "price": "1199.00",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1418493000,
+              "id": "5OeGmUTwZseYEAcOwMyC6G",
+              "currency": "USD",
+              "price": "1159.00",
+              "seller": "Living Direct, Inc",
+              "lastrecorded_at": 1420581100,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "url": "http://www.livingdirect.com/vt65-compact-summit-upright-laboratory-freezer/VT65,default,pd.html",
+          "listprice": "1259.00",
+          "listprice_currency": "USD",
+          "name": "livingdirect.com",
+          "sku": "VT65"
+        }
+      ],
+      "length": "609.60",
+      "upc": "761101009223",
+      "manufacturer": "Summit",
+      "weight": "45359237.00",
+      "features": {
+        "Cooling Type": "Static cooling",
+        "Doors Qty": "1",
+        "Control Features": "Digital display, electronic controls",
+        "Reversible Doors": "Yes",
+        "Product Type": "Freezer - upright freezer",
+        "Doors Features": "Lockable freezer door",
+        "Total Net Capacity": "3.5 cu. ft",
+        "Temperature Alert Features": "Yes",
+        "Door Hinge": "Right",
+        "Compliant Standards": "UL, ULC, ETL-S",
+        "Warranty": "1 year",
+        "Freezer Net Capacity": "3.5 cu. ft",
+        "Form Factor": "Freestanding - 24\"",
+        "Freezer Drawers Qty": "3",
+        "Weight (Shipping)": "115.1 lbs"
+      },
+      "ean": "0761101009223",
+      "model": "VT65",
+      "sem3_id": "1wpgzC2ZFkM0ygqcei6Omo",
+      "name": "4.0 cu. ft. Counter-Depth Laboratory Upright Freezer with Manual Defrost Capable of -30 Degrees C Operation Temperature Alarm & Display and Front Lock",
+      "mpn": "VT65",
+      "brand": "Summit",
+      "price": "1068.93",
+      "cat_id": "11543",
+      "gtins": [
+        "00761101009223"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463374629,
+      "category": "Upright Freezers",
+      "manufacturer": "Midea America Corperation",
+      "height": "860.04",
+      "sitedetails": [
+        {
+          "name": "quill.com",
+          "url": "http://www.quill.com/refrigerator/cbs/50580409.html",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "7RikCzy52mgge0WGmqSMIu",
+              "price": "179.99",
+              "availability": "Not Available",
+              "firstrecorded_at": 1416538800,
+              "seller": "Quill",
+              "currency": "USD",
+              "lastrecorded_at": 1416538800,
+              "isactive": 0
+            }
+          ],
+          "sku": "50580409"
+        }
+      ],
+      "weight": "25999914.65",
+      "sem3_id": "2Yl8ZqEwE0wGIwCoCKg8yQ",
+      "width": "540.00",
+      "mpn": "WHS-109FB1",
+      "upc": "814982019369",
+      "model": "WHS-109FB1",
+      "price": "181.21",
+      "brand": "MIDEA",
+      "created_at": 1416247617,
+      "color": "Black",
+      "size": "3.0 cubic feet",
+      "ean": "0814982019369",
+      "name": "Midea WHS-109F Compact Single Reversible Door Upright Freezer, 3.0 Cubic Feet, Black [Black, 3.0 cubic feet]",
+      "length": "500.89",
+      "cat_id": "11543",
+      "features": {
+        "Product Dimensions": "19.7 x 21.3 x 33.9 inches",
+        "Defrost": "None",
+        "Item Weight": "57.3 pounds",
+        "Batteries Included?": "No",
+        "Door Material Type": "Stainless Steel",
+        "Freezer Capacity": "3 cubicfeet",
+        "Capacity": "3 cubicfeet",
+        "Installation Type": "Free Standing",
+        "Material Type": "Stainless-Steel",
+        "Batteries Required?": "No",
+        "Voltage": "120 volts",
+        "Certification": "energystar",
+        "Form Factor": "Stand Alone",
+        "Door Hinges": "Reversible",
+        "Model Info": "WHS-109FB1"
+      },
+      "gtins": [
+        "00814982019369"
+      ],
+      "variation_secondaryids": [
+        "1k1jBWI7nYMkc6qkQyUwEU",
+        "2mGPYoUo7UCy8gKSqu6KSY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "1670.05",
+      "updated_at": 1463404956,
+      "width": "812.80",
+      "color": "White",
+      "model": "FKCH17F7HW",
+      "upc": "012505225871",
+      "category": "Upright Freezers",
+      "created_at": 1347763540,
+      "features": {
+        "Depth (Including Handles) (Inches)": "30.13",
+        "Interior Lighting": "Incandescent",
+        "CSA Safety Listing": "Yes",
+        "Freezer Capacity (Cu. Feet)": "16.7",
+        "Electronic Temperature Control": "Yes",
+        "Manufacturer Color/Finish": "White",
+        "Depth with Door Open (Inches)": "57.38",
+        "Appliance Color/Finish": "White",
+        "Cabinet Color": "White",
+        "Reversible Door": "Yes",
+        "Freezer Shelves": "3",
+        "Depth (Less Door) (Inches)": "28.5",
+        "Door Texture": "Smooth",
+        "CEE Tier Qualified": "CEE Tier I",
+        "Lowe's Exclusive": "No",
+        "Temperature Alarm": "No",
+        "ETL Safety Listing": "No",
+        "Defrost Type": "Frost-free",
+        "Security Lock": "No",
+        "UL Safety Listing": "No",
+        "ENERGY STAR Qualified": "Yes",
+        "Manufacturer's Warranty (Parts)": "1-year limited",
+        "Height to Top of Door Hinge (Inches)": "65.75",
+        "Color/Finish Family": "White",
+        "Depth (Excluding Handles) (Inches)": "29.13",
+        "Ice Maker": "None",
+        "Width (Inches)": "32.0",
+        "Handle Type": "Standard",
+        "ADA Compliant": "No",
+        "Door Handle(s) Color": "White",
+        "Series": "N/A",
+        "Power On Indicator Light": "Yes",
+        "Slide-Out Baskets": "2.0",
+        "Manufacturer's Warranty (Labor)": "1-year limited",
+        "Type of Ice": "None",
+        "Door Shelves": "6.0",
+        "Door Style": "Flat",
+        "Height to Top of Case (Inches)": "65.13"
+      },
+      "cat_id": "11543",
+      "mpn": "FKCH17F7HW",
+      "sem3_id": "3FMwmDz4DIQ2oWwMaQgyqQ",
+      "brand": "Frigidaire",
+      "ean": "0012505225871",
+      "length": "739.65",
+      "manufacturer": "Frigidaire",
+      "sitedetails": [],
+      "name": "Frigidaire 16.7 CF Freezer, Energy Star,4",
+      "weight": "97522359.55",
+      "gtins": [
+        "00012505225871"
+      ],
+      "variation_secondaryids": [
+        "6XxiCVmnjMY2wEAkSgqs28"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "814982019246",
+      "width": "450.09",
+      "name": "Midea WHS-52FSS1 Compact Single Reversible Door Upright Freezer, 1.1 Cubic Feet, Stainless Steel [Stainless Steel]",
+      "ean": "0814982019246",
+      "sem3_id": "4hkirLk4s4MEMCQagIcYeq",
+      "created_at": 1428607074,
+      "brand": "MIDEA",
+      "length": "471.93",
+      "features": {
+        "Returnable": "90-Day",
+        "Freezer Features": "Adjustable Leveling Legs,Adjustable Temperature Control,Safety Lock",
+        "Freezer Type": "Upright",
+        "Height to Top of Case (in.)": "19.37",
+        "Defrost Type": "Manual",
+        "Depth (Including Handles)": "17.71",
+        "Temperature Range": "off 6",
+        "Depth With Door Open 90 Degrees (In)": "36.3",
+        "Appliance Type": "Upright Freezer",
+        "Height to Top of Door Hinge": "19.37",
+        "Warranty Information": "1 Year Residential/90 days Commercial",
+        "Certifications and Listings": "CSA Certified",
+        "Product Width (in.)": "18.5",
+        "Product Depth (in.)": "18.5",
+        "Depth (Excluding Handles)": "17.71",
+        "Control Type": "Mechanical",
+        "Product Height (in.)": "19.4",
+        "Number of Shelves": "1",
+        "Reversible Door(s)": "No",
+        "Energy Consumption (kWh/year)": "215",
+        "Capacity (cu. Ft.) - Freezer": "1.1",
+        "ENERGY STAR Certified": "Yes"
+      },
+      "variation_id": "1DBrZfRGJWa8WCI6aI2WMO",
+      "model": "WHS-52FSS1",
+      "height": "492.00",
+      "cat_id": "11543",
+      "mpn": "WHS-52FSS1",
+      "price": "199.14",
+      "color": "Stainless Steel",
+      "updated_at": 1463479921,
+      "manufacturer": "Midea America Corperation",
+      "category": "Upright Freezers",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "2ZD1dmdbP6SmScIEqGmcSq",
+              "firstrecorded_at": 1463479900,
+              "lastrecorded_at": 1463479900,
+              "currency": "USD",
+              "seller": "UnbeatableSale",
+              "price": "199.14",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "id": "4uZyYKnaGGsQaOa8acesqa",
+              "firstrecorded_at": 1462498500,
+              "lastrecorded_at": 1463216700,
+              "currency": "USD",
+              "price": "199.90",
+              "seller": "UnbeatableSale",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "UnbeatableSale",
+              "price": "211.71",
+              "availability": "Available",
+              "id": "1eYWiHH6mKamk4ECykeYYC",
+              "firstrecorded_at": 1455500500,
+              "lastrecorded_at": 1462214500,
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 1,
+          "url": "http://www.walmart.com/ip/47708290",
+          "sku": "47708290"
+        }
+      ],
+      "gtins": [
+        "00814982019246"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "mpn": "SSSNG020-20-AMZ",
+      "created_at": 1357693494,
+      "updated_at": 1459223151,
+      "sem3_id": "5mG5VM2QjoY6QM480M8qUY",
+      "length": "5.08",
+      "width": "0.01",
+      "cat_id": "587",
+      "features": {
+        "Brand, Seller, or Collection Name": "Kooljewelry",
+        "Chain": "Singapore",
+        "Product Dimensions": "4 x 2.3 x 0.6 inches; 0.2 ounces",
+        "Clasp": "Spring ring",
+        "Metal stamp": "925 Sterling",
+        "Metal": "Sterling silver",
+        "Total metal weight": "1.1 Grams"
+      },
+      "weight": "4535.92",
+      "model": "SSSNG020-20",
+      "sitedetails": [],
+      "name": "Sterling Silver 1.3mm Singapore Chain (14, 16, 18, 20, 22, 24, 30 or 36 inch)",
+      "category": "Men's Jewelry",
+      "variation_id": "4sfudFiMA4k8WaagIqC6Oe",
+      "upc": "746698741411",
+      "brand": "Kooljewelry",
+      "price": "8.99",
+      "ean": "0746698741411",
+      "gtins": [
+        "00746698741411"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [],
+      "name": "Sterling Silver 1mm Twisted Curb Chain (14, 16, 18, 20, 22, 24, 30 or 36 inch - white, yellow or rose)",
+      "length": "4.57",
+      "created_at": 1347575909,
+      "brand": "Kooljewelry",
+      "upc": "746698741107",
+      "variation_id": "5q7stTvgQ4mQ44ey4gWS8m",
+      "price": "7.99",
+      "width": "0.01",
+      "category": "Men's Jewelry",
+      "updated_at": 1459136377,
+      "ean": "0746698741107",
+      "weight": "4535.92",
+      "features": {
+        "Chain": "Curb",
+        "Metal stamp": "925 Sterling",
+        "Brand, Seller, or Collection Name": "Kooljewelry",
+        "Total metal weight": "1.10 Grams",
+        "Clasp": "Spring ring",
+        "Product Dimensions": "3.9 x 2.4 x 0.6 inches; 0.2 ounces",
+        "Metal": "Sterling silver"
+      },
+      "model": "SSRTW25-18",
+      "sem3_id": "6Z8lTV8LUeOyA20cGka4Eu",
+      "mpn": "SSRTW25-18-AMZ",
+      "cat_id": "587",
+      "gtins": [
+        "00746698741107"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459207683,
+      "variation_id": "35RqOoONB2EQEc8CSGyuKg",
+      "category": "Men's Jewelry",
+      "created_at": 1347546309,
+      "price": "185.00",
+      "sitedetails": [],
+      "brand": "AX Jewelry",
+      "name": "Tungsten Carbide Diamond Men's Wedding Band .20CTW (H-I I2)",
+      "features": {
+        "Resizable": "No",
+        "Metal stamp": "Tungsten Carbide",
+        "Stone Creation Method": "Natural",
+        "Setting": "Prong",
+        "Stone shape": "Round",
+        "Minimum color": "HI",
+        "Gem Type": "White diamond",
+        "Brand, Seller, or Collection Name": "AX Jewelry",
+        "Minimum clarity": "I2",
+        "Metal": "Tungsten"
+      },
+      "model": "TGR30001E14",
+      "sem3_id": "1SRLPT6QMyoScAkMiOAyKE",
+      "weight": "453592.37",
+      "width": "4.04",
+      "height": "0.69",
+      "mpn": "TGR30001E14",
+      "manufacturer": "AX Jewelry",
+      "cat_id": "587",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "587",
+      "features": {
+        "Product Dimensions": "2 x 2 x 1.9 inches; 3.2 ounces",
+        "Metal": "Yellow gold",
+        "Metal stamp": "14k",
+        "Origin": "USA",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Package": "Deluxe Small Box",
+        "Sizing lower range": "4",
+        "Resizable": "Yes",
+        "Sizing upper range": "15"
+      },
+      "weight": "90718.47",
+      "name": "Men's 14k Gold Comfort-Fit Plain Wedding Band (6 mm)",
+      "variation_id": "72jSQkwRE0mmYQGK88ukcU",
+      "sitedetails": [],
+      "model": "YG LCF 160 SZ 8.5",
+      "updated_at": 1459205878,
+      "sem3_id": "3lH2z6CsOeYocCMYQSuskK",
+      "category": "Men's Jewelry",
+      "brand": "Amazon Curated Collection",
+      "created_at": 1347733037,
+      "price": "303.70",
+      "manufacturer": "Amazon Curated Collection",
+      "width": "1.52",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "LCF16014kw10.5",
+      "updated_at": 1459205969,
+      "variation_id": "6aQvJD8abgmA4OeMOYui0Q",
+      "sitedetails": [],
+      "weight": "90718.47",
+      "name": "Men's 14k Gold Comfort-Fit Plain Wedding Band (6 mm)",
+      "cat_id": "587",
+      "features": {
+        "Product Dimensions": "2 x 2 x 1.9 inches; 3.2 ounces",
+        "Metal": "White gold",
+        "Metal stamp": "14k",
+        "Origin": "USA",
+        "Package": "Deluxe Small Box",
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Resizable": "Yes",
+        "Sizing lower range": "4",
+        "Sizing upper range": "15"
+      },
+      "width": "1.52",
+      "manufacturer": "Amazon Curated Collection",
+      "created_at": 1347793879,
+      "brand": "Amazon Curated Collection",
+      "price": "327.90",
+      "category": "Men's Jewelry",
+      "sem3_id": "0mmFtJDk9gkeEWcOySSMAS",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1459123294,
+      "variation_id": "2hOFe4St7QKGKGqIywqQAa",
+      "cat_id": "6408",
+      "sitedetails": [],
+      "manufacturer": "King Will",
+      "width": "17.78",
+      "features": {
+        "Product Dimensions": "2.7 x 2.4 x 2.4 inches; 3.2 ounces",
+        "Origin": "China"
+      },
+      "mpn": "size_10.5",
+      "sem3_id": "37lf1IEv2OCySA6cIoo6w8",
+      "ean": "6955185751978",
+      "model": "size_10.5",
+      "created_at": 1437448385,
+      "name": "Sale! King Will Men Women Wedding Black Tungsten Ring 8mm Brushed Matte Finish Beveled Polished Edge ComfortFit [10.5]",
+      "weight": "90718.47",
+      "category": "Rings",
+      "height": "17.78",
+      "brand": "King Will",
+      "gtins": [
+        "06955185751978"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "JDZ Amulets Tibetan Buddhist Vintage Style 108 Porcelain Prayer Beads Wrist Meditation Mala Bracelet [Blue]",
+      "upc": "601393445999",
+      "sem3_id": "3PTogacNZQwUueqy6MwuaW",
+      "category": "Bracelets",
+      "mpn": "LSFZSL",
+      "ean": "0601393445999",
+      "updated_at": 1459115016,
+      "cat_id": "23129",
+      "sitedetails": [],
+      "manufacturer": "JDZ Amulets",
+      "brand": "JDZ Amulets",
+      "variation_id": "3745P3XNt2kiSkakeayOge",
+      "created_at": 1442974627,
+      "features": {
+        "Shipping Information": "View shipping rates and policies"
+      },
+      "model": "LSFZSL",
+      "gtins": [
+        "00601393445999"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "5390496056878",
+      "brand": "Solvar",
+      "features": {
+        "Metal": "Sterling silver",
+        "Metal stamp": ".925",
+        "Brand, Seller, or Collection Name": "Solvar"
+      },
+      "cat_id": "6696",
+      "model": "S4091",
+      "weight": "181436.95",
+      "manufacturer": "Solvar",
+      "sem3_id": "0Gb2YUkc2iWKQsaIMKWu2E",
+      "price": "92.50",
+      "updated_at": 1459112301,
+      "sitedetails": [],
+      "name": "Celtic Cross Necklace Mens Sterling Silver (1-1/2\") Irish Made",
+      "created_at": 1347757379,
+      "category": "Necklaces",
+      "gtins": [
+        "05390496056878"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "160.00",
+      "mpn": "1023627",
+      "created_at": 1375337167,
+      "artist": "Swarovski",
+      "name": "Swarovski Oceanic Light Siam Pendant 1023627",
+      "upc": "768549229275",
+      "model": "1023627",
+      "manufacturer": "Swarovski",
+      "sitedetails": [],
+      "weight": "340194.28",
+      "brand": "Swarovski",
+      "category": "Men's Jewelry",
+      "ean": "0768549229275",
+      "features": {
+        "Metal": "Platinum-plated",
+        "Brand, Seller, or Collection Name": "Swarovski",
+        "Product Dimensions": "3.5 x 3.5 x 1.5 inches; 2.4 ounces",
+        "Material": "Crystal",
+        "Metal stamp": "Platinum-plated"
+      },
+      "cat_id": "587",
+      "updated_at": 1459177001,
+      "sem3_id": "5iS7mpZgdUGikaAkWAGwui",
+      "gtins": [
+        "00768549229275"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Sterling Silver 1.1mm Rope Chain (14, 16, 18, 20, 22, 24 or 30 inch in white, yellow or rose)",
+      "created_at": 1347709547,
+      "model": "SSR8-16",
+      "variation_id": "0ATGmmvXo8GKoS4M6aU68E",
+      "sitedetails": [],
+      "weight": "4535.92",
+      "brand": "Kooljewelry",
+      "length": "4.06",
+      "features": {
+        "Chain": "Other",
+        "Clasp": "Spring ring",
+        "Total metal weight": "0.70 Grams",
+        "Brand, Seller, or Collection Name": "Kooljewelry",
+        "Metal": "Sterling silver",
+        "Product Dimensions": "4.1 x 3.7 x 1 inches; 0.2 ounces",
+        "Metal stamp": "925 Sterling"
+      },
+      "price": "7.49",
+      "mpn": "SSR8-16-AMZ",
+      "upc": "746698738572",
+      "category": "Men's Jewelry",
+      "cat_id": "587",
+      "ean": "0746698738572",
+      "width": "0.01",
+      "updated_at": 1459139741,
+      "sem3_id": "3jAcu8tLJoMaW2U2aiKecO",
+      "gtins": [
+        "00746698738572"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

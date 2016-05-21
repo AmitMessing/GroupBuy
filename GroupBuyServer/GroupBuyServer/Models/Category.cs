@@ -15,7 +15,7 @@ namespace GroupBuyServer.Models
         {
             Table("t_categories");
 
-            Id(x => x.Id, "id");
+            Id(x => x.Id, "id").GeneratedBy.Assigned();
             Map(x => x.Name, "name");
             Map(x => x.ParentId, "parent_id");
         }

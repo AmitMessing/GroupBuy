@@ -34,9 +34,9 @@ namespace GroupBuyServer.Utils
                     .ConnectionString(@"Server=.\SQLEXPRESS;Database=GroupBuy;User Id=groupbuy; Password=groupbuy123;")
                     .ShowSql()
                 ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())).BuildConfiguration();
-/*
-            var exporter = new SchemaExport(cfg);
-            exporter.Create(false, true);*/
+//            
+//            var exporter = new SchemaExport(cfg);
+//            exporter.Create(false, true);
 
             return cfg.BuildSessionFactory();
         }

@@ -1,0 +1,418 @@
+{
+  "total_results_count": 33976,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "operatingsystem": "Windows 95",
+      "mpn": "72054",
+      "sitedetails": [],
+      "name": "Barbie Horse Adventures: Mystery Ride - PC",
+      "category": "Games",
+      "manufacturer": "Vivendi Universal",
+      "sem3_id": "1aTCf7YEJUYCWIGmu8WK86",
+      "features": {
+        "Style": "Third-Person Adventure",
+        "Game Theme": "Female Protagonist, Franchise Characters, Horses",
+        "Platform": "PC",
+        "Manufacturer/Publisher": "Vivendi Universal Games",
+        "ESRB Rating": "Everyone",
+        "Release Date": "September 16, 2003",
+        "Genre": "Adventure"
+      },
+      "cat_id": "7003",
+      "platform": [
+        "Windows 98",
+        "Windows Me",
+        "Windows XP",
+        "Windows 95"
+      ],
+      "brand": "Vivendi Universal",
+      "price": "59.94",
+      "updated_at": 1459011816,
+      "upc": "020626720540",
+      "created_at": 1348696521,
+      "ean": "0020626720540",
+      "gtins": [
+        "00020626720540"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "platform": [
+        "Mac",
+        "Windows 98",
+        "Windows Me",
+        "Windows",
+        "Windows 95"
+      ],
+      "width": "9.65",
+      "sem3_id": "74XRhCezKKoKqI8eqyikGw",
+      "features": {
+        "Discontinued by manufacturer": "Yes"
+      },
+      "manufacturer": "The Learning Company",
+      "brand": "The Learning Company",
+      "mpn": "381183",
+      "weight": "90718.47",
+      "sitedetails": [],
+      "upc": "825247028309",
+      "name": "The Oregon Trail: Adventures along the Oregon Trail, 5th Edition",
+      "cat_id": "7003",
+      "model": "380859",
+      "updated_at": 1459102218,
+      "height": "127.00",
+      "created_at": 1348673661,
+      "price": "8.90",
+      "ean": "9780439026000",
+      "category": "Games",
+      "length": "143.00",
+      "operatingsystem": "Mac OS 9.X",
+      "gtins": [
+        "00825247028309",
+        "09780439026000"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "794678314018",
+      "sem3_id": "31DpIDqivIwQic8cS8eEWK",
+      "sitedetails": [
+        {
+          "name": "jr.com",
+          "url": "http://www.jr.com/rosetta-stone/pe/FLT_31401",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1388156300,
+              "seller": "JR",
+              "price": "125.30",
+              "currency": "USD",
+              "id": "3h0hhTkdpoEEM2o8YMKOqS",
+              "firstrecorded_at": 1388156300,
+              "isactive": 0
+            }
+          ],
+          "sku": "FLT_31401",
+          "recentoffers_count": 0
+        }
+      ],
+      "price": "99.00",
+      "created_at": 1348680366,
+      "name": "Learn Hindi: Rosetta Stone Hindi - Level 1 [Hindi, PC/Mac Disc]",
+      "updated_at": 1459093600,
+      "manufacturer": "Rosetta Stone",
+      "ean": "9781617160257",
+      "cat_id": "14300",
+      "brand": "Rosetta Stone",
+      "model": "27811",
+      "size": "Level 1",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "September 14, 2010",
+        "Media": "CD-ROM"
+      },
+      "platform": [
+        "Windows Vista",
+        "Mac OS X 10.5 Leopard",
+        "Mac OS X 10.4 Tiger",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "category": "Children's",
+      "operatingsystem": "Mac OS X 10.6+",
+      "gtins": [
+        "00794678314018",
+        "09781617160257"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "Windows 2000",
+      "category": "Games",
+      "length": "190.50",
+      "model": "00113",
+      "cat_id": "7003",
+      "width": "133.35",
+      "created_at": 1348687083,
+      "ean": "0838639001132",
+      "features": {
+        "Media": "Video Game",
+        "Release Date": "July 2, 2003",
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "name": "Learn to Play Chess with Fritz and Chesster [PC Disc]",
+      "manufacturer": "Viva Media",
+      "weight": "113398.09",
+      "updated_at": 1459358180,
+      "height": "31.75",
+      "sem3_id": "0EQizeByOlkGkoaAKIekQG",
+      "brand": "Viva Media",
+      "upc": "838639001132",
+      "mpn": "00113",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Windows XP"
+      ],
+      "sitedetails": [],
+      "price": "39.99",
+      "gtins": [
+        "00838639001132"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0742725227996",
+      "created_at": 1348677562,
+      "updated_at": 1455591795,
+      "weight": "140613.63",
+      "sitedetails": [],
+      "price": "43.95",
+      "cat_id": "7003",
+      "height": "44.45",
+      "length": "241.30",
+      "sem3_id": "2xCxVtIITYYsE2AKsSWyYq",
+      "platform": [
+        "Mac",
+        "Windows"
+      ],
+      "features": {
+        "Platform": "Hybrid PC/Mac",
+        "Release Date": "June, 2000",
+        "Manufacturer/Publisher": "Humongous Entertainment",
+        "PC Minimum Requirements": "CPU Type: Pentium CPU Speed in MHz: 166RAM: 16MbHard Drive Space: 5MbCD Drive Speed: 4XGraphics Type: SVGAColor Depth: 256 ~ Ron Ellerson, All Game Guide",
+        "Genre": "Sports",
+        "Game Theme": "Professional Athletics",
+        "ESRB Rating": "Not Rated by ESRB",
+        "Developer": "Humongous Entertainment",
+        "Style": "Baseball",
+        "Flags": "Voice",
+        "Controls": "Keyboard, Mouse"
+      },
+      "brand": "Humongous",
+      "upc": "742725181458",
+      "name": "Backyard Baseball 2001 - PC/Mac",
+      "model": "04 18145J",
+      "category": "Games",
+      "width": "203.20",
+      "manufacturer": "Humongous Entertainment",
+      "gtins": [
+        "00742725181458",
+        "00742725227996"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "manufacturer": "Rosetta Stone",
+      "brand": "Rosetta Stone",
+      "category": "Children's",
+      "name": "Rosetta Stone Homeschool Spanish (Latin America) Level 1-3 Set including Audio Companion",
+      "created_at": 1374673538,
+      "updated_at": 1459189472,
+      "price": "229.00",
+      "sem3_id": "2knKXC95aSwm0kS4eicCEE",
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "sitedetails": [],
+      "ean": "9781607179245",
+      "model": "60996",
+      "upc": "794678609961",
+      "weight": "1043262.45",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "cat_id": "14300",
+      "gtins": [
+        "00794678609961",
+        "09781607179245"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "School Zone",
+      "price": "6.00",
+      "upc": "076645090645",
+      "weight": "49895.16",
+      "ean": "0076645090645",
+      "manufacturer": "SCHOOL ZONE PUBLISHING",
+      "width": "128.52",
+      "features": {
+        "Manufacturer recommended age": "8 years and up",
+        "Product Dimensions": "5.5 x 5.1 x 5.1 inches ; 2.4 pounds"
+      },
+      "length": "139.70",
+      "operatingsystem": "Windows Vista",
+      "cat_id": "15294",
+      "sem3_id": "1Mv9Xe0UTsaCMGqOOIGOEw",
+      "updated_at": 1459073171,
+      "model": "09064",
+      "sitedetails": [],
+      "mpn": "SZP09064",
+      "category": "Reading & Language",
+      "name": "School Zone Publishing SZP09064 Phonics Made Easy Flash Action Software",
+      "created_at": 1357717480,
+      "height": "128.52",
+      "gtins": [
+        "00076645090645"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "61116",
+      "sitedetails": [],
+      "category": "Children's",
+      "upc": "794678611162",
+      "cat_id": "14300",
+      "platform": [
+        "Windows Vista",
+        "Mac OS X Intel",
+        "Mac OS X 10.5 Leopard",
+        "Windows XP"
+      ],
+      "price": "114.00",
+      "name": "Rosetta Stone Homeschool French Level 1 including Audio Companion",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S."
+      },
+      "operatingsystem": "Mac OS X 10.4 Tiger",
+      "sem3_id": "6KYWDsR5eqy2KiIYu0OEeo",
+      "ean": "9781607179306",
+      "manufacturer": "Rosetta Stone",
+      "updated_at": 1460786038,
+      "brand": "Rosetta Stone",
+      "weight": "635029.32",
+      "created_at": 1348680732,
+      "gtins": [
+        "00794678611162",
+        "09781607179306"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "14300",
+      "upc": "781735811009",
+      "brand": "Topics Entertainment",
+      "name": "Saving Planet Earth - PC/Mac",
+      "sem3_id": "71zcbwJPtoagO2MCqM84U0",
+      "manufacturer": "Topics Entertainment",
+      "price": "5.00",
+      "mpn": "81100",
+      "created_at": 1379703313,
+      "operatingsystem": "Mac OS X",
+      "model": "81100",
+      "sitedetails": [],
+      "weight": "158757.33",
+      "ean": "0781735811009",
+      "updated_at": 1462638060,
+      "category": "Children's",
+      "features": {
+        "Provider Product ID": "1017492360",
+        "Software Main Type": "Education",
+        "Software Name: National Geographic Kids": "Saving Planet Earth",
+        "Platform Supported": "Mac, PC",
+        "Software Sub Type": "Educational",
+        "Genre": "Educational",
+        "License Type": "Complete Product",
+        "Operating System Supported": "Mac OS, Windows",
+        "License Quantity": "1 User",
+        "Platform": "Mac, PC"
+      },
+      "gtins": [
+        "00781735811009"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "7003",
+      "platform": [
+        "Windows XP",
+        "Mac OS X"
+      ],
+      "weight": "172365.10",
+      "price": "6.94",
+      "name": "Cars Radiator Springs Adventures (Win/Mac)",
+      "ean": "0752919492826",
+      "sem3_id": "6eGydgiSy86uSYuEo0I8UE",
+      "updated_at": 1459111884,
+      "brand": "THQ",
+      "upc": "752919492826",
+      "manufacturer": "THQ (PC Games)",
+      "operatingsystem": "Windows XP",
+      "category": "Games",
+      "mpn": "49282",
+      "sitedetails": [],
+      "created_at": 1347748731,
+      "features": {
+        "Genre": "Action",
+        "Developer": "AWE Productions, Rainbow Studios",
+        "Mac Minimum Requirements": "Mac Os X 10.3G4 1.2GHz Processor256MB RAM500MB Hard Disk Space32MB GeForce2 or ATi 7500 class Video Card8X CD-ROM Drive ~ Keith Adams, All Game Guide",
+        "Platform": "Hybrid PC/Mac",
+        "Game Theme": "Reckless Driving",
+        "Release Date": "June 6, 2006",
+        "Controls": "Keyboard, Mouse",
+        "Style": "Action Adventure",
+        "ESRB Rating": "Everyone",
+        "PC Minimum Requirements": "Windows 98/ME/2000/XPPentium III 800MHz Processor256MB RAM500MB Hard Disk Space32MB GeForce2 or ATi 7500 class Video Card16-bit DirectX compatible Sound Card8X CD-ROM Drive ~ Keith Adams, All Game Guide",
+        "Manufacturer/Publisher": "THQ"
+      },
+      "gtins": [
+        "00752919492826"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

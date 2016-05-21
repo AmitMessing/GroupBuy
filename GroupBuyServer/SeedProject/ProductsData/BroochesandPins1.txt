@@ -1,0 +1,567 @@
+{
+  "total_results_count": 12516,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "mpn": "DMM-14577",
+      "updated_at": 1463328770,
+      "features": {
+        "Product Dimensions": "6.7 x 4.8 x 1.8 inches; 6 pounds",
+        "Brand, Seller, or Collection Name": "DM Merchandising",
+        "Metal": "Base"
+      },
+      "weight": "2721554.22",
+      "price": "9.99",
+      "sem3_id": "7ka5ry341QQko2kG0sSYsI",
+      "ean": "0722950145777",
+      "name": "BELIEVE Wings & Wishes Angel Tac Pin",
+      "manufacturer": "DM Merchandising",
+      "color": "white, gold",
+      "created_at": 1364142370,
+      "cat_id": "7211",
+      "sitedetails": [],
+      "model": "WGW BEL",
+      "upc": "722950145777",
+      "brand": "DM Merchandising",
+      "category": "Brooches & Pins",
+      "gtins": [
+        "00722950145777"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Wings and Wishes Angel Tac Pin, Angel of Good Health",
+      "cat_id": "7211",
+      "ean": "0722950159569",
+      "manufacturer": "DM",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Our recommended age": "36 months - 15 years",
+        "Manufacturer recommended age": "36 months - 15 years",
+        "Origin": "China"
+      },
+      "brand": "Wings and Wishes",
+      "upc": "722950159569",
+      "model": "WGW3 GH",
+      "category": "Brooches & Pins",
+      "price": "6.99",
+      "created_at": 1347689511,
+      "sitedetails": [],
+      "updated_at": 1463338476,
+      "sem3_id": "2TtGc8EIq4gSQ6mg8mgeIg",
+      "weight": "22679.62",
+      "gtins": [
+        "00722950159569"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "28349.52",
+      "height": "0.38",
+      "category": "Brooches & Pins",
+      "created_at": 1347799604,
+      "manufacturer": "Fantasyard",
+      "cat_id": "7211",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/Fantasyard-3D-Camellia-Flower-Crystal-Hair-clips-Flower-Pendant-and-Pin-Brooch-100-289A-FNYD1454.html",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1404729900,
+              "price": "18.20",
+              "id": "5POjvQRzfs0K0yGe2ck4mg",
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1404729900,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1392146300,
+              "currency": "USD",
+              "price": "16.20",
+              "id": "3HSG1Sm9MOQ4A8seAqmOMe",
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "firstrecorded_at": 1392146300,
+              "isactive": 0
+            },
+            {
+              "availability": "In Stock",
+              "id": "0Fp1mpbRDc0G4wK2qy8eao",
+              "seller": "Wayfair",
+              "price": "16.39",
+              "lastrecorded_at": 1389793200,
+              "currency": "USD",
+              "firstrecorded_at": 1389793200,
+              "isactive": 0
+            }
+          ],
+          "sku": "FNYD1454",
+          "name": "wayfair.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Wayfair",
+              "availability": "Available",
+              "id": "4mUHRSouO8CEyssQi0OMkQ",
+              "price": "20.00",
+              "currency": "USD",
+              "lastrecorded_at": 1425324800,
+              "firstrecorded_at": 1425324800,
+              "isactive": 0
+            }
+          ],
+          "sku": "35752006",
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/35752006",
+          "recentoffers_count": 0
+        }
+      ],
+      "sem3_id": "46SCj729GaEma2oQCciCKK",
+      "brand": "Fantasyard",
+      "name": "Cream 3D Camellia Flower Pin Brooch Flower Pendant and Hair clips",
+      "features": {
+        "Assembled in Country of Origin": "Imported",
+        "Origin of Components": "Imported",
+        "Shipping Weight (in pounds)": "1.0",
+        "Product in Inches (L x W x H)": "0.5 x 2.0 x 1.88"
+      },
+      "updated_at": 1463425796,
+      "width": "0.38",
+      "model": "100 289A",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463009956,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1370230000,
+              "seller": "Bling Jewelry",
+              "price": "13.95",
+              "lastrecorded_at": 1378276400,
+              "currency": "USD",
+              "availability": "In stock. [BBX: Buy Box]",
+              "id": "5HuBLG2NnM6WIYkka8soy0",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA1WW0RT5379",
+          "sku": "9SIA1WW0RT5379"
+        }
+      ],
+      "brand": "Bling Jewelry",
+      "name": "Bling Jewelry Pink Rhinestones Enamel Breast Cancer Awareness Ribbon Pin Silver Plated",
+      "height": "0.38",
+      "created_at": 1347480798,
+      "cat_id": "7211",
+      "model": "BB 107971 BJ",
+      "price": "10.99",
+      "sem3_id": "1aCrXqCRV6cm84QEMAKAYc",
+      "features": {
+        "Setting": "encrusted",
+        "Metal": "Silver-plated-base",
+        "Number of stones": "38",
+        "Stone Creation Method": "Simulated",
+        "Metal stamp": "Not stamped",
+        "Stone Treatment Method": "Heat treated",
+        "Minimum color": "pink",
+        "Stone Weight": "0.76 carats",
+        "Brand, Seller, or Collection Name": "Bling Jewelry",
+        "Material": "Rhinestone, Enamel",
+        "Cut": "ideal-cut",
+        "Stone shape": "Round",
+        "Product Dimensions": "2.8 x 2.7 x 0.3 inches; 0.3 ounces"
+      },
+      "weight": "45359.24",
+      "mpn": "BB-107971",
+      "category": "Brooches & Pins",
+      "manufacturer": "Bling Jewelry",
+      "width": "0.19",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "1814369.48",
+      "created_at": 1355948209,
+      "sitedetails": [],
+      "upc": "672458137814",
+      "length": "0.57",
+      "features": {
+        "Material": "Gold-plated, Silver-plated, Swarovski Crystal",
+        "Brand, Seller, or Collection Name": "MMA",
+        "Metal stamp": "Not stamped",
+        "Metal": "Gold-plated-base"
+      },
+      "model": "80003142",
+      "price": "115.00",
+      "mpn": "80003142",
+      "category": "Brooches & Pins",
+      "ean": "0672458137814",
+      "name": "Faux Diamond Brooch with Faux Emeralds & Pearl Costume Jewelry Dragonfly Brooch",
+      "brand": "MMA",
+      "sem3_id": "4SwfrGelbUYKGO4aO6eSo6",
+      "cat_id": "7211",
+      "width": "0.76",
+      "manufacturer": "MMA",
+      "updated_at": 1462046182,
+      "gtins": [
+        "00672458137814"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1347782770,
+      "sitedetails": [
+        {
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA21T0P94081",
+          "sku": "9SIA21T0P94081",
+          "latestoffers": [
+            {
+              "availability": "In stock. [BBX: Buy Box]",
+              "lastrecorded_at": 1381576700,
+              "currency": "USD",
+              "price": "178.52",
+              "seller": "Hazrati.com",
+              "id": "5YkC9KJ7gWUQAyQMcUEsqC",
+              "firstrecorded_at": 1370260100,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "name": "kmart.com",
+          "url": "http://www.kmart.com/goldia-14k-yellow-gold-saint-lucy-medal-pin/p-026V007832147000P",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1420328300,
+              "id": "7l31TJizi4e8ugo404yKya",
+              "price": "229.99",
+              "seller": "Sears Brands, LLC.",
+              "currency": "USD",
+              "lastrecorded_at": 1420328300,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "026V007832147000P",
+          "recentoffers_count": 0
+        }
+      ],
+      "cat_id": "7211",
+      "name": "14k Gold Saint Lucy Medal Pin",
+      "brand": "PriceRock",
+      "mpn": "XR753",
+      "category": "Brooches & Pins",
+      "sem3_id": "2BavrzlttU4OQOa4OaCoyC",
+      "features": {
+        "Metal": "Gold filled",
+        "Chain Style": "N/A, pendant only",
+        "Necklace Type": "Necklace",
+        "Pendant \\u0026 Necklace Style": "Personalized",
+        "Closure Type": "N/A, pendant only",
+        "Chain/Necklace Length (in.)": "N/A, pendant only",
+        "Gold Karat": "14k",
+        "Theme": "Religious",
+        "Gender": "Unisex"
+      },
+      "updated_at": 1463021759,
+      "price": "163.00",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "23.40",
+      "name": "Sterling Silver and Honey Amber Very Small Mouse Pin",
+      "model": "16008",
+      "created_at": 1347800149,
+      "sem3_id": "2UCPFa72OCKu2GwG8s202k",
+      "ean": "0616813160086",
+      "updated_at": 1462824642,
+      "width": "0.03",
+      "brand": "Amazon Curated Collection",
+      "features": {
+        "Brand, Seller, or Collection Name": "Amazon Curated Collection",
+        "Metal": "Sterling silver",
+        "Package": "Classic Medium Box",
+        "Stone Creation Method": "Natural",
+        "Total metal weight": "1.82 Grams",
+        "Minimum total gem weight": "3.9 carats",
+        "Gem Type": "Amber",
+        "Stone shape": "Pear",
+        "Metal stamp": "925 Sterling",
+        "Stone Treatment Method": "Heat-treated Pressure-treated",
+        "Setting": "designer",
+        "Product Dimensions": "3.5 x 3.1 x 1 inches; 8.8 ounces"
+      },
+      "mpn": "16008",
+      "weight": "249475.80",
+      "color": "orange",
+      "category": "Brooches & Pins",
+      "sitedetails": [],
+      "height": "0.25",
+      "upc": "616813160086",
+      "cat_id": "7211",
+      "manufacturer": "Amazon Curated Collection",
+      "gtins": [
+        "00616813160086"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "453592.37",
+      "upc": "872696000271",
+      "name": "Goldtone Coral/Jade Flower Pin",
+      "manufacturer": "Palm Beach Jewelry",
+      "ean": "0872696000271",
+      "category": "Brooches & Pins",
+      "color": "Multi-",
+      "brand": "Palm Beach Jewelry",
+      "updated_at": 1462842439,
+      "cat_id": "7211",
+      "created_at": 1374920934,
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "PBJ1652",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1410151200,
+              "price": "40.29",
+              "lastrecorded_at": 1410151200,
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "37bMlyXeIakmsswAaUYoCG",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1406396900,
+              "currency": "USD",
+              "firstrecorded_at": 1406396900,
+              "price": "36.90",
+              "seller": "Wayfair",
+              "id": "1eC7gDQYrUsegSwMckGwUu",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1399512000,
+              "price": "30.80",
+              "lastrecorded_at": 1399512000,
+              "currency": "USD",
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "id": "3pecXCr3lYGsYogOScq64Y",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.wayfair.com/Palm-Beach-Jewelry-Goldtone-Coral-Jade-Flower-Pin-18784-PBJ1652.html",
+          "name": "wayfair.com"
+        }
+      ],
+      "sem3_id": "4Gx1CSmx8i8kMyaQqKgEoo",
+      "mpn": "18784",
+      "features": {
+        "Brand, Seller, or Collection Name": "Palm Beach Jewelry",
+        "Material": "Gold"
+      },
+      "gtins": [
+        "00872696000271"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1462838253,
+      "brand": "Prestige Medical",
+      "name": "Gold Nightingale Lamp",
+      "created_at": 1375513283,
+      "features": {
+        "Brand, Seller, or Collection Name": "Prestige Medical",
+        "Material": "Gold"
+      },
+      "cat_id": "7211",
+      "category": "Brooches & Pins",
+      "ean": "0786511009847",
+      "weight": "453592.37",
+      "sem3_id": "6SVp9iKCDAuUuOuouG2Ueu",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "lastrecorded_at": 1408957300,
+              "price": "31.20",
+              "firstrecorded_at": 1408957300,
+              "id": "7a4T4SenM86K8ocGGUeWkG",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1405224200,
+              "price": "23.90",
+              "id": "2sh0JzkSYSKmSWo0YaEQmY",
+              "currency": "USD",
+              "firstrecorded_at": 1405224200,
+              "availability": "In Stock",
+              "seller": "Wayfair",
+              "isactive": 0
+            },
+            {
+              "seller": "Wayfair",
+              "availability": "In Stock",
+              "firstrecorded_at": 1401650000,
+              "currency": "USD",
+              "id": "3jy1gxcP686QuQMG4CUgk4",
+              "price": "15.50",
+              "lastrecorded_at": 1401650000,
+              "isactive": 0
+            }
+          ],
+          "sku": "MWP1365",
+          "recentoffers_count": 0,
+          "url": "http://www.wayfair.com/Prestige-Medical-Gold-Nightingale-Lamp-984-MWP1365.html",
+          "name": "wayfair.com"
+        }
+      ],
+      "color": "Gold",
+      "manufacturer": "Prestige Medical",
+      "mpn": "984",
+      "upc": "786511009847",
+      "gtins": [
+        "00786511009847"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Brooches & Pins",
+      "created_at": 1347466010,
+      "price": "14.90",
+      "manufacturer": "BERRICLE",
+      "name": "BERRICLE Silver-Tone Rhinestone Initial Letter \"C\" Brooch",
+      "weight": "453592.37",
+      "model": "br082 c",
+      "mpn": "br082-c",
+      "sitedetails": [
+        {
+          "name": "newegg.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1448840800,
+              "price": "14.90",
+              "seller": "Newegg",
+              "lastrecorded_at": 1462643500,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "074yOzadWYCIg0yYKmsmc2",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1456257700,
+              "price": "14.90",
+              "seller": "BERRICLE",
+              "lastrecorded_at": 1462643500,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "7g003aQBloS26mgUGeceQC",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "id": "671MUGuaeGS8osaWMqgAWk",
+              "seller": "BERRICLE",
+              "lastrecorded_at": 1454911000,
+              "firstrecorded_at": 1448840800,
+              "price": "14.00",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 2,
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA00J0193685",
+          "listprice": "34.00",
+          "sku": "9SIA00J0193685",
+          "listprice_currency": "USD"
+        }
+      ],
+      "brand": "BERRICLE",
+      "cat_id": "7211",
+      "sem3_id": "7BZp9UDNyau8MomqImimC4",
+      "features": {
+        "Resizable": "No",
+        "Gender": "Female",
+        "Occasion": "Valentine's Day",
+        "Condition": "New",
+        "Material": "Brass",
+        "Design": "Names, ID's & Initials",
+        "Stone": "Crystal",
+        "Adjustable": "No",
+        "Gift Box": "Gift Box",
+        "Age": "Adult"
+      },
+      "updated_at": 1462792959,
+      "variation_secondaryids": [
+        "4jLsSRdvZQcCsaAYEQm8os"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

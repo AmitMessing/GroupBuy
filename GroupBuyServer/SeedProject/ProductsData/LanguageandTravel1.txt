@@ -1,0 +1,1093 @@
+{
+  "total_results_count": 5765,
+  "code": "OK",
+  "offset": 10,
+  "results_count": 10,
+  "results": [
+    {
+      "created_at": 1348676812,
+      "weight": "18143.69",
+      "price": "69.98",
+      "mpn": "010-11551-00",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/21631795",
+          "recentoffers_count": 6,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "73SUdp4YKWYqMQ8OEqgeEM",
+              "price": "67.81",
+              "firstrecorded_at": 1460169100,
+              "seller": "iSave",
+              "lastrecorded_at": 1463723200,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "price": "87.91",
+              "id": "6JZYDnfNx2iiWQa8Qo0ESE",
+              "firstrecorded_at": 1462464000,
+              "seller": "Cyberstorm LLC",
+              "lastrecorded_at": 1463723200,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "2FgQjxdU3Iu6iMGImwi2wG",
+              "price": "95.95",
+              "seller": "CarAudioDistributors",
+              "firstrecorded_at": 1463723200,
+              "lastrecorded_at": 1463723200,
+              "isactive": 1
+            }
+          ],
+          "sku": "21631795"
+        },
+        {
+          "sku": "garmin-mapsource-city-navigator-north-america-nt",
+          "latestoffers": [
+            {
+              "id": "08DbCFSIgXuMGcu0g6QogS",
+              "price": "79.98",
+              "shipping": "8.94",
+              "lastrecorded_at": 1392619100,
+              "firstrecorded_at": 1380020400,
+              "seller": "Backcountry.com",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "backcountry.com",
+          "recentoffers_count": 0,
+          "url": "http://www.backcountry.com/garmin-mapsource-city-navigator-north-america-nt"
+        },
+        {
+          "sku": "GAR_MAP1155100",
+          "latestoffers": [
+            {
+              "id": "47isaxNfMuI6OqS4ECOu2O",
+              "price": "92.99",
+              "lastrecorded_at": 1396517800,
+              "firstrecorded_at": 1394435100,
+              "seller": "JR",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "6NG2IA8kdMyiE8UqYmWoau",
+              "price": "84.99",
+              "lastrecorded_at": 1393147600,
+              "seller": "JR",
+              "firstrecorded_at": 1391218100,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "jr.com",
+          "url": "http://www.jr.com/garmin/pe/GAR_MAP1155100"
+        }
+      ],
+      "brand": "Garmin",
+      "cat_id": "15596",
+      "ean": "0753759105778",
+      "category": "Language & Travel",
+      "model": "010 11551 00",
+      "updated_at": 1463723291,
+      "length": "101.60",
+      "height": "25.40",
+      "platform": "No Operating System",
+      "upc": "753759105778",
+      "manufacturer": "Garmin",
+      "size": "NORTH AMERICA",
+      "sem3_id": "3li4sn0BgWCe6S2o0wUIQA",
+      "width": "101.60",
+      "features": {
+        "Shipping Weight (in pounds)": "0.03",
+        "Origin of Components": "Imported",
+        "Product in Inches (L x W x H)": "5.1 x 4.75 x 0.25",
+        "Assembled in Country of Origin": "Imported",
+        "Multi Pack Indicator": "No",
+        "Battery Type": "Does Not Contain a Battery"
+      },
+      "name": "City Navigator North America [Standard Packaging]",
+      "operatingsystem": "N/A",
+      "gtins": [
+        "00753759105778"
+      ],
+      "variation_secondaryids": [
+        "08WE9t22bAWei4kuWQK8GI",
+        "71X4GaJSds4EQimY2QEcqq",
+        "5SpMywbfawa2sS2IseyqIc",
+        "2iy9u0Kzqq6Q0Mk0WeomuW",
+        "5mACLZbuTYM0QsWwmi0Y2e",
+        "1E1zwRBJCSEMg2cKQWUWC2",
+        "6nUocZ4qwqEqYA04UQiIsk",
+        "2qYdHm44EKG8gumgqeSwA2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "010-10691-00",
+      "height": "2.54",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=549360",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1392675300,
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "availability": "In Stock",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1388759400,
+              "price": "62.51",
+              "id": "5MIdinjrk0yiEYoUOG0Q40",
+              "isactive": 0
+            }
+          ],
+          "sku": "549360",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "GAR_MAPUK106910",
+          "latestoffers": [
+            {
+              "price": "70.98",
+              "id": "4eTrfEA8voa8KoakCsagOw",
+              "firstrecorded_at": 1393748400,
+              "lastrecorded_at": 1395583500,
+              "seller": "JR",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "lastrecorded_at": 1393147600,
+              "currency": "USD",
+              "firstrecorded_at": 1392120100,
+              "price": "64.98",
+              "id": "7Vz4L06hHMemwQskOgCCCI",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.jr.com/garmin/pe/GAR_MAPUK106910",
+          "name": "jr.com"
+        },
+        {
+          "sku": "26958873",
+          "recentoffers_count": 1,
+          "url": "http://www.walmart.com/ip/26958873",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1441851200,
+              "id": "08ydG1yUxQeOsS0CUk4c02",
+              "price": "64.95",
+              "seller": "iSave",
+              "lastrecorded_at": 1463486600,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "seller": "Quality Photo",
+              "lastrecorded_at": 1440468000,
+              "currency": "USD",
+              "firstrecorded_at": 1440468000,
+              "availability": "Available",
+              "id": "2HG8HTkoAi2sO8M42oIg66",
+              "price": "76.36",
+              "isactive": 0
+            },
+            {
+              "id": "3G9yH0TYqmCWcqwwG2UaKg",
+              "price": "74.36",
+              "firstrecorded_at": 1437314800,
+              "availability": "Available",
+              "lastrecorded_at": 1437314800,
+              "seller": "Quality Photo",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "operatingsystem": "",
+      "model": "010 10691 00",
+      "cat_id": "15596",
+      "length": "129.54",
+      "updated_at": 1463809103,
+      "manufacturer": "Garmin",
+      "ean": "0098232021641",
+      "features": {
+        "Color Category": "Multi",
+        "GPS Software Format": "Media card",
+        "Brand Compatibility": "Garmin",
+        "Application/Usage": "Driving",
+        "City": "Blackrock, Bray, Cahereiveen, Cork, Count Kerry, Dublin, Galway, Glenageary, Greystones, Kilarney, Limerick, Lucan, Malahide, Waterford, Wichlow",
+        "Minimum System Requirements": "Mac OS|Windows XP Home SP3|Windows XP Professional SP3",
+        "Warranty Terms - Parts": "1 year",
+        "Map Type": "Vehicle navigation",
+        "Map Coverage Area": "Europe",
+        "Computer Compatibility": "Mac|Windows",
+        "Distribution Medium": "microSD Card",
+        "Model Compatibility": "eTrex Legend Cx/HCx, Vista Cx/HCx, Venture Cx; GPSMAP 60CSx/60Cx; GPSMAP 76CSx/76Cx; Rino 520HCx/530HCx; Astro 220; StreetPilot 7200/7500",
+        "Continent": "Europe",
+        "Country": "Ireland, United Kingdom"
+      },
+      "brand": "Garmin",
+      "upc": "753759051105",
+      "width": "127.00",
+      "weight": "9071.85",
+      "sem3_id": "63gy6wjH96kwGk4e4K28k2",
+      "price": "46.99",
+      "created_at": 1348676806,
+      "category": "Language & Travel",
+      "name": "Garmin City Navigator Europe NT - UK/Ireland (010-10691-00) SD Memory Card (Discontinued by Manufacturer)",
+      "gtins": [
+        "00753759051105",
+        "00098232021641"
+      ],
+      "variation_secondaryids": [
+        "5nzGkeD6YK4Eemq4SUIIKe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "6G11Ez0xFIMyAsIAgQ2geu",
+              "lastrecorded_at": 1390273500,
+              "price": "39.99",
+              "firstrecorded_at": 1388156600,
+              "seller": "JR",
+              "isactive": 0
+            }
+          ],
+          "name": "jr.com",
+          "sku": "MSI_MSCD42813WI",
+          "url": "http://www.jr.com/microsoft/pe/MSI_MSCD42813WI"
+        }
+      ],
+      "updated_at": 1463729404,
+      "upc": "885370428131",
+      "weight": "68038.86",
+      "brand": "Microsoft",
+      "sem3_id": "1enjmiUfMqww44qSsewKiQ",
+      "operatingsystem": "Windows 7",
+      "name": "Microsoft AutoRoute Euro 2013",
+      "features": {
+        "License Pricing": "Volume",
+        "Localization": "North America, Europe",
+        "Platform": "Windows",
+        "License Type": "Media",
+        "Peripheral / Interface Devices": "DVD-ROM",
+        "Distribution Media": "DVD-ROM",
+        "Language(s)": "English International",
+        "Subcategory": "Reference / data - maps/travel/address/phone directory"
+      },
+      "width": "147.07",
+      "manufacturer": "Microsoft Software",
+      "category": "Language & Travel",
+      "height": "147.07",
+      "created_at": 1356995621,
+      "price": "450.00",
+      "model": "689 01159",
+      "ean": "0885370428131",
+      "length": "20.07",
+      "mpn": "689-01159",
+      "platform": "Windows 7",
+      "cat_id": "15596",
+      "gtins": [
+        "00885370428131"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "175.00",
+      "features": {
+        "total recycled content": "0%",
+        "password protection": "no",
+        "advanced lane guidance": "yes",
+        "GPS connector type": "USB 2.0",
+        "postconsumer recycled content": "0%",
+        "GPS type": "dash-mounted",
+        "number of languages supported": "26",
+        "batteries included": "yes",
+        "dimensions": "3.5\" x 5.2\" x 0.9\"",
+        "traffic updates": "yes",
+        "mounting hardware included": "yes",
+        "number of preloaded points of interest (POIs)": "7 million",
+        "control type": "touchscreen",
+        "memory card included": "no",
+        "emergency services provider locator": "yes",
+        "spoken street names": "yes",
+        "LCD size": "5.0 inches",
+        "Bluetooth-enabled phone support": "no",
+        "adapter type included": "lighter adapter",
+        "basemap included": "United States; Canada; Mexico",
+        "memory cards supported": "none",
+        "warranty length": "1-yr limited",
+        "integrated MP3 player": "no",
+        "battery type": "lithium-ion polymer",
+        "GPS usage": "driving",
+        "case included": "no",
+        "included internal memory capacity": "2 GB"
+      },
+      "sem3_id": "46BN4bxYxEmUIyuKE6eGKW",
+      "manufacturer": "TomTom",
+      "created_at": 1348673665,
+      "height": "88.90",
+      "name": "TomTom XXL 550T 5-Inch Portable GPS Navigator (Lifetime Traffic Edition)(Discontinued by Manufacturer)",
+      "category": "Language & Travel",
+      "width": "132.08",
+      "variation_id": "1ki34cURcacyeQQ0uQCYei",
+      "model": "1EP0.019.03",
+      "sitedetails": [
+        {
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "availability": "Low Stock. Order Now!",
+              "lastrecorded_at": 1396841300,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "id": "2DDa6S8ClckYiS8ii86yqQ",
+              "price": "153.43",
+              "firstrecorded_at": 1388759800,
+              "isactive": 0
+            }
+          ],
+          "sku": "543901",
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=543901"
+        },
+        {
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1394767400,
+              "availability": "2 In Stock",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "id": "765AFvLkMC20cKIuoUQMIy",
+              "firstrecorded_at": 1392111200,
+              "price": "170.44",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1391196400,
+              "availability": "2 In Stock",
+              "id": "4Y0cV9Ksue2CIkQC22K4CO",
+              "price": "167.10",
+              "firstrecorded_at": 1391196400,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "817880",
+          "recentoffers_count": 0,
+          "url": "http://www.antonline.com/p_TomTom_817880.htm"
+        },
+        {
+          "name": "beachcamera.com",
+          "latestoffers": [],
+          "recentoffers_count": 0,
+          "sku": "ttxxl550t",
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=ttxxl550t"
+        }
+      ],
+      "length": "22.86",
+      "brand": "TomTom",
+      "updated_at": 1463787997,
+      "upc": "636926039895",
+      "mpn": "1EP0.019.03",
+      "ean": "0636926039895",
+      "cat_id": "15596",
+      "weight": "254011.73",
+      "gtins": [
+        "00636926039895"
+      ],
+      "variation_secondaryids": [
+        "0X1mo3mu7CS6esgMEia4y61I"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "136077.71",
+      "height": "147.07",
+      "width": "147.07",
+      "category": "Language & Travel",
+      "length": "20.07",
+      "model": "ZV3 00026",
+      "cat_id": "15596",
+      "price": "59.99",
+      "created_at": 1348673659,
+      "platform": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP"
+      ],
+      "updated_at": 1463811618,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1388630000,
+              "availability": "Unavailable Notify me when available While supplies last",
+              "price": "69.98",
+              "lastrecorded_at": 1394192700,
+              "id": "0vJkfpvDqWc86UwUcGykwG",
+              "currency": "USD",
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "currency": "USD",
+              "lastrecorded_at": 1364215700,
+              "id": "1u6gqEX1TIcEw82qO82EUw",
+              "price": "59.99",
+              "availability": "Shipping: In stock, ships same Business Day",
+              "firstrecorded_at": 1362746000,
+              "isactive": 0
+            },
+            {
+              "price": "69.98",
+              "lastrecorded_at": 1362347900,
+              "id": "2miBJe3RzEGUY6aEAEcaoC",
+              "currency": "USD",
+              "seller": "Frys",
+              "firstrecorded_at": 1348658300,
+              "availability": "Shipping: In stock, ships same Business Day",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/7155882",
+          "recentoffers_count": 0,
+          "sku": "7155882"
+        },
+        {
+          "latestoffers": [
+            {
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "firstrecorded_at": 1382422200,
+              "price": "69.95",
+              "lastrecorded_at": 1382948100,
+              "id": "5MGEC3P8JUo20Kya2cI0Yi",
+              "currency": "USD",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1371738200,
+              "availability": "InStock [BBX: Buy Box]",
+              "currency": "USD",
+              "seller": "Newegg",
+              "price": "49.95",
+              "lastrecorded_at": 1376482500,
+              "id": "7UfFvj3EUSM48MOg0eg8ya",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1360748100,
+              "availability": "Was: $69.95 [BBX: Buy Box]",
+              "lastrecorded_at": 1362347300,
+              "id": "2DT6On8UeuYy86qeYYUsm8",
+              "price": "54.95",
+              "seller": "newegg.com",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832416503",
+          "recentoffers_count": 0,
+          "sku": "N82E16832416503"
+        },
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Tonzof",
+              "price": "72.70",
+              "id": "6hKppObipUy4SiGCiO44MW",
+              "lastrecorded_at": 1423855200,
+              "firstrecorded_at": 1408518900,
+              "availability": "Out of Stock",
+              "isactive": 0
+            },
+            {
+              "price": "72.70",
+              "lastrecorded_at": 1408430300,
+              "id": "7GblMEUjNgyOAYeyA6gGk0",
+              "currency": "USD",
+              "seller": "TonZof",
+              "firstrecorded_at": 1402813900,
+              "availability": "Out of Stock",
+              "isactive": 0
+            },
+            {
+              "price": "72.70",
+              "lastrecorded_at": 1402722200,
+              "id": "53vQlqRNbEEECmcIu46U4g",
+              "currency": "USD",
+              "seller": "TonZof.com",
+              "firstrecorded_at": 1397147900,
+              "availability": "Out of Stock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "26967823",
+          "url": "http://www.walmart.com/ip/26967823"
+        }
+      ],
+      "name": "Streets and Trips 2013 with GPS",
+      "sem3_id": "2RrfuGsbmCSmuc8kyI0Uqc",
+      "mpn": "ZV3-00026",
+      "ean": "0885370393507",
+      "operatingsystem": "Windows 7",
+      "manufacturer": "Microsoft Software",
+      "brand": "Microsoft",
+      "upc": "885370393507",
+      "features": {
+        "PC Hard Drive Space": "2GB free, 2GB",
+        "PC Optional Requirements": "Outlook 2007 or 2010 required to use Send To features, GPS device that supports NMEA 2.0 or later, and USB port, Internet Explorer",
+        "Genre": "Educational",
+        "PC System Memory": "256MB RAM",
+        "PC Operating System": "Windows 7, Windows Vista, Windows Server 2008 32-bit, Windows XP 32-bit",
+        "Platform": "Windows",
+        "PC Video": "1024 x 768 video card",
+        "PC Additional Requirements": "Broadband Internet service required to access online features, 1GB RAM for 32-bit OS, 2GB RAM for 64-bit OS",
+        "PC Drive Type and Speed": "DVD"
+      },
+      "gtins": [
+        "00885370393507"
+      ],
+      "variation_secondaryids": [
+        "7ZRbi7E09YOWMY8cIqUQ8S"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "169.97",
+      "cat_id": "15596",
+      "upc": "636926039871",
+      "mpn": "1EP0.019.01",
+      "category": "Language & Travel",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/6288700",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "id": "726UmHNZ3Y4e6euauYGkSQ",
+              "firstrecorded_at": 1348655600,
+              "lastrecorded_at": 1348655600,
+              "availability": "Shipping: Available In-Store Only",
+              "price": "49.99",
+              "currency": "USD",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "6288700"
+        },
+        {
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=TTXXL550",
+          "name": "beachcamera.com",
+          "latestoffers": [],
+          "recentoffers_count": 0,
+          "sku": "TTXXL550"
+        },
+        {
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "availability": "Out of stock",
+              "price": "130.38",
+              "seller": "Walmart",
+              "currency": "USD",
+              "lastrecorded_at": 1423266700,
+              "firstrecorded_at": 1423266700,
+              "id": "7kYpsd5Mi8KyMOeGMqikW8",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/17235530",
+          "recentoffers_count": 0,
+          "sku": "17235530"
+        }
+      ],
+      "weight": "254011.73",
+      "operatingsystem": "",
+      "width": "132.08",
+      "features": {
+        "Screen Size": "5\\\"",
+        "Assembled Product Dimensions (L x W x H)": "7.00 x 7.00 x 1.00 IN",
+        "Features": "2D / 3D map perspective, preinstalled POIs, IQ Routes technology, TomTom QuickGPSfix , Anti-glare",
+        "Accessories Included": "USB car charger, USB cable, dashboard disc, EasyPort mount",
+        "Battery Life": "3 hours",
+        "Resolution": "320 x 240",
+        "Original Languages": "Danish, Hungarian, Czech, Slovak, Flemish, English, German, French, Italian, Norwegian, Portuguese, Polish, Finnish, Swedish, Spanish, Turkish, Latvian, Lithuanian, Estonian, Catalan",
+        "Interface Type": "USB",
+        "Duration": "3 hours",
+        "Recommended Use": "Automotive",
+        "Run Time": "3 hours"
+      },
+      "manufacturer": "TomTom",
+      "sem3_id": "48qGSSqSdkQKKwoAsYsksE",
+      "length": "22.86",
+      "ean": "0636926039871",
+      "updated_at": 1463818627,
+      "variation_id": "1ki34cURcacyeQQ0uQCYeiJq",
+      "size": "5\"",
+      "name": "TomTom XXL 550 5-Inch Portable GPS Navigator (Discontinued by Manufacturer)",
+      "model": "1EP0.019.01",
+      "height": "88.90",
+      "brand": "TomTom",
+      "created_at": 1348673665,
+      "gtins": [
+        "00636926039871"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0753759045654",
+      "category": "Language & Travel",
+      "sem3_id": "7EjzAPG5xI0y826KgEkoyW",
+      "brand": "Garmin",
+      "upc": "753759045654",
+      "weight": "127005.86",
+      "length": "14.99",
+      "updated_at": 1463761982,
+      "manufacturer": "Garmin",
+      "cat_id": "15596",
+      "created_at": 1364206817,
+      "model": "010 10469 00",
+      "height": "78.99",
+      "width": "74.93",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/21550866",
+          "latestoffers": [
+            {
+              "seller": "Limited Goods LLC",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1458298000,
+              "lastrecorded_at": 1463681300,
+              "id": "38QcM7NVlYsmkS8iKgUWEy",
+              "price": "96.16",
+              "isactive": 1
+            },
+            {
+              "price": "109.72",
+              "id": "74OBFWfbqwCyWu4WgW4WQo",
+              "lastrecorded_at": 1457252700,
+              "firstrecorded_at": 1456655100,
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Cyberstorm LLC",
+              "isactive": 0
+            },
+            {
+              "id": "186SlwkLbe4kE8ES8Kasci",
+              "price": "113.74",
+              "currency": "USD",
+              "firstrecorded_at": 1437337600,
+              "lastrecorded_at": 1452371100,
+              "availability": "Available",
+              "seller": "Quality Photo",
+              "isactive": 0
+            }
+          ],
+          "sku": "21550866",
+          "recentoffers_count": 1
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=498101",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "price": "95.61",
+              "id": "59fgA7BOTIa6k2Ka6YmsAu",
+              "availability": "In Stock",
+              "lastrecorded_at": 1406787700,
+              "firstrecorded_at": 1388758000,
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            }
+          ],
+          "sku": "498101",
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "jr.com",
+          "url": "http://www.jr.com/garmin/pe/GAR_0101046900",
+          "latestoffers": [
+            {
+              "seller": "JR",
+              "firstrecorded_at": 1393748400,
+              "lastrecorded_at": 1396525600,
+              "currency": "USD",
+              "price": "107.99",
+              "id": "433YAAe7towWQkOmusqgG8",
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "currency": "USD",
+              "lastrecorded_at": 1393147600,
+              "firstrecorded_at": 1392120100,
+              "id": "1JOUrE2Ek6a4wG2uIqAiMQ",
+              "price": "98.99",
+              "isactive": 0
+            }
+          ],
+          "sku": "GAR_0101046900"
+        }
+      ],
+      "features": {
+        "Features": "Trip and waypoint management functions*Based on digital 1:50,000 or 1:250,000 scale NTS map dataSearch by city, point, river or lakeAmenities such as parks, campgrounds, scenic lookouts and picnic sitesGeneralhorelines and powerlinesNamed portagesSummits, peaks and other geographic pointsMany routable roads and trails* These functions of this product work with nearly all Garmin GPS units, excluding the GPS 100 family an panel mount aviation units.",
+        "System Requirements": "Handheld GPS device",
+        "Software Main Type": "Reference",
+        "Distribution Media/Method": "CD-ROM",
+        "Platform Supported": "Handheld",
+        "Product Type": "Software",
+        "Software Name": "TOPO Canada",
+        "Compatibility": "Handheld GPS devices:cf Que 1620eMapeTrex LegendeTrex LegendCeTrex VistaeTrex VistaCGPS 10GPS 18 Automotive BundlesGPS VGPSMAP 176GPSMAP 178 SunderGPSMAP 178C SounderGPSMAP 196GPSMAP 276CGPSMAP 295GPSMAP 296GPSMAP 376CGPSMAP 396GPSMAP 60GPSMAP 60CGPSMAP 60CSGPSMAP 76GPSMAP 76CGP MAP 76CSGPSMAP 76SGPSMAP 96GPSMAP 96CiQue 3200iQue 3600iQue 3600aiQue M3iQue M5NavTalk GSMQuestQuest 2Rino 120Rino 130",
+        "Software Sub Type": "Maps/Traveling"
+      },
+      "price": "129.99",
+      "mpn": "010-10469-00",
+      "operatingsystem": "Windows XP",
+      "name": "Garmin TOPO! Topographical Maps (Canada)",
+      "gtins": [
+        "00753759045654"
+      ],
+      "variation_secondaryids": [
+        "4NG4WkN9w0qQy08aACgwGe"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Garmin",
+      "upc": "753759089184",
+      "model": "010 C0722 20",
+      "price": "130.25",
+      "created_at": 1348676817,
+      "width": "152.40",
+      "sem3_id": "0ToTfspxApaSqwa820oYSK",
+      "height": "25.40",
+      "updated_at": 1463802288,
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "136.25",
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1392105600,
+              "firstrecorded_at": 1391196300,
+              "id": "4hcGo0N3Yu8Wu4C0QuOyQy",
+              "currency": "USD",
+              "availability": "64 In Stock",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com",
+          "url": "http://www.antonline.com/p_Garmin_871076.htm",
+          "sku": "871076",
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "149.99",
+              "firstrecorded_at": 1394697200,
+              "lastrecorded_at": 1421058000,
+              "seller": "Gandermountain",
+              "availability": "Ships from vendor",
+              "currency": "USD",
+              "id": "7JknGgXf4Cse88SiaMqMAu",
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=94328",
+          "name": "gandermountain.com",
+          "sku": "94328",
+          "recentoffers_count": 1
+        }
+      ],
+      "features": {
+        "Distribution Medium": "microSD/SD Card",
+        "Application/Usage": "Boating, Driving",
+        "Compatibility": "https://buy.garmin.com/shop/shop.do?pID=33574&pvID=34887&ra=true",
+        "Continent": "North America",
+        "Country": "Mexico, United States",
+        "Provider Product ID": "1023205052"
+      },
+      "platform": "Windows",
+      "cat_id": "15596",
+      "manufacturer": "Garmin",
+      "operatingsystem": "Windows",
+      "ean": "0739638498711",
+      "weight": "136077.71",
+      "mpn": "010-C0722-20",
+      "category": "Language & Travel",
+      "name": "Garmin BlueChart g2 California/Mexico Saltwater Map microSD Card [Standard Packaging]",
+      "length": "203.20",
+      "gtins": [
+        "00753759089184",
+        "00739638498711"
+      ],
+      "variation_secondaryids": [
+        "7YH9BxPe08k86Ma4mYGUqc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "updated_at": 1463807024,
+      "ean": "0940356336142",
+      "upc": "940356336142",
+      "weight": "172365.10",
+      "features": {
+        "Country of Origin - Components": "USA and/or Imported",
+        "Assembled Product Dimensions (L x W x H)": "8.00 x 6.00 x 1.00 Inches",
+        "manufacturer.part.number": "VUS004R",
+        "Condition": "New",
+        "Assembled Product Weight": "0.30 Pounds",
+        "Country of Origin - Assembly": "USA and/or Imported"
+      },
+      "mpn": "010-C0705-00",
+      "created_at": 1348676813,
+      "price": "249.33",
+      "sitedetails": [
+        {
+          "name": "walmart.com",
+          "recentoffers_count": 2,
+          "latestoffers": [
+            {
+              "id": "1jW1P20j1Awsumqmmgu8oK",
+              "availability": "Available",
+              "seller": "iSave",
+              "firstrecorded_at": 1463697200,
+              "lastrecorded_at": 1463697200,
+              "currency": "USD",
+              "price": "254.29",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463697200,
+              "price": "273.57",
+              "currency": "USD",
+              "seller": "Cyberstorm LLC",
+              "firstrecorded_at": 1460655200,
+              "id": "49VFSzeMAC2Y8IYeaWemOQ",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "265.95",
+              "lastrecorded_at": 1463367200,
+              "seller": "iSave",
+              "firstrecorded_at": 1463110500,
+              "availability": "Available",
+              "id": "39U92RgdGCEQ2kSsYeG0OO",
+              "isactive": 0
+            }
+          ],
+          "sku": "26958842",
+          "url": "http://www.walmart.com/ip/26958842"
+        }
+      ],
+      "category": "Language & Travel",
+      "brand": "Garmin",
+      "name": "Garmin vus004r new york sd card orders over $150",
+      "manufacturer": "GARMIN CHARTS",
+      "cat_id": "15596",
+      "model": "010 C0705 00",
+      "sem3_id": "0u2r7rZF6S6UkecWgoiCGk",
+      "operatingsystem": "None",
+      "gtins": [
+        "00940356336142"
+      ],
+      "variation_secondaryids": [
+        "2rtJOmpWIiQUUWcwcMkWQU",
+        "7aTosnd9MWgaY6GCIacGWk",
+        "7XiQHtz2OWy2oOk86M0Si2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "sku": "84291",
+          "url": "http://www.gandermountain.com/modperl/product/details.cgi?i=84291",
+          "listprice": "199.99",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Gandermountain",
+              "price": "199.99",
+              "firstrecorded_at": 1388778700,
+              "lastrecorded_at": 1420892800,
+              "availability": "Ships from vendor",
+              "id": "3gJpdUlclES8gM0IiWCKGi",
+              "isactive": 1
+            }
+          ],
+          "name": "gandermountain.com",
+          "recentoffers_count": 1
+        },
+        {
+          "url": "http://www.antonline.com/p_Navionics_779126.htm",
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "price": "201.49",
+              "firstrecorded_at": 1442867400,
+              "lastrecorded_at": 1443489400,
+              "availability": "Available",
+              "id": "6Oqy6pK7HcYuKAmwU4KGM4",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1441242800,
+              "price": "201.46",
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1442242000,
+              "id": "29KQur6XZoSuAEKs0AKowE",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "price": "203.60",
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1439903800,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "6rlDBedU7EyIGMqOuGEG0e",
+              "lastrecorded_at": 1440651400,
+              "isactive": 0
+            }
+          ],
+          "sku": "779126",
+          "recentoffers_count": 0
+        }
+      ],
+      "created_at": 1357813055,
+      "weight": "136077.71",
+      "model": "MSD/HMPT W6",
+      "price": "166.82",
+      "sem3_id": "6LWNSbutkGEwW00kIecwkO",
+      "features": {
+        "Product Type": "Marine Map",
+        "Application/Usage": "Fishing",
+        "Product Information": "Continent",
+        "Product Line": "HotMaps Platinum",
+        "Product Model": "MSD/HMPT-W6",
+        "Distribution Medium": "microSD Card",
+        "Manufacturer Website Address": "http://www.navionics.com",
+        "Country": "United States"
+      },
+      "updated_at": 1463802270,
+      "brand": "Navionics",
+      "mpn": "MSD/HMPT-W6",
+      "manufacturer": "NAVIONICS ELECTRONIC CHARTS",
+      "width": "15.24",
+      "cat_id": "15596",
+      "upc": "821245145949",
+      "ean": "0821245145949",
+      "length": "190.50",
+      "category": "Language & Travel",
+      "name": "Navionics HotMaps Platinum West U.S. Multi-Dimensional Lake Maps on SD Card",
+      "height": "6.35",
+      "gtins": [
+        "00821245145949"
+      ],
+      "variation_secondaryids": [
+        "0A7yNqwyhiwa0kYSe0AgY8"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

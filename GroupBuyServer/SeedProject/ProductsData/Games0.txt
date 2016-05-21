@@ -1,0 +1,1249 @@
+{
+  "total_results_count": 613,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.bhphotovideo.com/c/product/1125975-REG/nintendo_wuppagme_splatoon_for_wii_u.html",
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1462488100,
+              "seller": "B&H",
+              "id": "5KdTBs97M8kAEAGWUOAOey",
+              "availability": "Available",
+              "lastrecorded_at": 1463753100,
+              "price": "48.00",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1462189200,
+              "availability": "Available",
+              "firstrecorded_at": 1461286800,
+              "currency": "USD",
+              "seller": "B&H",
+              "id": "6mF9LWm17uKccieWUsuqQ6",
+              "price": "51.02",
+              "isactive": 0
+            },
+            {
+              "price": "59.88",
+              "availability": "Available",
+              "firstrecorded_at": 1460981400,
+              "id": "4TBKv19M5gyCQq4eYiOwSY",
+              "seller": "B&H",
+              "currency": "USD",
+              "lastrecorded_at": 1460981400,
+              "isactive": 0
+            }
+          ],
+          "sku": "1125975"
+        },
+        {
+          "sku": "1191168",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1460877300,
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "id": "0KAu7OIdMjQkkgkegO6uES",
+              "availability": "Available",
+              "lastrecorded_at": 1460877300,
+              "price": "67.15",
+              "isactive": 0
+            },
+            {
+              "price": "64.98",
+              "currency": "USD",
+              "firstrecorded_at": 1458840300,
+              "id": "6NZQF70vpYkOkQuOY0mIAK",
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "lastrecorded_at": 1458840300,
+              "isactive": 0
+            },
+            {
+              "price": "67.02",
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "id": "5GaQM3WxIWquIkWaG22uCW",
+              "firstrecorded_at": 1458171100,
+              "availability": "Available",
+              "lastrecorded_at": 1458171100,
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com",
+          "url": "http://www.antonline.com/p_Nintendo--WUPPAGME--Splatoon_1191168.htm",
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463377500,
+              "id": "6TLlTZQxUWK2WOCGWAEgO8",
+              "seller": "TigerDirect",
+              "currency": "USD",
+              "firstrecorded_at": 1457146000,
+              "price": "63.99",
+              "isactive": 1
+            },
+            {
+              "price": "66.98",
+              "lastrecorded_at": 1456555300,
+              "id": "0D7lwCnBIwocoCGwekAWys",
+              "currency": "USD",
+              "firstrecorded_at": 1456555300,
+              "seller": "TigerDirect",
+              "isactive": 0
+            },
+            {
+              "price": "68.98",
+              "lastrecorded_at": 1456027400,
+              "seller": "TigerDirect",
+              "firstrecorded_at": 1456027400,
+              "currency": "USD",
+              "id": "1i015JF6rEa0YwQW4KoYqe",
+              "isactive": 0
+            }
+          ],
+          "sku": "9716705",
+          "recentoffers_count": 1,
+          "name": "tigerdirect.com",
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9716705"
+        }
+      ],
+      "brand": "Nintendo",
+      "upc": "045496903527",
+      "ean": "0045496903527",
+      "model": "NIWUPPAGME",
+      "created_at": 1428595117,
+      "platform": "Nintendo Wii U",
+      "features": {
+        "Platform Supported": "Wii U",
+        "Multiplayer Supported": "Yes",
+        "ESRB Rating": "E10+ (Everyone 10 and older)",
+        "Video Game Platform": "Wii U",
+        "Condition": "New",
+        "Software Name": "Splatoon",
+        "Product Type": "Software",
+        "Software Main Type": "Game",
+        "Network Compatible": "Yes",
+        "Software Sub Type": "Third Person Shooter"
+      },
+      "sem3_id": "0VL0l5djD0YK2KAkOuYua8",
+      "mpn": "WUPPAGME",
+      "name": "Splatoon (Wii U)",
+      "category": "Games",
+      "cat_id": "13629",
+      "operatingsystem": "Wii U",
+      "updated_at": 1463753170,
+      "price": "58.30",
+      "gtins": [
+        "00045496903527"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "069060181739",
+      "weight": "453592.37",
+      "mpn": "72915",
+      "sem3_id": "4BazJQRwt6ESo4E4eeIWag",
+      "category": "Games",
+      "price": "22.50",
+      "features": {
+        "Rating Descriptor": "Violence",
+        "Package Type": "Retail",
+        "Software Sub Type": "Role Playing Game",
+        "Software Main Type": "Game",
+        "ESRB Rating": "M (Mature 17+)",
+        "Features": "Charge Forth as the Crusader: Impenetrable armor, gleaming weapons, and heavy, heavy damage-wield the power of the Crusader, unbreakable new hero of the mortal realms. Take Act V by Storm: From the srawling streets of Westmarch to the ancient walls of the Pandemonium Fortress, battle with a host of deadly new enemies throughout the all-new Act V of the Diablo III storyline. Rise to New Heights of Power: Advance your ero of choice through additional levels of supremacy, mastering bold new powers of raw, demon-slaying potential along the way.",
+        "Software Name": "Diablo III: Reaper of Souls",
+        "Game Expansion Pack": "No",
+        "Platform Supported": "PC",
+        "System Requirements": "Processor: IntelÂ® PentiumÂ® D or AMD Athlonâ¢ 64 X2 IntelÂ® Coreâ¢ 2 Duo 2.4 GHz or AMD Athlonâ¢ 64 X2 5600+ 2.8GHz (Recommended) Operating System: Microsoft Windowsreg; XP/Vista with latest Service Pack Microsoft WindowsÂ® 7/8 with latest Service Pack (Recommended) Hard Disk: 25 GB available of free space Memory: 2 GB RAM (4 GB RAM Recomm nded) Optical Drive: DVD-ROM for retail disc versions only Others: 1024X768 minimum display resolution Broadband Internet connection NVIDIAÂ® GeForceÂ® 7800GT or AT Radeonâ¢ X1950 Pro NVIDIAÂ® GeForceÂ® GTXâ¢ 260 or ATI Radeonâ¢ HD 4870 or better (Recommended)",
+        "Operating System Supported": "Windows",
+        "Release Date": "2014-03-25",
+        "Product Type": "Software"
+      },
+      "sitedetails": [
+        {
+          "sku": "50580318",
+          "latestoffers": [
+            {
+              "seller": "Quill",
+              "id": "2DnCk0J13IkWwGwwaAgC4E",
+              "price": "39.99",
+              "firstrecorded_at": 1443321700,
+              "lastrecorded_at": 1452850800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1443015600,
+              "currency": "USD",
+              "seller": "Quill",
+              "id": "4KnIxdZyK0wUOMkiGoSOya",
+              "firstrecorded_at": 1437703600,
+              "price": "45.99",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1416500000,
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1416500000,
+              "price": "38.99",
+              "seller": "Quill",
+              "id": "2wEWIfPQvACYAQAo80WUCU",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "quill.com",
+          "url": "http://www.quill.com/activision/cbs/50580318.html"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=734479",
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "availability": "In Stock",
+              "currency": "USD",
+              "lastrecorded_at": 1443134200,
+              "id": "6pNulaVEJ6C4KUyqGwO4Iu",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1432661900,
+              "price": "43.89",
+              "isactive": 0
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "7As1ZrkGXYmyEewUAI22QI",
+              "firstrecorded_at": 1428534800,
+              "price": "42.42",
+              "availability": "In Stock",
+              "lastrecorded_at": 1431170000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "734479"
+        },
+        {
+          "url": "http://www.antonline.com/p_Activision--72915--Diablo-III%3A-Reaper-of-Souls---PC-Mac_1112829.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1458859000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "32.67",
+              "firstrecorded_at": 1458859000,
+              "seller": "ANTOnline",
+              "id": "6OA3x9wiK8ggiKGgySGOUe",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "id": "4QuJBPGMW8OGGagES8OK6k",
+              "price": "30.62",
+              "firstrecorded_at": 1453243500,
+              "availability": "Available",
+              "lastrecorded_at": 1453243500,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1448328300,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "16.64",
+              "firstrecorded_at": 1448328300,
+              "seller": "ANTOnline",
+              "id": "5PVMlEoAvQsg4C2aoYK0mS",
+              "isactive": 0
+            }
+          ],
+          "sku": "1112829"
+        }
+      ],
+      "ean": "0069060181739",
+      "brand": "Blizzard Entertainment",
+      "name": "Diablo III: Reaper of Souls - PC/Mac [Reaper of Souls Expansion, PC/Mac]",
+      "updated_at": 1463763053,
+      "cat_id": "13629",
+      "created_at": 1413449306,
+      "manufacturer": "Activision Blizzard Inc",
+      "gtins": [
+        "00069060181739"
+      ],
+      "variation_secondaryids": [
+        "2I9LVSQ3xYCsQ6kWgCamQo"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "710425494512",
+      "created_at": 1428580775,
+      "brand": "Take 2 Interactive",
+      "sitedetails": [
+        {
+          "sku": "1156350",
+          "latestoffers": [
+            {
+              "id": "2rbfPaI11sCsMIYgeCIeYG",
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "price": "74.50",
+              "currency": "USD",
+              "firstrecorded_at": 1429572800,
+              "lastrecorded_at": 1431320300,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1428580700,
+              "lastrecorded_at": 1428580700,
+              "seller": "ANTOnline",
+              "id": "0fKaxcOFeWM4u4WmAO0sMq",
+              "price": "75.19",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_Take-2-Interactive--ROC-49451--Grand-Theft-Auto-V---Xbox-One_1156350.htm",
+          "name": "antonline.com",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "thehut.com",
+          "listprice_currency": "USD",
+          "latestoffers": [
+            {
+              "price": "65.22",
+              "id": "0C2jKi9Lm1Qk2qiieaCsGq",
+              "seller": "THE HUT",
+              "lastrecorded_at": 1463709700,
+              "firstrecorded_at": 1461940700,
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1459532300,
+              "firstrecorded_at": 1459532300,
+              "currency": "USD",
+              "price": "66.12",
+              "id": "3G5pZKjiKusYAYA6y6g6M8",
+              "seller": "THE HUT",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1452933300,
+              "lastrecorded_at": 1454623800,
+              "seller": "THE HUT",
+              "id": "0vLYLK9jIIoQoGueggkQKK",
+              "price": "65.67",
+              "isactive": 0
+            }
+          ],
+          "listprice": "79.73",
+          "recentoffers_count": 1,
+          "url": "http://www.thehut.com/xbox-one-games/grand-theft-auto-v/10968097.html",
+          "sku": "10968097"
+        },
+        {
+          "url": "http://www.overstock.com/9688513/product.html",
+          "name": "overstock.com",
+          "recentoffers_count": 1,
+          "sku": "9688513_14497713",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "58.99",
+              "seller": "Overstock",
+              "id": "3Yt9D9IsTwo2QIgEEE6KMK",
+              "lastrecorded_at": 1463703300,
+              "firstrecorded_at": 1432425400,
+              "currency": "USD",
+              "isactive": 1
+            }
+          ]
+        }
+      ],
+      "name": "Grand Theft Auto V - Xbox One",
+      "weight": "136077.71",
+      "ean": "0710425494512",
+      "manufacturer": "Take 2 Interactive",
+      "cat_id": "13629",
+      "updated_at": 1463782789,
+      "price": "58.99",
+      "features": {
+        "Is Online Multiplayer Available": "Y",
+        "Genre": "Action & Adventure",
+        "Is Downloadable Content Available": "Y",
+        "Condition": "New",
+        "Subgenre": "General Action",
+        "Video Game Platform": "Xbox One",
+        "Fabric Material": "Nylon",
+        "Assembled Product Dimensions (L x W x H)": "7.50 x 5.50 x 0.50 IN",
+        "Required Peripherals": "Controller (Rumble)"
+      },
+      "mpn": "ROC-49451",
+      "category": "Games",
+      "model": "ROC-49451",
+      "sem3_id": "6BS58MS47kQmMS0iYsUc4i",
+      "gtins": [
+        "00710425494512"
+      ],
+      "variation_secondaryids": [
+        "3MVGldkCgKWq8YkmK6UI4G"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "length": "137.16",
+      "updated_at": 1463807807,
+      "upc": "883929425112",
+      "model": "018W007603686001P",
+      "width": "15.24",
+      "operatingsystem": "playstation_4",
+      "price": "27.79",
+      "sem3_id": "24Mlud2spUUCSQMEAKuMi4",
+      "brand": "WARNER HOME VIDEO GAMES",
+      "platform": "PlayStation 4",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1425954200,
+              "firstrecorded_at": 1425954200,
+              "price": "59.96",
+              "seller": "Sears Brands, LLC.",
+              "id": "5fRbypwxH6g2ycsOYOqw2u",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "018W007603686001P",
+          "url": "http://www.kmart.com/warner-home-video-games-mortal-kombat-x-for/p-018W007603686001P",
+          "name": "kmart.com",
+          "recentoffers_count": 0
+        },
+        {
+          "url": "http://www.frys.com/product/8385797",
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "2p0wIEZWNUoa6A86c00M0K",
+              "seller": "Frys",
+              "price": "39.99",
+              "firstrecorded_at": 1457596500,
+              "lastrecorded_at": 1463807600,
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "availability": "In Stock",
+              "firstrecorded_at": 1445237100,
+              "lastrecorded_at": 1457510000,
+              "id": "53kj8Jk92mS4G0UYyKSSMA",
+              "currency": "USD",
+              "seller": "Frys",
+              "price": "49.99",
+              "isactive": 0
+            },
+            {
+              "id": "0NqbuRFjAYok8gSe6O4Yc0",
+              "currency": "USD",
+              "price": "59.99",
+              "seller": "Frys",
+              "availability": "In Stock",
+              "lastrecorded_at": 1445151500,
+              "firstrecorded_at": 1436151400,
+              "isactive": 0
+            }
+          ],
+          "sku": "8385797"
+        },
+        {
+          "sku": "1184244",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1460412400,
+              "lastrecorded_at": 1461582900,
+              "seller": "ANTOnline",
+              "price": "53.50",
+              "id": "5VVfXgosoCQsgOGic2EWOo",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1459944400,
+              "firstrecorded_at": 1459068700,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "2gLcofrcMiwOGgKoYyU2yu",
+              "price": "44.79",
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "price": "54.38",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "id": "4lZdWWZbwmk042OmqIyUi0",
+              "lastrecorded_at": 1458820400,
+              "firstrecorded_at": 1458124800,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com",
+          "url": "http://www.antonline.com/p_WHV-Games--1000507059--Mortal-Kombat-X---PlayStation-4_1184244.htm",
+          "recentoffers_count": 0
+        }
+      ],
+      "weight": "113398.09",
+      "height": "190.50",
+      "name": "Warner Home Video Games PlayStation 4 Games",
+      "cat_id": "13629",
+      "ean": "0883929425112",
+      "category": "Games",
+      "features": {
+        "Software Sub Type": "Fighting Game",
+        "Manufacturer Website Address": "http://www.warnerbros.com",
+        "Release Date": "2015-04-14",
+        "Game Expansion Pack": "No",
+        "Software Name": "Mortal Kombat X",
+        "Platform Supported": "PlayStation 4",
+        "Product Type": "Software",
+        "ESRB Rating": "M (Mature 17+)",
+        "Network Compatible": "Yes",
+        "Product Information": "Software Main Type"
+      },
+      "created_at": 1425954278,
+      "gtins": [
+        "00883929425112"
+      ],
+      "variation_secondaryids": [
+        "6fuIR6nfGau8ywuIYqM4sI"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "34.60",
+      "brand": "2K Games",
+      "created_at": 1428589660,
+      "upc": "710425475337",
+      "model": "47533",
+      "cat_id": "13629",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Media": "Video Game",
+        "Release Date": "March 24, 2015"
+      },
+      "width": "137.16",
+      "ean": "0710425475337",
+      "mpn": "47533",
+      "sitedetails": [
+        {
+          "sku": "1180522",
+          "url": "http://www.antonline.com/p_2K-Games--47533--Borderlands%3A-The-Handsome-Collection---Playstation-4_1180522.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1437311500,
+              "seller": "ANTOnline",
+              "id": "7TfW3OEq7USI6MGEmIM88i",
+              "lastrecorded_at": 1437311500,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "70.00",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1434117800,
+              "currency": "USD",
+              "price": "62.03",
+              "seller": "ANTOnline",
+              "id": "7ERKfaqs7swOa0kOKWOmC0",
+              "lastrecorded_at": 1436667900,
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1428589600,
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "lastrecorded_at": 1431184500,
+              "id": "7KJ2oshg24kaKKcYCAQoCw",
+              "price": "61.92",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "8403048",
+          "url": "http://www.frys.com/product/8403048",
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "39.99",
+              "seller": "Frys",
+              "availability": "In Stock",
+              "id": "6zShmcfJdQggygk6qSw8K4",
+              "lastrecorded_at": 1463643300,
+              "firstrecorded_at": 1453301500,
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1428583100,
+              "seller": "Frys",
+              "lastrecorded_at": 1451788900,
+              "id": "3hLo0MXb5kaIQ40eWcyuIE",
+              "availability": "In Stock",
+              "currency": "USD",
+              "price": "59.99",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1451234900,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "65.98",
+              "currency": "USD",
+              "id": "5EB919ucvIEW4mUqAEUAge",
+              "lastrecorded_at": 1454901400,
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            },
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1430260800,
+              "price": "64.98",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "id": "5InUgBTHnMw4k0UQQ0CUSc",
+              "lastrecorded_at": 1450656600,
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=812334",
+          "sku": "812334"
+        }
+      ],
+      "weight": "99790.32",
+      "name": "Borderlands: The Handsome Collection - Playstation 4",
+      "sem3_id": "6qCVyuTKVsyCqIKkEosmW8",
+      "updated_at": 1463643385,
+      "category": "Games",
+      "operatingsystem": "playstation_4",
+      "platform": "PlayStation 4",
+      "manufacturer": "2K Games",
+      "height": "12.70",
+      "length": "170.18",
+      "gtins": [
+        "00710425475337"
+      ],
+      "variation_secondaryids": [
+        "3VC0HMsEu0qKgaWoUQw8G2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "21.80",
+      "mpn": "49532",
+      "sitedetails": [
+        {
+          "sku": "1180521",
+          "url": "http://www.antonline.com/p_2K-Games--49532--Borderlands%3A-The-Handsome-Collection---Xbox-One_1180521.htm",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "price": "62.03",
+              "id": "3XJGd4UuNseyAwYGMM6Oi6",
+              "firstrecorded_at": 1434118500,
+              "currency": "USD",
+              "lastrecorded_at": 1437387400,
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1428589600,
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1431184800,
+              "availability": "Available",
+              "id": "5BhzOlcmIqSGOu24iUcCkK",
+              "price": "61.92",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "width": "134.62",
+      "height": "15.24",
+      "features": {
+        "Domestic Shipping": "Item can be shipped within U.S.",
+        "Release Date": "March 24, 2015",
+        "Media": "Video Game"
+      },
+      "name": "Borderlands: The Handsome Collection - Xbox One",
+      "created_at": 1428589679,
+      "category": "Games",
+      "brand": "2K Games",
+      "updated_at": 1463407499,
+      "operatingsystem": "xbox_one",
+      "ean": "0710425495328",
+      "model": "49532",
+      "cat_id": "13629",
+      "manufacturer": "2K Games",
+      "weight": "77110.70",
+      "upc": "710425495328",
+      "platform": "Xbox One",
+      "sem3_id": "4YjiRqWTHE0kUSGoGyKe4A",
+      "length": "170.18",
+      "gtins": [
+        "00710425495328"
+      ],
+      "variation_secondaryids": [
+        "3VC0HMsEu0qKgaWoUQw8G2"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "operatingsystem": "nintendo_3ds",
+      "cat_id": "13629",
+      "mpn": "EM-30021-1",
+      "brand": "Atlus",
+      "platform": "Nintendo 3DS",
+      "name": "Atlus Etrian Mystery Dungeon",
+      "weight": "113398.09",
+      "category": "Games",
+      "features": {
+        "Language Supported": "English",
+        "Software Name": "Etrian Mystery Dungeon",
+        "Release Date": "2015",
+        "Product Type": "Software",
+        "ESRB Rating": "E10+ (Everyone 10 and older)",
+        "Features": "Infinite Dungeons to Explore: Etrian Mystery Dungeon incorporates the random map feature, which changes the floor terrain each time a player enters the dungeon. This core mechanic, inherited from the Mystery Dungeon serie, challenges the players with a new maze and stronger monsters every time, offering them unlimited replayability! Attention to Detail: The Etrian Odyssey tradition of party customization is in full effect for Et ian Mystery Dungeon . After the first journey as a Landsknecht, players can freely choose their party of 4 from up to 10 different class types. While each class has a unique skill set of its own, characters can also unlock new skills th ough skill trees. Not Your Grandfather's Combat: The unique perspective in Etrian Mystery Dungeon means that special care will have to be given when selecting party members and upgrading their abilities. With du geons chock full of enemies and all the loot and money collected at stake, being 100 percent certain in your party's abilities is crucial for making it out alive.",
+        "Single Player Supported": "Yes",
+        "Platform Supported": "Nintendo 3DS",
+        "Maximum Number of Players Supported": "1",
+        "Software Main Type": "Game",
+        "Software Sub Type": "Role Playing Game",
+        "Rating Descriptor": "Mild Suggestive Themes",
+        "Game Expansion Pack": "No"
+      },
+      "model": "EM-30021-1",
+      "ean": "0730865300211",
+      "sem3_id": "5ZHiGiKJpQqQc0Em006aWq",
+      "manufacturer": "Atlus U.S.A., Inc",
+      "upc": "730865300211",
+      "height": "210.06",
+      "length": "139.95",
+      "created_at": 1428533953,
+      "updated_at": 1463649538,
+      "price": "21.40",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=812351",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "price": "45.99",
+              "lastrecorded_at": 1458206500,
+              "currency": "USD",
+              "availability": "In Stock",
+              "firstrecorded_at": 1455068500,
+              "id": "3y1bPHyXMeSAiWEAMKWGqE",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1432688600,
+              "id": "2mSujAsGK0MiekqK0SQgUe",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "43.44",
+              "lastrecorded_at": 1450526600,
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "43.80",
+              "lastrecorded_at": 1431285900,
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "availability": "In Stock",
+              "firstrecorded_at": 1428533900,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "5Soa9ehGtsi66okgAYIKUW",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "datavis.com",
+          "sku": "812351"
+        },
+        {
+          "sku": "1183167",
+          "name": "antonline.com",
+          "recentoffers_count": 0,
+          "url": "http://www.antonline.com/p_--EM-30021-1--Etrian-Mystery-Dungeon-3DS_1183167.htm",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "price": "46.38",
+              "lastrecorded_at": 1460912600,
+              "seller": "ANTOnline",
+              "id": "0QXZ9SZcMC0e2iWImgeU6O",
+              "firstrecorded_at": 1460708700,
+              "isactive": 0
+            },
+            {
+              "id": "4Etl10vqSOGuGSqAy2S2MG",
+              "firstrecorded_at": 1457560000,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "43.82",
+              "lastrecorded_at": 1458865300,
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1456922100,
+              "price": "43.64",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1455521000,
+              "id": "7JaxNNwB2eaoYCmsgKy6iO",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "8379537",
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "In Stock",
+              "lastrecorded_at": 1463649500,
+              "price": "39.99",
+              "seller": "Frys",
+              "id": "3ONCd6ygQ4mYcAS26iEmwo",
+              "firstrecorded_at": 1428584200,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.frys.com/product/8379537"
+        }
+      ],
+      "width": "9.91",
+      "gtins": [
+        "00730865300211"
+      ],
+      "variation_secondaryids": [
+        "3NpA5CxUquOaAekCKIkcuc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "UBP60801071",
+      "weight": "158757.33",
+      "cat_id": "13629",
+      "model": "UBP60801071",
+      "sem3_id": "0R61VJxP48sAGUiEqGuGwA",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1463715600,
+              "id": "3VLGTy0u0eAaqGmOyEWcem",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1455428400,
+              "price": "59.96",
+              "seller": "B&H",
+              "isactive": 1
+            },
+            {
+              "price": "59.99",
+              "seller": "B&H",
+              "firstrecorded_at": 1440559300,
+              "currency": "USD",
+              "availability": "More Coming Soon",
+              "id": "01ALt75QdR2GSG8ESOsoyK",
+              "lastrecorded_at": 1440559300,
+              "isactive": 0
+            }
+          ],
+          "sku": "1180727",
+          "url": "http://www.bhphotovideo.com/c/product/1180727-REG/ubisoft_ubp60801071_might_magic_heroes.html",
+          "name": "bhphotovideo.com"
+        },
+        {
+          "sku": "1210456",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "ANTOnline",
+              "price": "72.94",
+              "firstrecorded_at": 1447637600,
+              "id": "5fZy3vodZuYwwu202Q0S0u",
+              "lastrecorded_at": 1450126500,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1445862300,
+              "seller": "ANTOnline",
+              "price": "73.09",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1445862300,
+              "id": "2cagYwQn3cgcgYEmO2iQC6",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.antonline.com/p_Ubisoft--UBP60801071--Ubisoft-Might-%26-Magic-Heroes-VII-Deluxe-Edition---Strategy-Game---PC_1210456.htm",
+          "name": "antonline.com"
+        },
+        {
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=836024",
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "41MRS7ot0iISQ8eC0koEuY",
+              "lastrecorded_at": 1450448800,
+              "currency": "USD",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "price": "63.99",
+              "firstrecorded_at": 1449845000,
+              "isactive": 0
+            },
+            {
+              "id": "6goTbes5iq6sCYUwK4mIKQ",
+              "lastrecorded_at": 1448636100,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "61.99",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1448636100,
+              "currency": "USD",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "836024"
+        }
+      ],
+      "brand": "Ubisoft",
+      "name": "Might & Magic Heroes VII Deluxe Edition (PC)",
+      "created_at": 1440559308,
+      "updated_at": 1463715647,
+      "features": {
+        "Software Sub Type": "Strategy Game",
+        "Product Type": "Software",
+        "Platform Supported": "PC",
+        "Software Name": "Might & Magic Heroes VII Deluxe Edition",
+        "Product Information": "Software Main Type",
+        "Manufacturer Website Address": "http://www.ubi.com"
+      },
+      "ean": "0887256015343",
+      "category": "Games",
+      "price": "33.97",
+      "operatingsystem": "Windows 8, Windows 7",
+      "upc": "887256015343",
+      "gtins": [
+        "00887256015343"
+      ],
+      "variation_secondaryids": [
+        "3Cs09V1z3QOmGo8eaG86wy"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1432037583,
+      "weight": "68038.86",
+      "brand": "Warner Bros",
+      "platform": "Xbox One",
+      "upc": "883929477241",
+      "model": "1000568292",
+      "length": "173.48",
+      "mpn": "1000568292",
+      "features": {
+        "Manufacturer Website Address": "http://www.warnerbros.com",
+        "ESRB Rating": "M (Mature 17+)",
+        "Product Information": "Software Main Type",
+        "Software Name": "Middle-Earth Shadow of Mordor: Game of the Year Edition",
+        "Product Type": "Software",
+        "Platform Supported": "Xbox One",
+        "Software Sub Type": "Action/Adventure Game"
+      },
+      "price": "19.50",
+      "operatingsystem": "xbox_one",
+      "cat_id": "13629",
+      "height": "12.95",
+      "width": "133.60",
+      "sitedetails": [
+        {
+          "sku": "1187650",
+          "recentoffers_count": 0,
+          "url": "http://www.antonline.com/p_Warner-Bros--1000568292--Middle-Earth%3A-Shadow-of-Mordor-Game-of-the-Year---Xbox-One_1187650.htm",
+          "latestoffers": [
+            {
+              "price": "33.54",
+              "firstrecorded_at": 1455438800,
+              "availability": "Available",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "lastrecorded_at": 1458297800,
+              "id": "68Qr7sS5o0GgwCGsIW68gk",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "price": "33.19",
+              "firstrecorded_at": 1453650000,
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "lastrecorded_at": 1454292600,
+              "id": "636aDkwfdAOWOQiYwsAuGq",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "price": "39.32",
+              "firstrecorded_at": 1453114000,
+              "availability": "Available",
+              "lastrecorded_at": 1453114000,
+              "id": "4i49XgfvGqc2eCimY4Si4s",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com"
+        },
+        {
+          "name": "frys.com",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "availability": "In Stock",
+              "price": "19.98",
+              "firstrecorded_at": 1460972100,
+              "lastrecorded_at": 1463595000,
+              "id": "4UNQfaDQlMe8yGw4I8U4Sg",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "id": "6VEByMQ2oSWmsIe0Kiaq8Q",
+              "lastrecorded_at": 1459858900,
+              "currency": "USD",
+              "seller": "Frys",
+              "firstrecorded_at": 1454086700,
+              "price": "29.99",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "id": "2puSAvWnxQs64e6CSIACYS",
+              "lastrecorded_at": 1451909200,
+              "firstrecorded_at": 1441202100,
+              "price": "39.99",
+              "availability": "In Stock",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/8460868",
+          "sku": "8460868"
+        }
+      ],
+      "sem3_id": "0Q48MJhUbhWAkaQws0y4KO",
+      "manufacturer": "Warner Bros",
+      "updated_at": 1463621190,
+      "category": "Games",
+      "name": "WB Middle-Earth Shadow of Mordor: Game of the Year Edition - Action/Adventure Game - Xbox One",
+      "ean": "0883929477241",
+      "gtins": [
+        "00883929477241"
+      ],
+      "variation_secondaryids": [
+        "6Uuw5jY2SWeasSw6qCKWsU"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0047875874275",
+      "width": "133.60",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "price": "55.91",
+              "availability": "Available",
+              "seller": "ANTOnline",
+              "id": "2F3Rj83I88CGWks2EgIacI",
+              "currency": "USD",
+              "firstrecorded_at": 1460997400,
+              "lastrecorded_at": 1460997400,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1457628700,
+              "lastrecorded_at": 1457628700,
+              "seller": "ANTOnline",
+              "id": "0WN6Q7K7KU4oqsog06mq2w",
+              "availability": "Available",
+              "price": "52.81",
+              "isactive": 0
+            },
+            {
+              "price": "52.66",
+              "availability": "Available",
+              "id": "1I1fc27MLg0E6EiEsgC4Cm",
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1455801200,
+              "lastrecorded_at": 1456822000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_Activision--87427--Call-of-Duty%3A-Advanced-Warfare-Gold-Edition---Xbox-360_1184043.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "sku": "1184043"
+        }
+      ],
+      "cat_id": "13629",
+      "features": {
+        "Software Name": "Call of Duty: Advanced Warfare Game of the Year Edition",
+        "Platform Supported": "Xbox 360",
+        "Product Information": "Software Main Type",
+        "Manufacturer Website Address": "http://www.activision.com",
+        "Product Type": "Software",
+        "Software Sub Type": "First Person Shooter",
+        "Game Expansion Pack": "No"
+      },
+      "mpn": "87427",
+      "name": "Activision Call of Duty: Advanced Warfare Game of the Year Edition",
+      "brand": "Activision",
+      "model": "87427",
+      "category": "Games",
+      "platform": "Xbox 360",
+      "created_at": 1430309236,
+      "height": "14.22",
+      "sem3_id": "4h8PVWiygiKsgWGi2kIEYM",
+      "manufacturer": "Activision",
+      "price": "26.17",
+      "operatingsystem": "microsoft_xbox_360",
+      "weight": "104326.25",
+      "length": "191.77",
+      "updated_at": 1463492270,
+      "upc": "047875874275",
+      "gtins": [
+        "00047875874275"
+      ],
+      "variation_secondaryids": [
+        "00SQCvkzVZr6gQ2qosoI4I"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

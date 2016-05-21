@@ -1,0 +1,682 @@
+{
+  "total_results_count": 17111,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "brand": "Justin's Nut Butter",
+      "name": "Justin's Organic Peanut Butter Cups, Dark Chocolate, 1.4-Ounce (Pack of 12)",
+      "sem3_id": "59RtubysQi0AMA0sMCeeQK",
+      "features": {
+        "Protein": "4 g",
+        "Dietary Fiber": "2 g (8 %)",
+        "Total Fat": "14 g (22 %)",
+        "Total Carbohydrate": "18 g (6 %)",
+        "Servings Per Container": "1",
+        "Saturated Fat": "6 g (30 %)",
+        "Warnings": "Processed on equipment shared with peanuts, tree nuts, dairy, soy.",
+        "Vitamin C": "0 %",
+        "Total Size": "1.4 oz",
+        "Trans Fat": "0 g",
+        "Sodium": "120 mg (6 %)",
+        "Serving Size": "2 cups",
+        "Ingredients": "Organic Milk Chocolate (Organic Evaporated Cane Sugar, Organic Cocoa Butter [Rainforest Alliance Certified], Organic Whole Milk Powder, Organic Chocolate Liquor [Rainforest Alliance Certified], Organic Soy Lecithin, Organic Vanilla), Organic Peanuts, Organic Evaporated Cane Sugar, Organic Cocoa Butter, Organic Palm Fruit Oil, Organic Vanilla Flavor, Sea Salt.",
+        "Calcium": "4 %",
+        "Units in Package": "2",
+        "Vitamin A": "0 %",
+        "Iron": "4 %",
+        "Sugars": "14 g",
+        "Cholesterol": "0 mg (0 %)"
+      },
+      "cat_id": "15051",
+      "model": "00395",
+      "created_at": 1357737182,
+      "ean": "0894455000247",
+      "updated_at": 1463459481,
+      "manufacturer": "Justin`S",
+      "upc": "894455000247",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "seller": "Direct Home Supplies",
+              "lastrecorded_at": 1463459400,
+              "firstrecorded_at": 1462825500,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "21.66",
+              "id": "5RYPi10p4weQSOaYG2MWay",
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1437828300,
+              "lastrecorded_at": 1437828300,
+              "seller": "UnbeatableSale.com, Inc.",
+              "id": "1I3rtK821Ec6q0EM0Cy6Yu",
+              "price": "26.30",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1436631000,
+              "firstrecorded_at": 1425311100,
+              "seller": "UnbeatableSale.com, Inc.",
+              "id": "53qh8TkbPMiECuMCaoEekc",
+              "availability": "Available",
+              "currency": "USD",
+              "price": "26.63",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/33502194",
+          "sku": "33502194"
+        }
+      ],
+      "price": "21.66",
+      "category": "Chocolate Bars",
+      "weight": "6803.89",
+      "gtins": [
+        "00894455000247"
+      ],
+      "variation_secondaryids": [
+        "5jtj2WMuGWggsCySe0mYyy"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "category": "Chocolate Assortments",
+      "name": "Ferrero Rocher, Flat 48 Count [48 piece Diamond Box]",
+      "ean": "0009800120499",
+      "manufacturer": "Ferrero Rocher",
+      "cat_id": "5378",
+      "sem3_id": "1RbgtpwgvYmW2MwQI0MCuy",
+      "length": "355.60",
+      "mpn": "020457",
+      "brand": "Ferrero Rocher",
+      "weight": "603277.85",
+      "upc": "009800120499",
+      "width": "50.80",
+      "height": "254.00",
+      "created_at": 1348702435,
+      "updated_at": 1453306404,
+      "features": {
+        "Product Dimensions": "14 x 2 x 10 inches ; 1.3 pounds",
+        "Origin": "Made in USA"
+      },
+      "sitedetails": [],
+      "price": "16.45",
+      "size": "21.2 Oz",
+      "gtins": [
+        "00009800120499"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "ean": "0034000440009",
+      "brand": "Hershey's",
+      "weight": "1837049.10",
+      "manufacturer": "Hershey's",
+      "upc": "034000440009",
+      "updated_at": 1458951292,
+      "sem3_id": "0G8YEP50ScCMSQ4Gsw8K4A",
+      "created_at": 1374228608,
+      "name": "Reese's Peanut Butter Cups, 1.5-Ounce Packages (Pack of 36)",
+      "width": "195.58",
+      "cat_id": "6741",
+      "mpn": "2444",
+      "category": "Chocolate",
+      "length": "276.86",
+      "height": "96.52",
+      "features": {
+        "Servings Per Container": "36",
+        "Vitamin A": "0 %",
+        "Unit Size": "42 g packages",
+        "Iron": "4 %",
+        "Sodium": "150 mg (6 %)",
+        "Protein": "5 g",
+        "Units in Package": "36",
+        "Cholesterol": "<5 mg (1 %)",
+        "Warnings": "Keep in a cool dry place. This product should not be exposed to dampness, heat or placed near drugs, oils, tobacco, or anything from which the product could absorb odors. Store and display in a clean, sanitary, pest-free environment separated from goods which may harbor pests, such as pet food and bird seed. Do not sell any of our goods which do not satisfy these conditions.",
+        "Total Fat": "13 g (20 %)",
+        "Serving Size": "1 package",
+        "Directions": "Box Opening: 1. Tear along zip opening on front panel. 2. Lift lid straight back. 3. Tear off lid at perforation. 4. Display goods from back end.",
+        "Ingredients": "Milk Chocolate (Sugar, Cocoa Butter, Chocolate, Nonfat Milk, Milk Fat, Lactose, Soy Lecithin, PGPR, Emulsifier), Peanuts, Sugar, Dextrose, Salt, TBHQ (Preservative).",
+        "Saturated Fat": "4.5 g (23 %)",
+        "Vitamin C": "0 %",
+        "Total Carbohydrate": "24 g (8 %)",
+        "Dietary Fiber": "1 g (4 %)",
+        "Trans Fat": "0 g",
+        "Sugars": "21 g",
+        "Calcium": "2 %"
+      },
+      "size": "1.5 Ounce (Pack of 36)",
+      "sitedetails": [
+        {
+          "name": "officemax.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1407044100,
+              "id": "0RVDXLkNQqsYmkomMOQOaw",
+              "availability": "Available",
+              "seller": "Office Max",
+              "firstrecorded_at": 1407044100,
+              "currency": "USD",
+              "price": "34.99",
+              "isactive": 1
+            }
+          ],
+          "sku": "prod3580024",
+          "url": "http://www.officemax.com/office-supplies/breakroom-cleaning/candy-snacks/chocolate-candy/product-prod3580024",
+          "recentoffers_count": 1
+        }
+      ],
+      "model": "34000 44000",
+      "price": "20.49",
+      "gtins": [
+        "00034000440009"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "2N4tByRDt6aCEykke2i4GK",
+      "features": {
+        "ServingSize-InGrams": "44 g",
+        "Calories from Fat": "110",
+        "Servings Per Container": "26",
+        "Serving Size": "5 pieces",
+        "Cholesterol": "-5 mg",
+        "Protein": "4 g",
+        "Total Fat": "13 g",
+        "Calories": "220",
+        "Sugars": "23 g",
+        "Dietary Fiber": "1 g",
+        "Saturated Fat": "5 g",
+        "Trans Fat": "0 g",
+        "Total Carbohydrate": "26 g",
+        "Sodium": "130 mg"
+      },
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "28z299jLdccIqa2a2YWGGy",
+              "lastrecorded_at": 1462311800,
+              "seller": "Walmart",
+              "firstrecorded_at": 1462311800,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "10.28",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1459154900,
+              "seller": "Walmart",
+              "price": "13.01",
+              "id": "5DLQhCMVKS26qqwwS08KSO",
+              "lastrecorded_at": 1459154900,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1456951500,
+              "id": "1pJ2N8jkFAu6KQqA8MiWgC",
+              "price": "10.48",
+              "currency": "USD",
+              "availability": "Not Available",
+              "seller": "Walmart",
+              "firstrecorded_at": 1456951500,
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "recentoffers_count": 0,
+          "sku": "10449925",
+          "url": "http://www.walmart.com/ip/10449925"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "target.com",
+              "firstrecorded_at": 1460335600,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "10.29",
+              "id": "0MjzXazWrJ2OYwsOS2YE2y",
+              "lastrecorded_at": 1463571100,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "target.com",
+              "firstrecorded_at": 1459689700,
+              "price": "9.26",
+              "id": "6S0SKpuG6SwGeeowkaKgQs",
+              "lastrecorded_at": 1459689700,
+              "isactive": 0
+            },
+            {
+              "price": "10.29",
+              "firstrecorded_at": 1459084600,
+              "seller": "target.com",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1459386900,
+              "id": "6yolG2jnd2Q6K0K0eaAoGC",
+              "isactive": 0
+            }
+          ],
+          "name": "target.com",
+          "sku": "13217430",
+          "recentoffers_count": 1,
+          "url": "http://www.target.com/p/reese-s-miniatures-peanut-butter-cups-40-oz/-/A-13217430"
+        },
+        {
+          "name": "kmart.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1425954100,
+              "price": "12.49",
+              "id": "566Wy60q8mSGqMsOyCkmg0",
+              "lastrecorded_at": 1463718300,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.kmart.com/reese-s-peanut-butter-cups-milk-chocolate-miniatures/p-033W435120120001P",
+          "listprice": "12.49",
+          "sku": "033W435120120001P",
+          "recentoffers_count": 1,
+          "listprice_currency": "USD"
+        }
+      ],
+      "category": "Chocolate",
+      "weight": "1133980.92",
+      "name": "Reese's Peanut Butter Cups Miniatures, 40-Ounces []",
+      "ean": "0034000447428",
+      "height": "243.84",
+      "width": "173.99",
+      "brand": "Reese's",
+      "model": "44742",
+      "manufacturer": "The Hershey Company",
+      "created_at": 1374228941,
+      "length": "91.44",
+      "size": "40 Ounce Package",
+      "upc": "034000447428",
+      "cat_id": "6741",
+      "mpn": "44742",
+      "updated_at": 1463718326,
+      "price": "10.29",
+      "gtins": [
+        "00034000447428"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "15051",
+      "sitedetails": [],
+      "manufacturer": "Kit Kat",
+      "brand": "Kit Kat",
+      "created_at": 1348683208,
+      "name": "Kit Kat Candy Bar, Crisp Wafers in Dark Chocolate, 1.5-Ounce Bars (Pack of 24)",
+      "sem3_id": "4H0eNbVmPgcaCKCqOGQcmk",
+      "upc": "034000236435",
+      "updated_at": 1458962809,
+      "price": "29.75",
+      "ean": "0034000236435",
+      "features": {
+        "Protein": "3 g",
+        "Total Fat": "11 g (17 %)",
+        "Vitamin A": "0 %",
+        "Servings Per Container": "24",
+        "Ingredients": "Sugar, Chocolate, Wheat Flour, Cocoa Butter, Palm Kernel Oil, Cocoa Processed with Alkali, Milk Fat, Contains 2% or Less of: Lactose (Milk), Soy Lecithin, PGPR, Emulsifier, Yeast, Salt, Vanillin, Artificial Flavor, Sodium Bicarbonate, Milk.",
+        "Trans Fat": "0 g",
+        "Warnings": "Allergy Information: Manufactured in a facility that also processes peanuts.",
+        "Vitamin C": "0 %",
+        "Units in Package": "24",
+        "Calcium": "6 %",
+        "Total Carbohydrate": "27 g (9 %)",
+        "Unit Size": "42 g pkgs",
+        "Serving Size": "1 bar",
+        "Sodium": "30 mg (1 %)",
+        "Sugars": "21 g",
+        "Dietary Fiber": "<1 g (3 %)",
+        "Saturated Fat": "7 g (35 %)",
+        "Cholesterol": "<5 mg (1 %)",
+        "Iron": "2 %"
+      },
+      "weight": "163293.25",
+      "category": "Chocolate Bars",
+      "gtins": [
+        "00034000236435"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "907184.74",
+      "manufacturer": "brookside",
+      "created_at": 1348698777,
+      "size": "2-lb",
+      "length": "152.40",
+      "width": "76.20",
+      "brand": "brookside",
+      "name": "Brookside Dark Chocolate Acai with Blueberry 2 Pounds Resealable Bag [Misc.]",
+      "mpn": "6843738975",
+      "sem3_id": "3OEdt6OsEiEiic6qIAG2Gy",
+      "updated_at": 1460928555,
+      "height": "254.00",
+      "features": {
+        "Product Dimensions": "6 x 3 x 10 inches ; 2 pounds"
+      },
+      "upc": "068437389754",
+      "price": "17.98",
+      "category": "Chocolate Covered Fruit",
+      "ean": "0068437389754",
+      "cat_id": "13460",
+      "sitedetails": [],
+      "gtins": [
+        "00068437389754"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Serving Size": "0.333 bar",
+        "Sugars": "14 g",
+        "Vitamin C": "7 %",
+        "Protein": "2 g",
+        "Vitamin A": "2 %",
+        "Servings Per Container": "3",
+        "Cholesterol": "0 mg (0 %)",
+        "Dietary Fiber": "3 g (12 %)",
+        "Warnings": "May contain traces of peanuts or other nuts.",
+        "Total Fat": "10 g (15 %)",
+        "Saturated Fat": "6 g (30 %)",
+        "Directions": "Tastes best at 70 degrees F. Store at 55-65 degrees F.",
+        "Unit Size": "3.2 oz",
+        "Ingredients": "Dark Chocolate (Cocoa Liquor, Sugar, Cocoa Butter, Soy Lecithin, Vanilla), Dried Cherries, Ancho Chilies, Chipotle Chilies.",
+        "Trans Fat": "0 g",
+        "Sodium": "29 mg (1 %)",
+        "Iron": "5 %",
+        "Calcium": "2 %",
+        "Total Carbohydrate": "15 g (5 %)",
+        "Units in Package": "1"
+      },
+      "name": "Chocolove Chocolate Bar, Chilies & Cherries in Dark Chocolate, 3.2 Ounce (Pack of 6)",
+      "ean": "0716270001585",
+      "manufacturer": "Dark Chocolate Dream",
+      "sitedetails": [],
+      "category": "Chocolate Bars",
+      "created_at": 1357733605,
+      "model": "270215",
+      "upc": "716270001585",
+      "sem3_id": "39xuXdxhXkSUsSm4QSm4Iw",
+      "brand": "Dark Chocolate Dream",
+      "size": "3.2 oz (90 g)",
+      "updated_at": 1462000065,
+      "cat_id": "15051",
+      "price": "21.95",
+      "variation_id": "0xvqtrEBHGqCwMkceQeaos",
+      "weight": "90718.47",
+      "gtins": [
+        "00716270001585"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "sem3_id": "3RWmN55yoC6uQycEWM8kge",
+      "height": "152.40",
+      "width": "152.40",
+      "ean": "0034000470204",
+      "length": "304.80",
+      "updated_at": 1463449462,
+      "created_at": 1357753108,
+      "sitedetails": [
+        {
+          "sku": "17056801",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "lastrecorded_at": 1461641100,
+              "id": "07aJ0tX0YDYsI8quu6iACU",
+              "firstrecorded_at": 1461641100,
+              "availability": "Available",
+              "price": "3.13",
+              "isactive": 0
+            },
+            {
+              "price": "3.05",
+              "availability": "Available",
+              "id": "5fN0QqOMUqei8yswE0W0k4",
+              "lastrecorded_at": 1461320800,
+              "seller": "Walmart",
+              "firstrecorded_at": 1461320800,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1460257100,
+              "lastrecorded_at": 1461011200,
+              "id": "4GxcWCDQpEIggOEIOoQSEC",
+              "seller": "Walmart",
+              "price": "2.62",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "walmart.com",
+          "url": "http://www.walmart.com/ip/17056801",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "417627",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "159.99",
+              "seller": "Drug Store",
+              "id": "395hygwDJ26myioaWaS8kg",
+              "lastrecorded_at": 1456447400,
+              "firstrecorded_at": 1456447400,
+              "isactive": 0
+            },
+            {
+              "seller": "Drug Store",
+              "id": "7gMxemCHZIIgWYYaqU6A4K",
+              "lastrecorded_at": 1455897200,
+              "firstrecorded_at": 1455897200,
+              "price": "169.99",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1455339900,
+              "seller": "Drug Store",
+              "id": "1TqIcmzgkaC6EoCkYQWAsO",
+              "lastrecorded_at": 1455339900,
+              "price": "59.99",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "name": "drugstore.com",
+          "url": "http://www.drugstore.com/reeses-minis-peanut-butter-cups-candy/qxp417627",
+          "recentoffers_count": 0
+        }
+      ],
+      "weight": "907184.74",
+      "category": "Chocolate Bars",
+      "brand": "Reese's",
+      "upc": "034000470204",
+      "model": "kin-65-iuy-mm-a6387",
+      "name": "Reese's Minis Peanut Butter Cups, 8-Ounce Pouches (Pack of 4)",
+      "price": "19.00",
+      "manufacturer": "Reese's",
+      "cat_id": "15051",
+      "features": {
+        "Servings Per Container": "6",
+        "Serving Size": "11 pieces",
+        "Total Carbohydrate": "23 g",
+        "Sugars": "21 g",
+        "Cholesterol": "-5 mg",
+        "Dietary Fiber": "1 g",
+        "Calories": "200",
+        "Saturated Fat": "6 g",
+        "Protein": "3 g",
+        "Calories from Fat": "100",
+        "Total Fat": "12 g",
+        "Trans Fat": "0 g",
+        "ServingSize-InGrams": "39 g",
+        "Sodium": "100 mg"
+      },
+      "gtins": [
+        "00034000470204"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "size": "3.2 oz (90 g)",
+      "sem3_id": "6QI2tA2DGS6462UqAMImai",
+      "created_at": 1357733605,
+      "updated_at": 1460882163,
+      "variation_id": "0xvqtrEBHGqCwMkceQeaos",
+      "model": "271395",
+      "sitedetails": [],
+      "name": "Chocolove Almonds Seasalt in Dark Chocolate, 3.2-ounces (Pack of 6)",
+      "features": {
+        "Calcium": "1 %",
+        "Trans Fat": "0 g",
+        "Dietary Fiber": "3 g (12 %)",
+        "Total Carbohydrate": "12 g (4 %)",
+        "Units in Package": "1",
+        "Protein": "2 g",
+        "Servings Per Container": "3",
+        "Saturated Fat": "5 g (26 %)",
+        "Vitamin C": "0 %",
+        "Total Fat": "11 g (17 %)",
+        "Vitamin A": "0 %",
+        "Cholesterol": "0 mg (0 %)",
+        "Sodium": "123 mg (5 %)",
+        "Serving Size": "0.33 bar",
+        "Directions": "Tastes best at 70 degrees F. Store at 55-65 degrees F.",
+        "Warnings": "May contain traces of milk, wheat, peanuts or other nuts.",
+        "Ingredients": "Cocoa Liquor, Sugar, Almonds, Cocoa Butter, Sea Salt, Soy Lecithin, Vanilla.",
+        "Iron": "7 %",
+        "Unit Size": "3.2 oz",
+        "Sugars": "11 g"
+      },
+      "ean": "0716270001554",
+      "price": "18.98",
+      "upc": "716270001554",
+      "weight": "90718.47",
+      "category": "Chocolate Bars",
+      "cat_id": "15051",
+      "brand": "Chocolove",
+      "manufacturer": "Chocolove",
+      "gtins": [
+        "00716270001554"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "1188412.01",
+      "ean": "0037466017631",
+      "manufacturer": "Lindt",
+      "features": {
+        "Dietary Fiber": "3 g (12 %)",
+        "Total Fat": "19 g (29 %)",
+        "Warnings": "May contain traces of peanuts/tree nuts/milk.",
+        "Sodium": "10 mg (0 %)",
+        "Sugars": "12 g",
+        "Vitamin A": "0 %",
+        "Directions": "Keep cool (60-68 degrees F) and dry.",
+        "Ingredients": "Chocolate, Sugar, Cocoa Butter, Soya Lecithin (Emulsifier), Bourbon Vanilla Beans. Dark Chocolate Contains: Cocoa Solids: 70% Min.",
+        "Unit Size": "3.5 oz",
+        "Protein": "3 g",
+        "Total Carbohydrate": "17 g (6 %)",
+        "Cholesterol": "0 mg (0 %)",
+        "Vitamin C": "0 %",
+        "Trans Fat": "0 g",
+        "Serving Size": "4 squares",
+        "Calcium": "2 %",
+        "Iron": "6 %",
+        "Saturated Fat": "12 g (60 %)",
+        "Servings Per Container": "2.5",
+        "Units in Package": "1"
+      },
+      "price": "30.25",
+      "sitedetails": [],
+      "upc": "037466017631",
+      "category": "Chocolate Bars",
+      "cat_id": "15051",
+      "created_at": 1348683246,
+      "brand": "Lindt",
+      "updated_at": 1461424115,
+      "name": "Lindt Excellence Dark Chocolate 70% Cocoa, 3.5-Ounce Packages (Pack of 12)",
+      "sem3_id": "6JPh1asMiGC8ECimyEAmaG",
+      "gtins": [
+        "00037466017631"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

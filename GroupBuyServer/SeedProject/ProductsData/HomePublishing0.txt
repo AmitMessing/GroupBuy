@@ -1,0 +1,953 @@
+{
+  "total_results_count": 3235,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "height": "48.26",
+      "features": {
+        "Package Type": "Retail",
+        "Distribution Media": "CD-ROM",
+        "Version": "7.0.2",
+        "OS Required": "Microsoft Windows NT 4.0 SP6, Microsoft Windows 2000 Professional SP2, Microsoft Windows XP Home Edition, Microsoft Windows XP Professional",
+        "Min Supported Color Depth": "8-bit (256 colors)",
+        "Platform": "Windows",
+        "License Type": "Complete package",
+        "System Requirements Details": "Microsoft Windows XP Home Edition - Pentium - RAM 32 MB - HD 175 MB Microsoft Windows 2000 Professional SP2 - Pentium - RAM 32 MB - HD 175 MB Microsoft Windows NT 4.0 SP6 - Pentium - RAM 32 MB - HD 175 MB Microsoft Windows XP Professional - Pentium - RAM 32 MB - HD 175 MB",
+        "Subcategory": "Creativity - desktop publishing",
+        "Peripheral / Interface Devices": "CD-ROM",
+        "License Pricing": "Standard",
+        "License Qty": "1 user",
+        "Language(s)": "English"
+      },
+      "model": "27530379",
+      "upc": "718659347987",
+      "width": "195.58",
+      "weight": "975223.60",
+      "sem3_id": "0RBXI6gB6yO2QkKW8MQO4M",
+      "cat_id": "16736",
+      "created_at": 1348690304,
+      "length": "241.30",
+      "category": "Home Publishing",
+      "manufacturer": "Adobe",
+      "brand": "Adobe",
+      "name": "Adobe Pagemaker 7.0 for Windows [Old Version] [PC Disc]",
+      "updated_at": 1463796148,
+      "mpn": "27530379",
+      "price": "199.00",
+      "ean": "0718659347987",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "availability": "Out of Stock",
+              "currency": "USD",
+              "id": "0Y4uYubLrqgcAeI26swqAA",
+              "firstrecorded_at": 1367789500,
+              "price": "506.46",
+              "lastrecorded_at": 1412353100,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1362157500,
+              "price": "521.39",
+              "firstrecorded_at": 1362126000,
+              "id": "0I4JKfq4peaIKqu8iygowO",
+              "availability": "In stock",
+              "currency": "USD",
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1360662400,
+              "firstrecorded_at": 1360662400,
+              "price": "478.81",
+              "id": "0WVB7sgyEV6mO0qCmK0Agq",
+              "availability": "In stock",
+              "currency": "USD",
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/3405612",
+          "sku": "3405612"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=517584",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "availability": "Low Stock. Order Now!",
+              "currency": "USD",
+              "id": "5aAiLpH0rY0oUo2QOECyGu",
+              "firstrecorded_at": 1402447500,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "581.99",
+              "lastrecorded_at": 1412047200,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1402265100,
+              "firstrecorded_at": 1398437400,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "580.34",
+              "id": "4KphVZEIC8qWySgga2gYEe",
+              "availability": "In Stock",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1398254000,
+              "price": "580.29",
+              "firstrecorded_at": 1398254000,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "5hPOm1o1Q0aYu4U8Om82iS",
+              "isactive": 0
+            }
+          ],
+          "sku": "517584"
+        }
+      ],
+      "platform": "No Operating System",
+      "operatingsystem": "Windows",
+      "gtins": [
+        "00718659347987"
+      ],
+      "variation_secondaryids": [
+        "0gkZDyIEMc4a6O2sU4uUEO"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "040821000414",
+      "price": "499.99",
+      "features": {
+        "Version": "9",
+        "OS Required": "Microsoft Windows XP SP2, Microsoft Windows 7, Microsoft Windows Vista, Microsoft Windows XP SP3, Apple MacOS X 10.5.8, Apple MacOS X 10.6.4",
+        "Package Type": "Retail",
+        "Peripheral / Interface Devices": "DVD-ROM",
+        "System Requirements Details": "- RAM 2 GB - HD 1 GB",
+        "Subcategory": "Creativity - desktop publishing",
+        "License Qty": "1 user",
+        "License Pricing": "Standard",
+        "Platform": "Windows, MacOS",
+        "License Type": "Complete package"
+      },
+      "weight": "113398.09",
+      "manufacturer": "Quark",
+      "height": "139.70",
+      "brand": "Quark, Inc",
+      "category": "Home Publishing",
+      "length": "127.00",
+      "width": "139.70",
+      "mpn": "130004",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/6696264",
+          "recentoffers_count": 0,
+          "sku": "6696264",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1372167200,
+              "currency": "USD",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "lastrecorded_at": 1373761800,
+              "id": "5sp8m9UxNoSEW68mScO2Wq",
+              "seller": "Frys",
+              "price": "799.99",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.walmart.com/ip/16671336",
+          "latestoffers": [
+            {
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1423227200,
+              "id": "5Aec8xUlXc2W80aggMgMKC",
+              "currency": "USD",
+              "firstrecorded_at": 1405996500,
+              "seller": "Walmart",
+              "price": "845.23",
+              "isactive": 0
+            },
+            {
+              "id": "1LeWYe9G7EkSo8aQcaMses",
+              "lastrecorded_at": 1405609300,
+              "availability": "Out of Stock",
+              "firstrecorded_at": 1405609300,
+              "currency": "USD",
+              "seller": "Walmart",
+              "price": "923.75",
+              "isactive": 0
+            },
+            {
+              "id": "2jlYKCOZ9scU4sOg64MGCc",
+              "availability": "Out of Stock",
+              "lastrecorded_at": 1405394500,
+              "firstrecorded_at": 1405178400,
+              "currency": "USD",
+              "price": "958.39",
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ],
+          "sku": "16671336",
+          "name": "walmart.com"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=714999",
+          "recentoffers_count": 0,
+          "sku": "714999",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1390731300,
+              "availability": "OUT OF STOCK",
+              "id": "5fFYGZGUZEg4Mo0s4aiI42",
+              "currency": "USD",
+              "firstrecorded_at": 1388759400,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "price": "915.99",
+              "isactive": 0
+            }
+          ],
+          "name": "datavis.com"
+        }
+      ],
+      "created_at": 1348673392,
+      "name": "Quarkxpress 9 Full Single For Macintosh/Windows v.9",
+      "cat_id": "16736",
+      "sem3_id": "2RvR4NtRqGO2cOIuSWAcKw",
+      "model": "130004",
+      "ean": "0040821000414",
+      "updated_at": 1463765843,
+      "platform": "No Operating System",
+      "operatingsystem": "Mac OS X",
+      "gtins": [
+        "00040821000414"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Sales Rank": "647",
+        "Operating System Family": "Windows Vista Home Premium"
+      },
+      "platform": "Windows",
+      "cat_id": "18708",
+      "brand": "Broderbund",
+      "operatingsystem": "Windows",
+      "updated_at": 1463766294,
+      "created_at": 1357661145,
+      "weight": "68038.86",
+      "ean": "0798936845276",
+      "manufacturer": "Broderbund",
+      "price": "9.99",
+      "sem3_id": "5qS6MKKLS4sUK6Ewo6smKW",
+      "sitedetails": [],
+      "model": "45276",
+      "upc": "798936845276",
+      "category": "Greeting Cards",
+      "name": "PrintMaster 18.1",
+      "gtins": [
+        "00798936845276"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "height": "190.50",
+      "upc": "883919226453",
+      "created_at": 1347468822,
+      "cat_id": "16736",
+      "platform": [
+        "Windows Vista",
+        "Windows 7",
+        "Mac OS X 10.6 Snow Leopard",
+        "Windows XP"
+      ],
+      "sem3_id": "4ZGDvALIgKuOG4sM8GGiAk",
+      "ean": "0883919226453",
+      "category": "Home Publishing",
+      "brand": "Adobe",
+      "model": "65136565",
+      "updated_at": 1463776546,
+      "price": "148.47",
+      "mpn": "65136565",
+      "name": "Adobe Photoshop Elements and Premiere Elements 10 [OLD VERSION] [Box, PC/Mac Disc]",
+      "manufacturer": "Adobe",
+      "operatingsystem": "Windows,Mac OS X",
+      "sitedetails": [
+        {
+          "url": "http://www.frys.com/product/6796395",
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "id": "2op4NMMr32yEcaaiQyoG8k",
+              "price": "149.99",
+              "availability": "Shipping: Available In-Store Only",
+              "currency": "USD",
+              "firstrecorded_at": 1348654500,
+              "lastrecorded_at": 1363781500,
+              "isactive": 0
+            }
+          ],
+          "sku": "6796395",
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1382630900,
+              "firstrecorded_at": 1350769316,
+              "availability": "OUT OF STOCK. [BBX: Buy Box]",
+              "id": "2pTFbwYdy4qcUAsycccikk",
+              "price": "86.66",
+              "seller": "Newegg",
+              "isactive": 0
+            },
+            {
+              "price": "86.66",
+              "id": "4K3hbArlYGucCECk0gKE0Y",
+              "lastrecorded_at": 1361363200,
+              "firstrecorded_at": 1360258000,
+              "currency": "USD",
+              "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]",
+              "seller": "newegg.com",
+              "isactive": 0
+            }
+          ],
+          "sku": "N82E16832105970",
+          "name": "newegg.com",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16832105970"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=621458",
+          "latestoffers": [
+            {
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "firstrecorded_at": 1388757200,
+              "lastrecorded_at": 1390254700,
+              "currency": "USD",
+              "price": "154.99",
+              "id": "0P1SPmEoKUSaYy8gGe0keq",
+              "isactive": 0
+            }
+          ],
+          "sku": "621458"
+        }
+      ],
+      "weight": "272155.42",
+      "width": "31.75",
+      "features": {
+        "PC Video": "16-bit 1024 x 768 Microsoft DirectX 9- or 10-compatible video card",
+        "Mac Drive Type and Speed": "DVD",
+        "PC Additional Requirements": "QuickTime 7 software, Internet connection required for access to online content, dual-core processor for HDV or AVCHD editing and Blu-ray or AVCHD export, compatible DVD burner to burn DVDs, compatible Blu-ray burner to burn Blu-ray Discs",
+        "Mac Optional Requirements": "DV/i.LINK/FireWire/IEEE 1394 interface required to connect a Digital 8 DV or HDV camcorder, USB2 interface required to connect a DV-via-USB-compatible DV camcorder",
+        "Mac Additional Requirements": "QuickTime 7 software, Internet connection required for access to online content, compatible DVD burner to burn DVDs, compatible Blu-ray burner to burn Blu-ray discs",
+        "Mac Operating System": "Macintosh System 10.5.8",
+        "Mac Processor Type": "Multicore IntelÂ® processor",
+        "Mac Video": "1024 x 768 video card with latest updated drivers",
+        "PC Hard Drive Space": "7GB to install applications; additional 5GB to install content",
+        "Mac Hard Drive Space": "7GB to install applications; additional 5GB to install content",
+        "PC Processor Type": "Processor with SSE2 support",
+        "Genre": "Educational",
+        "PC System Memory": "2GB RAM",
+        "Platform": "Mac/Windows",
+        "PC Processor Speed": "2GHz",
+        "PC Optional Requirements": "DV/i.LINK/FireWire/IEEE 1394 interface required to connect a Digital 8 DV or HDV camcorder, USB2 interface required to connect a DV-via-USB-compatible DV camcorder, Windows Media Player required to import or export Windows Media formats",
+        "Mac System Memory": "2GB RAM",
+        "PC Operating System": "Windows XP with Service Pack 3, Windows Media Center, Windows Vista, Windows 7",
+        "PC Sound Card": "Microsoft DirectX 9- or 10-compatible sound card",
+        "PC Drive Type and Speed": "DVD"
+      },
+      "length": "139.70",
+      "gtins": [
+        "00883919226453"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "width": "234.95",
+      "mpn": "381-04125",
+      "length": "285.75",
+      "created_at": 1355946655,
+      "cat_id": "1203",
+      "height": "3.05",
+      "manufacturer": "Microsoft Software",
+      "weight": "68038.86",
+      "category": "Calendars",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=565071",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1458181500,
+              "price": "425.14",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "id": "4WOcd9KzIW0MS8uoUyMQcs",
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "lastrecorded_at": 1458181500,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1457598000,
+              "availability": "In Stock",
+              "id": "3lA1cP0F3w4aUOUIi0uEO0",
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "price": "435.76",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1456357900,
+              "isactive": 0
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "id": "4bblalpaESIWOWKO0SYIgO",
+              "lastrecorded_at": 1455791500,
+              "availability": "In Stock",
+              "price": "425.63",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1454903000,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "565071",
+          "name": "datavis.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "operatingsystem": "Windows Vista",
+      "platform": "Windows Vista",
+      "features": {
+        "System Requirements Details": "- RAM 4 GB - HD 1.88 GB",
+        "Service & Support Details": "New releases update - full-term",
+        "Subcategory": "Office applications - groupware",
+        "Platform": "Windows",
+        "License Pricing": "Standard",
+        "License Type": "License",
+        "Peripheral / Interface Devices": "DVD-ROM, SVGA monitor, Internet connection",
+        "License Qty": "5 user CALs",
+        "Language(s)": "English",
+        "Software Requirements": "Microsoft Windows PowerShell 2, Microsoft Windows Remote Management, Microsoft .NET Framework 3.5",
+        "Service & Support": "New releases update"
+      },
+      "brand": "Microsoft",
+      "updated_at": 1463433134,
+      "model": "381 04125",
+      "ean": "0882224933315",
+      "upc": "882224933315",
+      "name": "Exchange Standard CAL 2010 English MLP 5 User CAL - Packaging may vary",
+      "price": "437.99",
+      "sem3_id": "1XDoshgVaOMqqCyIGK4ES8",
+      "gtins": [
+        "00882224933315"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Individual Software, Inc.",
+      "operatingsystem": "Windows 2000",
+      "width": "138.18",
+      "mpn": "PMM-A14",
+      "cat_id": "1203",
+      "variation_id": "2Ql7F7dGBMmeUqkMigWkqe",
+      "model": "PMM A14",
+      "features": {
+        "PC Hard Drive Space": "35MB",
+        "PC Additional Requirements": "Internet service required to access online features",
+        "Genre": "Educational",
+        "Platform": "Windows",
+        "PC Operating System": "Windows 7, Windows Vista, Windows XP",
+        "PC Processor Type": "IntelÂ® PentiumÂ® processor",
+        "PC Video": "16-bit 800 x 600 video card",
+        "PC Drive Type and Speed": "CD"
+      },
+      "category": "Calendars",
+      "ean": "0018527109397",
+      "manufacturer": "Individual Software",
+      "sem3_id": "2xP7kME94KumQo2aiY8YKK",
+      "price": "39.99",
+      "name": "Individual Software Anytime Organizer Deluxe 14 [PC Disc]",
+      "height": "195.33",
+      "upc": "018527109397",
+      "created_at": 1374233302,
+      "sitedetails": [
+        {
+          "sku": "6755605",
+          "name": "frys.com",
+          "recentoffers_count": 0,
+          "url": "http://www.frys.com/product/6755605",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1436997200,
+              "id": "74tb1qkAFMKCkyCUywMUqq",
+              "price": "39.99",
+              "availability": "Available for In-Store Pickup Only",
+              "seller": "Frys",
+              "lastrecorded_at": 1451791200,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1435264200,
+              "id": "0tVZKJvYhYs6eAU4U4UwoC",
+              "price": "14.99",
+              "availability": "In stock, ships same Business Day.",
+              "seller": "Frys",
+              "currency": "USD",
+              "lastrecorded_at": 1435264200,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1431941500,
+              "currency": "USD",
+              "seller": "Frys",
+              "availability": "In stock, ships same Business Day.",
+              "id": "35xKIRcVEuikKA8M4yecIu",
+              "price": "39.99",
+              "firstrecorded_at": 1428419700,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "datavis.com",
+          "sku": "662983",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=662983",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1454927600,
+              "seller": "DataVision Computer Video",
+              "availability": "In Stock",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "6fd7vDUU1uge4msquWiIGI",
+              "price": "35.68",
+              "firstrecorded_at": 1392025600,
+              "isactive": 0
+            },
+            {
+              "id": "0LxXpK8Ofegy6OqEoQm28O",
+              "price": "35.99",
+              "firstrecorded_at": 1388757100,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "availability": "OUT OF STOCK",
+              "lastrecorded_at": 1389150800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        }
+      ],
+      "updated_at": 1463776834,
+      "length": "41.40",
+      "gtins": [
+        "00018527109397"
+      ],
+      "variation_secondaryids": [
+        "4pyOJ3qTMGGOu4umgaGySO1I"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Number of Discs": "1",
+        "Model Number NR": "V300",
+        "PC Additional Requirements": "Internet connection",
+        "Mac Additional Requirements": "Internet connection",
+        "Platform": "Windows, Mac, Linux"
+      },
+      "ean": "0609465461588",
+      "created_at": 1357741032,
+      "cat_id": "16736",
+      "brand": "Skyline",
+      "category": "Home Publishing",
+      "name": "Mobile App Maker",
+      "sitedetails": [
+        {
+          "sku": "6607534",
+          "recentoffers_count": 0,
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/6607534",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1387795300,
+              "id": "5sNWaj8iCeawSyaKosK6Gg",
+              "seller": "Frys",
+              "currency": "USD",
+              "firstrecorded_at": 1377685800,
+              "price": "49.99",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 1,
+          "sku": "642011",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "44.57",
+              "firstrecorded_at": 1393036700,
+              "id": "4pYQw7eJDyyQCosaI6EE2A",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1458244600,
+              "availability": "In Stock",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1389802900,
+              "id": "5LOErijjDE2Kiu2GMIiwwI",
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1388756600,
+              "price": "40.20",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=642011"
+        }
+      ],
+      "mpn": "V300",
+      "weight": "90718.47",
+      "upc": "609465461588",
+      "operatingsystem": "Mac OS X",
+      "width": "139.70",
+      "updated_at": 1463665544,
+      "height": "38.10",
+      "length": "190.50",
+      "manufacturer": "Skyline",
+      "sem3_id": "6ISZgyFlI0yIUqcQeaQmuu",
+      "price": "51.74",
+      "model": "V300",
+      "gtins": [
+        "00609465461588"
+      ],
+      "variation_secondaryids": [
+        "1YtNza6aTokGyWUsCIyEca"
+      ],
+      "platform": "Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Avid Software Sibelius 7 Academic (for schools and teachers)",
+      "created_at": 1357668425,
+      "upc": "724643113087",
+      "height": "134.62",
+      "model": "9910 65065 00",
+      "weight": "226796.18",
+      "price": "349.00",
+      "sitedetails": [],
+      "ean": "0724643113087",
+      "length": "137.16",
+      "mpn": "9910-65065-00",
+      "width": "71.12",
+      "brand": "Avid Software",
+      "updated_at": 1463774693,
+      "cat_id": "16736",
+      "category": "Home Publishing",
+      "features": {
+        "Mac Hard Drive Space": "750MB",
+        "PC Drive Type and Speed": "DVD",
+        "PC Hard Drive Space": "750MB",
+        "PC System Memory": "1GB RAM",
+        "Mac Operating System": "Macintosh System 10.7, Macintosh System 10.6.7",
+        "PC Additional Requirements": "Platform Update Pack required for Windows Vista SP2 operating system",
+        "Mac Drive Type and Speed": "DVD",
+        "Platform": "Mac/Windows",
+        "PC Optional Requirements": "Intel Core 2 Duo or equivalent processor, 4GB RAM, 40GB hard drive space, 7200 rpm or faster drive, SSD and ASIO-compatible sound card recommended for Sounds sample library",
+        "Mac System Memory": "1GB RAM",
+        "Mac Additional Requirements": "Intel Core 2 Duo or equivalent processor, 4GB RAM, 40GB hard drive space, 7200 rpm or faster drive and SSD recommended for Sounds sample library",
+        "PC Operating System": "Windows Vista with Service Pack 2, Windows 7 with Service Pack 1"
+      },
+      "manufacturer": "Sibelius Software Ltd.",
+      "operatingsystem": "Mac OS X",
+      "sem3_id": "10R8N64lam8yykgqW4qG84",
+      "gtins": [
+        "00724643113087"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "brand": "Nova Development US",
+      "operatingsystem": "Windows 7",
+      "cat_id": "16736",
+      "ean": "0727298419900",
+      "price": "19.98",
+      "category": "Home Publishing",
+      "width": "133.35",
+      "created_at": 1387824920,
+      "sitedetails": [
+        {
+          "sku": "prod5390763",
+          "recentoffers_count": 1,
+          "name": "officemax.com",
+          "url": "http://www.officemax.com/technology/software/graphics-design-software/product-prod5390763",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1407045100,
+              "seller": "Office Max",
+              "availability": "Available",
+              "lastrecorded_at": 1407045100,
+              "id": "7kU1o92CEwG8gOwkWu6IAA",
+              "price": "39.99",
+              "currency": "USD",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "39.99",
+              "id": "3k2EhT00HI2aEwWqaOaWYG",
+              "seller": "Reliable",
+              "lastrecorded_at": 1434627700,
+              "availability": "Available,",
+              "firstrecorded_at": 1407166300,
+              "isactive": 1
+            }
+          ],
+          "url": "http://www.reliable.com/technology/product-relprd4890004",
+          "name": "reliable.com",
+          "sku": "relprd4890004_NO41990",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "Nova Development US",
+      "name": "Print Artist Platinum 25",
+      "model": "41990",
+      "updated_at": 1463780690,
+      "features": {
+        "PC Drive Type and Speed": "DVD",
+        "PC Processor Speed": "300MHz",
+        "PC Additional Requirements": "Color printer",
+        "PC Hard Drive Space": "8GB",
+        "PC Processor Type": "IntelÂ® PentiumÂ® 4 processor",
+        "PC System Memory": "512MB RAM",
+        "Platform": "Windows",
+        "PC Operating System": "Windows XP, Windows Vista, Windows 7, Windows 8"
+      },
+      "height": "190.50",
+      "sem3_id": "0PeNmaF8WXIqIYuKcwYwUu",
+      "length": "53.09",
+      "upc": "727298419900",
+      "weight": "453592.37",
+      "gtins": [
+        "00727298419900"
+      ],
+      "variation_secondaryids": [
+        "5Lq21csvxY6EomoOUOqSaE",
+        "420i62xkUiQ0giEWI0O6UM"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "created_at": 1381492335,
+      "height": "137.16",
+      "weight": "362873.90",
+      "model": "35230",
+      "length": "190.50",
+      "ean": "0705381352303",
+      "cat_id": "16736",
+      "name": "Encore Software PrintMaster Platinum V6 [PC/Mac Disc]",
+      "price": "14.70",
+      "updated_at": 1463814534,
+      "operatingsystem": "Mac OS X",
+      "category": "Home Publishing",
+      "upc": "705381352303",
+      "brand": "Encore Software",
+      "sem3_id": "5KxWDoJiLI4w2GgekUeo02",
+      "width": "33.02",
+      "sitedetails": [
+        {
+          "name": "frys.com",
+          "sku": "7896619",
+          "recentoffers_count": 0,
+          "url": "http://www.frys.com/product/7896619",
+          "latestoffers": [
+            {
+              "id": "2MF2IgglLIcsMeeWmKi6MO",
+              "availability": "Available for In-Store Pickup Only",
+              "firstrecorded_at": 1447780700,
+              "currency": "USD",
+              "lastrecorded_at": 1449580000,
+              "seller": "Frys",
+              "price": "24.99",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1446555200,
+              "id": "2Ghs5puVamgoGwOUWg8EEU",
+              "availability": "In Stock",
+              "price": "39.99",
+              "seller": "Frys",
+              "lastrecorded_at": 1447116900,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1445490500,
+              "currency": "USD",
+              "id": "79Prx9fAhcqcQYuE8sW42S",
+              "availability": "In Stock",
+              "seller": "Frys",
+              "lastrecorded_at": 1445933100,
+              "price": "29.99",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "listprice_currency": "USD",
+          "listprice": "29.99",
+          "recentoffers_count": 1,
+          "url": "http://www.quill.com/printing-software/cbs/50233031.html",
+          "latestoffers": [
+            {
+              "price": "25.49",
+              "lastrecorded_at": 1463698000,
+              "seller": "Quill",
+              "availability": "Available",
+              "id": "24LYVw2Okiy8oEAaWOeSiK",
+              "currency": "USD",
+              "firstrecorded_at": 1463391100,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463091000,
+              "seller": "Quill",
+              "price": "29.99",
+              "id": "7LlTBvp4pUEkcsseyOMaMU",
+              "currency": "USD",
+              "firstrecorded_at": 1463091000,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1462793700,
+              "currency": "USD",
+              "id": "4VaXWZWxUWwsqAGkc0waq6",
+              "price": "25.49",
+              "seller": "Quill",
+              "lastrecorded_at": 1462793700,
+              "isactive": 0
+            }
+          ],
+          "name": "quill.com",
+          "sku": "50233031"
+        }
+      ],
+      "features": {
+        "PC Processor Speed": "1.6GHz",
+        "PC Optional Requirements": "QuickTime version 7.5.0 or higher, printer, digital camera",
+        "Platform": "Mac/Windows",
+        "Mac Processor Type": "IntelÂ® Coreâ¢ 2 Duo processor",
+        "PC Additional Requirements": "2GB RAM required for Windows Vista, 7 and 8, broadband Internet connection required, keyboard, mouse, administrator privileges required to properly install the program, Java version 6 or higher",
+        "PC Video": "32MB video card",
+        "Mac Drive Type and Speed": "DVD",
+        "Mac Video": "32MB video card",
+        "Mac Processor Speed": "1.6GHz",
+        "Mac Operating System": "Macintosh System 10.6, Macintosh System 10.7, Macintosh System 10.8",
+        "Mac Additional Requirements": "Broadband Internet connection required, keyboard, mouse, Java version 6 or higher, administrator privileges required to properly install the program",
+        "Mac Optional Requirements": "QuickTime version 7.5.0 or higher, printer, digital camera",
+        "PC Operating System": "Windows XP, Windows Vista, Windows 7, Windows 8",
+        "PC System Memory": "1GB RAM",
+        "PC Hard Drive Space": "2.7GB for installation",
+        "PC Drive Type and Speed": "DVD",
+        "Mac System Memory": "1GB RAM",
+        "Mac Hard Drive Space": "3GB for installation"
+      },
+      "manufacturer": "Encore Software",
+      "gtins": [
+        "00705381352303"
+      ],
+      "platform": "PC-Mac",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}

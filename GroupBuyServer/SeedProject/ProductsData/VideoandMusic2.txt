@@ -1,0 +1,1506 @@
+{
+  "total_results_count": 1835,
+  "code": "OK",
+  "offset": 20,
+  "results_count": 10,
+  "results": [
+    {
+      "sem3_id": "2BXUGypzISeYIaucqoyaso",
+      "price": "589.99",
+      "width": "129.54",
+      "height": "43.18",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "788330",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=788330",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "availability": "Low Stock. Order Now!",
+              "price": "647.29",
+              "firstrecorded_at": 1428534200,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "63KO8shKCGaM84uuWUeW0w",
+              "lastrecorded_at": 1456979000,
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "8414108",
+          "url": "http://www.frys.com/product/8414108",
+          "recentoffers_count": 1,
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "price": "539.99",
+              "firstrecorded_at": 1443951700,
+              "lastrecorded_at": 1463655100,
+              "id": "1IHZVLOlNEOeuyCeeWQCyu",
+              "seller": "Frys",
+              "availability": "In Stock",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1443291800,
+              "id": "03NUMAOTWhcECuOKssOCQS",
+              "price": "519.99",
+              "firstrecorded_at": 1443291800,
+              "availability": "In Stock",
+              "currency": "USD",
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1441857600,
+              "id": "7TvXnelnHsCyYCi4wwAyQ2",
+              "price": "539.99",
+              "firstrecorded_at": 1439701600,
+              "availability": "In stock, ships same Business Day.",
+              "currency": "USD",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "41164461",
+          "url": "http://www.walmart.com/ip/41164461",
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1455822700,
+              "id": "787gcDKmR6wcOSOU0cCS4Q",
+              "firstrecorded_at": 1455822700,
+              "price": "544.80",
+              "availability": "Not Available",
+              "currency": "USD",
+              "seller": "Pcrush",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "name": "Gigabyte Ultra Durable VGA GV-N980G1 GAMING-4GD GeForce GTX 980 Graphic Card - 1228 MHz Core - 4 GB GDDR5 SDRAM - PCI Express 3",
+      "ean": "0818313022097",
+      "cat_id": "14624",
+      "category": "Video & Music",
+      "model": "GV-N980G1 GAMING-4G",
+      "brand": "Gigabyte",
+      "updated_at": 1463655166,
+      "manufacturer": "GIGABYTE Technology, Inc",
+      "upc": "818313022097",
+      "created_at": 1428534232,
+      "length": "312.42",
+      "features": {
+        "HDMI": "Yes",
+        "Chipset Series": "GTX 900",
+        "Number of DisplayPort Outputs": "3",
+        "Platform Supported": "PC",
+        "Memory Technology": "GDDR5 SDRAM",
+        "Digital Signal": "Yes",
+        "Standard Memory": "4 GB",
+        "Number of HDMI Outputs": "1",
+        "Processor Speed": "1228 MHz",
+        "API Supported": "OpenGL 4.4",
+        "DVI": "Yes",
+        "Number of DVI Outputs": "2",
+        "Product Line": "Ultra Durable VGA",
+        "Product Type": "Graphic Card",
+        "Host Interface": "PCI Express 3.0 x16",
+        "Chipset Line": "GeForce",
+        "Analog Signal": "Yes",
+        "Features": "Flex Display Technology",
+        "Number of Monitors Supported": "4",
+        "Cooler Type": "Fan Cooler",
+        "Form Factor": "Plug-in Card",
+        "System Requirements": "Power requirement: 600W(with two 8-pin external power connectors)",
+        "Maximum Resolution": "4096 x 2160",
+        "DisplayPort": "Yes",
+        "Bus Width": "256 bit",
+        "Chipset Model": "GTX 980"
+      },
+      "weight": "1406136.35",
+      "mpn": "GV-N980G1 GAMING-4GD",
+      "gtins": [
+        "00818313022097"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "weight": "1360777.11",
+      "features": {
+        "900653": "$342.95",
+        "900809": "$489.70",
+        "Number of Monitors Supported": "4",
+        "Bus Width": "512 bit",
+        "Number of DisplayPort Outputs": "1",
+        "100-505738": "$1,097.04",
+        "90YV08F0-M0NA00": "$372.07",
+        "GPU Clock": "990 MHz",
+        "Processor & Chipset": "Chipset Manufacturer",
+        "Chipset Series": "R9 300",
+        "GV-R939G1 GAMING-8GD": "$361.46",
+        "Cooler Type": "Fan Cooler",
+        "Product Model": "GV-R938G1 GAMING-4GD",
+        "R9 390X GAMING 8G": "$471.52",
+        "Manufacturer Website Address": "http://www.giga-byte.com",
+        "DisplayPort": "Yes",
+        "Memory": "Standard Memory",
+        "Form Factor": "Plug-in Card",
+        "GV-R939XG1GAMING-8GD": "$467.25",
+        "Product Type": "Graphic Card",
+        "Dual Link DVI Supported": "Yes",
+        "GV-R938WF2-4GD": "$232.07",
+        "Chipset Model": "R9 380",
+        "100-505725": "$3,274.90",
+        "Memory Technology": "GDDR5",
+        "Technical Information": "API Supported",
+        "Interfaces/Ports": "Host Interface",
+        "HDMI": "Yes",
+        "90YV08G0-M0NA00": "$482.20",
+        "R9390P8DF6": "$364.42",
+        "R9390X8DF6": "$472.11",
+        "Product Line": "Ultra Durable VGA",
+        "Number of DVI Outputs": "2",
+        "Warranty": "Limited Warranty",
+        "R9390X-DC2-8GD5": "$486.98",
+        "OC Edition - Core Clock: 990MHz (Standard": "970MHz)",
+        "R9-390P-8DB6": "$378.81",
+        "System power supply requirement": "500W (with one 8-pin external power connector)",
+        "Miscellaneous": "System Requirements",
+        "Platform Supported": "PC",
+        "Physical Characteristics": "Slot Space Required",
+        "DVI": "Yes",
+        "Chipset Line": "Radeon",
+        "11241-00-20G": "$476.97",
+        "R9 390 GAMING 8G": "$373.22",
+        "Number of HDMI Outputs": "1"
+      },
+      "created_at": 1438902128,
+      "mpn": "GV-R938G1 GAMING-4GD",
+      "length": "233.68",
+      "ean": "0813567021551",
+      "updated_at": 1463808907,
+      "upc": "813567021551",
+      "model": "GV-R938G1 GAMING-4G",
+      "cat_id": "14624",
+      "sem3_id": "6BLkHRVu1gECeuwS224siS",
+      "category": "Video & Music",
+      "brand": "Gigabyte",
+      "height": "43.18",
+      "name": "Gigabyte Ultra Durable VGA GV-R938G1 GAMING-4GD Radeon R9 380 Graphic Card - 990 MHz Core - 4 GB GDDR5 SDRAM - PCI Express 3.0",
+      "price": "209.99",
+      "sitedetails": [
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=831938",
+          "sku": "831938",
+          "recentoffers_count": 1,
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1439834500,
+              "availability": "In Stock",
+              "id": "4djK7ouXCieySgiKasmcoS",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "price": "252.45",
+              "lastrecorded_at": 1458288400,
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1438902100,
+              "price": "261.23",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "7ZsQNuBGEqumO8SuEqMgCg",
+              "availability": "In Stock",
+              "firstrecorded_at": 1438902100,
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "46435826",
+          "url": "http://www.walmart.com/ip/46435826",
+          "name": "walmart.com",
+          "recentoffers_count": 4,
+          "latestoffers": [
+            {
+              "id": "5pdP7Bb8oCQoAIAWsQaC2W",
+              "availability": "Available",
+              "firstrecorded_at": 1463808800,
+              "seller": "Pcrush",
+              "lastrecorded_at": 1463808800,
+              "price": "229.59",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1463808800,
+              "price": "259.13",
+              "currency": "USD",
+              "seller": "Limited Goods LLC",
+              "firstrecorded_at": 1461620800,
+              "id": "4eYyBbWizY8QAmcYGC00qo",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "price": "242.34",
+              "lastrecorded_at": 1463808800,
+              "firstrecorded_at": 1462194100,
+              "seller": "Atlanta Network Technologies",
+              "availability": "Available",
+              "id": "4t70wDyafgiiI6AkQ6wyow",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "3uM3xOJlz6SYo6IOq0K42M",
+              "availability": "Available",
+              "firstrecorded_at": 1458769800,
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1461565400,
+              "currency": "USD",
+              "price": "240.04",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "id": "1ok3p8pPq8KykcII2w4sCa",
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1454448500,
+              "price": "228.25",
+              "currency": "USD",
+              "lastrecorded_at": 1458149000,
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1451760800,
+              "seller": "ANTOnline",
+              "id": "1TLJizjq84MiqeguWGmCIQ",
+              "availability": "Available",
+              "lastrecorded_at": 1451760800,
+              "price": "231.81",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "url": "http://www.antonline.com/p_Gigabyte--GV-R938G1-GAMING-4GD--Gigabyte-Ultra-Durable-VGA-GV-R938G1-GAMING-4GD-Radeon-R9-380-Graphic-Card---990-MHz-Core---4-GB-GDDR5-SDRAM---PCI-Express-3.0---Dual-Slot-Space-Required---512-bit-Bus-Width---Fan-Cooler---DirectX-12%2C_1200445.htm",
+          "sku": "1200445"
+        }
+      ],
+      "manufacturer": "GIGABYTE Technology, Inc",
+      "width": "129.54",
+      "gtins": [
+        "00813567021551"
+      ],
+      "variation_secondaryids": [
+        "4uP6mbMZGK28AKmWqC4E6a"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "mpn": "02G-P4-2966-KR",
+      "model": "02G-P4-2966-KR",
+      "sem3_id": "4MvoNvvRnyYesGimk4cwkS",
+      "features": {
+        "HDMI": "Yes",
+        "Slot Space Required": "Dual",
+        "Cooler Type": "Fan Cooler",
+        "Video Memory Type": "GDDR5",
+        "Number of DisplayPort Outputs": "3",
+        "Cooling System": "Air",
+        "Output(s)": "DisplayPort",
+        "Model Compatibility": "Unknown",
+        "Memory Technology": "GDDR5",
+        "Chipset Manufacturer": "NVIDIA",
+        "Graphics Processing Unit (GPU)": "NVIDIA GeForce GTX 960",
+        "Color Category": "Multi",
+        "DisplayPort": "Yes",
+        "4K Ultra HD Resolution Support": "No",
+        "Form Factor": "Plug-in Card",
+        "Chipset Model": "GTX 960",
+        "Parts": "3 years",
+        "Card Size": "Dual width",
+        "Bus Width": "128 bit",
+        "Interface(s)": "PCI Express 3.0",
+        "Computer Compatibility": "Windows",
+        "Processor Type(s)": "NVIDIA GeForce GTX 960",
+        "API Supported": "DirectX 12",
+        "Chipset Line": "GeForce",
+        "Limited Warranty": "3 Year",
+        "Video Memory Capacity": "2 gigabytes",
+        "DVD Decoding": "No",
+        "Standard Memory": "2 GB",
+        "Labor": "3 years",
+        "Platform Supported": "PC",
+        "Chipset Series": "GTX 900",
+        "Brand Compatibility": "Unknown",
+        "Host Interface": "PCI Express 3.0"
+      },
+      "category": "Video & Music",
+      "name": "GEFORCE GTX 960 SUPERSC 2GB",
+      "manufacturer": "EVGA Corporation",
+      "brand": "eVGA",
+      "created_at": 1428535241,
+      "ean": "0843368033583",
+      "cat_id": "14624",
+      "price": "179.99",
+      "updated_at": 1463806155,
+      "upc": "843368033583",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=793537",
+          "name": "datavis.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1453661000,
+              "availability": "In Stock",
+              "id": "1kMZf9nzOO84AC8e6YUGCi",
+              "lastrecorded_at": 1458264100,
+              "seller": "DataVision Computer Video",
+              "currency": "USD",
+              "price": "228.22",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 1
+            },
+            {
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1451887500,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "239.11",
+              "currency": "USD",
+              "firstrecorded_at": 1450647600,
+              "id": "6UIo9li8VEuUeGm0IKMeAa",
+              "availability": "In Stock",
+              "isactive": 0
+            },
+            {
+              "availability": "Low Stock. Order Now!",
+              "id": "57Vo0lECfgCwGA0UwWi6iM",
+              "firstrecorded_at": 1448863400,
+              "price": "247.43",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1448863400,
+              "isactive": 0
+            }
+          ],
+          "sku": "793537"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "price": "179.99",
+              "lastrecorded_at": 1463784800,
+              "seller": "Frys",
+              "availability": "In Stock",
+              "id": "12xIDo8DPOqqUaYiQAKWMk",
+              "firstrecorded_at": 1463530600,
+              "isactive": 1
+            },
+            {
+              "id": "49jgFfy0U4m00mUKswEYY4",
+              "availability": "In Stock",
+              "firstrecorded_at": 1447947200,
+              "currency": "USD",
+              "price": "229.99",
+              "lastrecorded_at": 1461834500,
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "price": "209.99",
+              "currency": "USD",
+              "lastrecorded_at": 1447146300,
+              "seller": "Frys",
+              "id": "52ZzmWX8MaaOYu06a4Se8y",
+              "availability": "In Stock",
+              "firstrecorded_at": 1447146300,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1,
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/8367207",
+          "sku": "8367207"
+        },
+        {
+          "sku": "1115847",
+          "recentoffers_count": 1,
+          "url": "http://www.bhphotovideo.com/c/product/1115847-REG/evga_02g_p4_2966_kr_geforce_gtx_960_ssc.html",
+          "name": "bhphotovideo.com",
+          "latestoffers": [
+            {
+              "price": "204.99",
+              "currency": "USD",
+              "seller": "B&H",
+              "lastrecorded_at": 1463692300,
+              "availability": "Available",
+              "id": "2sTJfrhSa8KA4EiWK84ysm",
+              "firstrecorded_at": 1460143200,
+              "isactive": 1
+            },
+            {
+              "seller": "B&H",
+              "lastrecorded_at": 1459817200,
+              "price": "209.99",
+              "currency": "USD",
+              "firstrecorded_at": 1450939700,
+              "availability": "Available",
+              "id": "5kYkbNH79EmUguQQci64yM",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1449906800,
+              "availability": "Available",
+              "id": "1FQQRFXnDsEs2gCKeme0wG",
+              "lastrecorded_at": 1450522100,
+              "seller": "B&H",
+              "price": "222.87",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "gtins": [
+        "00843368033583"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "name": "Hauppauge Colossus 2 PCI Express Internal 1080p HD-PVR",
+      "created_at": 1433764119,
+      "manufacturer": "Hauppauge Computer Works",
+      "width": "190.50",
+      "length": "76.20",
+      "upc": "785428015774",
+      "mpn": "1577",
+      "cat_id": "14624",
+      "ean": "0785428015774",
+      "sem3_id": "23TbIwAKQGswMMCEIe0agi",
+      "features": {
+        "Processor Type(s)": "N/A",
+        "Video Memory Type": "Not provided",
+        "Maximum Resolution": "1920 x 1080",
+        "Component Video": "Yes",
+        "Parts": "Warranty Information Not Available",
+        "DVD Decoding": "No",
+        "Host Interface": "PCI Express",
+        "Video Memory Capacity": "0 gigabytes",
+        "HDMI": "Yes",
+        "Graphics Processing Unit (GPU)": "NA",
+        "Form Factor": "Plug-in Card",
+        "Computer Compatibility": "Windows",
+        "4K Ultra HD Resolution Support": "No",
+        "Audio Line In": "Yes",
+        "Labor": "Warranty Information Not Available",
+        "Color Category": "Multi",
+        "Brand Compatibility": "Microsoft",
+        "Functions": "Video Recording",
+        "Platform Supported": "PC",
+        "Interface(s)": "PCI Express",
+        "Video System": "NTSC, PAL",
+        "Video Formats": "H.264",
+        "Output(s)": "HDMI"
+      },
+      "model": "01577",
+      "price": "141.99",
+      "height": "203.20",
+      "category": "Video & Music",
+      "updated_at": 1463588337,
+      "brand": "Hauppauge",
+      "weight": "907184.74",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "datavis.com",
+          "sku": "825246",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=825246",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1458320900,
+              "seller": "DataVision Computer Video",
+              "price": "147.01",
+              "id": "55dW8yFd7oKkssKgsOu8EI",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "firstrecorded_at": 1457792700,
+              "availability": "In Stock",
+              "isactive": 1
+            },
+            {
+              "availability": "In Stock",
+              "firstrecorded_at": 1457024200,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "7c04lOlxzMkik6gag4A66A",
+              "price": "139.68",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1457024200,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1456522300,
+              "seller": "DataVision Computer Video",
+              "price": "147.01",
+              "firstrecorded_at": 1449629800,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "id": "5V8fzaxFgG8C4MUwWUKUUC",
+              "availability": "In Stock",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "gtins": [
+        "00785428015774"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "upc": "886227983216",
+      "sem3_id": "3U8U59uCxs6CowM8uoau84",
+      "price": "214.99",
+      "model": "STRIXGTX960DC2OC4GD",
+      "category": "Video & Music",
+      "width": "121.92",
+      "updated_at": 1463550478,
+      "height": "40.64",
+      "features": {
+        "04G-P4-3967-KR": "$245.94",
+        "Chipset Line": "GeForce",
+        "Physical Characteristics": "Slot Space Required",
+        "Technical Information": "Analog Signal",
+        "HDCP Supported": "Yes",
+        "Number of HDMI Outputs": "1",
+        "Bus Width": "128 bit",
+        "HDMI": "Yes",
+        "Product Type": "Graphic Card",
+        "Memory Speed": "7010 MHz",
+        "04G-P4-1962-KR": "$235.82",
+        "04G-P4-3969-KR": "$282.30",
+        "DVI": "Yes",
+        "Memory": "Standard Memory",
+        "Memory Technology": "GDDR5",
+        "Chipset Model": "GTX 960",
+        "Chipset Series": "GTX 900",
+        "Number of DisplayPort Outputs": "3",
+        "GV-N960WF2OC-4GD": "$236.87",
+        "ZT-90308-10M": "$245.35",
+        "Cooler Type": "Fan Cooler",
+        "GTX 960 GAMING 4G": "$278.06",
+        "Manufacturer Website Address": "http://usa.asus.com",
+        "GPU Boost Clock": "1.32 GHz",
+        "Total Number of DVI Outputs": "1",
+        "Number of Stream Processors": "1024",
+        "GPU Clock": "1.25 GHz",
+        "VCGGTX9604XPB": "$251.45",
+        "Product Model": "STRIX-GTX960-DC2OC-4GD5",
+        "Interfaces/Ports": "Host Interface",
+        "Digital Signal": "Yes",
+        "DisplayPort": "Yes",
+        "ZT-90309-10M": "$258.70",
+        "GV-N960G1 GAMING-4GD": "$263.49",
+        "Platform Supported": "PC",
+        "Form Factor": "Plug-in Card",
+        "Processor & Chipset": "Chipset Manufacturer",
+        "Miscellaneous": "System Requirements",
+        "API Supported": "OpenGL 4.4"
+      },
+      "mpn": "STRIX-GTX960-DC2OC-4GD5",
+      "created_at": 1431989843,
+      "sitedetails": [
+        {
+          "name": "datavis.com",
+          "sku": "821438",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=821438",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "id": "0R8ZAaHcIbWskqkcKsO0YC",
+              "price": "233.36",
+              "availability": "In Stock",
+              "currency": "USD",
+              "firstrecorded_at": 1455397100,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1458263400,
+              "isactive": 1
+            },
+            {
+              "availability": "In Stock",
+              "price": "239.61",
+              "currency": "USD",
+              "id": "5lOeE4O3FouWSMQCwOSYCM",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1454279500,
+              "firstrecorded_at": 1454279500,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1453659300,
+              "seller": "DataVision Computer Video",
+              "firstrecorded_at": 1453659300,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "currency": "USD",
+              "price": "240.37",
+              "availability": "In Stock",
+              "id": "12kv2PErayEysokkSa6YAa",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "antonline.com",
+          "sku": "1188346",
+          "url": "http://www.antonline.com/p_Asus--STRIXGTX960DC2OC4GD5--ASUS-Graphics-Cards-STRIX-GTX960-DC2OC-4GD5_1188346.htm",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1461074100,
+              "lastrecorded_at": 1461074100,
+              "seller": "ANTOnline",
+              "id": "3WjpN2cE8We4qqiYwIuW6K",
+              "currency": "USD",
+              "price": "248.06",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1457681800,
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1458995900,
+              "id": "6GYIJgFVZ24yW0OK2a2Ic4",
+              "availability": "Available",
+              "price": "247.34",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1453423900,
+              "lastrecorded_at": 1456845900,
+              "seller": "ANTOnline",
+              "id": "5KZs30AFCCsw0myuU8UUiw",
+              "currency": "USD",
+              "availability": "Available",
+              "price": "247.37",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "weight": "725747.79",
+      "ean": "0886227983216",
+      "manufacturer": "ASUS Computer International",
+      "name": "Asus Strix STRIX-GTX960-DC2OC-4GD5 GeForce GTX 960 Graphic Card - 1.25 GHz Core - 1.32 GHz Boost Clock - 4 GB GDDR5 SDRAM - PCI",
+      "cat_id": "14624",
+      "brand": "Asus",
+      "length": "215.90",
+      "gtins": [
+        "00886227983216"
+      ],
+      "variation_secondaryids": [
+        "4EXZGWdL1yea2aWAqiQUMs"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "price": "220.19",
+      "sem3_id": "72N67NGgIwG86e0u0QQCUU",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "name": "datavis.com",
+          "sku": "831042",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=831042",
+          "latestoffers": [
+            {
+              "id": "5K0cEf0aREs8wUOuKUEiow",
+              "currency": "USD",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video",
+              "lastrecorded_at": 1458288200,
+              "firstrecorded_at": 1441851200,
+              "price": "228.39",
+              "isactive": 1
+            },
+            {
+              "id": "7MVxR9GjB2aSY6CeOGmKA4",
+              "currency": "USD",
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "price": "222.00",
+              "firstrecorded_at": 1440904400,
+              "lastrecorded_at": 1440904400,
+              "isactive": 0
+            },
+            {
+              "price": "242.76",
+              "firstrecorded_at": 1438902000,
+              "lastrecorded_at": 1440560000,
+              "seller": "DataVision Computer Video",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "id": "06pLw5lB1Iesm0qy2y4eyG",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "1197950",
+          "latestoffers": [
+            {
+              "price": "234.61",
+              "lastrecorded_at": 1460696000,
+              "firstrecorded_at": 1460696000,
+              "id": "1li4295OQ8qqicYkuqMokO",
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "id": "4JnXaST98aaYu4iQEi6Goi",
+              "currency": "USD",
+              "price": "219.24",
+              "lastrecorded_at": 1458121300,
+              "firstrecorded_at": 1458121300,
+              "isactive": 0
+            },
+            {
+              "price": "217.99",
+              "firstrecorded_at": 1456085500,
+              "lastrecorded_at": 1456919800,
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "4SDxjApFfySCWOqq4QoImA",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_Sapphire--11242-00-20G--Sapphire-ITX-Compact-Radeon-R9-380-Graphic-Card---980-MHz-Core---2-GB-GDDR5-SDRAM---PCI-Express-3.0---Dual-Slot-Space-Required---256-bit-Bus-Width---CrossFire---Fan-Cooler---DirectX-12%2C-OpenGL-4.5%2C-Op_1197950.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com"
+        },
+        {
+          "sku": "46956748",
+          "url": "http://www.walmart.com/ip/46956748",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "seller": "SpaceBound Inc",
+              "id": "2rnXSjUApsiMYqwek2Aocg",
+              "currency": "USD",
+              "lastrecorded_at": 1461341300,
+              "firstrecorded_at": 1460281900,
+              "price": "220.02",
+              "isactive": 0
+            },
+            {
+              "price": "220.09",
+              "firstrecorded_at": 1456966800,
+              "lastrecorded_at": 1459115700,
+              "currency": "USD",
+              "id": "0Hst0f05bs0iw8WMwMuCm4",
+              "seller": "SpaceBound Inc",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "seller": "BargainStation.com",
+              "id": "4lFp2imIQKEYSa080aAMoi",
+              "currency": "USD",
+              "lastrecorded_at": 1448320900,
+              "firstrecorded_at": 1448320900,
+              "price": "219.78",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "walmart.com"
+        }
+      ],
+      "width": "116.84",
+      "weight": "884505.12",
+      "model": "11242-00-20G",
+      "created_at": 1438902020,
+      "length": "170.18",
+      "height": "38.10",
+      "ean": "0840777071267",
+      "upc": "840777071267",
+      "mpn": "11242-00-20G",
+      "brand": "Sapphire",
+      "manufacturer": "Sapphire, Inc",
+      "features": {
+        "900806": "$157.36",
+        "900808": "$392.60",
+        "900809": "$442.35",
+        "900845": "$281.15",
+        "R9 380 GAMING 4G": "$260.97",
+        "Product Type": "Graphic Card",
+        "GTX 980ti 6GD5 V1": "$714.32",
+        "Form Factor": "Plug-in Card",
+        "ZT-90505-10P": "$730.18",
+        "R9390X8DF6": "$468.84",
+        "04G-P4-5988-KR": "$711.04",
+        "R7-370P-2DB5": "$169.49",
+        "GTX 980 4GD5T OC": "$561.36",
+        "R7370P2DF5": "$155.11",
+        "GV-N98TG1 GAMING-6GD": "$723.61",
+        "GV-R737WF2OC-2GD": "$169.84",
+        "06G-P4-4990-KR": "$695.07",
+        "R9 380 GAMING 2G": "$228.27",
+        "11240-04-20G": "$172.02",
+        "90YV08G0-M0NA00": "$455.20",
+        "Physical Characteristics": "Slot Space Required",
+        "DVI": "Yes",
+        "R9 390X GAMING 8G": "$477.97",
+        "R9-380P-4DF5": "$245.68",
+        "R7-370P-2SF5": "$156.86",
+        "06G-P4-4996-KR": "$749.07",
+        "R7370P4DF5": "$173.39",
+        "Miscellaneous": "System Requirements",
+        "Memory Technology": "GDDR5",
+        "Manufacturer Website Address": "http://www.sapphiretech.com",
+        "Cooler Type": "Fan Cooler",
+        "GV-N980G1 GAMING-4GD": "$566.00",
+        "GV-N970WF3OC-4GD": "$377.41",
+        "100-505842": "$321.46",
+        "J3G90AT": "$1,914.14",
+        "90YV08F0-M0NA00": "$375.32",
+        "VCGGTX9804XPB-XP-OC": "$550.79",
+        "Product Line": "ITX Compact",
+        "Chipset Series": "R9 300",
+        "GV-N98TXTREME W-6GD": "$782.48",
+        "GV-N970G1 GAMING-4GD": "$393.04",
+        "GV-N970IXOC-4GD": "$357.99",
+        "VCQM4000-PB": "$824.08",
+        "GV-N980XTREME-4GD": "$577.59",
+        "Chipset Model": "R9 380",
+        "GV-N970XTREME-4GD": "$416.69",
+        "GV-R939WF2-8GD": "$342.96",
+        "R9-380P-2DB5": "$218.53",
+        "STRIX-GTX980TI-DC3OC-6GD5-GAMI": "$723.95",
+        "GTX 980TI GAMING 6G": "$734.17",
+        "TURBO-GTX970-OC-4GD5": "$319.39",
+        "Number of Monitors Supported": "4",
+        "Interfaces/Ports": "Host Interface",
+        "STRIX-R9380-DC2OC-4GD5-GAMING": "$244.43",
+        "Memory": "Standard Memory",
+        "R9390P8DF6": "$362.52",
+        "06G-P4-4993-KR": "$734.17",
+        "100-505738": "$1,099.65",
+        "HDMI": "Yes",
+        "VCGGTX980T6XPB-CG": "$718.99",
+        "Chipset Line": "Radeon",
+        "R9-380P-2DF5": "$213.56",
+        "Bus Width": "256 bit",
+        "Multi-GPU Technology": "CrossFire",
+        "04G-P4-2977-KR": "$360.60",
+        "J3G93AT": "$627.90",
+        "GV-R939XG1GAMING-8GD": "$439.22",
+        "M6V52AT": "$842.03",
+        "Mini DisplayPort": "Yes",
+        "ZT-90503-10P": "$701.15",
+        "Platform Supported": "PC",
+        "Processor & Chipset": "Chipset Manufacturer",
+        "GPU Clock": "980 MHz",
+        "04G-P4-3978-KR": "$409.49",
+        "R9 380 2GD5T OC": "$217.08",
+        "06G-P4-1996-KR": "$822.13",
+        "VCGGTX9704R2XPB": "$355.25",
+        "GV-N980WF3OC-4GD": "$540.88",
+        "Number of Mini DisplayPort Outputs": "2",
+        "GV-R939G1 GAMING-8GD": "$363.84",
+        "Number of HDMI Outputs": "1",
+        "GV-R939XWF2-8GD": "$404.13",
+        "06G-P4-4995-KR": "$752.01",
+        "R7 370 GAMING 4G": "$189.34",
+        "06G-P4-4991-KR": "$722.57",
+        "ZT-90501-10P": "$686.64",
+        "R7 370 2GD5T OC": "$154.01",
+        "04G-P4-3973-KR": "$379.86",
+        "GV-R938G1 GAMING-4GD": "$228.25",
+        "Total Number of DVI Outputs": "1",
+        "GV-N98TXTREME-6GD": "$747.35",
+        "06G-P4-4992-KR": "$734.25",
+        "Technical Information": "API Supported",
+        "R9 390 GAMING 8G": "$377.82"
+      },
+      "category": "Video & Music",
+      "cat_id": "14624",
+      "name": "Sapphire ITX Compact Radeon R9 380 Graphic Card - 980 MHz Core - 2 GB GDDR5 SDRAM - PCI Express 3.0 - Dual Slot Space Required",
+      "updated_at": 1463801864,
+      "gtins": [
+        "00840777071267"
+      ],
+      "variation_secondaryids": [
+        "0Pf5H3i0VVW0GmoQeyO8yK"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "features": {
+        "Operating System Supported": "Windows",
+        "Product Type": "Software",
+        "Packing": "Box",
+        "Manufacturer Website Address": "http://www.corel.com",
+        "Distribution Media/Method": "DVD-ROM",
+        "License Information": "License Quantity",
+        "Display resolution": "1024 x 600 or higher",
+        "Video": "MVC, AVCHD, DV, HDV, AVI, MPEG-1/-2/-4, DivX, Flash, 3GP (MPEG-4, H.263), WMV, Non-encrypted DVD titles (incl. DVD-VR/+VR), QuickTime (DV, MJPEG, MPEG-4, H.264), DivX Plus MKV",
+        "Platform Supported": "PC",
+        "Software Sub Type": "Video Editing",
+        "Audio": "MP3, MPA, M4A, WAV, AMR, AC3, AAC, Vorbis, WMA",
+        "Product Information": "Software Main Type",
+        "Software Name": "Studio v.18.0",
+        "Miscellaneous": "Compatibility",
+        "Graphic": "JPS, BMP, GIF, JPG, PCX, PSD, TGA, TIF, WMF, PNG, J2K",
+        "Language Supported": "English"
+      },
+      "sem3_id": "05PhKW0NMFywQcaSiMyMgo",
+      "brand": "Pinnacle Systems",
+      "operatingsystem": "Windows 8",
+      "name": "Pinnacle Studio 18",
+      "width": "31.75",
+      "price": "30.49",
+      "variation_id": "5WC52zbeu8EYAgQOC8GAke",
+      "model": "PNST18STENAM",
+      "cat_id": "14715",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9548930",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1455389200,
+              "lastrecorded_at": 1456558800,
+              "id": "7gm7iSmrGi6SamU0awSEGY",
+              "seller": "TigerDirect",
+              "price": "59.00",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "0YVzMS2B3MOSOyEmkgW40Q",
+              "seller": "TigerDirect",
+              "currency": "USD",
+              "price": "56.49",
+              "firstrecorded_at": 1433478400,
+              "availability": "Available,",
+              "lastrecorded_at": 1448316100,
+              "isactive": 0
+            },
+            {
+              "seller": "TigerDirect",
+              "price": "55.49",
+              "currency": "USD",
+              "id": "04mxrWkhU92UImeS0ogswo",
+              "lastrecorded_at": 1432666500,
+              "availability": "Available,",
+              "firstrecorded_at": 1431886700,
+              "isactive": 0
+            }
+          ],
+          "name": "tigerdirect.com",
+          "sku": "9548930"
+        },
+        {
+          "name": "overstock.com",
+          "sku": "9905984",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1443322600,
+              "availability": "Not available",
+              "lastrecorded_at": 1444268900,
+              "id": "2I2VIyphN6MCuqSUOMcKIw",
+              "currency": "USD",
+              "seller": "Overstock",
+              "price": "69.89",
+              "isactive": 0
+            },
+            {
+              "seller": "Overstock",
+              "currency": "USD",
+              "price": "59.94",
+              "id": "2T45Yd5Xmee2QIkA0mCaeO",
+              "lastrecorded_at": 1443019900,
+              "availability": "Not available",
+              "firstrecorded_at": 1443019900,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "57.84",
+              "seller": "Overstock",
+              "id": "6nMxHb899U2yuOMUKqqWAY",
+              "lastrecorded_at": 1428672400,
+              "availability": "Availabe",
+              "firstrecorded_at": 1428672400,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.overstock.com/Electronics/Pinnacle-Studio-v.18.0-1-User/9905984/product.html"
+        },
+        {
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1456163400,
+              "availability": "Available",
+              "firstrecorded_at": 1453810800,
+              "price": "68.14",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "id": "7cteHAsQ4mESCuS44u4OiQ",
+              "isactive": 0
+            },
+            {
+              "id": "61AHXGq1a4o0Ukyue84keE",
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "price": "66.23",
+              "firstrecorded_at": 1447643300,
+              "availability": "Available",
+              "lastrecorded_at": 1451765500,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "price": "62.04",
+              "id": "5EnFpRX7Y8EQk4ucmm2Ayg",
+              "availability": "Available",
+              "lastrecorded_at": 1443456200,
+              "firstrecorded_at": 1438949400,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_Pinnacle-Systems--PNST18STENAM--Pinnacle-Studio-v.18.0---1-User---Video-Editing-Box---DVD-ROM---PC---English_1156424.htm",
+          "name": "antonline.com",
+          "sku": "1156424"
+        }
+      ],
+      "mpn": "PNST18STENAM",
+      "length": "133.35",
+      "weight": "104326.25",
+      "ean": "0735163145878",
+      "category": "Video Editing",
+      "updated_at": 1463620542,
+      "upc": "735163145878",
+      "created_at": 1428588759,
+      "manufacturer": "Pinnacle Systems",
+      "height": "190.50",
+      "gtins": [
+        "00735163145878"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "model": "MVES2000",
+      "brand": "Sony",
+      "ean": "0855309683276",
+      "mpn": "MVES2099",
+      "category": "Video Editing",
+      "updated_at": 1463782906,
+      "operatingsystem": "Windows 7",
+      "upc": "855309683276",
+      "name": "Movie Studio Platinum Visual Effects Suite 2 [PC Disc]",
+      "sem3_id": "66nA3e8CRcCKi8MswIEcQ2",
+      "price": "150.00",
+      "sitedetails": [
+        {
+          "sku": "7899299",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1407650200,
+              "firstrecorded_at": 1397580300,
+              "id": "7BBRD7qqoqeMKo4iiASWIs",
+              "price": "159.99",
+              "currency": "USD",
+              "availability": "Unavailable Notify me when available While supplies last",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1397402600,
+              "firstrecorded_at": 1387540700,
+              "price": "159.94",
+              "availability": "In stock, ships same Business Day.",
+              "currency": "USD",
+              "id": "2eNiF1TwciW646QCKAWq2S",
+              "seller": "Frys",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/7899299",
+          "name": "frys.com",
+          "recentoffers_count": 0
+        },
+        {
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "sku": "714844",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=714844",
+          "latestoffers": [
+            {
+              "seller": "DataVision Computer Video",
+              "id": "16sMmyolYKsKMgqWwGMeiC",
+              "availability": "OUT OF STOCK",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "price": "159.94",
+              "currency": "USD",
+              "lastrecorded_at": 1437416900,
+              "firstrecorded_at": 1400838500,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1400427900,
+              "firstrecorded_at": 1388758800,
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "price": "133.99",
+              "currency": "USD",
+              "id": "54UydtOktyicaA0uG2AYYw",
+              "seller": "DataVision Computer Video",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "restockit_sony-vegas-movie-studio-platinum-visual-effects-suite-complete-package-num-snycd68327wi",
+          "url": "http://www.restockit.com/sony-vegas-movie-studio-platinum-visual-effects-suite-complete-package-num-snycd68327wi.html",
+          "latestoffers": [
+            {
+              "seller": "ReStockIt",
+              "condition": "New",
+              "price": "156.15",
+              "availability": "Not Available",
+              "currency": "USD",
+              "id": "0z071AONeu8Q0Y0CKOKEeG",
+              "firstrecorded_at": 1460561500,
+              "lastrecorded_at": 1463580300,
+              "isactive": 0
+            }
+          ],
+          "name": "restockit.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "features": {
+        "License Qty": "1 user",
+        "Subcategory": "Creativity - image / video / sound collection, creativity - multimedia authoring, creativity - video editing & production",
+        "License Type": "Complete package",
+        "Platform": "Windows",
+        "License Pricing": "Standard",
+        "Package Type": "Retail"
+      },
+      "height": "190.50",
+      "weight": "77110.70",
+      "created_at": 1373288438,
+      "width": "28.70",
+      "cat_id": "14715",
+      "length": "136.65",
+      "gtins": [
+        "00855309683276"
+      ],
+      "variation_secondaryids": [
+        "1NBbNe6x48uM4yAqEu04Ak",
+        "5V8a7WEACWymWWeMM8QO6E"
+      ],
+      "platform": "Pc",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "14624",
+      "features": {
+        "1": "Mello Cello",
+        "2": "Relaxation Suite Pt. 1",
+        "3": "Relaxation Suite Pt. 2",
+        "4": "Sand Dance",
+        "5": "Heartnotes Pt. 1",
+        "6": "Relaxation Suite Pt. 3",
+        "7": "Relaxation Suite Pt. 4",
+        "8": "Heartnotes Pt. 2",
+        "9": "Relaxation Suite Pt. 5",
+        "10": "Dharma Duet",
+        "11": "Relaxation Suite Pt. 6",
+        "12": "Relaxation Suite Pt. 7",
+        "13": "Relaxation Suite Pt. 8"
+      },
+      "category": "Video & Music",
+      "mpn": "204-2137",
+      "length": "139.70",
+      "sitedetails": [
+        {
+          "listprice_currency": "USD",
+          "url": "http://www.target.com/p/relaxation-suite/-/A-11376421",
+          "sku": "11376421",
+          "recentoffers_count": 1,
+          "listprice": "15.98",
+          "name": "target.com",
+          "latestoffers": [
+            {
+              "id": "20vc6k4fzYOwWG4SGQSWmm",
+              "price": "13.19",
+              "lastrecorded_at": 1463570800,
+              "firstrecorded_at": 1425803200,
+              "seller": "target.com",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 1
+            },
+            {
+              "price": "15.98",
+              "id": "5sWkmiXUG0eaWiIQg6AowQ",
+              "lastrecorded_at": 1425492500,
+              "firstrecorded_at": 1418176700,
+              "availability": "Available",
+              "seller": "target.com",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "13.19",
+              "id": "4Jq4Crd8X2gc0o0eS0GIAO",
+              "lastrecorded_at": 1417892900,
+              "availability": "Available",
+              "seller": "target.com",
+              "firstrecorded_at": 1397772800,
+              "currency": "USD",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.walmart.com/ip/29332179",
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "sku": "29332179",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1384620300,
+              "seller": "Walmart",
+              "availability": "In Stock",
+              "lastrecorded_at": 1423347100,
+              "price": "17.98",
+              "id": "2Vh42srvQeSCGsmy2o4eq4",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "upc": "093791803325",
+      "ean": "0093791803325",
+      "sem3_id": "1IyttZw0UaEACAmMCiWyKI",
+      "created_at": 1348684206,
+      "updated_at": 1463817756,
+      "width": "127.00",
+      "price": "12.99",
+      "name": "Relaxation Suite",
+      "brand": "Ma's India",
+      "manufacturer": "Inner Peace Music",
+      "weight": "86182.55",
+      "height": "10.16",
+      "gtins": [
+        "00093791803325"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    },
+    {
+      "cat_id": "19254",
+      "name": "Sony Pictures Sound Effects Series Volumes 1-5 [Download] [Volume 1-5, PC Download]",
+      "manufacturer": "Sony Creative Software",
+      "operatingsystem": "Windows 7",
+      "sem3_id": "16MfOLlP50YGAIwSaIAkg2",
+      "features": {
+        "Platform": "PC",
+        "Multi Pack Indicator": "No",
+        "Assembled in Country of Origin": "USA or Imported",
+        "Origin of Components": "USA or Imported",
+        "Battery Type": "Does Not Contain a Battery",
+        "Shipping Weight (in pounds)": "1.0",
+        "Product in Inches (L x W x H)": "1.0 x 1.0 x 1.0"
+      },
+      "category": "Sound Libraries",
+      "price": "207.50",
+      "created_at": 1374845611,
+      "variation_id": "4SaO2F6mlsiog6CWgS8gGU",
+      "model": "SSDS1099ESD",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/35275026",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "id": "7GmoWqLEbQqwk6IAsySOe0",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1463587500,
+              "price": "242.56",
+              "firstrecorded_at": 1462088600,
+              "seller": "Walmart",
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1459779400,
+              "price": "220.51",
+              "id": "6FesUuiw2S6iycAqSoQUQS",
+              "availability": "Available",
+              "firstrecorded_at": 1456376800,
+              "seller": "Walmart",
+              "isactive": 0
+            },
+            {
+              "id": "6hPMUzwvTMo4So0gYMCwqK",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1443165100,
+              "price": "204.26",
+              "firstrecorded_at": 1443165100,
+              "seller": "Walmart",
+              "isactive": 0
+            }
+          ],
+          "sku": "35275026",
+          "name": "walmart.com"
+        },
+        {
+          "recentoffers_count": 1,
+          "sku": "1073752",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "4itqFhT5UWyOoiQcUOYQC6",
+              "price": "207.50",
+              "lastrecorded_at": 1463268000,
+              "currency": "USD",
+              "seller": "B&H",
+              "firstrecorded_at": 1434745600,
+              "isactive": 1
+            },
+            {
+              "firstrecorded_at": 1412611400,
+              "seller": "B&H",
+              "currency": "USD",
+              "price": "232.95",
+              "lastrecorded_at": 1412611400,
+              "id": "0yxgmoUOAgAIiQwwuOq0kg",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/c/product/1073752-REG/sony_ssds1099esd_sony_pictures_sound_effects.html",
+          "name": "bhphotovideo.com"
+        },
+        {
+          "url": "http://www.wwbw.com/Sony-Sony-Pictures-Sound-Effects-Series-1-5-J06853-i3641509.wwbw",
+          "sku": "Sony-Sony-Pictures-Sound-Effects-Series-1-5-J06853-i3641509_3641509",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1424286500,
+              "seller": "Woodwind & Brasswind",
+              "id": "4nbaUKqeKWk2M20GEisMQu",
+              "availability": "In Stock",
+              "currency": "USD",
+              "price": "274.99",
+              "lastrecorded_at": 1432448800,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "wwbw.com"
+        }
+      ],
+      "updated_at": 1463587542,
+      "brand": "Sony",
+      "variation_secondaryids": [
+        "4mb0ZYSmMK8sOGgIicmQyA3u"
+      ],
+      "platform": "PC",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images_total": 0,
+      "sem3_help": "To view image links and additional merchants for this product, please upgrade your plan"
+    }
+  ]
+}
