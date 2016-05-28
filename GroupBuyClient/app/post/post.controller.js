@@ -39,10 +39,7 @@ mainApp
                     alert(error.data.Message);
                 });
             };
-
-
             var imageLoader = document.getElementById('imageLoader');
-            imageLoader.addEventListener('change', handleImage, false);
             var canvas = document.getElementById('imageCanvas');
             var ctx = canvas.getContext('2d');
 
@@ -51,11 +48,16 @@ mainApp
                 reader.onload = function (event) {
                     var img = new Image();
                     img.onload = function () {
-                        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+                        ctx.imageSmoothingEnabled = false;
+                        ctx.drawImage(img, 0, 0, img.width, img.height);
                     }
                     img.src = event.target.result;
+                    canvas.width = img.width - 1;                         
+                    canvas.height = img.height - 1;
                 }
                 reader.readAsDataURL(e.target.files[0]);
             }
+
+            imageLoader.addEventListener('change', handleImage, false);
         }
     ]);
