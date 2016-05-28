@@ -78,10 +78,10 @@ namespace SeedProject
                     try
                     {
                         session.Save(product);
-                        foreach (var discount in product.Discounts)
-                        {
-                            session.Save(discount);
-                        }
+//                        foreach (var discount in product.Discounts)
+//                        {
+//                            session.Save(discount);
+//                        }
                         session.Flush();
                         success++;
                     }
@@ -158,7 +158,7 @@ namespace SeedProject
                         {
                             var newProduct = new Product
                             {
-                                Id = productSquence,
+                                Id = Guid.NewGuid(),
                                 Name = product["name"].Value<string>(),
                                 Categories = new List<Category> {category},
                                 BasicPrice = product["price"].Value<double>(),
@@ -166,14 +166,14 @@ namespace SeedProject
                                 EndDate = RandomFutureDate(random),
                                 Seller = UsersHelper.Users[random.Next(0, UsersHelper.Users.Count)],
                                 Buyers = new List<User>(),
-                                Description = "No folks we’re not pulling you leg! This rare Chinese tea is carefully picked by specially trained monkeys in a remote mountain region of China. Legend has it that monkeys were first used to collect tea ten centuries ago, because upon seeing it’s master trying to reach some tea growing wild on a mountain face, the monkey climbed up the steep face and collected the tea growing there and brought it down to his master. This wild tea was considered so delicious that other people began to train monkeys to collect this rare wild tea. Nowadays the practice of monkeys picking tea has all but died out, except in one small remote village where they still continue this remarkable tradition. No monkeys are harmed or mistreated in order for us to bring this rare brew to you! In fact the monkeys and their ancestors before them have been doing this job for generations and are treated as respected members of their human keeper’s families."
+//                                Description = "No folks we’re not pulling you leg! This rare Chinese tea is carefully picked by specially trained monkeys in a remote mountain region of China. Legend has it that monkeys were first used to collect tea ten centuries ago, because upon seeing it’s master trying to reach some tea growing wild on a mountain face, the monkey climbed up the steep face and collected the tea growing there and brought it down to his master. This wild tea was considered so delicious that other people began to train monkeys to collect this rare wild tea. Nowadays the practice of monkeys picking tea has all but died out, except in one small remote village where they still continue this remarkable tradition. No monkeys are harmed or mistreated in order for us to bring this rare brew to you! In fact the monkeys and their ancestors before them have been doing this job for generations and are treated as respected members of their human keeper’s families."
                             };
 
                             newProduct.Discounts = new List<Discount>
                             {
-                                new Discount {Product = newProduct, UsersAmount = 20, Present = 10},
-                                new Discount {Product = newProduct, UsersAmount = 50, Present = 12},
-                                new Discount {Product = newProduct, UsersAmount = 130, Present = 23},
+                                new Discount { UsersAmount = 20, Present = 10},
+                                new Discount {UsersAmount = 50, Present = 12},
+                                new Discount {UsersAmount = 130, Present = 23},
                             };
 
                             if (product["description"] != null)

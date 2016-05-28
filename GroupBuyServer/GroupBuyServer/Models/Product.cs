@@ -7,7 +7,7 @@ namespace GroupBuyServer.Models
 {
     public class Product
     {
-        public virtual int Id { get; set; }
+        public virtual Guid Id { get; set; }
         public virtual string Name { get; set; }
         public virtual string Description { get; set; }
         public virtual User Seller { get; set; }
@@ -26,7 +26,8 @@ namespace GroupBuyServer.Models
         {
             Table("t_products");
 
-            Id(x => x.Id, "id").GeneratedBy.Assigned();
+            Id(x => x.Id, "id");
+
             Map(x => x.Name, "name");
             Map(x => x.Description, "description");
             References(x => x.Seller).Column("seller_id");
