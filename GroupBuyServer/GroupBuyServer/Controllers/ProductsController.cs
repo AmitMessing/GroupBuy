@@ -49,19 +49,50 @@ namespace GroupBuyServer.Controllers
             {
                 using (var tran = session.BeginTransaction())
                 {
-                    try
-                    {
-                        session.Save(product);
-                        tran.Commit();
-                        return Ok();
-                    }
-                    catch (Exception ex)
-                    {
+                    var userFromDb = session.QueryOver<User>().Where(x => x.Id == product.Seller.Id).SingleOrDefault(); 
 
-                        return BadRequest("failed to save product");
+                    var productToSave = new Product()
+                    {
+                        Id = Guid.NewGuid(),
+                        BasicPrice = product.BasicPrice,
+                        Buyers = new List<User>(),
+                        Categories = new List<Category>(),
+                        Description = product.Description,
+                        EndDate = product.EndDate.Date,
+                        Image = GetBytes(product.Image),
+                        Name = product.Name,
+                        PublishDate = DateTime.Now,
+                        Seller = userFromDb
+                    };
+
+                    session.Save(productToSave);
+                    foreach (var discount in product.Discounts)
+                    {
+                        session.Save(new Discount()
+                        {
+                            Precent = discount.Precent,
+                            Id = Guid.NewGuid(),
+                            ProductId = productToSave.Id,
+                            UsersAmount = discount.UsersAmount
+                        });
                     }
+                    tran.Commit();
+                    return Ok();
                 }
             }
+        }
+        static byte[] GetBytes(string str)
+        {
+            var bytes = new byte[str.Length * sizeof(char)];
+            System.Buffer.BlockCopy(str.ToCharArray(), 0, bytes, 0, bytes.Length);
+            return bytes;
+        }
+
+        static string GetString(byte[] bytes)
+        {
+            var chars = new char[bytes.Length / sizeof(char)];
+            System.Buffer.BlockCopy(bytes, 0, chars, 0, bytes.Length);
+            return new string(chars);
         }
     }
 }
