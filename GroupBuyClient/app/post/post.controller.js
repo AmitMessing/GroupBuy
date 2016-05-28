@@ -1,6 +1,15 @@
 mainApp
     .controller('postController', [
-        '$scope', '$stateParams', function ($scope, $stateParams) {
+        '$scope', '$stateParams', '$resource', function ($scope, $stateParams, $resource) {
+
+            var postApi = $resource("/GroupBuyServer/api/products", {});
+
+            $scope.product = {
+                name: "",
+                description: "",
+                endDate: "",
+                image: ""
+            };
 
             $scope.discounts = [
             {
@@ -16,9 +25,17 @@ mainApp
                 $scope.discounts.push({numberOfBuyers: "", value:""});
             };
 
-            $scope.save = function() {
+            $scope.save = function () {
 
+                postApi.save($scope.product).$promise.then(function(result) {
+                    if (result) {
+                        
+                    }
+                }, function(error) {
+                    alert.show(error.data.Message);
+                });
             };
+
 
             var imageLoader = document.getElementById('imageLoader');
             imageLoader.addEventListener('change', handleImage, false);

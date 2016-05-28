@@ -9,7 +9,7 @@
         <div layout="row">
             <md-input-container class="md-block" layout="row" flex>
                 <label>Description</label>
-                <textarea ng-model="product.content" md-maxlength="500" rows="5" md-select-on-focus flex></textarea>
+                <textarea ng-model="product.description" md-maxlength="500" rows="5" md-select-on-focus flex></textarea>
             </md-input-container>
         </div>
         <div layout="row">
@@ -60,7 +60,7 @@
         </div>
     </md-content>
     <div class="upload-pic btn btn-primary">
-        <input type="file" id="imageLoader" class="button-upload" name="imageLoader" accept="image/*"/>
+        <input ng-model="product.image" type="file" id="imageLoader" class="button-upload" name="imageLoader" accept="image/*"/>
         <canvas id="imageCanvas" class="image-canvas"></canvas>
     </div>
 </div>

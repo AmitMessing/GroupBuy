@@ -14,7 +14,6 @@ namespace GroupBuyServer.Controllers
     public class ProductsController : ApiController
     {
         [HttpGet]
-//        [Route("{id}")]
         public IHttpActionResult Get(Guid id)
         {
             using (var session = NHibernateHandler.CurrSession)
@@ -40,6 +39,22 @@ namespace GroupBuyServer.Controllers
 
                 productViewModel.Discounts = discounts.ToList();
                 return Ok(productViewModel);
+            using (var session = NHibernateHandler.CurrSession)
+            {
+                using (var tran = session.BeginTransaction())
+                {
+                    try
+                    {
+                        session.Save(product);
+                        tran.Commit();
+                        return Ok();
+                    }
+                    catch (Exception ex)
+                    {
+
+                        return BadRequest("failed to save product");
+                    }
+                }
             }
         }
     }
