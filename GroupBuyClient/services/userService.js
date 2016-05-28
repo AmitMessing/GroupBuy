@@ -1,10 +1,14 @@
 ﻿mainApp.service('userService', ['$cookies', '$state', function ($cookies, $state) {
     var setLoggedUSer = function (usr) {
-        $cookies.put("loggedUser", usr);
+        $cookies.put("loggedUser", JSON.stringify(usr));
     };
 
     var getLoggedUser = function () {
-        return $cookies.get("loggedUser");
+        var user = $cookies.get("loggedUser");
+        if (user) {
+            return JSON.parse(user);
+        }
+        return null;
     };
 
     var logout = function () {
