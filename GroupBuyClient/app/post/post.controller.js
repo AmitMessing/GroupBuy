@@ -1,6 +1,7 @@
 mainApp
     .controller('postController', [
-        '$scope', '$stateParams', function($scope, $stateParams) {
+        '$scope', '$stateParams', function ($scope, $stateParams) {
+
             $scope.discounts = [
             {
                 numberOfBuyers: 5,
@@ -10,6 +11,14 @@ mainApp
                 numberOfBuyers: 15,
                 value: 20
             }];
+
+            $scope.addDiscount = function() {
+                $scope.discounts.push({numberOfBuyers: "", value:""});
+            };
+
+            $scope.save = function() {
+
+            };
 
             var imageLoader = document.getElementById('imageLoader');
             imageLoader.addEventListener('change', handleImage, false);

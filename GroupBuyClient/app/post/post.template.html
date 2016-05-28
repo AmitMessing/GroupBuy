@@ -37,18 +37,26 @@
                         </thead>
                         <tbody md-body>
                         <tr md-row md-select="discounts" md-select-id="name" md-auto-select ng-repeat="discount in discounts">
-                            <td md-cell class="value-cell">{{discount.numberOfBuyers}}</td>
-                            <td md-cell class="value-cell">{{discount.value}} %</td>
+                            <td md-cell class="value-cell">
+                                <md-input-container flex layout="row">
+                                    <input type="number" ng-model="discount.numberOfBuyers" flex>
+                                </md-input-container>
+                            </td>
+                            <td md-cell class="value-cell">
+                                <md-input-container flex layout="row">
+                                    <input type="number" ng-model="discount.value" flex>
+                                </md-input-container>
+                            </td>
                         </tr>
                         </tbody>
                     </table>
                 </md-table-container>
-                <md-button class="btn md-raised add-discount-button"> + </md-button>
+                <md-button class="btn md-raised add-discount-button" ng-click="addDiscount()"> + </md-button>
             </div>
         </div>
 
         <div layout="row">
-            <md-button class="md-raised md-primary add-post-button">Save</md-button>
+            <md-button class="md-raised md-primary add-post-button" ng-click="save()">Save</md-button>
         </div>
     </md-content>
     <div class="upload-pic btn btn-primary">
