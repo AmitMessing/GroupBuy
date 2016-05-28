@@ -27,6 +27,6 @@ namespace GroupBuyServer.ViewModels
     public class DiscountViewModel
     {
         public int UsersAmount { get; set; }
-        public float Present { get; set; }
+        public float Precent { get; set; }
     }
 }

@@ -1,6 +1,7 @@
 ﻿.product-page {
-    width: 90%;
+    width: 75%;
     margin: 25px;
+    margin-left: 14%;
 }
 
 .upload-pic {
@@ -8,6 +9,12 @@
     height: 450px;
     border: 1px solid gray;
     position: relative;
+    margin-left: 10px;
+
+}
+
+.cell-align {
+    text-align: center !important;
 }
 
 .discount-table {
@@ -16,7 +23,6 @@
 }
 
 .add-discount-button {
-    width: 40px !important;
     min-width: 40px !important;
     color: white !important;
     background: orange !important;
@@ -27,6 +33,9 @@
 }
 
 .add-post-button {
+    position: fixed !important;
+    bottom: 10px !important;
+    left: 10px !important;
     color: white !important;
 }
 

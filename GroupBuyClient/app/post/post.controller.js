@@ -8,21 +8,24 @@ mainApp
                 name: "",
                 description: "",
                 endDate: "",
-                image: ""
+                image: "",
+                seller: {},
+                basicPrice: "",
+                discounts: $scope.discounts
             };
 
             $scope.discounts = [
             {
-                numberOfBuyers: 5,
-                value: 10
+                usersAmount: 5,
+                precent: 10
             },
             {
-                numberOfBuyers: 15,
-                value: 20
+                usersAmount: 15,
+                precent: 20
             }];
 
             $scope.addDiscount = function() {
-                $scope.discounts.push({numberOfBuyers: "", value:""});
+                $scope.discounts.push({ usersAmount: "", precent: "" });
             };
 
             $scope.save = function () {
@@ -32,7 +35,7 @@ mainApp
                         
                     }
                 }, function(error) {
-                    alert.show(error.data.Message);
+                    alert(error.data.Message);
                 });
             };
 
