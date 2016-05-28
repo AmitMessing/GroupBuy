@@ -175,9 +175,9 @@ namespace SeedProject
 
                             newProduct.Discounts = new List<Discount>
                             {
-                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 20, Present = 10},
-                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 50, Present = 12},
-                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 130, Present = 23},
+                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 2, Present = 10},
+                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 5, Present = 12},
+                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 7, Present = 23},
                             };
 
                             if (product["description"] != null)

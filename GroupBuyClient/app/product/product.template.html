@@ -5,7 +5,7 @@
                 <div class="product-name">
                     {{product.name}}
                 </div>
-                <label class="current-price">Current price: 33.75 $</label>
+                <label class="current-price">Current price: {{currentPrice}} $</label>
                 <div>
                     Seller:
                     <a href="">
@@ -19,7 +19,7 @@
                     </md-button>
                 </div>
                 <div style="margin-top: 10px; display: inline;">
-                    <label>Number of buyers: {{numberOfBuyers}}</label>
+                    <label>Number of buyers: {{product.buyers.length}}</label>
                     <a href=""> Buyers details</a>
 
                     <div style="display: inline; margin-left: 120px; color: deepskyblue;">
@@ -30,20 +30,20 @@
                 <div class="discount" layout="row">
                     <div class="amount" layout="column">
                         <span class="tabel-header-cell">Number of people</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discount">
-                            {{discount.amount}}
+                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
+                            {{discount.usersAmount}}
                         </div>
                     </div>
                     <div class="dis" layout="column">
                         <span class="tabel-header-cell">Discount</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discount">
-                            {{discount.dis}} %
+                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
+                            {{discount.present}} %
                         </div>
                     </div>
                     <div class="price" layout="column">
                         <span class="tabel-header-cell">New price</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discount">
-                            {{calcPrice(product.price, discount.dis)}} $
+                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
+                            {{calcPrice(discount.present)}} $
                         </div>
                     </div>
                 </div>

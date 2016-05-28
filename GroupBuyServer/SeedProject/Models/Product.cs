@@ -31,7 +31,7 @@ namespace SeedProject.Models
         {
             Table("t_products");
 
-            Id(x => x.Id, "id");
+            Id(x => x.Id, "id").GeneratedBy.Assigned();
             Map(x => x.Name, "name");
             Map(x => x.Description, "description");
             References(x => x.Seller).Column("seller_id");
