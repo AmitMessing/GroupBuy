@@ -1,6 +1,6 @@
 mainApp
     .controller('postController', [
-        '$scope', '$stateParams', '$resource', function ($scope, $stateParams, $resource) {
+        '$scope', '$stateParams', '$resource', 'userService', function ($scope, $stateParams, $resource, userService) {
 
             var postApi = $resource("/GroupBuyServer/api/products", {});
 
@@ -11,7 +11,7 @@ mainApp
                 image: "",
                 seller: {},
                 basicPrice: "",
-                discounts: $scope.discounts
+                discounts: {}
             };
 
             $scope.discounts = [
@@ -29,7 +29,8 @@ mainApp
             };
 
             $scope.save = function () {
-
+                $scope.product.discounts = $scope.discounts;
+                $scope.product.seller = userService.getLoggedUser();
                 postApi.save($scope.product).$promise.then(function(result) {
                     if (result) {
                         

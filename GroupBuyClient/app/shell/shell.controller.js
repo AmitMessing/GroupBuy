@@ -7,7 +7,7 @@
             $scope.user = {};
             var user = userService.getLoggedUser();
             if (user != null) {
-                $scope.user = JSON.parse(user);
+                $scope.user = user;
             }
             else {
                 $scope.user = undefined;

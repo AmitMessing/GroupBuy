@@ -1,6 +1,6 @@
 ﻿mainApp.service('userService', ['$cookies', '$state', function ($cookies, $state) {
     var setLoggedUSer = function (usr) {
-        $cookies.put("loggedUser", JSON.stringify(usr));
+        $cookies.put("loggedUser", usr);
     };
 
     var getLoggedUser = function () {
