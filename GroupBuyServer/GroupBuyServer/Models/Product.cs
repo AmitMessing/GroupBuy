@@ -41,6 +41,11 @@ namespace GroupBuyServer.Models
                 .ParentKeyColumn("product_id")
                 .ChildKeyColumn("category_id");
 
+            HasManyToMany(x => x.Buyers)
+                .Table("rel_product_buyers")
+                .ParentKeyColumn("product_id")
+                .ChildKeyColumn("user_id");
+
             HasMany(x => x.Discounts).KeyColumn("product_id").Inverse().Cascade.None();
         }
     }
