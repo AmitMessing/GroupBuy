@@ -75,18 +75,22 @@ namespace SeedProject
             {
                 using (var session = NHibernateHandler.CurrSession)
                 {
-                    try
+                    using (var tran = session.BeginTransaction())
                     {
-                        session.Save(product);
-//                        foreach (var discount in product.Discounts)
-//                        {
-//                            session.Save(discount);
-//                        }
-                        session.Flush();
-                        success++;
-                    }
-                    catch (Exception ex)
-                    {
+                        try
+                        {
+                            session.Save(product);
+                            foreach (var discount in product.Discounts)
+                            {
+                                session.Save(discount);
+                            }
+//                            session.Flush();
+                            tran.Commit();
+                            success++;
+                        }
+                        catch (Exception ex)
+                        {
+                        }
                     }
                 }
             }
@@ -171,9 +175,9 @@ namespace SeedProject
 
                             newProduct.Discounts = new List<Discount>
                             {
-                                new Discount { UsersAmount = 20, Present = 10},
-                                new Discount {UsersAmount = 50, Present = 12},
-                                new Discount {UsersAmount = 130, Present = 23},
+                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 20, Present = 10},
+                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 50, Present = 12},
+                                new Discount {Id = Guid.NewGuid(), ProductId = newProduct.Id, UsersAmount = 130, Present = 23},
                             };
 
                             if (product["description"] != null)

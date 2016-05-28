@@ -17,7 +17,6 @@ namespace GroupBuyServer.Models
         public virtual Image Image { get; set; }
         public virtual IList<Category> Categories { get; set; }
         public virtual IList<User> Buyers { get; set; }
-        public virtual IList<Discount> Discounts { get; set; }        
     }
 
     public class ProductMap : ClassMap<Product>
@@ -39,14 +38,12 @@ namespace GroupBuyServer.Models
             HasManyToMany(x => x.Categories)
                 .Table("rel_product_category")
                 .ParentKeyColumn("product_id")
-                .ChildKeyColumn("category_id");
+                .ChildKeyColumn("category_id").Not.LazyLoad();
 
             HasManyToMany(x => x.Buyers)
                 .Table("rel_product_buyers")
                 .ParentKeyColumn("product_id")
-                .ChildKeyColumn("user_id");
-
-            HasMany(x => x.Discounts).KeyColumn("product_id").Inverse().Cascade.None();
+                .ChildKeyColumn("user_id").Not.LazyLoad();
         }
     }
 }

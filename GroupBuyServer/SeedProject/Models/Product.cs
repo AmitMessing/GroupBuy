@@ -17,7 +17,12 @@ namespace SeedProject.Models
         public virtual Image Image { get; set; }
         public virtual IList<Category> Categories { get; set; }
         public virtual IList<User> Buyers { get; set; }
-        public virtual IList<Discount> Discounts { get; set; }        
+        public virtual IList<Discount> Discounts { get; set; }
+
+        public Product()
+        {
+            Discounts = new List<Discount>();
+        }
     }
 
     public class ProductMap : ClassMap<Product>
@@ -44,8 +49,6 @@ namespace SeedProject.Models
                 .Table("rel_product_buyers")
                 .ParentKeyColumn("product_id")
                 .ChildKeyColumn("user_id");
-
-            HasMany(x => x.Discounts).KeyColumn("product_id").Inverse().Cascade.None();
         }
     }
 }
