@@ -14,7 +14,7 @@ namespace GroupBuyServer.Models
         public virtual DateTime PublishDate { get; set; }
         public virtual DateTime EndDate { get; set; }
         public virtual double BasicPrice { get; set; }
-        public virtual Image Image { get; set; }
+        public virtual byte[] Image { get; set; }
         public virtual IList<Category> Categories { get; set; }
         public virtual IList<User> Buyers { get; set; }
     }
