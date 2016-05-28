@@ -1,27 +1,39 @@
 mainApp
     .controller('productController', [
-        '$scope', '$stateParams', '$resource', function($scope, $stateParams, $resource) {
+        '$scope', '$stateParams', '$resource', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $mdDialog, userService) {
 
             var api = $resource("/GroupBuyServer/api/products/:id", { id: '@id' });
             var productId = $stateParams.id;
+            $scope.isSeller = false;
+            $scope.isBuyer = false;
 
-            var calcProduct = function(discounts) {
-                var orderdDiscounts = discounts.sort(function (a, b) {
+            var calcProduct = function (discounts) {
+                // Check current discount
+                var orderdDiscounts = discounts.sort(function(a, b) {
                     return b.usersAmount - a.usersAmount;
                 });
 
-                var currentDiscountPresent = 0;
+                var currentDiscountPrecent = 0;
                 var isFound = false;
 
                 angular.forEach(orderdDiscounts, function(discout) {
                     if (!isFound && $scope.product.buyers.length >= discout.usersAmount) {
-                        currentDiscountPresent = discout.present;
+                        currentDiscountPrecent = discout.precent;
                         discout.isCurrent = true;
                         isFound = true;
                     }
                 });
 
-                $scope.currentPrice = $scope.calcPrice(currentDiscountPresent);
+                $scope.currentPrice = $scope.calcPrice(currentDiscountPrecent);
+
+                // Update current user status
+                if ($scope.product.seller.userName === $scope.currentUser.userName) {
+                    $scope.isSeller = true;
+                }
+
+                if ($scope.product.buyers.indexOf($scope.currentUser.userName) !== -1) {
+                    $scope.isBuyer = true;
+                }
             };
 
             var sortDiscountAascending = function() {
@@ -30,7 +42,9 @@ mainApp
                 });
             };
 
-            var getProduct = function(id) {
+            var initData = function (id) {
+                $scope.currentUser = userService.getLoggedUser();
+
                 api.get({ id: id }).$promise.then(function(product) {
                     if (product) {
                         $scope.product = product;
@@ -42,11 +56,33 @@ mainApp
                 });
             };
 
-            getProduct(productId);
-
             $scope.calcPrice = function(discount) {
                 var price = $scope.product.basicPrice;
                 return (price - ((price * discount) / 100)).toFixed(2);
             };
+
+            $scope.joinGroup = function () {
+                if (!$scope.currentUser) {
+                    $mdDialog.show(
+                        $mdDialog.alert()
+                        .clickOutsideToClose(true)
+                        .title('Pay Attention')
+                        .textContent('You must log in to join this group!')
+                        .ok('Got it!')
+                    );
+                } else {
+                    
+                }
+            };
+
+        $scope.showBuyers = function() {
+            $mdDialog.show({
+                templateUrl: 'app/product/buyers-dialog/buyers-dialog.template.html',
+                parent: angular.element(document.body),
+                clickOutsideToClose: true
+            });
+        };
+
+            initData(productId);
         }
     ]);

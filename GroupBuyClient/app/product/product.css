@@ -38,3 +38,8 @@
     padding: 0 25px;
     margin: 0 200px;
 }
+
+.buyers-dialog .dialog-toolBar {
+    background-color: #FF9100;
+    color: white;
+}

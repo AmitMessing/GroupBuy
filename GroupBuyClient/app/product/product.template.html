@@ -9,19 +9,18 @@
                 <div>
                     Seller:
                     <a href="">
-                        John snow
+                        {{product.seller.fullName}}
                     </a>
                 </div>
                 <p style="width: 500px;">{{product.content}}</p>
                 <div layout="row">
-                    <md-button style="margin: 0 auto" class="md-fab md-primary md-hue-2" aria-label="join" ng-click="joinGroup()">
+                    <md-button style="margin: 0 auto" class="md-fab md-primary md-hue-2" aria-label="join" ng-click="joinGroup()" ng-disabled="isBuyer || isSeller">
                         <md-icon class="material-icons">group_add</md-icon>
                     </md-button>
                 </div>
                 <div style="margin-top: 10px; display: inline;">
                     <label>Number of buyers: {{product.buyers.length}}</label>
-                    <a href=""> Buyers details</a>
-
+                    <md-button ng-click="showBuyers()">Buyers details</md-button>
                     <div style="display: inline; margin-left: 120px; color: deepskyblue;">
                         <i class="material-icons">thumb_up</i>
                         <i class="material-icons">thumb_down</i>
@@ -37,13 +36,13 @@
                     <div class="dis" layout="column">
                         <span class="tabel-header-cell">Discount</span>
                         <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
-                            {{discount.present}} %
+                            {{discount.precent}} %
                         </div>
                     </div>
                     <div class="price" layout="column">
                         <span class="tabel-header-cell">New price</span>
                         <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
-                            {{calcPrice(discount.present)}} $
+                            {{calcPrice(discount.precent)}} $
                         </div>
                     </div>
                 </div>
