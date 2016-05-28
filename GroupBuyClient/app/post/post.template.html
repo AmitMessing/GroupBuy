@@ -61,7 +61,7 @@
         </div>
     </div>
     <div class="upload-pic btn btn-primary" layout="column" layout-padding>
-        <input ng-model="product.image" type="file" id="imageLoader" class="button-upload" name="imageLoader" accept="image/*"/>
+        <input ng-model="product.image" type="file" name="imageLoader" class="button-upload" id="imageLoader" accept="Image/*" onchange="handleImage()" />
         <canvas id="imageCanvas" class="image-canvas"></canvas>
     </div>
 </div>
