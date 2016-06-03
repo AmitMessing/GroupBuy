@@ -1,6 +1,9 @@
 ﻿mainApp
     .controller('shellController', [
-        '$scope', '$element', '$state', '$window', 'userService', function ($scope, $element, $state, $window, userService) {
+        '$scope', '$element', '$state', '$window', '$resource', 'userService', function ($scope, $element, $state, $window, $resource, userService) {
+
+            var search = $resource("/GroupBuyServer/api/search", {}, { 'post': { method: 'POST', isArray: true } });
+
             $scope.isOpen = false;
             $scope.categories = ['Fashion', 'Gifts', 'Home', 'Man Fashion'];
            
@@ -43,6 +46,12 @@
                 } else {
                     $scope.isSearching = false;
                 }
+
+                search.post({ searchText: $scope.searchText }).$promise.then(function (searchResult) {
+                    console.log(searchResult);
+                }, function(error) {
+                    $scope.error = error.data.Message;
+                });
             };
         }
     ]);
