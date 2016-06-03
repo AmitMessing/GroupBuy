@@ -23,10 +23,10 @@ namespace GroupBuyServer.Utils
 
         private static ISessionFactory InitializeSessionFactory()
         {
+            string connStr = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
+
             var cfg = Fluently.Configure()
-                .Database(MsSqlConfiguration.MsSql2012
-                    .ConnectionString(@"Server=.\SQLEXPRESS;Database=GroupBuy;User Id=groupbuy; Password=groupbuy123;")
-                    .ShowSql()
+                .Database(MsSqlConfiguration.MsSql2012.ConnectionString(connStr).ShowSql()
                 ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())).BuildConfiguration();
 //            
 //            var exporter = new SchemaExport(cfg);
