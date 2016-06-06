@@ -1,5 +1,4 @@
-﻿using Elasticsearch.Net;
-using GroupBuyServer.Models;
+﻿using GroupBuyServer.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -23,88 +22,17 @@ namespace GroupBuyServer.Utils
         {
             m_strElasticSearchConnectionString = 
                 ConfigurationManager.ConnectionStrings["ElasticSearchConnectionString"].ConnectionString;
-
-            try
-            {
-                WebRequest request = WebRequest.Create(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/");
-                WebResponse response = request.GetResponse();
-            }
-            catch (WebException ex)
-            {
-                HttpWebResponse response = (HttpWebResponse)ex.Response;
-                if (response.StatusCode == HttpStatusCode.NotFound)
-                {
-                    using (WebClient client = new WebClient())
-                    {
-                        var temp = new
-                        {
-                            settings = new
-                            {
-                                analysis = new
-                                {
-                                    analyzer = new
-                                    {
-                                        products_analyzer = new
-                                        {
-                                            type = "snowball",
-                                            language = "English"
-                                        }
-                                    }
-                                }
-                            },
-                            mappings = new
-                            {
-                                products = new
-                                {
-                                    properties = new
-                                    {
-                                        ProductId = new
-                                        {
-                                            type = "long",
-                                            index = "not_analyzed"
-                                        },
-                                        ProductName = new
-                                        {
-                                            type = "string",
-                                            analyzer = "products_analyzer"
-                                        }
-                                    }
-                                }
-                            }
-                        };
-
-                        string data = JsonConvert.SerializeObject(temp);
-
-                        //string data = "{\"index\" : {\"analysis\" : {\"analyzer\" : {\"products_analyzer\" : {\"type\" : \"snowball\",\"language\" : \"English\"}}}}}";
-
-                        string strResponse =
-                            client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/", "PUT", data);
-                    }
-                }
-            }
         }
 
-        public static void IndexAllProducts()
+        public static void IndexProduct(Product p_objProduct)
         {
-            using (var session = NHibernateHandler.CurrSession)
+            using (WebClient client = new WebClient())
             {
-                IList<Product> lstAllProducts = session.QueryOver<Product>().List();
-
-                if (lstAllProducts != null && lstAllProducts.Count > 0)
-                {
-                    using (WebClient client = new WebClient())
-                    {
-                        client.Headers[HttpRequestHeader.ContentType] = "application/json";
-                        client.Encoding = UTF8Encoding.UTF8;
-
-                        foreach (Product currProduct in lstAllProducts)
-                        {
-                            ProductIndexData currProductIndexData = new ProductIndexData(currProduct.Id, currProduct.Name);
-                            string strResponse = 
-                                client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/" + INDEX_TYPE + "/", "POST", JsonConvert.SerializeObject(currProductIndexData));
-                        }
-                    }
-                }
+                client.Headers[HttpRequestHeader.ContentType] = "application/json";
+                client.Encoding = UTF8Encoding.UTF8;
+                ProductIndexData currProductIndexData = new ProductIndexData(p_objProduct.Id, p_objProduct.Name);
+                string strResponse = 
+                    client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/" + INDEX_TYPE + "/", "POST", JsonConvert.SerializeObject(currProductIndexData));
             }
         }
 

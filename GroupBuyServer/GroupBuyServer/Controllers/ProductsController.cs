@@ -66,6 +66,9 @@ namespace GroupBuyServer.Controllers
                     };
 
                     session.Save(productToSave);
+
+                    ElasticSearchHandler.IndexProduct(productToSave);
+
                     foreach (var discount in product.Discounts)
                     {
                         session.Save(new Discount()
