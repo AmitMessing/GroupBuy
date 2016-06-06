@@ -153,10 +153,10 @@ namespace GroupBuyServer.Utils
 
     public class ProductIndexData
     {
-        private int m_intProductId;
+        private Guid m_intProductId;
         private string m_strProductName;
 
-        public int ProductId { 
+        public Guid ProductId { 
             get {
                 return this.m_intProductId;
             } 
@@ -177,7 +177,7 @@ namespace GroupBuyServer.Utils
             }
         }
 
-        public ProductIndexData(int p_intProductId, string p_strProductName)
+        public ProductIndexData(Guid p_intProductId, string p_strProductName)
         {
             this.m_intProductId = p_intProductId;
             this.m_strProductName = p_strProductName;
