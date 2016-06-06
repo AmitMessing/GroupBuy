@@ -39,6 +39,10 @@
     margin: 0 200px;
 }
 
+.product-page .expierd-date {
+    color: red;
+}
+
 .buyers-dialog {
     width: 400px;
     height: 500px;

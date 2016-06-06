@@ -8,8 +8,9 @@ mainApp
             var productId = $stateParams.id;
             $scope.isSeller = false;
             $scope.isBuyer = false;
+            $scope.isExpierd = false;
 
-            var calcProduct = function (discounts) {
+            var calcProduct = function(discounts) {
                 // Check current discount
                 var orderdDiscounts = discounts.sort(function(a, b) {
                     return b.usersAmount - a.usersAmount;
@@ -36,6 +37,13 @@ mainApp
                 if ($scope.product.buyers.indexOf($scope.currentUser.userName) !== -1) {
                     $scope.isBuyer = true;
                 }
+
+                var today = new Date();
+                var endDate = new Date($scope.product.endDate.replace("T", " ").replace(/-/g, "/"));
+
+                if (endDate < today) {
+                    $scope.isExpierd = true;
+                }
             };
 
             var sortDiscountAascending = function() {
@@ -44,7 +52,7 @@ mainApp
                 });
             };
 
-            var initData = function (id) {
+            var initData = function(id) {
                 $scope.currentUser = userService.getLoggedUser();
 
                 return api.get({ id: id }).$promise.then(function(product) {
@@ -63,7 +71,7 @@ mainApp
                 return (price - ((price * discount) / 100)).toFixed(2);
             };
 
-            $scope.joinGroup = function () {
+            $scope.joinGroup = function() {
                 if (!$scope.currentUser) {
                     $mdDialog.show(
                         $mdDialog.alert()
@@ -74,39 +82,46 @@ mainApp
                     );
                 } else {
                     buyersApi.save({ productId: $scope.product.id, buyerId: $scope.currentUser.id })
-                        .$promise.then(function (result) {
+                        .$promise.then(function(result) {
                             if (result) {
                                 initData(result.productId);
                                 $mdDialog.show(
-                       $mdDialog.alert()
-                       .clickOutsideToClose(true)
-                       .title('Congratulations!')
-                       .textContent('You joined the group!')
-                       .ok('Got it!')
-                   );
-                        }
-                    }, function (error) {
-                        $scope.errorMessage = error.data.Message;
-                    });
+                                    $mdDialog.alert()
+                                    .clickOutsideToClose(true)
+                                    .title('Congratulations!')
+                                    .textContent('You joined the group!')
+                                    .ok('Got it!')
+                                );
+                            }
+                        }, function(error) {
+                            $scope.errorMessage = error.data.Message;
+                        });
                 }
             };
 
-        $scope.showBuyers = function() {
-            $mdDialog.show({
-                templateUrl: 'app/product/buyers-dialog/buyers-dialog.template.html',
-                parent: angular.element(document.body),
-                clickOutsideToClose: true,
-                locals: {
-                    buyers: $scope.product.buyers
-                },
-                controller: function (scope, buyers) {
-                    scope.buyers = buyers;
-                    scope.cancel = function () {
-                        $mdDialog.cancel();
-                    };
+            $scope.showBuyers = function() {
+                $mdDialog.show({
+                    templateUrl: 'app/product/buyers-dialog/buyers-dialog.template.html',
+                    parent: angular.element(document.body),
+                    clickOutsideToClose: true,
+                    locals: {
+                        buyers: $scope.product.buyers
+                    },
+                    controller: function(scope, buyers) {
+                        scope.buyers = buyers;
+                        scope.cancel = function() {
+                            $mdDialog.cancel();
+                        };
+                    }
+                });
+            };
+
+            $scope.dateFormat = function(date) {
+                if (date) {
+                    var format = date.split("T")[0].split("-");
+                    return format[2] + "." + format[1] + "." + format[0];
                 }
-            });
-        };
+            };
 
             initData(productId);
         }
