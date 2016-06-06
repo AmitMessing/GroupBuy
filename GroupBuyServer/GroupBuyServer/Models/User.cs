@@ -25,6 +25,8 @@ namespace GroupBuyServer.Models
             Map(x => x.LastName, "last_name");
             Map(x => x.UserName, "user_name");
             Map(x => x.Password, "password");
+            Map(x => x.SellerRate, "seller_rate");
+            Map(x => x.BuyerRate, "buyer_rate");
         }
     }
 }
