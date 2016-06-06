@@ -3,6 +3,7 @@ using System.Reflection;
 using FluentNHibernate.Cfg;
 using FluentNHibernate.Cfg.Db;
 using NHibernate;
+using NHibernate.Tool.hbm2ddl;
 
 namespace SeedProject
 {
@@ -16,7 +17,8 @@ namespace SeedProject
             _sessionFactory = InitializeSessionFactory();
         }
 
-        public static ISession CurrSession {
+        public static ISession CurrSession
+        {
             get
             {
                 if (_currSession == null)
@@ -26,16 +28,22 @@ namespace SeedProject
                 return _currSession;
             }
             private set { _currSession = value; }
-        } 
+        }
 
         private static ISessionFactory InitializeSessionFactory()
         {
             string connStr = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
+            var cfg = Fluently.Configure()
+                .Database(MsSqlConfiguration.MsSql2012
+                    .ConnectionString(connStr)
+                    .ShowSql()
+                ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())).BuildConfiguration();
 
-            return Fluently.Configure()
-                .Database(MsSqlConfiguration.MsSql2012.ConnectionString(connStr).ShowSql())
-                .Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly()))
-                .BuildSessionFactory();
+
+            var exporter = new SchemaExport(cfg);
+            exporter.Create(false, true);
+
+            return cfg.BuildSessionFactory();
         }
 
         private static ISession OpenSession()
