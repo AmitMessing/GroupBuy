@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using GroupBuyServer.Models;
 
 namespace GroupBuyServer.ViewModels
 {
@@ -15,14 +14,21 @@ namespace GroupBuyServer.ViewModels
         public DateTime EndDate { get; set; }
         public double BasicPrice { get; set; }
         public List<string> Categories { get; set; }
-        public List<string> Buyers { get; set; }
+        public List<BuyerViewModel> Buyers { get; set; }
         public List<DiscountViewModel> Discounts { get; set; }
+    }
+
+    public class BuyerViewModel
+    {
+        public string UserName { get; set; }
+        public string FullName { get; set; }
     }
 
     public class SellerViewModel
     {
         public Guid Id { get; set; }
         public string UserName { get; set; }
+        public string FullName { get; set; }
     }
 
     public class DiscountViewModel
