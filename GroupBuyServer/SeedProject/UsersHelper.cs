@@ -109,15 +109,15 @@ namespace SeedProject
                     Id = Guid.NewGuid(),
                     FirstName = "Roni",
                     LastName = "Dalomi",
-                    UserName = "royc",
+                    UserName = "ronid",
                     Password = "Aa123456"
                 },
                 new User
                 {
                     Id = Guid.NewGuid(),
                     FirstName = "Roni",
-                    LastName = "Dalomi",
-                    UserName = "royc",
+                    LastName = "Dalomi2",
+                    UserName = "ronid2",
                     Password = "Aa123456"
                 },
                 new User

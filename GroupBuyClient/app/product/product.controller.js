@@ -2,9 +2,8 @@ mainApp
     .controller('productController', [
         '$scope', '$stateParams', '$resource', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $mdDialog, userService) {
 
-            var api = $resource("/GroupBuyServer/api/products/:id", { id: '@id' }, {
-                buyers: {method: 'POST'}
-            });
+            var api = $resource("/GroupBuyServer/api/products");
+            var buyersApi = $resource("/GroupBuyServer/api/buyers");
 
             var productId = $stateParams.id;
             $scope.isSeller = false;
@@ -48,7 +47,7 @@ mainApp
             var initData = function (id) {
                 $scope.currentUser = userService.getLoggedUser();
 
-                api.get({ id: id }).$promise.then(function(product) {
+                return api.get({ id: id }).$promise.then(function(product) {
                     if (product) {
                         $scope.product = product;
                         calcProduct($scope.product.discounts);
@@ -74,12 +73,17 @@ mainApp
                         .ok('Got it!')
                     );
                 } else {
-                    api.save({ id: $scope.product.id, buyer: $scope.currentUser })
-                        .$promise.then(function (product) {
-                        if (product) {
-//                            $scope.product = product;
-//                            calcProduct($scope.product.discounts);
-//                            sortDiscountAascending();
+                    buyersApi.save({ productId: $scope.product.id, buyerId: $scope.currentUser.id })
+                        .$promise.then(function (result) {
+                            if (result) {
+                                initData(result.productId);
+                                $mdDialog.show(
+                       $mdDialog.alert()
+                       .clickOutsideToClose(true)
+                       .title('Congratulations!')
+                       .textContent('You joined the group!')
+                       .ok('Got it!')
+                   );
                         }
                     }, function (error) {
                         $scope.errorMessage = error.data.Message;
@@ -91,7 +95,16 @@ mainApp
             $mdDialog.show({
                 templateUrl: 'app/product/buyers-dialog/buyers-dialog.template.html',
                 parent: angular.element(document.body),
-                clickOutsideToClose: true
+                clickOutsideToClose: true,
+                locals: {
+                    buyers: $scope.product.buyers
+                },
+                controller: function (scope, buyers) {
+                    scope.buyers = buyers;
+                    scope.cancel = function () {
+                        $mdDialog.cancel();
+                    };
+                }
             });
         };
 
