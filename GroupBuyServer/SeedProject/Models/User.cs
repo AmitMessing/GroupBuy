@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using FluentNHibernate.Mapping;
 
 namespace SeedProject.Models
 {
@@ -11,8 +11,22 @@ namespace SeedProject.Models
         public virtual string UserName { get; set; }
         public virtual string Password { get; set; }
         public virtual float SellerRate { get; set; }
-        public IList<Comment> SellerRateComments { get; set; }
-        public IList<Comment> BuyerRateComments { get; set; }
         public virtual float BuyerRate { get; set; }
+    }
+
+    public class UserMap : ClassMap<User>
+    {
+        public UserMap()
+        {
+            Table("t_users");
+
+            Id(x => x.Id, "id");
+            Map(x => x.FirstName, "first_name");
+            Map(x => x.LastName, "last_name");
+            Map(x => x.UserName, "user_name");
+            Map(x => x.Password, "password");
+            Map(x => x.SellerRate, "seller_rate");
+            Map(x => x.BuyerRate, "buyer_rate");
+        }
     }
 }

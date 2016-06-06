@@ -39,10 +39,6 @@ namespace SeedProject
                     .ShowSql()
                 ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())).BuildConfiguration();
 
-
-            var exporter = new SchemaExport(cfg);
-            exporter.Create(false, true);
-
             return cfg.BuildSessionFactory();
         }
 
