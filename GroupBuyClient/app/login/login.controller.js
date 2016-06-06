@@ -40,8 +40,11 @@ mainApp
                                 userService.setLoggedUSer(user);
                                 $state.go('shell.home', {}, { reload: true });
                             }
+                            else {
+                                $scope.error = error.data.message;
+                            }
                         }, function(error) {
-                             $scope.error = error.data.Message;
+                             $scope.error = error.data.message;
                         });
                 }
             };

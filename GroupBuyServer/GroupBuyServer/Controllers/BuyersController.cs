@@ -1,11 +1,13 @@
 ﻿using System;
+using System.Linq;
 using System.Web.Http;
 using GroupBuyServer.Models;
 using GroupBuyServer.Utils;
+using GroupBuyServer.ViewModels;
 
 namespace GroupBuyServer.Controllers
 {
-    [RoutePrefix("GroupBuyServer/api/products/buyers")]
+    [RoutePrefix("GroupBuyServer/api/buyers")]
     public class BuyersController : ApiController
     {
         [HttpGet]
@@ -15,23 +17,24 @@ namespace GroupBuyServer.Controllers
         }
 
         [HttpPost]
-        public IHttpActionResult Save(Guid id, User buyer)
+        public IHttpActionResult Save(ProductBuyerViewModel productBuyerViewModel)
         {
             using (var session = NHibernateHandler.CurrSession)
             {
                 using (var tran = session.BeginTransaction())
                 {
-                    var product = session.Get<Product>(id);
-                    if (product.Buyers.Contains(buyer) == false)
+                    var product = session.Get<Product>(productBuyerViewModel.ProductId);
+                    var user = session.Get<User>(productBuyerViewModel.BuyerId);
+                    if (product.Buyers.Any(x => x.Id == productBuyerViewModel.BuyerId) == false)
                     {
-                        product.Buyers.Add(buyer);
+                        product.Buyers.Add(user);
                         session.Save(product);
                         tran.Commit();
                     }
                 }
             }
 
-            return Ok(id);
+            return Ok(productBuyerViewModel);
         }
     }
 }

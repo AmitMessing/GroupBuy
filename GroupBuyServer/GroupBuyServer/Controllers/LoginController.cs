@@ -16,11 +16,7 @@ namespace GroupBuyServer.Controllers
                 var userFromDb = session.QueryOver<User>()
                     .Where(x => x.UserName == user.UserName).And(x => x.Password == user.Password).SingleOrDefault();
 
-                if (userFromDb != null)
-                {
-                    return Ok(userFromDb);
-                }
-                return BadRequest("User not exists");
+                return Ok(userFromDb);
             }
         }
     }

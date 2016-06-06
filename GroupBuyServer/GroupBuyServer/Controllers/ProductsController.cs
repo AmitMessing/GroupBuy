@@ -5,7 +5,6 @@ using System.Web.Http;
 using GroupBuyServer.Models;
 using GroupBuyServer.Utils;
 using GroupBuyServer.ViewModels;
-using NHibernate;
 using NHibernate.Linq;
 
 namespace GroupBuyServer.Controllers
@@ -28,8 +27,18 @@ namespace GroupBuyServer.Controllers
                     BasicPrice = product.BasicPrice,
                     PublishDate = product.PublishDate,
                     EndDate = product.EndDate,
-                    Seller = new SellerViewModel {Id = product.Seller.Id, UserName = product.Seller.UserName},
-                    Buyers = product.Buyers.Select(x => x.UserName).ToList(),
+                    Seller = new SellerViewModel
+                    {
+                        Id = product.Seller.Id, 
+                        UserName = product.Seller.UserName, 
+                        FullName = product.Seller.FirstName + " " + product.Seller.LastName
+                    },
+                    Buyers = product.Buyers.Select(x => 
+                        new BuyerViewModel
+                        {
+                            UserName = x.UserName, 
+                            FullName = x.FirstName + " " + x.LastName
+                        }).ToList(),
                 };
 
                 var discounts =
@@ -66,6 +75,9 @@ namespace GroupBuyServer.Controllers
                     };
 
                     session.Save(productToSave);
+
+                    ElasticSearchHandler.IndexProduct(productToSave);
+
                     foreach (var discount in product.Discounts)
                     {
                         session.Save(new Discount()
