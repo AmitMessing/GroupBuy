@@ -1,0 +1,17 @@
+﻿<md-dialog style="width: 60%;">
+    <div layout="column" flex>
+        <div ng-repeat="rate in user.sellerRate">
+            <md-card>
+                <md-card-title>
+                    <md-card-title-text>
+                        <span class="md-headline">{{rate.commenter}}</span>
+                        <span class="md-subhead">{{rate.date}}</span>
+                    </md-card-title-text>
+                </md-card-title>
+                <md-card-content>
+                    <span>{{rate.content}}</span>
+                </md-card-content>
+            </md-card>
+        </div>
+    </div>
+</md-dialog>

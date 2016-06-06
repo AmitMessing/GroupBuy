@@ -1,25 +1,32 @@
 ﻿<div layout="row" flex>
     <div layout="column" flex="70">
-        <div ng-repeat="rate in user.sellerRate | limitTo:10">
-            <md-card>
-                <md-card-title>
-                    <md-card-title-text>
-                        <span class="md-headline">Card with image</span>
-                        <span class="md-subhead">Small</span>
-                    </md-card-title-text>
-                    <md-card-title-media>
-                        <div class="md-media-sm card-media"></div>
-                    </md-card-title-media>
-                </md-card-title>
-                <md-card-actions layout="row" layout-align="end center">
-                    <md-button>Action 1</md-button>
-                    <md-button>Action 2</md-button>
-                </md-card-actions>
-            </md-card>
+        <div layout="row" flex>
+            <div layout="column" flex>
+                <div ng-repeat="rate in user.sellerRate | limitTo:10">
+                    <md-card>
+                        <md-card-title>
+                            <md-card-title-text>
+                                <span class="md-headline">{{rate.commenter}}</span>
+                                <span class="md-subhead">{{rate.date}}</span>
+                            </md-card-title-text>
+                        </md-card-title>
+                        <md-card-content>
+                            <span>{{rate.content}}</span>
+                        </md-card-content>
+                    </md-card>
+                </div>
+            </div>
+        </div>
+        <div layout="row">
+            <div ng-show="user.sellerRate.length > 1">
+                <md-button ng-click="showSellerComment($event)">
+                    show more...
+                </md-button>
+            </div>
         </div>
     </div>
     <md-divider>
-        </md-divider>
+    </md-divider>
     <div layout="column" flex ng-show="true">
         <md-card class="login-card">
             <md-card-title class="login-card-title" layout-align="center center">

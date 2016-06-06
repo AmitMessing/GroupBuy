@@ -1,6 +1,6 @@
 mainApp
     .controller('userController', [
-        '$scope', '$stateParams', '$resource', '$state', 'userService', function ($scope, $stateParams, $resource,$state, userService) {
+        '$scope', '$stateParams', '$resource', '$state', '$mdDialog', '$mdMedia', 'userService', function ($scope, $stateParams, $resource, $state, $mdDialog, $mdMedia, userService) {
 
             var userSave = $resource("/GroupBuyServer/api/user", {});
             $scope.user = {
@@ -10,9 +10,31 @@ mainApp
                 password: ""
             };
 
+            $scope.showSellerComment = function (ev) {
+                $mdDialog.show({
+                    controller: 'allCommentsController',
+                    templateUrl: 'app/user/dialogs/allComments.html',
+                    parent: angular.element(document.body),
+                    targetEvent: ev,
+                    clickOutsideToClose: true
+                });
+            };
+
             var user = userService.getLoggedUser();
             if (user != null) {
                 $scope.user = user;
+                $scope.user.sellerRate = [
+                    {
+                        commenter: "yulia",
+                        content: "coolll products",
+                        date: "22/2/16"
+                    },
+                    {
+                        commenter: "amit",
+                        content: "coolll products ,hkjhkjhk",
+                        date: "22/2/16"
+                    }
+                ];
             }
             else {
                 $scope.user = undefined;
