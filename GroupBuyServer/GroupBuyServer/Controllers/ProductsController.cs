@@ -81,6 +81,28 @@ namespace GroupBuyServer.Controllers
                 }
             }
         }
+
+//        [HttpPost]
+//        [Route("products/{id}/buyers")]
+//        public IHttpActionResult R(Guid id, [FromBody]User buyer)
+//        {
+//            using (var session = NHibernateHandler.CurrSession)
+//            {
+//                using (var tran = session.BeginTransaction())
+//                {
+//                    var product = session.Get<Product>(id);
+//                    if (product.Buyers.Contains(buyer) == false)
+//                    {
+//                        product.Buyers.Add(buyer);
+//                        session.Save(product);
+//                        tran.Commit();
+//                    }
+//                }
+//            }
+//
+//            return Ok(id);
+//        }
+
         static byte[] GetBytes(string str)
         {
             var bytes = new byte[str.Length * sizeof(char)];

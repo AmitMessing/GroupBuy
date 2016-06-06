@@ -2,7 +2,10 @@ mainApp
     .controller('productController', [
         '$scope', '$stateParams', '$resource', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $mdDialog, userService) {
 
-            var api = $resource("/GroupBuyServer/api/products/:id", { id: '@id' });
+            var api = $resource("/GroupBuyServer/api/products/:id", { id: '@id' }, {
+                buyers: {method: 'POST'}
+            });
+
             var productId = $stateParams.id;
             $scope.isSeller = false;
             $scope.isBuyer = false;
@@ -71,7 +74,16 @@ mainApp
                         .ok('Got it!')
                     );
                 } else {
-                    
+                    api.save({ id: $scope.product.id, buyer: $scope.currentUser })
+                        .$promise.then(function (product) {
+                        if (product) {
+//                            $scope.product = product;
+//                            calcProduct($scope.product.discounts);
+//                            sortDiscountAascending();
+                        }
+                    }, function (error) {
+                        $scope.errorMessage = error.data.Message;
+                    });
                 }
             };
 
