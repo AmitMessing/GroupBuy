@@ -61,8 +61,19 @@
                         </md-input-container>
                         <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
  
-                        <md-icon class="material-icons" ng-click="saveReview()">send</md-icon>
+                        <md-icon class="material-icons" ng-click="saveReview()" style="cursor: pointer">send</md-icon>
                     </div>
+                    <md-card ng-repeat="review in reviews" class="review-card">
+                        <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
+                            <span class="reviewer">{{review.reviewer}}</span>
+                            <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
+                            <div style="margin-left: auto;">
+                                <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
+                                         class="material-icons review-grade">grade</md-icon>
+                            </div>
+                        </div>
+                        <span>{{review.content}}</span>
+                    </md-card>
                 </div>
             </div>
             <img class="product-img" src="{{product.img}}" />

@@ -3,6 +3,7 @@ using System.Linq;
 using System.Web.Http;
 using GroupBuyServer.Models;
 using GroupBuyServer.Utils;
+using GroupBuyServer.ViewModels;
 using NHibernate.Linq;
 
 namespace GroupBuyServer.Controllers
@@ -36,7 +37,12 @@ namespace GroupBuyServer.Controllers
                     session.Query<Review>()
                         .Where(x => (x.OnUserId == id && x.IsOnSeller)).ToList();
 
-                return Ok(reviews);
+                var reviewersId = reviews.Select(x => x.ReviewerId).ToList();
+                var users = session.Query<User>()
+                    .Where(x => reviewersId.Contains(x.Id))
+                    .ToDictionary(x => x.Id, y => y.UserName);
+
+                return Ok(reviews.Select(x => new ReviewViewModel(x, users[x.ReviewerId])));
             }
         }
 

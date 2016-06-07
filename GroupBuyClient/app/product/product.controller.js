@@ -75,9 +75,10 @@ mainApp
                 $scope.newReview.productId = $scope.product.id;
                 $scope.newReview.publishDate = new Date();
                 return reviewsApi.save($scope.newReview).$promise
-                    .then(function(review) {
-                        var b = review;
-                    }, function(error) {
+                    .then(function (review) {
+                    review.reviewer = $scope.currentUser.userName;
+                    $scope.reviews.push(review);
+                }, function(error) {
                         $scope.errorMessage = error.data.Message;
                     });
             };
@@ -153,6 +154,10 @@ mainApp
                     return format[2] + "." + format[1] + "." + format[0];
                 }
             };
+
+        $scope.getRatingArray = function(rating) {
+            return new Array(rating);
+        };
 
             initData(productId);
         }

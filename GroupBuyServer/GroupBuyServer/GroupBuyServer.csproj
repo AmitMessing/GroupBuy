@@ -112,6 +112,7 @@
     <Compile Include="Utils\NHibernateHandler.cs" />
     <Compile Include="ViewModels\ProductBuyerViewModel.cs" />
     <Compile Include="ViewModels\ProductViewModel.cs" />
+    <Compile Include="ViewModels\ReviewViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

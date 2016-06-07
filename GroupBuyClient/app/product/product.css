@@ -43,6 +43,26 @@
     color: red;
 }
 
+.product-page .review-card {
+    height: 64px;
+    padding: 8px;
+}
+
+.product-page .review-card .reviewer {
+    color: #03A9F4;
+}
+
+.product-page .review-card .date {
+    color: gray;
+    font-size: 10px;
+}
+
+.product-page .review-card .review-grade {
+    text-shadow: .05em .05em #aaa;
+    font-size: 20px;
+    color: #fd0
+}
+
 .buyers-dialog {
     width: 400px;
     height: 500px;
