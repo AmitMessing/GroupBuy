@@ -52,6 +52,18 @@
                         </div>
                     </div>
                 </div>
+                
+                <div class="reviews" layout="column">
+                    <div class="new-review" layout="row" layout-align="start center">
+                        <md-input-container style="width: 100%; margin-top: 40px">
+                            <label>write a review about the seller</label>
+                            <input ng-model="newReview.content">
+                        </md-input-container>
+                        <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
+ 
+                        <md-icon class="material-icons">send</md-icon>
+                    </div>
+                </div>
             </div>
             <img class="product-img" src="{{product.img}}" />
         </div>

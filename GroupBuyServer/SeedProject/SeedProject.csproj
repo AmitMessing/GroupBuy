@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Category.cs" />
-    <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\Discount.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\User.cs" />

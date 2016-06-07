@@ -10,12 +10,6 @@ namespace GroupBuyServer.Controllers
     [RoutePrefix("GroupBuyServer/api/buyers")]
     public class BuyersController : ApiController
     {
-        [HttpGet]
-        public IHttpActionResult Get(Guid id)
-        {
-            return Ok(id);
-        }
-
         [HttpPost]
         public IHttpActionResult Save(ProductBuyerViewModel productBuyerViewModel)
         {

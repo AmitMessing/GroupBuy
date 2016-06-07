@@ -4,11 +4,14 @@ mainApp
 
             var api = $resource("/GroupBuyServer/api/products");
             var buyersApi = $resource("/GroupBuyServer/api/buyers");
+            var reviewsApi = $resource("/GroupBuyServer/api/onSellerReviews");
 
             var productId = $stateParams.id;
             $scope.isSeller = false;
             $scope.isBuyer = false;
             $scope.isExpierd = false;
+            $scope.newReview = {};
+            $scope.newReview.rating = 3;
 
             var calcProduct = function(discounts) {
                 // Check current discount
@@ -52,12 +55,23 @@ mainApp
                 });
             };
 
+        var bla = function(sellerId) {
+            return reviewsApi.query({ id: sellerId }).$promise.then(function (sherker) {
+                if (sherker) {
+                    var f = sherker;
+                }
+            }, function (error) {
+                $scope.errorMessage = error.data.Message;
+            });
+        };
+
             var initData = function(id) {
                 $scope.currentUser = userService.getLoggedUser();
 
                 return api.get({ id: id }).$promise.then(function(product) {
                     if (product) {
                         $scope.product = product;
+                        bla(product.seller.id);
                         calcProduct($scope.product.discounts);
                         sortDiscountAascending();
                     }

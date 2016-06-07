@@ -28,7 +28,7 @@ namespace GroupBuyServer.Models
             Id(x => x.Id, "id");
 
             Map(x => x.Name, "name");
-            Map(x => x.Description, "description");
+            Map(x => x.Description, "description").Length(10000);
             References(x => x.Seller).Column("seller_id");
             Map(x => x.PublishDate, "publish_date");
             Map(x => x.BasicPrice, "basic_price");
