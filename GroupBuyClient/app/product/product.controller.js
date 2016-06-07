@@ -37,7 +37,10 @@ mainApp
                     $scope.isSeller = true;
                 }
 
-                if ($scope.product.buyers.indexOf($scope.currentUser.userName) !== -1) {
+                var buyersUserName = $scope.product.buyers.map(function (buyer) {
+                    return buyer.userName;
+                });
+                if (buyersUserName.indexOf($scope.currentUser.userName) !== -1) {
                     $scope.isBuyer = true;
                 }
 
