@@ -94,6 +94,23 @@ namespace GroupBuyServer.Controllers
             }
         }
 
+        [HttpPut]
+        public IHttpActionResult UpdateEndDate(ProductViewModel product)
+        {
+            using (var session = NHibernateHandler.CurrSession)
+            {
+                using (var tran = session.BeginTransaction())
+                {
+                    var productFromDb = session.Get<Product>(product.Id);
+                    productFromDb.EndDate = product.EndDate;
+
+                    session.Save(productFromDb);
+                    tran.Commit();
+                    return Ok();
+                }
+            }
+        }
+
         static byte[] GetBytes(string str)
         {
             var bytes = new byte[str.Length * sizeof(char)];

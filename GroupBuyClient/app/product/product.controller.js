@@ -2,7 +2,10 @@ mainApp
     .controller('productController', [
         '$scope', '$stateParams', '$resource', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $mdDialog, userService) {
 
-            var api = $resource("/GroupBuyServer/api/products");
+        var api = $resource("/GroupBuyServer/api/products", null,
+        {
+            'update': { method: 'PUT' }
+        });
             var buyersApi = $resource("/GroupBuyServer/api/buyers");
             var reviewsApi = $resource("/GroupBuyServer/api/onSellerReviews");
 
@@ -10,10 +13,9 @@ mainApp
             $scope.isSeller = false;
             $scope.isBuyer = false;
             $scope.isExpierd = false;
-            $scope.newReview = {};
-            $scope.newReview.rating = 3;
+            $scope.newReview = { rating: 3 };
 
-            var calcProduct = function(discounts) {
+        var calcProduct = function(discounts) {
                 // Check current discount
                 var orderdDiscounts = discounts.sort(function(a, b) {
                     return b.usersAmount - a.usersAmount;
@@ -45,12 +47,21 @@ mainApp
                 }
 
                 var today = new Date();
-                var endDate = new Date($scope.product.endDate.replace("T", " ").replace(/-/g, "/"));
+                $scope.endDate = new Date($scope.product.endDate.replace("T", " ").replace(/-/g, "/"));
 
-                if (endDate < today) {
+                if ($scope.endDate < today) {
                     $scope.isExpierd = true;
                 }
-            };
+        };
+
+        $scope.onEndDateChanged = function() {
+            $scope.product.endDate = $scope.endDate;
+            return api.update({product: $scope.product}).$promise.then(function () {
+                var t = 'f';
+            }, function (error) {
+                $scope.errorMessage = error.data.Message;
+            });
+        };
 
             var sortDiscountAascending = function() {
                 return $scope.product.discounts.sort(function(a, b) {
@@ -70,20 +81,24 @@ mainApp
             };
 
             $scope.saveReview = function() {
-                $scope.newReview.reviewerId = $scope.currentUser.id;
-                $scope.newReview.onUserId = $scope.product.seller.id;
-                $scope.newReview.productId = $scope.product.id;
                 $scope.newReview.publishDate = new Date();
                 return reviewsApi.save($scope.newReview).$promise
-                    .then(function (review) {
-                    review.reviewer = $scope.currentUser.userName;
-                    $scope.reviews.push(review);
-                }, function(error) {
+                    .then(function(review) {
+                        review.reviewer = $scope.currentUser.userName;
+                        $scope.reviews.push(review);
+                        $scope.newReview = {
+                            rating: 3,
+                            reviewerId: $scope.currentUser.id,
+                            onUserId: $scope.product.seller.id,
+                            productId: $scope.product.id
+                        };
+                    }, function(error) {
                         $scope.errorMessage = error.data.Message;
                     });
             };
 
-            var initData = function(id) {
+            var initData = function (id) {
+                $scope.loading = true;
                 $scope.currentUser = userService.getLoggedUser();
 
                 return api.get({ id: id }).$promise.then(function(product) {
@@ -92,9 +107,19 @@ mainApp
                         loadReviews();
                         calcProduct($scope.product.discounts);
                         sortDiscountAascending();
+
+                        $scope.newReview = {
+                            rating: 3,
+                            reviewerId: $scope.currentUser.id,
+                            onUserId: $scope.product.seller.id,
+                            productId: $scope.product.id
+                        };
+
+                        $scope.loading = false;
                     }
                 }, function(error) {
                     $scope.errorMessage = error.data.Message;
+                    $scope.loading = false;
                 });
             };
 

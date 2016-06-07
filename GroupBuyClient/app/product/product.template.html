@@ -1,4 +1,7 @@
-﻿<div flex layout="row" class="product-page" layout-align="start center">
+﻿<div layout="row" layout-align="center center" ng-show="loading">
+    <md-progress-circular md-mode="indeterminate" md-diameter="124"></md-progress-circular>
+</div>
+<div flex layout="row" class="product-page" layout-align="start center" ng-show="!loading">
     <div layout="row">
         <div layout="row" class="product-details">
             <div layout="column">
@@ -7,16 +10,22 @@
                 </div>
                 <label class="current-price">Current price: {{currentPrice}} $</label>
                 <div>
-                    <b>Seller: </b> 
+                    <b>Seller: </b>
                     <a href="">
                         {{product.seller.fullName}}
                     </a>
                 </div>
-                <div>
-                    <span>
+                <div layout="row" layout-align="start center">
+                    <span ng-show="!isSeller">
                         <b>Expired Date: </b>
                         <span ng-class="{'expierd-date': isExpierd}">{{dateFormat(product.endDate)}}</span>
-                    </span> 
+                    </span>
+                    <span ng-show="isSeller" layout="row" layout-align="start center">
+                        <b>Expired Date: </b>
+                        <md-datepicker ng-change="onEndDateChanged()" ng-model="endDate" md-placeholder="Select end date">
+                        </md-datepicker>
+                        
+                    </span>
                 </div>
                 <p style="width: 500px;">{{product.description}}</p>
                 <div layout="row">
@@ -27,10 +36,10 @@
                 <div style="margin-top: 10px; display: inline;">
                     <label>Number of buyers: {{product.buyers.length}}</label>
                     <md-button ng-click="showBuyers()">Buyers details</md-button>
-<!--                    <div style="display: inline; margin-left: 120px; color: deepskyblue;">-->
-<!--                        <i class="material-icons">thumb_up</i>-->
-<!--                        <i class="material-icons">thumb_down</i>-->
-<!--                    </div>-->
+                    <!--                    <div style="display: inline; margin-left: 120px; color: deepskyblue;">-->
+                    <!--                        <i class="material-icons">thumb_up</i>-->
+                    <!--                        <i class="material-icons">thumb_down</i>-->
+                    <!--                    </div>-->
                 </div>
                 <div class="discount" layout="row">
                     <div class="amount" layout="column">
@@ -52,7 +61,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="reviews" layout="column">
                     <div class="new-review" layout="row" layout-align="start center">
                         <md-input-container style="width: 100%; margin-top: 40px">
@@ -60,7 +69,7 @@
                             <input ng-model="newReview.content">
                         </md-input-container>
                         <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
- 
+
                         <md-icon class="material-icons" ng-click="saveReview()" style="cursor: pointer">send</md-icon>
                     </div>
                     <md-card ng-repeat="review in reviews" class="review-card">
