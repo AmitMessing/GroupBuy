@@ -37,7 +37,7 @@ mainApp
                     $scope.isSeller = true;
                 }
 
-                var buyersUserName = $scope.product.buyers.map(function (buyer) {
+                var buyersUserName = $scope.product.buyers.map(function(buyer) {
                     return buyer.userName;
                 });
                 if (buyersUserName.indexOf($scope.currentUser.userName) !== -1) {
@@ -58,15 +58,29 @@ mainApp
                 });
             };
 
-        var bla = function(sellerId) {
-            return reviewsApi.query({ id: sellerId }).$promise.then(function (sherker) {
-                if (sherker) {
-                    var f = sherker;
-                }
-            }, function (error) {
-                $scope.errorMessage = error.data.Message;
-            });
-        };
+            var loadReviews = function() {
+                return reviewsApi.query({ id: $scope.product.seller.id }).$promise
+                    .then(function(reviews) {
+                        if (reviews) {
+                            $scope.reviews = _.filter(reviews, function(review) { return review.productId === $scope.product.id; });
+                        }
+                    }, function(error) {
+                        $scope.errorMessage = error.data.Message;
+                    });
+            };
+
+            $scope.saveReview = function() {
+                $scope.newReview.reviewerId = $scope.currentUser.id;
+                $scope.newReview.onUserId = $scope.product.seller.id;
+                $scope.newReview.productId = $scope.product.id;
+                $scope.newReview.publishDate = new Date();
+                return reviewsApi.save($scope.newReview).$promise
+                    .then(function(review) {
+                        var b = review;
+                    }, function(error) {
+                        $scope.errorMessage = error.data.Message;
+                    });
+            };
 
             var initData = function(id) {
                 $scope.currentUser = userService.getLoggedUser();
@@ -74,7 +88,7 @@ mainApp
                 return api.get({ id: id }).$promise.then(function(product) {
                     if (product) {
                         $scope.product = product;
-                        bla(product.seller.id);
+                        loadReviews();
                         calcProduct($scope.product.discounts);
                         sortDiscountAascending();
                     }

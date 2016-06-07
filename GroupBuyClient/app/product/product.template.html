@@ -61,7 +61,7 @@
                         </md-input-container>
                         <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
  
-                        <md-icon class="material-icons">send</md-icon>
+                        <md-icon class="material-icons" ng-click="saveReview()">send</md-icon>
                     </div>
                 </div>
             </div>
