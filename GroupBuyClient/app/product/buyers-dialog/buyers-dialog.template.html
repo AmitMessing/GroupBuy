@@ -12,6 +12,9 @@
         <md-dialog-content>
             <div class="buyer" ng-repeat="buyer in buyers" layout="row" layout-align="start center">
                 <span style="margin-right: 8px;">{{buyer.fullName}}</span><span>({{buyer.userName}})</span>
+                <md-button ng-show="isSeller" style="margin-left: auto" class="md-icon-button" ng-click="deleteBuyer(buyer)">
+                    <md-icon class="material-icons">clear</md-icon>
+                </md-button>
             </div>
         </md-dialog-content>
     </form>

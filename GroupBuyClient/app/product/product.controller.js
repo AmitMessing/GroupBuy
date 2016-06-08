@@ -2,9 +2,9 @@ mainApp
     .controller('productController', [
         '$scope', '$stateParams', '$resource', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $mdDialog, userService) {
 
-        var api = $resource("/GroupBuyServer/api/products", null,
+        var api = $resource('/GroupBuyServer/api/products', null,
         {
-            'update': { method: 'PUT' }
+            'update': { method: 'POST', url: '/GroupBuyServer/api/products/bla' }
         });
             var buyersApi = $resource("/GroupBuyServer/api/buyers");
             var reviewsApi = $resource("/GroupBuyServer/api/onSellerReviews");
@@ -71,11 +71,11 @@ mainApp
 
         $scope.onEndDateChanged = function() {
             $scope.product.endDate = $scope.endDate;
-            return api.update({product: $scope.product}).$promise.then(function () {
-                var t = 'f';
-            }, function (error) {
-                $scope.errorMessage = error.data.Message;
-            });
+//            return api.update($scope.product).$promise.then(function () {
+//                var t = 'f';
+//            }, function (error) {
+//                $scope.errorMessage = error.data.Message;
+//            });
         };
 
             var sortDiscountAascending = function() {
@@ -144,7 +144,7 @@ mainApp
                 return (price - ((price * discount) / 100)).toFixed(2);
             };
 
-            $scope.joinGroup = function() {
+            $scope.joinGroup = function () {
                 if (!$scope.currentUser) {
                     $mdDialog.show(
                         $mdDialog.alert()
@@ -178,14 +178,11 @@ mainApp
                     parent: angular.element(document.body),
                     clickOutsideToClose: true,
                     locals: {
-                        buyers: $scope.product.buyers
+                        buyers: $scope.product.buyers,
+                        product: $scope.product.id,
+                        isSeller: $scope.isSeller
                     },
-                    controller: function(scope, buyers) {
-                        scope.buyers = buyers;
-                        scope.cancel = function() {
-                            $mdDialog.cancel();
-                        };
-                    }
+                    controller: 'buyersDialogController'
                 });
             };
 
