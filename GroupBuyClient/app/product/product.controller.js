@@ -98,9 +98,10 @@ mainApp
             $scope.saveReview = function() {
                 $scope.newReview.publishDate = new Date();
                 return reviewsApi.save($scope.newReview).$promise
-                    .then(function(review) {
-                        review.reviewer = $scope.currentUser.userName;
-                        $scope.reviews.push(review);
+                    .then(function (newRate) {
+                        $scope.product.seller.rating = newRate.newRating;
+                        $scope.newReview.reviewer = $scope.currentUser.userName;
+                        $scope.reviews.push($scope.newReview);
                         $scope.newReview = {
                             rating: 3,
                             reviewerId: $scope.currentUser.id,

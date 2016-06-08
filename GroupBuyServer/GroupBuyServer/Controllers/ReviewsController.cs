@@ -12,16 +12,44 @@ namespace GroupBuyServer.Controllers
     {
         protected IHttpActionResult SaveInDb(Review review)
         {
+            float newRating;
+
             using (var session = NHibernateHandler.CurrSession)
             {
                 using (var tran = session.BeginTransaction())
                 {
+                    var reviews =
+                    session.Query<Review>()
+                        .Where(x => (x.OnUserId == review.OnUserId && x.IsOnSeller == review.IsOnSeller)).Select(x => x.Rating).ToList();
+
+                    if (!reviews.Any())
+                    {
+                        newRating = review.Rating;
+                    }
+                    else
+                    {
+                        double avg = ((double)(reviews.Sum() + review.Rating)) / ((double)(reviews.Count() + 1));
+                        newRating = (float)Math.Round(avg, MidpointRounding.AwayFromZero);
+                    }
+
+                    var user = session.Get<User>(review.OnUserId);
+
+                    if (review.IsOnSeller)
+                    {
+                        user.SellerRate = newRating;
+                    }
+                    else
+                    {
+                        user.BuyerRate = newRating;
+                    }
+
                     session.Save(review);
+                    session.Save(user);
                     tran.Commit();
                 }
             }
 
-            return Ok(review);
+            return Ok(new { newRating });
         }
     }
 
@@ -64,9 +92,14 @@ namespace GroupBuyServer.Controllers
             {
                 var reviews =
                     session.Query<Review>()
-                        .Where(x => (x.OnUserId == id && x.IsOnSeller == false)).ToList();
+                        .Where(x => (x.OnUserId == id && !x.IsOnSeller)).ToList();
 
-                return Ok(reviews);
+                var reviewersId = reviews.Select(x => x.ReviewerId).ToList();
+                var users = session.Query<User>()
+                    .Where(x => reviewersId.Contains(x.Id))
+                    .ToDictionary(x => x.Id, y => y.UserName);
+
+                return Ok(reviews.Select(x => new ReviewViewModel(x, users[x.ReviewerId])));
             }
         }
 

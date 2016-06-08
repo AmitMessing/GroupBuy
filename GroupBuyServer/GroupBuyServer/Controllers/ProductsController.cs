@@ -31,7 +31,8 @@ namespace GroupBuyServer.Controllers
                     {
                         Id = product.Seller.Id, 
                         UserName = product.Seller.UserName, 
-                        FullName = product.Seller.FirstName + " " + product.Seller.LastName
+                        FullName = product.Seller.FirstName + " " + product.Seller.LastName,
+                        Rating = product.Seller.SellerRate
                     },
                     Buyers = product.Buyers.Select(x => 
                         new BuyerViewModel

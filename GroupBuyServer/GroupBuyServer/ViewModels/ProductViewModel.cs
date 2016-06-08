@@ -29,6 +29,7 @@ namespace GroupBuyServer.ViewModels
         public Guid Id { get; set; }
         public string UserName { get; set; }
         public string FullName { get; set; }
+        public float Rating { get; set; }
     }
 
     public class DiscountViewModel
