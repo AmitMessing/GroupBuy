@@ -68,7 +68,7 @@ namespace GroupBuyServer.Controllers
                         Categories = new List<Category>(),
                         Description = product.Description,
                         EndDate = product.EndDate.Date,
-                        Image = GetBytes(product.Image),
+                        Image = product.Image,
                         Name = product.Name,
                         PublishDate = DateTime.Now,
                         Seller = userFromDb

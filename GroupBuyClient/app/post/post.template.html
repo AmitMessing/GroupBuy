@@ -1,4 +1,4 @@
-﻿<div layout="row" class="product-page">
+﻿<div layout="row" class="post-page">
     <div layout="column" flex>
         <div layout="row">
             <div layout="column" flex>
@@ -9,7 +9,7 @@
             </div>
             <md-input-container>
                 <label>Basic price in $</label>
-                <input type="number" ng-model="product.basicPrice">
+                <input type="number" min="1" ng-model="product.basicPrice">
             </md-input-container>
         </div>
         <div layout="row">
@@ -36,19 +36,23 @@
                         <tr md-row>
                             <th md-column md-numeric class="cell-align table-header">Number of buyers</th>
                             <th md-column md-numeric class="cell-align table-header">Discount percentage %</th>
+                            <th md-column md-numeric class="cell-align table-header"></th>
                         </tr>
                         </thead>
                         <tbody md-body>
                         <tr md-row md-select="discounts" md-select-id="name" md-auto-select ng-repeat="discount in discounts">
                             <td md-cell>
                                 <md-input-container flex layout="row">
-                                    <input type="number" ng-model="discount.usersAmount" flex>
+                                    <input type="number" min="1" ng-model="discount.usersAmount" flex>
                                 </md-input-container>
                             </td>
                             <td md-cell>
                                 <md-input-container flex layout="row">
-                                    <input type="number" ng-model="discount.precent" flex>
+                                    <input type="number" min="1" ng-model="discount.precent" flex>
                                 </md-input-container>
+                            </td>
+                            <td md-cell>
+                                <md-button ng-click="removeDiscount(discount)">X</md-button>
                             </td>
                         </tr>
                         </tbody>
@@ -61,11 +65,11 @@
         </div>
     </div>
     <div class="upload-pic btn btn-primary" layout="column" layout-padding>
-        <input ng-model="product.image" type="file" name="imageLoader" class="button-upload" id="imageLoader" accept="Image/*" onchange="handleImage()" />
+        <input ng-model="product.image" type="file" name="imageLoader" class="button-upload" id="imageLoader" accept="Image/*" onchange="handleImage()"/>
         <canvas id="imageCanvas" class="image-canvas"></canvas>
     </div>
 </div>
 
 <div layout="row">
-    <md-button class="md-raised md-primary md-fab add-post-button" ng-click="save()">Save</md-button>
+    <md-button class="md-raised md-primary md-fab add-post-button" ng-click="save($event)">Save</md-button>
 </div>

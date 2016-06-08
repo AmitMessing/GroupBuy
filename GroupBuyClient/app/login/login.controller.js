@@ -26,7 +26,7 @@ mainApp
             var validateLoginFields = function () {
                 if ($scope.loginDetails.userName === "" || $scope.loginDetails.userName === undefined ||
                     $scope.loginDetails.password === "" || $scope.loginDetails.password === undefined) {
-                    $scope.error = "נא למלא את כל השדות";
+                    $scope.error = "Please enter user name and password";
                     return false;
                 }
                 return true;
@@ -36,7 +36,7 @@ mainApp
                 if (validateLoginFields()) {
                     loginUser.save($scope.loginDetails)
                         .$promise.then(function(user) {
-                            if (user) {
+                            if (user.id) {
                                 userService.setLoggedUSer(user);
                                 $state.go('shell.home', {}, { reload: true });
                             }
