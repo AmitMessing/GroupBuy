@@ -34,6 +34,11 @@ mainApp
 
                 $scope.currentPrice = $scope.calcPrice(currentDiscountPrecent);
 
+                $scope.product.descriptionDisplay = $scope.product.description;
+            if ($scope.product.description.length > 600) {
+                $scope.product.descriptionDisplay = $scope.product.description.substring(0, 600) + '...';
+            }
+
                 // Update current user status
                 if ($scope.product.seller.userName === $scope.currentUser.userName) {
                     $scope.isSeller = true;
@@ -52,6 +57,16 @@ mainApp
                 if ($scope.endDate < today) {
                     $scope.isExpierd = true;
                 }
+        };
+
+        $scope.openDescription = function() {
+            $mdDialog.show(
+                        $mdDialog.alert()
+                        .clickOutsideToClose(true)
+                        .title('Full Description')
+                        .textContent($scope.product.description)
+                        .ok('Got it!')
+                    );
         };
 
         $scope.onEndDateChanged = function() {
