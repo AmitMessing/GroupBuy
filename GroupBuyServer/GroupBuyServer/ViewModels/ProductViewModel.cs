@@ -21,6 +21,7 @@ namespace GroupBuyServer.ViewModels
 
     public class BuyerViewModel
     {
+        public Guid Id { get; set; }
         public string UserName { get; set; }
         public string FullName { get; set; }
     }

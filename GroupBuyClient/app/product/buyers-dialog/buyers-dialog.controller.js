@@ -1,6 +1,6 @@
 mainApp
     .controller('buyersDialogController', [
-        '$scope', '$mdDialog', '$resource', 'buyers', 'product', 'isSeller', function ($scope, $mdDialog, $resource, buyers, product, isSeller) {
+        '$scope', '$mdDialog', '$resource', '$state', 'buyers', 'product', 'isSeller', function ($scope, $mdDialog, $resource, $state, buyers, product, isSeller) {
             var buyersApi = $resource("/GroupBuyServer/api/buyers");
             $scope.buyers = buyers;
             $scope.productId = product;
@@ -17,6 +17,11 @@ mainApp
                         return item.userName === result.buyer;
                     });
                 });
+            };
+
+            $scope.showUser = function (user) {
+                $mdDialog.cancel();
+                $state.go('shell.user', { id: user });
             };
         }
     ]);

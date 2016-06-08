@@ -1,6 +1,6 @@
 mainApp
     .controller('productController', [
-        '$scope', '$stateParams', '$resource', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $mdDialog, userService) {
+        '$scope', '$stateParams', '$resource', '$state', '$mdDialog', 'userService', function ($scope, $stateParams, $resource, $state, $mdDialog, userService) {
 
         var api = $resource('/GroupBuyServer/api/products', null,
         {
@@ -71,11 +71,6 @@ mainApp
 
         $scope.onEndDateChanged = function() {
             $scope.product.endDate = $scope.endDate;
-//            return api.update($scope.product).$promise.then(function () {
-//                var t = 'f';
-//            }, function (error) {
-//                $scope.errorMessage = error.data.Message;
-//            });
         };
 
             var sortDiscountAascending = function() {
@@ -112,6 +107,10 @@ mainApp
                 }, function(error) {
                         $scope.errorMessage = error.data.Message;
                     });
+            };
+
+            $scope.showUser = function(user) {
+                $state.go('shell.user', { id: user });
             };
 
             var initData = function (id) {

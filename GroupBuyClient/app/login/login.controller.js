@@ -2,10 +2,11 @@ mainApp
     .controller('loginController', [
         '$scope', '$stateParams', '$state', '$resource', 'userService', function ($scope, $stateParams, $state, $resource, userService) {
             $scope.user = {};
+            $scope.logging = false;
 
-            $scope.register = function() {
-                $state.go("shell.register");
-            }
+        $scope.register = function() {
+            $state.go("shell.register");
+        };
 
             var loginUser = $resource("/GroupBuyServer/api/login", {});
 
@@ -34,6 +35,7 @@ mainApp
 
             $scope.login = function () {
                 if (validateLoginFields()) {
+                    $scope.logging = true;
                     loginUser.save($scope.loginDetails)
                         .$promise.then(function(user) {
                             if (user.id) {
@@ -43,8 +45,10 @@ mainApp
                             else {
                                 $scope.error = error.data.message;
                             }
+                            $scope.logging = false;
                         }, function(error) {
-                             $scope.error = error.data.message;
+                            $scope.error = error.data.message;
+                            $scope.logging = false;
                         });
                 }
             };

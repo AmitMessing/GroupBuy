@@ -38,6 +38,7 @@ namespace GroupBuyServer.Controllers
                     Buyers = product.Buyers.Select(x => 
                         new BuyerViewModel
                         {
+                            Id = x.Id,
                             UserName = x.UserName, 
                             FullName = x.FirstName + " " + x.LastName
                         }).ToList(),

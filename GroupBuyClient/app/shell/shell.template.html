@@ -1,9 +1,6 @@
 ﻿<div layout="column" layout-align="start center">
     <md-toolbar class="main-toolbar" scroll ng-class="{scrolling:boolChangeClass}" ng-mouseleave="isSearching = false">
         <div class="md-toolbar-tools">
-            <md-button class="md-icon-button" ng-click="" aria-label="Menu">
-                <md-icon class="material-icons md-dark">menu</md-icon>
-            </md-button>
             <div class="logo" ng-class="{scrolling:boolChangeClass}" ng-click="goHome()">
                 <h2>
                     <span>
@@ -38,9 +35,10 @@
                 <md-tooltip>View Cart</md-tooltip>
             </md-button>
             <div ng-show="!user" class="lock-size" ng-cloak layout="row" layout-align="center center">
-                <md-button class="more-button md-fab" style="padding: 0" aria-label="More" ng-click="gotoLogin()">
-                    <md-icon class="material-icons user-pic">perm_identity</md-icon>
-                </md-button>
+                <md-button ng-click="gotoLogin()">LOG IN</md-button>
+                <!--                <md-button class="more-button md-fab" style="padding: 0" aria-label="More" ng-click="gotoLogin()">-->
+                <!--                    <md-icon class="material-icons user-pic">perm_identity</md-icon>-->
+                <!--                </md-button>-->
             </div>
             <div ng-show="user" class="lock-size" ng-cloak layout="row" layout-align="center center">
                 <md-fab-speed-dial style="height: 40px !important" class="md-fling" md-open="isOpen" md-direction="down">

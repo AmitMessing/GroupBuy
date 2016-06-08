@@ -11,7 +11,7 @@
             <div class="product-name">
                 {{product.name}}
             </div>
-            <span class="seller-name ">BY <md-button>{{product.seller.fullName}}</md-button> ({{product.seller.rating}}
+            <span class="seller-name ">BY <md-button ng-click="showUser(product.seller.id)">{{product.seller.fullName}}</md-button> ({{product.seller.rating}}
             <md-icon style="font-size: 20px;" class="material-icons">grade</md-icon>)</span>
             <label class="current-price">Current price: {{currentPrice}} $</label>
             <div layout="row" layout-align="start center">
