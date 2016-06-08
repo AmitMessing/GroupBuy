@@ -84,7 +84,15 @@ mainApp
                 });
             };
 
-            var loadReviews = function() {
+            var loadReviews = function () {
+
+                $scope.newReview = {
+                    rating: 3,
+                    reviewerId: $scope.currentUser.id,
+                    onUserId: $scope.product.seller.id,
+                    productId: $scope.product.id
+                };
+
                 return reviewsApi.query({ id: $scope.product.seller.id }).$promise
                     .then(function(reviews) {
                         if (reviews) {
@@ -100,15 +108,8 @@ mainApp
                 return reviewsApi.save($scope.newReview).$promise
                     .then(function (newRate) {
                         $scope.product.seller.rating = newRate.newRating;
-                        $scope.newReview.reviewer = $scope.currentUser.userName;
-                        $scope.reviews.push($scope.newReview);
-                        $scope.newReview = {
-                            rating: 3,
-                            reviewerId: $scope.currentUser.id,
-                            onUserId: $scope.product.seller.id,
-                            productId: $scope.product.id
-                        };
-                    }, function(error) {
+                        loadReviews();
+                }, function(error) {
                         $scope.errorMessage = error.data.Message;
                     });
             };
@@ -123,13 +124,6 @@ mainApp
                         loadReviews();
                         calcProduct($scope.product.discounts);
                         sortDiscountAascending();
-
-                        $scope.newReview = {
-                            rating: 3,
-                            reviewerId: $scope.currentUser.id,
-                            onUserId: $scope.product.seller.id,
-                            productId: $scope.product.id
-                        };
 
                         $scope.loading = false;
                     }

@@ -27,6 +27,7 @@ namespace GroupBuyServer.Controllers
                     BasicPrice = product.BasicPrice,
                     PublishDate = product.PublishDate,
                     EndDate = product.EndDate,
+                    Image = product.Image,
                     Seller = new SellerViewModel
                     {
                         Id = product.Seller.Id, 
