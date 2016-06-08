@@ -19,11 +19,14 @@ mainApp
         return content.slice(0, 76) + '...';
     };
 
-        var onload = function() {
+    var onload = function () {
+        $scope.loading = true;
             homeApi.get().$promise.then(function(result) {
                 $scope.products = result;
+                $scope.loading = false;
             }, function(error) {
                 var i = error;
+                $scope.loading = false;
             });
         };
 
