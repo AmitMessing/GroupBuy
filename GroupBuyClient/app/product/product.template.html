@@ -26,6 +26,11 @@
 
                 </span>
             </div>
+            <div class="categories" style="margin-top: 5px;">
+                <div class="category-card" ng-repeat="category in product.categories">
+                    {{category}}
+                </div>
+            </div>
             <p class="description" ng-click="openDescription()">{{product.descriptionDisplay}}</p>
         </div>
         <!--        Right-->

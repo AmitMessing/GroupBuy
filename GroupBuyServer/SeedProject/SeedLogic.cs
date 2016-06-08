@@ -158,6 +158,7 @@ namespace SeedProject
                     foreach (var product in products)
                     {
                         Category category = Categories.FirstOrDefault(x => x.Id == product["cat_id"].Value<int>());
+
                         if (category != null && product["price"] != null)
                         {
                             var newProduct = new Product
@@ -196,6 +197,21 @@ namespace SeedProject
                                     found = (!newProduct.Buyers.Contains(user)) && (newProduct.Seller != user);
                                 }
                                 newProduct.Buyers.Add(user);
+                            }
+
+                            for (var i = 0; i < 8; i++)
+                            {
+                                bool found = false;
+                                var category1 = new Category();
+
+                                while (!found)
+                                {
+                                    int next = random.Next(0, Categories.Count - 1);
+                                    category1 = Categories[next];
+                                    found = !newProduct.Categories.Contains(category1);
+                                }
+
+                                newProduct.Categories.Add(category1);
                             }
 
                             allProducts.Add(newProduct);
