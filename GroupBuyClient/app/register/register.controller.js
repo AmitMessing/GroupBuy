@@ -9,12 +9,28 @@ mainApp
                 userName: "",
                 password: "",
                 email: "",
-                image: ""
+                image: "",
+                registerDate: ""
             };
 
-            document.getElementById("uploadBtn").onchange = function () {
-                document.getElementById("uploadFile").value = this.value;
+            $scope.uploadMessage = "Click to select picture";
+            var imageLoader = document.getElementById("uploadBtn");
+
+            function handleImage(e) {
+                var reader = new FileReader();
+                reader.onload = function (event) {
+                    var img = new Image();
+                    img.onload = function() {
+                        $scope.product.image = event.srcElement.result;
+                    }
+                }
+                reader.readAsDataURL(e.target.files[0]);
+            }
+            imageLoader.addEventListener('change', handleImage, false);
+           
+            imageLoader.onchange = function () {
                 $scope.user.image = this.value;
+                $scope.uploadMessage = this.value;
             };
 
             var validateUser = function(user) {

@@ -12,6 +12,9 @@ namespace GroupBuyServer.Models
         public virtual string Password { get; set; }
         public virtual float SellerRate { get; set; }
         public virtual float BuyerRate { get; set; }
+        public virtual string Image { get; set; }
+        public virtual string Email { get; set; }
+        public virtual DateTime RegisterDate { get; set; }
     }
 
     public class UserMap : ClassMap<User>
@@ -27,6 +30,9 @@ namespace GroupBuyServer.Models
             Map(x => x.Password, "password");
             Map(x => x.SellerRate, "seller_rate");
             Map(x => x.BuyerRate, "buyer_rate");
+            Map(x => x.Image, "picture");
+            Map(x => x.RegisterDate, "register_date");
+            Map(x => x.Email, "email").CustomType("StringClob").CustomSqlType("nvarchar(max)");
         }
     }
 }

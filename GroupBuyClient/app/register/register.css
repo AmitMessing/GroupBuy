@@ -19,10 +19,22 @@
 }
 
 .upload-button {
-    border-radius: 70px;
-    width: 60px;
-    height: 60px;
+    border-bottom: 1px solid gainsboro;
+    cursor: pointer;
+    width: 100%;
 }
+
+.click-upload {
+    position: absolute;
+    color:rgba(0,0,0,0.26);
+}
+
+.upload-div {
+    margin-bottom: 55px;
+    margin-top: 25px;
+    margin-left: 3px;
+}
+
 .upload-button:hover {
     cursor: pointer;
 }

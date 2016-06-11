@@ -5,5 +5,17 @@
     border-radius: 75px !important;
 }
 
+.profile-page {
+   height: 560px !important;
+}
+
+.profile-card {
+    height: 560px;
+}
+
+.bold-label {
+    font-weight: bold;
+}
+
 
 

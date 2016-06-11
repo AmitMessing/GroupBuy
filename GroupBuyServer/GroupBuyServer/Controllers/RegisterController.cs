@@ -30,6 +30,7 @@ namespace GroupBuyServer.Controllers
                     }
 
                     user.Id = Guid.NewGuid();
+                    user.RegisterDate = DateTime.Now;
                     session.Save(user);
                     transaction.Commit();
                     return Ok(user);

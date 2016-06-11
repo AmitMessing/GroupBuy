@@ -1,14 +1,31 @@
 mainApp
     .controller('userController', [
-        '$scope', '$stateParams', '$resource', '$state', '$mdDialog', '$mdMedia', 'userService', function ($scope, $stateParams, $resource, $state, $mdDialog, $mdMedia, userService) {
+        '$scope', '$stateParams', '$resource', '$state', '$mdDialog', '$mdMedia', 'userService',
+        function ($scope, $stateParams, $resource, $state, $mdDialog, $mdMedia, userService) {
 
-            var userSave = $resource("/GroupBuyServer/api/user", {});
-            $scope.user = {
+            var userApi = $resource("/GroupBuyServer/api/users/user");
+            $scope.currentUser = {
                 firstName: "",
                 lastName: "",
                 userName: "",
-                password: ""
-            };
+                password: "",
+                email: "",
+                registerDate: ""
+        };
+
+            var user = userService.getLoggedUser();
+            if (user != null) {
+                $scope.loggedUser = user;
+            }
+
+            $scope.id = $stateParams.id;
+            if ($scope.id) {
+                userApi.get({ id: $scope.id }).$promise.then(function(result) {
+                    $scope.currentUser = result;
+                });
+            } else {
+                $scope.currentUser = $scope.loggedUser;
+            }
 
             $scope.showSellerComment = function (ev) {
                 $mdDialog.show({
@@ -19,27 +36,6 @@ mainApp
                     clickOutsideToClose: true
                 });
             };
-
-            var user = userService.getLoggedUser();
-            if (user != null) {
-                $scope.user = user;
-                $scope.user.sellerRate = [
-                    {
-                        commenter: "yulia",
-                        content: "coolll products",
-                        date: "22/2/16"
-                    },
-                    {
-                        commenter: "amit",
-                        content: "coolll products ,hkjhkjhk",
-                        date: "22/2/16"
-                    }
-                ];
-            }
-            else {
-                $scope.user = undefined;
-            }
-
 
             var validateUser = function(user) {
                 if (user.firstName === "" || user.firstName === undefined) {
@@ -59,9 +55,9 @@ mainApp
 
             $scope.updateUser = function (user) {
                 if (validateUser(user)) {
-                    userSave.save($scope.user).$promise.then(function(user) {
+                    userApi.save($scope.currentUser).$promise.then(function (user) {
                         if (user) {
-                            userService.setLoggedUSer($scope.user);
+                            userService.setLoggedUSer($scope.currentUser);
                             $state.go("shell.user", {}, { reload: true });
                         }
                     }, function(error) {

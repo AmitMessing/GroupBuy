@@ -17,7 +17,7 @@
             }
 
             $scope.userZone = function() {
-                $state.go('shell.user');
+                $state.go('shell.user', {id: null});
             };
 
             $scope.addPost = function () {

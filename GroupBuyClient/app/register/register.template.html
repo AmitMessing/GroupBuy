@@ -33,17 +33,19 @@
                     <input ng-model="user.email" flex>
                 </md-input-container>
             </div>
-            <div layout="row" flex>
-                <label class="upload-button">
-                    <i class="material-icons">image</i>
-                    <input id="uploadBtn" type="file" class="upload"/>
-                </label>
+            <div layout="row" class="upload-div" flex>
+
+                <label class="upload-button" placeholder="Select picture">
+                    <i class="material-icons" style="font-size: 28px;">image</i>
+                    <label class="click-upload">{{ uploadMessage }}</label>
+                    <input id="uploadBtn" type="file" accept="Image/*" class="upload" onchange="handleImage()" />
+                </label><!--
                 <div class="fileUpload md-button md-primary">
                     <md-input-container flex>
                         <label>upload</label>
                         <input id="uploadFile" ng-model="user.image" disabled="disabled"/>
                     </md-input-container>
-                </div>
+                </div>-->
             </div>
                 <div ng-show="errorMessage != ''">{{errorMessage}}</div>
                 <md-button layout-align="center center" class="md-raised md-primary" style="color: white; width: 100%"
