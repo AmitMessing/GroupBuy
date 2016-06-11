@@ -2,7 +2,7 @@ mainApp
     .controller('registerController', [
         '$scope', '$stateParams', '$resource', '$state', 'userService', function ($scope, $stateParams, $resource,$state, userService) {
 
-            var register = $resource("/GroupBuyServer/api/register", {});
+            var register = $resource("/GroupBuyServer/api/register/register", {});
             $scope.user = {
                 firstName: "",
                 lastName: "",

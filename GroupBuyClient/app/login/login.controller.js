@@ -7,7 +7,7 @@ mainApp
                 $state.go("shell.register");
             }
 
-            var loginUser = $resource("/GroupBuyServer/api/login", {});
+            var loginUser = $resource("/GroupBuyServer/api/login/login", {});
 
             var user = userService.getLoggedUser();
             if (user != null) {
@@ -39,9 +39,6 @@ mainApp
                             if (user) {
                                 userService.setLoggedUSer(user);
                                 $state.go('shell.home', {}, { reload: true });
-                            }
-                            else {
-                                $scope.error = error.data.message;
                             }
                         }, function(error) {
                              $scope.error = error.data.message;

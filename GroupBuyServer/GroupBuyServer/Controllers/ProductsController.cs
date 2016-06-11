@@ -6,14 +6,18 @@ using GroupBuyServer.Models;
 using GroupBuyServer.Utils;
 using GroupBuyServer.ViewModels;
 using NHibernate.Linq;
+using NHibernate.Criterion;
+using NHibernate;
+using System.Collections;
 
 namespace GroupBuyServer.Controllers
 {
-    [RoutePrefix("/GroupBuyServer/api/products")]
+    [RoutePrefix("GroupBuyServer/api/products")]
     public class ProductsController : ApiController
     {
         [HttpGet]
-        public IHttpActionResult Get(Guid id)
+        [ActionName("product")]
+        public IHttpActionResult Product(Guid id)
         {
             using (var session = NHibernateHandler.CurrSession)
             {
@@ -92,6 +96,26 @@ namespace GroupBuyServer.Controllers
                     return Ok();
                 }
             }
+        }
+
+        
+        [HttpGet]
+        [ActionName("suggestions")]
+        public IHttpActionResult Suggestions(Guid id)
+        {
+            List<Product> lstSuggestions = new List<Product>();
+            using (var session = NHibernateHandler.CurrSession)
+            {
+                Product objProduct = session.QueryOver<Product>().Where(x => x.Id == id).SingleOrDefault();
+                foreach (User currBuyer in objProduct.Buyers)
+                {
+                    List<Product> currBuyerProductsId = session.Query<Product>().Where(p => p.Buyers.Any<User>(b => b.Id == currBuyer.Id)).ToList();
+                    ISQLQuery temp = session.CreateSQLQuery("select product_id,count(*) from rel_product_buyers where user_id in(select user_id from t_products where user_id in buyers)");
+                    IEnumerable temp2 = temp.List();
+                }
+            }
+
+            return Ok(lstSuggestions.Count > 0? lstSuggestions: null);
         }
 
 //        [HttpPost]

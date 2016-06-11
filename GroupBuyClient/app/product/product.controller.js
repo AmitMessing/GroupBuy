@@ -2,7 +2,7 @@ mainApp
     .controller('productController', [
         '$scope', '$stateParams', '$resource', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $mdDialog, userService) {
 
-            var api = $resource("/GroupBuyServer/api/products");
+            var api = $resource("/GroupBuyServer/api/products/product");
             var buyersApi = $resource("/GroupBuyServer/api/buyers");
 
             var productId = $stateParams.id;
@@ -47,11 +47,15 @@ mainApp
             var initData = function (id) {
                 $scope.currentUser = userService.getLoggedUser();
 
-                return api.get({ id: id }).$promise.then(function(product) {
+                api.get({ id: id }).$promise.then(function(product) {
                     if (product) {
+                        var products = $resource("/GroupBuyServer/api/products/suggestions");
+                        products.query({ id: product.id }).$promise.then(function (response) {
+                            console.log(response);
+                        });
                         $scope.product = product;
                         calcProduct($scope.product.discounts);
-                        sortDiscountAascending();
+                        sortDiscountAascending();                        
                     }
                 }, function(error) {
                     $scope.errorMessage = error.data.Message;
