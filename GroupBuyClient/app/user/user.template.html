@@ -1,4 +1,4 @@
-﻿<div layout="row" flex>
+﻿<!--<div layout="row" flex>
     <div layout="column" flex="70">
         <div layout="row" flex>
             <div layout="column" flex>
@@ -62,4 +62,46 @@
             </md-card-content>
         </md-card>
     </div>
+</div>-->
+<div layout="row" flex>
+    <div layout="column" flex="25">
+        <md-card>
+            <img ng-src="images/myAvatar.png" class="md-card-image user-image">
+            <md-card-title layout-align="center center" layout="row">
+                <md-card-title-text layout-align="center center">
+                    <span class="md-headline">{{user.firstName}} {{user.lastName}}</span>
+                    <span class="md-subhead">{{user.userName}}</span>
+                </md-card-title-text>
+            </md-card-title>
+            <md-card-content>
+                <div class="md-subhead">Email: {{user.email}}</div>
+                <div class="md-subhead">Seller rate: {{user.sellerRate.length}}</div>
+                <div class="md-subhead">buyers: {{user.email}}</div>
+            </md-card-content>
+        </md-card>
+    </div>
+    <div layout="column" flex="5"></div>
+    <div layout="column" flex>
+        <div layout="row" flex>
+            <div layout="column" flex>
+                <md-tabs md-dynamic-height>
+                    <md-tab label="My buyer rate">
+                        <md-content class="md-padding">
+                            <h1 class="md-display-2">Tab One</h1>
+                            <p> </p>
+                        </md-content>
+                    </md-tab>
+                    <md-tab label="My seller rate">
+                        <md-content class="md-padding">
+                        </md-content>
+                    </md-tab>
+                </md-tabs>
+            </div>
+        </div>
+        <md-divider></md-divider>
+        <div layout="row" flex>
+
+        </div>
+    </div>
+    <div layout="column" flex="5"></div>
 </div>

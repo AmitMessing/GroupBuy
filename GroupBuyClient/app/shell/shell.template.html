@@ -11,21 +11,21 @@
             </div>
             <span flex></span>
             <span flex></span>
-            <div class="search-box" layout="row" layout-align="center center" ng-class="{'search': isSearching}">
-                <md-input-container md-no-float class="md-block search-product" ng-class="{'searchProduct': isSearching}">
-                    <input ng-model="searchText" placeholder="search a product" ng-mouseenter="isSearching = true">
-                </md-input-container>
-                <md-input-container class="categories-select" ng-class="{'categoriesSelect': isSearching}">
+            <div class="search-box" layout="row" layout-align="center center">
+                <md-input-container md-no-float class="md-block search-product">
+                    <input ng-model="searchText" placeholder="search a product">
+                </md-input-container><!--
+                <md-input-container class="categories-select">
                     <label>categories</label>
                     <md-select ng-model="selectedCategories" multiple>
                         <md-optgroup>
                             <md-option ng-value="category" ng-repeat="category in categories">{{category}}</md-option>
                         </md-optgroup>
                     </md-select>
-                </md-input-container>
+                </md-input-container>-->
 
             </div>
-            <md-button class="md-icon-button" aria-label="search" ng-mouseenter="isSearching = true"
+            <md-button class="md-icon-button" aria-label="search"
                        ng-click="searchClicked()">
                 <md-icon class="material-icons md-dark">search</md-icon>
                 <md-tooltip>search</md-tooltip>

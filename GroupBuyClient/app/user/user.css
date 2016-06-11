@@ -17,3 +17,13 @@
     font-size: 25px;
     padding: 10px;
 }
+
+.user-image {
+    width: 145px !important;
+    margin: 16px 98px !important;
+    border-radius: 75px !important;
+}
+
+
+
+}

@@ -48,6 +48,7 @@
                 }
 
                 search.post({ searchText: $scope.searchText }).$promise.then(function (searchResult) {
+                    $state.go('shell.home', searchResult);
                     console.log(searchResult);
                 }, function(error) {
                     $scope.error = error.data.Message;

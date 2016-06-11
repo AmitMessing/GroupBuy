@@ -1,6 +1,6 @@
 mainApp
     .controller('productController', [
-        '$scope', '$stateParams', '$resource', '$state', '$mdDialog', 'userService', function ($scope, $stateParams, $resource, $state, $mdDialog, userService) {
+        '$scope', '$stateParams', '$resource', '$state', '$mdDialog', 'userService', function($scope, $stateParams, $resource, $state, $mdDialog, userService) {
 
             var productDateApi = $resource('/GroupBuyServer/api/products/UpdateEndDate');
             var api = $resource('/GroupBuyServer/api/products/product');
@@ -14,7 +14,7 @@ mainApp
             $scope.isExpierd = false;
             $scope.newReview = { rating: 3 };
 
-        var calcProduct = function(discounts) {
+            var calcProduct = function(discounts) {
                 // Check current discount
                 var orderdDiscounts = discounts.sort(function(a, b) {
                     return b.usersAmount - a.usersAmount;
@@ -34,9 +34,9 @@ mainApp
                 $scope.currentPrice = $scope.calcPrice(currentDiscountPrecent);
 
                 $scope.product.descriptionDisplay = $scope.product.description;
-            if ($scope.product.description.length > 600) {
-                $scope.product.descriptionDisplay = $scope.product.description.substring(0, 600) + '...';
-            }
+                if ($scope.product.description.length > 600) {
+                    $scope.product.descriptionDisplay = $scope.product.description.substring(0, 600) + '...';
+                }
 
                 // Update current user status
             if ($scope.currentUser && $scope.product.seller.userName === $scope.currentUser.userName) {
@@ -58,27 +58,27 @@ mainApp
                 if ($scope.endDate < today) {
                     $scope.isExpierd = true;
                 }
-        };
+            };
 
-        $scope.openDescription = function() {
-            $mdDialog.show(
-                        $mdDialog.alert()
-                        .clickOutsideToClose(true)
-                        .title('Full Description')
-                        .textContent($scope.product.description)
-                        .ok('Got it!')
-                    );
-        };
+            $scope.openDescription = function() {
+                $mdDialog.show(
+                    $mdDialog.alert()
+                    .clickOutsideToClose(true)
+                    .title('Full Description')
+                    .textContent($scope.product.description)
+                    .ok('Got it!')
+                );
+            };
 
         $scope.onEndDateChanged = function () {
-            $scope.product.endDate = $scope.endDate;
+                $scope.product.endDate = $scope.endDate;
             return productDateApi.save($scope.product).$promise
                 .then(function() {
                 }, function(error) {
                     $scope.errorMessage = error.data.Message;
                 });
 
-        };
+            };
 
             var sortDiscountAascending = function() {
                 return $scope.product.discounts.sort(function(a, b) {
@@ -86,7 +86,7 @@ mainApp
                 });
             };
 
-            var loadReviews = function () {
+            var loadReviews = function() {
 
                 $scope.newReview = {
                     rating: 3,
@@ -121,10 +121,10 @@ mainApp
 
                 $scope.newReview.publishDate = new Date();
                 return saveReviewsApi.save($scope.newReview).$promise
-                    .then(function (newRate) {
+                    .then(function(newRate) {
                         $scope.product.seller.rating = newRate.newRating;
                         loadReviews();
-                }, function(error) {
+                    }, function(error) {
                         $scope.errorMessage = error.data.Message;
                 });
             };
@@ -133,27 +133,29 @@ mainApp
                 $state.go('shell.user', { id: user });
             };
 
-            var initData = function (id) {
+            var initData = function(id) {
                 $scope.loading = true;
                 $scope.currentUser = userService.getLoggedUser();
 
-                api.get({ id: id }).$promise.then(function(product) {
-                    if (product) {
-                        var products = $resource("/GroupBuyServer/api/products/suggestions");
-                        products.query({ id: product.id }).$promise.then(function (response) {
-                            console.log(response);
-                        });
-                        $scope.product = product;
-                        loadReviews();
-                        calcProduct($scope.product.discounts);
-                        sortDiscountAascending();                        
+                api.get({ id: id }).$promise
+                    .then(function(product) {
+                        if (product) {
+                            var products = $resource("/GroupBuyServer/api/products/suggestions");
+                            products.query({ id: product.id }).$promise
+                                .then(function(response) {
+                                    console.log(response);
+                                });
+                            $scope.product = product;
+                            loadReviews();
+                            calcProduct($scope.product.discounts);
+                            sortDiscountAascending();
 
+                            $scope.loading = false;
+                        }
+                    }, function(error) {
+                        $scope.errorMessage = error.data.Message;
                         $scope.loading = false;
-                    }
-                }, function(error) {
-                    $scope.errorMessage = error.data.Message;
-                    $scope.loading = false;
-                });
+                    });
             };
 
             $scope.calcPrice = function(discount) {
@@ -161,7 +163,7 @@ mainApp
                 return (price - ((price * discount) / 100)).toFixed(2);
             };
 
-            $scope.joinGroup = function () {
+            $scope.joinGroup = function() {
                 if (!$scope.currentUser) {
                     $mdDialog.show(
                         $mdDialog.alert()
@@ -210,9 +212,9 @@ mainApp
                 }
             };
 
-        $scope.getRatingArray = function(rating) {
-            return new Array(rating);
-        };
+            $scope.getRatingArray = function(rating) {
+                return new Array(rating);
+            };
 
             initData(productId);
         }
