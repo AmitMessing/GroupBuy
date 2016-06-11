@@ -59,6 +59,7 @@ namespace GroupBuyServer.Controllers
         }
 
         [HttpPost]
+        [ActionName("save")]
         public IHttpActionResult Save(ProductViewModel product)
         {
             using (var session = NHibernateHandler.CurrSession)
@@ -106,22 +107,41 @@ namespace GroupBuyServer.Controllers
         [ActionName("suggestions")]
         public IHttpActionResult Suggestions(Guid id)
         {
-            List<Product> lstSuggestions = new List<Product>();
+            List<NewestProductViewModel> lstSuggestions = new List<NewestProductViewModel>();
             using (var session = NHibernateHandler.CurrSession)
             {
                 Product objProduct = session.QueryOver<Product>().Where(x => x.Id == id).SingleOrDefault();
+
+                //var r = from product in session.Query<Product>().Where(p => p.Buyers.Any<User>(b => objProduct.Buyers.Contains(b)))
+                //        from buyerid in product.Buyers.Select(b => b.Id)
+                //        group product by product.Id into g
+                //        let count = g.Count()
+                //        orderby count descending
+                //        select new { Product = g.Key, Count = count };
+                //var result = r.ToList<object>();
+
+                Dictionary<Product, int> dicProductsCount = new Dictionary<Product, int>();
                 foreach (User currBuyer in objProduct.Buyers)
                 {
-                    List<Product> currBuyerProductsId = session.Query<Product>().Where(p => p.Buyers.Any<User>(b => b.Id == currBuyer.Id)).ToList();
-                    ISQLQuery temp = session.CreateSQLQuery("select product_id,count(*) from rel_product_buyers where user_id in(select user_id from t_products where user_id in buyers)");
-                    IEnumerable temp2 = temp.List();
+                    List<Product> currBuyerProducts = session.Query<Product>().Where(p => p.Buyers.Any<User>(b => b.Id == currBuyer.Id)).ToList();
+                    foreach (Product currProduct in currBuyerProducts)
+                    {
+                        if(!dicProductsCount.ContainsKey(currProduct))
+                        {
+                            dicProductsCount.Add(currProduct, 0);
+                        }
+                        dicProductsCount[currProduct] += 1;
+                    }
                 }
+                lstSuggestions = dicProductsCount.OrderByDescending(x => x.Value).Take(10).Select(p => p.Key).ToList()
+                                                 .ConvertAll<NewestProductViewModel>(x=> new NewestProductViewModel(x));
             }
 
-            return Ok(lstSuggestions.Count > 0? lstSuggestions: null);
+            return Ok(lstSuggestions);
         }
 
         [HttpPut]
+        [ActionName("UpdateEndDate")]
         public IHttpActionResult UpdateEndDate(ProductViewModel product)
         {
             using (var session = NHibernateHandler.CurrSession)

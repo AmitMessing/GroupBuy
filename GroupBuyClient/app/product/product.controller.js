@@ -2,10 +2,7 @@ mainApp
     .controller('productController', [
         '$scope', '$stateParams', '$resource', '$state', '$mdDialog', 'userService', function ($scope, $stateParams, $resource, $state, $mdDialog, userService) {
 
-        var api = $resource('/GroupBuyServer/api/products', null,
-        {
-            'update': { method: 'POST', url: '/GroupBuyServer/api/products/bla' }
-        });
+            var api = $resource('/GroupBuyServer/api/products/product');
             var buyersApi = $resource("/GroupBuyServer/api/buyers");
             var reviewsApi = $resource("/GroupBuyServer/api/onSellerReviews");
 

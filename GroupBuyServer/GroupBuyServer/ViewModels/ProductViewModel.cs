@@ -53,5 +53,16 @@ namespace GroupBuyServer.ViewModels
         public NewestProductViewModel()
         {
         }
+
+        public NewestProductViewModel(Product p_objProduct)
+        {
+            this.BasicPrice = p_objProduct.BasicPrice;
+            this.Description = p_objProduct.Description;
+            this.EndDate = p_objProduct.EndDate;
+            this.Id = p_objProduct.Id;
+            this.Image = p_objProduct.Image;
+            this.Name = p_objProduct.Name;
+            this.PublishDate = p_objProduct.PublishDate;
+        }
     }
 }

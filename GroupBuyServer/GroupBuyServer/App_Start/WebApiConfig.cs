@@ -18,9 +18,9 @@ namespace GroupBuyServer
             //);
 
             config.Routes.MapHttpRoute(
-                name:"ApiWithAction",
+                name: "ApiWithAction",
                 routeTemplate: "api/{controller}/{action}/{id}",
-                defaults: new { action = RouteParameter.Optional, id = RouteParameter.Optional }
+                defaults: new { id = RouteParameter.Optional }
             );
         }
     }

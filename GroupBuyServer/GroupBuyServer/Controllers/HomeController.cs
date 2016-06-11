@@ -15,6 +15,7 @@ namespace GroupBuyServer.Controllers
     public class HomeController : ApiController
     {
         [HttpGet]
+        [ActionName("home")]
         public IHttpActionResult Get()
         {
             IList<NewestProductViewModel> newestProducts = new List<NewestProductViewModel>();

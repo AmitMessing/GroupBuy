@@ -5,7 +5,7 @@
     <md-content flex="80" layout-wrap layout-xs="column" layout="row" layout-align="start center" style="overflow: hidden;background: #f5f5f5;">
         <md-card class="product-card" ng-repeat="product in products" ng-click="gotoProduct(product.id)">
             <md-card-content layout="column" layout-align="space-between">
-                <img src="{{product.image}}" style="width: 100%;" />
+                <img src={{product.image}} style="width: 100%;" />
                 <canvas id="imageCanvas" class="image-canvas"></canvas>
                 <span class="product-name">{{product.name}}</span>
                 <p>{{sort(product.description)}}</p>

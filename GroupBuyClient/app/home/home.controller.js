@@ -1,7 +1,7 @@
 mainApp
     .controller('homeController', ['$scope', '$state','$resource', 'userService', function ($scope, $state,$resource, userService) {
 
-        var homeApi = $resource("/GroupBuyServer/api/home", {}, { 'get': { method: 'GET', isArray: true } });
+        var homeApi = $resource("/GroupBuyServer/api/home/home", {}, { 'get': { method: 'GET', isArray: true } });
         $scope.user = {};
         var user = userService.getLoggedUser();
         if (user != null) {
