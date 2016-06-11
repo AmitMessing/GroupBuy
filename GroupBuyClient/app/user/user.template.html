@@ -1,35 +1,65 @@
-﻿<div flex="50" layout="column" layout-align="center center">
-    <md-card class="login-card">
-        <md-card-title class="login-card-title" layout-align="center center">
-            <span class="login-card-title"> Update details</span>
-        </md-card-title>
-        <md-card-content>
-            <div layout="row" flex>
-                <md-input-container flex>
-                    <label>First Name</label>
-                    <input ng-model="user.FirstName" flex>
-                </md-input-container>
+﻿<div layout="row" flex>
+    <div layout="column" flex="70">
+        <div layout="row" flex>
+            <div layout="column" flex>
+                <div ng-repeat="rate in user.sellerRate | limitTo:10">
+                    <md-card>
+                        <md-card-title>
+                            <md-card-title-text>
+                                <span class="md-headline">{{rate.commenter}}</span>
+                                <span class="md-subhead">{{rate.date}}</span>
+                            </md-card-title-text>
+                        </md-card-title>
+                        <md-card-content>
+                            <span>{{rate.content}}</span>
+                        </md-card-content>
+                    </md-card>
+                </div>
             </div>
-            <div layout="row" flex>
-                <md-input-container flex ng-model="user">
-                    <label>Last Name</label>
-                    <input ng-model="user.LastName" flex>
-                </md-input-container>
+        </div>
+        <div layout="row">
+            <div ng-show="user.sellerRate.length > 1">
+                <md-button ng-click="showSellerComment($event)">
+                    show more...
+                </md-button>
             </div>
-            <div layout="row" flex>
-                <md-input-container flex>
-                    <label>User Name</label>
-                    <input ng-model="user.UserName" flex>
-                </md-input-container>
-            </div>
-            <div layout="row" flex>
-                <md-input-container flex>
-                    <label>Password</label>
-                    <input ng-model="user.Password" flex>
-                </md-input-container>
-            </div>
-            <div ng-show="errorMessage != ''">{{errorMessage}}</div>
-            <md-button class="md-raised md-primary login-button" ng-click="updateUser()">Save</md-button>
-        </md-card-content>
-    </md-card>
+        </div>
+    </div>
+    <md-divider>
+    </md-divider>
+    <div layout="column" flex ng-show="true">
+        <md-card class="login-card">
+            <md-card-title class="login-card-title" layout-align="center center">
+                <span class="login-card-title"> Update details</span>
+            </md-card-title>
+            <md-card-content>
+                <div layout="row" flex>
+                    <md-input-container flex>
+                        <label>First Name</label>
+                        <input ng-model="user.FirstName" flex>
+                    </md-input-container>
+                </div>
+                <div layout="row" flex>
+                    <md-input-container flex ng-model="user">
+                        <label>Last Name</label>
+                        <input ng-model="user.LastName" flex>
+                    </md-input-container>
+                </div>
+                <div layout="row" flex>
+                    <md-input-container flex>
+                        <label>User Name</label>
+                        <input ng-model="user.UserName" flex>
+                    </md-input-container>
+                </div>
+                <div layout="row" flex>
+                    <md-input-container flex>
+                        <label>Password</label>
+                        <input ng-model="user.Password" flex>
+                    </md-input-container>
+                </div>
+                <div ng-show="errorMessage != ''">{{errorMessage}}</div>
+                <md-button class="md-raised md-primary login-button" ng-click="updateUser()">Save</md-button>
+            </md-card-content>
+        </md-card>
+    </div>
 </div>

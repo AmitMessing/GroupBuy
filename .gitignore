@@ -88,6 +88,7 @@ GroupBuyServer/GroupBuyServer/GroupBuyServer.csproj.user
 GroupBuyServer/GroupBuyServer/bin/GroupBuyServer.dll
 GroupBuyServer/GroupBuyServer.sln.DotSettings.user
 GroupBuyServer/GroupBuyServer/bin/GroupBuyServer.dll
+GroupBuyClient/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 GroupBuyServer/ElasticSearchManager/bin/Debug/ElasticSearchManager.exe
 GroupBuyServer/ElasticSearchManager/bin/Debug/ElasticSearchManager.exe.config
 GroupBuyServer/ElasticSearchManager/bin/Debug/ElasticSearchManager.vshost.exe

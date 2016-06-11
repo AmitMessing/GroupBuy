@@ -158,6 +158,7 @@ namespace SeedProject
                     foreach (var product in products)
                     {
                         Category category = Categories.FirstOrDefault(x => x.Id == product["cat_id"].Value<int>());
+
                         if (category != null && product["price"] != null)
                         {
                             var newProduct = new Product
@@ -170,7 +171,7 @@ namespace SeedProject
                                 EndDate = RandomFutureDate(random),
                                 Seller = UsersHelper.Users[random.Next(0, UsersHelper.Users.Count)],
                                 Buyers = new List<User>(),
-//                                Description = "No folks we’re not pulling you leg! This rare Chinese tea is carefully picked by specially trained monkeys in a remote mountain region of China. Legend has it that monkeys were first used to collect tea ten centuries ago, because upon seeing it’s master trying to reach some tea growing wild on a mountain face, the monkey climbed up the steep face and collected the tea growing there and brought it down to his master. This wild tea was considered so delicious that other people began to train monkeys to collect this rare wild tea. Nowadays the practice of monkeys picking tea has all but died out, except in one small remote village where they still continue this remarkable tradition. No monkeys are harmed or mistreated in order for us to bring this rare brew to you! In fact the monkeys and their ancestors before them have been doing this job for generations and are treated as respected members of their human keeper’s families."
+                                Description = "No folks we’re not pulling you leg! This rare Chinese tea is carefully picked by specially trained monkeys in a remote mountain region of China. Legend has it that monkeys were first used to collect tea ten centuries ago, because upon seeing it’s master trying to reach some tea growing wild on a mountain face, the monkey climbed up the steep face and collected the tea growing there and brought it down to his master. This wild tea was considered so delicious that other people began to train monkeys to collect this rare wild tea. Nowadays the practice of monkeys picking tea has all but died out, except in one small remote village where they still continue this remarkable tradition. No monkeys are harmed or mistreated in order for us to bring this rare brew to you! In fact the monkeys and their ancestors before them have been doing this job for generations and are treated as respected members of their human keeper’s families."
                             };
 
                             newProduct.Discounts = new List<Discount>
@@ -196,6 +197,21 @@ namespace SeedProject
                                     found = (!newProduct.Buyers.Contains(user)) && (newProduct.Seller != user);
                                 }
                                 newProduct.Buyers.Add(user);
+                            }
+
+                            for (var i = 0; i < 8; i++)
+                            {
+                                bool found = false;
+                                var category1 = new Category();
+
+                                while (!found)
+                                {
+                                    int next = random.Next(0, Categories.Count - 1);
+                                    category1 = Categories[next];
+                                    found = !newProduct.Categories.Contains(category1);
+                                }
+
+                                newProduct.Categories.Add(category1);
                             }
 
                             allProducts.Add(newProduct);

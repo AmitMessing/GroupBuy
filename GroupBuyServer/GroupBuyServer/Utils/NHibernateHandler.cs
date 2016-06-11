@@ -30,8 +30,8 @@ namespace GroupBuyServer.Utils
                 .Database(MsSqlConfiguration.MsSql2012.ConnectionString(connStr).ShowSql()
                 ).Mappings(m => m.FluentMappings.AddFromAssembly(Assembly.GetExecutingAssembly())).BuildConfiguration();
 
-            //var exporter = new NHibernate.Tool.hbm2ddl.SchemaExport(cfg);
-            //exporter.Create(false, true);
+         /*   var exporter = new NHibernate.Tool.hbm2ddl.SchemaExport(cfg);
+            exporter.Create(false, true);*/
 
             return cfg.BuildSessionFactory();
         }

@@ -31,7 +31,7 @@ mainApp
                 if (validateUser(user)) {
                     register.save($scope.user).$promise.then(function(user) {
                         if (user) {
-                            userService.setLoggedUSer($scope.user);
+                            userService.setLoggedUSer(user);
                             $state.go("shell.home", {}, { reload: true });
                         }
                     }, function(error) {

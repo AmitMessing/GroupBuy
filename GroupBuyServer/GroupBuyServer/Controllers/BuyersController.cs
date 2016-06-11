@@ -10,12 +10,6 @@ namespace GroupBuyServer.Controllers
     [RoutePrefix("GroupBuyServer/api/buyers")]
     public class BuyersController : ApiController
     {
-        [HttpGet]
-        public IHttpActionResult Get(Guid id)
-        {
-            return Ok(id);
-        }
-
         [HttpPost]
         public IHttpActionResult Save(ProductBuyerViewModel productBuyerViewModel)
         {
@@ -35,6 +29,28 @@ namespace GroupBuyServer.Controllers
             }
 
             return Ok(productBuyerViewModel);
+        }
+
+        [HttpDelete]
+        public IHttpActionResult Delete(Guid productId, string buyer)
+        {
+            using (var session = NHibernateHandler.CurrSession)
+            {
+                using (var tran = session.BeginTransaction())
+                {
+                    var product = session.Get<Product>(productId);
+
+                    User user = product.Buyers.FirstOrDefault(x => x.UserName.Equals(buyer));
+                    if (user != null)
+                    {
+                        product.Buyers.Remove(user);
+                        session.Save(product);
+                        tran.Commit();
+                    }
+                }
+            }
+
+            return Ok(new {buyer});
         }
     }
 }

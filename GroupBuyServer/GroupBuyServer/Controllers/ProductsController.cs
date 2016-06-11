@@ -31,15 +31,18 @@ namespace GroupBuyServer.Controllers
                     BasicPrice = product.BasicPrice,
                     PublishDate = product.PublishDate,
                     EndDate = product.EndDate,
+                    Image = product.Image,
                     Seller = new SellerViewModel
                     {
                         Id = product.Seller.Id, 
                         UserName = product.Seller.UserName, 
-                        FullName = product.Seller.FirstName + " " + product.Seller.LastName
+                        FullName = product.Seller.FirstName + " " + product.Seller.LastName,
+                        Rating = product.Seller.SellerRate
                     },
                     Buyers = product.Buyers.Select(x => 
                         new BuyerViewModel
                         {
+                            Id = x.Id,
                             UserName = x.UserName, 
                             FullName = x.FirstName + " " + x.LastName
                         }).ToList(),
@@ -72,7 +75,7 @@ namespace GroupBuyServer.Controllers
                         Categories = new List<Category>(),
                         Description = product.Description,
                         EndDate = product.EndDate.Date,
-                        Image = GetBytes(product.Image),
+                        Image = product.Image,
                         Name = product.Name,
                         PublishDate = DateTime.Now,
                         Seller = userFromDb
@@ -118,26 +121,22 @@ namespace GroupBuyServer.Controllers
             return Ok(lstSuggestions.Count > 0? lstSuggestions: null);
         }
 
-//        [HttpPost]
-//        [Route("products/{id}/buyers")]
-//        public IHttpActionResult R(Guid id, [FromBody]User buyer)
-//        {
-//            using (var session = NHibernateHandler.CurrSession)
-//            {
-//                using (var tran = session.BeginTransaction())
-//                {
-//                    var product = session.Get<Product>(id);
-//                    if (product.Buyers.Contains(buyer) == false)
-//                    {
-//                        product.Buyers.Add(buyer);
-//                        session.Save(product);
-//                        tran.Commit();
-//                    }
-//                }
-//            }
-//
-//            return Ok(id);
-//        }
+        [HttpPut]
+        public IHttpActionResult UpdateEndDate(ProductViewModel product)
+        {
+            using (var session = NHibernateHandler.CurrSession)
+            {
+                using (var tran = session.BeginTransaction())
+                {
+                    var productFromDb = session.Get<Product>(product.Id);
+                    productFromDb.EndDate = product.EndDate;
+
+                    session.Save(productFromDb);
+                    tran.Commit();
+                    return Ok();
+                }
+            }
+        }
 
         static byte[] GetBytes(string str)
         {

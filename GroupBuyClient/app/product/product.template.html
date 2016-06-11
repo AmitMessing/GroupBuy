@@ -1,56 +1,93 @@
-﻿<div flex layout="row" class="product-page" layout-align="start center">
-    <div layout="row">
-        <div layout="row" class="product-details">
-            <div layout="column">
-                <div class="product-name">
-                    {{product.name}}
+﻿<div layout="row" layout-align="center center" ng-show="loading">
+    <md-progress-circular md-mode="indeterminate" md-diameter="124"></md-progress-circular>
+</div>
+<div flex layout="row" class="product-page" layout-align="start center" ng-show="!loading" flex>
+    <div layout="row" layout-align="space-between" class="product-details">
+        <!--        Left-->
+        <div layout="column" flex="50">
+            <div class="product-img-div">
+                <img class="product-img" ng-src="{{product.image}}" />
+            </div>
+            <div class="product-name">
+                {{product.name}}
+            </div>
+            <span class="seller-name ">BY <md-button ng-click="showUser(product.seller.id)">{{product.seller.fullName}}</md-button> ({{product.seller.rating}}
+            <md-icon style="font-size: 20px;" class="material-icons">grade</md-icon>)</span>
+            <label class="current-price">Current price: {{currentPrice}} $</label>
+            <div layout="row" layout-align="start center">
+                <span ng-show="!isSeller">
+                    <b>Expired Date: </b>
+                    <span ng-class="{'expierd-date': isExpierd}">{{dateFormat(product.endDate)}}</span>
+                </span>
+                <span ng-show="isSeller" layout="row" layout-align="start center">
+                    <b>Expired Date: </b>
+                    <md-datepicker ng-change="onEndDateChanged()" ng-model="endDate" md-placeholder="Select end date">
+                    </md-datepicker>
+
+                </span>
+            </div>
+            <div class="categories" style="margin-top: 5px;">
+                <div class="category-card" ng-repeat="category in product.categories">
+                    {{category}}
                 </div>
-                <label class="current-price">Current price: {{currentPrice}} $</label>
-                <div>
-                    Seller:
-                    <a href="">
-                        {{product.seller.fullName}}
-                    </a>
-                </div>
-                <p style="width: 500px;">{{product.content}}</p>
-                <div layout="row">
-                    <md-button style="margin: 0 auto" class="md-fab md-primary md-hue-2" aria-label="join" ng-click="joinGroup()" ng-disabled="isBuyer || isSeller">
-                        <md-icon class="material-icons">group_add</md-icon>
-                    </md-button>
-                </div>
-                <div style="margin-top: 10px; display: inline;">
-                    <label>Number of buyers: {{product.buyers.length}}</label>
-                    <md-button ng-click="showBuyers()">Buyers details</md-button>
-                    <div style="display: inline; margin-left: 120px; color: deepskyblue;">
-                        <i class="material-icons">thumb_up</i>
-                        <i class="material-icons">thumb_down</i>
+            </div>
+            <p class="description" ng-click="openDescription()">{{product.descriptionDisplay}}</p>
+        </div>
+        <!--        Right-->
+        <div layout="column" flex="50" layout-align="center center">
+            <div layout="row">
+                <md-button style="margin: 0 auto" class="md-fab md-primary md-hue-2" aria-label="join" ng-click="joinGroup()" ng-disabled="isBuyer || isSeller || isExpierd">
+                    <md-icon class="material-icons">group_add</md-icon>
+                </md-button>
+            </div>
+            <div style="margin-top: 10px; display: inline;">
+                <label>Number of buyers: {{product.buyers.length}}</label>
+                <md-button ng-click="showBuyers()">Buyers details</md-button>
+            </div>
+            <div class="discount" layout="row">
+                <div class="amount" layout="column">
+                    <span class="tabel-header-cell">Number of people</span>
+                    <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
+                        {{discount.usersAmount}}
                     </div>
                 </div>
-                <div class="discount" layout="row">
-                    <div class="amount" layout="column">
-                        <span class="tabel-header-cell">Number of people</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
-                            {{discount.usersAmount}}
-                        </div>
+                <div class="dis" layout="column">
+                    <span class="tabel-header-cell">Discount</span>
+                    <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
+                        {{discount.precent}} %
                     </div>
-                    <div class="dis" layout="column">
-                        <span class="tabel-header-cell">Discount</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
-                            {{discount.precent}} %
-                        </div>
-                    </div>
-                    <div class="price" layout="column">
-                        <span class="tabel-header-cell">New price</span>
-                        <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
-                            {{calcPrice(discount.precent)}} $
-                        </div>
+                </div>
+                <div class="price" layout="column">
+                    <span class="tabel-header-cell">New price</span>
+                    <div class="tabel-cell" ng-class="{ 'currentDiscount' : discount.isCurrent}" ng-repeat="discount in product.discounts">
+                        {{calcPrice(discount.precent)}} $
                     </div>
                 </div>
             </div>
-            <img class="product-img" src="{{product.img}}" />
-        </div>
-        <div class="related-products" layout="column">
-            <!--            <span class="product-name">Related Products</span>-->
+            <div class="reviews" layout="column">
+                <div class="new-review" layout="row" layout-align="start center">
+                    <md-input-container style="width: 100%; margin-top: 40px">
+                        <label>write a review about the seller</label>
+                        <input ng-model="newReview.content">
+                    </md-input-container>
+                    <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
+
+                    <md-icon class="material-icons" ng-click="saveReview()" style="cursor: pointer">send</md-icon>
+                </div>
+                <div class="all-reviews">
+                    <md-card ng-repeat="review in reviews" class="review-card">
+                        <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
+                            <span class="reviewer">{{review.reviewer}}</span>
+                            <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
+                            <div style="margin-left: auto;">
+                                <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
+                                         class="material-icons review-grade">grade</md-icon>
+                            </div>
+                        </div>
+                        <span>{{review.content}}</span>
+                    </md-card>
+                </div>
+            </div>
         </div>
     </div>
 </div>

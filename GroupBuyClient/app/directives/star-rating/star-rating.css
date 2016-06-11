@@ -1,0 +1,31 @@
+﻿.star-rating {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+    width: 150px;
+}
+
+.star-rating .star {
+    padding: 1px;
+    font-size: 20px;
+    text-shadow: .05em .05em #aaa;
+    list-style-type: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.star-rating .filled {
+    padding: 1px;
+    font-size: 20px;
+    text-shadow: .05em .05em #aaa;
+    list-style-type: none;
+    display: inline-block;
+    cursor: pointer;
+  }
+
+.star-rating .star .star-icon {
+        color: #ddd;
+}
+.star-rating .filled .star-icon {
+    color: #fd0;
+}
