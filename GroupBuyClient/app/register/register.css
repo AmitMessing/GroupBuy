@@ -1,19 +1,32 @@
-﻿.login-card {
-    width: 368px;
+﻿.register-card {
+    width: 520px;
     padding: 2px;
 }
 
-.login-button {
-    color: white !important;
-}
-
 .register-button {
-    color: #FF9100 !important;
+    color: white;
 }
 
-.login-card-title {
-    background: rgb(3, 169, 244);
-    color: white;
+.register-card-title {
+    color: rgb(3, 169, 244);
     font-size: 25px;
     padding: 10px;
+}
+
+.register-icon {
+    margin-top: 27px;
+    margin-right: 8px;
+}
+
+.upload-button {
+    border-radius: 70px;
+    width: 60px;
+    height: 60px;
+}
+.upload-button:hover {
+    cursor: pointer;
+}
+
+label.upload-button input[type="file"] {
+    visibility: hidden;
 }

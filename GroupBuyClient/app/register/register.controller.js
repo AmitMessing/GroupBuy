@@ -7,9 +7,15 @@ mainApp
                 firstName: "",
                 lastName: "",
                 userName: "",
-                password: ""
+                password: "",
+                email: "",
+                image: ""
             };
 
+            document.getElementById("uploadBtn").onchange = function () {
+                document.getElementById("uploadFile").value = this.value;
+                $scope.user.image = this.value;
+            };
 
             var validateUser = function(user) {
                 if (user.firstName === "" || user.firstName === undefined) {
