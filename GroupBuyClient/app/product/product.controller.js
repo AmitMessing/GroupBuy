@@ -3,8 +3,9 @@ mainApp
         '$scope', '$stateParams', '$resource', '$state', '$mdDialog', 'userService', function ($scope, $stateParams, $resource, $state, $mdDialog, userService) {
 
             var api = $resource('/GroupBuyServer/api/products/product');
-            var buyersApi = $resource("/GroupBuyServer/api/buyers");
-            var reviewsApi = $resource("/GroupBuyServer/api/onSellerReviews");
+            var buyersApi = $resource("/GroupBuyServer/api/buyers/save");
+            var getReviewsApi = $resource("/GroupBuyServer/api/onSellerReviews/reviews");
+            var saveReviewsApi = $resource("/GroupBuyServer/api/onSellerReviews/save");
 
             var productId = $stateParams.id;
             $scope.isSeller = false;
@@ -37,14 +38,14 @@ mainApp
             }
 
                 // Update current user status
-                if ($scope.product.seller.userName === $scope.currentUser.userName) {
+            if ($scope.currentUser && $scope.product.seller.userName === $scope.currentUser.userName) {
                     $scope.isSeller = true;
                 }
 
                 var buyersUserName = $scope.product.buyers.map(function(buyer) {
                     return buyer.userName;
                 });
-                if (buyersUserName.indexOf($scope.currentUser.userName) !== -1) {
+                if ($scope.currentUser && buyersUserName.indexOf($scope.currentUser.userName) !== -1) {
                     $scope.isBuyer = true;
                 }
 
@@ -80,12 +81,15 @@ mainApp
 
                 $scope.newReview = {
                     rating: 3,
-                    reviewerId: $scope.currentUser.id,
                     onUserId: $scope.product.seller.id,
                     productId: $scope.product.id
                 };
 
-                return reviewsApi.query({ id: $scope.product.seller.id }).$promise
+                if ($scope.currentUser) {
+                    $scope.newReview.reviewerId = $scope.currentUser.id;
+                }
+
+                return getReviewsApi.query({ id: $scope.product.seller.id }).$promise
                     .then(function(reviews) {
                         if (reviews) {
                             $scope.reviews = _.filter(reviews, function(review) { return review.productId === $scope.product.id; });
@@ -95,9 +99,19 @@ mainApp
                     });
             };
 
-            $scope.saveReview = function() {
+            $scope.saveReview = function () {
+                if (!$scope.currentUser) {
+                    return $mdDialog.show(
+                        $mdDialog.alert()
+                        .clickOutsideToClose(true)
+                        .title('Pay Attention')
+                        .textContent('You must log in to review a product!')
+                        .ok('Got it!')
+                    );
+                };
+
                 $scope.newReview.publishDate = new Date();
-                return reviewsApi.save($scope.newReview).$promise
+                return saveReviewsApi.save($scope.newReview).$promise
                     .then(function (newRate) {
                         $scope.product.seller.rating = newRate.newRating;
                         loadReviews();

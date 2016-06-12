@@ -11,6 +11,7 @@ namespace GroupBuyServer.Controllers
     public class BuyersController : ApiController
     {
         [HttpPost]
+        [ActionName("save")]
         public IHttpActionResult Save(ProductBuyerViewModel productBuyerViewModel)
         {
             using (var session = NHibernateHandler.CurrSession)
@@ -32,6 +33,7 @@ namespace GroupBuyServer.Controllers
         }
 
         [HttpDelete]
+        [ActionName("delete")]
         public IHttpActionResult Delete(Guid productId, string buyer)
         {
             using (var session = NHibernateHandler.CurrSession)

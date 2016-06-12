@@ -1,7 +1,7 @@
 mainApp
     .controller('buyersDialogController', [
         '$scope', '$mdDialog', '$resource', '$state', 'buyers', 'product', 'isSeller', function ($scope, $mdDialog, $resource, $state, buyers, product, isSeller) {
-            var buyersApi = $resource("/GroupBuyServer/api/buyers");
+            var buyersApi = $resource("/GroupBuyServer/api/buyers/delete");
             $scope.buyers = buyers;
             $scope.productId = product;
             $scope.isSeller = isSeller;

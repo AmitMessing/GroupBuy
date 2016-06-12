@@ -57,6 +57,7 @@ namespace GroupBuyServer.Controllers
     public class OnSellerReviewsController : ReviewsController
     {
         [HttpGet]
+        [ActionName("reviews")]
         public IHttpActionResult Get(Guid id)
         {
             using (var session = NHibernateHandler.CurrSession)
@@ -75,6 +76,7 @@ namespace GroupBuyServer.Controllers
         }
 
         [HttpPost]
+        [ActionName("save")]
         public IHttpActionResult Save(Review review)
         {
             review.IsOnSeller = true;
