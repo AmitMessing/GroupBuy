@@ -27,7 +27,7 @@ mainApp
 
             var loadReviews = function () {
                 reviewsApi.get({ id: $scope.currentUser.id }).$promise.then(function (result) {
-                    $scope.reviews = result;
+                   return $scope.reviews = result;
                 });
             }
 
