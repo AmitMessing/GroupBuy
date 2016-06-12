@@ -12,6 +12,7 @@
 @import 'directives/star-rating/star-rating.css';
 @import 'directives/suggestion-product/suggestion-product.css';
 @import url('search/search.css');
+@import url('user/history/shoppingHistory.css');
 
 body {
     font-family: 'Segoe UI';

@@ -47,7 +47,11 @@
 
                 $state.go('shell.search', { searchQuery: $scope.searchText });
             };
-        }
+
+            $scope.viewShoppingCart = function() {
+                $state.go('shell.history');
+            }
+    }
     ]);
 
 mainApp.directive("scroll", function ($window) {
