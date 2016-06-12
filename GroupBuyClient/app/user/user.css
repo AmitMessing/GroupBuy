@@ -1,10 +1,10 @@
 ﻿.user-image-div {
-    width: 140px !important;
-    height: 140px !important;
+    width: 180px !important;
+    height: 180px !important;
     background: gainsboro;
-    margin-left: 94px;
-    margin-top: 20px;
-    border-radius: 75px !important;
+    margin-left: 75px;
+    margin-top: 15px;
+    border-radius: 90px !important;
 }
 
 .default-image {
@@ -14,10 +14,14 @@
     color: grey;
 }
 
+.tab-content {
+    height: 360px;
+}
+
 .user-image {
-    width: 140px;
-    height: 140px;
-    border-radius: 75px !important;
+    width: 180px;
+    height: 180px;
+    border-radius: 90px !important;
 }
 
 .profile-page {

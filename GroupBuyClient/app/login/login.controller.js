@@ -8,7 +8,7 @@ mainApp
             $state.go("shell.register");
         };
 
-            var loginUser = $resource("/GroupBuyServer/api/login/login", {});
+            var loginUser = $resource("/GroupBuyServer/api/users/login");
 
             var user = userService.getLoggedUser();
             if (user != null) {

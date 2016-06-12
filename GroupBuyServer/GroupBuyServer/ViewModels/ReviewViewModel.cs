@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using GroupBuyServer.Models;
+using NHibernate.Mapping;
 
 namespace GroupBuyServer.ViewModels
 {
@@ -25,5 +27,12 @@ namespace GroupBuyServer.ViewModels
             Content = review.Content;
             Rating = review.Rating;
         }
+    }
+
+    public class UserResviewsViewModel
+    {
+        public Guid UserId { get; set; }
+        public List<ReviewViewModel> SellerReviews { get; set; }
+        public List<ReviewViewModel> BuyerReviews { get; set; }
     }
 }

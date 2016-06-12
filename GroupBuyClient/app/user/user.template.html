@@ -11,7 +11,7 @@
                     <span class="md-subhead">{{currentUser.userName}}</span>
                 </md-card-title-text>
             </md-card-title>
-            <md-card-content>
+            <md-card-content style="padding-bottom: 45px">
                 <div class="md-subhead" layout="row" style="margin-bottom: 25px">
                     <div layout="column" flex="30">
                         <label class="bold-label">
@@ -45,13 +45,26 @@
             <div layout="column" flex>
                 <md-tabs md-dynamic-height>
                     <md-tab label="My buyer rate">
-                        <md-content class="md-padding">
-                            <h1 class="md-display-2">Tab One</h1>
-                            <p> </p>
+                        <md-content class="md-padding tab-content">
+                            <div class="reviews" layout="column">
+                                <div class="all-reviews">
+                                    <md-card ng-repeat="review in reviews.buyerReviews" class="review-card">
+                                        <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
+                                            <span class="reviewer">{{review.reviewer}}</span>
+                                            <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
+                                            <div style="margin-left: auto;">
+                                                <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
+                                                         class="material-icons review-grade">grade</md-icon>
+                                            </div>
+                                        </div>
+                                        <span>{{review.content}}</span>
+                                    </md-card>
+                                </div>
+                            </div>
                         </md-content>
                     </md-tab>
                     <md-tab label="My seller rate">
-                        <md-content class="md-padding">
+                        <md-content class="md-padding tab-content">
                         </md-content>
                     </md-tab>
                 </md-tabs>

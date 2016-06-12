@@ -4,6 +4,7 @@ mainApp
         function ($scope, $stateParams, $resource, $state, $mdDialog, $mdMedia, userService) {
 
             var userApi = $resource("/GroupBuyServer/api/users/user");
+            var reviewsApi = $resource("/GroupBuyServer/api/users/reviews");
             $scope.currentUser = {
                 firstName: "",
                 lastName: "",
@@ -12,7 +13,9 @@ mainApp
                 email: "",
                 image: "",
                 registerDate: ""
-        };
+            };
+            $scope.reviews = [];
+
 
             var user = userService.getLoggedUser();
             if (user != null) {
@@ -27,6 +30,14 @@ mainApp
             } else {
                 $scope.currentUser = $scope.loggedUser;
             }
+
+            var loadReviews = function () {
+                reviewsApi.get({ id: $scope.currentUser.id }).$promise.then(function (result) {
+                    $scope.reviews = result;
+                });
+            }
+
+            loadReviews();
 
             $scope.showSellerComment = function (ev) {
                 $mdDialog.show({
@@ -69,5 +80,17 @@ mainApp
                     $scope.errorMessage = "Missing details.";
                 }
             }
+
+            $scope.dateFormat = function (date) {
+                if (date && typeof date === 'string') {
+                    var format = date.split("T")[0].split("-");
+                    return format[2] + "." + format[1] + "." + format[0];
+                }
+            };
+
+            $scope.getRatingArray = function (rating) {
+                return new Array(rating);
+            };
+
         }
     ]);
