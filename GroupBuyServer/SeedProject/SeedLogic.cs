@@ -135,7 +135,7 @@ namespace SeedProject
             return products;
         }
 
-        private List<Product> LoadAllCurrentFileProducts(string fileName, int productSquence)
+        private List<Product> LoadAllCurrentFileProducts(string fileName)
         {
             var allProducts = new List<Product>();
             if (Categories == null)
@@ -143,7 +143,7 @@ namespace SeedProject
                 LoadAllCategoriesFromDb();
             }
 
-            var random = new Random();
+            var random = new Random(Guid.NewGuid().GetHashCode());
 
             try
             {
