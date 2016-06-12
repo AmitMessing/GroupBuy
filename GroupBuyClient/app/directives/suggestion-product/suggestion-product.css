@@ -1,0 +1,51 @@
+﻿.suggestions {
+    width: 100%;
+}
+.suggestions .suggestion-product {
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+.suggestions .suggestion-product:hover {
+    box-shadow: 0 2px 4px -1px rgba(0,0,0,0.2),0 4px 5px 0 rgba(0,0,0,0.14),5px 10px 10px 1px rgba(0,0,0,0.12);
+    transition-property: box-shadow;
+    transition-duration: 225ms;
+    transition-timing-function: cubic-bezier(0, 0, .2, 1);
+    cursor: pointer;
+}
+
+.suggestions .suggestion-product img {
+    height: 130px;
+    margin: 0 auto;
+}
+
+.suggestions .suggestion-product .product-name {
+    font-size: 18px;
+    color: black;
+}
+
+.suggestions .suggestion-product .price-box-back {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 80px;
+    height: 35px;
+    background-color: white;
+    color: white;
+}
+
+.suggestions .suggestion-product .price-box {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 80px;
+    height: 35px;
+    background-color: orange;
+    opacity: 0.5;
+    color: white;
+}
+
+.suggestions .suggestion-product .price-box span {
+    font-size: 18px;
+}

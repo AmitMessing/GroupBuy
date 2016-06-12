@@ -29,6 +29,16 @@
     font-size: 36px;
 }
 
+.homepage .product-card .price-box-back {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    color: white;
+}
+
 .homepage .product-card .price-box {
     position: absolute;
     right: 0;

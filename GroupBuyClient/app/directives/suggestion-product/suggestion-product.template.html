@@ -1,0 +1,12 @@
+﻿
+<md-card class="suggestion-product" ng-click="gotoProduct(product.id)">
+    <md-card-content layout="column" layout-align="space-between">
+        <img src={{product.image}} />
+        <span class="product-name">{{sortTitle(product.name)}}</span>
+    </md-card-content>
+    <div class="price-box-back">empty</div>
+    <div class="price-box" layout="row" layout-align="center center">
+        <span>{{product.basicPrice}}</span>
+        <span>&nbsp $</span>
+    </div>
+</md-card>

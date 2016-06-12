@@ -6,10 +6,12 @@
         <md-card class="product-card" ng-repeat="product in products" ng-click="gotoProduct(product.id)">
             <md-card-content layout="column" layout-align="space-between">
                 <img src={{product.image}} style="width: 100%;" />
-                <canvas id="imageCanvas" class="image-canvas"></canvas>
                 <span class="product-name">{{sortTitle(product.name)}}</span>
                 <p>{{sortContent(product.description)}}</p>
             </md-card-content>
+            <div class="price-box-back">
+                empty
+            </div>
             <div class="price-box" layout="row" layout-align="center center">
                 <span>{{product.basicPrice}}</span>
                 <span>&nbsp $</span>

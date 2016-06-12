@@ -1,7 +1,8 @@
 ﻿<div layout="row" layout-align="center center" ng-show="loading">
     <md-progress-circular md-mode="indeterminate" md-diameter="124"></md-progress-circular>
 </div>
-<div flex layout="row" class="product-page" layout-align="start center" ng-show="!loading" flex>
+
+<div flex layout="column" class="product-page" layout-align="start center" ng-show="!loading" style="overflow: hidden"> 
     <div layout="row" layout-align="space-between" class="product-details">
         <!--        Left-->
         <div layout="column" flex="50">
@@ -11,8 +12,10 @@
             <div class="product-name">
                 {{product.name}}
             </div>
-            <span class="seller-name ">BY <md-button ng-click="showUser(product.seller.id)">{{product.seller.fullName}}</md-button> ({{product.seller.rating}}
-            <md-icon style="font-size: 20px;" class="material-icons">grade</md-icon>)</span>
+            <span class="seller-name ">
+                BY <md-button ng-click="showUser(product.seller.id)">{{product.seller.fullName}}</md-button> ({{product.seller.rating}}
+                <md-icon style="font-size: 20px;" class="material-icons">grade</md-icon>)
+            </span>
             <label class="current-price">Current price: {{currentPrice}} $</label>
             <div layout="row" layout-align="start center">
                 <span ng-show="!isSeller">
@@ -89,5 +92,16 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="suggestions" layout="row" layout-align="start start">
+        <md-tabs md-dynamic-height>
+            <md-tab label="Suggestion Products">
+                <md-content class="md-padding" layout="row">
+                    <suggestion-product product="product"></suggestion-product>
+                    <suggestion-product product="product"></suggestion-product>
+                    <suggestion-product product="product"></suggestion-product>
+                </md-content>
+            </md-tab>
+        </md-tabs>
     </div>
 </div>
