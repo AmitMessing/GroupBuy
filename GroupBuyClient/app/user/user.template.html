@@ -2,7 +2,7 @@
     <div layout="column" flex="25">
         <md-card class="profile-card">
             <div class="user-image-div">
-                <img ng-src="{{currentUser.image}}" class="md-card-image user-image">
+            <img ng-if="currentUser.image"  ng-src="{{currentUser.image}}" class="md-card-image user-image">
                 <i ng-if="!currentUser.image" class="md-card-image material-icons default-image">person</i>
             </div>
             <md-card-title layout-align="start start" layout="row">

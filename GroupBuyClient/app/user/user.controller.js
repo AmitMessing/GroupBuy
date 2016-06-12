@@ -10,6 +10,7 @@ mainApp
                 userName: "",
                 password: "",
                 email: "",
+                image: "",
                 registerDate: ""
         };
 
