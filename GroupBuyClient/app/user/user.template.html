@@ -1,18 +1,18 @@
 ﻿<div layout="row" class="profile-page">
     <div layout="column" flex="25">
         <md-card class="profile-card">
-            <img ng-src="{{currentUser.image}}" class="md-card-image user-image">
             <div class="user-image-div">
-                <i class="md-card-image material-icons user-image">person</i>
+                <img ng-src="{{currentUser.image}}" class="md-card-image user-image">
+                <i ng-if="!currentUser.image" class="md-card-image material-icons default-image">person</i>
             </div>
             <md-card-title layout-align="start start" layout="row">
                 <md-card-title-text layout-align="center center">
-                    <span class="md-headline">{{currentUser.firstName}} {{currentUser.lastName}}</span>
+                    <span class="md-headline" style="font-size: 40px;">{{currentUser.firstName}} {{currentUser.lastName}}</span>
                     <span class="md-subhead">{{currentUser.userName}}</span>
                 </md-card-title-text>
             </md-card-title>
             <md-card-content>
-                <div class="md-subhead" layout="row" style="margin-bottom: 45px">
+                <div class="md-subhead" layout="row" style="margin-bottom: 25px">
                     <div layout="column" flex="30">
                         <label class="bold-label">
                             Email
@@ -20,7 +20,7 @@
                     </div>
                     {{currentUser.email}}
                 </div>
-                <div class="md-subhead" layout="row" style="margin-bottom: 45px">
+                <div class="md-subhead" layout="row" style="margin-bottom: 25px">
                     <div layout="column" flex="30">
                         <label class="bold-label">
                             Join Date
@@ -28,7 +28,7 @@
                     </div>
                         {{currentUser.registerDate | date: 'medium'}}
                     </div>
-                <div ng-hide="currentUser != loggedUser" layout="row" class="md-subhead" style="margin-bottom: 45px">
+                <div ng-hide="currentUser != loggedUser" layout="row" class="md-subhead" style="margin-bottom: 25px">
                     <div layout="column" flex="30">
                         <label class="bold-label">
                             Password

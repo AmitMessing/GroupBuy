@@ -7,11 +7,17 @@
     border-radius: 75px !important;
 }
 
-.user-image {
+.default-image {
     margin-left: 15px !important;
     margin-top: 10px !important;
     font-size: 110px !important;
     color: grey;
+}
+
+.user-image {
+    width: 140px;
+    height: 140px;
+    border-radius: 75px !important;
 }
 
 .profile-page {
