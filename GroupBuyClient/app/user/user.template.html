@@ -1,9 +1,11 @@
 ﻿<div layout="row" class="profile-page">
     <div layout="column" flex="25">
         <md-card class="profile-card">
-            <div class="user-image-div">
-            <img ng-if="currentUser.image"  ng-src="{{currentUser.image}}" class="md-card-image user-image">
-                <i ng-if="!currentUser.image" class="md-card-image material-icons default-image">person</i>
+            <div layout="row" layout-align="center center">
+                <div class="user-image-div" layout-align="center center">
+                    <img ng-if="currentUser.image" ng-src="{{currentUser.image}}" class="md-card-image user-image">
+                    <i ng-if="!currentUser.image" layout-align="center center" class="md-card-image material-icons default-image">person</i>
+                </div>
             </div>
             <md-card-title layout-align="start start" layout="row">
                 <md-card-title-text layout-align="center center">
@@ -26,16 +28,16 @@
                             Join Date
                         </label>
                     </div>
-                        {{currentUser.registerDate | date: 'medium'}}
-                    </div>
+                    {{currentUser.registerDate | date: 'medium'}}
+                </div>
                 <div ng-hide="currentUser != loggedUser" layout="row" class="md-subhead" style="margin-bottom: 25px">
                     <div layout="column" flex="30">
                         <label class="bold-label">
                             Password
                         </label>
                     </div>
-                        {{currentUser.password}}
-                    </div>
+                    {{currentUser.password}}
+                </div>
             </md-card-content>
         </md-card>
     </div>
@@ -44,11 +46,11 @@
         <div layout="row" flex>
             <div layout="column" flex>
                 <md-tabs md-dynamic-height>
-                    <md-tab label="My buyer rate">
+                    <md-tab label="My seller reviews">
                         <md-content class="md-padding tab-content">
                             <div class="reviews" layout="column">
-                                <div class="all-reviews">
-                                    <md-card ng-repeat="review in reviews.buyerReviews" class="review-card">
+                                <div class="buyer-reviews">
+                                    <md-card ng-repeat="review in reviews.sellerReviews" class="user-review-card">
                                         <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
                                             <span class="reviewer">{{review.reviewer}}</span>
                                             <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
@@ -63,8 +65,31 @@
                             </div>
                         </md-content>
                     </md-tab>
-                    <md-tab label="My seller rate">
+                    <md-tab label="My buyer reviews">
                         <md-content class="md-padding tab-content">
+                            <div class="reviews" layout="column">
+                                <div ng-show="currentUser != loggedUser" class="new-review" layout="row" layout-align="start center">
+                                    <md-input-container style="width: 100%; margin-top: 40px">
+                                        <label>write a review about the seller</label>
+                                        <input ng-model="newReview.content">
+                                    </md-input-container>
+                                    <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
+                                    <md-icon class="material-icons" ng-click="saveReview()" style="cursor: pointer">send</md-icon>
+                                </div>
+                                <div class="buyer-reviews">
+                                    <md-card ng-repeat="review in reviews.buyerReviews" class="user-review-card">
+                                        <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
+                                            <span class="reviewer">{{review.reviewer}}</span>
+                                            <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
+                                            <div style="margin-left: auto;">
+                                                <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
+                                                         class="material-icons review-grade">grade</md-icon>
+                                            </div>
+                                        </div>
+                                        <span>{{review.content}}</span>
+                                    </md-card>
+                                </div>
+                            </div>
                         </md-content>
                     </md-tab>
                 </md-tabs>

@@ -2,20 +2,46 @@
     width: 180px !important;
     height: 180px !important;
     background: gainsboro;
-    margin-left: 75px;
     margin-top: 15px;
     border-radius: 90px !important;
 }
 
+.buyer-reviews {
+    height: 300px;
+    overflow-x: auto; 
+}
+
+.reviewer {
+    color: #03A9F4;
+}
+
+.date {
+    color: gray;
+    font-size: 10px;
+}
+
+.review-grade {
+    text-shadow: .05em .05em #aaa;
+    font-size: 20px;
+    color: #fd0
+}
+
+.user-review-card {
+    height: 64px;
+    padding: 8px;
+}
+
 .default-image {
-    margin-left: 15px !important;
-    margin-top: 10px !important;
+    margin-top: 29px !important;
+    margin-left: 34px !important;
     font-size: 110px !important;
     color: grey;
 }
 
 .tab-content {
     height: 360px;
+    background: #f5f5f5;
+    overflow: auto;
 }
 
 .user-image {
@@ -34,6 +60,11 @@
 
 .bold-label {
     font-weight: bold;
+}
+
+md-tabs.md-default-theme md-ink-bar, md-tabs md-ink-bar {
+    color: orange !important;
+    background-color:orange !important;
 }
 
 

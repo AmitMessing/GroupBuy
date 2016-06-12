@@ -5,6 +5,8 @@ mainApp
 
             var userApi = $resource("/GroupBuyServer/api/users/user");
             var reviewsApi = $resource("/GroupBuyServer/api/users/reviews");
+            var saveReviewsApi = $resource("/GroupBuyServer/api/onBuyerReviews/save");
+
             $scope.currentUser = {
                 firstName: "",
                 lastName: "",
@@ -90,6 +92,18 @@ mainApp
 
             $scope.getRatingArray = function (rating) {
                 return new Array(rating);
+            };
+
+            $scope.saveReview = function () {
+                $scope.newReview.publishDate = new Date();
+                $scope.newReview.onUserId = $scope.currentUser.id;
+                return saveReviewsApi.save($scope.newReview).$promise
+                    .then(function (newRate) {
+                        $scope.user.sellerRate = newRate.newRating;
+                        loadReviews();
+                    }, function (error) {
+                        $scope.errorMessage = error.data.Message;
+                    });
             };
 
         }

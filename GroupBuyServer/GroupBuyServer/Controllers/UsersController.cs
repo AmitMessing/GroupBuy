@@ -85,11 +85,16 @@ namespace GroupBuyServer.Controllers
                 var reviewsList = session.QueryOver<Review>().Where(x => x.OnUserId == id).List();
                 foreach (var review in reviewsList)
                 {
+                    var reviewer =
+                        session.QueryOver<User>().Where(x => x.Id == review.ReviewerId).SingleOrDefault().UserName;
                     if (review.IsOnSeller)
                     {
-                        sellerReviews.Add(new ReviewViewModel(review, user.UserName));
+                        sellerReviews.Add(new ReviewViewModel(review, reviewer));
                     }
-                    buyersReviews.Add(new ReviewViewModel(review, user.UserName));
+                    else
+                    {
+                        buyersReviews.Add(new ReviewViewModel(review, reviewer));    
+                    }
                 }
                  viewModelToReturn = new UserResviewsViewModel
                 {
