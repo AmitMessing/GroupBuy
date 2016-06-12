@@ -94,12 +94,11 @@
         </div>
     </div>
     <div class="suggestions" layout="row" layout-align="start start">
-        <md-tabs md-dynamic-height>
+        <md-tabs md-dynamic-height style="width: 100%">
             <md-tab label="Suggestion Products">
-                <md-content class="md-padding" layout="row">
-                    <suggestion-product product="product"></suggestion-product>
-                    <suggestion-product product="product"></suggestion-product>
-                    <suggestion-product product="product"></suggestion-product>
+                <md-progress-circular ng-show="loadSuggestions" md-mode="indeterminate"></md-progress-circular>
+                <md-content class="md-padding" ng-show="!loadSuggestions" layout="row" style="overflow-x: overlay; padding: 30px 10px;">
+                    <suggestion-product ng-repeat="suggested in suggestionsProducts" product="suggested"></suggestion-product>
                 </md-content>
             </md-tab>
         </md-tabs>

@@ -4,7 +4,7 @@
 
 .product-page {
     padding: 0 25px;
-    margin: 0 200px;
+    margin: 30px 200px;
 }
 
 .product-page .product-img {
@@ -56,8 +56,8 @@
 
 .currentDiscount {
     font-weight: bold;
-    background-color: #03A9F4;
-    color: white;
+    background-color: rgba(211, 211, 211, 0.37);
+    color: #03A9F4;
 }
 
 .product-page .tabel-header-cell {

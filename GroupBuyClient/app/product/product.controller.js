@@ -12,6 +12,7 @@ mainApp
             $scope.isSeller = false;
             $scope.isBuyer = false;
             $scope.isExpierd = false;
+            $scope.loadSuggestions = false;
             $scope.newReview = { rating: 3 };
 
             var calcProduct = function(discounts) {
@@ -133,6 +134,16 @@ mainApp
                 $state.go('shell.user', { id: user });
             };
 
+        var loadSuggestions = function() {
+            $scope.loadSuggestions = true;
+            var products = $resource("/GroupBuyServer/api/products/suggestions");
+            products.query({ id: $scope.product.id }).$promise
+                .then(function(response) {
+                    $scope.suggestionsProducts = response;
+                    $scope.loadSuggestions = false;
+                });
+        };
+
             var initData = function(id) {
                 $scope.loading = true;
                 $scope.currentUser = userService.getLoggedUser();
@@ -140,12 +151,8 @@ mainApp
                 api.get({ id: id }).$promise
                     .then(function(product) {
                         if (product) {
-                            var products = $resource("/GroupBuyServer/api/products/suggestions");
-                            products.query({ id: product.id }).$promise
-                                .then(function(response) {
-                                    console.log(response);
-                                });
                             $scope.product = product;
+                            loadSuggestions();
                             loadReviews();
                             calcProduct($scope.product.discounts);
                             sortDiscountAascending();
