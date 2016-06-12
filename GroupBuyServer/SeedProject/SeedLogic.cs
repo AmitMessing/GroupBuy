@@ -7,6 +7,7 @@ using System.Text;
 using FluentNHibernate.Utils;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using NHibernate;
 using NHibernate.Dialect;
 using NHibernate.Linq;
 using SeedProject.Models;
@@ -32,6 +33,8 @@ namespace SeedProject
                     {
                         user.RegisterDate = RandomPastDate(r);
                         session.Save(user);
+
+
                         session.Flush();
                         success++;
                     }
@@ -70,6 +73,7 @@ namespace SeedProject
 
         public int SeddProducts()
         {
+            var r = new Random(new Guid().GetHashCode());
             List<Product> allProducts = LoadAllProducts();
             int success = 0;
 
@@ -86,7 +90,9 @@ namespace SeedProject
                             {
                                 session.Save(discount);
                             }
-//                            session.Flush();
+
+                            randomSellerReviews(session, r, product);
+
                             tran.Commit();
                             success++;
                         }
@@ -97,7 +103,115 @@ namespace SeedProject
                 }
             }
 
+            // Seed reviews
+            SeedOnBuyerReviews(allProducts);
+            CalcRates();
+
             return success;
+        }
+
+        private void CalcRates()
+        {
+            foreach (var user in UsersHelper.Users)
+            {
+                using (var session = NHibernateHandler.CurrSession)
+                {
+                    using (var tran = session.BeginTransaction())
+                    {
+                        var reviews =
+                            session.Query<Review>()
+                                .Where(x => x.OnUserId == user.Id)
+                                .Select(x => new { rating = x.Rating, isOSeller = x.IsOnSeller})
+                                .ToList();
+
+                        var onSeller = reviews.Where(x => x.isOSeller);
+                        var onBuyer = reviews.Where(x => !x.isOSeller);
+
+                        float onBuyerRating = 0;
+                        float onSellerRating = 0;
+
+                        if (onBuyer.Any())
+                        {
+                            double avg = ((double) onBuyer.Sum(x => x.rating))/((double) onBuyer.Count());
+                            onBuyerRating = (float)Math.Round(avg, MidpointRounding.AwayFromZero);
+                        }
+
+                        if (onSeller.Any())
+                        {
+                            double avg = ((double)onSeller.Sum(x => x.rating)) / ((double)onSeller.Count());
+                            onSellerRating = (float) Math.Round(avg, MidpointRounding.AwayFromZero);
+                        }
+
+                        var wantedUser = session.Get<User>(user.Id);
+                        wantedUser.BuyerRate = onBuyerRating;
+                        wantedUser.SellerRate = onSellerRating;
+
+                        session.Save(wantedUser);
+                        tran.Commit();
+                    }
+                }
+            }
+        }
+
+        private void randomSellerReviews(ISession session, Random r,Product product)
+        {
+            
+            int numOfReviews = r.Next(0, 6);
+
+            for (int i = 0; i < numOfReviews; i++)
+            {
+                var newReview = new Review
+                {
+                    IsOnSeller = true,
+                    OnUserId = product.Seller.Id,
+                    ProductId = product.Id,
+                    PublishDate = product.PublishDate,
+                    Rating = r.Next(1, 5),
+                    ReviewerId = UsersHelper.Users[r.Next(0, UsersHelper.Users.Count)].Id,
+                    Content = ReviewsHelper.OnBuyer[r.Next(0, 10)]
+                };
+
+                session.Save(newReview);
+            }
+        }
+
+        private void SeedOnBuyerReviews(List<Product> allProducts)
+        {
+            var r = new Random(new Guid().GetHashCode());
+            foreach (var user in UsersHelper.Users)
+            {
+                using (var session = NHibernateHandler.CurrSession)
+                {
+                    using (var tran = session.BeginTransaction())
+                    {
+                        var onBuyerReviews = new List<Review>();
+                        int numOfReviews = r.Next(0, 6);
+                        for (int i = 0; i < numOfReviews; i++)
+                        {
+                            try
+                            {
+                                var newReview = new Review
+                                {
+                                    IsOnSeller = false,
+                                    OnUserId = user.Id,
+                                    ProductId = allProducts[r.Next(0, allProducts.Count)].Id,
+                                    PublishDate = RandomPastDate(r),
+                                    Rating = r.Next(1, 5),
+                                    ReviewerId = UsersHelper.Users[r.Next(0, UsersHelper.Users.Count)].Id,
+                                    Content = ReviewsHelper.OnSeller[r.Next(0, 10)]
+                                };
+
+                                onBuyerReviews.Add(newReview);
+                                session.Save(newReview);
+                                tran.Commit();
+                            }
+                            catch (Exception ex)
+                            {
+                            }
+                        }        
+                    }
+                }
+            }
         }
 
         private DateTime RandomPastDate(Random random)
