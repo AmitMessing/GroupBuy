@@ -68,7 +68,7 @@
                     <md-tab label="My buyer reviews">
                         <md-content class="md-padding tab-content">
                             <div class="reviews" layout="column">
-                                <div ng-show="currentUser != loggedUser" class="new-review" layout="row" layout-align="start center">
+                                <div layout="row" ng-hide="currentUser == loggedUser" layout-align="start center">
                                     <md-input-container style="width: 100%; margin-top: 40px">
                                         <label>write a review about the seller</label>
                                         <input ng-model="newReview.content">

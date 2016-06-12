@@ -7,6 +7,7 @@ mainApp
             var reviewsApi = $resource("/GroupBuyServer/api/users/reviews");
             var saveReviewsApi = $resource("/GroupBuyServer/api/onBuyerReviews/save");
 
+            $scope.newReview = { rating: 3 };
             $scope.currentUser = {
                 firstName: "",
                 lastName: "",
@@ -24,22 +25,25 @@ mainApp
                 $scope.loggedUser = user;
             }
 
-            $scope.id = $stateParams.id;
-            if ($scope.id) {
-                userApi.get({ id: $scope.id }).$promise.then(function(result) {
-                    $scope.currentUser = result;
-                });
-            } else {
-                $scope.currentUser = $scope.loggedUser;
-            }
-
             var loadReviews = function () {
                 reviewsApi.get({ id: $scope.currentUser.id }).$promise.then(function (result) {
                     $scope.reviews = result;
                 });
             }
 
-            loadReviews();
+            $scope.id = $stateParams.id;
+            if ($scope.id) {
+                userApi.get({ id: $scope.id }).$promise.then(function(result) {
+                    $scope.currentUser = result;
+                    loadReviews();
+                });
+
+            } else {
+                $scope.currentUser = $scope.loggedUser;
+                loadReviews();
+            }
+
+           
 
             $scope.showSellerComment = function (ev) {
                 $mdDialog.show({
@@ -97,9 +101,11 @@ mainApp
             $scope.saveReview = function () {
                 $scope.newReview.publishDate = new Date();
                 $scope.newReview.onUserId = $scope.currentUser.id;
+                $scope.newReview.reviewerId = $scope.loggedUser.id;
                 return saveReviewsApi.save($scope.newReview).$promise
                     .then(function (newRate) {
                         $scope.user.sellerRate = newRate.newRating;
+                        $scope.newReview.content = "";
                         loadReviews();
                     }, function (error) {
                         $scope.errorMessage = error.data.Message;
