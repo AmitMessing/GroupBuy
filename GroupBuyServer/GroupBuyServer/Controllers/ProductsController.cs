@@ -140,7 +140,7 @@ namespace GroupBuyServer.Controllers
             return Ok(lstSuggestions);
         }
 
-        [HttpPut]
+        [HttpPost]
         [ActionName("UpdateEndDate")]
         public IHttpActionResult UpdateEndDate(ProductViewModel product)
         {
@@ -149,7 +149,7 @@ namespace GroupBuyServer.Controllers
                 using (var tran = session.BeginTransaction())
                 {
                     var productFromDb = session.Get<Product>(product.Id);
-                    productFromDb.EndDate = product.EndDate;
+                    productFromDb.EndDate = product.EndDate.AddDays(1);
 
                     session.Save(productFromDb);
                     tran.Commit();

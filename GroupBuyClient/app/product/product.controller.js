@@ -2,6 +2,7 @@ mainApp
     .controller('productController', [
         '$scope', '$stateParams', '$resource', '$state', '$mdDialog', 'userService', function ($scope, $stateParams, $resource, $state, $mdDialog, userService) {
 
+            var productDateApi = $resource('/GroupBuyServer/api/products/UpdateEndDate');
             var api = $resource('/GroupBuyServer/api/products/product');
             var buyersApi = $resource("/GroupBuyServer/api/buyers/save");
             var getReviewsApi = $resource("/GroupBuyServer/api/onSellerReviews/reviews");
@@ -49,7 +50,9 @@ mainApp
                     $scope.isBuyer = true;
                 }
 
+            
                 var today = new Date();
+                $scope.minDate = today;
                 $scope.endDate = new Date($scope.product.endDate.replace("T", " ").replace(/-/g, "/"));
 
                 if ($scope.endDate < today) {
@@ -67,8 +70,14 @@ mainApp
                     );
         };
 
-        $scope.onEndDateChanged = function() {
+        $scope.onEndDateChanged = function () {
             $scope.product.endDate = $scope.endDate;
+            return productDateApi.save($scope.product).$promise
+                .then(function() {
+                }, function(error) {
+                    $scope.errorMessage = error.data.Message;
+                });
+
         };
 
             var sortDiscountAascending = function() {
@@ -117,7 +126,7 @@ mainApp
                         loadReviews();
                 }, function(error) {
                         $scope.errorMessage = error.data.Message;
-                    });
+                });
             };
 
             $scope.showUser = function(user) {
@@ -195,7 +204,7 @@ mainApp
             };
 
             $scope.dateFormat = function(date) {
-                if (date) {
+                if (date && typeof date === 'string') {
                     var format = date.split("T")[0].split("-");
                     return format[2] + "." + format[1] + "." + format[0];
                 }

@@ -21,7 +21,7 @@
                 </span>
                 <span ng-show="isSeller" layout="row" layout-align="start center">
                     <b>Expired Date: </b>
-                    <md-datepicker ng-change="onEndDateChanged()" ng-model="endDate" md-placeholder="Select end date">
+                    <md-datepicker id="endDatePicker" md-min-date="minDate" ng-change="onEndDateChanged()" ng-model="endDate" md-placeholder="Select end date">
                     </md-datepicker>
 
                 </span>
