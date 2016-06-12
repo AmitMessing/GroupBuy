@@ -1,5 +1,5 @@
-﻿<div layout="row" class="profile-page">
-    <div layout="column" flex="25">
+﻿<div layout="column" class="profile-page">
+    <div layout="row">
         <md-card class="profile-card">
             <div layout="row" layout-align="center center">
                 <div class="user-image-div" layout-align="center center">
@@ -40,68 +40,59 @@
                 </div>
             </md-card-content>
         </md-card>
-    </div>
-    <div layout="column" flex="5"></div>
-    <div layout="column" flex>
-        <div layout="row" flex>
-            <div layout="column" flex>
-                <md-tabs md-dynamic-height>
-                    <md-tab label="My seller reviews">
-                        <md-content class="md-padding tab-content">
-                            <div class="user-reviews" layout="column">
-                                <div class="buyer-reviews">
-                                    <md-card ng-repeat="review in reviews.sellerReviews" class="user-review-card">
-                                        <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
-                                            <span class="reviewer">{{review.reviewer}}</span>
-                                            <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
-                                            <div style="margin-left: auto;">
-                                                <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
-                                                         class="material-icons review-grade">grade</md-icon>
-                                            </div>
-                                        </div>
-                                        <span>{{review.content}}</span>
-                                    </md-card>
+        <md-tabs class="reviews-tabs" flex>
+            <md-tab label="My seller reviews">
+                <md-content class="md-padding tab-content">
+                    <div class="user-reviews" layout="column">
+                        <div class="buyer-reviews">
+                            <md-card ng-repeat="review in reviews.sellerReviews" class="user-review-card">
+                                <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
+                                    <span class="reviewer">{{review.reviewer}}</span>
+                                    <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
+                                    <div style="margin-left: auto;">
+                                        <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
+                                                    class="material-icons review-grade">grade</md-icon>
+                                    </div>
                                 </div>
-                            </div>
-                        </md-content>
-                    </md-tab>
-                    <md-tab label="My buyer reviews">
-                        <md-content class="md-padding tab-content">
-                            <div class="reviews" layout="column">
-                                <div layout="row" ng-hide="currentUser == loggedUser" layout-align="start center">
-                                    <md-input-container style="width: 100%; margin-top: 40px">
-                                        <label>write a review about the seller</label>
-                                        <input ng-model="newReview.content">
-                                    </md-input-container>
-                                    <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
-                                    <md-icon class="material-icons" ng-click="saveReview()" style="cursor: pointer">send</md-icon>
-                                </div>
-                                <div class="buyer-reviews">
-                                    <md-card ng-repeat="review in reviews.buyerReviews" class="user-review-card">
-                                        <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
-                                            <span class="reviewer">{{review.reviewer}}</span>
-                                            <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
-                                            <div style="margin-left: auto;">
-                                                <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
-                                                         class="material-icons review-grade">grade</md-icon>
-                                            </div>
-                                        </div>
-                                        <span>{{review.content}}</span>
-                                    </md-card>
-                                </div>
-                            </div>
-                        </md-content>
-                    </md-tab>
-                </md-tabs>
-            </div>
-        </div>
-        <div layout="row" flex>
-            <div class="suggestions" layout="row" layout-align="start start">
-                <md-content class="md-padding" ng-show="!loadSuggestions" layout="row" style="overflow-x: overlay; background: #f5f5f5; padding: 30px 10px;">
-                    <suggestion-product ng-repeat="suggested in suggestionsProducts" product="suggested"></suggestion-product>
+                                <span>{{review.content}}</span>
+                            </md-card>
+                        </div>
+                    </div>
                 </md-content>
-            </div>
+            </md-tab>
+            <md-tab label="My buyer reviews">
+                <md-content class="md-padding tab-content">
+                    <div class="reviews" layout="column">
+                        <div layout="row" ng-hide="currentUser == loggedUser" layout-align="start center">
+                            <md-input-container style="width: 100%; margin-top: 40px">
+                                <label>write a review about the seller</label>
+                                <input ng-model="newReview.content">
+                            </md-input-container>
+                            <star-rating ng-model="newReview.rating" on-rating-select="rating.rateFunction(rating)"></star-rating>
+                            <md-icon class="material-icons" ng-click="saveReview()" style="cursor: pointer">send</md-icon>
+                        </div>
+                        <div class="buyer-reviews">
+                            <md-card ng-repeat="review in reviews.buyerReviews" class="user-review-card">
+                                <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
+                                    <span class="reviewer">{{review.reviewer}}</span>
+                                    <span class="date"><span style="margin: 0 5px;"> | </span>{{dateFormat(review.publishDate)}}</span>
+                                    <div style="margin-left: auto;">
+                                        <md-icon ng-repeat="rate in getRatingArray(review.rating) track by $index"
+                                                    class="material-icons review-grade">grade</md-icon>
+                                    </div>
+                                </div>
+                                <span>{{review.content}}</span>
+                            </md-card>
+                        </div>
+                    </div>
+                </md-content>
+            </md-tab>
+        </md-tabs>
+    </div>
+    <div class="suggestions" layout="row" layout-align="start start">
+        <md-progress-circular ng-show="loadSuggestions" md-mode="indeterminate"></md-progress-circular>
+        <div ng-show="!loadSuggestions" layout="row" class="user-products">
+            <suggestion-product class="md-padding" ng-repeat="suggested in suggestionsProducts" product="suggested"></suggestion-product>
         </div>
     </div>
-    <div layout="column" flex="5"></div>
 </div>
