@@ -11,6 +11,7 @@
 @import 'user/user.css';
 @import 'directives/star-rating/star-rating.css';
 @import 'directives/suggestion-product/suggestion-product.css';
+@import url('search/search.css');
 
 body {
     font-family: 'Segoe UI';

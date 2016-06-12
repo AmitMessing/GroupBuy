@@ -30,7 +30,7 @@ namespace GroupBuyServer.Utils
             {
                 client.Headers[HttpRequestHeader.ContentType] = "application/json";
                 client.Encoding = UTF8Encoding.UTF8;
-                ProductIndexData currProductIndexData = new ProductIndexData(p_objProduct.Id, p_objProduct.Name);
+                ProductIndexData currProductIndexData = new ProductIndexData(p_objProduct.Id, p_objProduct.Name, p_objProduct.Image, p_objProduct.BasicPrice);
                 string strResponse = 
                     client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/" + INDEX_TYPE + "/", "POST", JsonConvert.SerializeObject(currProductIndexData));
             }
@@ -42,21 +42,43 @@ namespace GroupBuyServer.Utils
 
             using (WebClient client = new WebClient())
             {
-                var searchQuery = new {
-                    query = new {
-                        match = new {
-                            ProductName = p_strSearchQuery
+                var searchQuery = new
+                {
+                    query = new
+                    {
+                        match = new
+                        {
+                            Name = p_strSearchQuery
                         }
                     },
-                    highlight = new { 
-                        fields = new {
-                            ProductName = new {}
+                    highlight = new
+                    {
+                        fields = new
+                        {
+                            Name = new { }
                         }
                     }
                 };
 
                 string strSearchQuery = JsonConvert.SerializeObject(searchQuery);
-
+                //string strSearchQuery = "{\"query\":{ \"multi_match\":{ \"query\":\"" + p_strSearchQuery + "\", \"type\":\"most_fields\", \"fields\": [\"ProductName\",\"ProductNameRow^2\"], \"operator\": \"and\"}}, \"highlight\": {\"fields\": {\"ProductName\":{}, \"ProductNameRow\":{}}}}";
+                //string strSearchQuery = "{" +
+                //                              "\"query\": {" +
+                //                                "\"bool\": {" +
+                //                                  "\"should\": [" +
+                //                                    "{ \"match\": {" +
+                //                                        "\"ProductNameRaw\":  {" +
+                //                                          "\"query\": \"" + p_strSearchQuery + "\"," +
+                //                                          "\"boost\": 2" +
+                //                                    "}}}," +
+                //                                    "{ \"match\": {" +
+                //                                        "\"ProductName\":  {" +
+                //                                          "\"query\": \"" + p_strSearchQuery + "\"" +
+                //                                    "}}}" +
+                //                                  "]" +
+                //                                "}" +
+                //                              "}" +
+                //                            "}";
                 string strResponse =
                     client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/" + INDEX_TYPE + "/_search?pretty", "POST", strSearchQuery);
                 JObject objResponse = JsonConvert.DeserializeObject<JObject>(strResponse);
@@ -69,7 +91,7 @@ namespace GroupBuyServer.Utils
                     foreach (JObject currResult in objHitsResult.Children<JObject>())
                     {
                         ProductIndexData currProductIndexData = currResult.GetValue("_source").ToObject<ProductIndexData>();
-                        currProductIndexData.ProductName = currResult.GetValue("highlight").Value<JArray>("ProductName").First.Value<string>();
+                        currProductIndexData.Name = currResult.GetValue("highlight").Value<JArray>("Name").First.Value<string>();
                         results.Add(currProductIndexData);
                     }
                 }
@@ -81,34 +103,35 @@ namespace GroupBuyServer.Utils
 
     public class ProductIndexData
     {
-        private Guid m_intProductId;
-        private string m_strProductName;
-
-        public Guid ProductId { 
-            get {
-                return this.m_intProductId;
-            } 
-            set {
-                this.m_intProductId = value;
-            } 
+        public Guid Id
+        {
+            get;
+            set;
         }
 
-        public string ProductName
+        public string Name
         {
-            get
-            {
-                return this.m_strProductName;
-            }
-            set
-            {
-                this.m_strProductName = value;
-            }
+            get;
+            set;
+        }
+        public string Image
+        {
+            get;
+            set;
         }
 
-        public ProductIndexData(Guid p_intProductId, string p_strProductName)
+        public double Price 
+        { 
+            get;
+            set; 
+        }
+
+        public ProductIndexData(Guid p_intProductId, string p_strProductName, string p_strProductImage, double p_dblPrice)
         {
-            this.m_intProductId = p_intProductId;
-            this.m_strProductName = p_strProductName;
+            this.Id = p_intProductId;
+            this.Name = p_strProductName;
+            this.Image = p_strProductImage;
+            this.Price = p_dblPrice;
         }
     }
 }

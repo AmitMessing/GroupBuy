@@ -7,6 +7,7 @@ using System.ComponentModel;
 using System.Configuration;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -55,7 +56,7 @@ namespace ElasticSearchManager
                         {
                             properties = new
                             {
-                                ProductId = new
+                                Id = new
                                 {
                                     type = "string",
                                     index = "not_analyzed",
@@ -63,10 +64,26 @@ namespace ElasticSearchManager
                                         enabled = false
                                     }
                                 },
-                                ProductName = new
+                                Name = new
                                 {
                                     type = "string",
+                                    fields = new {
+                                        NameRaw = new
+                                        {
+                                            type = "string",
+                                            index = "not_analyzed"
+                                        }
+                                    },
                                     analyzer = "products_analyzer"
+                                },
+                                Image = new
+                                {
+                                    type = "binary"
+                                },
+                                Price = new
+                                {
+                                    type = "double",
+                                    index = "not_analyzed"
                                 }
                             }
                         }
@@ -105,7 +122,7 @@ namespace ElasticSearchManager
 
                         foreach (Product currProduct in lstAllProducts)
                         {
-                            ProductIndexData currProductIndexData = new ProductIndexData(currProduct.Id, currProduct.Name);
+                            ProductIndexData currProductIndexData = new ProductIndexData(currProduct.Id, currProduct.Name, currProduct.Image, currProduct.BasicPrice);
                             string strResponse =
                                 client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/" + INDEX_TYPE + "/", "POST", JsonConvert.SerializeObject(currProductIndexData));
                         }

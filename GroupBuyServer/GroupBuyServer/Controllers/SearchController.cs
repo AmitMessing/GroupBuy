@@ -12,6 +12,7 @@ namespace GroupBuyServer.Controllers
     public class SearchController : ApiController
     {
         [HttpPost]
+        [ActionName("search")]
         public IHttpActionResult Search(JObject p_objSearchText)
         {
             List<ProductIndexData> lstSearchResults = null; 
