@@ -22,6 +22,7 @@ namespace SeedProject
 
         public int SeddUsers()
         {
+            var r = new Random(new Guid().GetHashCode());
             int success = 0;
             foreach (var user in UsersHelper.Users)
             {
@@ -29,6 +30,7 @@ namespace SeedProject
                 {
                     try
                     {
+                        user.RegisterDate = RandomPastDate(r);
                         session.Save(user);
                         session.Flush();
                         success++;
@@ -123,13 +125,11 @@ namespace SeedProject
         private List<Product> LoadAllProducts()
         {
             var products = new List<Product>();
-            int productSquence = 1;
 
             foreach (string line in File.ReadLines("../../ProductsData/categoriesFiles.txt", Encoding.UTF8))
             {
-                List<Product> newProducts = LoadAllCurrentFileProducts(line, productSquence);
+                List<Product> newProducts = LoadAllCurrentFileProducts(line);
                 products.AddRange(newProducts);
-                productSquence = productSquence + newProducts.Count;
             }
 
             return products;
@@ -216,7 +216,6 @@ namespace SeedProject
                             }
 
                             allProducts.Add(newProduct);
-                            productSquence++;
                         }
                     }
                 }

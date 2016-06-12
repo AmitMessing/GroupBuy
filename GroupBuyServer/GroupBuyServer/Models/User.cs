@@ -30,9 +30,9 @@ namespace GroupBuyServer.Models
             Map(x => x.Password, "password");
             Map(x => x.SellerRate, "seller_rate");
             Map(x => x.BuyerRate, "buyer_rate");
-            Map(x => x.Email);
+            Map(x => x.Email, "email");
             Map(x => x.RegisterDate, "register_date");
-            Map(x => x.Image).CustomType("StringClob").CustomSqlType("nvarchar(max)");
+            Map(x => x.Image, "image").CustomType("StringClob").CustomSqlType("nvarchar(max)");
         }
     }
 }

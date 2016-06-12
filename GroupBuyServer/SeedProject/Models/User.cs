@@ -12,6 +12,9 @@ namespace SeedProject.Models
         public virtual string Password { get; set; }
         public virtual float SellerRate { get; set; }
         public virtual float BuyerRate { get; set; }
+        public virtual string Image { get; set; }
+        public virtual string Email { get; set; }
+        public virtual DateTime RegisterDate { get; set; }
     }
 
     public class UserMap : ClassMap<User>
@@ -27,6 +30,9 @@ namespace SeedProject.Models
             Map(x => x.Password, "password");
             Map(x => x.SellerRate, "seller_rate");
             Map(x => x.BuyerRate, "buyer_rate");
+            Map(x => x.Email);
+            Map(x => x.RegisterDate, "register_date");
+            Map(x => x.Image).CustomType("StringClob").CustomSqlType("nvarchar(max)");
         }
     }
 }

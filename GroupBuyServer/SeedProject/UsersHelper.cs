@@ -14,7 +14,9 @@ namespace SeedProject
                     FirstName = "Noam",
                     LastName = "Horovitz",
                     UserName = "noamh",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[0]
                 },
                 new User
                 {
@@ -22,7 +24,9 @@ namespace SeedProject
                     FirstName = "Amit",
                     LastName = "Messing",
                     UserName = "amitm",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                                        Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[1]
                 },
                 new User
                 {
@@ -30,7 +34,9 @@ namespace SeedProject
                     FirstName = "Yulia",
                     LastName = "Teverovsky",
                     UserName = "yuliat",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[2]
                 },
                 new User
                 {
@@ -38,7 +44,9 @@ namespace SeedProject
                     FirstName = "Yoni",
                     LastName = "Yoni Abitbol",
                     UserName = "yonia",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[3]
                 },
                 new User
                 {
@@ -46,7 +54,9 @@ namespace SeedProject
                     FirstName = "Rachel",
                     LastName = "Horovitz",
                     UserName = "rachel",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[4]
                 },
                 new User
                 {
@@ -54,7 +64,9 @@ namespace SeedProject
                     FirstName = "Roy",
                     LastName = "Cohen",
                     UserName = "royc",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[5]
                 },
                 new User
                 {
@@ -62,7 +74,9 @@ namespace SeedProject
                     FirstName = "Noy",
                     LastName = "Cohen",
                     UserName = "noyc",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[6]
                 },
                 new User
                 {
@@ -71,6 +85,9 @@ namespace SeedProject
                     LastName = "Mary",
                     UserName = "nadavm",
                     Password = "Aa123456"
+                    ,
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[7]
                 },
                 new User
                 {
@@ -78,7 +95,9 @@ namespace SeedProject
                     FirstName = "Koby",
                     LastName = "Shimony",
                     UserName = "kobys",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[8]
                 },
                 new User
                 {
@@ -86,7 +105,9 @@ namespace SeedProject
                     FirstName = "Bar",
                     LastName = "Ezra",
                     UserName = "bare",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[9]
                 },
                 new User
                 {
@@ -94,7 +115,9 @@ namespace SeedProject
                     FirstName = "Amit",
                     LastName = "Wolfus",
                     UserName = "amitw",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[10]
                 },
                 new User
                 {
@@ -102,7 +125,9 @@ namespace SeedProject
                     FirstName = "Amir",
                     LastName = "Schlezinger",
                     UserName = "amirs",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[11]
                 },
                 new User
                 {
@@ -110,7 +135,9 @@ namespace SeedProject
                     FirstName = "Roni",
                     LastName = "Dalomi",
                     UserName = "ronid",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[12]
                 },
                 new User
                 {
@@ -118,7 +145,9 @@ namespace SeedProject
                     FirstName = "Roni",
                     LastName = "Dalomi2",
                     UserName = "ronid2",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[13]
                 },
                 new User
                 {
@@ -126,7 +155,9 @@ namespace SeedProject
                     FirstName = "Ingrid",
                     LastName = "Mickel",
                     UserName = "ingridm",
-                    Password = "Aa123456"
+                    Password = "Aa123456",
+                    Email = "mymail@gmail.com",
+                    Image = ImagesHelper.Users[14]
                 },
             };
     }
