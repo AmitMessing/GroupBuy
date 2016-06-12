@@ -13,7 +13,7 @@
                     <span class="md-subhead">{{currentUser.userName}}</span>
                 </md-card-title-text>
             </md-card-title>
-            <md-card-content style="padding-bottom: 45px">
+            <md-card-content style="padding-bottom: 85px">
                 <div class="md-subhead" layout="row" style="margin-bottom: 25px">
                     <div layout="column" flex="30">
                         <label class="bold-label">
@@ -48,7 +48,7 @@
                 <md-tabs md-dynamic-height>
                     <md-tab label="My seller reviews">
                         <md-content class="md-padding tab-content">
-                            <div class="reviews" layout="column">
+                            <div class="user-reviews" layout="column">
                                 <div class="buyer-reviews">
                                     <md-card ng-repeat="review in reviews.sellerReviews" class="user-review-card">
                                         <div layout="row" layout-align="start center" style="margin-bottom: 8px;">
@@ -95,9 +95,12 @@
                 </md-tabs>
             </div>
         </div>
-        <md-divider></md-divider>
         <div layout="row" flex>
-
+            <div class="suggestions" layout="row" layout-align="start start">
+                <md-content class="md-padding" ng-show="!loadSuggestions" layout="row" style="overflow-x: overlay; background: #f5f5f5; padding: 30px 10px;">
+                    <suggestion-product ng-repeat="suggested in suggestionsProducts" product="suggested"></suggestion-product>
+                </md-content>
+            </div>
         </div>
     </div>
     <div layout="column" flex="5"></div>

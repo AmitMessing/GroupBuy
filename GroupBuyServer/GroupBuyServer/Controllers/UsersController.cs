@@ -66,6 +66,32 @@ namespace GroupBuyServer.Controllers
             }
         }
 
+
+        [HttpGet]
+        [ActionName("products")]
+        public IHttpActionResult Products(Guid id)
+        {
+            IList<NewestProductViewModel> userProducts = new List<NewestProductViewModel>();
+            using (var session = NHibernateHandler.CurrSession)
+            {
+               var products = session.QueryOver<Product>().Where(x => x.Seller.Id == id).OrderBy(x => x.PublishDate).Desc.Take(10).List();
+                foreach (var product in products)
+                {
+                    userProducts.Add(new NewestProductViewModel()
+                    {
+                        Id = product.Id,
+                        Image = product.Image,
+                        PublishDate = product.PublishDate,
+                        Name = product.Name,
+                        BasicPrice = product.BasicPrice,
+                        Description = product.Description,
+                        EndDate = product.EndDate
+                    });
+                }
+            }
+            return Ok(userProducts);
+        }
+
         [HttpGet]
         [ActionName("reviews")]
         public IHttpActionResult GetReviews(Guid id)

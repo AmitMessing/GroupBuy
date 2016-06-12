@@ -7,6 +7,8 @@ mainApp
             var reviewsApi = $resource("/GroupBuyServer/api/users/reviews");
             var saveReviewsApi = $resource("/GroupBuyServer/api/onBuyerReviews/save");
 
+
+            $scope.loadSuggestions = false;
             $scope.newReview = { rating: 3 };
             $scope.currentUser = {
                 firstName: "",
@@ -25,6 +27,16 @@ mainApp
                 $scope.loggedUser = user;
             }
 
+            var loadSuggestions = function () {
+                $scope.loadSuggestions = true;
+                var products = $resource("/GroupBuyServer/api/users/products");
+                products.query({ id: $scope.currentUser.id }).$promise
+                    .then(function (result) {
+                        $scope.suggestionsProducts = result;
+                        $scope.loadSuggestions = false;
+                    });
+            };
+
             var loadReviews = function () {
                 reviewsApi.get({ id: $scope.currentUser.id }).$promise.then(function (result) {
                    return $scope.reviews = result;
@@ -36,11 +48,13 @@ mainApp
                 userApi.get({ id: $scope.id }).$promise.then(function(result) {
                     $scope.currentUser = result;
                     loadReviews();
+                    loadSuggestions();
                 });
 
             } else {
                 $scope.currentUser = $scope.loggedUser;
                 loadReviews();
+                loadSuggestions();
             }
 
            
@@ -111,6 +125,5 @@ mainApp
                         $scope.errorMessage = error.data.Message;
                     });
             };
-
         }
     ]);
