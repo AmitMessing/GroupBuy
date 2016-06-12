@@ -26,11 +26,10 @@ namespace GroupBuyServer.Controllers
 
         [HttpPost]
         [ActionName("register")]
-        public IHttpActionResult Save([FromBody]string image)
+        public IHttpActionResult Save(User user)
         {
             using (var session = NHibernateHandler.CurrSession)
             {
-                var user = new User();
                 using (var transaction = session.BeginTransaction())
                 {
                     // check if the user name allready exists

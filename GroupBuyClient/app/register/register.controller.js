@@ -2,7 +2,6 @@ mainApp
     .controller('registerController', [
         '$scope', '$stateParams', '$resource', '$state', 'userService', function ($scope, $stateParams, $resource,$state, userService) {
 
-            var register = $resource("/GroupBuyServer/api/register/register", {});
             var register = $resource("/GroupBuyServer/api/users/register");
             $scope.user = {
                 firstName: "",
@@ -19,20 +18,14 @@ mainApp
 
             function handleImage(e) {
                 var reader = new FileReader();
-                reader.onload = function (event) {
-                    var img = new Image();
-                    img.onload = function() {
-                        $scope.product.image = event.srcElement.result;
-                    }
+                reader.onload = function(event) {
+                    $scope.user.image = event.srcElement.result;
+                    $scope.uploadMessage = e.target.files[0].name;
+                    $scope.$apply();
                 }
                 reader.readAsDataURL(e.target.files[0]);
             }
             imageLoader.addEventListener('change', handleImage, false);
-           
-            imageLoader.onchange = function () {
-                $scope.user.image = this.value;
-                $scope.uploadMessage = this.value;
-            };
 
             var validateUser = function(user) {
                 if (user.firstName === "" || user.firstName === undefined) {
