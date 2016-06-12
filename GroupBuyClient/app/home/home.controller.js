@@ -15,8 +15,12 @@ mainApp
         $state.go('shell.product', { id: id });
     };
 
-    $scope.sort = function(content) {
+    $scope.sortContent = function(content) {
         return content.slice(0, 76) + '...';
+    };
+
+    $scope.sortTitle = function (title) {
+        return title.slice(0, 15) + '...';
     };
 
     var onload = function () {
