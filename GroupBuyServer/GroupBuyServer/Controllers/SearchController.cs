@@ -13,14 +13,23 @@ namespace GroupBuyServer.Controllers
     {
         [HttpPost]
         [ActionName("search")]
-        public IHttpActionResult Search(JObject p_objSearchText)
+        public IHttpActionResult Search(JObject p_objParams)
         {
-            List<ProductIndexData> lstSearchResults = null; 
-            string strSearchText = p_objSearchText.Value<string>("searchText");
-            if (!string.IsNullOrWhiteSpace(strSearchText)){
-                lstSearchResults = ElasticSearchHandler.Search(strSearchText);
+            List<ProductIndexData> lstSearchResults = null;
+            string strSearchText = p_objParams.Value<string>("searchText");
+            int intPagesNeeded = 1;
+            int intPage = 1;
+            JToken objToken = null;
+            if (p_objParams.TryGetValue("page", out objToken))
+            {
+                intPage = objToken.Value<int>();
             }
-            return Ok(lstSearchResults);
+            if (!string.IsNullOrWhiteSpace(strSearchText)){
+                
+                lstSearchResults = ElasticSearchHandler.Search(strSearchText, intPage, out intPagesNeeded);
+            }
+            var result = new { searchResult = lstSearchResults, pagesNeeded = intPagesNeeded};
+            return Ok(result);
         }
     }
 }

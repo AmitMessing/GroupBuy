@@ -15,7 +15,8 @@ namespace GroupBuyServer.Utils
     public static class ElasticSearchHandler
     {
         private const string INDEX_NAME = "group_buy";
-        private const string INDEX_TYPE = "products"; 
+        private const string INDEX_TYPE = "products";
+        private const int PAGE_SIZE = 10;
         private static string m_strElasticSearchConnectionString = null;
 
         static ElasticSearchHandler()
@@ -36,7 +37,7 @@ namespace GroupBuyServer.Utils
             }
         }
 
-        public static List<ProductIndexData> Search(string p_strSearchQuery)
+        public static List<ProductIndexData> Search(string p_strSearchQuery, int p_intPage, out int p_intPagesNeeded)
         {
             List<ProductIndexData> results = null;
 
@@ -80,10 +81,11 @@ namespace GroupBuyServer.Utils
                 //                              "}" +
                 //                            "}";
                 string strResponse =
-                    client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/" + INDEX_TYPE + "/_search?pretty", "POST", strSearchQuery);
+                    client.UploadString(m_strElasticSearchConnectionString + "/" + INDEX_NAME + "/" + INDEX_TYPE + "/_search?size=" + PAGE_SIZE + "&from=" + ((p_intPage - 1) * PAGE_SIZE), "POST", strSearchQuery);
                 JObject objResponse = JsonConvert.DeserializeObject<JObject>(strResponse);
                 JToken objHits = objResponse.GetValue("hits");
-                if (objHits.Value<int>("total") > 0)
+                int intTotal = objHits.Value<int>("total");
+                if (intTotal > 0)
                 {
                     results = new List<ProductIndexData>();
                     JArray objHitsResult = objHits.Value<JArray>("hits");
@@ -95,8 +97,9 @@ namespace GroupBuyServer.Utils
                         results.Add(currProductIndexData);
                     }
                 }
+                p_intPagesNeeded = (int)Math.Ceiling(((double)intTotal / PAGE_SIZE));
             }
-
+            
             return results;
         }
     }
