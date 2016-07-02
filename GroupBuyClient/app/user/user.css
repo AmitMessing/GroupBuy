@@ -6,6 +6,23 @@
     border-radius: 90px !important;
 }
 
+.user-rate-star {
+    color: #ffdd00;
+    text-shadow: 1.05px 0.5px #aaa;
+}
+
+.user-rate-num {
+    position: absolute;
+    top: 48px;
+    left: 136px;
+    color: #03a9f4;
+}
+
+.user-rate-reviews {
+    font-style: italic;
+    font-size: 12px;
+}
+
 .reviews-tabs {
     width: 100%;
     margin: 0 20px;
@@ -62,6 +79,7 @@
 
 .profile-card {
     height: 530px;
+    width: 315px;
     margin-left: 20px;
 }
 
@@ -82,5 +100,7 @@ md-tabs.md-default-theme md-ink-bar, md-tabs md-ink-bar {
     margin-bottom: 5px;
 }
 
-
-
+.change-password-dialog {
+    width: 400px;
+    height: 350px;
+}

@@ -7,36 +7,51 @@
                     <i ng-if="!currentUser.image" layout-align="center center" class="md-card-image material-icons default-image">person</i>
                 </div>
             </div>
-            <md-card-title layout-align="start start" layout="row">
-                <md-card-title-text layout-align="center center">
-                    <span class="md-headline" style="font-size: 40px;">{{currentUser.firstName}} {{currentUser.lastName}}</span>
-                    <span class="md-subhead">{{currentUser.userName}}</span>
-                </md-card-title-text>
+            <md-card-title layout-align="start start" layout="column">
+                <div layout="row">
+                    <md-card-title-text layout-align="center center">
+                        <span class="md-headline" style="font-size: 40px; margin-left: auto">{{currentUser.firstName}} {{currentUser.lastName}}</span>
+<!--                        <span class="md-subhead">{{currentUser.userName}}</span>-->
+                    </md-card-title-text>
+                </div>
+                <div layout="column" layout-align="center center" flex style="width: 100%; position: relative">
+                    <div>
+                        <i class="material-icons user-rate-star" style="font-size: 64px">star</i>
+                    </div>
+                    <span class="user-rate-num">{{userRate()}}</span>
+                    <span class="user-rate-reviews">({{reviews.buyerReviews.length + reviews.sellerReviews.length}} reviewers)</span>
+                </div>
             </md-card-title>
             <md-card-content>
-                <div class="md-subhead" layout="row" style="margin-bottom: 25px">
-                    <div layout="column" flex="30">
+                <div class="md-subhead" layout="row" style="margin-bottom: 10px">
+                    <div layout="column" flex="40">
                         <label class="bold-label">
                             Email
                         </label>
                     </div>
                     {{currentUser.email}}
                 </div>
-                <div class="md-subhead" layout="row" style="margin-bottom: 25px">
-                    <div layout="column" flex="30">
+                <div class="md-subhead" layout="row" style="margin-bottom: 10px">
+                    <div layout="column" flex="40">
                         <label class="bold-label">
                             Join Date
                         </label>
                     </div>
-                    {{currentUser.registerDate | date: 'medium'}}
+                    {{dateFormat(currentUser.registerDate)}}
                 </div>
-                <div ng-hide="currentUser != loggedUser" layout="row" class="md-subhead" style="margin-bottom: 25px">
-                    <div layout="column" flex="30">
+                <div ng-show="!isLoggedUser" style=" height: 44px"><span style="color: #fafafa">b</span></div>
+                <div ng-show="isLoggedUser" layout="row" class="md-subhead" style="margin-bottom: 10px">
+                    <div layout="column" flex="40">
                         <label class="bold-label">
                             Password
                         </label>
                     </div>
-                    {{currentUser.password}}
+                    <input readonly="true" flex="30" type="password" ng-value="currentUser.password" style="border: none; background: #fafafa;"></input>
+                    <md-button flex="30" style="width: 0; height: 0" class="md-icon-button" ng-click="changePassword()">
+                        <i class="material-icons" style="font-size: 20px">mode_edit</i>
+                        <md-tooltip>Change password</md-tooltip>
+                    </md-button>
+                    
                 </div>
             </md-card-content>
         </md-card>

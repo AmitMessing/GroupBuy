@@ -66,6 +66,29 @@ namespace GroupBuyServer.Controllers
             }
         }
 
+        [HttpPost]
+        [ActionName("changePassword")]
+        public IHttpActionResult ChangePassword(User user)
+        {
+            using (var session = NHibernateHandler.CurrSession)
+            {
+                using (var transaction = session.BeginTransaction())
+                {
+                    var userFromDb = session.Get<User>(user.Id);
+
+                    if (userFromDb == null)
+                    {
+                        return BadRequest("User Not Found");
+                    }
+
+                    userFromDb.Password = user.Password;
+                    session.Save(user);
+                    transaction.Commit();
+                    return Ok(userFromDb);
+                }
+            }
+        }
+
 
         [HttpGet]
         [ActionName("products")]
