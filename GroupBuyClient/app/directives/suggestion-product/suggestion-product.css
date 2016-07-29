@@ -2,7 +2,7 @@
     width: 100%;
 }
 .suggestions .suggestion-product {
-    height: 200px;
+    height: 220px;
     width: 200px;
     position: relative;
 }
@@ -23,6 +23,10 @@
 .suggestions .suggestion-product .product-name {
     font-size: 15px;
     color: black;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;  
 }
 
 .suggestions .suggestion-product .price-box-back {

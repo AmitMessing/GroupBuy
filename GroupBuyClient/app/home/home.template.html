@@ -6,8 +6,8 @@
         <md-card class="product-card" ng-repeat="product in products" ng-click="gotoProduct(product.id)">
             <md-card-content layout="column" layout-align="space-between">
                 <img src={{product.image}} style="width: 100%;" />
-                <span class="product-name">{{sortTitle(product.name)}}</span>
-                <p>{{sortContent(product.description)}}</p>
+                <span class="product-name">{{product.name}}</span>
+                <p class="product-description">{{product.description}}</p>
             </md-card-content>
             <div class="price-box-back">
                 empty

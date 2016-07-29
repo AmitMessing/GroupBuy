@@ -10,14 +10,6 @@ mainApp
             $scope.gotoProduct = function (id) {
                 $state.go('shell.product', { id: id });
             };
-
-            $scope.sortTitle = function (title) {
-                if (title) {
-                    return title.slice(0, 26) + ' ...';
-                };
-
-                return '';
-            };
         }
     };
 });

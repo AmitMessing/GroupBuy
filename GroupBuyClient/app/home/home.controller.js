@@ -15,14 +15,6 @@ mainApp
         $state.go('shell.product', { id: id });
     };
 
-    $scope.sortContent = function(content) {
-        return content.slice(0, 76) + '...';
-    };
-
-    $scope.sortTitle = function (title) {
-        return title.slice(0, 15) + '...';
-    };
-
     var onload = function () {
         $scope.loading = true;
             homeApi.get().$promise.then(function(result) {
