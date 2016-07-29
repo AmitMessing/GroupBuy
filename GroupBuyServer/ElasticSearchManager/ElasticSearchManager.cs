@@ -40,12 +40,44 @@ namespace ElasticSearchManager
                     {
                         analysis = new
                         {
+                            tokenizer = new {
+                                name_tokenizer = new {
+                                    type = "whitespace"
+                                },
+                            },
+                            filter = new {
+                                name_ngram_filter = new {
+                                    type = "edgeNGram",
+                                    min_gram = 2,
+                                    max_gram = 16
+                                }
+                            },
                             analyzer = new
                             {
-                                products_analyzer = new
-                                {
-                                    type = "snowball",
-                                    language = "English"
+                                name_default_analyzer = new {
+                                    type = "custom",
+                                    tokenizer = "name_tokenizer",
+                                    filter = new [] {"lowercase", "asciifolding"}
+                                },
+                                name_snowball_analyzer = new {
+                                    type = "custom",
+                                    tokenizer = "name_tokenizer",
+                                    filter = new [] {"lowercase", "asciifolding", "snowball"}
+                                },
+                                name_shingle_analyzer = new {
+                                    type = "custom",
+                                    tokenizer = "name_tokenizer",
+                                    filter = new [] {"shingle", "lowercase", "asciifolding"}
+                                },
+                                name_ngram_analyzer = new {
+                                    type = "custom",
+                                    tokenizer = "name_tokenizer",
+                                    filter = new [] {"lowercase", "asciifolding", "name_ngram_filter"}
+                                },
+                                name_search_analyzer = new {
+                                    type = "custom",
+                                    tokenizer = "name_tokenizer",
+                                    filter = new [] {"lowercase", "asciifolding"}
                                 }
                             }
                         }
@@ -66,15 +98,13 @@ namespace ElasticSearchManager
                                 },
                                 Name = new
                                 {
-                                    type = "string",
+                                    type = "multi_field",
                                     fields = new {
-                                        NameRaw = new
-                                        {
-                                            type = "string",
-                                            index = "not_analyzed"
-                                        }
-                                    },
-                                    analyzer = "products_analyzer"
+                                        Name = new { type = "string", analyzer = "name_default_analyzer", term_vector = "with_positions_offsets", store = true },
+                                        stemmed = new { type = "string", analyzer = "name_snowball_analyzer", term_vector = "with_positions_offsets" },
+                                        shingles = new { type = "string", analyzer = "name_shingle_analyzer", term_vector = "with_positions_offsets" },
+                                        ngrams = new { type = "string", analyzer = "name_ngram_analyzer", search_analyzer = "name_search_analyzer", term_vector = "with_positions_offsets" }
+                                    }
                                 },
                                 Image = new
                                 {

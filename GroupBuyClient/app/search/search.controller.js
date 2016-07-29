@@ -14,7 +14,7 @@ mainApp
         
 
         $scope.trustStringAsHtml = function (title) {
-            return $sce.trustAsHtml(title.replace("<em>","<strong>").replace("</em>","</strong>"));
+            return $sce.trustAsHtml(title);
         }
 
         $scope.gotoProduct = function (id) {

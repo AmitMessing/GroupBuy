@@ -47,16 +47,25 @@ namespace GroupBuyServer.Utils
                 {
                     query = new
                     {
-                        match = new
+                        multi_match = new
                         {
-                            Name = p_strSearchQuery
+                            query = p_strSearchQuery,
+                            fields = new[] { "Name^10", "Name.stemmed^2", "Name.shingles^2", "Name.ngrams" },
+                            @operator = "and"
                         }
                     },
                     highlight = new
                     {
+                        order = "score",
                         fields = new
                         {
-                            Name = new { }
+                            Name = new {
+                                matched_fields = new[] { "Name", "Name.stemmed", "Name.shingles", "Name.ngrams" },
+                                Name = new { 
+                                    pre_tags = new[] { "<strong>" }, 
+                                    post_tags = new[] { "</strong>" }
+                                }
+                            }
                         }
                     }
                 };
