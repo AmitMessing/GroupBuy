@@ -6,7 +6,9 @@ namespace SeedProject
 {
     public static class UsersHelper
     {
-        public static List<User> Users = new List<User>
+        public static List<User> Users = new List<User>();
+
+        public static List<User> BasicUsers = new List<User>
             {
                 new User
                 {
@@ -25,7 +27,7 @@ namespace SeedProject
                     LastName = "Messing",
                     UserName = "amitm",
                     Password = "Aa123456",
-                                        Email = "mymail@gmail.com",
+                    Email = "mymail@gmail.com",
                     Image = ImagesHelper.Users[1]
                 },
                 new User

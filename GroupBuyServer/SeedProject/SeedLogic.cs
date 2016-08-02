@@ -25,18 +25,22 @@ namespace SeedProject
         {
             var r = new Random(new Guid().GetHashCode());
             int success = 0;
-            foreach (var user in UsersHelper.Users)
+            for (int i = 0; i < 30; i++)
             {
                 using (var session = NHibernateHandler.CurrSession)
                 {
+                    foreach (var user in UsersHelper.BasicUsers)
+                    {
+                        User newUser = i == 0 ? user : new User(user, i);
+                        newUser.RegisterDate = RandomPastDate(r);
+                        UsersHelper.Users.Add(newUser);
+                        session.Save(newUser);
+                    }
+
                     try
                     {
-                        user.RegisterDate = RandomPastDate(r);
-                        session.Save(user);
-
-
                         session.Flush();
-                        success++;
+                        success = success + 15;
                     }
                     catch (Exception)
                     {
@@ -301,7 +305,7 @@ namespace SeedProject
                                 newProduct.Description = product["description"].Value<string>();
                             }
 
-                            var numOfByers = random.Next(0, UsersHelper.Users.Count - 1);
+                            var numOfByers = random.Next(0, 15);
                             for (var i = 0; i < numOfByers; i++)
                             {
                                 bool found = false;

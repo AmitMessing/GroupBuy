@@ -15,6 +15,23 @@ namespace SeedProject.Models
         public virtual string Image { get; set; }
         public virtual string Email { get; set; }
         public virtual DateTime RegisterDate { get; set; }
+
+        public User()
+        {
+            
+        }
+
+        public User(User user, int index)
+        {
+            Id = new Guid();
+            FirstName = user.FirstName + index;
+            LastName = user.LastName + index;
+            UserName = user.UserName + index;
+            Password = user.Password;
+            Image = user.Image;
+            string[] emailParts = user.Email.Split('@');
+            Email = emailParts[0] + index + '@' + emailParts[1];
+        }
     }
 
     public class UserMap : ClassMap<User>
