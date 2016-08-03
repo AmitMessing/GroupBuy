@@ -18,6 +18,7 @@ namespace GroupBuyServer.Controllers
         [ActionName("home")]
         public IHttpActionResult Get()
         {
+            RecommenderSystem.Init();
             IList<NewestProductViewModel> newestProducts = new List<NewestProductViewModel>();
             using (var session = NHibernateHandler.CurrSession)
             {

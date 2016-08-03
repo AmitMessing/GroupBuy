@@ -112,18 +112,11 @@ namespace GroupBuyServer.Controllers
             {
                 Product objProduct = session.QueryOver<Product>().Where(x => x.Id == id).SingleOrDefault();
 
-                //var r = from product in session.Query<Product>().Where(p => p.Buyers.Any<User>(b => objProduct.Buyers.Contains(b)))
-                //        from buyerid in product.Buyers.Select(b => b.Id)
-                //        group product by product.Id into g
-                //        let count = g.Count()
-                //        orderby count descending
-                //        select new { Product = g.Key, Count = count };
-                //var result = r.ToList<object>();
-
                 Dictionary<Product, int> dicProductsCount = new Dictionary<Product, int>();
                 foreach (User currBuyer in objProduct.Buyers)
                 {
-                    List<Product> currBuyerProducts = session.Query<Product>().Where(p => p.Buyers.Any<User>(b => b.Id == currBuyer.Id)).ToList();
+                    IQueryable<Product> currBuyerProducts = session.Query<Product>().Where(p => p.Buyers.Any<User>(b => b.Id == currBuyer.Id));
+
                     foreach (Product currProduct in currBuyerProducts)
                     {
                         if(!dicProductsCount.ContainsKey(currProduct))

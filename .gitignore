@@ -119,3 +119,6 @@ GroupBuyServer/ElasticSearchManager/obj/Debug/TemporaryGeneratedFile_5937a670-0e
 GroupBuyServer/ElasticSearchManager/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
 GroupBuyServer/GroupBuyServer/bin/GroupBuyServer.dll
 GroupBuyServer/SeedProject/SeedProject.csproj.user
+GroupBuyServer/ElasticSearchManager/bin/Debug/ElasticSearchManager.vshost.exe.manifest
+GroupBuyServer/ElasticSearchManager/bin/Debug/MathNet.Numerics.dll
+GroupBuyServer/ElasticSearchManager/bin/Debug/MathNet.Numerics.xml
