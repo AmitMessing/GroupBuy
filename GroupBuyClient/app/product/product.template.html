@@ -2,7 +2,7 @@
     <md-progress-circular md-mode="indeterminate" md-diameter="124"></md-progress-circular>
 </div>
 
-<div flex layout="column" class="product-page" layout-align="start center" ng-show="!loading" style="overflow: hidden"> 
+<div flex layout="column" class="product-page" layout-align="start center" ng-show="!loading" style="overflow: hidden">
     <div layout="row" layout-align="space-between" class="product-details">
         <!--        Left-->
         <div layout="column" flex="50">
@@ -93,12 +93,13 @@
             </div>
         </div>
     </div>
-    <div class="suggestions" layout="row" layout-align="start start">
+    <div class="suggestions" layout="row" layout-align="start start" ng-if="currentUser">
         <md-tabs md-dynamic-height style="width: 100%">
             <md-tab label="Buyers who brought this product also likes this:">
                 <md-progress-circular ng-show="loadSuggestions" md-mode="indeterminate"></md-progress-circular>
-                <md-content class="md-padding" ng-show="!loadSuggestions" layout="row" style="overflow-x: overlay; padding: 30px 10px;">
-                    <suggestion-product ng-repeat="suggested in suggestionsProducts" product="suggested"></suggestion-product>
+                <md-content class="md-padding" ng-show="!loadSuggestions" layout="row" style="padding: 30px 10px;">
+                    <suggestion-product ng-if="suggestionsProducts.length > 0" ng-repeat="suggested in suggestionsProducts" product="suggested"></suggestion-product>
+                    <label ng-if="suggestionsProducts.length == 0">No recommandation for this item</label>
                 </md-content>
             </md-tab>
         </md-tabs>

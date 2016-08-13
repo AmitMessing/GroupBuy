@@ -105,7 +105,7 @@ namespace GroupBuyServer.Controllers
         
         [HttpGet]
         [ActionName("suggestions")]
-        public IHttpActionResult Suggestions(Guid id)
+        public IHttpActionResult Suggestions(Guid id, Guid userId)
         {
             List<NewestProductViewModel> lstSuggestions = new List<NewestProductViewModel>();
             using (var session = NHibernateHandler.CurrSession)
@@ -113,7 +113,9 @@ namespace GroupBuyServer.Controllers
                 Product objProduct = session.QueryOver<Product>().Where(x => x.Id == id).SingleOrDefault();
 
                 Dictionary<Product, int> dicProductsCount = new Dictionary<Product, int>();
-                foreach (User currBuyer in objProduct.Buyers)
+                List<User> lstSimilarBuyers = RecommenderSystem.GetUserIdsInNeighborhood(userId, objProduct.Buyers);
+
+                foreach (User currBuyer in lstSimilarBuyers)
                 {
                     IQueryable<Product> currBuyerProducts = session.Query<Product>().Where(p => p.Buyers.Any<User>(b => b.Id == currBuyer.Id));
 

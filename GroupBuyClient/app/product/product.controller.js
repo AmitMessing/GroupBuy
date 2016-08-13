@@ -137,7 +137,7 @@ mainApp
         var loadSuggestions = function() {
             $scope.loadSuggestions = true;
             var products = $resource("/GroupBuyServer/api/products/suggestions");
-            products.query({ id: $scope.product.id }).$promise
+            products.query({ id: $scope.product.id, userId: $scope.currentUser.id }).$promise
                 .then(function(response) {
                     $scope.suggestionsProducts = response;
                     $scope.loadSuggestions = false;
@@ -152,7 +152,11 @@ mainApp
                     .then(function(product) {
                         if (product) {
                             $scope.product = product;
-                            loadSuggestions();
+
+                            if ($scope.currentUser) {
+                                loadSuggestions();
+                            }
+
                             loadReviews();
                             calcProduct($scope.product.discounts);
                             sortDiscountAascending();

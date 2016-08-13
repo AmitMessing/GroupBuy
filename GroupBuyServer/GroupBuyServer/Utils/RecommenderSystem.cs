@@ -15,7 +15,7 @@ namespace GroupBuyServer.Utils
     public class RecommenderSystem
     {
         private static Dictionary<Guid, Dictionary<Guid, int>> m_matCustomerProduct = null;
-        private static Dictionary<Guid, Dictionary<Guid, double>> m_matSimilarityMatrix = null;
+        private static Dictionary<Guid, List<Guid>> m_matCustomerNeighborhood = null;
         private static User[] m_userList = null;
 
         public static void Init()
@@ -71,27 +71,20 @@ namespace GroupBuyServer.Utils
 
         private static void CreateSimilarityMatrix(Matrix<double> p_svdMatrix)
         {
-            //double[,] matSimilarityMatrix = new double [p_svdMatrix.RowCount,p_svdMatrix.RowCount];
-            m_matSimilarityMatrix = new Dictionary<Guid, Dictionary<Guid, double>>();
+            m_matCustomerNeighborhood = new Dictionary<Guid, List<Guid>>();
 
             for (int i = 0; i < p_svdMatrix.RowCount; i++)
 			{
                 Dictionary<Guid, double> currUserSimilarity = new Dictionary<Guid, double>();
 			    for (int j = 0; j < p_svdMatrix.RowCount; j++)
 			    {
-                    if (i == j)
-                    {
-                        currUserSimilarity.Add(m_userList[j].Id, -1);
-                    }
-                    else
+                    if (i != j)
                     {
                         currUserSimilarity.Add(m_userList[j].Id, CalcCorrelation(p_svdMatrix.Row(i), p_svdMatrix.Row(j)));
-                        //matSimilarityMatrix[i, j] = CalcCorrelation(p_svdMatrix.Row(i), p_svdMatrix.Row(j));
                     }
 			    }
-                m_matSimilarityMatrix.Add(m_userList[i].Id,currUserSimilarity);
+                m_matCustomerNeighborhood.Add(m_userList[i].Id, currUserSimilarity.OrderByDescending(x => x.Value).Take(20).Select(x => x.Key).ToList());
 			}
-            //return matSimilarityMatrix;
         }
 
         private static double CalcCorrelation(IEnumerable<double> p_arrPurchasedProductsA, IEnumerable<double> p_arrPurchasedProductsB)
@@ -99,50 +92,14 @@ namespace GroupBuyServer.Utils
             return Correlation.Pearson(p_arrPurchasedProductsA, p_arrPurchasedProductsB);
         }
 
-        //public static double[][] getTruncatedSVD(Dictionary<Guid, Dictionary<Guid, int>> p_matCustomerProduct, int k) {
-        //    double[,] matUserPurchasedProducts = new double[p_matCustomerProduct.Count, p_matCustomerProduct.First().Value.Count];
-        //    int i = 0;
-        //    int j;
-        //    foreach (Dictionary<Guid, int> currUserPurchasedProducts in p_matCustomerProduct.Values)
-        //    {
-        //        j = 0;
-        //        foreach (int currPurchasedProduct in currUserPurchasedProducts.Values)
-        //        {
-        //            matUserPurchasedProducts[i, j] = currPurchasedProduct;
-        //            j++;
-        //        }
-        //        i++;
-        //    }
-
-        //    DenseMatrix m = DenseMatrix.OfArray(matUserPurchasedProducts);
-
-        //    Svd<double> svd = m.Svd(true);
-
-        //    double[,] truncatedU = new double[svd.U.RowCount,k];
-        //    svd.U.copySubMatrix(0, truncatedU.Length - 1, 0, k - 1, truncatedU);
-        //    Matrix<double> a;
-        //    svd.U.CopyTo(a);
-        //    a.Multiply
-        //    double[][] truncatedS = new double[k][k];
-        //    svd.getS().copySubMatrix(0, k - 1, 0, k - 1, truncatedS);
-
-        //    double[][] truncatedVT = new double[k][svd.getVT().getColumnDimension()];
-        //    svd.getVT().copySubMatrix(0, k - 1, 0, truncatedVT[0].length - 1, truncatedVT);
-
-        //    RealMatrix approximatedSvdMatrix = (new Array2DRowRealMatrix(truncatedU)).multiply(new Array2DRowRealMatrix(truncatedS)).multiply(new Array2DRowRealMatrix(truncatedVT));
-
-        //    return approximatedSvdMatrix.getData();
-        //}
-
-        //private void copySubMatrix(int startRow, int endRow, int startColumn, int endColumn, double[,] destination)
-        //{
-        //    for (int i = startRow; i <= endRow; i++)
-        //    {
-        //        for (int j = startColumn; j <= endColumn; j++)
-        //        {
-        //            destination[i-startRow,j-startColumn] = 
-        //        }
-        //    }
-        //}
+        public static List<User> GetUserIdsInNeighborhood(Guid p_userId,IList<User> p_users){
+            List<User> result = new List<User>();
+            foreach (User currUser in p_users){
+                if(m_matCustomerNeighborhood[p_userId].Contains(currUser.Id)){
+                    result.Add(currUser);
+                }
+            }
+            return result;
+        }
     }
 }
